@@ -1,0 +1,403 @@
+/* Skin for the NTE wiki: a pixel terminal in the game's colours, cyan #39d5fc and
+   pink #fb5692 (both from the official site's stylesheet).
+   Rule: every mark, prefix and cursor here is drawn with CSS and is never
+   written into the page text, so the text an agent extracts from a page stays clean.
+   All motion sits inside `prefers-reduced-motion: no-preference`. */
+
+/* Fusion Pixel 12px (SIL OFL 1.1), cut down to the characters this site uses by
+   scripts/subset-font.mjs. It is crisp at multiples of 12px: 12, 24 and 36. */
+@font-face {
+	font-family: 'Fusion Pixel 12';
+	src: url('/fonts/pixel.woff2') format('woff2');
+	font-display: swap;
+}
+
+:root,
+::backdrop {
+	--nte-cyan: #39d5fc;
+	--nte-pink: #fb5692;
+	--nte-pink-text: #ff7fae;
+	--nte-card: #151b20;
+	--nte-line: #2f3b43;
+	--nte-dot: rgb(57 213 252 / 0.5);
+	--nte-row: rgb(57 213 252 / 0.08);
+	--nte-ink: #0b1014;
+	--nte-pixel: 'Fusion Pixel 12', ui-monospace, 'Cascadia Mono', Consolas, 'Noto Sans TC', 'Microsoft JhengHei', monospace;
+
+	--sl-color-accent-low: #0a3340;
+	--sl-color-accent: #14a9d1;
+	--sl-color-accent-high: #8be6fd;
+	--sl-color-white: #ffffff;
+	--sl-color-gray-1: #eaf4f8;
+	--sl-color-gray-2: #c2ced4;
+	--sl-color-gray-3: #93a1a8;
+	--sl-color-gray-4: #556168;
+	--sl-color-gray-5: #2f3b43;
+	--sl-color-gray-6: #171d22;
+	--sl-color-black: #0e1317;
+
+	--sl-color-bg-nav: #0b1014;
+	--sl-color-bg-sidebar: #0b1014;
+
+	--sl-font: 'Inter', 'Segoe UI', 'Noto Sans TC', 'PingFang TC', 'Microsoft JhengHei', system-ui, sans-serif;
+	--sl-content-width: 50rem;
+	--sl-text-h1: 24px;
+	--sl-text-h2: 24px;
+}
+
+:root[data-theme='light'],
+[data-theme='light'] ::backdrop {
+	--nte-pink-text: #cf2468;
+	--nte-card: #ffffff;
+	--nte-line: #bfd3dc;
+	--nte-dot: rgb(20 169 209 / 0.45);
+	--nte-row: rgb(57 213 252 / 0.14);
+
+	--sl-color-accent-low: #cff3fd;
+	--sl-color-accent: #007797;
+	--sl-color-accent-high: #053d4d;
+	--sl-color-white: #0e1317;
+	--sl-color-gray-1: #20272c;
+	--sl-color-gray-2: #333d44;
+	--sl-color-gray-3: #556168;
+	--sl-color-gray-4: #7b8990;
+	--sl-color-gray-5: #bfd3dc;
+	--sl-color-gray-6: #e3eff4;
+	--sl-color-gray-7: #f1f8fa;
+	--sl-color-black: #fbfdfe;
+
+	--sl-color-bg-nav: #f1f8fa;
+	--sl-color-bg-sidebar: #f1f8fa;
+}
+
+@media (min-width: 50em) {
+	:root {
+		--sl-text-h1: 36px;
+	}
+}
+
+/* Square corners: nothing on a pixel screen is round. */
+*,
+*::before,
+*::after {
+	border-radius: 0 !important;
+}
+::selection {
+	background: var(--nte-pink);
+	color: #fff;
+}
+
+/* The page sits on a faint pixel grid. */
+body {
+	background-image: radial-gradient(circle, var(--nte-line) 1px, transparent 1.2px);
+	background-size: 24px 24px;
+	background-attachment: fixed;
+}
+
+/* Wide windows: the table of contents keeps the width of the left sidebar and the text
+   column sits in the middle of the space between the two. Starlight's default gives the
+   table of contents all the spare width and pushes the text column against it. */
+@media (min-width: 72rem) {
+	.right-sidebar-container {
+		width: var(--sl-sidebar-width);
+	}
+	[data-has-sidebar][data-has-toc] .main-pane {
+		--sl-content-margin-inline: auto;
+		width: calc(100% - var(--sl-sidebar-width));
+	}
+}
+@media (min-width: 110rem) {
+	:root {
+		--sl-content-width: 60rem;
+	}
+}
+
+/* Header. */
+header.header {
+	border-bottom: 1px solid var(--nte-line);
+}
+header.header :is(button, a, select, span) {
+	font-family: var(--nte-pixel);
+}
+theme-buttons button {
+	font-family: var(--nte-pixel);
+	font-size: 12px;
+	line-height: 24px;
+}
+site-search button[data-open-modal] {
+	font-size: 12px;
+	border: 1px solid var(--nte-line);
+}
+
+/* Page title: a prompt before it and a block cursor after it. */
+.content-panel h1#_top {
+	display: inline-block;
+	font-family: var(--nte-pixel);
+	font-weight: 400;
+	line-height: 1.25;
+	letter-spacing: 0;
+}
+.content-panel h1#_top::before {
+	content: '> ';
+	color: var(--nte-pink);
+}
+.content-panel h1#_top::after {
+	content: '';
+	display: inline-block;
+	width: 0.5em;
+	height: 0.92em;
+	margin-inline-start: 0.2em;
+	background: var(--nte-cyan);
+	vertical-align: -0.08em;
+}
+.content-panel + .content-panel {
+	border-top: 2px dashed var(--nte-line);
+}
+
+/* The one-sentence answer under the title. */
+.sl-markdown-content .answer {
+	border-inline-start: 6px solid var(--nte-cyan);
+	box-shadow: -3px 0 0 var(--nte-pink);
+	margin-inline-start: 3px;
+}
+
+/* Section headings: a two-digit counter in an inverse block, like a line number. */
+.sl-markdown-content {
+	counter-reset: section;
+}
+.sl-markdown-content .sl-heading-wrapper.level-h2 {
+	margin-top: 3rem;
+	padding-top: 1.5rem;
+	border-top: 2px dashed var(--nte-line);
+}
+.sl-markdown-content h2 {
+	counter-increment: section;
+	font-family: var(--nte-pixel);
+	font-weight: 400;
+	line-height: 1.3;
+}
+.sl-markdown-content h2::before {
+	content: counter(section, decimal-leading-zero);
+	display: inline-block;
+	margin-inline-end: 12px;
+	padding: 0 6px;
+	background: var(--nte-pink);
+	color: #fff;
+	font-size: 12px;
+	line-height: 24px;
+	vertical-align: 3px;
+	box-shadow: 3px 3px 0 var(--nte-cyan);
+}
+.sl-markdown-content h3 {
+	padding-inline-start: 0.7rem;
+	border-inline-start: 6px solid var(--nte-pink);
+	font-weight: 700;
+}
+
+/* Tables: column heads in pixel type on a tinted row. */
+.sl-markdown-content table:not(:where(.not-content *)) {
+	display: table;
+	width: 100%;
+	border-top: 3px solid var(--nte-cyan);
+	border-collapse: collapse;
+	background: var(--nte-card);
+	font-size: var(--sl-text-sm);
+}
+.sl-markdown-content :is(th, td):not(:where(.not-content *)) {
+	padding: 0.5rem 0.75rem;
+	border-bottom: 1px dashed var(--nte-line);
+	vertical-align: top;
+}
+.sl-markdown-content th:not(:where(.not-content *)) {
+	background: var(--nte-row);
+	color: var(--sl-color-text-accent);
+	font-family: var(--nte-pixel);
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 24px;
+	text-align: start;
+	white-space: nowrap;
+}
+.sl-markdown-content tr:nth-child(2n):not(:where(.not-content *)) {
+	background: transparent;
+}
+.sl-markdown-content tbody tr:hover td {
+	background: var(--nte-row);
+}
+.sl-markdown-content td:first-child:not(:where(.not-content *)) {
+	color: var(--sl-color-white);
+	font-weight: 600;
+	box-shadow: inset 3px 0 0 transparent;
+}
+.sl-markdown-content tbody tr:hover td:first-child {
+	box-shadow: inset 3px 0 0 var(--nte-pink);
+}
+@media (max-width: 50rem) {
+	.sl-markdown-content table:not(:where(.not-content *)) {
+		display: block;
+		overflow-x: auto;
+	}
+}
+
+/* Links: selected like a row in a terminal menu on hover. */
+.sl-markdown-content a:not(:where(.not-content *)) {
+	color: var(--sl-color-text-accent);
+	text-decoration: underline dotted var(--nte-cyan);
+	text-underline-offset: 0.25em;
+}
+.sl-markdown-content a:hover:not(:where(.not-content *)) {
+	background: var(--nte-cyan);
+	color: var(--nte-ink);
+	text-decoration: none;
+}
+.sl-markdown-content blockquote:not(:where(.not-content *)) {
+	border-inline-start: 6px solid var(--nte-pink);
+	color: var(--sl-color-gray-2);
+}
+.sl-markdown-content :not(pre) > code {
+	border: 1px solid var(--nte-line);
+	background: var(--nte-card);
+}
+.sl-markdown-content li::marker {
+	color: var(--nte-pink);
+}
+
+/* Official art is shown as it is, in a frame with an offset shadow: no overlay and no
+   motion. A character portrait sits to the right of the first section, with
+   that section's table beside it; the key visual on the home page spans the column. */
+.sl-markdown-content p:has(> img:only-child) {
+	width: fit-content;
+	max-width: 100%;
+	border: 1px solid var(--nte-line);
+	background: var(--nte-card);
+	box-shadow: 6px 6px 0 var(--nte-cyan);
+	line-height: 0;
+}
+.sl-markdown-content p:has(> img:only-child) > img {
+	display: block;
+}
+.sl-markdown-content {
+	--portrait: min(40%, 18rem);
+}
+.sl-markdown-content p:has(> img[src*='/art/characters/']) {
+	float: inline-end;
+	width: var(--portrait);
+	margin: 0.4rem 6px 1.25rem 1.75rem;
+	box-shadow: 6px 6px 0 var(--nte-pink);
+}
+.sl-markdown-content .answer + p:has(> img[src*='/art/characters/']) + .sl-heading-wrapper {
+	margin-top: 1.5rem;
+	padding-top: 0;
+	border-top: 0;
+}
+/* A full-width table would drop below the float, so the first one gets the width left over. */
+.sl-markdown-content p:has(> img[src*='/art/characters/']) + .sl-heading-wrapper + table:not(:where(.not-content *)) {
+	width: calc(100% - var(--portrait) - 1.75rem - 8px);
+}
+.sl-markdown-content p:has(> img[src*='/art/characters/']) ~ .sl-heading-wrapper ~ .sl-heading-wrapper {
+	clear: both;
+}
+@media (max-width: 50rem) {
+	.sl-markdown-content p:has(> img[src*='/art/characters/']) {
+		float: none;
+		width: min(100%, 18rem);
+		margin: 0 auto 1.5rem;
+	}
+	.sl-markdown-content p:has(> img[src*='/art/characters/']) + .sl-heading-wrapper + table:not(:where(.not-content *)) {
+		width: 100%;
+	}
+}
+
+/* Sidebar: group names in pixel type; the current page is the selected row. */
+.sidebar-content .large,
+.sidebar-content summary .large {
+	font-family: var(--nte-pixel);
+	font-size: 12px;
+	font-weight: 400;
+	letter-spacing: 0.08em;
+	color: var(--nte-pink-text);
+}
+.sidebar-content a {
+	font-size: var(--sl-text-sm);
+}
+.sidebar-content a[aria-current='page'],
+.sidebar-content a[aria-current='page']:hover,
+.sidebar-content a[aria-current='page']:focus {
+	background: var(--nte-cyan);
+	color: var(--nte-ink);
+	font-weight: 700;
+	box-shadow: 3px 3px 0 var(--nte-pink);
+}
+.sidebar-content a[aria-current='page']::before {
+	content: '> ';
+	font-family: var(--nte-pixel);
+}
+
+/* Table of contents and the links to the previous and next page. */
+starlight-toc h2,
+mobile-starlight-toc .toggle {
+	font-family: var(--nte-pixel);
+	font-weight: 400;
+}
+starlight-toc a[aria-current='true'] {
+	color: var(--nte-pink-text);
+}
+.pagination-links a {
+	border: 1px solid var(--nte-line);
+	background: var(--nte-card);
+	box-shadow: 4px 4px 0 var(--nte-line);
+}
+.pagination-links a:hover {
+	border-color: var(--nte-cyan);
+	box-shadow: 4px 4px 0 var(--nte-pink);
+}
+.pagination-links .link-title {
+	font-family: var(--nte-pixel);
+	font-size: 24px;
+	line-height: 1.3;
+}
+
+/* Motion: the title is typed once, the first blocks print in once, and the cursors blink.
+   Nothing else moves. */
+@keyframes nte-blink {
+	50% {
+		opacity: 0;
+	}
+}
+@keyframes nte-type {
+	from {
+		clip-path: inset(0 100% 0 0);
+	}
+	to {
+		clip-path: inset(0 -1em 0 0);
+	}
+}
+@keyframes nte-print {
+	from {
+		opacity: 0;
+		transform: translateY(6px);
+	}
+}
+@media (prefers-reduced-motion: no-preference) {
+	.content-panel h1#_top {
+		animation: nte-type 0.55s steps(14) both;
+	}
+	.content-panel h1#_top::after {
+		animation: nte-blink 1s steps(1) infinite;
+	}
+	/* The first blocks of a page appear one after another, like lines printed to a screen. */
+	.sl-markdown-content > :nth-child(-n + 9) {
+		animation: nte-print 0.24s steps(3) both;
+	}
+	.sl-markdown-content > :nth-child(2) { animation-delay: 0.3s; }
+	.sl-markdown-content > :nth-child(3) { animation-delay: 0.38s; }
+	.sl-markdown-content > :nth-child(4) { animation-delay: 0.46s; }
+	.sl-markdown-content > :nth-child(5) { animation-delay: 0.54s; }
+	.sl-markdown-content > :nth-child(6) { animation-delay: 0.62s; }
+	.sl-markdown-content > :nth-child(7) { animation-delay: 0.7s; }
+	.sl-markdown-content > :nth-child(8) { animation-delay: 0.78s; }
+	.sl-markdown-content > :nth-child(9) { animation-delay: 0.86s; }
+	.sidebar-content a[aria-current='page']::before {
+		animation: nte-blink 1s steps(1) infinite;
+	}
+}

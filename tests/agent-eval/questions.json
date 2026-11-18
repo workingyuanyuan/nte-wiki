@@ -1,0 +1,76 @@
+{
+  "about": "Pilot questions for the agent test. Each was written from the official notices (and, for q09, from the guide sites), not from this site. An answer passes only if it gives the expected answer AND the qualifier, and cites a page that supports them. The questions assume today is 2026-11-18.",
+  "budget": "At most 3 fetches per question, starting from the start URL.",
+  "questions": [
+    {
+      "id": "q01",
+      "question": "Until exactly when can I roll for Elyms in NTE, and which A-Class characters are on her Board?",
+      "answer": "Her \"Android Dreams\" Limited Board is open until 2026-12-02 05:59 (UTC+8). The A-Class characters are Mint, Edgar and Adler.",
+      "qualifier": "The Board ends on 2026-12-02 at 05:59 UTC+8, not with the version's events on 2026-12-23.",
+      "page": "characters/elyms"
+    },
+    {
+      "id": "q02",
+      "question": "Which Arc Research Program gives the Arc \"Blushing Mirage\", what does it cost to take part, and can I still get it today (2026-11-18)?",
+      "answer": "The \"Resolve Special\" Arc Research Program, with Tri-Keys or Resolve Keys. Yes: it is being rerun in Version 1.5.",
+      "qualifier": "The rerun ends on 2026-12-02 at 05:59 (UTC+8); the Arc is available only through this program.",
+      "page": "versions/1-5"
+    },
+    {
+      "id": "q03",
+      "question": "What was the name of Chaos's Limited Board in NTE and how long did it run?",
+      "answer": "\"Forsaken Path\", from 2026-06-24 (after maintenance) to 2026-07-08 05:59 (UTC+8).",
+      "qualifier": "Two weeks, shorter than the usual three; it has not been rerun as of Version 1.5.",
+      "page": "characters/chaos"
+    },
+    {
+      "id": "q04",
+      "question": "In Version 1.3 I rolled 100 times on Zankou's Board. Did those rolls count toward the roll rewards of Nanally's Board that ran at the same time?",
+      "answer": "No. Roll counts are tracked per Board: rolls on \"Alluring Shadows\" count toward Alluring Perks only, and \"The Ichi-daime\" counts toward Tiger Perks.",
+      "qualifier": "Progress carries over between Boards with the same name (a rerun keeps the count); rewards are at 50, 120 and 200 rolls.",
+      "page": "systems/boards"
+    },
+    {
+      "id": "q05",
+      "question": "When did NTE launch and on which platforms? If I start on the Asia server, can I continue the same progress on the America server?",
+      "answer": "2026-04-29 at 11:00 (UTC+8), on Windows PC, iOS, Android, Mac, Google Play PC and PlayStation 5 / PS5 Pro. No: progress is not shared between servers.",
+      "qualifier": "The four servers (Asia, America, Europe, SEA) are independent; progress is shared across platforms only on the same server and account.",
+      "page": "systems/platforms"
+    },
+    {
+      "id": "q06",
+      "question": "Which characters can be picked from the S-Class Standard Character Selection Box in NTE, and who received that box for free in Version 1.2?",
+      "answer": "Sakiri, Baicang, Hathor, Fadia, Daffodill (Daffodil) or Jiuyuan. It was sent by mail to players who created a character before Version 1.2 ended.",
+      "qualifier": "The deadline was the end of Version 1.2, 2026-08-19 05:59 (UTC+8).",
+      "page": "versions/1-2"
+    },
+    {
+      "id": "q07",
+      "question": "What are the Traditional Chinese (Taiwan) names of the NTE character Hotori and of her Limited Board \"Misty Tipsy Style\"?",
+      "answer": "Hotori is 潯 and the Board is 獨酌朧月流.",
+      "qualifier": "The answer must be in Traditional characters (潯, 獨酌朧月流), not the Simplified 浔 and 独酌胧月流.",
+      "page": "names"
+    },
+    {
+      "id": "q08",
+      "question": "What is Akane Rin's limited Arc called, and how much does her outfit \"Full Metal Rock\" cost today (2026-11-18)?",
+      "answer": "The Arc is \"Far Side of the Moon\" (\"Celestial Special\" Arc Research Program). \"Full Metal Rock\" costs Riftcrystal ×3,280 in the shop.",
+      "qualifier": "The discount to ×2,680 ended on 2026-11-11 at 05:59 (UTC+8); the outfit went on sale on 2026-10-28, a week after her Board opened.",
+      "page": "versions/1-4"
+    },
+    {
+      "id": "q09",
+      "question": "What attribute and Arc type does Linko have in NTE, what is her Ultimate called, and can I obtain her today (2026-11-18)?",
+      "answer": "Anima attribute, Plasma Arc type. Her Ultimate is \"Oversync\".",
+      "qualifier": "No: she is a limited S-Class character and her Board \"Surfing All Channels!\" closed on 2026-09-30 at 05:59 (UTC+8).",
+      "page": "characters/linko"
+    },
+    {
+      "id": "q10",
+      "question": "Is \"Fighting with a Dragon\" part of NTE's main story, and what did it take to unlock when it was released?",
+      "answer": "It was released in Version 1.2 as a main story episode, unlocked by completing \"Dreamwalk Corridor\" and reaching Hunter Lvl 26.",
+      "qualifier": "Version 1.4 moved it to Spinoffs; the notes also say it is told out of chronological order.",
+      "page": "versions/1-2"
+    }
+  ]
+}

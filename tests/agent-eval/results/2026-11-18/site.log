@@ -1,0 +1,12 @@
+{"q":"q01","url":"http://127.0.0.1:4400/nte-wiki/","start":0,"status":200,"type":"text/html; charset=utf-8","total":5540}
+{"q":"q01","url":"http://127.0.0.1:4400/nte-wiki/systems/boards/","start":0,"status":200,"type":"text/html; charset=utf-8","total":7524}
+{"q":"q02","url":"http://127.0.0.1:4400/nte-wiki/systems/boards/","start":5000,"status":200,"type":"text/html; charset=utf-8","total":7524}
+{"q":"q05","url":"http://127.0.0.1:4400/nte-wiki/systems/platforms/","start":0,"status":200,"type":"text/html; charset=utf-8","total":4233}
+{"q":"q02","url":"http://127.0.0.1:4400/nte-wiki/characters/shinku/","start":0,"status":200,"type":"text/html; charset=utf-8","total":5264}
+{"q":"q06","url":"http://127.0.0.1:4400/nte-wiki/versions/1-2/","start":0,"status":200,"type":"text/html; charset=utf-8","total":7655}
+{"q":"q07","url":"http://127.0.0.1:4400/nte-wiki/names/","start":0,"status":200,"type":"text/html; charset=utf-8","total":7664}
+{"q":"q08","url":"http://127.0.0.1:4400/nte-wiki/characters/akane-rin/","start":0,"status":200,"type":"text/html; charset=utf-8","total":5266}
+{"q":"q09","url":"http://127.0.0.1:4400/nte-wiki/characters/linko/","start":0,"status":200,"type":"text/html; charset=utf-8","total":5098}
+{"q":"q02","url":"http://127.0.0.1:4400/nte-wiki/versions/1-5/","start":0,"status":200,"type":"text/html; charset=utf-8","total":6087}
+{"q":"q01","url":"http://127.0.0.1:4400/nte-wiki/characters/elyms/","start":0,"status":200,"type":"text/html; charset=utf-8","total":5677}
+{"q":"q10","url":"http://127.0.0.1:4400/nte-wiki/versions/1-4/","start":0,"status":200,"type":"text/html; charset=utf-8","total":8831}
