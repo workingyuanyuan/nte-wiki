@@ -14,33 +14,34 @@ export default defineConfig({
 	markdown: { processor: satteri({ hastPlugins: [hastBase] }) },
 	integrations: [
 		starlight({
-			title: { en: TITLE.en, 'zh-TW': TITLE['zh-TW'] },
+			title: TITLE,
 			description: DESCRIPTION,
 			defaultLocale: 'root',
 			locales: {
 				root: { label: 'English', lang: 'en' },
 				'zh-tw': { label: '繁體中文', lang: 'zh-TW' },
+				'zh-cn': { label: '简体中文', lang: 'zh-CN' },
 			},
 			sidebar: [
 				{
 					label: 'Versions',
-					translations: { 'zh-TW': '版本' },
+					translations: { 'zh-TW': '版本', 'zh-CN': '版本' },
 					items: [{ autogenerate: { directory: 'versions' } }],
 				},
 				{
 					label: 'Characters',
-					translations: { 'zh-TW': '角色' },
+					translations: { 'zh-TW': '角色', 'zh-CN': '角色' },
 					items: [{ autogenerate: { directory: 'characters' } }],
 				},
 				{
 					label: 'Systems and names',
-					translations: { 'zh-TW': '系統與名稱' },
+					translations: { 'zh-TW': '系統與名稱', 'zh-CN': '系统与名称' },
 					items: [{ slug: 'systems/boards' }, { slug: 'systems/platforms' }, { slug: 'names' }],
 				},
 			],
 			customCss: ['./src/styles/nte.css'],
 			components: {
-				// Only two overrides: the site name with its links, and the answer above the body and the page notes after it.
+				// Three overrides: the site name with its links, the answer above the body with the page notes after it, and the theme buttons.
 				SiteTitle: './src/components/SiteTitle.astro',
 				MarkdownContent: './src/components/MarkdownContent.astro',
 				ThemeSelect: './src/components/ThemeSelect.astro',

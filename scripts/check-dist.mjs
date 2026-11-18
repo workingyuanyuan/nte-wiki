@@ -9,7 +9,7 @@
 //  4. Equivalence: headings and code blocks extracted from the HTML match the twin.
 //  5. No decoration leak: marks the skin draws with CSS must not appear in the
 //     text extracted from the HTML.
-//  6. Language parity: both languages have the same pages, dates, sources and code.
+//  6. Language parity: every language has the same pages, dates, sources and code.
 //  7. Bundles: each language's llms-full.txt and llms-small.txt carry every page's
 //     answer and caveat; a hidden pointer to the Markdown twin survives extraction.
 //  8. llms.txt: notes, bundles and other languages within the first 5,000 characters.

@@ -19,7 +19,7 @@ const links = [
 	<span class="name">{siteTitle}</span>
 	<span class="unofficial">{t.unofficial}</span>
 </a>
-<nav class="outputs" aria-label={locale.lang === 'zh-TW' ? '本頁的其他格式' : 'Other formats of this page'}>
+<nav class="outputs" aria-label={t.formats}>
 	{links.map((link) => <a href={link.href} data-key={link.key} aria-keyshortcuts={link.key.toLowerCase()}>{link.label}</a>)}
 </nav>
 

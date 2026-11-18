@@ -38,8 +38,11 @@ for (const input of INPUTS) {
 		for (const ch of await readFile(file, 'utf8')) if (ch > ' ') chars.add(ch);
 	}
 }
-// Starlight's Traditional Chinese interface text (search, table of contents, pagination).
-for (const ch of '搜尋本頁內容上一頁下一頁概述選擇主題語言深色淺色自動選單跳到內容取消清除目錄') chars.add(ch);
+// Starlight's own Chinese interface text (search, table of contents, theme and language labels).
+for (const lang of ['zh-TW', 'zh-CN']) {
+	const file = join(root, `node_modules/@astrojs/starlight/dist/translations/${lang}.js`);
+	for (const ch of await readFile(file, 'utf8')) if (ch > '~') chars.add(ch);
+}
 
 const subset = await subsetFont(await readFile(SOURCE), [...chars].join(''), { targetFormat: 'woff2' });
 await mkdir(join(root, 'public/fonts'), { recursive: true });

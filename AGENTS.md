@@ -4,6 +4,7 @@ This site is an unofficial wiki for the game Neverness to Everness (NTE, 異環)
 
 ## Decisions by the owner
 
+- Languages: English, Traditional Chinese (`/zh-tw/`) and Simplified Chinese (`/zh-cn/`, added by the owner on 2026-11-18).
 - Scope of the first release: 35 pages. Home, one page per version (1.0 to 1.5), one page per playable character (25), two system pages (Boards, platforms) and the names page.
 - Primary source: the global official site `nte.perfectworld.com`, because it is readable with a plain HTTP fetch. The Taiwan site `nte.iwplay.com.tw` is used only for Traditional Chinese names.
 - Do not label the service region beside each date. The pages state once, in the home page caveat and in `llms.txt`, that dates follow the global official site in UTC+8 and that mainland China is not covered.
@@ -21,14 +22,16 @@ This site is an unofficial wiki for the game Neverness to Everness (NTE, 異環)
 pnpm verify      # subset the font, build, then run the acceptance checks. Run this before you call a change done.
 pnpm build       # subset the font and build
 pnpm check       # acceptance checks on an existing dist/
+uv run --with opencc-python-reimplemented scripts/to-zh-cn.py   # write the zh-cn pages from the zh-tw pages
 pnpm preview     # serve dist/ at http://127.0.0.1:4399/nte-wiki/ with GitHub Pages style headers
 ```
 
 ## Content rules
 
-- Pages live in `src/content/docs/` (English) and `src/content/docs/zh-tw/` (Traditional Chinese). Page addresses use the official English name in lower case: `characters/elyms`, `characters/daffodill`, `versions/1-5`.
+- Pages live in `src/content/docs/` (English), `src/content/docs/zh-tw/` (Traditional Chinese) and `src/content/docs/zh-cn/` (Simplified Chinese). Page addresses use the official English name in lower case: `characters/elyms`, `characters/daffodill`, `versions/1-5`.
+- Do not edit `zh-cn` pages by hand. They are written from the `zh-tw` pages by `scripts/to-zh-cn.py`: it replaces Taiwan wording with the wording of the official Simplified Chinese notices, converts the characters, swaps the title with its Simplified alias and points links at `/zh-cn/`. Run it after every change to a `zh-tw` page. When a `zh-tw` page brings in a new name, check it against the notices under `nte.perfectworld.com/cn/` and add a pair to `VOC` in the script if the two differ (three did: 淘方斯记, 末班公交车之夜, 神秘纽扣). Every `zh-tw` page whose title changes in Simplified characters needs that Simplified title among its aliases.
 - Write links and images root-relative and without the site's sub-path: `/characters/elyms/`, `/art/characters/elyms.webp`. In `zh-tw` pages, links start with `/zh-tw/`; image paths do not. The sub-path is added at build time (`src/lib/hast-base.mjs`).
-- Required frontmatter is enforced by `src/content.config.ts`. Optional: `effectiveDate` (date of the newest official notice used), `aliases` (the subject's name in the other scripts), `art` (credit links for the images on the page). The title and aliases together are the same set of strings in both languages; the check script compares them.
+- Required frontmatter is enforced by `src/content.config.ts`. Optional: `effectiveDate` (date of the newest official notice used), `aliases` (the subject's name in the other scripts), `art` (credit links for the images on the page). The title and aliases together are the same set of strings in every language; the check script compares them.
 - `appliesTo` names the game version. `caveat` names the end of anything limited as an absolute date and time with `(UTC+8)`.
 - Quote a frontmatter value that contains a colon followed by a space.
 - Names: English from the English notes, Traditional Chinese from the Taiwan notices, Simplified Chinese from the `/cn/` notes. When no Taiwan text has a name, Chinese pages use the Simplified name in Traditional characters with Taiwan vocabulary (計畫, 介面); the names page leaves that Traditional cell empty. Skill names and the names of skill states stay in English in both languages, because no official Chinese source lists them.
@@ -44,7 +47,8 @@ pnpm preview     # serve dist/ at http://127.0.0.1:4399/nte-wiki/ with GitHub Pa
 - Three Starlight components are overridden: `SiteTitle`, `MarkdownContent` and `ThemeSelect` (three buttons, so each theme is one click away; it keeps Starlight's storage key `starlight-theme`).
 - The hidden note, the answer and the page notes are direct children of the article container, with no wrapper. A wrapper made a readability-style extractor keep the notes and drop the body. The hidden note repeats scope and caveat at the top so that they fall within the first 5,000 extracted characters while the visible notes sit after the body.
 - Starlight wraps each heading in `div.sl-heading-wrapper`; sibling selectors must target the wrapper, not `h2`.
-- The pixel font is Fusion Pixel 12px (SIL OFL). `scripts/subset-font.mjs` cuts it down to the characters found in `src/` before every build and writes `public/fonts/pixel.woff2`, which is not committed. Use the font at 12, 24 or 36 px only.
+- The body font stack names Traditional Chinese fonts; `:root[lang='zh-CN']` in `nte.css` swaps in Simplified ones, so punctuation sits at the baseline on Simplified pages.
+- The pixel font is Fusion Pixel 12px (SIL OFL). The `zh_hant` file also holds every Simplified character the pages use (checked on 2026-11-18). `scripts/subset-font.mjs` cuts it down to the characters found in `src/` before every build and writes `public/fonts/pixel.woff2`, which is not committed. Use the font at 12, 24 or 36 px only.
 - Images are shown as they are, in a frame with an offset shadow: no overlay, no motion.
 - Wide windows: the table of contents keeps the sidebar's width and the text column sits in the middle of the space between the two ("Wide windows" block in `nte.css`). The text column is 50rem, and 60rem from a 110rem window.
 - All motion sits inside `@media (prefers-reduced-motion: no-preference)`. Screenshots need a wait of about two seconds for the opening animation.
@@ -63,6 +67,7 @@ pnpm preview     # serve dist/ at http://127.0.0.1:4399/nte-wiki/ with GitHub Pa
 | `src/components/`, `src/styles/nte.css` | The three overrides and the skin |
 | `assets/fonts/`, `scripts/subset-font.mjs` | Pixel font source with its licence, and the subsetter |
 | `scripts/check-dist.mjs`, `scripts/preview.mjs` | Acceptance checks, local preview |
+| `scripts/to-zh-cn.py` | Writes the Simplified Chinese pages from the Traditional Chinese ones |
 | `tests/agent-eval/` | Fetch tool, questions and method for the agent test |
 
 ## Sources checked on 2026-11-18 (plain HTTP fetch, no JavaScript)
@@ -71,7 +76,7 @@ pnpm preview     # serve dist/ at http://127.0.0.1:4399/nte-wiki/ with GitHub Pa
 | --- | --- | --- |
 | `nte.perfectworld.com/en/article/news/index.html`, `index2.html` to `index40.html` | Full list of notices, three per page. The per-category indexes (`gamenews/`, `gamebroad/`, `gameevent/`) miss some notices | Finding notices |
 | `nte.perfectworld.com/en/` news articles | Full text | Primary |
-| `nte.perfectworld.com/cn/` articles | Full text, Simplified Chinese, global service | Simplified Chinese names |
+| `nte.perfectworld.com/cn/` articles; list at `/cn/article/news/index.html`, `index2.html` and on (79 notices) | Full text, Simplified Chinese, global service | Simplified Chinese names and wording |
 | `nte.perfectworld.com/en/main.html?nav=2&role=20` | Profiles of 20 characters as text; the names are images; poster URLs are in the HTML | Profiles, portraits |
 | `nte.iwplay.com.tw/news/view/...` articles and `/index.html` | Full text. `/news/` returns 403; `/news/list_1.html` and `list_1_1.html` to `list_1_14.html` list the articles. Full maintenance notices exist from Version 1.3 on; before that only news posts | Traditional Chinese names |
 | `prydwen.gg/neverness-to-everness/characters/<slug>` | Full text with the in-game skill text, updated for 1.5 on its release day. The character index is not readable. Rarity and role are blank in the page text | Skills, attribute, Arc type |

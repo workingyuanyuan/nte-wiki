@@ -1,0 +1,92 @@
+---
+title: 异环
+description: '《异环》（NTE）非官方资料站：收录版本信息、角色、系统与名称对照。'
+aliases:
+  - Neverness to Everness
+  - NTE
+  - 異環
+appliesTo: 1.5 版，依国际版官方网站截至 2026-11-18 发布之信息
+caveat: 日期与时间皆依国际版官网的 UTC+8 为准；中国大陆服务器另有排程。本站非 Hotta Studio 或完美世界游戏营运。
+lastVerified: 2026-11-18
+art:
+  - title: 主视觉图
+    url: https://nte.perfectworld.com/en/
+sources:
+  - title: 《异环》官方网站（国际版）
+    url: https://nte.perfectworld.com/en/
+  - title: 正式上线日期公告，2026-02-26
+    url: https://nte.perfectworld.com/en/article/news/gamenews/20260226/261061.html
+  - title: 公测常见问题 FAQ，2026-04-27
+    url: https://nte.perfectworld.com/en/article/news/gamebroad/20260426/261931.html
+  - title: 1.5 版更新公告，2026-11-09
+    url: https://nte.perfectworld.com/en/article/news/gamenews/20261109/264948.html
+  - title: Prydwen，《异环》角色列表（属性与弧盘类型）
+    url: https://www.prydwen.gg/neverness-to-everness/characters
+  - title: Game8，角色列表
+    url: https://game8.co/games/Neverness-to-Everness/archives/592067
+---
+
+![官方主视觉图：九名角色围绕着水环](/art/key-visual.webp)
+
+## 游戏
+
+| 项目 | 内容 |
+| --- | --- |
+| 类型 | 超自然都市开放世界 RPG |
+| 开发商、发行商 | Hotta Studio；Perfect World Games（国际版） |
+| 正式上线 | 2026-04-29，11:00 (UTC+8) |
+| 支持平台 | PC、Mac、iOS、Android、PlayStation 5；[详情](/zh-cn/systems/platforms/) |
+| 背景设定 | 海特洛；玩家是伊波恩古董店的鉴定师 |
+| 当前版本 | [1.5「致电，空想迷数」](/zh-cn/versions/1-5/)，自 2026-11-11 起 |
+| 当前限定棋盘 | [曳尔沐](/zh-cn/characters/elyms/)与[真红](/zh-cn/characters/shinku/)，至 2026-12-02 05:59 (UTC+8) |
+
+## 版本
+
+| 版本 | 上线日期 | 新增限定角色 |
+| --- | --- | --- |
+| [1.5「致电，空想迷数」](/zh-cn/versions/1-5/) | 2026-11-11 | 曳尔沐 |
+| [1.4「祷歌为谁而诵」](/zh-cn/versions/1-4/) | 2026-09-30 | 黑羽、明音凛 |
+| [1.3「雾中朔望星回」](/zh-cn/versions/1-3/) | 2026-08-19 | 残虹、灵可 |
+| [1.2「九百九十九夜」](/zh-cn/versions/1-2/) | 2026-07-08 | 真红、伊洛伊 |
+| [1.1「游梦洄廊」](/zh-cn/versions/1-1/) | 2026-06-03 | 安魂曲、卡厄斯 |
+| [1.0](/zh-cn/versions/1-0/) | 2026-04-29 | 娜娜莉、浔 |
+
+## 系统与名称对照
+
+| 页面 | 内容 |
+| --- | --- |
+| [棋盘与弧盘研募](/zh-cn/systems/boards/) | 角色与弧盘的取得方式；所有限定棋盘与开放日期 |
+| [平台与服务器](/zh-cn/systems/platforms/) | 平台、服务器、登录方式与系统需求 |
+| [名称对照](/zh-cn/names/) | 英文、繁体中文与简体中文名称对照 |
+
+## 角色
+
+1.5 版共有 25 位可游玩角色。
+
+| 角色 | 级别 | 属性 |
+| --- | --- | --- |
+| [曳尔沐](/zh-cn/characters/elyms/) | S 级，限定 | 光 |
+| [明音凛](/zh-cn/characters/akane-rin/) | S 级，限定 | 相 |
+| [黑羽](/zh-cn/characters/blackbird/) | S 级，限定 | 魂 |
+| [灵可](/zh-cn/characters/linko/) | S 级，限定 | 灵 |
+| [残虹](/zh-cn/characters/zankou/) | S 级，限定 | 咒 |
+| [伊洛伊](/zh-cn/characters/iroi/) | S 级，限定 | 灵 |
+| [真红](/zh-cn/characters/shinku/) | S 级，限定 | 光 |
+| [卡厄斯](/zh-cn/characters/chaos/) | S 级，限定 | 相 |
+| [安魂曲](/zh-cn/characters/lacrimosa/) | S 级，限定 | 暗 |
+| [浔](/zh-cn/characters/hotori/) | S 级，限定 | 光 |
+| [娜娜莉](/zh-cn/characters/nanally/) | S 级，限定 | 灵 |
+| [翳](/zh-cn/characters/skia/) | A 级 | 相 |
+| [海月](/zh-cn/characters/aurelia/) | A 级 | 魂 |
+| [哈尼娅](/zh-cn/characters/haniel/) | A 级 | 魂 |
+| [阿德勒](/zh-cn/characters/adler/) | A 级 | 咒 |
+| [埃德嘉](/zh-cn/characters/edgar/) | A 级 | 光 |
+| [薄荷](/zh-cn/characters/mint/) | A 级 | 灵 |
+| [九原](/zh-cn/characters/jiuyuan/) | S 级，常驻 | 灵 |
+| [达芙蒂尔](/zh-cn/characters/daffodill/) | S 级，常驻 | 暗 |
+| [法帝娅](/zh-cn/characters/fadia/) | S 级，常驻 | 魂 |
+| [哈索尔](/zh-cn/characters/hathor/) | S 级，常驻 | 相 |
+| [白藏](/zh-cn/characters/baicang/) | S 级，常驻 | 咒 |
+| [早雾](/zh-cn/characters/sakiri/) | S 级，常驻 | 咒 |
+| [小吱](/zh-cn/characters/chiz/) | S 级 | 光 |
+| [异能者·零](/zh-cn/characters/zero/) | S 级，主角 | 光 |

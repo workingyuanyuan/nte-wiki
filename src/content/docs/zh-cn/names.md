@@ -1,0 +1,184 @@
+---
+title: 名称对照
+description: 《异环》角色、地点与专有名词的英文、繁体中文及简体中文名称对照。
+aliases:
+  - Names in three languages
+  - 名稱對照
+appliesTo: 截至 1.5 版官方公告中所使用的名称
+caveat: 繁体中文一栏以港澳台服为准，简体中文一栏以国际版官网中文页面为准。部分攻略网站将官方名称 Daffodill 写为 Daffodil。
+effectiveDate: 2026-11-09
+lastVerified: 2026-11-18
+sources:
+  - title: 1.5 版更新公告（英文），2026-11-09
+    url: https://nte.perfectworld.com/en/article/news/gamenews/20261109/264948.html
+  - title: 1.5 版停服维护公告（繁体中文），2026-11-10
+    url: https://nte.iwplay.com.tw/news/view/20261110/35a0a87c.html
+  - title: 1.5 版更新公告（简体中文），2026-11-09
+    url: https://nte.perfectworld.com/cn/article/news/gamenews/20261109/264946.html
+  - title: 1.4 版停服维护公告（繁体中文），2026-09-29
+    url: https://nte.iwplay.com.tw/news/view/20260929/40a419aa.html
+  - title: 2026-10-20 停服维护公告（繁体中文）
+    url: https://nte.iwplay.com.tw/news/view/20261020/d2f1c7d1.html
+  - title: 1.3 版停服维护公告（繁体中文），2026-08-18
+    url: https://nte.iwplay.com.tw/news/view/20260818/4573b559.html
+  - title: 2026-09-08 停服维护公告（繁体中文）
+    url: https://nte.iwplay.com.tw/news/view/20260908/d5e5c777.html
+  - title: 港澳台版官方网站，角色介绍
+    url: https://nte.iwplay.com.tw/index.html
+  - title: 1.4 版更新公告（简体中文），2026-09-29
+    url: https://nte.perfectworld.com/cn/article/news/gamenews/20260929/264407.html
+  - title: 1.3 版更新公告（简体中文），2026-08-18
+    url: https://nte.perfectworld.com/cn/article/news/gamenews/20260817/263608.html
+  - title: 1.2 版更新公告（简体中文），2026-07-06
+    url: https://nte.perfectworld.com/cn/article/news/gamenews/20260706/263031.html
+  - title: 1.1 版更新公告（简体中文），2026-06-02
+    url: https://nte.perfectworld.com/cn/article/news/gamebroad/20260602/262481.html
+---
+
+## 角色
+
+| 英文 | 繁体中文 | 简体中文 |
+| --- | --- | --- |
+| [Esper Zero](/zh-cn/characters/zero/) | 異能者·零 | 异能者·零 |
+| [Chiz](/zh-cn/characters/chiz/) | 小吱 | 小吱 |
+| [Sakiri](/zh-cn/characters/sakiri/) | 早霧 | 早雾 |
+| [Baicang](/zh-cn/characters/baicang/) | 白藏 | 白藏 |
+| [Hathor](/zh-cn/characters/hathor/) | 哈索爾 | 哈索尔 |
+| [Fadia](/zh-cn/characters/fadia/) | 法帝婭 | 法帝娅 |
+| [Daffodill](/zh-cn/characters/daffodill/) | 達芙蒂爾 | 达芙蒂尔 |
+| [Jiuyuan](/zh-cn/characters/jiuyuan/) | 九原 | 九原 |
+| [Mint](/zh-cn/characters/mint/) | 薄荷 | 薄荷 |
+| [Edgar](/zh-cn/characters/edgar/) | 埃德嘉 | 埃德嘉 |
+| [Adler](/zh-cn/characters/adler/) | 阿德勒 | 阿德勒 |
+| [Haniel](/zh-cn/characters/haniel/) | 哈尼婭 | 哈尼娅 |
+| [Aurelia](/zh-cn/characters/aurelia/) | 海月 | 海月 |
+| [Skia](/zh-cn/characters/skia/) | 翳 | 翳 |
+| [Nanally](/zh-cn/characters/nanally/) | 娜娜莉 | 娜娜莉 |
+| [Hotori](/zh-cn/characters/hotori/) | 潯 | 浔 |
+| [Lacrimosa](/zh-cn/characters/lacrimosa/) | 安魂曲 | 安魂曲 |
+| [Chaos](/zh-cn/characters/chaos/) | 卡厄斯 | 卡厄斯 |
+| [Shinku](/zh-cn/characters/shinku/) | 真紅 | 真红 |
+| [Iroi](/zh-cn/characters/iroi/) | 伊洛伊 | 伊洛伊 |
+| [Zankou](/zh-cn/characters/zankou/) | 殘虹 | 残虹 |
+| [Linko](/zh-cn/characters/linko/) | 靈可 | 灵可 |
+| [Blackbird](/zh-cn/characters/blackbird/) | 黑羽 | 黑羽 |
+| [Akane Rin](/zh-cn/characters/akane-rin/) | 明音凜 | 明音凛 |
+| [Elyms](/zh-cn/characters/elyms/) | 曳爾沐 | 曳尔沐 |
+
+港澳台服文本对 Fadia 有两种写法：法帝婭（官网角色介绍）与法蒂婭（2026-09-09 新闻稿）。来源中没有 Daffodill 的港澳台服文本；達芙蒂爾是由简体中文名称转写的繁体字。
+
+## 属性
+
+| 英文 | 繁体中文 |
+| --- | --- |
+| Cosmos | 光 |
+| Anima | 靈 |
+| Incantation | 咒 |
+| Psyche | 魂 |
+| Chaos | 暗 |
+| Lakshana | 相 |
+
+光、靈、咒、魂出自港澳台服关于曳尔沐、灵可、残虹与黑羽的新闻稿。暗与相出自繁体中文攻略网站。
+
+## 版本与剧情
+
+| 英文 | 繁体中文 | 简体中文 |
+| --- | --- | --- |
+| [Version 1.1 "Dreamwalk Corridor"](/zh-cn/versions/1-1/) | 1.1版本「遊夢洄廊」 | 1.1版本「游梦洄廊」 |
+| [Version 1.2 "999 Nights"](/zh-cn/versions/1-2/) | 1.2版本「九百九十九夜」 | 1.2版本「九百九十九夜」 |
+| [Version 1.3 "Rising from the Moonlit Fog"](/zh-cn/versions/1-3/) | 1.3版本「霧中朔望星回」 | 1.3版本「雾中朔望星回」 |
+| [Version 1.4 "For Whom the Verses Mourn"](/zh-cn/versions/1-4/) | 1.4版本「禱歌為誰而誦」 | 1.4版本「祷歌为谁而诵」 |
+| [Version 1.5 "Once Upon a Glitched Call"](/zh-cn/versions/1-5/) | 1.5版本「致電，空想迷數」 | 1.5版本「致电，空想迷数」 |
+| Fogden Game | 霧巢遊戲 | 雾巢游戏 |
+| The Witch | 魔女 | 魔女 |
+| Meet Me in the Data Stream | 再會於數海 | 再会于数海 |
+| To Us, Back Then | 致那一天的我們 | |
+
+## 地点
+
+| 英文 | 繁体中文 | 简体中文 |
+| --- | --- | --- |
+| Hethereau | 海特洛 | 海特洛 |
+| Eibon Antique Shop | 伊波恩古董店 | 伊波恩古董店 |
+| Bureau of Anomaly Control | 異象管理局 | |
+| Warren Continent | 沃倫大陸 | 沃伦大陆 |
+| Duskmoor | 泊暮區 | 泊暮区 |
+| Pukaland | 噗卡樂園 | 噗卡乐园 |
+| St. Arbor | 聖阿爾博鎮 | 圣阿尔博镇 |
+| Sunward Island | | 向阳岛 |
+
+## 棋盘与弧盘
+
+| 英文 | 繁体中文 | 简体中文 |
+| --- | --- | --- |
+| Limited Board | 限定棋盤 | 限定棋盘 |
+| Scarborough Fair | 斯卡布羅集市 | 斯卡布罗集市 |
+| Arc | 弧盤 | 弧盘 |
+| Arc Research Program | 弧盤研募計畫 | 弧盘研募计划 |
+| Tri-Key | 三重鑰匙 | 三重钥匙 |
+| The Ichi-daime | 王牌一代目 | 王牌一代目 |
+| Misty Tipsy Style | 獨酌朧月流 | 独酌胧月流 |
+| Fading Reverie | 久夢初醒時 | 久梦初醒时 |
+| Forsaken Path | | 无归路 |
+| Before the Dawn | 破曉前 | 破晓前 |
+| The Lifeline | 生命線 | 生命线 |
+| Alluring Shadows | 惑心譎影 | 惑心谲影 |
+| Surfing All Channels! | 全頻帶漫遊中！ | 全频带漫游中！ |
+| Foretold Finale | 預言終幕時 | 预言终幕时 |
+| Dazzling Star | 燦爛的星 | 灿烂的星 |
+| Android Dreams | 電子人之夢 | 电子人之梦 |
+| Ready-Ready | 預備備 | 预备备 |
+| Marching Beyond Time | 行進於時間之外 | 行进于时间之外 |
+| The Last Rose | 最後一朵玫瑰 | 最后一朵玫瑰 |
+| What's Desired | | 众人追寻之物 |
+| Blushing Mirage | 穿過胭紅蜃景 | 穿过胭红蜃景 |
+| The Wrong Gate | | 错误的门 |
+| Ravenous Blade | 噬心詭刃 | 噬心诡刃 |
+| Voice of the Voyager | 遠行者之聲 | 远行者之声 |
+| Crime and Punishment | 罪與罰 | 罪与罚 |
+| Far Side of the Moon | 月的對蹠點 | 月的对跖点 |
+| Echoes on Hold | 靜候彩鈴 | 静候彩铃 |
+
+空白单元格代表所列来源公告中未收录该名称。
+
+## 战斗词汇
+
+| 英文 | 繁体中文 |
+| --- | --- |
+| Ultimate | 極軌終結 |
+| Redirect Skill | 變軌技能 |
+| Basic Attack | 普通攻擊 |
+| Awakening effect | 覺醒效果 |
+
+## 货币与道具
+
+| 英文 | 繁体中文 | 简体中文 |
+| --- | --- | --- |
+| Annulith | 環石 | 环石 |
+| Riftcrystal | 異晶 | 异晶 |
+| Fons | 方斯 | 方斯 |
+| Fabricated Dice | 捏造骰子 | 捏造骰子 |
+| Solid Dice | 質實骰子 | 质实骰子 |
+| A Handwritten Letter | 一封手寫信 | |
+| Mystery Box | 盲盒 | 盲盒 |
+
+## 玩法与其他词汇
+
+| 英文 | 繁体中文 | 简体中文 |
+| --- | --- | --- |
+| Appraiser | 鑒定師 | 鉴定师 |
+| Bond Level | 羈遇等級 | 羁遇等级 |
+| City Hangouts | 都市偕遊 | 都市偕游 |
+| Home Time | 居家時刻 | 居家时刻 |
+| Anomaly Pilgrimage | 異象巡禮 | 异象巡礼 |
+| Anomaly Commission | 異象委託 | |
+| Pink Paws Heist | 粉爪大劫案 | 粉爪大劫案 |
+| Circle Bounty | 環期賞令 | 环期赏令 |
+| Circle Gifts | 環期贈禮 | |
+| Beyond the Rails | 軌外之境 | 轨外之境 |
+| Volley Star | 排球之星 | 排球之星 |
+| Going, Going, Gone! | 即刻落槌 | |
+| City Stamina | 都市活力 | 都市活力 |
+| Character Pixels | 本性像素 | 本性像素 |
+| Hethereau Hobbies | 都市閒趣 | |
+| Puka Membership Program | 噗卡計畫 | 噗卡计划 |

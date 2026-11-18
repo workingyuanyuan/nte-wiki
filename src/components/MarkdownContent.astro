@@ -15,7 +15,7 @@ const t = LABELS[localeOf(id).lang];
 const hasFacts = Boolean(data.lastVerified && data.sources);
 // A pointer for agents that read the HTML. It is hidden from sighted readers with a
 // CSS class (not `hidden` or `aria-hidden`, which extractors treat as "drop this").
-const zh = localeOf(id).lang === 'zh-TW';
+const zh = localeOf(id).lang !== 'en';
 const sep = zh ? '：' : ': ';
 const agentNote = hasFacts
 	? zh

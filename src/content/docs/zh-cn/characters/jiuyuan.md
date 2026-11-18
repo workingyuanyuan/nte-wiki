@@ -1,0 +1,60 @@
+---
+title: 九原
+description: 九原是常驻 S 级角色，属性为灵。
+aliases:
+  - Jiuyuan
+appliesTo: 1.5 版
+caveat: 九原是常驻角色，不是限定角色：通过「S 级常驻角色自选箱」可直接选择九原。
+effectiveDate: 2026-09-29
+lastVerified: 2026-11-18
+art:
+  - title: 角色介绍
+    url: https://nte.perfectworld.com/en/main.html?nav=2&role=20
+sources:
+  - title: 1.2 版更新公告，2026-07-06
+    url: https://nte.perfectworld.com/en/article/news/gamenews/20260706/263029.html
+  - title: 1.4 版更新公告，2026-09-29
+    url: https://nte.perfectworld.com/en/article/news/gamenews/20260929/264409.html
+  - title: 官方网站的角色介绍
+    url: https://nte.perfectworld.com/en/main.html?nav=2&role=20
+  - title: Prydwen 的九原角色页面（技能、属性、弧盘类型）
+    url: https://www.prydwen.gg/neverness-to-everness/characters/jiuyuan
+  - title: Game8 的九原配装页面（交叉查证技能与属性）
+    url: https://game8.co/games/Neverness-to-Everness/archives/597675
+---
+
+![九原的官方角色图：留着浅色长发、戴着紫色宽檐帽并身穿黑紫色连衣裙的女子](/art/characters/jiuyuan.webp)
+
+## 角色资料
+
+| 项目 | 内容 |
+| --- | --- |
+| 等级 | S 级，常驻 |
+| 属性 | 灵 |
+| 弧盘类型 | 固态 (Solid) |
+| 加入版本 | 1.0 版 |
+
+官方介绍指出，在斯特利，情报往往比包裹更早抵达，而这套情报网络正是靠九原调度运转。她擅长从最细微的蛛丝马迹中看穿人心。
+
+## 取得方式
+
+| 方式 | 说明 |
+| --- | --- |
+| 常驻棋盘 | 根据 Game8 与 Prydwen 的资料，常驻 S 级角色位于斯卡布罗集市的常驻棋盘 |
+| 自选箱，1.2 版 | 向所有在 2026-08-19 05:59 (UTC+8) 前创建角色的玩家以信件发放「S 级常驻角色自选箱」 |
+| 自选箱，1.4 版 | 来自都市大亨「噗卡计划」的「S 级常驻角色自选箱」 |
+
+此自选箱可从六名角色中任选一名：早雾、白藏、哈索尔、法帝娅、达芙蒂尔或九原。棋盘机制说明见[棋盘与弧盘研募](/zh-cn/systems/boards/)。
+
+## 技能
+
+九原通过攻击与 Vita Pistils 生成 Rose Pact Bullets 并以 Lethal Rose Pact 连结敌人，消耗子弹进行自动锁定射击。她的极轨终结会触发 Final Reckoning，同时对所有被连结的目标执行 Pact Settlement，并提高场上的 Vita Bud 上限。
+
+| 栏位 | 技能 | 效果 |
+| --- | --- | --- |
+| 普通攻击 | When Secrets Take Shape、Bird's Eye View、Info-Guided Arts、Opportunity Lock-On、Turning the Tide | 最多五段灵属性攻击可获得 Rose Pact Bullets，并在最后一击施加 Lethal Rose Pact，另具备下坠攻击与瞄准射击。长按普通攻击可消耗 Rose Pact Bullets 自动射击，优先锁定被连结的目标。极限闪避后施放 Turning the Tide 可连结目标、降低 Break 并获得子弹。 |
+| 技能 | Intel Hunter | 穿梭战场冲刺，将目标牵引至控制范围内并造成多段灵属性伤害，获得 Rose Pact Bullets 并对目标建立 Lethal Rose Pact。 |
+| 极轨终结 | Final Reckoning | 高速冲刺并对周围目标射击，最后以大范围灵属性爆炸收尾。触发 Final Reckoning，使附近所有处于 Lethal Rose Pact 的目标进入 Pact Settlement 阶段，并在最后一击时同时结算所有效果。 |
+| 支援技能 | Intel Lock-On | 发射弧线子弹造成一次灵属性伤害，命中时获得 Rose Pact Bullets。 |
+| 被动 1 | Seize the Moment | Blossom Enhancement 会额外生成一个 Vita Bud，并将场上 Vita Bud 数量上限提高至六个。 |
+| 被动 2 | Whispers at My Command | 当 Vita Pistils 命中敌人时，对尚未连结的目标施加 Lethal Rose Pact，并对已被连结的目标触发一次额外结算以造成额外灵属性伤害。 |

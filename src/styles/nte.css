@@ -45,6 +45,11 @@
 	--sl-text-h2: 24px;
 }
 
+/* Simplified Chinese pages take Simplified fonts, so punctuation sits where mainland readers expect it. */
+:root[lang='zh-CN'] {
+	--sl-font: 'Inter', 'Segoe UI', 'Noto Sans SC', 'PingFang SC', 'Microsoft YaHei', system-ui, sans-serif;
+}
+
 :root[data-theme='light'],
 [data-theme='light'] ::backdrop {
 	--nte-pink-text: #cf2468;

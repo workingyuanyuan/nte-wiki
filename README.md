@@ -2,7 +2,7 @@
 
 Unofficial reference for the game Neverness to Everness (NTE, 異環), built for AI agents that read with a fetch tool and for people. Not affiliated with Hotta Studio or Perfect World Games.
 
-Live site: https://workingyuanyuan.github.io/nte-wiki/ (English), https://workingyuanyuan.github.io/nte-wiki/zh-tw/ (Traditional Chinese). Page list for agents: https://workingyuanyuan.github.io/nte-wiki/llms.txt
+Live site: https://workingyuanyuan.github.io/nte-wiki/ (English), https://workingyuanyuan.github.io/nte-wiki/zh-tw/ (Traditional Chinese), https://workingyuanyuan.github.io/nte-wiki/zh-cn/ (Simplified Chinese). Page list for agents: https://workingyuanyuan.github.io/nte-wiki/llms.txt
 
 ```
 pnpm install

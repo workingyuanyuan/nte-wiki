@@ -1,0 +1,81 @@
+---
+title: 娜娜莉
+description: 娜娜莉是 1.0 版加入的灵属性限定 S 级角色。
+aliases:
+  - Nanally
+appliesTo: 1.5 版
+caveat: 娜娜莉是限定角色，只能在「王牌一代目」限定棋盘开放期间取得。最近一次开放已于 2026-09-09 05:59 (UTC+8) 结束。
+effectiveDate: 2026-08-18
+lastVerified: 2026-11-18
+art:
+  - title: 角色介绍
+    url: https://nte.perfectworld.com/en/main.html?nav=2&role=20
+sources:
+  - title: 2026-05-12 维护公告（1.0 版下半）
+    url: https://nte.perfectworld.com/en/article/news/gamebroad/20260512/262144.html
+  - title: 1.3 版更新公告，2026-08-18
+    url: https://nte.perfectworld.com/en/article/news/gamenews/20260817/263605.html
+  - title: 官方网站的角色介绍
+    url: https://nte.perfectworld.com/en/main.html?nav=2&role=20
+  - title: Prydwen，娜娜莉角色页面（技能、属性、弧盘类型）
+    url: https://www.prydwen.gg/neverness-to-everness/characters/nanally
+  - title: Game8，娜娜莉配装页面（交叉查证技能与属性）
+    url: https://game8.co/games/Neverness-to-Everness/archives/597504
+---
+
+![娜娜莉的官方角色图：戴着眼镜、长着猫耳的红发少女，身穿黑色外套与红色短裙](/art/characters/nanally.webp)
+
+## 角色资料
+
+| 项目 | 内容 |
+| --- | --- |
+| 等级 | S 级，限定 |
+| 属性 | 灵 |
+| 弧盘类型 | 等离子 (Plasma) |
+| 加入版本 | 1.0 版，2026-04-29 上线时加入 |
+
+官方介绍称娜娜莉·柯林斯是伊波恩古董店的一号台柱，也是自称「柯林斯家族」的「一代目」。
+
+## 取得方式
+
+| 项目 | 内容 |
+| --- | --- |
+| 棋盘 | 「斯卡布罗集市」的限定棋盘「王牌一代目」 |
+| 首次开放 | 已于 2026-05-13 05:59 (UTC+8) 结束 |
+| 返场 | 2026-08-19 维护后至 2026-09-09 05:59 (UTC+8) |
+| 开放条件 | 完成正篇任务「序章 - 全新的目的地 - 前往『伊波恩古董店』」 |
+| 同棋盘 A 级角色 | [薄荷](/zh-cn/characters/mint/)、[埃德嘉](/zh-cn/characters/edgar/)、[阿德勒](/zh-cn/characters/adler/) |
+| 掷骰奖励 | 滑翔翼造型「副手的副手」、M1000 涂装「萌虎来袭」、时装「华丽飞踢」：累计掷骰 50、120、200 次后于「萌虎礼遇」界面领取，也可能提前掷到对应格子 |
+
+掷骰次数依棋盘名称分开计算：首次开放期间在「萌虎礼遇」累积的进度已保留至返场。
+
+棋盘机制说明：[棋盘与弧盘研募](/zh-cn/systems/boards/)。
+
+## 技能
+
+娜娜莉将不会被闪避中断的五段连击衔接为 Heavy Hitter! 攻击，同时以 Ichi-daime's Authority 强化自身，在队友造成 Esper Cycle DMG 时触发追击。她的极轨终结召唤 Underboss 牵引敌人并发动协同追击，而 Blossom Enhancement 则能加速 Vita Bud 的射击。
+
+| 栏位 | 技能 | 效果说明 |
+| --- | --- | --- |
+| 普通攻击 | Colucci Secret Skill, Heavy Hitter!, Colucci Secret Gundo, Grand Entrance!, Can't Touch This! | 进行最多五段不会因闪避而中断的灵属性爪击，另包含瞄准模式下的 Colucci Secret Gundo 与下落攻击 Grand Entrance!。在特定段数或 Critical Riposte 后长按普通攻击，可连续施放三次 Heavy Hitter! 攻击。Critical Dodge 后，Can't Touch This! 会对范围踢击并削减 Break。 |
+| 技能 | Colucci Howling Technique | 对附近敌人造成五段灵属性伤害并获得 Ichi-daime's Authority 状态。娜娜莉退场、再次施放或持续时间结束时会解除此状态。 |
+| 极轨终结 | Colucci Ultimate Technique | 立即对周围敌人造成七段灵属性伤害并召唤 Underboss。Underboss 存在期间，娜娜莉的攻击会轻微牵引附近敌人，且 Underboss 会在每次攻击时协同发动视为追击伤害的攻击。 |
+| 支援技能 | Justice from Above | 旋转冲锋并踢击，造成一段范围灵属性伤害。 |
+| 被动 1 | More Than Passionate | Blossom Enhancement 使每个 Vita Bud 发射十枚 Vita Pistils 并缩短发射间隔。 |
+| 被动 2 | Fair Duel | 处于 Ichi-daime's Authority 状态期间，每当任何队友造成 Esper Cycle DMG 时，便对单一敌人触发一次随普通攻击等级提升的灵属性追击。 |
+
+## 专属弧盘
+
+| 项目 | 内容 |
+| --- | --- |
+| 弧盘 | 「预备备」，限定 S 级 |
+| 研募计划 | 「猛虎特刊」弧盘研募计划 |
+| 消耗 | 三重钥匙或猛虎钥匙 |
+| 开放时间 | 与棋盘开放期间相同 |
+
+## 时装
+
+| 时装 | 取得方式 |
+| --- | --- |
+| 华丽飞踢 | 限定棋盘「王牌一代目」的对应格子，或累积足够掷骰次数后于「萌虎礼遇」界面领取 |
+| 灿阳逐浪 | 「逐光破浪」盲盒，2026-08-19 至 2026-09-30 05:59 (UTC+8) |
