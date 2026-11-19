@@ -67,6 +67,7 @@ pnpm preview     # serve dist/ at http://127.0.0.1:4399/nte-wiki/ with GitHub Pa
 | `src/components/`, `src/styles/nte.css` | The three overrides and the skin |
 | `assets/fonts/`, `scripts/subset-font.mjs` | Pixel font source with its licence, and the subsetter |
 | `scripts/check-dist.mjs`, `scripts/preview.mjs` | Acceptance checks, local preview |
+| `scripts/indexnow.mjs` | Lists pages whose Markdown twin differs from the live one; the deploy workflow submits them to IndexNow |
 | `scripts/to-zh-cn.py` | Writes the Simplified Chinese pages from the Traditional Chinese ones |
 | `tests/agent-eval/` | Fetch tool, questions and method for the agent test |
 
