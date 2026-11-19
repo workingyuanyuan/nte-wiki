@@ -26,6 +26,7 @@ sources:
 | Attribute | Lakshana |
 | Arc type | Gas |
 | Joined | Version 1.0 |
+| Voice actors | Chinese: 刘雨轩; English: Bill Butts; Japanese: 杉田智和; Korean: 이동훈 |
 
 ## How to obtain
 
@@ -54,3 +55,28 @@ Skia attaches up to three Fang Thrust shadows per target via Arresting Art and S
 | Support Skill | Arrest Warrant | Commands his shadow like a police canine to bite the target, dealing one instance of Lakshana DMG to an area. |
 | Passive 1 | Suppression | Applies Remora Enhancement, inflicting an additional Remora on a target when Fang Thrust locks onto them while in the Remora state. |
 | Passive 2 | Apprehension | Increases Fang Thrust damage, including collision damage in Shadow Hound Gnaw mode, after casting The Pack. |
+
+## Growth
+
+| Fact | Value |
+| --- | --- |
+| Base stats at Lv. 80 | HP 13,332, ATK 557, DEF 667, CRIT Rate 5%, CRIT DMG 50% |
+| Console bonus | ATK Bonus +10% for each Type III Module ([Consoles](/systems/consoles/)) |
+| Esper Cycle | Remora Enhancement, from the passive Suppression ([Esper Cycles](/systems/esper-cycles/)) |
+| Ascension to Lv. 80 | Suspended Delusions → Yearning Delusions → Transcendent Delusions (17, 18 and 15); Confessional Flower Seed ×86 |
+| Skill upgrades | Synchronicity of Thought → Resonance of Faith → Heart-Racing Night; Dress Hem of Vanity |
+
+## Awakenings
+
+Each duplicate unlocks one Awakening of the player's choice; Resonances unlock at 3 and 6 Awakenings.
+
+| Awakening | Effect |
+| --- | --- |
+| Process of Elimination | Increses the auto-attack DMG Ratio for Fang Thrust by 60%. |
+| Law and Order | Increases Skia's Crit Chance by 10% and Resistance to Interruptions by 50% for 15s after casting Shadow Hound Chase. |
+| Solution | Skia's damage to targets locked by Fang Thrust is increased by 4%. If only one target is locked onto by Fang Thrust on the field, Skia's damage to it is further increased by 4%. |
+| Resolution | Extends the duration of Tailed to 12s. Increases Attachment DMG by 2% per second a target is attached, up to 40%. |
+| Social Contract | Increases the target's mass by 50 and reduces its Movement Speed by 20% for each Fang Thrust locked onto it. |
+| Unbothered Appearance | Increases the Extra DMG Ratio of Fang Thrust by 20% while in Shadow Hound Gnaw mode when touching an enemy locked onto by Fang Thrust. |
+| Resonance 3: Cubical Survival Manual | Increases the skill level of Arresting Art, Shadow Hound Chase, and The Pack by 1. |
+| Resonance 6: Employee of the Month | Reduces the locked-on target's Lakshana Resistance by 2% per Fang Thrust, up to 6%. |

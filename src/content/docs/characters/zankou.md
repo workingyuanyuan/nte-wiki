@@ -32,6 +32,7 @@ sources:
 | Attribute | Incantation |
 | Arc type | Gas |
 | Joined | Version 1.3, 2026-08-19 |
+| Voice actors | Chinese: 陈婷婷; English: Stephanie Wong; Japanese: 井上喜久子; Korean: 허예은 |
 
 The official profile describes Zankou as a dangerous Esper armed with a Cursed Blade: Inanna's adopted daughter and bodyguard, and the most feared assassin of The Scarlet Letter. Her Esper Ability, the Eye of Delusion, senses emotions and conjures illusions.
 
@@ -59,6 +60,31 @@ Zankou alternates between Reality Form and Illusion Form via Sanguine Dash and S
 | Support Skill | Stoked Flame | Wields her blade to attack, dealing one instance of Incantation DMG. |
 | Passive 1 | Silent Sunset | Applies Scorch Enhancement, allowing Scorch to stack up to three times. When allies inflict a DoT effect on a target with Scorch, Zankou adds one Scorch stack and replaces existing Scorch DMG, type, and duration with the new effect. |
 | Passive 2 | Crimson Reverie | Sets Zankou's Cycle Energy to 100 upon entering battle once per battle and increases her Cycle Intensity by 100 while she is on the team. |
+
+## Growth
+
+| Fact | Value |
+| --- | --- |
+| Base stats at Lv. 80 | HP 15,514, ATK 660, DEF 909, CRIT Rate 5%, CRIT DMG 50% |
+| Console bonus | CRIT DMG +16% for each Type III Module ([Consoles](/systems/consoles/)) |
+| Esper Cycle | Scorch Enhancement, from the passive Silent Sunset ([Esper Cycles](/systems/esper-cycles/)) |
+| Ascension to Lv. 80 | Blurred Numeral → Unsolved Numeral → Distorted Numeral (17, 18 and 15); Nest Guard Fragment ×86 |
+| Skill upgrades | First Expectations → Known Weariness → Black Hat; Eternal Memory |
+
+## Awakenings
+
+Each duplicate unlocks one Awakening of the player's choice; Resonances unlock at 3 and 6 Awakenings.
+
+| Awakening | Effect |
+| --- | --- |
+| Eyes of Abyss | Allows Wildfire, Flickering Shadow, Voidstep, enhanced Sanguine Dash, and enhanced Soulcross to spread DoT effects upon Awakening. Grants Zankou Hunt and Delusion at all times. Keeps both buffs active without delayed removal and prevents them from being removed when Zankou leaves the field or switches forms. Removes them only when Zankou is defeated. The DMG bonus granted to Zankou by Hunt increases to 40%. The DoT Crit DMG bonus granted to the whole team by Delusion increases to 50%. |
+| Abyssal Kiss | Builds up Kindling whenever Zankou participates in a Cycle that triggers Scorch or Hexed, increasing the Final DMG dealt by the next Inferno Flamenco by 150%. Allows Kindling to accumulate even before Inferno Flamenco becomes available, up to 1 stack. |
+| Kiss in a Nightmare | Hunt increases Zankou's Resistance to Interruptions by an additional 50%. Delusion restores HP equal to 4% of her Max HP per second. |
+| Nightmare Bloom | Activates Bloodfeast Reverie immediately when Inferno Flamenco becomes available. Applies the DMG Bonus from Kindling to Bloodfeast Reverie, which shares the same Kindling stacks with Inferno Flamenco. |
+| Bloom in Blood | Guarantees that the first Breakable target hit by enhanced Sanguine Dash enters the Broken state. Triggers only once per target per battle and does not affect bosses in Character Balance Mode. Increases all allies' Break DMG by 300% while Zankou is on the team. |
+| Blood Stained Eyes | Increases the DMG dealt by the final hit of Oblivion to a single target by 12% for each DoT stack on that target, up to 240%. Calculates the DMG Bonus separately for each target when multiple targets are hit, based on the total number of DoT stacks on each target. |
+| Resonance 3: Scarlet Feast | Increases the skill levels of Wildfire, Nightmare Waltz, Sanguine Dash, Soulcross, Inferno Flamenco, and Bloodfeast Reverie by 1. Increases the DMG Ratios of Bloodfeast Reverie and Inferno Flamenco by 20%. |
+| Resonance 6: Venom Flame | Increases Zankou's ATK by 40% for 20s after she deals damage. This effect does not stack. Resets the duration when triggered again. Grants an enhanced effect for 60s when a target afflicted with Scorch is defeated. Maxes out the target's Scorch stacks whenever Zankou inflicts DoTs on them during the enhancement. Refreshes the enhancement's duration whenever another target afflicted with Scorch is defeated. |
 
 ## Signature Arc
 

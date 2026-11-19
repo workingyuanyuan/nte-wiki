@@ -35,10 +35,10 @@ sources:
 | 類型 | 超自然都市開放世界 RPG |
 | 開發商、發行商 | Hotta Studio；Perfect World Games（國際版） |
 | 正式上線 | 2026-04-29，11:00 (UTC+8) |
-| 支援平台 | PC、Mac、iOS、Android、PlayStation 5；[詳情](/zh-tw/systems/platforms/) |
+| 支援平台 | PC、Mac、iOS、Android、PlayStation 5 |
 | 背景設定 | 海特洛；玩家是伊波恩古董店的鑒定師 |
-| 當前版本 | [1.5「致電，空想迷數」](/zh-tw/versions/1-5/)，自 2026-11-11 起 |
-| 當前限定棋盤 | [曳爾沐](/zh-tw/characters/elyms/)與[真紅](/zh-tw/characters/shinku/)，至 2026-12-02 05:59 (UTC+8) |
+| 當前版本 | 1.5「致電，空想迷數」，自 2026-11-11 起 |
+| 當前限定棋盤 | 曳爾沐與真紅，至 2026-12-02 05:59 (UTC+8) |
 
 ## 版本
 
@@ -53,11 +53,15 @@ sources:
 
 ## 系統與名稱對照
 
-| 頁面 | 內容 |
-| --- | --- |
-| [棋盤與弧盤研募](/zh-tw/systems/boards/) | 角色與弧盤的取得方式；所有限定棋盤與開放日期 |
-| [平台與伺服器](/zh-tw/systems/platforms/) | 平台、伺服器、登入方式與系統需求 |
-| [名稱對照](/zh-tw/names/) | 英文、繁體中文與簡體中文名稱對照 |
+- [棋盤與弧盤研募](/zh-tw/systems/boards/)
+- [異能環合](/zh-tw/systems/esper-cycles/)
+- [弧盤](/zh-tw/systems/arcs/)
+- [空幕](/zh-tw/systems/consoles/)
+- [養成材料](/zh-tw/systems/progression/)
+- [載具](/zh-tw/systems/vehicles/)
+- [房產與異象家具](/zh-tw/systems/properties/)
+- [平台與伺服器](/zh-tw/systems/platforms/)
+- [名稱對照](/zh-tw/names/)
 
 ## 角色
 

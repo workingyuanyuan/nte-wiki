@@ -34,6 +34,7 @@ sources:
 | Attribute | Cosmos |
 | Arc type | Solid |
 | Joined | Version 1.0, second half, 2026-05-13 |
+| Voice actors | Chinese: 杜晴晴; English: Lindsay Sheppard; Japanese: 伊藤静; Korean: 이지현 |
 
 The official profile describes Hotori as the enigmatic owner of the Eibon antique shop: the least responsible adult around, according to Sakiri, and someone Nanally admires.
 
@@ -64,6 +65,31 @@ Hotori accumulates energy over time on her Non-Closed Timepiece instead of using
 | Support Skill | Shopkeeper's Authority | Throws her umbrella to deal one instance of Cosmos DMG to an area. |
 | Passive 1 | Ghost Orchid Crest | Provides a Blossom Enhancement that prevents Vita Bud attacks from pausing during Time Stop. |
 | Passive 2 | All Treasures Under Heaven | Increases World's Tide's Finisher DMG Ratio. |
+
+## Growth
+
+| Fact | Value |
+| --- | --- |
+| Base stats at Lv. 80 | HP 16,120, ATK 652, DEF 848, CRIT Rate 5%, CRIT DMG 50% |
+| Console bonus | Cosmos DMG Bonus +10% for each Type III Module ([Consoles](/systems/consoles/)) |
+| Esper Cycle | Blossom Enhancement, from the passive Ghost Orchid Crest ([Esper Cycles](/systems/esper-cycles/)) |
+| Ascension to Lv. 80 | Lost Whispers → Obscure Whispers → Paradoxical Whispers (17, 18 and 15); Confessional Flower Seed ×86 |
+| Skill upgrades | Nestling's Longing → Dove's Flutter → The Olive Branch; Dress Hem of Vanity |
+
+## Awakenings
+
+Each duplicate unlocks one Awakening of the player's choice; Resonances unlock at 3 and 6 Awakenings.
+
+| Awakening | Effect |
+| --- | --- |
+| Flourish | Increases Hotori's damage during Time Stop by 12% for each recorded Support Skill or Redirect Skill. |
+| Distant Memories | Increases Hotori's damage by 20% during Time Stop. |
+| Momentary Gaze | Recovers the energy spent on Present Replay after using it and completing the recording. Triggers at most once every 60s. Interrupts energy restoration if energy is spent during the recovery process. |
+| Scattered Relics | Grants an additional 10 energy to the Non-Closed Timepiece for every 1 target defeated by the Team while the pointer is not rewinding, up to 3 times. Resets the count when casting World's Tide. |
+| All-Seeing | When Hotori is deployed, if there is only 1 enemy on the field, the entire team's damage against that target is increased by 15%. This effect is lost when Hotori is down. |
+| Time Takes Away | Hotori ignores 30% of the target's DEF during Time Stop. |
+| Resonance 3: Eternity Shattered | Increases the skill level of Misty Moon Style, Present Replay, and World's Tide by 1. |
+| Resonance 6: The Ultimate Treasure of Clear Understanding | Grants all team members 30% ATK while Hotori is on the team and alive. |
 
 ## Signature Arc
 

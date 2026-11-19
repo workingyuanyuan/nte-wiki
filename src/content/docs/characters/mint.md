@@ -37,6 +37,7 @@ sources:
 | Attribute | Anima |
 | Arc type | Liquid |
 | Joined | Version 1.0 |
+| Voice actors | Chinese: 陈雨; English: Brianna Knickerbocker; Japanese: 鬼頭明里; Korean: 성예원 |
 
 The official profile calls Mint a rising star of the Bureau's Containment Strike Unit 2 (CSU-2) who knows everyone in the neighbourhood and every cheap place to eat in the city.
 
@@ -69,6 +70,31 @@ Mint is an on-field Anima attacker who chains five-hit combos, Stamina-draining 
 | Support Skill | Ultimate: Invincible Tornado Slash | Charges and leaps into the air to deliver a penetrating attack, dealing one instance of AoE Anima DMG. |
 | Passive 1 | Transform! Super Mint! | Blossom Enhancement expands the damage area of Vita Pistils on hit. |
 | Passive 2 | Bingo! We're Done Here! | Increases Mint's DEF and resistance to Interruptions while she remains on the field. |
+
+## Growth
+
+| Fact | Value |
+| --- | --- |
+| Base stats at Lv. 80 | HP 12,120, ATK 596, DEF 727, CRIT Rate 5%, CRIT DMG 50% |
+| Console bonus | CRIT Rate +7.5% for each Type III Module ([Consoles](/systems/consoles/)) |
+| Esper Cycle | Blossom Enhancement, from the passive Transform! Super Mint! ([Esper Cycles](/systems/esper-cycles/)) |
+| Ascension to Lv. 80 | Fading Silhouette → Blurred Silhouette → Chaos Silhouette (17, 18 and 15); A Page from Delusion's Shore ×86 |
+| Skill upgrades | FNG → CO → White Rose; Good Boy Stamp |
+
+## Awakenings
+
+Each duplicate unlocks one Awakening of the player's choice; Resonances unlock at 3 and 6 Awakenings.
+
+| Awakening | Effect |
+| --- | --- |
+| Task Force Operation | Resets the cooldown of Ultimate: Super Claws when Caramel Crisp hits an enemy. Triggers once every 3s. |
+| Re-examination | Redirect Skill: Ultimate: Super Claws damage increases by 40%. |
+| Attendance Bonus | When any character triggers Blossom or Hexed against an enemy, Mint's ATK is increased by 15% for 15s. |
+| Lunch Break | Increases Mint's Crit Chance by 12% when dealing damage to the last enemy on the field. |
+| First Instinct | After casting Redirect Skill: Ultimate: Super Claws, Mint's CRIT DMG increases by 25% for 6s. |
+| Elite Member | Mint deals 15% increased damage to targets below 40% HP. |
+| Resonance 3: Minty Bubble Tea | Increases the skill level of Perfect Containment, Ultimate: Super Claws, and Ultimate: Thunderous Whirlwind Slash by 1. |
+| Resonance 6: Fluffy Mousse | Grants an additional 2 Cycle Energy after successfully casting Ultimate: Super Claws. |
 
 ## Outfits
 

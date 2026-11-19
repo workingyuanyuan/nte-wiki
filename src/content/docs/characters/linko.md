@@ -32,6 +32,7 @@ sources:
 | Attribute | Anima |
 | Arc type | Plasma |
 | Joined | Version 1.3, second half, 2026-09-09 |
+| Voice actors | Chinese: 胡影佳 and 洪海天; English: Emi Lo and Salli Saffioti; Japanese: 小倉唯 and 村瀬迪与; Korean: 김서현 and 김예림 |
 
 The official profile says Linko was recruited into ETD-6 as a special exception. She uses telepathy to sense the "frequencies" of humans and anomalies, and leaves the fighting to her adopted anomaly companion, Xiaozhen.
 
@@ -59,6 +60,31 @@ Linko builds Modulation through Basic Attacks and applies Hit 'Em Here! marks of
 | Support Skill | Spectral Cross | Strikes with Xiaozhen for AoE Anima DMG. Also summons an ally for a Synced Strike when breaking a Hit 'Em Here! mark or casting Full-Frequency Pulse or Oversync, scaling Synced Strike DMG with Spectral Cross's level. |
 | Passive 1 | Weakness Radar | Hexed Enhancement raises the base DMG of additional Follow-up Attacks from Hexed while Linko is on the team, and causes targets affected by Hexed to take increased Follow-up Attack DMG. |
 | Passive 2 | Precision Tuning | Reduces a target's Esper Ability Resistance matching the attribute of the character triggering a Synced Strike. Resistance Reductions of different attributes coexist without stacking per attribute, refreshing when retriggered. |
+
+## Growth
+
+| Fact | Value |
+| --- | --- |
+| Base stats at Lv. 80 | HP 15,514, ATK 652, DEF 921, CRIT Rate 5%, CRIT DMG 50% |
+| Console bonus | CRIT Rate +8% for each Type III Module ([Consoles](/systems/consoles/)) |
+| Esper Cycle | Hexed Enhancement, from the passive Weakness Radar ([Esper Cycles](/systems/esper-cycles/)) |
+| Ascension to Lv. 80 | Lost Whispers → Obscure Whispers → Paradoxical Whispers (17, 18 and 15); Water Moon Pick ×86 |
+| Skill upgrades | FNG → CO → White Rose; Dress Hem of Vanity |
+
+## Awakenings
+
+Each duplicate unlocks one Awakening of the player's choice; Resonances unlock at 3 and 6 Awakenings.
+
+| Awakening | Effect |
+| --- | --- |
+| All Frequencies Live | Reduces Spectral Rush's appearance interval by 25% while Linko is off-field. |
+| Friendly Haunting | Increases the DMG Ratio of Oversync's Anima Burst DMG by 30%. |
+| Across the Airwaves | Resets Full-Frequency Pulse's cooldown upon casting Oversync. |
+| Starlit Whispers | Deals 1 additional instance of Anima DMG in an area each time a Synced Strike is triggered within Resonance Field. DMG Ratio at the current Oversync Skill Level: {0}%. Allows this attack to consume a Hit 'Em Here! mark and trigger a Synced Strike. |
+| Love, Loud and Clear | Allows Synced Strikes triggered by Full-Frequency Pulse to trigger Cycle effects. Increases this Synced Strike's DMG by 50% if the selected ally cannot trigger a Cycle with Linko. |
+| The World Answers | Increases allies' Synced Strike Crit Rate by 25% while Linko is on the team. Grants allies' Synced Strikes the Charge effect. |
+| Resonance 3: Shared Pulse | Increases the skill levels of Spectral Cross, Full-Frequency Pulse, and Oversync by 1. Increases Linko's ATK by 20%. |
+| Resonance 6: Perfect Reception | Extends Resonance Field's duration by 5s and increases all allies' Anima and Incantation DMG by 30% while it is active. |
 
 ## Signature Arc
 

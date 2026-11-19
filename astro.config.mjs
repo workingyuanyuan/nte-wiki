@@ -36,7 +36,17 @@ export default defineConfig({
 				{
 					label: 'Systems and names',
 					translations: { 'zh-TW': '系統與名稱', 'zh-CN': '系统与名称' },
-					items: [{ slug: 'systems/boards' }, { slug: 'systems/platforms' }, { slug: 'names' }],
+					items: [
+						{ slug: 'systems/boards' },
+						{ slug: 'systems/esper-cycles' },
+						{ slug: 'systems/arcs' },
+						{ slug: 'systems/consoles' },
+						{ slug: 'systems/progression' },
+						{ slug: 'systems/vehicles' },
+						{ slug: 'systems/properties' },
+						{ slug: 'systems/platforms' },
+						{ slug: 'names' },
+					],
 				},
 			],
 			customCss: ['./src/styles/nte.css'],

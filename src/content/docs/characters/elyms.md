@@ -38,6 +38,7 @@ sources:
 | Roles named on the official site | Instant Cycle, DMG Boost, Burst DPS |
 | Post | Lieutenant of ETD Squad 6 at the Bureau of Anomaly Control (BAC) |
 | Joined | Version 1.5, 2026-11-11 |
+| Voice actors | Chinese: 陈章; English: Crystal Lee; Japanese: 雨宮天; Korean: 손선영 |
 
 The official profile says there is hardly anyone at the Bureau who does not know her. Staff describe her as understanding, easygoing, cheerful, mischievous and polite to a fault, and agree on one phrase: "my friend."
 
@@ -65,6 +66,31 @@ Elyms upgrades Connection Strength from Weak to Strong Connection using Basic At
 | Support Skill | I'm Here | Deals Cosmos DMG, upgrades Weak Connection to Medium Connection when active, grants Optical Illusion, and scans nearby targets to switch Do You Get Deja Vu between single-target and AoE forms. |
 | Passive 1 | Relay Node | Charge Enhancement stacks team Cosmos DMG when the active character gains Ultimate Energy, up to eight stacks. Remora Enhancement reapplies Remora to the same target after a short delay when an ally applies Remora, without chaining into itself. |
 | Passive 2 | Pity System | Increases Elyms's Crit DMG. |
+
+## Growth
+
+| Fact | Value |
+| --- | --- |
+| Base stats at Lv. 80 | HP 15,392, ATK 660, DEF 909, CRIT Rate 5%, CRIT DMG 50% |
+| Console bonus | CRIT Rate +8% for each Type III Module ([Consoles](/systems/consoles/)) |
+| Esper Cycle | Charge, Remora Enhancement, from the passive Relay Node ([Esper Cycles](/systems/esper-cycles/)) |
+| Ascension to Lv. 80 | Fading Silhouette → Blurred Silhouette → Chaos Silhouette (17, 18 and 15); Tear of the Sea ×86 |
+| Skill upgrades | Nestling's Longing → Dove's Flutter → The Olive Branch; Hollowflower Seeds |
+
+## Awakenings
+
+Each duplicate unlocks one Awakening of the player's choice; Resonances unlock at 3 and 6 Awakenings.
+
+| Awakening | Effect |
+| --- | --- |
+| 404: Island Out of Reach | Increases the whole team's Crit DMG by 10% for 20s for each 1 stack of Optical Illusion consumed before casting Do You Get Deja Vu. Clears the accumulated count of consumed Optical Illusion stacks and refreshes the buff's effect and duration when triggered again. |
+| 200: Nodes Connected | Increases the DMG Ratio of Do You Get Deja Vu by 30%. When casting Goodbye to You, its DMG ignores 5% of the target's DEF per 1 stack of Optical Illusion consumed. |
+| 504: Gateway Timeout | Grants 3 stacks of Optical Illusion when Connection Strength increases from Medium Connection to Strong Connection. Allows Optical Illusion to be stacked, up to 4 stacks. |
+| 302: Wish Redirected | Increases the whole team's Crit DMG by 20% while Elyms is on the team and alive. |
+| 304: Nothing Has Changed | Increases the DMG Ratio of The Ones Who Left by 100%. Sets Elyms's Cycle Energy to 100 upon entering battle. Cooldown: 30s. Triggers only once per battle. |
+| 301: Moved Permanently | Increases Elyms's Follow-up Attack DMG by 25% for 20s per 1 stack of Optical Illusion consumed before casting Do You Get Deja Vu. Clears the accumulated count of consumed Optical Illusion stacks and refreshes the buff's effect and duration when triggered again. |
+| Resonance 3: For Auld Lang Syne, My Dear | Increases the skill level of Elyms's Basic Attack, Redirect Skill, and Ultimate by 1. Increases Connection Strength directly from Weak Connection to Strong Connection after casting I'm Here or Intermittent Existence while at Weak Connection. Triggers the effects of advancing from Weak Connection to Medium Connection, followed by those of advancing from Medium Connection to Strong Connection. Allows Elyms to cast Goodbye to You immediately when Connection Strength increases to Strong Connection. |
+| Resonance 6: Until Next Time, New Friend | Allows DMG dealt by all team members to ignore 12% of the target's All Resistances while Elyms is alive and on the team. Deals 1 additional instance of Cosmos DMG when the final instance of Goodbye to You hits a target, provided the skill consumed Optical Illusion. At the current level of Counting Electric Sheep, this additional hit's DMG Ratio is {0}% per Optical Illusion stack consumed. |
 
 ## Signature Arc
 

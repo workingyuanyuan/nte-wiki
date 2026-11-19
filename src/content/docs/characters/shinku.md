@@ -34,6 +34,7 @@ sources:
 | Attribute | Cosmos |
 | Arc type | Condensate |
 | Joined | Version 1.2, 2026-07-08 |
+| Voice actors | Chinese: 唐夏芳; English: Anne Yatco; Japanese: 田所あずさ; Korean: 차영희 |
 
 The official profile describes Shinku as a "dragon girl" who seems hard to approach but is always the first to charge into danger and shield her teammates.
 
@@ -64,6 +65,31 @@ Shinku builds Defiant Spirit with Basic Attacks, High-Speed Breach, and Breachin
 | Support Skill | Breaching Tactics | Delivers a forceful knee strike, dealing one instance of Cosmos DMG and gaining Defiant Spirit. |
 | Passive 1 | Lone Stride | Applies Charge Enhancement, granting off-field allies matching Charge when the active character gains Ultimate Energy. While Shinku is active in Charge state, each trigger deals area DMG and stacks an ATK buff up to ten times. |
 | Passive 2 | Wrathscale | Increases Ultimate DMG dealt against non-Boss enemies. |
+
+## Growth
+
+| Fact | Value |
+| --- | --- |
+| Base stats at Lv. 80 | HP 16,120, ATK 636, DEF 897, CRIT Rate 5%, CRIT DMG 50% |
+| Console bonus | CRIT DMG +16% for each Type III Module ([Consoles](/systems/consoles/)) |
+| Esper Cycle | Charge Enhancement, from the passive Lone Stride ([Esper Cycles](/systems/esper-cycles/)) |
+| Ascension to Lv. 80 | Lost Whispers → Obscure Whispers → Paradoxical Whispers (17, 18 and 15); Charging Knight Spark Plug ×86 |
+| Skill upgrades | Nestling's Longing → Dove's Flutter → The Olive Branch; Dress Hem of Vanity |
+
+## Awakenings
+
+Each duplicate unlocks one Awakening of the player's choice; Resonances unlock at 3 and 6 Awakenings.
+
+| Awakening | Effect |
+| --- | --- |
+| Rain-Lashed Alley | Shinku's damage ignores 12% of the target's DEF. |
+| Pre-Dawn Training Grounds | Reduces the target's Cosmos Resistance by 10% for 20s after the Ultimate hits. |
+| Sunset Beach | Keeps Menacing Gaze active after switching characters and allows Shinku to gain Menacing Gaze stacks while off-field. |
+| Snowfall Slope | Increases the Menacing Gaze stack cap to 16 stacks. Enhances the triggered Instant Strike when Menacing Gaze reaches 16 stacks, granting it the additional effects of the Instant Strike triggered by Parry Attack or Critical Riposte: inflicts Forced Knockback on the target, briefly stuns (not effective against Bosses) them, and deals an additional instance of DMG equal to 20% of Instant Strike DMG. |
+| Room of Laughter | Increases Shinku's DEF by 50% and Resistance to Interruptions by 50% during Surging Crimson, and recovers HP equal to 300% of her Base ATK after casting Scarlet Descent. |
+| Dragon's Treasure | Increases Shinku's damage ratios for Scarlet Descent, Crimson Judgment, and Dragonflame Verdict by 30%, and allows Scarlet Descent and Crimson Judgment to pull in targets within range. |
+| Resonance 3: Awakened Resolve | Increases the skill level of Basic Attack, Redirect Skill, and Ultimate by 1. Increases DMG dealt by an additional 30% while in Surging Crimson. |
+| Resonance 6: Crimson Hero | Increases Shinku's Crit Rate by 10% and causes her damage to ignore 15% of the target's DEF. |
 
 ## Signature Arc
 

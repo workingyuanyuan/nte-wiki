@@ -34,6 +34,7 @@ sources:
 | Attribute | Lakshana |
 | Arc type | Plasma |
 | Joined | Version 1.0 |
+| Voice actors | Chinese: 洪海天; English: Allegra Clark; Japanese: 市ノ瀬加那; Korean: 이다은 |
 
 The official profile describes Hathor as an elite courier, a job her Mentor gave her: precise, punctual, and able to find an unmarked drop-off in a storm without a map.
 
@@ -59,3 +60,28 @@ Hathor builds Express Delivery Power stacks using her Skill, Critical Riposte: Z
 | Support Skill | Impact Point Designation | Strikes from the air and kicks the target to trigger an impact, dealing two instances of area Lakshana DMG. |
 | Passive 1 | Delay Warning | Provides a Remora Enhancement that extends the target's Remora duration and increases Crit Rate when attacking targets affected by Remora. |
 | Passive 2 | Efficiency Boost | Grants one stack of Express Delivery Power after defeating a target. |
+
+## Growth
+
+| Fact | Value |
+| --- | --- |
+| Base stats at Lv. 80 | HP 15,998, ATK 644, DEF 884, CRIT Rate 5%, CRIT DMG 50% |
+| Console bonus | ATK Bonus +10% for each Type III Module ([Consoles](/systems/consoles/)) |
+| Esper Cycle | Remora Enhancement, from the passive Delay Warning ([Esper Cycles](/systems/esper-cycles/)) |
+| Ascension to Lv. 80 | Suspended Delusions → Yearning Delusions → Transcendent Delusions (17, 18 and 15); Colorful Ticket Stub ×86 |
+| Skill upgrades | Synchronicity of Thought → Resonance of Faith → Heart-Racing Night; Good Boy Stamp |
+
+## Awakenings
+
+Each duplicate unlocks one Awakening of the player's choice; Resonances unlock at 3 and 6 Awakenings.
+
+| Awakening | Effect |
+| --- | --- |
+| Elite Courier | Holding the Redirect Skill button for the first time in battle grants 6 stacks of Express Delivery Power. |
+| Thorn Dominion | Grants Hathor Express Delivery Power when Excellent Rating Lock and Five-Star Tracking naturally expire. |
+| Lost Wings | Hathor deals 15% increased damage to non-Boss targets. |
+| Engine Resonance | Increases the Crit Chance of the next Cyclone Strike by 25% each time Cyclone Strike is successfully cast while in Emergency Delivery state. This effect is cleared when the current Emergency Delivery state ends. |
+| Regular Sandwich | Increases damage against targets by 1% for every stack of Express Delivery Power gained. This effect stacks up to 15% and is removed upon leaving combat. |
+| Daily Life Walkthrough | Increases Crit DMG by 30% while in Emergency Delivery state. |
+| Resonance 3: Doubled Capacity | Increases the skill level of Rapid Delivery, Aerial Command, and Rider Express by 1. |
+| Resonance 6: Unhindered Passage | Ignores 10% of the target’s DEF while in Emergency Delivery state. |

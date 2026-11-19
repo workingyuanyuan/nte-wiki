@@ -33,6 +33,7 @@ sources:
 | Attribute | Anima |
 | Arc type | Solid |
 | Joined | Version 1.0 |
+| Voice actors | Chinese: 张安琪; English: Baraka May; Japanese: 田中理恵; Korean: 방시우 |
 
 The official profile says that at Sterry intel arrives before packages do, and that this network runs on Jiuyuan's coordination. She reads people from the smallest details.
 
@@ -58,3 +59,28 @@ Jiuyuan generates Rose Pact Bullets and binds enemies with Lethal Rose Pact thro
 | Support Skill | Intel Lock-On | Fires a curved bullet that deals one instance of Anima DMG and grants Rose Pact Bullets on hit. |
 | Passive 1 | Seize the Moment | Blossom Enhancement spawns one additional Vita Bud and raises the on-field Vita Bud limit to six. |
 | Passive 2 | Whispers at My Command | When Vita Pistils hit enemies, binds unbound targets with Lethal Rose Pact and triggers an additional settlement dealing extra Anima DMG on targets already bound. |
+
+## Growth
+
+| Fact | Value |
+| --- | --- |
+| Base stats at Lv. 80 | HP 15,635, ATK 652, DEF 909, CRIT Rate 5%, CRIT DMG 50% |
+| Console bonus | CRIT Rate +6% for each Type II Module ([Consoles](/systems/consoles/)) |
+| Esper Cycle | Blossom Enhancement, from the passive Seize the Moment ([Esper Cycles](/systems/esper-cycles/)) |
+| Ascension to Lv. 80 | Fading Silhouette → Blurred Silhouette → Chaos Silhouette (17, 18 and 15); Tear of the Sea ×86 |
+| Skill upgrades | FNG → CO → White Rose; Dress Hem of Vanity |
+
+## Awakenings
+
+Each duplicate unlocks one Awakening of the player's choice; Resonances unlock at 3 and 6 Awakenings.
+
+| Awakening | Effect |
+| --- | --- |
+| To Know, To Balance | Increases Jiuyuan's ATK by 5% for each target on the field bound by Lethal Rose Pact, up to 15%. |
+| Intel Turns Into Blades | Increases Lethal Rose Pact DMG Ratio by 100%. Restores HP to the entire team equal to 5% of the total damage accumulated by that Rose Pact whenever Pact Settlement is triggered by casting Final Reckoning. |
+| Advantage Established | Deducts an additional 4 Break from the settlement target when Pact Settlement is triggered by casting Final Reckoning. |
+| Strike to Kill | Increases DMG Ratio by 50% and affects targets within range when Pact Settlement is actively triggered. |
+| Intel Superiority | Jiuyuan's DMG against targets bound by Lethal Rose Pact increases by 8%. |
+| Know Every Secret | Deals 200% DMG Ratio to targets bound by Lethal Rose Pact each time they cast a skill. This effect has a 5s cooldown. |
+| Resonance 3: Doubled Capacity | Increases the skill level of When Secrets Take Shape, Intel Hunter, and Final Reckoning by 1. |
+| Resonance 6: Unhindered Passage | Reduces Anima Resistance of targets bound by Lethal Rose Pact by 10%. |

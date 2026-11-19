@@ -35,6 +35,7 @@ sources:
 | Attribute | Chaos |
 | Arc type | Liquid |
 | Joined | Version 1.0 |
+| Voice actors | Chinese: 陈彦亦; English: Natalie Van Sistine; Japanese: 大原さやか; Korean: 이명호 |
 
 The official profile describes Daffodill of the Eibon antique shop as someone who never quite knows how to start a conversation and would rather observe anomalies than people; her blade serves only those she deems worthy.
 
@@ -62,3 +63,28 @@ Daffodill focuses on Break Damage and quick-swapping: ally Support Skills stack 
 | Support Skill | Crossed Blades | Swings her blade in a slashing motion to deal one instance of Chaos DMG to the target. |
 | Passive 1 | Blade Draw | Discord Enhancement reduces the target's Break cap while affected by Discord, stacking up to a cap of its initial Break cap and restoring it upon leaving combat. |
 | Passive 2 | Cicada Shell | Increases the damage dealt by Phantom Step. |
+
+## Growth
+
+| Fact | Value |
+| --- | --- |
+| Base stats at Lv. 80 | HP 16,180, ATK 644, DEF 873, CRIT Rate 5%, CRIT DMG 50% |
+| Console bonus | Chaos DMG Bonus +10% for each Type III Module ([Consoles](/systems/consoles/)) |
+| Esper Cycle | Discord Enhancement, from the passive Blade Draw ([Esper Cycles](/systems/esper-cycles/)) |
+| Ascension to Lv. 80 | Suspended Delusions → Yearning Delusions → Transcendent Delusions (17, 18 and 15); Charging Knight Spark Plug ×86 |
+| Skill upgrades | Hesitation of the Waves → Suspended Whispers → The Second Self; Dress Hem of Vanity |
+
+## Awakenings
+
+Each duplicate unlocks one Awakening of the player's choice; Resonances unlock at 3 and 6 Awakenings.
+
+| Awakening | Effect |
+| --- | --- |
+| Eye | Increases allies' Resonance's DMG by 100% and Break by 250% per Support Skill cast. |
+| Mechanical March | Deals high damage to the target, generates Break, and fully charges Finale with the final attack if Phantom Step fails to Parry Attack the target. |
+| Assembly of Creations | Prevents Insight from being removed once applied, except when the target is neutralized or leaves combat. Allows repeated applications to stack, up to 2 stacks. |
+| In Concealment | Increases Break DMG by 15% for each stack of Insight when a target enters Break while under the Insight effect. |
+| Perfect Truth | Deals 1 additional instance of Break Damage per stack of Insight if the target enters Break while affected by Insight. |
+| Bloom in the Lake | Ignores 15% of the target's DEF when dealing damage. |
+| Resonance 3: Covert Operation | Increases the skill level of Still Waters, Resonance, and Witness This Finale by 1. |
+| Resonance 6: Sunlight and Sanctuary | Reduces a target's Chaos Resistance by 15% when they enter Break. |

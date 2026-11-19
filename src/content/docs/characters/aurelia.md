@@ -26,6 +26,7 @@ sources:
 | Attribute | Psyche |
 | Arc type | Plasma |
 | Joined | Version 1.0 |
+| Voice actors | Chinese: 葛子瑞; English: Kira Buckland; Japanese: 高橋花林; Korean: 정해은 |
 
 Game8 spells two of her skills "Capella" and "Canon Chorus"; Prydwen spells them "Cappella" and "Canzon Chorus". Her Bond Level cap was raised to 10 on 2026-10-21.
 
@@ -56,3 +57,28 @@ Aurelia fights by entering the Cadenza state with Cadenza Aria and riding a jell
 | Support Skill | Dissonance | Commands the jellyfish to strike, dealing one instance of area Psyche DMG on hit. |
 | Passive 1 | Harmonics | Nova Enhancement: Deals three instances of Psyche DMG to the target after their Nova status ends. |
 | Passive 2 | Crescendo | Increases Aurelia's ATK when a jellyfish blast hits a target, stacking up to ten times. |
+
+## Growth
+
+| Fact | Value |
+| --- | --- |
+| Base stats at Lv. 80 | HP 11,878, ATK 604, DEF 727, CRIT Rate 5%, CRIT DMG 50% |
+| Console bonus | ATK Bonus +10% for each Type III Module ([Consoles](/systems/consoles/)) |
+| Esper Cycle | Nova Enhancement, from the passive Harmonics ([Esper Cycles](/systems/esper-cycles/)) |
+| Ascension to Lv. 80 | Suspended Delusions → Yearning Delusions → Transcendent Delusions (17, 18 and 15); Nest Guard Fragment ×86 |
+| Skill upgrades | FNG → CO → White Rose; Good Boy Stamp |
+
+## Awakenings
+
+Each duplicate unlocks one Awakening of the player's choice; Resonances unlock at 3 and 6 Awakenings.
+
+| Awakening | Effect |
+| --- | --- |
+| Futuristic Prelude | Increases Crit Rate by 15% while in the Cadenza state. |
+| Unique Melody | Enters the Cadenza state for 5s after a successful Critical Dodge or casting Dissonance. Extends the duration by 5s if the state's already active. The Cadenza state lasts for up to 12s. |
+| Trio Rest | Increases Canon Chorus DMG by 20% while in the Cadenza state. |
+| Staff Gap | Increases Aurelia's DEF by 20% when casting Staccato. |
+| Simple Melody | Increases Canon Chorus's Crit Rate by 15%. |
+| Bygone Fugue | Increases the maximum stacks of Crescendo to 20. Grants 10 Crescendo stacks after casting Cadenza Aria. |
+| Resonance 3: Universal Harmony | Increases the skill levels of Cappella, Cadenza Aria, and Canon Chorus by 1. |
+| Resonance 6: Shared Melody | Increases all allies' Psyche DMG by 8% for 15s when entering the Cadenza state or when its duration is extended. Resets the duration when reapplied. |

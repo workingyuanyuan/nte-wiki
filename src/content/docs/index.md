@@ -35,10 +35,10 @@ sources:
 | Genre | Supernatural urban open-world RPG |
 | Developer, publisher | Hotta Studio; Perfect World Games (global) |
 | Launch | 2026-04-29, 11:00 (UTC+8) |
-| Platforms | PC, Mac, iOS, Android, PlayStation 5; [details](/systems/platforms/) |
+| Platforms | PC, Mac, iOS, Android, PlayStation 5 |
 | Setting | Hethereau; the player is the Appraiser of the antique shop Eibon |
-| Current version | [1.5 "Once Upon a Glitched Call"](/versions/1-5/), since 2026-11-11 |
-| Current Limited Boards | [Elyms](/characters/elyms/) and [Shinku](/characters/shinku/), until 2026-12-02 05:59 (UTC+8) |
+| Current version | 1.5 "Once Upon a Glitched Call", since 2026-11-11 |
+| Current Limited Boards | Elyms and Shinku, until 2026-12-02 05:59 (UTC+8) |
 
 ## Versions
 
@@ -53,11 +53,15 @@ sources:
 
 ## Systems and names
 
-| Page | Content |
-| --- | --- |
-| [Boards and Arc Research](/systems/boards/) | How to obtain characters and Arcs; every Limited Board with its dates |
-| [Platforms and servers](/systems/platforms/) | Platforms, servers, logins, system requirements |
-| [Names in three languages](/names/) | Names in English, Traditional and Simplified Chinese |
+- [Boards and Arc Research](/systems/boards/)
+- [Esper Cycles](/systems/esper-cycles/)
+- [Arcs](/systems/arcs/)
+- [Consoles](/systems/consoles/)
+- [Progression materials](/systems/progression/)
+- [Vehicles](/systems/vehicles/)
+- [Properties](/systems/properties/)
+- [Platforms and servers](/systems/platforms/)
+- [Names in three languages](/names/)
 
 ## Characters
 

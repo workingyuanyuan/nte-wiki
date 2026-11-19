@@ -31,6 +31,7 @@ sources:
 | Attribute | Psyche |
 | Arc type | Solid |
 | Joined | Version 1.0 |
+| Voice actors | Chinese: 苏子芜; English: Alexis Tipton; Japanese: 石見舞菜香; Korean: 김가령 |
 
 Game8 names her Basic Attack "Genesse Technique"; Prydwen names it "Paranormal Entrance".
 
@@ -63,6 +64,31 @@ Haniel deploys her speaker Hootie to grant a team ATK bonus and build Four-Part 
 | Support Skill | Easter Egg Time | Fires one magic projectile at the enemy, dealing one instance of Psyche DMG. |
 | Passive 1 | It's Friendship! | Provides a Nova Enhancement that lets allies drain ATK from the target based on Haniel's Base ATK when Nova ends, up to a cap, restoring both parties' stats upon leaving combat. |
 | Passive 2 | It's Bond! | Grants Haniel stacks of Plot Armor whenever the current character triggers Ensemble, increasing Paranormal Cannon's ricochet cap. Gains double stacks per Ensemble trigger during Paranormal Ace, up to four stacks total. |
+
+## Growth
+
+| Fact | Value |
+| --- | --- |
+| Base stats at Lv. 80 | HP 13,696, ATK 493, DEF 848, CRIT Rate 5%, CRIT DMG 50% |
+| Console bonus | ATK Bonus +10% for each Type III Module ([Consoles](/systems/consoles/)) |
+| Esper Cycle | Nova Enhancement, from the passive It's Friendship! ([Esper Cycles](/systems/esper-cycles/)) |
+| Ascension to Lv. 80 | Blurred Numeral → Unsolved Numeral → Distorted Numeral (17, 18 and 15); Nest Guard Fragment ×86 |
+| Skill upgrades | Hesitation of the Waves → Suspended Whispers → The Second Self; Dress Hem of Vanity |
+
+## Awakenings
+
+Each duplicate unlocks one Awakening of the player's choice; Resonances unlock at 3 and 6 Awakenings.
+
+| Awakening | Effect |
+| --- | --- |
+| New here! Genius transfer student reporting in! | Increases Plot Armor's max stacks to 6 and raises Paranormal Cannon's ricochet limit to 6. |
+| Legendary! The g'old back row window seat! | Increases Hootie's duration by 4s. |
+| Assemble! The hero team is formed! | Increases Haniel's Crit Chance by 20% while in Paranormal Ace state. |
+| Seaside! Beach episode! | While in Paranormal Ace state, if Haniel triggers Ensemble, her next attack's additional DMG increases by 100%. |
+| Crisis! Shattering trust! | Increases Haniel's Psyche DMG by 30% while in Paranormal Ace state. |
+| Finale! For the coming dawn! | Reduces Hootie's CD by 4s. |
+| Resonance 3: Prequel | Increases the skill level of Genesse Technique, Silent Moonlit Forest Guardian, and A Melody Named Haniel by 1. |
+| Resonance 6: Sequel | Increases the team's Crit DMG by 12% while in the Paranormal Ace state. |
 
 ## Outfits
 

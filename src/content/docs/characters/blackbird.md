@@ -31,6 +31,7 @@ sources:
 | Attribute | Psyche |
 | Arc type | Gas |
 | Joined | Version 1.4, 2026-09-30 |
+| Voice actors | Chinese: 井琉; English: Xanthe Huynh; Japanese: 能登麻美子; Korean: 문유정 |
 
 The official profile places Blackbird in the Witch's House deep in the forest. Locals know her simply as the Witch, a woman of few words with a talent for Divination.
 
@@ -58,6 +59,31 @@ Blackbird builds Malice and marks enemies with Forsaken Feather for off-field co
 | Support Skill | Judgment Upon Me, Naught but Mercy | Judgment Upon Me transforms into Lonesome Bird to deal Psyche DMG and gain Malice. While in the Witch of Deliverance state, it becomes Naught but Mercy, dealing Psyche DMG and consuming Malice on hit. |
 | Passive 1 | Thrushsong | Stain Enhancement boosts Stain's DMG Bonus and extends its duration. Nova Enhancement causes ending Nova to deal bonus Mental DMG scaling off actual damage taken while Nova was active, then reapplies Nova once without retriggering this reapplication. |
 | Passive 2 | Ever Onward | Grants 20 Malice when Blackbird casts Judgment Upon Me. |
+
+## Growth
+
+| Fact | Value |
+| --- | --- |
+| Base stats at Lv. 80 | HP 15,514, ATK 668, DEF 884, CRIT Rate 5%, CRIT DMG 50% |
+| Console bonus | CRIT Rate +8% for each Type III Module ([Consoles](/systems/consoles/)) |
+| Esper Cycle | Stain, Nova Enhancement, from the passive Thrushsong ([Esper Cycles](/systems/esper-cycles/)) |
+| Ascension to Lv. 80 | Blurred Numeral → Unsolved Numeral → Distorted Numeral (17, 18 and 15); Colorful Ticket Stub ×86 |
+| Skill upgrades | Hesitation of the Waves → Suspended Whispers → The Second Self; Eternal Memory |
+
+## Awakenings
+
+Each duplicate unlocks one Awakening of the player's choice; Resonances unlock at 3 and 6 Awakenings.
+
+| Awakening | Effect |
+| --- | --- |
+| Renegade | Consumes all Malice after Witch of Deliverance casts Flammae in Unum. Increases the DMG Ratio of Flames of Deliverance by 150%. |
+| Wayward Chronicle | Increases the DMG Ratio of Netherplume Rite by 100%. Increases DEF by 20% while in the Witch of Deliverance state. Restores HP equal to 400% of Base ATK after successfully casting Flames of Deliverance. |
+| Blind Spot | Increases the DMG Ratio of Blackbird's attacks that consume Malice by 50%. |
+| Bad Seed | Extends the duration of the ATK Bonus granted to all allies after casting Requies Animarum to 25s. Increases all allies' DMG dealt by 12% during this time. |
+| Revenant | Reduces the target's Psyche, Lakshana, and Chaos Resistances by 8% for 25s after Blackbird hits them and deals DMG. |
+| Mortal Coil | Increases the caster's Psyche DMG by 25% for 25s after casting Requies Animarum. Grants 4 Malice after Forsaken Bird performs a coordinated attack while Blackbird is not in the Witch of Deliverance state. |
+| Resonance 3: Atonement Unveiled | Increases the skill level of Fleeting Shadow, Pyreflame, Netherplume Rite, Flames of Deliverance, Requies Animarum, and Flammae in Unum by 1. Increases Requies Animarum's DMG Ratio by 100% and Flammae in Unum's DMG Ratio by 50%. Grants 20 Malice after casting Requies Animarum. |
+| Resonance 6: When the Stars Mourn | Increases the entire team's Crit DMG by 30% while Blackbird is on the team. |
 
 ## Signature Arc
 

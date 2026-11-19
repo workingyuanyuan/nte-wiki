@@ -6,6 +6,8 @@ This site is an unofficial wiki for the game Neverness to Everness (NTE, 異環)
 
 - Languages: English, Traditional Chinese (`/zh-tw/`) and Simplified Chinese (`/zh-cn/`, added by the owner on 2026-11-18).
 - Scope of the first release: 35 pages. Home, one page per version (1.0 to 1.5), one page per playable character (25), two system pages (Boards, platforms) and the names page.
+- Second release (2026-11-19): six system pages (Esper Cycles, Arcs, Consoles, progression materials, vehicles, properties) and Growth and Awakenings sections on every character page. The owner asked to prefer facts that two sites share and to leave out time-limited facts.
+- Game data: the owner accepted the versioned game data that nanoka.cc publishes (`static.nanoka.cc/nte/<version>/`, English and Simplified Chinese) as the source of in-game text: names, Arc stats and effects, Cartridge sets, Awakenings, base stats, materials, vehicles, properties. Only released content goes in (Exe and the Arc "Dotted Horizon" were in 1.5.4 data before release). Check samples against mysqil, Everness and the official notices, take a bounded number of files, and do not crawl the sites: nanoka.cc and everness.info carry `ai-train=no` and block AI crawlers.
 - Primary source: the global official site `nte.perfectworld.com`, because it is readable with a plain HTTP fetch. The Taiwan site `nte.iwplay.com.tw` is used only for Traditional Chinese names.
 - Do not label the service region beside each date. The pages state once, in the home page caveat and in `llms.txt`, that dates follow the global official site in UTC+8 and that mainland China is not covered.
 - Official art is used, by the owner's decision, although the publisher's Derivative Work Guidelines forbid direct copying of official materials. Credits go in the `art` frontmatter field and appear in the page notes at the end of the page, never under the picture. Remove an image when the publisher asks.
@@ -34,11 +36,11 @@ pnpm preview     # serve dist/ at http://127.0.0.1:4399/nte-wiki/ with GitHub Pa
 - Required frontmatter is enforced by `src/content.config.ts`. Optional: `effectiveDate` (date of the newest official notice used), `aliases` (the subject's name in the other scripts), `art` (credit links for the images on the page). The title and aliases together are the same set of strings in every language; the check script compares them.
 - `appliesTo` names the game version. `caveat` names the end of anything limited as an absolute date and time with `(UTC+8)`.
 - Quote a frontmatter value that contains a colon followed by a space.
-- Names: English from the English notes, Traditional Chinese from the Taiwan notices, Simplified Chinese from the `/cn/` notes. When no Taiwan text has a name, Chinese pages use the Simplified name in Traditional characters with Taiwan vocabulary (計畫, 介面); the names page leaves that Traditional cell empty. Skill names and the names of skill states stay in English in both languages, because no official Chinese source lists them.
-- Attributes in Chinese: 光 Cosmos, 靈 Anima, 咒 Incantation, 魂 Psyche (Taiwan news posts); 暗 Chaos, 相 Lakshana (Traditional Chinese guide sites). Arc types in Chinese are followed by the English in parentheses, for example 固態 (Solid); 氣態, 等離子 and 凝聚態 are converted from Simplified and have no Taiwan source yet.
-- Character pages follow one structure: portrait, Profile, How to obtain, Skills, then Signature Arc, Outfits, Story and modes where they apply. Portraits go in `public/art/characters/<slug>.webp`, cropped from the official site's mobile poster (left 95, top 150, width 560, height 686 of the 750×836 image). Adler, Edgar, Haniel, Aurelia and Skia have no profile on the official site and so no portrait.
+- Names: English from the English notes, Traditional Chinese from the Taiwan notices, Simplified Chinese from the `/cn/` notes. When no Taiwan text has a name, Chinese pages use the Simplified name in Traditional characters with Taiwan vocabulary (計畫, 介面); the names page leaves that Traditional cell empty. Skill names and the names of skill states in the Skills tables stay in English in both languages (written before game data was a source). The Growth, Awakenings and system tables use the game's own Chinese text, converted to Traditional characters with Taiwan forms (後台, 舞台, 回復); game Simplified names in them must survive the round trip to `zh-cn` unchanged.
+- Attributes in Chinese: 光 Cosmos, 靈 Anima, 咒 Incantation, 魂 Psyche (Taiwan news posts); 暗 Chaos, 相 Lakshana (Traditional Chinese guide sites). Arc types in Chinese are followed by the English in parentheses, for example 固態 (Solid). The game's Chinese text names the five types 固态, 液态, 气态, 等离子 and 聚合 (Condensate); 聚合 replaced the earlier 凝聚態.
+- Character pages follow one structure: portrait, Profile (with voice actors), How to obtain, Skills, Growth, Awakenings, then Signature Arc, Outfits, Story and modes where they apply. Portraits go in `public/art/characters/<slug>.webp`, cropped from the official site's mobile poster (left 95, top 150, width 560, height 686 of the 750×836 image). Adler, Edgar, Haniel, Aurelia and Skia have no profile on the official site and so no portrait.
 - When a version changes: add the version page, add the Board to `systems/boards.md` and to the three A-Class pages that share it, update the home page (current version, current Boards, tables), the caveats that name "Version 1.5", and `LLMS_NOTES`.
-- The home page must link every page within its first 5,000 extracted characters. It is close to the limit: shorten cells before adding rows.
+- The home page must link every page within its first 5,000 extracted characters. The English home page is about 50 characters under the limit (the check counts absolute URLs): shorten cells or drop duplicate links before adding rows. System pages are a plain link list there.
 
 ## Skin rules
 
@@ -71,7 +73,7 @@ pnpm preview     # serve dist/ at http://127.0.0.1:4399/nte-wiki/ with GitHub Pa
 | `scripts/to-zh-cn.py` | Writes the Simplified Chinese pages from the Traditional Chinese ones |
 | `tests/agent-eval/` | Fetch tool, questions and method for the agent test |
 
-## Sources checked on 2026-11-18 (plain HTTP fetch, no JavaScript)
+## Sources checked on 2026-11-18 and 2026-11-19 (plain HTTP fetch unless noted)
 
 | Source | Result | Use |
 | --- | --- | --- |
@@ -84,6 +86,10 @@ pnpm preview     # serve dist/ at http://127.0.0.1:4399/nte-wiki/ with GitHub Pa
 | `game8.co/games/Neverness-to-Everness/archives/<id>` | Full text after about 2,000 characters of site navigation. Build pages name the main skill of each slot; Arc type is an image. Character list: `592067` | Cross-check, rank |
 | `wiki.biligame.com/nte/<name>` | Returns a portal page instead of the article | Not readable |
 | `neverness.gg` | Data pages render with JavaScript; its mirrored patch notes differ from the official ones in places | Do not use |
+| `static.nanoka.cc/nte/1.5.4/{en,zh}/` (`item.json`, `console.json`, `vehicle.json`, `home.json`, `character/<id>.json`, `weapon/<id>.json`; `weapon.json` and `character.json` at the version root) | Plain JSON of the game data, versioned; no Traditional Chinese. Some English fields hold untranslated Chinese (vehicle brands and a few names; their English names come from the patch notes) | In-game text |
+| `wiki.mysqil.com` | Static Simplified Chinese guide site, CC BY-NC-SA 4.0; takes part of its data from nanoka.cc and everness.info, so it is not independent of them; lags behind the game data (51 Arcs, 6 properties at 1.5) | Cross-check |
+| `everness.info` | Data renders with JavaScript (a browser is needed); same game data as nanoka.cc | Cross-check |
+| `prydwen.gg/neverness-to-everness/guides/<slug>` | System guides as plain text (`esper-cycles`, `modules-generic`, `modules-cartridge`, `character-progression`) | Mechanics not in the game data |
 | Fandom, Mobalytics, wiki.gg, thegameswiki.com | 403, 403, 401, 429 | Not readable |
 
 Mid-version changes (the second Board of each version) are announced in notices titled "Server Maintenance Notice", not in the patch notes.

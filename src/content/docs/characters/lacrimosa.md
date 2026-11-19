@@ -33,6 +33,7 @@ sources:
 | Attribute | Chaos |
 | Arc type | Liquid |
 | Joined | Version 1.1, 2026-06-03 |
+| Voice actors | Chinese: 宴宁; English: Baraka May; Japanese: 長縄まりあ; Korean: 김보나 |
 
 The official profile calls Lacrimosa "ETD-4's adorable little ace": a girl of few words who loves tomatoes and whose property damage tally grows as fast as her fan mail.
 
@@ -63,6 +64,31 @@ Lacrimosa switches between Tomato Metal and Tomato Percussion forms to stack Nig
 | Support Skill | Microwake | Manipulates Esper Ability Constructs to deal one instance of Chaos DMG in an area. |
 | Passive 1 | Tomato Banquet | Discord Enhancement deals additional ATK-based DMG when Discord triggers against a target that is already Broken. |
 | Passive 2 | Sleep In | Grants one extra cast of Morning Tomato after using Tomato Metal or Tomato Percussion five times during the skill cooldown, activating once per cooldown. |
+
+## Growth
+
+| Fact | Value |
+| --- | --- |
+| Base stats at Lv. 80 | HP 15,998, ATK 636, DEF 909, CRIT Rate 5%, CRIT DMG 50% |
+| Console bonus | Chaos DMG Bonus +10% for each Type III Module ([Consoles](/systems/consoles/)) |
+| Esper Cycle | Discord Enhancement, from the passive Tomato Banquet ([Esper Cycles](/systems/esper-cycles/)) |
+| Ascension to Lv. 80 | Lost Whispers → Obscure Whispers → Paradoxical Whispers (17, 18 and 15); Confessional Flower Seed ×86 |
+| Skill upgrades | Hesitation of the Waves → Suspended Whispers → The Second Self; Dress Hem of Vanity |
+
+## Awakenings
+
+Each duplicate unlocks one Awakening of the player's choice; Resonances unlock at 3 and 6 Awakenings.
+
+| Awakening | Effect |
+| --- | --- |
+| Clock Out Clemency | Increases the DMG Ratio of Nightmare to {0}% at the current skill level. |
+| Rise and Shine | Increases Lacrimosa's damage dealt by 15% for 15s when she switches in using a Support Skill. |
+| Molten Ice Cream | Triggers all accumulated Nightmare effects on the target at once when the 5th hit of Tomato Metal or Tomato Percussion lands. |
+| Almighty Lord of Tomatoes | Extends Nightmare duration to 6s. |
+| Tempered Glass Judgment | Reduces the target's Max HP by 200% of the Nightmare DMG dealt when dealing Nightmare DMG. Restores her HP every 3s based on the Nightmare DMG dealt during that period, restoring HP equal to 1.5% of the total Nightmare DMG dealt. Prevents Nightmare stacks from being removed when the target is healed. |
+| Morning Spell | Allows Lacrimosa to automatically cast her Support Skill and trigger the corresponding cycle without Cycle Energy accumulation when switching to her from any character that can trigger Esper Cycle: Nova, Scorch, or Discord within 5s after casting Devilish Gift. Triggers up to once per 5s. |
+| Resonance 3: The Heart's Drowsy Flames | Increases the skill level of Sweet and Sour, Morning Tomato, Devilish Gift, and Working Day Judgement by 1. Reduces the Stamina cost to 85% while flying in bat form. |
+| Resonance 6: Lullaby | Lacrimosa's damage ignores 20% of the target's DEF. Reduces the Stamina cost to 70% while flying in bat form. |
 
 ## Signature Arc
 

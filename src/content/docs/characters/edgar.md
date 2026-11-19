@@ -26,6 +26,7 @@ sources:
 | Attribute | Cosmos |
 | Arc type | Liquid |
 | Joined | Version 1.0 |
+| Voice actors | Chinese: 四白; English: Casey Mongillo; Japanese: 三瓶由布子; Korean: 장채연 |
 
 ## How to obtain
 
@@ -56,3 +57,28 @@ Edgar heals allies through his channeled Skill and Ultimate domain, earns Key of
 | Support Skill | Weight of Knowledge | Charges toward the target and swings his bag, dealing one instance of area Cosmos DMG. |
 | Passive 1 | Gentle Edge | Charge Enhancement instantly grants Ultimate Energy when a character triggers Charge with a Support Skill, then temporarily disables Ultimate Energy gain from Vita Pistils hitting Slowed targets. |
 | Passive 2 | Unchanging Warmth | Casting Redirect Skill Wild Current or Support Skill Weight of Knowledge grants a Key of Truth, up to three keys; each key extends the duration of his Ultimate (referred to as Finnegan's Vigil). |
+
+## Growth
+
+| Fact | Value |
+| --- | --- |
+| Base stats at Lv. 80 | HP 16,362, ATK 421, DEF 824, CRIT Rate 5%, CRIT DMG 50% |
+| Console bonus | HP Bonus +10% for each Type III Module ([Consoles](/systems/consoles/)) |
+| Esper Cycle | Charge Enhancement, from the passive Gentle Edge ([Esper Cycles](/systems/esper-cycles/)) |
+| Ascension to Lv. 80 | Lost Whispers → Obscure Whispers → Paradoxical Whispers (17, 18 and 15); Colorful Ticket Stub ×86 |
+| Skill upgrades | Nestling's Longing → Dove's Flutter → The Olive Branch; Good Boy Stamp |
+
+## Awakenings
+
+Each duplicate unlocks one Awakening of the player's choice; Resonances unlock at 3 and 6 Awakenings.
+
+| Awakening | Effect |
+| --- | --- |
+| Anomaly-Loving Observer | Grants Edgar 1 Key of Truth whenever any teammate casts a Support Skill. |
+| Intern Anomaly Hunter | Caps the max cooldown extension from Wild Current at 3s. |
+| One of the Eibon Detectives | Increases Wild Current's healing effectiveness for allies with current HP below 30% by 15%. |
+| Skilled Strategist | Wild Current DMG +50% |
+| Guardian of the Antique Shop's Light | Edgar's Max HP +20% |
+| Visitor from Planet Curiosity | Grants 15% DEF to all allies in the range of Finnegan's Wake. |
+| Resonance 3: Pursuit of Knowledge | Increases the skill level of Wild Current, Finnegan's Wake, and Weight of Knowledge by 1. |
+| Resonance 6: Keen Insight | Edgar's thoughts are stirred by his allies' safety. Converts 3% of any teammate's Max HP lost into 1 Charge for Finnegan's Vigil, up to 20 Charges. Resets after casting Finnegan's Vigil. |

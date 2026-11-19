@@ -31,6 +31,7 @@ sources:
 | Attribute | Anima |
 | Arc type | Liquid |
 | Joined | Version 1.2, second half, 2026-07-29 |
+| Voice actors | Chinese: 汪悦; English: Rachel Lepore; Japanese: 日高里菜; Korean: 이주은 |
 
 The official profile says Iroi is warm and approachable and puts people at ease the moment they meet her; every pattern of her behaviour matches what people expect of a "perfectly normal girl".
 
@@ -58,6 +59,31 @@ Iroi builds Imagination through Basic Attacks, Skill, Support Skill, and allies 
 | Support Skill | Bang! | Strikes forward with Morpheus to deal one instance of Anima DMG, heal all team members, and build Imagination. |
 | Passive 1 | Mirror Image | Provides a Blossom Enhancement that spawns one Vita Bud Copy once a Vita Bud persists, firing Copied Vita Pistils at nearby targets. |
 | Passive 2 | Sympathetic Nerves | Grants all team members additional DEF Ignore when performing healing. |
+
+## Growth
+
+| Fact | Value |
+| --- | --- |
+| Base stats at Lv. 80 | HP 17,210, ATK 596, DEF 909, CRIT Rate 5%, CRIT DMG 50% |
+| Console bonus | ATK Bonus +10% for each Type III Module ([Consoles](/systems/consoles/)) |
+| Esper Cycle | Blossom Enhancement, from the passive Mirror Image ([Esper Cycles](/systems/esper-cycles/)) |
+| Ascension to Lv. 80 | Fading Silhouette → Blurred Silhouette → Chaos Silhouette (17, 18 and 15); A Page from Delusion's Shore ×86 |
+| Skill upgrades | FNG → CO → White Rose; Good Boy Stamp |
+
+## Awakenings
+
+Each duplicate unlocks one Awakening of the player's choice; Resonances unlock at 3 and 6 Awakenings.
+
+| Awakening | Effect |
+| --- | --- |
+| Iterated Prisoner's Dilemma | Restores 3 Imagination per second while Iroi is off-field. Increases Imagination gain efficiency by 30% and grants Iroi maximum Imagination upon entering battle. |
+| Strategy: Tit for Tat | Summons Morpheus, Icelos, or Phantasos at random when any ally casts a skill, performing 1 assist attack that deals DMG equal to 200% of Iroi's ATK. Restores the whole team's HP by 120% of Iroi's ATK. Cooldown: 5s. |
+| Trait: Cooperative | Increases Iroi's healing effects by 36%. |
+| Trait: Retaliatory | Increases the ATK Ratio for lambs replacing allies in the Regression state. Morpheus: Sweet Dreams: up by 30% Base Ratio Deep Slumber: up by 30% Base Ratio Icelos: Little Prick: up by 30% Base Ratio Double Dose: up by 30% Base Ratio Phantasos: Lullaby Time: up by 30% Base Ratio Off-Key: up by 30% Base Ratio. |
+| Trait: Transparent | Additional Sympathetic Nerves Effect: Increases the whole team's ATK by 15% of Iroi's Base ATK for 20s. |
+| Trait: Forgiving | Grants 100% HP, 50 Cycle Energy, and 50 Ultimate Energy to characters revived after she casts 3.8-Billion-Year Mirage. |
+| Resonance 3: Primate Among All Things | Increases the skill level of Collaboration, Future Self Continuity, and 3.8-Billion-Year Mirage by 1. Increases the whole team's DEF by 30% while Iroi is on the team. |
+| Resonance 6: Self-Proclaimed Crown of Creation | Increases the whole team's Crit DMG by 25% while Iroi is on the team. Increases Iroi's DMG dealt by 15% and Crit Rate by 5% for each ally in the Regression state. |
 
 ## Signature Arc
 

@@ -33,6 +33,7 @@ sources:
 | Attribute | Anima |
 | Arc type | Plasma |
 | Joined | Version 1.0, at launch on 2026-04-29 |
+| Voice actors | Chinese: 宋媛媛; English: Brittany Lauda; Japanese: 竹達彩奈; Korean: 강새봄 |
 
 The official profile calls Nanally Colucci the top ace of Eibon Antique Shop and the self-styled "Ichi-daime" of the Colucci family.
 
@@ -63,6 +64,31 @@ Nanally chains uninterrupted five-hit combos into Heavy Hitter! strikes while em
 | Support Skill | Justice from Above | Charges with a spinning motion and delivers a kick, dealing one instance of AoE Anima DMG. |
 | Passive 1 | More Than Passionate | Blossom Enhancement causes each Vita Bud to fire ten Vita Pistils with a reduced firing interval. |
 | Passive 2 | Fair Duel | While in the Ichi-daime's Authority state, triggers an Anima follow-up attack scaling with Basic Attack level on a single enemy whenever any teammate deals Esper Cycle DMG. |
+
+## Growth
+
+| Fact | Value |
+| --- | --- |
+| Base stats at Lv. 80 | HP 15,998, ATK 636, DEF 909, CRIT Rate 5%, CRIT DMG 50% |
+| Console bonus | CRIT Rate +6% for each Type II Module ([Consoles](/systems/consoles/)) |
+| Esper Cycle | Blossom Enhancement, from the passive More Than Passionate ([Esper Cycles](/systems/esper-cycles/)) |
+| Ascension to Lv. 80 | Fading Silhouette → Blurred Silhouette → Chaos Silhouette (17, 18 and 15); A Page from Delusion's Shore ×86 |
+| Skill upgrades | FNG → CO → White Rose; Good Boy Stamp |
+
+## Awakenings
+
+Each duplicate unlocks one Awakening of the player's choice; Resonances unlock at 3 and 6 Awakenings.
+
+| Awakening | Effect |
+| --- | --- |
+| Gang Formation | Grants Nanally 2.5 Ultimate Energy for each follow-up attack she performs. Triggers at most once every 1s. |
+| Second Member | Underboss lasts 3s longer. |
+| Call Me the Boss | Applies 1 follow-up attack to a single enemy, dealing Anima DMG of {0}% ATK whenever Nanally deals damage to an enemy while she's in Ichi-daime's Authority state. DMG Ratio scales with Basic Attack skill level, reaching 107.9% at Lvl 11. Triggers once per second. |
+| Not a Troublemaker | Increases Underboss's damage by 100%. |
+| Followers Everywhere | Increases Nanally's ATK by 2% for each follow-up attack she performs, up to 20%. Disappears when Nanally leaves the battlefield or exits combat. |
+| Because We're Family | Extends the duration of Ichi-daime's Authority state to 15s, and further extends it to 20s when out of combat. |
+| Resonance 3: Colucci Secrets - Part 1 | Increases the skill level of Colucci Secret Skill, Colucci Howling Technique, and Colucci Ultimate Technique by 1. |
+| Resonance 6: Colucci Secrets - Part 2 | Increases damage dealt by 15%. |
 
 ## Signature Arc
 

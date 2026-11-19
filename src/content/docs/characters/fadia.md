@@ -34,6 +34,7 @@ sources:
 | Attribute | Psyche |
 | Arc type | Condensate |
 | Joined | Version 1.0 |
+| Voice actors | Chinese: 裴致莹; English: Amber Lee Connors; Japanese: 真堂圭; Korean: 조현정 |
 
 The official profile says that even by the enigmatic hiring standards of the ETD, Fadia is something else entirely; most of her colleagues at the Bureau cannot handle her.
 
@@ -59,3 +60,28 @@ Fadia redirects a portion of damage taken by teammates to herself while above 1 
 | Support Skill | Outsider | Swings her cross shield to deal one instance of Psyche DMG to an area. |
 | Passive 1 | Furnace of Guilt | Provides a Nova Enhancement that lets all allies drain Max HP from the target when Nova ends, up to a cap based on Fadia's base Max HP, restoring both parties' stats upon leaving combat. |
 | Passive 2 | Denial and Plunder | Increases the team's Max HP while Fadia is in the team. |
+
+## Growth
+
+| Fact | Value |
+| --- | --- |
+| Base stats at Lv. 80 | HP 17,089, ATK 596, DEF 909, CRIT Rate 5%, CRIT DMG 50% |
+| Console bonus | HP Bonus +6% for each Type II Module ([Consoles](/systems/consoles/)) |
+| Esper Cycle | Nova Enhancement, from the passive Furnace of Guilt ([Esper Cycles](/systems/esper-cycles/)) |
+| Ascension to Lv. 80 | Fading Silhouette → Blurred Silhouette → Chaos Silhouette (17, 18 and 15); Water Moon Pick ×86 |
+| Skill upgrades | Synchronicity of Thought → Resonance of Faith → Heart-Racing Night; Dress Hem of Vanity |
+
+## Awakenings
+
+Each duplicate unlocks one Awakening of the player's choice; Resonances unlock at 3 and 6 Awakenings.
+
+| Awakening | Effect |
+| --- | --- |
+| Apostate | Fadia's damage redirect ratio is increased to 75%. |
+| Instinct | Increases the damage ratio enemies take through Destructive Experience to 600% and raises its damage cap to 25% of Fadia’s Max HP. Deals immediate damage equal to the difference between the damage already taken and the damage cap when Destructive Experience is removed. |
+| Curser of Blessings | Upon entering combat, Fadia increases her base Max HP by 30%. After leaving combat, she loses the increased Max HP. |
+| Breaker of Taboos | Increases Fadia's healing ratio to 30% of Max HP while in Lilith form. Further increases the healing ratio to 60% of Max HP when her lost HP is greater than or equal to the Destructive Threshold. |
+| Survivor of Death | Increases Fadia's CRIT Rate by 50% while in Lilith state. |
+| Bringer of Love and Death | Inflicts Destructive Experience on up to 10 targets within range. Each Destructive Experience's duration and damage cap are calculated individually. |
+| Resonance 3: The Disrespecting Saint | Increases the skill level of Wordless Rejection, Existence, and Agony to Euphoria by 1. |
+| Resonance 6: The Unified Saint | Grants all team members 10% ATK while Fadia is on the team. |

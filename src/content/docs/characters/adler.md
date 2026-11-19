@@ -26,6 +26,7 @@ sources:
 | Attribute | Incantation |
 | Arc type | Condensate |
 | Joined | Version 1.0 |
+| Voice actors | Chinese: 王宇航; English: Jacob Craner; Japanese: 森川智之; Korean: 심규혁 |
 
 ## How to obtain
 
@@ -56,3 +57,28 @@ Adler builds Karma stacks through Basic Attacks and consumes them with his Skill
 | Support Skill | Pristine Reflection | Aims and fires one Compressed Round at the enemy, dealing one instance of area Incantation DMG on hit. |
 | Passive 1 | Temperance | Scorch Enhancement: Whenever Scorch is inflicted on a target, applies one of three random debuffs that reduce ATK, reduce Esper RES, or increase Break Efficiency. The same debuff effect cannot stack. |
 | Passive 2 | Righteous Heart | Increases Adler's DEF. |
+
+## Growth
+
+| Fact | Value |
+| --- | --- |
+| Base stats at Lv. 80 | HP 14,302, ATK 437, DEF 994, CRIT Rate 5%, CRIT DMG 50% |
+| Console bonus | DEF Bonus +12% for each Type III Module ([Consoles](/systems/consoles/)) |
+| Esper Cycle | Scorch Enhancement, from the passive Temperance ([Esper Cycles](/systems/esper-cycles/)) |
+| Ascension to Lv. 80 | Blurred Numeral → Unsolved Numeral → Distorted Numeral (17, 18 and 15); Water Moon Pick ×86 |
+| Skill upgrades | First Expectations → Known Weariness → Black Hat; Dress Hem of Vanity |
+
+## Awakenings
+
+Each duplicate unlocks one Awakening of the player's choice; Resonances unlock at 3 and 6 Awakenings.
+
+| Awakening | Effect |
+| --- | --- |
+| Form | Grants Adler 20 stacks of Karma when casting Tranquility. |
+| Sensation | Each stack of Karma grants Adler 3% DMG Bonus. |
+| Perception | Increases the Shield of Blessing by 20%. |
+| Formation | Absorbs a portion of overflow damage based on 50% of Adler's DEF when Blessing breaks. |
+| Discernment | Grants Adler 20 Ultimate Energy when casting Tranquility. |
+| All Forms Are Void | Extends the duration of Blessing to 12s. |
+| Resonance 3: Cleanse | Increases the skill level of Deliverance, Evil's Bane, and Tranquility by 1. |
+| Resonance 6: Enlightened Guardian | Increases team's Incantation DMG by 10% while protected by Blessing. |

@@ -37,6 +37,7 @@ sources:
 | Attribute | Lakshana |
 | Arc type | Condensate |
 | Joined | Version 1.1, second half, 2026-06-24 |
+| Voice actors | Chinese: 淦子齐; English: Rick Kumazawa; Japanese: 小西克幸; Korean: 원종준 |
 
 The official profile introduces Chaos as the combat core of ETD-6, "the enforcer who never misses a mission".
 
@@ -68,6 +69,31 @@ Chaos builds Crime with attacks and rapidly generates it during his Ultimate's D
 | Support Skill | Onslaught | Swings his scythe upward to deal one instance of Lakshana DMG. |
 | Passive 1 | Justice in Time | Remora Enhancement deals ATK-scaled Lakshana DMG to the target when Remora ends, increasing total DMG for time elapsed beyond Remora's base duration and resetting Remora's duration when reapplied. |
 | Passive 2 | Prime Target | Increases the damage bonus gained when attacking enemies inflicted with Warrant. |
+
+## Growth
+
+| Fact | Value |
+| --- | --- |
+| Base stats at Lv. 80 | HP 15,756, ATK 636, DEF 921, CRIT Rate 5%, CRIT DMG 50% |
+| Console bonus | CRIT DMG +16% for each Type III Module ([Consoles](/systems/consoles/)) |
+| Esper Cycle | Remora Enhancement, from the passive Justice in Time ([Esper Cycles](/systems/esper-cycles/)) |
+| Ascension to Lv. 80 | Suspended Delusions → Yearning Delusions → Transcendent Delusions (17, 18 and 15); Tear of the Sea ×86 |
+| Skill upgrades | Synchronicity of Thought → Resonance of Faith → Heart-Racing Night; Eternal Memory |
+
+## Awakenings
+
+Each duplicate unlocks one Awakening of the player's choice; Resonances unlock at 3 and 6 Awakenings.
+
+| Awakening | Effect |
+| --- | --- |
+| Piercing Insight | Grants an additional 40% Crime when attacking enemies with Warrant. |
+| Charge / Sin | Ignores 20% of the target's DEF when attacking enemies with Warrant. |
+| Emberflare | Increases Crit DMG by 30% for 20s after casting Retribution. Resets the duration when triggered again. |
+| Drowning Tide | Transfers Warrant to a nearby unmarked target and recalculates its duration when defeating a target with Warrant. |
+| Voidgaze | Increases damage dealt to the target by 20% when only 1 target with Warrant remains on the field. |
+| False Origin | Immediately restores Crime to its cap after casting Retribution. |
+| Resonance 3: Justice / Truth | Increases the skill level of Pursuit, Doubtmark, and Retribution by 1. |
+| Resonance 6: Light / Daybreak | Reduces the Lakshana Resistance of enemies with Warrant by 10%. |
 
 ## Signature Arc
 

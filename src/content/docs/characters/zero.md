@@ -39,6 +39,7 @@ sources:
 | Attribute | Cosmos |
 | Arc type | Solid |
 | Joined | Version 1.0 |
+| Voice actors | Chinese: 马洋; English: Hunter McCoy; Japanese: 内田雄馬; Korean: 박기욱 |
 
 Zero is the player character, the Appraiser. The official profile describes an Esper who emerged from nothingness with an uncanny sense for the "Nexus" inside every anomaly, sent by the Bureau to work at the Eibon antique shop without an anomaly hunter licence. Zero can be played as male or female.
 
@@ -58,6 +59,31 @@ Zero deals Cosmos DMG with Appraisal combos, fires an Esper Cannon via Appraise 
 | Support Skill | Rift Blossom | Slashes through space and detonates a rift, dealing two instances of Cosmos DMG to an area. |
 | Passive 1 | Appraiser | Applies Charge Enhancement, restoring HP based on Zero's Base ATK whenever the active character gains Ultimate Energy. |
 | Passive 2 | Anomaly Perception | Increases the damage dealt by Ultimate: Divide by Zero. |
+
+## Growth
+
+| Fact | Value |
+| --- | --- |
+| Base stats at Lv. 80 | HP 15,150, ATK 676, DEF 909, CRIT Rate 5%, CRIT DMG 50% |
+| Console bonus | ATK Bonus +10% for each Type III Module ([Consoles](/systems/consoles/)) |
+| Esper Cycle | Charge Enhancement, from the passive Appraiser ([Esper Cycles](/systems/esper-cycles/)) |
+| Ascension to Lv. 80 | Lost Whispers → Obscure Whispers → Paradoxical Whispers (17, 18 and 15); Charging Knight Spark Plug ×86 |
+| Skill upgrades | Nestling's Longing → Dove's Flutter → The Olive Branch; Good Boy Stamp |
+
+## Awakenings
+
+Each duplicate unlocks one Awakening of the player's choice; Resonances unlock at 3 and 6 Awakenings.
+
+| Awakening | Effect |
+| --- | --- |
+| Blooming Gaze | Deals 1 additional hit of 200% ATK to enemies of lower level on first hit. This damage ignores 75% of the target's DEF. |
+| Finding the Calling | Grants an additional 8 Ultimate Energy after successfully casting Appraise and Engrave. |
+| Anomalies Record | Increases Divide by Zero's Crit Chance by 50%. |
+| Undecided Factors | Every 1 point of Zero's Base ATK increases Ultimate: Divide by Zero damage by 0.1%, up to a maximum of 25%. |
+| Theopneustos | Increases Zero's ATK by 10% for 20s when triggering Support Skill. |
+| Deceptive Liberation | Increases Extra DMG Ratio of Appraise and Engrave to 300% of ATK. |
+| Resonance 3: Discern | Increases the skill level of Appraisal, Appraise and Engrave, and Divide by Zero by 1. |
+| Resonance 6: Zero Display | Grants the team 12% ATK for 20s when Zero triggers any Cosmos Esper Cycle. |
 
 ## Outfits
 

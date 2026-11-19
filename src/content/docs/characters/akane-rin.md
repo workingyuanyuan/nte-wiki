@@ -34,6 +34,7 @@ sources:
 | Attribute | Lakshana |
 | Arc type | Liquid |
 | Joined | Version 1.4, second half, 2026-10-21 |
+| Voice actors | Chinese: 陈怡萱; English: Cristina Vee; Japanese: 長谷川育美; Korean: 김하루 |
 
 The official profile describes Akane as golden-haired and made for the spotlight, yet usually found in a quiet corner with her headphones on, lost in her own music. The notes also call her Akane.
 
@@ -61,6 +62,31 @@ Akane Rin builds String Energy with Stringblade and sets either single-target Ov
 | Support Skill | Altered Chord | Strikes the strings with a powerful strum, dealing one instance of Lakshana DMG. |
 | Passive 1 | Perfect Pitch | Remora Enhancement: After the team first triggers Remora, periodically applies Remora to targets with Overtone or inside Reverb Field until leaving combat. Reapplying Remora triggers extra Lakshana DMG counting as Redirect Skill DMG, scaling up with each target's remaining Remora duration. |
 | Passive 2 | Starlit Anthem | Increases Akane Rin's ATK after casting Sonic Boom. This effect does not stack and resets its duration when triggered again. |
+
+## Growth
+
+| Fact | Value |
+| --- | --- |
+| Base stats at Lv. 80 | HP 15,998, ATK 636, DEF 921, CRIT Rate 5%, CRIT DMG 50% |
+| Console bonus | ATK Bonus +10% for each Type III Module ([Consoles](/systems/consoles/)) |
+| Esper Cycle | Remora Enhancement, from the passive Perfect Pitch ([Esper Cycles](/systems/esper-cycles/)) |
+| Ascension to Lv. 80 | Suspended Delusions → Yearning Delusions → Transcendent Delusions (17, 18 and 15); Charging Knight Spark Plug ×86 |
+| Skill upgrades | Synchronicity of Thought → Resonance of Faith → Heart-Racing Night; Good Boy Stamp |
+
+## Awakenings
+
+Each duplicate unlocks one Awakening of the player's choice; Resonances unlock at 3 and 6 Awakenings.
+
+| Awakening | Effect |
+| --- | --- |
+| After-School Tabs | Restores HP equal to 1000% of Akane Rin's Base ATK each time Synced Resonance is cast. Increases her DEF by 50% and Resistance to Interruptions by 60% for 15s. |
+| Capo On | Reduces enemies' Lakshana Resistance by 12% while affected by Overtone or within Reverb Field. |
+| Shade Capsules | Adds a flat 1000% to Rhythm Wave's DMG Ratio when it's pressed to inflict Overtone. Increases Reverb Field's radius by 30%. Pulls in enemies within range when Reverb Field is deployed by holding down Rhythm Wave. |
+| Headphone Static | Increases Akane Rin's Crit DMG by 30% for 15s after casting Synced Resonance. |
+| Rehearsal Click | Increases the DMG Ratio bonus for Basic Attacks relayed by Overtone to 64%. Increases the DMG bonus for Basic Attacks relayed by Reverb Field to 90%. |
+| Front-Row Supernova | Starlit Anthem additionally grants Akane Rin 16% DEF ignore. |
+| Resonance 3: Diatonic | Increases the skill level of Akane Rin's Basic Attack, Redirect Skill, and Ultimate by 1. Fully restores String Energy upon entering battle. Adds a flat 800% to Synced Resonance's DMG Ratio. Adds a flat 1000% to Sonic Boom's second-instance DMG Ratio. |
+| Resonance 6: Polyphony | Refunds 10 String Energy after Synced Resonance is cast. Increases Akane Rin's Crit DMG by 64% for 25s after she casts Synced Resonance. |
 
 ## Signature Arc
 

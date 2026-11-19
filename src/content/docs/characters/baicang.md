@@ -33,6 +33,7 @@ sources:
 | Attribute | Incantation |
 | Arc type | Condensate |
 | Joined | Version 1.0 |
+| Voice actors | Chinese: 桑毓泽; English: Griffin Burns; Japanese: 中村悠一; Korean: 심규혁 |
 
 The official profile introduces Baicang as the captain of ETD-4 at the Bureau of Anomaly Control: carefree, irreverent, blunt to a fault and a master of dodging work.
 
@@ -58,6 +59,31 @@ Baicang generates Power Words—Bless, Silence, and Objurgate—at a current HP 
 | Support Skill | Break Time Over | Charges briefly and writes incantation commands to deal one instance of area Incantation DMG, generating one Power Word Silence on the target on hit. |
 | Passive 1 | Moderate Mischief | Scorch Enhancement: Inflicts another instance of Scorch with the same effect when a Power Word is generated on a Scorch-affected target. |
 | Passive 2 | Moderate Working | Increases Baicang's ATK and triggers coordinated effects with ETD-4 teammates: attacking and generating Power Word Silence when switching in during Skia's stealth, attacking and healing Fadia when her HP drops low, or triggering a super jump when switching in during Lacrimosa's bat form. |
+
+## Growth
+
+| Fact | Value |
+| --- | --- |
+| Base stats at Lv. 80 | HP 16,604, ATK 644, DEF 800, CRIT Rate 5%, CRIT DMG 50% |
+| Console bonus | CRIT Rate +7.5% for each Type III Module ([Consoles](/systems/consoles/)) |
+| Esper Cycle | Scorch Enhancement, from the passive Moderate Mischief ([Esper Cycles](/systems/esper-cycles/)) |
+| Ascension to Lv. 80 | Blurred Numeral → Unsolved Numeral → Distorted Numeral (17, 18 and 15); Nest Guard Fragment ×86 |
+| Skill upgrades | First Expectations → Known Weariness → Black Hat; Good Boy Stamp |
+
+## Awakenings
+
+Each duplicate unlocks one Awakening of the player's choice; Resonances unlock at 3 and 6 Awakenings.
+
+| Awakening | Effect |
+| --- | --- |
+| Yo, Captain! | Increases Baicang's next Skill's damage by 30% when Silence triggers during Judgment of Autumn. Effect stacks. Reduces Baicang's Skill cooldown by 4s when Objurgate triggers. Effect stacks (applies to the next use if no Skill is on cooldown). |
+| Soul Caller | Like those mountain ranges, layer upon layer. Every 1 Power Word generated increases Baicang's ATK by 6%, up to 4 stacks. Each stack lasts 10s. |
+| Curses Spoken Into Being | Increases Power Word generation limit to 4. |
+| Or Perhaps Blessings | Restores an additional 5% of Max HP when any 1 Power Word triggers during Judgment of Autumn. |
+| In Honor of Moonlight | It's not over yet. Increases the duration of Judgment of Autumn to 16s. |
+| White Aspect | Increases Baicang's CRIT Rate by 30% during Judgment of Autumn. |
+| Resonance 3: Earth Sequence | Increases the skill level of Walk the Talk, Generous Guidance, and Judgment of Autumn by 1. |
+| Resonance 6: Remained | Captain, sometimes. Grants all allies within the domain 20% ATK and the Execution effect during Judgment of Autumn. |
 
 ## Outfits
 

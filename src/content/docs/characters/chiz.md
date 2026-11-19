@@ -29,6 +29,7 @@ sources:
 | Attribute | Cosmos |
 | Arc type | Gas |
 | Joined | Version 1.0 |
+| Voice actors | Chinese: 则灵; English: Alice Himora; Japanese: 小原好美; Korean: 권다예 |
 
 The official profile introduces Chiz as the Lobby Manager of Pink Paws Bank (New Herland District HQ), employee ID 018888, who looks like an intern until she recites every clause of the fine print.
 
@@ -50,3 +51,28 @@ Chiz generates Grain through Basic Attacks and spends it via stacked Redirect Sk
 | Support Skill | Temporary Entry | Brown Sugar Boba carries Chiz and crashes into the target, dealing one instance of Cosmos DMG. |
 | Passive 1 | Hanahaki Disease | Charge Enhancement grants active characters additional Charge. |
 | Passive 2 | Hoarding | Increases Chiz's Charge Efficiency while she is on the field. |
+
+## Growth
+
+| Fact | Value |
+| --- | --- |
+| Base stats at Lv. 80 | HP 15,514, ATK 660, DEF 909, CRIT Rate 5%, CRIT DMG 50% |
+| Console bonus | Cosmos DMG Bonus +10% for each Type III Module ([Consoles](/systems/consoles/)) |
+| Esper Cycle | Charge Enhancement, from the passive Hanahaki Disease ([Esper Cycles](/systems/esper-cycles/)) |
+| Ascension to Lv. 80 | Lost Whispers → Obscure Whispers → Paradoxical Whispers (17, 18 and 15); Tear of the Sea ×86 |
+| Skill upgrades | Nestling's Longing → Dove's Flutter → The Olive Branch; Good Boy Stamp |
+
+## Awakenings
+
+Each duplicate unlocks one Awakening of the player's choice; Resonances unlock at 3 and 6 Awakenings.
+
+| Awakening | Effect |
+| --- | --- |
+| Sun, Sun… speak to me! | Increases the storage capacity of Grain and Grain Loan by 10%. |
+| Fireworks in Silence | Grants 10% of current Grain as interest per second while Chiz is in the Surplus state. |
+| If There Were No Rainy Days | Increases the chance of a Grain Price increase by 50%. |
+| To Riceball, Bandage, Fons | Increases Grain acquisition efficiency by 20%. |
+| Blank Diary Pages | Grants Chiz Grain equal to 100% of the Grain storage limit upon entering combat. |
+| Thirty-Three Days | Increases the Bonus Cosmos DMG of Grain by 15%. |
+| Resonance 3: Friends and Family | Increases Grain acquisition efficiency by an extra 50% while in the Debt state. |
+| Resonance 6: Homecoming | Reduces the target's Cosmos Resistance by 10% upon Chiz dealing damage. |
