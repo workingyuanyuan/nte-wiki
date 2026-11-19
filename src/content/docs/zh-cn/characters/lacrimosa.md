@@ -54,16 +54,16 @@ sources:
 
 ## 技能
 
-安魂曲在 Tomato Metal 与 Tomato Percussion 形态之间切换，以叠加 Nightmare 并改变 Working Day Judgement 的攻击模式。通过 Devilish Inspiration，她也能习得敌方招式，短暂以 Devilish Gift 取代 Morning Tomato。
+安魂曲在「茄汁金属乐」与「茄汁打击乐」形态之间切换，以叠加「噩梦」并改变「工作日最终审判」的攻击模式。通过「恶魔的灵感」，她也能习得敌方招式，短暂以「恶魔的礼物」取代「起床气加载中」。
 
 | 栏位 | 技能 | 效果说明 |
 | --- | --- | --- |
-| 普通攻击 | Sweet and Sour, Tomato Metal, Tomato Percussion, Flavor Variation, Devilish Inspiration, Lycopersicum Meteors, fff Rest, Nightmare | 通过 Flavor Variation 在五段暗属性连段的 Tomato Metal 与 Tomato Percussion 之间切换，并决定 Working Day Judgement 的形态。包含下落攻击 Lycopersicum Meteors、Critical Dodge 反击技 fff Rest，以及瞄准模式下的 Devilish Inspiration，用以习得敌方招式取代 Morning Tomato。命中可叠加 Nightmare，最多十层。 |
-| 技能 | Morning Tomato, Devilish Gift | Morning Tomato 投掷造物造成范围暗属性伤害、施加 Nightmare，并可衔接 Tomato Metal 或 Tomato Percussion 的第五段攻击。通过 Devilish Inspiration 替换后，变轨技能 Devilish Gift 会复制并施放习得的敌方技能，同时提供目标部分攻击力。 |
-| 极轨终结 | Working Day Judgement | 依当前使用的普通攻击流派变化，在 Tomato Metal 下操控卡车造成十段暗属性伤害，或在 Tomato Percussion 下拆解汽车造成五段暗属性伤害，并对范围内所有目标施加 Nightmare。 |
-| 支援技能 | Microwake | 操纵 Esper Ability Constructs 造成一段范围暗属性伤害。 |
-| 被动 1 | Tomato Banquet | Discord Enhancement 会在 Discord 对处于 Broken 状态的目标触发时，造成基于攻击力的额外伤害。 |
-| 被动 2 | Sleep In | 在技能冷却期间使用 Tomato Metal 或 Tomato Percussion 五次后，获得一次额外施放 Morning Tomato 的机会，每次冷却期间仅触发一次。 |
+| 普通攻击 | 酸甜口味的制裁、茄汁金属乐、茄汁打击乐、风味变奏、恶魔的灵感、番茄座流星雨、fff休止符、噩梦 | 通过「风味变奏」在五段暗属性连段的「茄汁金属乐」与「茄汁打击乐」之间切换，并决定「工作日最终审判」的形态。包含下落攻击「番茄座流星雨」、「极限闪避」反击技「fff休止符」，以及瞄准模式下的「恶魔的灵感」，用以习得敌方招式取代「起床气加载中」。命中可叠加「噩梦」，最多十层。 |
+| 技能 | 起床气加载中、恶魔的礼物 | 「起床气加载中」投掷造物造成范围暗属性伤害、施加「噩梦」，并可衔接「茄汁金属乐」或「茄汁打击乐」的第五段攻击。通过「恶魔的灵感」替换后，变轨技能「恶魔的礼物」会复制并施放习得的敌方技能，同时提供目标部分攻击力。 |
+| 极轨终结 | 工作日最终审判 | 依当前使用的普通攻击流派变化，在「茄汁金属乐」下操控卡车造成十段暗属性伤害，或在「茄汁打击乐」下拆解汽车造成五段暗属性伤害，并对范围内所有目标施加「噩梦」。 |
+| 支援技能 | 紧急唤醒 | 操纵「异能造物」造成一段范围暗属性伤害。 |
+| 被动 1 | 番茄酱盛宴 | 「失谐」强化会在「失谐」对处于「倾陷」状态的目标触发时，造成基于攻击力的额外伤害。 |
+| 被动 2 | 就要自然醒 | 在技能冷却期间使用「茄汁金属乐」或「茄汁打击乐」五次后，获得一次额外施放「起床气加载中」的机会，每次冷却期间仅触发一次。 |
 
 ## 养成
 

@@ -45,16 +45,16 @@ sources:
 
 ## 技能
 
-翳通过 Arresting Art 与 Shadow Hound Chase 在每个目标身上附着最多三个 Fang Thrust 影刺。他的技能会启动 Tailed 使 Fang Thrust 持续存在并进入 Shadow Hound Gnaw 以在接触时触发额外攻击，而 The Pack 则提供伤害强化并附加控制效果。
+翳通过「拘管格斗术」与「潜影追击」在每个目标身上附着最多三个「兽牙影刺」影刺。他的技能会启动「尾追」使「兽牙影刺」持续存在并进入「啮逐潜影」以在接触时触发额外攻击，而「群犬吠形」则提供伤害强化并附加控制效果。
 
 | 栏位 | 技能 | 效果 |
 | --- | --- | --- |
-| 普通攻击 | Arresting Art, Territory Control, Fang Thrust, Critical Riposte: Pen to Paper | Arresting Art 最多可进行五段相属性攻击，并分裂出追踪目标的 Fang Thrust 影刺，每个目标最多附着三个，造成一段相属性伤害后消失。另包含空中下落攻击 Territory Control 与 Critical Dodge 后的反击 Critical Riposte: Pen to Paper。 |
-| 技能 | Shadow Hound Chase, Tailed, Shadow Hound Gnaw | 进入 Tailed 状态，造成六段范围相属性伤害，对每个目标分裂三个 Fang Thrust，并进入 Shadow Hound Gnaw。Tailed 会使 Fang Thrust 在命中时不会消失。Shadow Hound Gnaw 提供潜行移动，接触敌人时触发额外 Fang Thrust 攻击，并在结束时造成范围伤害。 |
-| 极轨终结 | The Pack | 将影子向外扩散造成一段范围相属性伤害，随后收拢造成三段范围伤害。施放后提高 Fang Thrust 伤害（包含 Shadow Hound Gnaw 的碰撞伤害），并在每次攻击时施加控制效果。 |
-| 支援技能 | Arrest Warrant | 指挥影子如警犬般撕咬目标，造成一段范围相属性伤害。 |
-| 被动 1 | Suppression | 施加 Remora Enhancement，当 Fang Thrust 锁定处于 Remora 状态的目标时，额外施加一层 Remora。 |
-| 被动 2 | Apprehension | 施放 The Pack 后，提高 Fang Thrust 的伤害，包含 Shadow Hound Gnaw 模式下的碰撞伤害。 |
+| 普通攻击 | 拘管格斗术、就地执管、兽牙影刺、极限反击：顿笔签字 | 「拘管格斗术」最多可进行五段相属性攻击，并分裂出追踪目标的「兽牙影刺」影刺，每个目标最多附着三个，造成一段相属性伤害后消失。另包含空中下落攻击「就地执管」与「极限闪避」后的反击「极限反击：顿笔签字」。 |
+| 技能 | 潜影追击、尾追、啮逐潜影 | 进入「尾追」状态，造成六段范围相属性伤害，对每个目标分裂三个「兽牙影刺」，并进入「啮逐潜影」。「尾追」会使「兽牙影刺」在命中时不会消失。「啮逐潜影」提供潜行移动，接触敌人时触发额外「兽牙影刺」攻击，并在结束时造成范围伤害。 |
+| 极轨终结 | 群犬吠形 | 将影子向外扩散造成一段范围相属性伤害，随后收拢造成三段范围伤害。施放后提高「兽牙影刺」伤害（包含「啮逐潜影」的碰撞伤害），并在每次攻击时施加控制效果。 |
+| 支援技能 | 缉令 | 指挥影子如警犬般撕咬目标，造成一段范围相属性伤害。 |
+| 被动 1 | 现场控制 | 施加「延滞」强化，当「兽牙影刺」锁定处于「延滞」状态的目标时，额外施加一层「延滞」。 |
+| 被动 2 | 捉拿归案 | 施放「群犬吠形」后，提高「兽牙影刺」的伤害，包含「啮逐潜影」模式下的碰撞伤害。 |
 
 ## 养成
 

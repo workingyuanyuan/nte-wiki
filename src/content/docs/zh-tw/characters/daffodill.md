@@ -53,16 +53,16 @@ sources:
 
 ## 技能
 
-達芙蒂爾專注於 Break Damage 與快速切換：隊友的支援技能可疊加 Resonance 並將其轉化為 Echoes，她的極軌終結會施加 Insight 並解鎖 Phantom Step 次數，而她的 Discord Enhancement 則能降低敵人的 Break 上限。
+達芙蒂爾專注於「傾陷傷害」與快速切換：隊友的支援技能可疊加「同振」並將其轉化為「如響斯應」，她的極軌終結會施加「洞察」並解鎖「幻影移行」次數，而她的「失諧」強化則能降低敵人的「傾陷值」上限。
 
 | 欄位 | 技能 | 效果 |
 | --- | --- | --- |
-| 普通攻擊 | Still Waters、Light Prism、Mirror on Water、Displaced Edge、Crosshair Lock、Critical Riposte: Close Call | Still Waters 最多可進行五段暗屬性攻擊，Light Prism 可提升 Break Damage 貢獻。長按可觸發 Mirror on Water 的迴旋衝刺並施加標記；在連段中閃避可觸發無敵的 Displaced Edge 而不中斷 Still Waters。Crosshair Lock 為空中下墜攻擊，極限閃避則可施放 Critical Riposte: Close Call 並降低 Break。 |
-| 技能 | Resonance、Echoes | Resonance 會對目標造成傷害，並在任意隊友施放支援技能時獲得 Resonance 層數，提升 Resonance 的傷害與 Break 效果，最多可疊加兩層。達到上限時，Resonance 會獲得強化並替換為 Echoes，切換姿態並以繩索揮舞刀刃造成暗屬性傷害。 |
-| 極軌終結 | Finale | 造成範圍暗屬性傷害，解封左眼以提升傷害，並對附近敵人施加 Insight。同時解鎖最多兩次 Phantom Step，並在施放時重置 Phantom Step 次數。 |
-| 支援技能 | Crossed Blades | 以斬擊動作揮動刀刃，對目標造成一次暗屬性傷害。 |
-| 被動 1 | Blade Draw | Discord Enhancement 會在目標受到 Discord 影響期間降低其 Break 上限，最多疊加至其初始 Break 上限的一定比例，並在脫離戰鬥後恢復。 |
-| 被動 2 | Cicada Shell | 提升 Phantom Step 所造成的傷害。 |
+| 普通攻擊 | 止水、分光、臨水照影、錯位鋒芒、十字確認、極限反擊：一線 | 「止水」最多可進行五段暗屬性攻擊，「分光」可提升「傾陷傷害」貢獻。長按可觸發「臨水照影」的迴旋衝刺並施加標記；在連段中閃避可觸發無敵的「錯位鋒芒」而不中斷「止水」。「十字確認」為空中下墜攻擊，極限閃避則可施放「極限反擊：一線」並降低「傾陷值」。 |
+| 技能 | 同振、如響斯應 | 「同振」會對目標造成傷害，並在任意隊友施放支援技能時獲得「同振」層數，提升「同振」的傷害與「傾陷值」效果，最多可疊加兩層。達到上限時，「同振」會獲得強化並替換為「如響斯應」，切換姿態並以繩索揮舞刀刃造成暗屬性傷害。 |
+| 極軌終結 | 見此終幕 | 造成範圍暗屬性傷害，解封左眼以提升傷害，並對附近敵人施加「洞察」。同時解鎖最多兩次「幻影移行」，並在施放時重置「幻影移行」次數。 |
+| 支援技能 | 交仞 | 以斬擊動作揮動刀刃，對目標造成一次暗屬性傷害。 |
+| 被動 1 | 破鞘 | 「失諧」強化會在目標受到「失諧」影響期間降低其「傾陷值」上限，最多疊加至其初始「傾陷值」上限的一定比例，並在脫離戰鬥後恢復。 |
+| 被動 2 | 空蟬 | 提升「幻影移行」所造成的傷害。 |
 
 ## 養成
 

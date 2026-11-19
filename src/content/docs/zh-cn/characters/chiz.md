@@ -41,16 +41,16 @@ Game8 将她的技能拼为「Pink Paws Priority Principe」，Prydwen 则拼为
 
 ## 技能
 
-小吱通过普通攻击产生 Grain，并以堆叠的变轨技能施放消耗；极轨终结的 Grain Market 与 Surplus 状态则能将 Grain Loans 与波动的 Grain Price 转换为光属性伤害。
+小吱通过普通攻击产生「金谷」，并以堆叠的变轨技能施放消耗；极轨终结的「金谷市场」与「盈余」状态则能将「金谷贷款」与波动的「金谷K线」转换为光属性伤害。
 
 | 栏位 | 技能 | 效果 |
 | --- | --- | --- |
-| 普通攻击 | Exiled Swordplay, Barren, Bountiful Grain, Critical Riposte: Minsky Moment | Exiled Swordplay 最多可进行五段攻击，造成光属性伤害并获得 Grain。Barren 可点按或长按施放 Blighted Vale，造成光属性伤害并获得 Grain 与方斯（击败敌人时有额外获得量）。Bountiful Grain 可于空中下落攻击获得 Grain；触发 Critical Dodge 后可施放 Critical Riposte: Minsky Moment，削减 Break 并获得 Grain。 |
-| 技能 | Pink Paws Priority Principle | 最多可储存三层变轨技能。连续点按会依序施放 No Grain、Half Grain 与 Full Grain；长按则消耗两层或三层，在 Half Grain 期间持续消耗 Grain，并消耗所有 Grain 与处于 Debt 状态的 Grain Loans，造成不会暴击的额外光属性伤害，处于 Surplus 时获得强化。 |
-| 极轨终结 | Zero-Sum Game | 掷出 Brown Sugar Boba 造成范围光属性伤害，将 Grain Loans 转换为 Grain，进入 Surplus 与 Grain Market 状态并投入所有 Grain。首次 Grain Settlement 伤害必定暴击；点按或长按 Pink Paws Priority Principle 会依 Grain Price 触发 Grain Settlement，随后偿还 Grain Loans。 |
-| 支援技能 | Temporary Entry | Brown Sugar Boba 载着小吱撞向目标，造成一段光属性伤害。 |
-| 被动 1 | Hanahaki Disease | Charge Enhancement 会为场上角色提供额外 Charge。 |
-| 被动 2 | Hoarding | 小吱在场上时，提升自身的 Charge Efficiency。 |
+| 普通攻击 | 失乡剑术、荒谷、丰玉、极限反击：明斯基时刻 | 「失乡剑术」最多可进行五段攻击，造成光属性伤害并获得「金谷」。「荒谷」可点按或长按施放「荒谷」，造成光属性伤害并获得「金谷」与方斯（击败敌人时有额外获得量）。「丰玉」可于空中下落攻击获得「金谷」；触发「极限闪避」后可施放「极限反击：明斯基时刻」，削减「倾陷值」并获得「金谷」。 |
+| 技能 | 粉爪在上原则 | 最多可储存三层变轨技能。连续点按会依序施放「空仓」、「半仓」与「满仓」；长按则消耗两层或三层，在「半仓」期间持续消耗「金谷」，并消耗所有「金谷」与处于「负债」状态的「金谷贷款」，造成不会暴击的额外光属性伤害，处于「盈余」时获得强化。 |
+| 极轨终结 | 零和博弈 | 掷出「黑糖波波」造成范围光属性伤害，将「金谷贷款」转换为「金谷」，进入「盈余」与「金谷市场」状态并投入所有「金谷」。首次「谷价结算」伤害必定暴击；点按或长按「粉爪在上原则」会依「金谷K线」触发「谷价结算」，随后偿还「金谷贷款」。 |
+| 支援技能 | 临时入场 | 「黑糖波波」载着小吱撞向目标，造成一段光属性伤害。 |
+| 被动 1 | 飞鸟症候群 | 「盈蓄」强化会为场上角色提供额外「盈蓄」。 |
+| 被动 2 | 囤积癖 | 小吱在场上时，提升自身的「充能效率」。 |
 
 ## 养成
 

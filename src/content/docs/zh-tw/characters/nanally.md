@@ -54,16 +54,16 @@ sources:
 
 ## 技能
 
-娜娜莉將不會被閃避中斷的五段連擊銜接為 Heavy Hitter! 攻擊，同時以 Ichi-daime's Authority 強化自身，在隊友造成 Esper Cycle DMG 時觸發追擊。她的極軌終結召喚 Underboss 牽引敵人並發動協同追擊，而 Blossom Enhancement 則能加速 Vita Bud 的射擊。
+娜娜莉將不會被閃避中斷的五段連擊銜接為「重拳出擊！」攻擊，同時以「一代目的權柄」強化自身，在隊友造成「異能環合傷害」時觸發追擊。她的極軌終結召喚「副手」牽引敵人並發動協同追擊，而「創生」強化則能加速「創生株」的射擊。
 
 | 欄位 | 技能 | 效果說明 |
 | --- | --- | --- |
-| 普通攻擊 | Colucci Secret Skill, Heavy Hitter!, Colucci Secret Gundo, Grand Entrance!, Can't Touch This! | 進行最多五段不會因閃避而中斷的靈屬性爪擊，另包含瞄準模式下的 Colucci Secret Gundo 與下落攻擊 Grand Entrance!。在特定段數或 Critical Riposte 後長按普通攻擊，可連續施放三次 Heavy Hitter! 攻擊。Critical Dodge 後，Can't Touch This! 會對範圍踢擊並削減 Break。 |
-| 技能 | Colucci Howling Technique | 對附近敵人造成五段靈屬性傷害並獲得 Ichi-daime's Authority 狀態。娜娜莉退場、再次施放或持續時間結束時會解除此狀態。 |
-| 極軌終結 | Colucci Ultimate Technique | 立即對周圍敵人造成七段靈屬性傷害並召喚 Underboss。Underboss 存在期間，娜娜莉的攻擊會輕微牽引附近敵人，且 Underboss 會在每次攻擊時協同發動視為追擊傷害的攻擊。 |
-| 支援技能 | Justice from Above | 旋轉衝鋒並踢擊，造成一段範圍靈屬性傷害。 |
-| 被動 1 | More Than Passionate | Blossom Enhancement 使每個 Vita Bud 發射十枚 Vita Pistils 並縮短發射間隔。 |
-| 被動 2 | Fair Duel | 處於 Ichi-daime's Authority 狀態期間，每當任何隊友造成 Esper Cycle DMG 時，便對單一敵人觸發一次隨普通攻擊等級提升的靈屬性追擊。 |
+| 普通攻擊 | 柯林斯秘傳技法、重拳出擊！、柯林斯秘傳槍法、主角登場！、傷我沒門！ | 進行最多五段不會因閃避而中斷的靈屬性爪擊，另包含瞄準模式下的「柯林斯秘傳槍法」與下落攻擊「主角登場！」。在特定段數或「極限反擊」後長按普通攻擊，可連續施放三次「重拳出擊！」攻擊。「極限閃避」後，「傷我沒門！」會對範圍踢擊並削減「傾陷值」。 |
+| 技能 | 柯林斯·嗷嗚術 | 對附近敵人造成五段靈屬性傷害並獲得「一代目的權柄」狀態。娜娜莉退場、再次施放或持續時間結束時會解除此狀態。 |
+| 極軌終結 | 柯林斯·終極術 | 立即對周圍敵人造成七段靈屬性傷害並召喚「副手」。「副手」存在期間，娜娜莉的攻擊會輕微牽引附近敵人，且「副手」會在每次攻擊時協同發動視為追擊傷害的攻擊。 |
+| 支援技能 | 天降正義 | 旋轉衝鋒並踢擊，造成一段範圍靈屬性傷害。 |
+| 被動 1 | 不止「一腔」的熱血 | 「創生」強化使每個「創生株」發射十枚「創生花」並縮短發射間隔。 |
+| 被動 2 | 絕對「公正」的決鬥 | 處於「一代目的權柄」狀態期間，每當任何隊友造成「異能環合傷害」時，便對單一敵人觸發一次隨普通攻擊等級提升的靈屬性追擊。 |
 
 ## 養成
 

@@ -47,16 +47,16 @@ sources:
 
 ## 技能
 
-埃德嘉透過引導技能與極軌終結領域為隊友治療，並從技能與支援技能獲得 Key of Truth 層數以延長極軌終結的持續時間，還能藉由 Charge Enhancement 恢復 Ultimate Energy。
+埃德嘉透過引導技能與極軌終結領域為隊友治療，並從技能與支援技能獲得「真理之匙」層數以延長極軌終結的持續時間，還能藉由「盈蓄」強化恢復「終結能量」。
 
 | 欄位 | 技能 | 效果 |
 | --- | --- | --- |
-| 普通攻擊 | Combat Practice, Calculated Landing, Critical Riposte: Crisis is Opportunity | Combat Practice 最多可進行五段連續光屬性攻擊。Calculated Landing 可於空中發動下落攻擊，依高度造成範圍光屬性傷害。在 Critical Dodge 後使用 Combat Practice 會觸發 Critical Riposte: Crisis is Opportunity，向前衝鋒並施放 Flow 攻擊，造成範圍光屬性傷害並削減 Break。 |
-| 技能 | Wild Current | 長按可向目標引導 Current，造成光屬性傷害並持續治療生命值最低的隊友。其冷卻時間會依據引導持續時間延長。 |
-| 極軌終結 | Finnegan's Wake | 展開迷宮領域，造成一段範圍光屬性傷害，並在持續期間內治療場上角色。 |
-| 支援技能 | Weight of Knowledge | 朝目標衝鋒並揮動提包，造成一段範圍光屬性傷害。 |
-| 被動 1 | Gentle Edge | 當角色以支援技能觸發 Charge 時，Charge Enhancement 會立即賦予 Ultimate Energy，隨後暫時停用 Vita Pistils 命中 Slowed 目標時獲得的 Ultimate Energy 回復。 |
-| 被動 2 | Unchanging Warmth | 施放變軌技能 Wild Current 或支援技能 Weight of Knowledge 時獲得一把 Key of Truth，最多三把；每把鑰匙皆可延長極軌終結（亦稱為 Finnegan's Vigil）的持續時間。 |
+| 普通攻擊 | 體術實戰、精心計算後的著陸、極限反擊：危機亦是機遇 | 「體術實戰」最多可進行五段連續光屬性攻擊。「精心計算後的著陸」可於空中發動下落攻擊，依高度造成範圍光屬性傷害。在「極限閃避」後使用「體術實戰」會觸發「極限反擊：危機亦是機遇」，向前衝鋒並施放「流」攻擊，造成範圍光屬性傷害並削減「傾陷值」。 |
+| 技能 | 狂流 | 長按可向目標引導「狂流」，造成光屬性傷害並持續治療生命值最低的隊友。其冷卻時間會依據引導持續時間延長。 |
+| 極軌終結 | 芬尼根守靈夜 | 展開迷宮領域，造成一段範圍光屬性傷害，並在持續期間內治療場上角色。 |
+| 支援技能 | 知識的重量 | 朝目標衝鋒並揮動提包，造成一段範圍光屬性傷害。 |
+| 被動 1 | 溫和的鋒芒 | 當角色以支援技能觸發「盈蓄」時，「盈蓄」強化會立即賦予「終結能量」，隨後暫時停用「創生花」命中「遲緩」目標時獲得的「終結能量」回復。 |
+| 被動 2 | 不變的暖意 | 施放變軌技能「狂流」或支援技能「知識的重量」時獲得一把「真理之匙」，最多三把；每把鑰匙皆可延長極軌終結「芬尼根守靈夜」的持續時間。 |
 
 ## 養成
 

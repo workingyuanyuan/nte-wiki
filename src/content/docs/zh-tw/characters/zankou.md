@@ -50,16 +50,16 @@ sources:
 
 ## 技能
 
-殘虹透過 Sanguine Dash 與 Soulcross 在 Reality Form 和 Illusion Form 之間切換，施加 Heartwrench 並將持續傷害 (DoT) 擴散為 Follow-up Attack DMG。把握時機施放 Soulcross 可觸發 Oblivion 啟動 Bloodfeast Reverie，施加 Vile Ash 並提供一次免費的強化 Inferno Flamenco。
+殘虹透過「緋影閃」與「離魂錯」在「現實形態」和「幻境形態」之間切換，施加「蝕心」並將持續傷害 (「持續傷害」) 擴散為「追加攻擊傷害」。把握時機施放「離魂錯」可觸發「滅」啟動「血宴入夢時」，施加「鴆火」並提供一次免費的強化「焚天燼滅舞」。
 
 | 欄位 | 技能 | 效果說明 |
 | --- | --- | --- |
-| 普通攻擊 | Wildfire, Nightmare Waltz, Flickering Shadow, Moonfall, Broken Twigs, Critical Riposte: Voidstep | 在 Reality Form 下，Wildfire 與 Flickering Shadow 造成咒屬性傷害並獲得 Hunt。在 Illusion Form 下，Nightmare Waltz 與 Moonfall 造成 Follow-up Attack DMG、施加 Heartwrench、擴散最多四個持續傷害 (DoT) 效果並獲得 Delusion。另包含下落攻擊 Broken Twigs 與反擊技 Critical Riposte: Voidstep。 |
-| 技能 | Sanguine Dash, Soulcross | 在 Reality Form 下，Sanguine Dash 會進入 Illusion Form、施加 Heartwrench，並在特定連段後觸發 Disarray 以削減 Break。在 Illusion Form 下，Soulcross 會切回 Reality Form 並造成 Follow-up Attack DMG、施加 Heartwrench；於強化到期前施放可觸發 Oblivion 啟動 Bloodfeast Reverie。 |
-| 極軌終結 | Inferno Flamenco, Bloodfeast Reverie | Bloodfeast Reverie 未啟動時施放 Inferno Flamenco；啟動時優先施放 Bloodfeast Reverie，造成 Follow-up Attack DMG、對大範圍施加 Vile Ash，並於限時內啟用一次不消耗極軌終結能量的強化 Inferno Flamenco。 |
-| 支援技能 | Stoked Flame | 揮刀攻擊，造成一段咒屬性傷害。 |
-| 被動 1 | Silent Sunset | 提供 Scorch Enhancement，使 Scorch 最多可疊加三層。當隊友對帶有 Scorch 的目標施加持續傷害 (DoT) 效果時，殘虹會增加一層 Scorch 並以新效果取代原本的 Scorch 傷害、類型與持續時間。 |
-| 被動 2 | Crimson Reverie | 每場戰鬥一次，進入戰鬥時將殘虹的 Cycle Energy 設為 100，且她在隊伍中時使自身的 Cycle Intensity 提高 100。 |
+| 普通攻擊 | 燎原、魘舞、綽影、落月、折枝、極限反擊：虛徊 | 在「現實形態」下，「燎原」與「綽影」造成咒屬性傷害並獲得「狩」。在「幻境形態」下，「魘舞」與「落月」造成「追加攻擊傷害」、施加「蝕心」、擴散最多四個持續傷害 (「持續傷害」) 效果並獲得「惑」。另包含下落攻擊「折枝」與反擊技「極限反擊：虛徊」。 |
+| 技能 | 緋影閃、離魂錯 | 在「現實形態」下，「緋影閃」會進入「幻境形態」、施加「蝕心」，並在特定連段後觸發「亂」以削減「傾陷值」。在「幻境形態」下，「離魂錯」會切回「現實形態」並造成「追加攻擊傷害」、施加「蝕心」；於強化到期前施放可觸發「滅」啟動「血宴入夢時」。 |
+| 極軌終結 | 焚天燼滅舞、血宴入夢時 | 「血宴入夢時」未啟動時施放「焚天燼滅舞」；啟動時優先施放「血宴入夢時」，造成「追加攻擊傷害」、對大範圍施加「鴆火」，並於限時內啟用一次不消耗極軌終結能量的強化「焚天燼滅舞」。 |
+| 支援技能 | 飼火 | 揮刀攻擊，造成一段咒屬性傷害。 |
+| 被動 1 | 暮落殘陽 | 提供「濁燃」強化，使「濁燃」最多可疊加三層。當隊友對帶有「濁燃」的目標施加持續傷害 (「持續傷害」) 效果時，殘虹會增加一層「濁燃」並以新效果取代原本的「濁燃」傷害、類型與持續時間。 |
+| 被動 2 | 殷紅幻景 | 每場戰鬥一次，進入戰鬥時將殘虹的「環合值」設為 100，且她在隊伍中時使自身的「環合強度」提高 100。 |
 
 ## 養成
 

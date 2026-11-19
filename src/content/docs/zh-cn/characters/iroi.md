@@ -49,16 +49,16 @@ sources:
 
 ## 技能
 
-伊洛伊通过普通攻击、技能、支援技能以及队友进入 Regression 来累积 Imagination。她的技能可治疗、提供攻击力增益并让队友进入 Regression，而极轨终结则会消耗 Imagination 开启治疗梦境——或开启进攻梦境，短暂复活一名处于 Regression 状态的队友。
+伊洛伊通过普通攻击、技能、支援技能以及队友进入「退行」来累积「臆想」。她的技能可治疗、提供攻击力增益并让队友进入「退行」，而极轨终结则会消耗「臆想」开启治疗梦境——或开启进攻梦境，短暂复活一名处于「退行」状态的队友。
 
 | 栏位 | 技能 | 效果说明 |
 | --- | --- | --- |
-| 普通攻击 | Collaboration, Daydream, Lucid Dream, Wakey-Wakey, Reflexive Response | Collaboration 进行最多五段小羊攻击、Wakey-Wakey 为下落攻击、Reflexive Response 于 Critical Dodge 后发动反击以削减 Break；各项均会累积 Imagination。长按普通攻击可消耗 Imagination 进行最多三次 Daydream 攻击，再次长按则召唤 Morpheus 进行持续的 Lucid Dream 射击。 |
-| 技能 | Future Self Continuity, Self-Identity Extension | 点按触发 Self-Identity Extension 治疗全队、依据伊洛伊的基础攻击力提供攻击力加成、召唤三只小羊聚拢敌人并累积 Imagination。长按 Future Self Continuity 使三名队友进入 Regression 直至战斗结束。被动方面，任何倒下的队友都会进入 Regression 并累积 Imagination。 |
-| 极轨终结 | 3.8-Billion-Year Mirage | 开启梦境并持续消耗 Imagination 直至耗尽。低于 Imagination 门槛时，开启 Dream of the Horned Gate 为全队持续治疗；达到或高于门槛时，开启 Dream of the Ivory Gate 造成灵属性伤害、使 Daydream 与 Lucid Dream 免消耗，并短暂复活一名处于 Regression 状态的队友。 |
-| 支援技能 | Bang! | 与 Morpheus 向前击打，造成一段灵属性伤害、治疗全队成员并累积 Imagination。 |
-| 被动 1 | Mirror Image | 提供 Blossom Enhancement，当 Vita Bud 持续存在时生成一个 Vita Bud Copy，向附近目标发射 Copied Vita Pistils。 |
-| 被动 2 | Sympathetic Nerves | 进行治疗时，赋予全队成员额外的 DEF Ignore。 |
+| 普通攻击 | 分工合作、白日梦、清明梦、起床时间、无意识响应 | 「分工合作」进行最多五段小羊攻击、「起床时间」为下落攻击、「无意识响应」于「极限闪避」后发动反击以削减「倾陷值」；各项均会累积「臆想」。长按普通攻击可消耗「臆想」进行最多三次「白日梦」攻击，再次长按则召唤「莫尔甫斯」进行持续的「清明梦」射击。 |
+| 技能 | 未来自我连续性假设、自我认同延伸 | 点按触发「自我认同延伸」治疗全队、依据伊洛伊的基础攻击力提供攻击力加成、召唤三只小羊聚拢敌人并累积「臆想」。长按「未来自我连续性假设」使三名队友进入「退行」直至战斗结束。被动方面，任何倒下的队友都会进入「退行」并累积「臆想」。 |
+| 极轨终结 | 三十八亿年的海市蜃楼 | 开启梦境并持续消耗「臆想」直至耗尽。低于「臆想」门槛时，开启「牛角门的梦境」为全队持续治疗；达到或高于门槛时，开启「象牙门的梦境」造成灵属性伤害、使「白日梦」与「清明梦」免消耗，并短暂复活一名处于「退行」状态的队友。 |
+| 支援技能 | 砰！ | 与「莫尔甫斯」向前击打，造成一段灵属性伤害、治疗全队成员并累积「臆想」。 |
+| 被动 1 | 镜象 | 提供「创生」强化，当「创生株」持续存在时生成一个「创生株复制体」，向附近目标发射「复制创生花」。 |
+| 被动 2 | 交感性神经系统 | 进行治疗时，赋予全队成员额外的「无视防御」。 |
 
 ## 养成
 

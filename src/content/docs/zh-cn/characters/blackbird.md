@@ -49,16 +49,16 @@ sources:
 
 ## 技能
 
-黑羽通过累积 Malice 并对敌人施加 Forsaken Feather 印记以触发离场协同攻击，接着施放 Requies Animarum 进入 Witch of Deliverance 状态消耗 Malice 施展强化攻击，最后以 Flammae in Unum 收尾。
+黑羽通过累积「恶意」并对敌人施加「失乐羽」印记以触发离场协同攻击，接着施放「恳请众魂安息」进入「救世的魔女」状态消耗「恶意」施展强化攻击，最后以「万火归一」收尾。
 
 | 栏位 | 技能 | 效果 |
 | --- | --- | --- |
-| 普通攻击 | Fleeting Shadow, Roostcall, Lingering Affliction, Critical Riposte: Avian Instinct, Pyreflame, Bestowed Grace, Tidings Unto All, Searing Scar, Critical Riposte: Born of Calamity, Invocation | Fleeting Shadow、Roostcall、Lingering Affliction 与 Avian Instinct 造成魂属性伤害，并通过 Invocation 累积 Malice。在 Witch of Deliverance 状态下，攻击会替换为 Pyreflame、Bestowed Grace、Tidings Unto All、Searing Scar 与 Born of Calamity，改为消耗 Malice 造成额外 Malice DMG 而非产生 Malice。 |
-| 技能 | Netherplume Rite, Flames of Deliverance | Netherplume Rite 造成魂属性伤害、获得 Malice 并施加 Forsaken Feather，使队友最多可触发五次 Forsaken Bird 协同范围攻击。在 Witch of Deliverance 状态下，Pyreflame 第五段或 No Quarter 之后可启动 Flames of Deliverance，蓄力造成魂属性伤害并消耗 Malice。 |
-| 极轨终结 | Requies Animarum, Flammae in Unum | Requies Animarum 使黑羽变身为 Witch of Deliverance，获得免疫受击硬直与移动速度提升并提高全队攻击力；离场时持续时间会暂停计算。再次施放可触发 Flammae in Unum 退出该状态并造成高额魂属性伤害。 |
-| 支援技能 | Judgment Upon Me, Naught but Mercy | Judgment Upon Me 化身为 Lonesome Bird 造成魂属性伤害并获得 Malice。在 Witch of Deliverance 状态下则会变为 Naught but Mercy，造成魂属性伤害并在命中时消耗 Malice。 |
-| 被动 1 | Thrushsong | Stain Enhancement 提高 Stain 的伤害加成并延长其持续时间。Nova Enhancement 使 Nova 结束时依 Nova 期间实际受到的伤害造成额外精神伤害，接着再次施加一次 Nova，且不会重复触发此再施加效果。 |
-| 被动 2 | Ever Onward | 黑羽施放 Judgment Upon Me 时获得 20 点 Malice。 |
+| 普通攻击 | 掠影、归巢、顽疾、极限反击：鸟类本能、祭火、予尔等之恩泽、赐众生之福音、灼痕、极限反击：生于灾厄、祝祷 | 「掠影」、「归巢」、「顽疾」与「鸟类本能」造成魂属性伤害，并通过「祝祷」累积「恶意」。在「救世的魔女」状态下，攻击会替换为「祭火」、「予尔等之恩泽」、「赐众生之福音」、「灼痕」与「生于灾厄」，改为消耗「恶意」造成额外「恶意伤害」而非产生「恶意」。 |
+| 技能 | 葬羽冥、渡世死焰 | 「葬羽冥」造成魂属性伤害、获得「恶意」并施加「失乐羽」，使队友最多可触发五次「失乐鸟」协同范围攻击。在「救世的魔女」状态下，「祭火」第五段或「无悲」之后可启动「渡世死焰」，蓄力造成魂属性伤害并消耗「恶意」。 |
+| 极轨终结 | 恳请众魂安息、万火归一 | 「恳请众魂安息」使黑羽变身为「救世的魔女」，获得免疫受击硬直与移动速度提升并提高全队攻击力；离场时持续时间会暂停计算。再次施放可触发「万火归一」退出该状态并造成高额魂属性伤害。 |
+| 支援技能 | 断罪于我、唯余慈悲 | 「断罪于我」化身为「伶仃鸟」造成魂属性伤害并获得「恶意」。在「救世的魔女」状态下则会变为「唯余慈悲」，造成魂属性伤害并在命中时消耗「恶意」。 |
+| 被动 1 | 鸫歌 | 「浸染」强化提高「浸染」的伤害加成并延长其持续时间。「黯星」强化使「黯星」结束时依「黯星」期间实际受到的伤害造成额外精神伤害，接着再次施加一次「黯星」，且不会重复触发此再施加效果。 |
+| 被动 2 | 长路 | 黑羽施放「断罪于我」时获得 20 点「恶意」。 |
 
 ## 养成
 

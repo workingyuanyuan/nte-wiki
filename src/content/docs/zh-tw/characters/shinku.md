@@ -55,16 +55,16 @@ sources:
 
 ## 技能
 
-真紅透過普通攻擊、High-Speed Breach 與 Breaching Tactics 累積 Defiant Spirit，再以 Crimson Fury 消耗進入 Surging Crimson 狀態。在此狀態下，她會產生 Fading Reason 來施放 Scarlet Descent，並銜接 Crimson Judgment 與 Dragonflame Verdict。
+真紅透過普通攻擊、「高速突破」與「破襲戰術」累積「桀驁鬥志」，再以「沸血赤紅」消耗進入「升騰之赤」狀態。在此狀態下，她會產生「清醒邊緣」來施放「天降赤鋒」，並銜接「赤紅的處決」與「處決的龍炎」。
 
 | 欄位 | 技能 | 效果說明 |
 | --- | --- | --- |
-| 普通攻擊 | Special Combat Arts, Arrowfall, Special Combat Arts (Altered), Critical Riposte: Split-Second Victory, Tidal Assault, Hammerfall, Tidal Assault (Scorn), Critical Riposte: No Respite | 進行最多五段光屬性攻擊、下落攻擊、長按攻擊與 Critical Ripostes 來累積 Defiant Spirit。在 Surging Crimson 期間，Tidal Assault、Hammerfall、Tidal Assault (Scorn) 與 Critical Riposte: No Respite 會取代上述招式並改為獲得 Fading Reason，且在 Menacing Gaze 效果下造成額外傷害。 |
-| 技能 | High-Speed Breach, Scarlet Descent | High-Speed Breach 朝目標衝刺造成多段光屬性傷害並獲得 Defiant Spirit。在 Surging Crimson 期間會變為 Scarlet Descent，消耗全部 Fading Reason 躍至目標上方發動下劈爪擊，每次狀態期間最多可施放五次。 |
-| 極軌終結 | Crimson Fury, Crimson Judgment, Dragonflame Verdict | 消耗全部 Defiant Spirit 進入 Surging Crimson，提升傷害、抗打斷能力與移動能力並替換一般技能。隨著狀態接近結束，依據 Scarlet Descent 使用次數施放最多三次 Crimson Judgment，隨後再次按下可施放 Dragonflame Verdict。 |
-| 支援技能 | Breaching Tactics | 發動強力的膝擊，造成一段光屬性傷害並獲得 Defiant Spirit。 |
-| 被動 1 | Lone Stride | 提供 Charge Enhancement，當場上角色獲得極軌終結能量時，賦予後台隊友對應的 Charge。當真紅於 Charge 狀態下在場上時，每次觸發會造成範圍傷害並疊加攻擊力增益，最多十層。 |
-| 被動 2 | Wrathscale | 提高對非 Boss 敵人造成的極軌終結傷害。 |
+| 普通攻擊 | 特種格鬥術、空箭、特種格鬥術—變式、極限反擊：瞬時決勝、驚駭急襲、落錘、驚駭急襲—輕蔑、極限反擊：不容喘息 | 進行最多五段光屬性攻擊、下落攻擊、長按攻擊與「極限反擊」來累積「桀驁鬥志」。在「升騰之赤」期間，「驚駭急襲」、「落錘」、「驚駭急襲—輕蔑」與「極限反擊：不容喘息」會取代上述招式並改為獲得「清醒邊緣」，且在「威懾凝視」效果下造成額外傷害。 |
+| 技能 | 高速突破、天降赤鋒 | 「高速突破」朝目標衝刺造成多段光屬性傷害並獲得「桀驁鬥志」。在「升騰之赤」期間會變為「天降赤鋒」，消耗全部「清醒邊緣」躍至目標上方發動下劈爪擊，每次狀態期間最多可施放五次。 |
+| 極軌終結 | 沸血赤紅、赤紅的處決、處決的龍炎 | 消耗全部「桀驁鬥志」進入「升騰之赤」，提升傷害、抗打斷能力與移動能力並替換一般技能。隨著狀態接近結束，依據「天降赤鋒」使用次數施放最多三次「赤紅的處決」，隨後再次按下可施放「處決的龍炎」。 |
+| 支援技能 | 破襲戰術 | 發動強力的膝擊，造成一段光屬性傷害並獲得「桀驁鬥志」。 |
+| 被動 1 | 獨行 | 提供「盈蓄」強化，當場上角色獲得極軌終結能量時，賦予後台隊友對應的「盈蓄」。當真紅於「盈蓄」狀態下在場上時，每次觸發會造成範圍傷害並疊加攻擊力增益，最多十層。 |
+| 被動 2 | 逆鱗 | 提高對非 Boss 敵人造成的極軌終結傷害。 |
 
 ## 養成
 

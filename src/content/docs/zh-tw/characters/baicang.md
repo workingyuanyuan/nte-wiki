@@ -49,16 +49,16 @@ sources:
 
 ## 技能
 
-白藏會消耗當前生命值，透過普通攻擊、閃避連段與 Generous Guidance 衍生技生成 Power Words（Bless、Silence 與 Objurgate），再於 Judgment of Autumn 領域內觸發其額外傷害、治療與低生命值處決效果。
+白藏會消耗當前生命值，透過普通攻擊、閃避連段與「不吝賜教」衍生技生成「言靈字」（「祝」、「噤」與「詈」），再於「判予秋」領域內觸發其額外傷害、治療與低生命值處決效果。
 
 | 欄位 | 技能 | 效果 |
 | --- | --- | --- |
-| 普通攻擊 | Walk the Talk、Formless Words、Unrestrained Words、In the Wind、Critical Riposte: Truth Exposed、Shadow Follows | Walk the Talk 最多可進行五段咒屬性攻擊，Shadow Follows 每命中三次消耗當前生命值生成一個 Power Word Bless，最多三個。Formless Words 與 Unrestrained Words 會發射三道引爆指令。In the Wind 為下墜攻擊；Critical Riposte: Truth Exposed 會生成 Bless。 |
-| 技能 | Generous Guidance、Heart of Heaven and Earth、Silenced Thought、Such Crime | Heart of Heaven and Earth 會以地脈文字在目標位置進行攻擊。閃避後按下變軌技能可施放 Silenced Thought，造成單體咒屬性傷害並生成 Power Word Silence；在 Formless Words 或 Unrestrained Words 後施放則會觸發 Such Crime，造成範圍傷害並生成 Power Word Objurgate。 |
-| 極軌終結 | Judgment of Autumn | 展開領域並進入 Power Word 狀態，持續造成咒屬性傷害並處決低於生命值門檻的目標。賦予暫時的致命傷害免疫效果，結束領域並擴散已記錄的傷害。依標記觸發額外效果：Silence 造成額外單體傷害，Objurgate 造成範圍傷害，Bless 則提供治療與傷害。 |
-| 支援技能 | Break Time Over | 短暫蓄力並書寫咒言指令，造成一次範圍咒屬性傷害，命中時在目標身上生成一個 Power Word Silence。 |
-| 被動 1 | Moderate Mischief | Scorch Enhancement：在處於 Scorch 狀態的目標身上生成 Power Word 時，額外施加一次相同效果的 Scorch。 |
-| 被動 2 | Moderate Working | 提升白藏的攻擊力，並與 E.T.D 四隊隊友觸發協同效果：在翳潛行期間切換登場時進行攻擊並生成 Power Word Silence；法帝婭生命值過低時進行攻擊並為她治療；或在安魂曲處於蝙蝠型態期間切換登場時觸發超級跳躍。 |
+| 普通攻擊 | 言行合一、無狀之言、無諱之語、於風中、極限反擊：避實擊虛、如影隨形 | 「言行合一」最多可進行五段咒屬性攻擊，「如影隨形」每命中三次消耗當前生命值生成一個「祝」字，最多三個。「無狀之言」與「無諱之語」會發射三道引爆指令。「於風中」為下墜攻擊；「極限反擊：避實擊虛」會生成「祝」。 |
+| 技能 | 不吝賜教、天地之心、噤念、如此罪狀 | 「天地之心」會以地脈文字在目標位置進行攻擊。閃避後按下變軌技能可施放「噤念」，造成單體咒屬性傷害並生成「噤」字；在「無狀之言」或「無諱之語」後施放則會觸發「如此罪狀」，造成範圍傷害並生成「詈」字。 |
+| 極軌終結 | 判予秋 | 展開領域並進入「言靈字」狀態，持續造成咒屬性傷害並處決低於生命值門檻的目標。賦予暫時的致命傷害免疫效果，結束領域並擴散已記錄的傷害。依標記觸發額外效果：「噤」造成額外單體傷害，「詈」造成範圍傷害，「祝」則提供治療與傷害。 |
+| 支援技能 | 摸魚結束 | 短暫蓄力並書寫咒言指令，造成一次範圍咒屬性傷害，命中時在目標身上生成一個「噤」字。 |
+| 被動 1 | 適度惡趣味 | 「濁燃」強化：在處於「濁燃」狀態的目標身上生成「言靈字」時，額外施加一次相同效果的「濁燃」。 |
+| 被動 2 | 適度上工 | 提升白藏的攻擊力，並與 E.T.D 四隊隊友觸發協同效果：在翳潛行期間切換登場時進行攻擊並生成「噤」字；法帝婭生命值過低時進行攻擊並為她治療；或在安魂曲處於蝙蝠型態期間切換登場時觸發超級跳躍。 |
 
 ## 養成
 

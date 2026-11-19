@@ -49,16 +49,16 @@ sources:
 
 ## 技能
 
-九原通过攻击与 Vita Pistils 生成 Rose Pact Bullets 并以 Lethal Rose Pact 连结敌人，消耗子弹进行自动锁定射击。她的极轨终结会触发 Final Reckoning，同时对所有被连结的目标执行 Pact Settlement，并提高场上的 Vita Bud 上限。
+九原通过攻击与「创生花」生成「玫约子弹」并以「致命玫约」连结敌人，消耗子弹进行自动锁定射击。她的极轨终结会触发「终局清账」，同时对所有被连结的目标执行「致约清算」，并提高场上的「创生株」上限。
 
 | 栏位 | 技能 | 效果 |
 | --- | --- | --- |
-| 普通攻击 | When Secrets Take Shape、Bird's Eye View、Info-Guided Arts、Opportunity Lock-On、Turning the Tide | 最多五段灵属性攻击可获得 Rose Pact Bullets，并在最后一击施加 Lethal Rose Pact，另具备下坠攻击与瞄准射击。长按普通攻击可消耗 Rose Pact Bullets 自动射击，优先锁定被连结的目标。极限闪避后施放 Turning the Tide 可连结目标、降低 Break 并获得子弹。 |
-| 技能 | Intel Hunter | 穿梭战场冲刺，将目标牵引至控制范围内并造成多段灵属性伤害，获得 Rose Pact Bullets 并对目标建立 Lethal Rose Pact。 |
-| 极轨终结 | Final Reckoning | 高速冲刺并对周围目标射击，最后以大范围灵属性爆炸收尾。触发 Final Reckoning，使附近所有处于 Lethal Rose Pact 的目标进入 Pact Settlement 阶段，并在最后一击时同时结算所有效果。 |
-| 支援技能 | Intel Lock-On | 发射弧线子弹造成一次灵属性伤害，命中时获得 Rose Pact Bullets。 |
-| 被动 1 | Seize the Moment | Blossom Enhancement 会额外生成一个 Vita Bud，并将场上 Vita Bud 数量上限提高至六个。 |
-| 被动 2 | Whispers at My Command | 当 Vita Pistils 命中敌人时，对尚未连结的目标施加 Lethal Rose Pact，并对已被连结的目标触发一次额外结算以造成额外灵属性伤害。 |
+| 普通攻击 | 秘密成型时、俯瞰全局、信息导向型、契机锁定、局势逆转 | 最多五段灵属性攻击可获得「玫约子弹」，并在最后一击施加「致命玫约」，另具备下坠攻击与瞄准射击。长按普通攻击可消耗「玫约子弹」自动射击，优先锁定被连结的目标。极限闪避后施放「局势逆转」可连结目标、降低「倾陷值」并获得子弹。 |
+| 技能 | 情报猎手 | 穿梭战场冲刺，将目标牵引至控制范围内并造成多段灵属性伤害，获得「玫约子弹」并对目标建立「致命玫约」。 |
+| 极轨终结 | 终局清账 | 高速冲刺并对周围目标射击，最后以大范围灵属性爆炸收尾。触发「终局清账」，使附近所有处于「致命玫约」的目标进入「致约清算」阶段，并在最后一击时同时结算所有效果。 |
+| 支援技能 | 秘闻锁定 | 发射弧线子弹造成一次灵属性伤害，命中时获得「玫约子弹」。 |
+| 被动 1 | 顺势而获 | 「创生」强化会额外生成一个「创生株」，并将场上「创生株」数量上限提高至六个。 |
+| 被动 2 | 风声为我所用 | 当「创生花」命中敌人时，对尚未连结的目标施加「致命玫约」，并对已被连结的目标触发一次额外结算以造成额外灵属性伤害。 |
 
 ## 养成
 

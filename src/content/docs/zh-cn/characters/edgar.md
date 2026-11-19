@@ -47,16 +47,16 @@ sources:
 
 ## 技能
 
-埃德嘉通过引导技能与极轨终结领域为队友治疗，并从技能与支援技能获得 Key of Truth 层数以延长极轨终结的持续时间，还能借由 Charge Enhancement 恢复 Ultimate Energy。
+埃德嘉通过引导技能与极轨终结领域为队友治疗，并从技能与支援技能获得「真理之匙」层数以延长极轨终结的持续时间，还能借由「盈蓄」强化恢复「终结能量」。
 
 | 栏位 | 技能 | 效果 |
 | --- | --- | --- |
-| 普通攻击 | Combat Practice, Calculated Landing, Critical Riposte: Crisis is Opportunity | Combat Practice 最多可进行五段连续光属性攻击。Calculated Landing 可于空中发动下落攻击，依高度造成范围光属性伤害。在 Critical Dodge 后使用 Combat Practice 会触发 Critical Riposte: Crisis is Opportunity，向前冲锋并施放 Flow 攻击，造成范围光属性伤害并削减 Break。 |
-| 技能 | Wild Current | 长按可向目标引导 Current，造成光属性伤害并持续治疗生命值最低的队友。其冷却时间会依据引导持续时间延长。 |
-| 极轨终结 | Finnegan's Wake | 展开迷宫领域，造成一段范围光属性伤害，并在持续期间内治疗场上角色。 |
-| 支援技能 | Weight of Knowledge | 朝目标冲锋并挥动提包，造成一段范围光属性伤害。 |
-| 被动 1 | Gentle Edge | 当角色以支援技能触发 Charge 时，Charge Enhancement 会立即赋予 Ultimate Energy，随后暂时停用 Vita Pistils 命中 Slowed 目标时获得的 Ultimate Energy 回复。 |
-| 被动 2 | Unchanging Warmth | 施放变轨技能 Wild Current 或支援技能 Weight of Knowledge 时获得一把 Key of Truth，最多三把；每把钥匙皆可延长极轨终结（亦称为 Finnegan's Vigil）的持续时间。 |
+| 普通攻击 | 体术实战、精心计算后的着陆、极限反击：危机亦是机遇 | 「体术实战」最多可进行五段连续光属性攻击。「精心计算后的着陆」可于空中发动下落攻击，依高度造成范围光属性伤害。在「极限闪避」后使用「体术实战」会触发「极限反击：危机亦是机遇」，向前冲锋并施放「流」攻击，造成范围光属性伤害并削减「倾陷值」。 |
+| 技能 | 狂流 | 长按可向目标引导「狂流」，造成光属性伤害并持续治疗生命值最低的队友。其冷却时间会依据引导持续时间延长。 |
+| 极轨终结 | 芬尼根守灵夜 | 展开迷宫领域，造成一段范围光属性伤害，并在持续期间内治疗场上角色。 |
+| 支援技能 | 知识的重量 | 朝目标冲锋并挥动提包，造成一段范围光属性伤害。 |
+| 被动 1 | 温和的锋芒 | 当角色以支援技能触发「盈蓄」时，「盈蓄」强化会立即赋予「终结能量」，随后暂时停用「创生花」命中「迟缓」目标时获得的「终结能量」回复。 |
+| 被动 2 | 不变的暖意 | 施放变轨技能「狂流」或支援技能「知识的重量」时获得一把「真理之匙」，最多三把；每把钥匙皆可延长极轨终结「芬尼根守灵夜」的持续时间。 |
 
 ## 养成
 

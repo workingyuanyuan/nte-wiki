@@ -56,16 +56,16 @@ sources:
 
 ## 技能
 
-曳爾沐透過普通攻擊連段、變軌技能與支援技能將 Connection Strength 從 Weak Connection 提升至 Strong Connection，藉此提高極軌終結與離場後 Remembrance 追擊的倍率，同時為隊伍提供攻擊力與追擊傷害加成。
+曳爾沐透過普通攻擊連段、變軌技能與支援技能將「信號強度」從「弱信號」提升至「強信號」，藉此提高極軌終結與離場後「追憶」追擊的倍率，同時為隊伍提供攻擊力與追擊傷害加成。
 
 | 欄位 | 技能 | 效果 |
 | --- | --- | --- |
-| 普通攻擊 | Instant Glitch, Crosstalk, Interference, Memory Anchor, Falling Dream, Okay! Shake on It! | Instant Glitch 在 Weak Connection 下最多可進行五段攻擊以解鎖 Intermittent Existence，長按則施放 Interference。Crosstalk 在 Medium／Strong Connection 下最多可進行三段攻擊以解鎖 Goodbye to You。瞄準施放 Memory Anchor，極限閃避觸發 Okay! Shake on It!，Falling Dream 為空中下落攻擊。 |
-| 技能 | Counting Electric Sheep, The Ones Who Left, Intermittent Existence, Goodbye to You | The Ones Who Left 造成範圍光屬性傷害，並在 Weak Connection 下解鎖 Intermittent Existence，將 Connection Strength 提升至 Medium，獲得 Optical Illusion 並掃描目標以決定極軌終結型態。接在 Crosstalk 之後施放 Goodbye to You 會消耗 Optical Illusion 層數造成對應倍率的傷害、進階至 Strong Connection 並重新掃描。 |
-| 極軌終結 | Do You Get Deja Vu | 依據掃描結果自動切換單體與範圍型態（Weak Connection 下為範圍型態），依照 Connection Strength 提升傷害倍率，施放後重置回 Weak Connection。為隊伍提供攻擊力與追擊傷害加成及 On the Line，在離場後觸發 Remembrance 協同追擊傷害，直到次數耗盡。 |
-| 支援技能 | I'm Here | 造成光屬性傷害，若當前為 Weak Connection 則提升至 Medium Connection，獲得 Optical Illusion，並掃描周圍目標以切換 Do You Get Deja Vu 的單體／範圍型態。 |
-| 被動 1 | Relay Node | Charge Enhancement 會在場上角色獲得極軌終結能量時為全隊疊加光屬性傷害加成，最多八層。Remora Enhancement 會在隊友施加 Remora 後短暫延遲再次對同一目標施加 Remora，此效果不會連鎖觸發自身。 |
-| 被動 2 | Pity System | 提高曳爾沐的暴擊傷害。 |
+| 普通攻擊 | 即時故障、錯頻故障、干擾故障、記憶錨點、墜落夢、好的！握手！ | 「即時故障」在「弱信號」下最多可進行五段攻擊以解鎖「不連續的存在」，長按則施放「干擾故障」。「錯頻故障」在「中等信號／強信號」下最多可進行三段攻擊以解鎖「對你說再見」。瞄準施放「記憶錨點」，極限閃避觸發「好的！握手！」，「墜落夢」為空中下落攻擊。 |
+| 技能 | 沉入電子夢、離去的人們、不連續的存在、對你說再見 | 「離去的人們」造成範圍光屬性傷害，並在「弱信號」下解鎖「不連續的存在」，將「信號強度」提升至「中等信號」，獲得「錯視幻覺」並掃描目標以決定極軌終結型態。接在「錯頻故障」之後施放「對你說再見」會消耗「錯視幻覺」層數造成對應倍率的傷害、進階至「強信號」並重新掃描。 |
+| 極軌終結 | 一如昨日光景 | 依據掃描結果自動切換單體與範圍型態（「弱信號」下為範圍型態），依照「信號強度」提升傷害倍率，施放後重置回「弱信號」。為隊伍提供攻擊力與追擊傷害加成及「後台連線」，在離場後觸發「追憶」協同追擊傷害，直到次數耗盡。 |
+| 支援技能 | 我在 | 造成光屬性傷害，若當前為「弱信號」則提升至「中等信號」，獲得「錯視幻覺」，並掃描周圍目標以切換「一如昨日光景」的單體／範圍型態。 |
+| 被動 1 | 中繼節點 | 「盈蓄」強化會在場上角色獲得極軌終結能量時為全隊疊加光屬性傷害加成，最多八層。「延滯」強化會在隊友施加「延滯」後短暫延遲再次對同一目標施加「延滯」，此效果不會連鎖觸發自身。 |
+| 被動 2 | 保底機制 | 提高曳爾沐的暴擊傷害。 |
 
 ## 養成
 

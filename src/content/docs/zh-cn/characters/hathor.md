@@ -50,16 +50,16 @@ sources:
 
 ## 技能
 
-哈索尔通过技能、Critical Riposte: Zero-Error Operation 与 Efficiency Boost 被动累积 Express Delivery Power 层数。施放极轨终结后进入 Emergency Delivery 状态，依据层数获得攻击力加成，并将 Aerial Command 强化为消耗层数进行高速连段的 Cyclone Strike。
+哈索尔通过技能、「极限反击：零误差行动」与「效率推进」被动累积「闪送之力」层数。施放极轨终结后进入「紧急派送」状态，依据层数获得攻击力加成，并将「空中指令」强化为消耗层数进行高速连段的「轮转打击」。
 
 | 栏位 | 技能 | 效果 |
 | --- | --- | --- |
-| 普通攻击 | Rapid Delivery、Final Dispatch、To The Skies、Critical Riposte: Zero-Error Operation | Rapid Delivery 最多可进行五段相属性攻击，Final Dispatch 从空中下坠攻击，长按普通攻击施放 To The Skies 将敌人挑飞后下坠攻击。极限闪避后触发 Critical Riposte: Zero-Error Operation 进行反击，造成范围相属性伤害、降低 Break 并获得 Express Delivery Power。 |
-| 技能 | Aerial Command、Cyclone Strike | Aerial Command 斩击前方敌人以获得两层 Express Delivery Power；长按可蓄力扩大相属性范围伤害并施加 Five-Star Tracking，使敌人击中队友时赋予三层。处于 Emergency Delivery 状态时会变为 Cyclone Strike，消耗层数施展高速摩托车连段攻击。 |
-| 极轨终结 | Rider Express | 召唤荆棘摩托车绕行并俯冲轰炸敌人，造成范围相属性伤害，进入 Emergency Delivery 状态。期间停止获得 Express Delivery Power，将 Aerial Command 升级为 Cyclone Strike，提升移动速度并依据已储存层数获得攻击力加成。切换角色会立即结束 Emergency Delivery。 |
-| 支援技能 | Impact Point Designation | 从空中发动攻击并踢击目标引发冲击，造成两段范围相属性伤害。 |
-| 被动 1 | Delay Warning | 提供 Remora Enhancement，延长目标身上的 Remora 持续时间，并在攻击受 Remora 影响的目标时提高暴击率。 |
-| 被动 2 | Efficiency Boost | 击败目标后获得一层 Express Delivery Power。 |
+| 普通攻击 | 高频送达、压轴派送、制高清算、极限反击：零误差行动 | 「高频送达」最多可进行五段相属性攻击，「压轴派送」从空中下坠攻击，长按普通攻击施放「制高清算」将敌人挑飞后下坠攻击。极限闪避后触发「极限反击：零误差行动」进行反击，造成范围相属性伤害、降低「倾陷值」并获得「闪送之力」。 |
+| 技能 | 空中指令、轮转打击 | 「空中指令」斩击前方敌人以获得两层「闪送之力」；长按可蓄力扩大相属性范围伤害并施加「满星追踪」，使敌人击中队友时赋予三层。处于「紧急派送」状态时会变为「轮转打击」，消耗层数施展高速摩托车连段攻击。 |
+| 极轨终结 | 铁骑速递 | 召唤荆棘摩托车绕行并俯冲轰炸敌人，造成范围相属性伤害，进入「紧急派送」状态。期间停止获得「闪送之力」，将「空中指令」升级为「轮转打击」，提升移动速度并依据已储存层数获得攻击力加成。切换角色会立即结束「紧急派送」。 |
+| 支援技能 | 坠点标定 | 从空中发动攻击并踢击目标引发冲击，造成两段范围相属性伤害。 |
+| 被动 1 | 延时预警 | 提供「延滞」强化，延长目标身上的「延滞」持续时间，并在攻击受「延滞」影响的目标时提高暴击率。 |
+| 被动 2 | 效率推进 | 击败目标后获得一层「闪送之力」。 |
 
 ## 养成
 
