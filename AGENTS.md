@@ -69,6 +69,9 @@ pnpm preview     # serve dist/ at http://127.0.0.1:4399/nte-wiki/ with GitHub Pa
 | `src/components/`, `src/styles/nte.css` | The three overrides and the skin |
 | `assets/fonts/`, `scripts/subset-font.mjs` | Pixel font source with its licence, and the subsetter |
 | `scripts/check-dist.mjs`, `scripts/preview.mjs` | Acceptance checks, local preview |
+| `src/lib/sitemap.mjs` | Sitemap options: `lastmod` of each page from `lastVerified` |
+| `scripts/check-found.mjs` | Checks called by `check-dist.mjs`: a title and description of its own for every page, canonical, `hreflang`, sitemap |
+| `tests/agent-eval/questions.json` | The site's question list: what readers ask, each with the expected answer and qualifier. The agent test and the search test draw from it |
 | `scripts/indexnow.mjs` | Lists pages whose Markdown twin differs from the live one; the deploy workflow submits them to IndexNow |
 | `scripts/to-zh-cn.py` | Writes the Simplified Chinese pages from the Traditional Chinese ones |
 | `tests/agent-eval/` | Fetch tool, questions and method for the agent test |
