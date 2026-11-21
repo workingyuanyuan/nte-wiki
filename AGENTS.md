@@ -17,7 +17,7 @@ This site is an unofficial wiki for the game Neverness to Everness (NTE, 異環)
 - Character pages describe skills. Skill names and effects come from Prydwen and are checked against Game8; damage values, tier lists and team builds are not copied.
 - Guide sites may supply a fact that the official sources lack when at least two of them agree, and the page names them in `sources`. A fact from one guide site is attributed in the sentence ("Game8 says").
 - Look: pixel terminal in the official colours, cyan `#39d5fc` and pink `#fb5692`. Motion is sparing: the title is typed once, the first blocks print in once, the cursors blink. The owner had these removed as too much: the logo mark, the signal meter, the moving band under the header, motion and scan lines on images, the status line. Do not add them back.
-- `robots.txt` carries `ai-train=no`. Address: `https://workingyuanyuan.github.io/nte-wiki/`.
+- `robots.txt` carries `ai-train=no`. Address: `https://yuanaruru.com/nte-wiki/`.
 
 ## Commands
 
