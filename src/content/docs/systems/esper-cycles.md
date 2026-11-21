@@ -5,7 +5,7 @@ aliases:
   - 異能環合
   - 异能环合
 appliesTo: Version 1.5, game data 1.5.4
-lastVerified: 2026-11-19
+lastVerified: 2026-11-21
 caveat: Charge and Discord are not set off by a switch of their own. They happen when a target already carries two reactions, Blossom on a target in Remora, or Nova and Scorch together.
 sources:
   - title: Prydwen, Esper Cycles guide
@@ -16,13 +16,17 @@ sources:
     url: https://static.nanoka.cc/nte/1.5.4/en/character/1003.json
   - title: nanoka.cc game data 1.5.4, character files (passive texts in Chinese)
     url: https://static.nanoka.cc/nte/1.5.4/zh/character/1003.json
+  - title: GameWith, Cycle Intensity guide
+    url: https://gamewith.net/nte/76296
+  - title: NGA forum, player analysis of damage and Esper Cycle mechanics, in Simplified Chinese (read 2026-11-21)
+    url: https://bbs.nga.cn/read.php?tid=46659382
 ---
 
 ## The cycle
 
 The six attributes sit on a ring in this order: Cosmos, Anima, Incantation, Chaos, Psyche, Lakshana, and back to Cosmos. Two neighbours on the ring make a two-attribute reaction. Charge and Discord combine three neighbours.
 
-Prydwen describes the trigger: when the Cycle gauge is full and the player switches to a character whose attribute borders the one on the field, the incoming character's entry skill sets off the reaction. Esper Cycle damage scales with the Cycle Intensity of the characters who took part.
+Prydwen describes the trigger: when the Cycle gauge is full and the player switches to a character whose attribute borders the one on the field, the incoming character's entry skill sets off the reaction.
 
 ## Reactions
 
@@ -36,6 +40,19 @@ Prydwen describes the trigger: when the Cycle gauge is full and the player switc
 | Remora | Lakshana, Cosmos | For 5 s the target moves and attacks more slowly, recovering over time; repeated Remora wears off faster |
 | Charge | Lakshana, Cosmos, Anima | When Vita Pistils hit a target in Remora, the active character gains 10 extra Ultimate Energy |
 | Discord | Incantation, Chaos, Psyche | A target in Nova and Scorch at the same time loses part of its Break gauge |
+
+## Whose stats count
+
+A reaction set off by a switch involves two characters: the one on the field and the one switched in. Whose stats count depends on the reaction.
+
+| Reaction | Whose stats count |
+| --- | --- |
+| Blossom, Scorch, Nova | Of the two, the one with the higher Cycle Intensity and level, whether that character switched in or out. Blossom and Scorch deal that character's attribute |
+| Hexed, Stain | The character who deals the Anima or Incantation damage (Hexed), or the Psyche or Lakshana damage (Stain), while the effect lasts |
+
+Of the reaction damage, only Scorch can land critical hits by default. Its Crit Rate is fixed at 50%, and it uses the Crit DMG of the character whose stats count. GameWith adds that Cycle Intensity has no effect on Remora, Charge and Discord, which deal no damage.
+
+A player analysis on the NGA forum gives the exact rule. For Blossom, Scorch and Nova the game compares each character's base reaction damage, which grows with level, multiplied by a Cycle Intensity factor. On a tie, the character whose entry attack set off the reaction counts, and the choice is fixed when the reaction triggers. The 20% of Hexed and of Stain is the value at 0 Cycle Intensity and rises with the Cycle Intensity of the character who deals the damage.
 
 ## Character enhancements
 

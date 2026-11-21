@@ -94,6 +94,9 @@ pnpm preview     # serve dist/ at http://127.0.0.1:4399/nte-wiki/ with GitHub Pa
 | `everness.info` | Data renders with JavaScript (a browser is needed); same game data as nanoka.cc | Cross-check |
 | `prydwen.gg/neverness-to-everness/guides/<slug>` | System guides as plain text (`esper-cycles`, `modules-generic`, `modules-cartridge`, `character-progression`) | Mechanics not in the game data |
 | Fandom, Mobalytics, wiki.gg, thegameswiki.com | 403, 403, 401, 429 | Not readable |
+| `gamewith.net/nte/<id>` (checked 2026-11-21) | Full text after the site navigation. `76296` is the Cycle Intensity guide | Mechanics, second source |
+| `kaiden.gg/nte/guides/<slug>` (checked 2026-11-21) | Full text | Mechanics, second source |
+| `bbs.nga.cn/read.php?tid=<tid>` (checked 2026-11-21) | 403 on the first request. The page holds a `guestJs` cookie; a second request with that cookie, `ngaPassportUid` and a `bbs.nga.cn` Referer returns the post as GBK HTML. `&lite=js` returns JSON that sometimes fails to parse. Fast requests get 302 to the same URL: keep 3 s between them | Player tests; a fact found only there is attributed in the sentence |
 
 Mid-version changes (the second Board of each version) are announced in notices titled "Server Maintenance Notice", not in the patch notes.
 

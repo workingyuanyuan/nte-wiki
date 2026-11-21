@@ -4,7 +4,7 @@ description: 空幕是角色的装备，由带套装效果的卡带与摆进格�
 aliases:
   - 'Consoles: Cartridges and Modules'
 appliesTo: 1.5 版，游戏资料 1.5.4
-lastVerified: 2026-11-19
+lastVerified: 2026-11-21
 caveat: 卡带的套装效果只计算该卡带指定形状的驱动块；其他形状的四块驱动块不会启动套装。
 sources:
   - title: nanoka.cc 游戏资料 1.5.4，空幕档案（英文）
@@ -19,6 +19,10 @@ sources:
     url: https://wiki.mysqil.com/cassettes
   - title: mysqil（环世全鉴）的驱动块页面（简体中文）
     url: https://wiki.mysqil.com/drivers
+  - title: Kaiden.gg 的 1.1 版准备指南（驱动块升级，英文）
+    url: https://www.kaiden.gg/nte/guides/pre-patch-1-1-preparation-guide-resources-milestones-and-double-drop-windows/
+  - title: NGA 论坛玩家实测：卡带与驱动块经验值（简体中文，2026-11-21 读取）
+    url: https://bbs.nga.cn/read.php?tid=46767393
 ---
 
 ## 运作方式
@@ -39,6 +43,19 @@ sources:
 | 驱动块 | 空幕页面的「倒带」，消耗兔子洞掉落的萝卜币：胡萝卜币用于初级、银萝卜币用于中级、金萝卜币用于高级倒带 |
 | 驱动块升级 | 兔子洞掉落的井小屑、井屑达人、超屑井主 |
 | 额外驱动块 | 四处[房产](/zh-cn/systems/properties/)中的异象家具「仓鼠球」 |
+
+## 升级与分解
+
+驱动块与卡带用井屑道具升级。分解升级过的驱动块，会返还它从升级累积的全部经验与 80% 的甲硬币；直接拿它喂给其他装备则会损失部分经验。升级过的驱动块，分解比直接喂划算。
+
+NGA 论坛的玩家实测补充了细节，卡带与驱动块皆适用：
+
+| 操作 | 实测结果 |
+| --- | --- |
+| 拿装备喂装备 | 驱动块与卡带可以互相喂。被喂掉的装备传过去的是它升级累积经验的 80%，加上它的全部基底经验 |
+| 甲硬币花费 | 每 50 点经验 1 枚：用井屑道具时按道具经验计，拿装备喂时按被喂装备的基底经验计。超出等级上限那部分经验的甲硬币不返还 |
+| 超出上限的经验 | 以井屑道具返还；不足 1,000 的零头不返还 |
+| 分解 | 升级累积的经验全数以井屑道具返还，甲硬币返还 80%。基底经验以井屑道具返还，或改换成同品质的萝卜币：卡带 12 枚、驱动块 8 枚 |
 
 ## 驱动块型号
 

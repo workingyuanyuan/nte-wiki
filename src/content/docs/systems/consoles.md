@@ -4,7 +4,7 @@ description: The Console is the gear of a character, a Cartridge with a set effe
 aliases:
   - 空幕
 appliesTo: Version 1.5, game data 1.5.4
-lastVerified: 2026-11-19
+lastVerified: 2026-11-21
 caveat: A Cartridge's set effect counts only Modules of the shapes that Cartridge asks for; four Modules of other shapes do not activate it.
 sources:
   - title: nanoka.cc game data 1.5.4, Console file in English
@@ -19,6 +19,10 @@ sources:
     url: https://wiki.mysqil.com/cassettes
   - title: mysqil (环世全鉴), Modules page in Simplified Chinese
     url: https://wiki.mysqil.com/drivers
+  - title: Kaiden.gg, pre-patch 1.1 preparation guide (Module levelling)
+    url: https://www.kaiden.gg/nte/guides/pre-patch-1-1-preparation-guide-resources-milestones-and-double-drop-windows/
+  - title: NGA forum, player test of Cartridge and Module EXP, in Simplified Chinese (read 2026-11-21)
+    url: https://bbs.nga.cn/read.php?tid=46767393
 ---
 
 ## How it works
@@ -39,6 +43,19 @@ sources:
 | Modules | Rewind on the Console page, paid with Carrota from the Rabbit Hole: Bronze Carrota for Easy, Silver for Normal, Gold for Hard Rewinds |
 | Module upgrades | Manhole Thug, Manhole Crook and Manhole Boss, from the Rabbit Hole |
 | Extra Modules | The Anomaly Furniture "Hamster Ball" in four [properties](/systems/properties/) |
+
+## Upgrading and dismantling
+
+Modules and Cartridges level up with Manhole items. Dismantling an upgraded Module returns all the EXP it holds from upgrades and 80% of the Beetle Coins; feeding it straight into another piece loses part of that EXP. An upgraded Module is better dismantled than fed.
+
+A player test on the NGA forum adds the details, for Cartridges as well as Modules:
+
+| Action | Result in the test |
+| --- | --- |
+| Feeding gear | Any Module or Cartridge can be fed to any other. The piece fed in passes on 80% of the EXP it holds from upgrades, plus all of its base EXP |
+| Beetle Coin cost | 1 coin per 50 EXP of Manhole items used, or per 50 base EXP of a piece fed in. Coins spent on EXP beyond the level cap are not refunded |
+| EXP beyond the cap | Comes back as Manhole items; any remainder under 1,000 is lost |
+| Dismantling | EXP from upgrades comes back in full as Manhole items, with 80% of its coins. Base EXP comes back as Manhole items, or as Carrota of the piece's rarity: 12 for a Cartridge, 8 for a Module |
 
 ## Module types
 
