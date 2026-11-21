@@ -3,10 +3,10 @@ title: Edgar
 description: Edgar is an A-Class character of the Cosmos attribute, found on Limited Boards.
 aliases:
   - 埃德嘉
-appliesTo: Version 1.5
+appliesTo: Version 1.5, game data 1.5.4
 caveat: 'Edgar is on both Limited Boards of Version 1.5, which close on 2026-12-02 at 05:59 (UTC+8).'
 effectiveDate: 2026-11-09
-lastVerified: 2026-11-18
+lastVerified: 2026-11-22
 sources:
   - title: Version 1.4 patch notes, 2026-09-29
     url: https://nte.perfectworld.com/en/article/news/gamenews/20260929/264409.html
@@ -16,6 +16,10 @@ sources:
     url: https://www.prydwen.gg/neverness-to-everness/characters/edgar
   - title: Game8, Edgar build page (cross-check of skills and attribute)
     url: https://game8.co/games/Neverness-to-Everness/archives/597811
+  - title: nanoka.cc game data 1.5.4, character file in English
+    url: https://static.nanoka.cc/nte/1.5.4/en/character/1021.json
+  - title: nanoka.cc game data 1.5.4, character file in Chinese
+    url: https://static.nanoka.cc/nte/1.5.4/zh/character/1021.json
 ---
 
 ## Profile
@@ -82,3 +86,39 @@ Each duplicate unlocks one Awakening of the player's choice; Resonances unlock a
 | Visitor from Planet Curiosity | Grants 15% DEF to all allies in the range of Finnegan's Wake. |
 | Resonance 3: Pursuit of Knowledge | Increases the skill level of Wild Current, Finnegan's Wake, and Weight of Knowledge by 1. |
 | Resonance 6: Keen Insight | Edgar's thoughts are stirred by his allies' safety. Converts 3% of any teammate's Max HP lost into 1 Charge for Finnegan's Vigil, up to 20 Charges. Resets after casting Finnegan's Vigil. |
+
+## Skill multipliers
+
+Values for each skill level, from the game data (version 1.5.4). Materials raise a skill to Lv. 10; the Resonance at 3 Awakenings adds 1 level to the skills it names. The game data lists values up to Lv. 13.
+
+### Basic Attack: Combat Practice
+
+| Parameter | Lv. 1 | Lv. 2 | Lv. 3 | Lv. 4 | Lv. 5 | Lv. 6 | Lv. 7 | Lv. 8 | Lv. 9 | Lv. 10 | Lv. 11 | Lv. 12 | Lv. 13 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1st Instance Ratio | 30.9% | 33.4% | 36% | 38.9% | 42% | 45.4% | 49% | 53% | 57.2% | 61.8% | 66.7% | 72% | 77.8% |
+| 2nd Instance Ratio | 62.7% | 67.7% | 73.1% | 79% | 85.3% | 92.1% | 99.5% | 107.5% | 116.1% | 125.3% | 135.4% | 146.2% | 157.9% |
+| 3rd Instance Ratio | 39%×2 | 42.1%×2 | 45.5%×2 | 49.1%×2 | 53.1%×2 | 57.3%×2 | 61.9%×2 | 66.8%×2 | 72.2%×2 | 78%×2 | 84.2%×2 | 90.9%×2 | 98.2%×2 |
+| 4th Instance Ratio | 83.3% | 90% | 97.2% | 104.9% | 113.3% | 122.4% | 132.2% | 142.8% | 154.2% | 166.5% | 179.8% | 194.2% | 209.8% |
+| 5th Instance Ratio | 69.8% | 75.4% | 81.4% | 87.9% | 95% | 102.6% | 110.8% | 119.6% | 129.2% | 139.5% | 150.7% | 162.7% | 175.8% |
+| Plunge Attack DMG Ratio | 31.2% | 33.7% | 36.4% | 39.3% | 42.4% | 45.8% | 49.5% | 53.5% | 57.7% | 62.4% | 67.4% | 72.7% | 78.6% |
+| Critical Riposte DMG Ratio | 104% | 112.3% | 121.3% | 131% | 141.5% | 152.8% | 165% | 178.2% | 192.5% | 207.9% | 224.5% | 242.5% | 261.9% |
+
+### Skill: Wild Current
+
+| Parameter | Lv. 1 | Lv. 2 | Lv. 3 | Lv. 4 | Lv. 5 | Lv. 6 | Lv. 7 | Lv. 8 | Lv. 9 | Lv. 10 | Lv. 11 | Lv. 12 | Lv. 13 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| DMG Ratio | 80%×7 | 86.4%×7 | 93.3%×7 | 100.8%×7 | 108.8%×7 | 117.5%×7 | 126.9%×7 | 137.1%×7 | 148.1%×7 | 159.9%×7 | 172.7%×7 | 186.5%×7 | 201.5%×7 |
+
+### Ultimate: Finnegan's Wake
+
+| Parameter | Lv. 1 | Lv. 2 | Lv. 3 | Lv. 4 | Lv. 5 | Lv. 6 | Lv. 7 | Lv. 8 | Lv. 9 | Lv. 10 | Lv. 11 | Lv. 12 | Lv. 13 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| DMG Ratio | 400% | 432% | 466.6% | 503.9% | 544.2% | 587.7% | 634.7% | 685.5% | 740.4% | 799.6% | 863.6% | 932.7% | 1007.3% |
+
+Ultimate Energy Cost: 100 at every level.
+
+### Support Skill: Weight of Knowledge
+
+| Parameter | Lv. 1 | Lv. 2 | Lv. 3 | Lv. 4 | Lv. 5 | Lv. 6 | Lv. 7 | Lv. 8 | Lv. 9 | Lv. 10 | Lv. 11 | Lv. 12 | Lv. 13 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| DMG Ratio | 200% | 216% | 233.3% | 251.9% | 272.1% | 293.9% | 317.4% | 342.8% | 370.2% | 399.8% | 431.8% | 466.3% | 503.6% |

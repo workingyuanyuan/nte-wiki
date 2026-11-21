@@ -3,10 +3,10 @@ title: Iroi
 description: Iroi is a limited S-Class character of the Anima attribute, added in Version 1.2.
 aliases:
   - 伊洛伊
-appliesTo: Version 1.5
+appliesTo: Version 1.5, game data 1.5.4
 caveat: 'Iroi is limited: obtainable only while the "The Lifeline" Board is open. It last closed on 2026-08-19 at 05:59 (UTC+8).'
 effectiveDate: 2026-07-28
-lastVerified: 2026-11-18
+lastVerified: 2026-11-22
 art:
   - title: character profiles
     url: https://nte.perfectworld.com/en/main.html?nav=2&role=20
@@ -19,6 +19,10 @@ sources:
     url: https://www.prydwen.gg/neverness-to-everness/characters/iroi
   - title: Game8, Iroi build page (cross-check of skills and attribute)
     url: https://game8.co/games/Neverness-to-Everness/archives/613162
+  - title: nanoka.cc game data 1.5.4, character file in English
+    url: https://static.nanoka.cc/nte/1.5.4/en/character/1075.json
+  - title: nanoka.cc game data 1.5.4, character file in Chinese
+    url: https://static.nanoka.cc/nte/1.5.4/zh/character/1075.json
 ---
 
 ![Iroi, official character art: a girl with long green hair and red curled horns in a white coat](/art/characters/iroi.webp)
@@ -103,3 +107,51 @@ Each duplicate unlocks one Awakening of the player's choice; Resonances unlock a
 | Archmage | "The Lifeline" Board tile, or the Wayfarer Perks page after enough rolls |
 | Channeling… | "999 Nights" Button Shop |
 | Starlit Night | Bond Lvl 10 with Iroi |
+
+## Skill multipliers
+
+Values for each skill level, from the game data (version 1.5.4). Materials raise a skill to Lv. 10; the Resonance at 3 Awakenings adds 1 level to the skills it names. The game data lists values up to Lv. 13.
+
+### Basic Attack: Collaboration
+
+| Parameter | Lv. 1 | Lv. 2 | Lv. 3 | Lv. 4 | Lv. 5 | Lv. 6 | Lv. 7 | Lv. 8 | Lv. 9 | Lv. 10 | Lv. 11 | Lv. 12 | Lv. 13 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Collaboration: 1st Instance DMG Ratio & Builds up Imagination | 76%, 2 | 82.1%, 2 | 88.6%, 2 | 95.7%, 2 | 103.4%, 2 | 111.7%, 2 | 120.6%, 2 | 130.3%, 2 | 140.7%, 2 | 151.9%, 2 | 164.1%, 2 | 177.2%, 2 | 191.4%, 2 |
+| Collaboration: 2nd Instance DMG Ratio & Builds up Imagination | 15.9%×3, 3 | 17.2%×3, 3 | 18.5%×3, 3 | 20%×3, 3 | 21.6%×3, 3 | 23.4%×3, 3 | 25.2%×3, 3 | 27.2%×3, 3 | 29.4%×3, 3 | 31.8%×3, 3 | 34.3%×3, 3 | 37.1%×3, 3 | 40%×3, 3 |
+| Collaboration: 3rd Instance DMG Ratio & Builds up Imagination | 10.3%×8, 3 | 11.1%×8, 3 | 12%×8, 3 | 13%×8, 3 | 14%×8, 3 | 15.1%×8, 3 | 16.3%×8, 3 | 17.7%×8, 3 | 19.1%×8, 3 | 20.6%×8, 3 | 22.2%×8, 3 | 24%×8, 3 | 25.9%×8, 3 |
+| Collaboration: 4th Instance DMG Ratio & Builds up Imagination | 70.2%, 4 | 75.8%, 4 | 81.9%, 4 | 88.4%, 4 | 95.5%, 4 | 103.1%, 4 | 111.4%, 4 | 120.3%, 4 | 129.9%, 4 | 140.3%, 4 | 151.6%, 4 | 163.7%, 4 | 176.8%, 4 |
+| Collaboration: 5th Instance DMG Ratio & Builds up Imagination | 25.8%×3, 8 | 27.9%×3, 8 | 30.1%×3, 8 | 32.5%×3, 8 | 35.1%×3, 8 | 37.9%×3, 8 | 40.9%×3, 8 | 44.2%×3, 8 | 47.8%×3, 8 | 51.6%×3, 8 | 55.7%×3, 8 | 60.2%×3, 8 | 65%×3, 8 |
+| Plunge DMG Ratio & Builds up Imagination | 36%, 2 | 38.9%, 2 | 42%, 2 | 45.3%, 2 | 49%, 2 | 52.9%, 2 | 57.1%, 2 | 61.7%, 2 | 66.6%, 2 | 72%, 2 | 77.7%, 2 | 83.9%, 2 | 90.7%, 2 |
+| Daydream: 1st Instance DMG Ratio | 36.8%×3 | 39.7%×3 | 42.9%×3 | 46.4%×3 | 50.1%×3 | 54.1%×3 | 58.4%×3 | 63.1%×3 | 68.1%×3 | 73.6%×3 | 79.4%×3 | 85.8%×3 | 92.7%×3 |
+| Daydream: 2nd Instance DMG Ratio | 88.4% | 95.5% | 103.1% | 111.4% | 120.3% | 129.9% | 140.3% | 151.5% | 163.6% | 176.7% | 190.8% | 206.1% | 222.6% |
+| Daydream: 3rd Instance DMG Ratio | 39.8% | 43% | 46.4% | 50.1% | 54.1% | 58.5% | 63.2% | 68.2% | 73.7% | 79.6% | 85.9% | 92.8% | 100.2% |
+| Lucid Dream: DMG Ratio & Imagination Cost | 23.7%×35, 10 | 25.6%×35, 10 | 27.6%×35, 10 | 29.9%×35, 10 | 32.2%×35, 10 | 34.8%×35, 10 | 37.6%×35, 10 | 40.6%×35, 10 | 43.9%×35, 10 | 47.4%×35, 10 | 51.2%×35, 10 | 55.3%×35, 10 | 59.7%×35, 10 |
+| Critical Riposte Ratio & Builds up Imagination | 134%, 4 | 144.7%, 4 | 156.3%, 4 | 168.8%, 4 | 182.3%, 4 | 196.9%, 4 | 212.6%, 4 | 229.7%, 4 | 248%, 4 | 267.9%, 4 | 289.3%, 4 | 312.4%, 4 | 337.4%, 4 |
+
+### Skill: Future Self Continuity
+
+| Parameter | Lv. 1 | Lv. 2 | Lv. 3 | Lv. 4 | Lv. 5 | Lv. 6 | Lv. 7 | Lv. 8 | Lv. 9 | Lv. 10 | Lv. 11 | Lv. 12 | Lv. 13 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Redirect Skill: Three Lambs' Attack Ratio | 150%+17.9%×7+125% | 162%+19.3%×7+135% | 175%+20.9%×7+145.8% | 189%+22.5%×7+157.5% | 204.1%+24.4%×7+170.1% | 220.4%+26.3%×7+183.7% | 238%+28.4%×7+198.4% | 257.1%+30.7%×7+214.2% | 277.6%+33.1%×7+231.4% | 299.9%+35.8%×7+249.9% | 323.8%+38.6%×7+269.9% | 349.7%+41.7%×7+291.5% | 377.7%+45.1%×7+314.8% |
+| Regression: Morpheus - Sweet Dreams Base ATK Ratio | 55.5% | 59.9% | 64.7% | 69.9% | 75.5% | 81.5% | 88.1% | 95.1% | 102.7% | 110.9% | 119.8% | 129.4% | 139.8% |
+| Regression: Morpheus - Deep Slumber Base ATK Ratio | 41.6%×5 | 44.9%×5 | 48.5%×5 | 52.4%×5 | 56.6%×5 | 61.1%×5 | 66%×5 | 71.3%×5 | 77%×5 | 83.2%×5 | 89.8%×5 | 97%×5 | 104.8%×5 |
+| Regression: Icelos - Little Prick Base ATK Ratio | 89.2% | 96.3% | 104% | 112.4% | 121.4% | 131.1% | 141.5% | 152.9% | 165.1% | 178.3% | 192.6% | 208% | 224.6% |
+| Regression: Icelos - Double Dose Base ATK Ratio | 178.4% | 192.7% | 208.1% | 224.7% | 242.7% | 262.1% | 283.1% | 305.7% | 330.2% | 356.6% | 385.2% | 416% | 449.2% |
+| Regression: Phantasos - Lullaby Time Base ATK Ratio | 94.2% | 101.7% | 109.9% | 118.7% | 128.2% | 138.4% | 149.5% | 161.4% | 174.4% | 188.3% | 203.4% | 219.6% | 237.2% |
+| Regression: Phantasos - Off-Key Base ATK Ratio | 188.4% | 203.5% | 219.7% | 237.3% | 256.3% | 276.8% | 299% | 322.9% | 348.7% | 376.6% | 406.7% | 439.3% | 474.4% |
+| Regression: Lambs' Support Skill Ratio | 200% | 216% | 233.3% | 251.9% | 272.1% | 293.9% | 317.4% | 342.8% | 370.2% | 399.8% | 431.8% | 466.3% | 503.6% |
+
+### Ultimate: 3.8-Billion-Year Mirage
+
+| Parameter | Lv. 1 | Lv. 2 | Lv. 3 | Lv. 4 | Lv. 5 | Lv. 6 | Lv. 7 | Lv. 8 | Lv. 9 | Lv. 10 | Lv. 11 | Lv. 12 | Lv. 13 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Post-Cast DMG Ratio | 300% | 324% | 349.9% | 377.9% | 408.1% | 440.8% | 476.1% | 514.1% | 555.3% | 599.7% | 647.7% | 699.5% | 755.5% |
+| DoT Ratio | 25% | 27% | 29.2% | 31.5% | 34% | 36.7% | 39.7% | 42.8% | 46.3% | 50% | 54% | 58.3% | 63% |
+
+Ultimate Energy Cost: 100 at every level.
+
+### Support Skill: Bang!
+
+| Parameter | Lv. 1 | Lv. 2 | Lv. 3 | Lv. 4 | Lv. 5 | Lv. 6 | Lv. 7 | Lv. 8 | Lv. 9 | Lv. 10 | Lv. 11 | Lv. 12 | Lv. 13 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| DMG Ratio | 200% | 216% | 233.3% | 251.9% | 272.1% | 293.9% | 317.4% | 342.8% | 370.2% | 399.8% | 431.8% | 466.3% | 503.6% |

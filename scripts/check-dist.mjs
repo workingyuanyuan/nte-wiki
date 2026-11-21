@@ -144,10 +144,12 @@ for (const { id, data } of pages) {
 	const mainEl = doc.querySelector('main');
 	const extracted = turndown.turndown(mainEl.innerHTML);
 	const mdBody = md.slice(md.indexOf('\n---\n') + 5);
-	const wantHeadings = headings(mdBody).map((h) => normalize(h.replace(/`/g, '')));
+	// The Markdown processor prints straight quotes as curly ones; compare them as the same.
+	const quotes = (h) => h.replace(/[\u2018\u2019]/g, "'").replace(/[\u201C\u201D]/g, '"');
+	const wantHeadings = headings(mdBody).map((h) => normalize(quotes(h.replace(/`/g, ''))));
 	const gotHeadings = headings(extracted)
 		.filter((h) => !h.startsWith('1 '))
-		.map((h) => normalize(h.replace(/\\/g, '').replace(/`/g, '')));
+		.map((h) => normalize(quotes(h.replace(/\\/g, '').replace(/`/g, ''))));
 	if (JSON.stringify(wantHeadings) !== JSON.stringify(gotHeadings)) {
 		fail(id, `headings differ between HTML and Markdown twin\n    md:   ${wantHeadings.join(' | ')}\n    html: ${gotHeadings.join(' | ')}`);
 	}

@@ -4,10 +4,10 @@ description: Sakiri is a standard S-Class character of the Incantation attribute
 aliases:
   - 早霧
   - 早雾
-appliesTo: Version 1.5
+appliesTo: Version 1.5, game data 1.5.4
 caveat: 'Sakiri is a standard character, not a limited one: the S-Class Standard Character Selection Box lets a player pick Sakiri directly.'
 effectiveDate: 2026-09-29
-lastVerified: 2026-11-18
+lastVerified: 2026-11-22
 art:
   - title: character profiles
     url: https://nte.perfectworld.com/en/main.html?nav=2&role=20
@@ -22,6 +22,10 @@ sources:
     url: https://www.prydwen.gg/neverness-to-everness/characters/sakiri
   - title: Game8, Sakiri build page (cross-check of skills and attribute)
     url: https://game8.co/games/Neverness-to-Everness/archives/597506
+  - title: nanoka.cc game data 1.5.4, character file in English
+    url: https://static.nanoka.cc/nte/1.5.4/en/character/1003.json
+  - title: nanoka.cc game data 1.5.4, character file in Chinese
+    url: https://static.nanoka.cc/nte/1.5.4/zh/character/1003.json
 ---
 
 ![Sakiri, official character art: a girl with pale blue hair, a small horn and a black cap, in a red jacket and a pleated skirt](/art/characters/sakiri.webp)
@@ -91,3 +95,40 @@ Each duplicate unlocks one Awakening of the player's choice; Resonances unlock a
 | Outfit | How to get |
 | --- | --- |
 | Gingerbear Biscuit | City Tycoon "Puka Membership Program", at the required level (Version 1.4) |
+
+## Skill multipliers
+
+Values for each skill level, from the game data (version 1.5.4). Materials raise a skill to Lv. 10; the Resonance at 3 Awakenings adds 1 level to the skills it names. The game data lists values up to Lv. 13.
+
+### Basic Attack: Kiroumaru Headbutt
+
+| Parameter | Lv. 1 | Lv. 2 | Lv. 3 | Lv. 4 | Lv. 5 | Lv. 6 | Lv. 7 | Lv. 8 | Lv. 9 | Lv. 10 | Lv. 11 | Lv. 12 | Lv. 13 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1st Instance Ratio | 40.3% | 43.5% | 47% | 50.8% | 54.8% | 59.2% | 64% | 69.1% | 74.6% | 80.6% | 87% | 94% | 101.5% |
+| 2nd Instance Ratio | 13.8%+75.7% | 14.9%+81.8% | 16.1%+88.3% | 17.4%+95.4% | 18.8%+103% | 20.3%+111.2% | 21.9%+120.1% | 23.7%+129.7% | 25.5%+140.1% | 27.6%+151.3% | 29.8%+163.4% | 32.2%+176.5% | 34.8%+190.6% |
+| 3rd Instance Ratio | 1.6%+71.6% | 1.7%+77.3% | 1.9%+83.5% | 2%+90.2% | 2.2%+97.4% | 2.4%+105.2% | 2.5%+113.6% | 2.7%+122.7% | 3%+132.5% | 3.2%+143.1% | 3.5%+154.6% | 3.7%+166.9% | 4%+180.3% |
+| 4th Instance Ratio | 33.1%×3 | 35.7%×3 | 38.6%×3 | 41.7%×3 | 45%×3 | 48.6%×3 | 52.5%×3 | 56.7%×3 | 61.3%×3 | 66.2%×3 | 71.5%×3 | 77.2%×3 | 83.4%×3 |
+| 5th Instance Ratio | 3.5%+106.2% | 3.8%+114.7% | 4.1%+123.9% | 4.4%+133.8% | 4.8%+144.5% | 5.1%+156% | 5.6%+168.5% | 6%+182% | 6.5%+196.6% | 7%+212.3% | 7.6%+229.3% | 8.2%+247.6% | 8.8%+267.4% |
+| Plunge DMG Ratio | 50% | 54% | 58.3% | 63% | 68% | 73.5% | 79.3% | 85.7% | 92.5% | 100% | 107.9% | 116.6% | 125.9% |
+| Critical Riposte Ratio | 214% | 231.1% | 249.6% | 269.6% | 291.1% | 314.4% | 339.6% | 366.8% | 396.1% | 427.8% | 462% | 499% | 538.9% |
+
+### Skill: Devour Whole
+
+| Parameter | Lv. 1 | Lv. 2 | Lv. 3 | Lv. 4 | Lv. 5 | Lv. 6 | Lv. 7 | Lv. 8 | Lv. 9 | Lv. 10 | Lv. 11 | Lv. 12 | Lv. 13 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Press Ratio | 167.8%+232.2% | 181.2%+250.8% | 195.7%+270.8% | 211.4%+292.5% | 228.3%+315.9% | 246.6%+341.2% | 266.3%+368.5% | 287.6%+397.9% | 310.6%+429.8% | 335.4%+464.2% | 362.3%+501.3% | 391.2%+541.4% | 422.5%+584.7% |
+| Hold Ratio | 90.3%+118.8%+190.9% | 97.5%+128.3%+206.2% | 105.3%+138.6%+222.7% | 113.8%+149.7%+240.5% | 122.9%+161.6%+259.7% | 132.7%+174.6%+280.5% | 143.3%+188.5%+302.9% | 154.8%+203.6%+327.2% | 167.1%+219.9%+353.3% | 180.5%+237.5%+381.6% | 195%+256.5%+412.1% | 210.5%+277%+445.1% | 227.4%+299.2%+480.7% |
+
+### Ultimate: Feast of Gluttony
+
+| Parameter | Lv. 1 | Lv. 2 | Lv. 3 | Lv. 4 | Lv. 5 | Lv. 6 | Lv. 7 | Lv. 8 | Lv. 9 | Lv. 10 | Lv. 11 | Lv. 12 | Lv. 13 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Gravity Slurry Ratio | 120%×5+300% | 129.6%×5+324% | 140%×5+349.9% | 151.2%×5+377.9% | 163.3%×5+408.1% | 176.3%×5+440.8% | 190.4%×5+476.1% | 205.7%×5+514.1% | 222.1%×5+555.3% | 239.9%×5+599.7% | 259.1%×5+647.7% | 279.8%×5+699.5% | 302.2%×5+755.5% |
+
+Ultimate Energy Cost: 120 at every level.
+
+### Support Skill: Squash!
+
+| Parameter | Lv. 1 | Lv. 2 | Lv. 3 | Lv. 4 | Lv. 5 | Lv. 6 | Lv. 7 | Lv. 8 | Lv. 9 | Lv. 10 | Lv. 11 | Lv. 12 | Lv. 13 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| DMG Ratio | 200% | 216% | 233.3% | 251.9% | 272.1% | 293.9% | 317.4% | 342.8% | 370.2% | 399.8% | 431.8% | 466.3% | 503.6% |

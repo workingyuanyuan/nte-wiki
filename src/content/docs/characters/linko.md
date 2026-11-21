@@ -4,10 +4,10 @@ description: Linko is a limited S-Class character of the Anima attribute, added 
 aliases:
   - 靈可
   - 灵可
-appliesTo: Version 1.5
+appliesTo: Version 1.5, game data 1.5.4
 caveat: 'Linko is limited: obtainable only while the "Surfing All Channels!" Board is open. It last closed on 2026-09-30 at 05:59 (UTC+8).'
 effectiveDate: 2026-09-08
-lastVerified: 2026-11-18
+lastVerified: 2026-11-22
 art:
   - title: character profiles
     url: https://nte.perfectworld.com/en/main.html?nav=2&role=20
@@ -20,6 +20,10 @@ sources:
     url: https://www.prydwen.gg/neverness-to-everness/characters/linko
   - title: Game8, Linko build page (cross-check of skills and attribute)
     url: https://game8.co/games/Neverness-to-Everness/archives/619769
+  - title: nanoka.cc game data 1.5.4, character file in English
+    url: https://static.nanoka.cc/nte/1.5.4/en/character/1072.json
+  - title: nanoka.cc game data 1.5.4, character file in Chinese
+    url: https://static.nanoka.cc/nte/1.5.4/zh/character/1072.json
 ---
 
 ![Linko, official character art: a girl with short pink hair in a teal jacket and shorts](/art/characters/linko.webp)
@@ -102,3 +106,45 @@ Each duplicate unlocks one Awakening of the player's choice; Resonances unlock a
 | Faded Spring | Shop, Riftcrystal ×2,480; permanent |
 | Surfing Among Stars | "Surfing All Channels!" Board tile, or the Sync Perks page after enough rolls |
 | Couch Potato | Bond Lvl 10 with Linko |
+
+## Skill multipliers
+
+Values for each skill level, from the game data (version 1.5.4). Materials raise a skill to Lv. 10; the Resonance at 3 Awakenings adds 1 level to the skills it names. The game data lists values up to Lv. 13.
+
+### Basic Attack: Poltergeist CQC
+
+| Parameter | Lv. 1 | Lv. 2 | Lv. 3 | Lv. 4 | Lv. 5 | Lv. 6 | Lv. 7 | Lv. 8 | Lv. 9 | Lv. 10 | Lv. 11 | Lv. 12 | Lv. 13 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Poltergeist CQC: 1st Instance DMG Ratio | 49.6% | 53.6% | 57.9% | 62.5% | 67.5% | 72.9% | 78.7% | 85% | 91.8% | 99.2% | 107.1% | 115.6% | 124.9% |
+| Poltergeist CQC: 2nd Instance DMG Ratio | 17%×2 | 18.4%×2 | 19.8%×2 | 21.4%×2 | 23.1%×2 | 25%×2 | 27%×2 | 29.1%×2 | 31.5%×2 | 34%×2 | 36.7%×2 | 39.6%×2 | 42.8%×2 |
+| Poltergeist CQC: 3rd Instance DMG Ratio | 40.4% | 43.6% | 47.1% | 50.9% | 55% | 59.4% | 64.1% | 69.2% | 74.8% | 80.8% | 87.2% | 94.2% | 101.7% |
+| Poltergeist CQC: 4th Instance DMG Ratio | 13.3%+29.8%+13.9%×5+34.4% | 14.4%+32.2%+15%×5+37.2% | 15.5%+34.8%+16.2%×5+40.1% | 16.8%+37.5%+17.5%×5+43.3% | 18.1%+40.5%+18.9%×5+46.8% | 19.5%+43.8%+20.4%×5+50.5% | 21.1%+47.3%+22.1%×5+54.6% | 22.8%+51.1%+23.8%×5+59% | 24.6%+55.2%+25.7%×5+63.7% | 26.6%+59.6%+27.8%×5+68.8% | 28.7%+64.3%+30%×5+74.3% | 31%+69.5%+32.4%×5+80.2% | 33.5%+75%+35%×5+86.6% |
+| Poltergeist CQC: 5th Instance DMG Ratio | 74% | 79.9% | 86.3% | 93.2% | 100.7% | 108.7% | 117.4% | 126.8% | 137% | 147.9% | 159.8% | 172.5% | 186.3% |
+| Spectral Smack DMG Ratio | 100% | 108% | 116.6% | 126% | 136% | 146.9% | 158.7% | 171.4% | 185.1% | 199.9% | 215.9% | 233.2% | 251.8% |
+| Plunge Attack DMG Ratio | 55% | 59.4% | 64.2% | 69.3% | 74.8% | 80.8% | 87.3% | 94.3% | 101.8% | 109.9% | 118.7% | 128.2% | 138.5% |
+| Xiaozhen Attack DMG Ratio | 50% | 54% | 58.3% | 63% | 68% | 73.5% | 79.3% | 85.7% | 92.5% | 100% | 107.9% | 116.6% | 125.9% |
+| Critical Riposte Ratio | 25.5%×3+121.5% | 27.5%×3+131.2% | 29.7%×3+141.7% | 32.1%×3+153.1% | 34.7%×3+165.3% | 37.5%×3+178.5% | 40.5%×3+192.8% | 43.7%×3+208.2% | 47.2%×3+224.9% | 51%×3+242.9% | 55.1%×3+262.3% | 59.5%×3+283.3% | 64.2%×3+306% |
+
+### Skill: Full-Frequency Pulse
+
+| Parameter | Lv. 1 | Lv. 2 | Lv. 3 | Lv. 4 | Lv. 5 | Lv. 6 | Lv. 7 | Lv. 8 | Lv. 9 | Lv. 10 | Lv. 11 | Lv. 12 | Lv. 13 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Bombardment DMG Ratio | 17.8%+13.8%+23.8%+44.6% | 19.2%+14.9%+25.7%+48.2% | 20.8%+16.1%+27.8%+52% | 22.4%+17.4%+30%+56.2% | 24.2%+18.8%+32.4%+60.7% | 26.2%+20.3%+35%+65.5% | 28.2%+21.9%+37.8%+70.8% | 30.5%+23.7%+40.8%+76.4% | 32.9%+25.5%+44.1%+82.6% | 35.6%+27.6%+47.6%+89.2% | 38.4%+29.8%+51.4%+96.3% | 41.5%+32.2%+55.5%+104% | 44.8%+34.8%+59.9%+112.3% |
+
+### Ultimate: Oversync
+
+| Parameter | Lv. 1 | Lv. 2 | Lv. 3 | Lv. 4 | Lv. 5 | Lv. 6 | Lv. 7 | Lv. 8 | Lv. 9 | Lv. 10 | Lv. 11 | Lv. 12 | Lv. 13 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Area DMG Ratio | 73.5% | 79.4% | 85.7% | 92.6% | 100% | 108% | 116.6% | 126% | 136% | 146.9% | 158.7% | 171.4% | 185.1% |
+| Multi-Hit DMG Ratio | 57.6%×6 | 62.2%×6 | 67.2%×6 | 72.6%×6 | 78.4%×6 | 84.6%×6 | 91.4%×6 | 98.7%×6 | 106.6%×6 | 115.1%×6 | 124.4%×6 | 134.3%×6 | 145%×6 |
+| Burst DMG Ratio | 735.3% | 794.1% | 857.7% | 926.3% | 1000.4% | 1080.4% | 1166.8% | 1260.2% | 1361% | 1469.9% | 1587.5% | 1714.5% | 1851.6% |
+
+Costs Ultimate Energy: 100 at every level.
+
+### Support Skill: Spectral Cross
+
+| Parameter | Lv. 1 | Lv. 2 | Lv. 3 | Lv. 4 | Lv. 5 | Lv. 6 | Lv. 7 | Lv. 8 | Lv. 9 | Lv. 10 | Lv. 11 | Lv. 12 | Lv. 13 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Spectral Cross DMG Ratio | 200% | 216% | 233.3% | 251.9% | 272.1% | 293.9% | 317.4% | 342.8% | 370.2% | 399.8% | 431.8% | 466.3% | 503.6% |
+| Linko's Synced Strike DMG Ratio | 500% | 540% | 583.2% | 629.9% | 680.2% | 734.7% | 793.4% | 856.9% | 925.5% | 999.5% | 1079.5% | 1165.8% | 1259.1% |
+| Xiaozhen's Synced Strike DMG Ratio | 33.3%×3+100% | 36%×3+108% | 38.8%×3+116.6% | 41.9%×3+126% | 45.3%×3+136% | 48.9%×3+146.9% | 52.8%×3+158.7% | 57.1%×3+171.4% | 61.6%×3+185.1% | 66.6%×3+199.9% | 71.9%×3+215.9% | 77.6%×3+233.2% | 83.9%×3+251.8% |

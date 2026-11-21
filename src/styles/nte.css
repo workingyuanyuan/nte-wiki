@@ -243,6 +243,23 @@ site-search button[data-open-modal] {
 		overflow-x: auto;
 	}
 }
+/* Tables with a column per level (skill multipliers) scroll inside themselves at every
+   width; the first column keeps its label on one line and stays in view. */
+.sl-markdown-content table:has(th:nth-child(10)):not(:where(.not-content *)) {
+	display: block;
+	overflow-x: auto;
+}
+.sl-markdown-content table:has(th:nth-child(10)) :is(th, td):not(:where(.not-content *)) {
+	white-space: nowrap;
+}
+.sl-markdown-content table:has(th:nth-child(10)) :is(th, td):first-child:not(:where(.not-content *)) {
+	position: sticky;
+	inset-inline-start: 0;
+	background: var(--nte-card);
+}
+.sl-markdown-content table:has(th:nth-child(10)) th:first-child:not(:where(.not-content *)) {
+	background: var(--nte-row);
+}
 
 /* Links: selected like a row in a terminal menu on hover. */
 .sl-markdown-content a:not(:where(.not-content *)) {

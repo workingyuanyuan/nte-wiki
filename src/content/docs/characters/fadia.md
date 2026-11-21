@@ -4,10 +4,10 @@ description: Fadia is a standard S-Class character of the Psyche attribute.
 aliases:
   - 法帝婭
   - 法帝娅
-appliesTo: Version 1.5
+appliesTo: Version 1.5, game data 1.5.4
 caveat: 'Fadia is a standard character, not a limited one: the S-Class Standard Character Selection Box lets a player pick Fadia directly.'
 effectiveDate: 2026-09-29
-lastVerified: 2026-11-18
+lastVerified: 2026-11-22
 art:
   - title: character profiles
     url: https://nte.perfectworld.com/en/main.html?nav=2&role=20
@@ -22,6 +22,10 @@ sources:
     url: https://www.prydwen.gg/neverness-to-everness/characters/fadia
   - title: Game8, Fadia build page (cross-check of skills and attribute)
     url: https://game8.co/games/Neverness-to-Everness/archives/597680
+  - title: nanoka.cc game data 1.5.4, character file in English
+    url: https://static.nanoka.cc/nte/1.5.4/en/character/1039.json
+  - title: nanoka.cc game data 1.5.4, character file in Chinese
+    url: https://static.nanoka.cc/nte/1.5.4/zh/character/1039.json
 ---
 
 ![Fadia, official character art: a woman with long purple hair in a dark dress](/art/characters/fadia.webp)
@@ -85,3 +89,51 @@ Each duplicate unlocks one Awakening of the player's choice; Resonances unlock a
 | Bringer of Love and Death | Inflicts Destructive Experience on up to 10 targets within range. Each Destructive Experience's duration and damage cap are calculated individually. |
 | Resonance 3: The Disrespecting Saint | Increases the skill level of Wordless Rejection, Existence, and Agony to Euphoria by 1. |
 | Resonance 6: The Unified Saint | Grants all team members 10% ATK while Fadia is on the team. |
+
+## Skill multipliers
+
+Values for each skill level, from the game data (version 1.5.4). Materials raise a skill to Lv. 10; the Resonance at 3 Awakenings adds 1 level to the skills it names. The game data lists values up to Lv. 13.
+
+### Basic Attack: Wordless Rejection
+
+| Parameter | Lv. 1 | Lv. 2 | Lv. 3 | Lv. 4 | Lv. 5 | Lv. 6 | Lv. 7 | Lv. 8 | Lv. 9 | Lv. 10 | Lv. 11 | Lv. 12 | Lv. 13 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1st Instance Ratio | 43.3% | 46.8% | 50.5% | 54.5% | 58.9% | 63.6% | 68.7% | 74.2% | 80.1% | 86.6% | 93.5% | 101% | 109% |
+| 2nd Instance Ratio | 29.7%+36% | 32.1%+38.9% | 34.6%+42% | 37.4%+45.3% | 40.4%+49% | 43.6%+52.9% | 47.1%+57.1% | 50.9%+61.7% | 55%+66.6% | 59.4%+72% | 64.1%+77.7% | 69.2%+83.9% | 74.8%+90.7% |
+| 3rd Instance Ratio | 77.1% | 83.3% | 89.9% | 97.1% | 104.9% | 113.3% | 122.3% | 132.1% | 142.7% | 154.1% | 166.5% | 179.8% | 194.2% |
+| 4th Instance Ratio | 28.3%+33.2% | 30.6%+35.9% | 33%+38.7% | 35.6%+41.8% | 38.5%+45.2% | 41.6%+48.8% | 44.9%+52.7% | 48.5%+56.9% | 52.4%+61.5% | 56.6%+66.4% | 61.1%+71.7% | 66%+77.4% | 71.3%+83.6% |
+| 5th Instance Ratio | 27.3%+80.3% | 29.5%+86.7% | 31.8%+93.7% | 34.4%+101.2% | 37.1%+109.2% | 40.1%+118% | 43.3%+127.4% | 46.8%+137.6% | 50.5%+148.6% | 54.6%+160.5% | 58.9%+173.4% | 63.7%+187.2% | 68.7%+202.2% |
+| Plunge DMG Ratio | 60% | 64.8% | 70% | 75.6% | 81.6% | 88.2% | 95.2% | 102.8% | 111.1% | 119.9% | 129.5% | 139.9% | 151.1% |
+| Critical Riposte Ratio | 178% | 192.2% | 207.6% | 224.2% | 242.2% | 261.5% | 282.5% | 305.1% | 329.5% | 355.8% | 384.3% | 415% | 448.2% |
+
+Cycle Energy: 44 at every level; Redirection DMG Ratio: 50% at every level.
+
+### Skill: Existence
+
+| Parameter | Lv. 1 | Lv. 2 | Lv. 3 | Lv. 4 | Lv. 5 | Lv. 6 | Lv. 7 | Lv. 8 | Lv. 9 | Lv. 10 | Lv. 11 | Lv. 12 | Lv. 13 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| DMG Ratio | 1.6%+2.5%+2.5% Max HP | 1.7%+2.7%+2.7% Max HP | 1.9%+2.9%+2.9% Max HP | 2%+3.1%+3.1% Max HP | 2.2%+3.4%+3.4% Max HP | 2.4%+3.7%+3.7% Max HP | 2.5%+4%+4% Max HP | 2.7%+4.3%+4.3% Max HP | 3%+4.6%+4.6% Max HP | 3.2%+5%+5% Max HP | 3.5%+5.4%+5.4% Max HP | 3.7%+5.8%+5.8% Max HP | 4%+6.3%+6.3% Max HP |
+
+Destructive Experience Duration: 15s at every level; Redirection DMG Ratio: 200% at every level; Redirection DMG Cap: 8% Max HP at every level.
+
+### Ultimate: Agony to Euphoria
+
+| Parameter | Lv. 1 | Lv. 2 | Lv. 3 | Lv. 4 | Lv. 5 | Lv. 6 | Lv. 7 | Lv. 8 | Lv. 9 | Lv. 10 | Lv. 11 | Lv. 12 | Lv. 13 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1st Instance Ratio | 3.9% Max HP | 4.2% Max HP | 4.5% Max HP | 4.9% Max HP | 5.3% Max HP | 5.7% Max HP | 6.2% Max HP | 6.7% Max HP | 7.2% Max HP | 7.8% Max HP | 8.4% Max HP | 9.1% Max HP | 9.8% Max HP |
+| 2nd Instance Ratio | 1.2%×4 Max HP | 1.3%×4 Max HP | 1.4%×4 Max HP | 1.5%×4 Max HP | 1.6%×4 Max HP | 1.8%×4 Max HP | 1.9%×4 Max HP | 2.1%×4 Max HP | 2.2%×4 Max HP | 2.4%×4 Max HP | 2.6%×4 Max HP | 2.8%×4 Max HP | 3%×4 Max HP |
+| 3rd Instance Ratio | 6.3% Max HP | 6.8% Max HP | 7.3% Max HP | 7.9% Max HP | 8.6% Max HP | 9.3% Max HP | 10% Max HP | 10.8% Max HP | 11.7% Max HP | 12.6% Max HP | 13.6% Max HP | 14.7% Max HP | 15.9% Max HP |
+| 1st Follow Up Ratio | 2% Max HP | 2.2% Max HP | 2.3% Max HP | 2.5% Max HP | 2.7% Max HP | 2.9% Max HP | 3.2% Max HP | 3.4% Max HP | 3.7% Max HP | 4% Max HP | 4.3% Max HP | 4.7% Max HP | 5% Max HP |
+| 2nd Follow Up Ratio | 3.2%+3.6% Max HP | 3.5%+3.9% Max HP | 3.7%+4.2% Max HP | 4%+4.5% Max HP | 4.4%+4.9% Max HP | 4.7%+5.3% Max HP | 5.1%+5.7% Max HP | 5.5%+6.2% Max HP | 5.9%+6.7% Max HP | 6.4%+7.2% Max HP | 6.9%+7.8% Max HP | 7.5%+8.4% Max HP | 8.1%+9.1% Max HP |
+| 3rd Follow Up Ratio | 0.9%×2+1.5% Max HP | 1%×2+1.6% Max HP | 1%×2+1.7% Max HP | 1.1%×2+1.9% Max HP | 1.2%×2+2% Max HP | 1.3%×2+2.2% Max HP | 1.4%×2+2.4% Max HP | 1.5%×2+2.6% Max HP | 1.7%×2+2.8% Max HP | 1.8%×2+3% Max HP | 1.9%×2+3.2% Max HP | 2.1%×2+3.5% Max HP | 2.3%×2+3.8% Max HP |
+| 4th Follow Up Ratio | 2.3%×5+5.6% Max HP | 2.5%×5+6% Max HP | 2.7%×5+6.5% Max HP | 2.9%×5+7.1% Max HP | 3.1%×5+7.6% Max HP | 3.4%×5+8.2% Max HP | 3.6%×5+8.9% Max HP | 3.9%×5+9.6% Max HP | 4.3%×5+10.4% Max HP | 4.6%×5+11.2% Max HP | 5%×5+12.1% Max HP | 5.4%×5+13.1% Max HP | 5.8%×5+14.1% Max HP |
+| 5th Follow Up Ratio | 5.9% Max HP | 6.4% Max HP | 6.9% Max HP | 7.4% Max HP | 8% Max HP | 8.7% Max HP | 9.4% Max HP | 10.1% Max HP | 10.9% Max HP | 11.8% Max HP | 12.7% Max HP | 13.8% Max HP | 14.9% Max HP |
+| Destructive Threshold | 705 | 761 | 818 | 874 | 930 | 987 | 1043 | 1100 | 1156 | 1212 | 1269 | 1325 | 1382 |
+
+HP Recovery: 15% at every level; Lilith Duration: 5s at every level; Healing Increased To: 30% at every level; Damage Increase: 30% at every level; CD: 30s at every level; Ultimate Energy Cost: 120 at every level.
+
+### Support Skill: Outsider
+
+| Parameter | Lv. 1 | Lv. 2 | Lv. 3 | Lv. 4 | Lv. 5 | Lv. 6 | Lv. 7 | Lv. 8 | Lv. 9 | Lv. 10 | Lv. 11 | Lv. 12 | Lv. 13 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| DMG Ratio | 200% | 216% | 233.3% | 251.9% | 272.1% | 293.9% | 317.4% | 342.8% | 370.2% | 399.8% | 431.8% | 466.3% | 503.6% |

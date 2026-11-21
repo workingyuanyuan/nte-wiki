@@ -3,10 +3,10 @@ title: Baicang
 description: Baicang is a standard S-Class character of the Incantation attribute.
 aliases:
   - 白藏
-appliesTo: Version 1.5
+appliesTo: Version 1.5, game data 1.5.4
 caveat: 'Baicang is a standard character, not a limited one: the S-Class Standard Character Selection Box lets a player pick Baicang directly.'
 effectiveDate: 2026-09-29
-lastVerified: 2026-11-18
+lastVerified: 2026-11-22
 art:
   - title: character profiles
     url: https://nte.perfectworld.com/en/main.html?nav=2&role=20
@@ -21,6 +21,10 @@ sources:
     url: https://www.prydwen.gg/neverness-to-everness/characters/baicang
   - title: Game8, Baicang build page (cross-check of skills and attribute)
     url: https://game8.co/games/Neverness-to-Everness/archives/597474
+  - title: nanoka.cc game data 1.5.4, character file in English
+    url: https://static.nanoka.cc/nte/1.5.4/en/character/1023.json
+  - title: nanoka.cc game data 1.5.4, character file in Chinese
+    url: https://static.nanoka.cc/nte/1.5.4/zh/character/1023.json
 ---
 
 ![Baicang, official character art: a man with long silver hair in a white double-breasted coat and black gloves](/art/characters/baicang.webp)
@@ -90,3 +94,51 @@ Each duplicate unlocks one Awakening of the player's choice; Resonances unlock a
 | Outfit | How to get |
 | --- | --- |
 | Master Slacker | City Tycoon "Puka Membership Program", at the required level (Version 1.4) |
+
+## Skill multipliers
+
+Values for each skill level, from the game data (version 1.5.4). Materials raise a skill to Lv. 10; the Resonance at 3 Awakenings adds 1 level to the skills it names. The game data lists values up to Lv. 13.
+
+### Basic Attack: Walk the Talk
+
+| Parameter | Lv. 1 | Lv. 2 | Lv. 3 | Lv. 4 | Lv. 5 | Lv. 6 | Lv. 7 | Lv. 8 | Lv. 9 | Lv. 10 | Lv. 11 | Lv. 12 | Lv. 13 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1st Instance Ratio | 47.5% | 51.3% | 55.4% | 59.8% | 64.6% | 69.8% | 75.4% | 81.4% | 87.9% | 95% | 102.5% | 110.8% | 119.6% |
+| 2nd Instance Ratio | 42.3% | 45.7% | 49.3% | 53.3% | 57.5% | 62.2% | 67.1% | 72.5% | 78.3% | 84.6% | 91.3% | 98.6% | 106.5% |
+| 3rd Instance Ratio | 119% | 128.5% | 138.8% | 149.9% | 161.9% | 174.9% | 188.8% | 203.9% | 220.3% | 237.9% | 256.9% | 277.5% | 299.7% |
+| 4th Instance Ratio | 25.1%×3 | 27.1%×3 | 29.3%×3 | 31.6%×3 | 34.1%×3 | 36.9%×3 | 39.8%×3 | 43%×3 | 46.5%×3 | 50.2%×3 | 54.2%×3 | 58.5%×3 | 63.2%×3 |
+| 5th Instance Ratio | 86.3% | 93.2% | 100.7% | 108.7% | 117.4% | 126.8% | 136.9% | 147.9% | 159.7% | 172.5% | 186.3% | 201.2% | 217.3% |
+| "Formless Words" Knockback DMG Ratio | 66% | 71.3% | 77% | 83.1% | 89.8% | 97% | 104.7% | 113.1% | 122.2% | 131.9% | 142.5% | 153.9% | 166.2% |
+| "Formless Words" Explosion DMG Ratio | 22% | 23.8% | 25.7% | 27.7% | 29.9% | 32.3% | 34.9% | 37.7% | 40.7% | 44% | 47.5% | 51.3% | 55.4% |
+| "Unrestrained Words" Knockback DMG Ratio | 66% | 71.3% | 77% | 83.1% | 89.8% | 97% | 104.7% | 113.1% | 122.2% | 131.9% | 142.5% | 153.9% | 166.2% |
+| "Unrestrained Words" Explosion DMG Ratio | 22% | 23.8% | 25.7% | 27.7% | 29.9% | 32.3% | 34.9% | 37.7% | 40.7% | 44% | 47.5% | 51.3% | 55.4% |
+| "In the Wind" DMG Ratio | 41.8% | 45.1% | 48.8% | 52.7% | 56.9% | 61.4% | 66.3% | 71.6% | 77.4% | 83.6% | 90.2% | 97.5% | 105.3% |
+| "Truth Exposed" DMG Ratio | 144% | 155.5% | 168% | 181.4% | 195.9% | 211.6% | 228.5% | 246.8% | 266.5% | 287.9% | 310.9% | 335.8% | 362.6% |
+
+### Skill: Generous Guidance
+
+| Parameter | Lv. 1 | Lv. 2 | Lv. 3 | Lv. 4 | Lv. 5 | Lv. 6 | Lv. 7 | Lv. 8 | Lv. 9 | Lv. 10 | Lv. 11 | Lv. 12 | Lv. 13 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| "Heart of Heaven and Earth" DMG Ratio | 120% | 129.6% | 140% | 151.2% | 163.3% | 176.3% | 190.4% | 205.7% | 222.1% | 239.9% | 259.1% | 279.8% | 302.2% |
+| Silenced Thought Missile DMG Ratio | 100%×3 | 108%×3 | 116.6%×3 | 126%×3 | 136%×3 | 146.9%×3 | 158.7%×3 | 171.4%×3 | 185.1%×3 | 199.9%×3 | 215.9%×3 | 233.2%×3 | 251.8%×3 |
+| Silenced Thought Explosion DMG Ratio | 120% | 129.6% | 140% | 151.2% | 163.3% | 176.3% | 190.4% | 205.7% | 222.1% | 239.9% | 259.1% | 279.8% | 302.2% |
+| "Such Crime" DMG Ratio | 280% | 302.4% | 326.6% | 352.7% | 380.9% | 411.4% | 444.3% | 479.9% | 518.3% | 559.7% | 604.5% | 652.9% | 705.1% |
+
+### Ultimate: Judgment of Autumn
+
+| Parameter | Lv. 1 | Lv. 2 | Lv. 3 | Lv. 4 | Lv. 5 | Lv. 6 | Lv. 7 | Lv. 8 | Lv. 9 | Lv. 10 | Lv. 11 | Lv. 12 | Lv. 13 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Judgment of Autumn Expansion DMG Ratio | 400% | 432% | 466.6% | 503.9% | 544.2% | 587.7% | 634.7% | 685.5% | 740.4% | 799.6% | 863.6% | 932.7% | 1007.3% |
+| Judgment of Autumn DoT DMG Ratio | 40% | 43.2% | 46.7% | 50.4% | 54.4% | 58.8% | 63.5% | 68.6% | 74% | 80% | 86.4% | 93.3% | 100.7% |
+| Silence DMG Ratio | 300% | 324% | 349.9% | 377.9% | 408.1% | 440.8% | 476.1% | 514.1% | 555.3% | 599.7% | 647.7% | 699.5% | 755.5% |
+| Objurgate DMG Ratio | 200% | 216% | 233.3% | 251.9% | 272.1% | 293.9% | 317.4% | 342.8% | 370.2% | 399.8% | 431.8% | 466.3% | 503.6% |
+| Bless Explosion DMG Ratio | 30% | 32.4% | 35% | 37.8% | 40.8% | 44.1% | 47.6% | 51.4% | 55.5% | 60% | 64.8% | 69.9% | 75.5% |
+| Bless Missile DMG Ratio | 15%×2 | 16.2%×2 | 17.5%×2 | 18.9%×2 | 20.4%×2 | 22%×2 | 23.8%×2 | 25.7%×2 | 27.8%×2 | 30%×2 | 32.4%×2 | 35%×2 | 37.8%×2 |
+
+Ultimate Energy Cost: 120 at every level.
+
+### Support Skill: Break Time Over
+
+| Parameter | Lv. 1 | Lv. 2 | Lv. 3 | Lv. 4 | Lv. 5 | Lv. 6 | Lv. 7 | Lv. 8 | Lv. 9 | Lv. 10 | Lv. 11 | Lv. 12 | Lv. 13 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| DMG Ratio | 200% | 216% | 233.3% | 251.9% | 272.1% | 293.9% | 317.4% | 342.8% | 370.2% | 399.8% | 431.8% | 466.3% | 503.6% |

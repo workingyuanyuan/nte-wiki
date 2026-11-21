@@ -4,10 +4,10 @@ description: Haniel is an A-Class character of the Psyche attribute, found on Li
 aliases:
   - 哈尼婭
   - 哈尼娅
-appliesTo: Version 1.5
+appliesTo: Version 1.5, game data 1.5.4
 caveat: 'Neither Limited Board of Version 1.5 carries Haniel; both carry Mint, Edgar and Adler. The last Board with Haniel closed on 2026-11-11 at 05:59 (UTC+8).'
 effectiveDate: 2026-10-19
-lastVerified: 2026-11-18
+lastVerified: 2026-11-22
 sources:
   - title: Maintenance notice of 2026-09-08 (Version 1.3, second half)
     url: https://nte.perfectworld.com/en/article/news/gamenews/20260908/263947.html
@@ -21,6 +21,10 @@ sources:
     url: https://www.prydwen.gg/neverness-to-everness/characters/haniel
   - title: Game8, Haniel build page (cross-check of skills and attribute)
     url: https://game8.co/games/Neverness-to-Everness/archives/597761
+  - title: nanoka.cc game data 1.5.4, character file in English
+    url: https://static.nanoka.cc/nte/1.5.4/en/character/1020.json
+  - title: nanoka.cc game data 1.5.4, character file in Chinese
+    url: https://static.nanoka.cc/nte/1.5.4/zh/character/1020.json
 ---
 
 ## Profile
@@ -95,3 +99,43 @@ Each duplicate unlocks one Awakening of the player's choice; Resonances unlock a
 | Outfit | How to get |
 | --- | --- |
 | Classroom Hijinks | City Tycoon "Puka Membership Program", at the required level (Version 1.4) |
+
+## Skill multipliers
+
+Values for each skill level, from the game data (version 1.5.4). Materials raise a skill to Lv. 10; the Resonance at 3 Awakenings adds 1 level to the skills it names. The game data lists values up to Lv. 13.
+
+### Basic Attack: Genesse Technique
+
+| Parameter | Lv. 1 | Lv. 2 | Lv. 3 | Lv. 4 | Lv. 5 | Lv. 6 | Lv. 7 | Lv. 8 | Lv. 9 | Lv. 10 | Lv. 11 | Lv. 12 | Lv. 13 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1st Instance Ratio | 41.9% | 45.3% | 48.9% | 52.8% | 57% | 61.6% | 66.5% | 71.8% | 77.6% | 83.8% | 90.5% | 97.7% | 105.5% |
+| 2nd Instance Ratio | 11.2%×2 | 12.1%×2 | 13.1%×2 | 14.1%×2 | 15.2%×2 | 16.5%×2 | 17.8%×2 | 19.2%×2 | 20.7%×2 | 22.4%×2 | 24.2%×2 | 26.1%×2 | 28.2%×2 |
+| 3rd Instance Ratio | 58.2% | 62.9% | 67.9% | 73.3% | 79.2% | 85.5% | 92.4% | 99.7% | 107.7% | 116.3% | 125.6% | 135.7% | 146.6% |
+| 4th Instance Ratio | 15.6%×4 | 16.8%×4 | 18.2%×4 | 19.7%×4 | 21.2%×4 | 22.9%×4 | 24.8%×4 | 26.7%×4 | 28.9%×4 | 31.2%×4 | 33.7%×4 | 36.4%×4 | 39.3%×4 |
+| 5th Instance Ratio | 52.8% | 57% | 61.6% | 66.5% | 71.8% | 77.6% | 83.8% | 90.5% | 97.7% | 105.5% | 114% | 123.1% | 133% |
+| Plunge DMG Ratio | 82% | 88.6% | 95.6% | 103.3% | 111.6% | 120.5% | 130.1% | 140.5% | 151.8% | 163.9% | 177% | 191.2% | 206.5% |
+| Branch DMG Ratio | 36% | 38.9% | 42% | 45.3% | 49% | 52.9% | 57.1% | 61.7% | 66.6% | 72% | 77.7% | 83.9% | 90.7% |
+| Critical Riposte Ratio | 105.2% | 113.6% | 122.7% | 132.5% | 143.1% | 154.6% | 166.9% | 180.3% | 194.7% | 210.3% | 227.1% | 245.3% | 264.9% |
+
+### Skill: Silent Moonlit Forest Guardian
+
+| Parameter | Lv. 1 | Lv. 2 | Lv. 3 | Lv. 4 | Lv. 5 | Lv. 6 | Lv. 7 | Lv. 8 | Lv. 9 | Lv. 10 | Lv. 11 | Lv. 12 | Lv. 13 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| DMG Ratio | 100%×2 | 108%×2 | 116.6%×2 | 126%×2 | 136%×2 | 146.9%×2 | 158.7%×2 | 171.4%×2 | 185.1%×2 | 199.9%×2 | 215.9%×2 | 233.2%×2 | 251.8%×2 |
+| Spread DMG Ratio | 20% | 21.6% | 23.3% | 25.2% | 27.2% | 29.4% | 31.7% | 34.3% | 37% | 40% | 43.2% | 46.6% | 50.4% |
+
+### Ultimate: A Melody Named Haniel
+
+| Parameter | Lv. 1 | Lv. 2 | Lv. 3 | Lv. 4 | Lv. 5 | Lv. 6 | Lv. 7 | Lv. 8 | Lv. 9 | Lv. 10 | Lv. 11 | Lv. 12 | Lv. 13 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| DMG Ratio | 300% | 324% | 349.9% | 377.9% | 408.1% | 440.8% | 476.1% | 514.1% | 555.3% | 599.7% | 647.7% | 699.5% | 755.5% |
+| Spread DMG Ratio | 30% | 32.4% | 35% | 37.8% | 40.8% | 44.1% | 47.6% | 51.4% | 55.5% | 60% | 64.8% | 69.9% | 75.5% |
+| Enhanced Attack DMG Ratio | 30% | 32.4% | 35% | 37.8% | 40.8% | 44.1% | 47.6% | 51.4% | 55.5% | 60% | 64.8% | 69.9% | 75.5% |
+
+Ultimate Energy Cost: 120 at every level.
+
+### Support Skill: Easter Egg Time
+
+| Parameter | Lv. 1 | Lv. 2 | Lv. 3 | Lv. 4 | Lv. 5 | Lv. 6 | Lv. 7 | Lv. 8 | Lv. 9 | Lv. 10 | Lv. 11 | Lv. 12 | Lv. 13 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| DMG Ratio | 200% | 216% | 233.3% | 251.9% | 272.1% | 293.9% | 317.4% | 342.8% | 370.2% | 399.8% | 431.8% | 466.3% | 503.6% |
