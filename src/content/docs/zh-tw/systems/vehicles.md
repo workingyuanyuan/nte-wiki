@@ -1,11 +1,11 @@
 ---
 title: 載具
-description: 1.5 版遊戲內 31 款汽車、機車等載具的極速與取得方式。
+description: 1.5 版遊戲內 31 款載具的極速與取得方式，以及城市的大眾運輸。
 aliases:
   - Vehicles
   - 载具
 appliesTo: 1.5 版，遊戲資料 1.5.4
-lastVerified: 2026-11-19
+lastVerified: 2026-11-21
 caveat: 盲盒載具來自限時盲盒活動；商店價格以方斯計，相關商店常駐販售。
 sources:
   - title: nanoka.cc 遊戲資料 1.5.4，載具（英文）
@@ -20,6 +20,12 @@ sources:
     url: https://nte.perfectworld.com/en/article/news/gamenews/20260817/263605.html
   - title: 1.5 版更新公告，2026-11-09（Iron Ogre 等，英文）
     url: https://nte.perfectworld.com/en/article/news/gamenews/20261109/264948.html
+  - title: GameWith 的移動方式指南（英文）
+    url: https://gamewith.net/nte/74171
+  - title: NGA 論壇，海特洛大眾運輸路線圖討論串（簡體中文，2026-11-21 讀取）
+    url: https://bbs.nga.cn/read.php?tid=46759733
+  - title: NGA 論壇，橋間地城區佈局分析（簡體中文，2026-11-21 讀取）
+    url: https://bbs.nga.cn/read.php?tid=46992828
 ---
 
 ## 載具
@@ -59,3 +65,18 @@ sources:
 | Tide | Hikari's | 水上摩托車 |  | 「Lucent Tides」盲盒 |
 | 「划向明天！」 |  | 船 |  | 噗卡樂園商店，10,000 |
 | 「坦途」 | TerraX | 坦克 | 35 | 「Open Roads Ahead」盲盒 |
+
+## 大眾運輸
+
+海特洛設有列車與公車，玩家皆可搭乘。遊戲內不顯示時刻表，等下一班車有時會花上不少時間。GameWith 補充，搭乘列車不收車資。
+
+NGA 論壇一篇附有玩家自繪路線圖的討論串補充了以下細節：
+
+| 項目 | 細節 |
+| --- | --- |
+| 路線 | 多條軌道線採環狀行駛；有一條路面電車路線會跨越一段海面 |
+| 公車 | 路線名稱只標示在站牌上，車身不顯示。公車遇到紅燈會停等 |
+| 駕駛公車 | 營運中的公車無法駕駛或搶奪；停放在駕校停車場的兩輛公車可以駕駛 |
+| 未開放車站 | 城內部分地下車站上鎖 |
+
+另一篇 NGA 貼文指出，半角街是橋間地唯一四輪載具無法駛入的區域，車輛會停在入口處的停車場。

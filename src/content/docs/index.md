@@ -26,7 +26,7 @@ sources:
     url: https://game8.co/games/Neverness-to-Everness/archives/592067
 ---
 
-![Official key visual: nine characters around a ring of water](/art/key-visual.webp)
+![Official key visual](/art/key-visual.webp)
 
 ## Game
 
@@ -34,31 +34,33 @@ sources:
 | --- | --- |
 | Genre | Supernatural urban open-world RPG |
 | Developer, publisher | Hotta Studio; Perfect World Games (global) |
-| Launch | 2026-04-29, 11:00 (UTC+8) |
+| Launch | 2026-04-29, 11:00 |
 | Platforms | PC, Mac, iOS, Android, PlayStation 5 |
 | Setting | Hethereau; the player is the Appraiser of the antique shop Eibon |
 | Current version | 1.5 "Once Upon a Glitched Call", since 2026-11-11 |
-| Current Limited Boards | Elyms and Shinku, until 2026-12-02 05:59 (UTC+8) |
+| Current Limited Boards | Elyms and Shinku, until 2026-12-02 05:59 |
 
 ## Versions
 
-| Version | Live from | New limited characters |
-| --- | --- | --- |
-| [1.5 "Once Upon a Glitched Call"](/versions/1-5/) | 2026-11-11 | Elyms |
-| [1.4 "For Whom the Verses Mourn"](/versions/1-4/) | 2026-09-30 | Blackbird, Akane Rin |
-| [1.3 "Rising from the Moonlit Fog"](/versions/1-3/) | 2026-08-19 | Zankou, Linko |
-| [1.2 "999 Nights"](/versions/1-2/) | 2026-07-08 | Shinku, Iroi |
-| [1.1 "Dreamwalk Corridor"](/versions/1-1/) | 2026-06-03 | Lacrimosa, Chaos |
-| [1.0](/versions/1-0/) | 2026-04-29 | Nanally, Hotori |
+| Version | Live from |
+| --- | --- |
+| [1.5 "Once Upon a Glitched Call"](/versions/1-5/) | 2026-11-11 |
+| [1.4 "For Whom the Verses Mourn"](/versions/1-4/) | 2026-09-30 |
+| [1.3 "Rising from the Moonlit Fog"](/versions/1-3/) | 2026-08-19 |
+| [1.2 "999 Nights"](/versions/1-2/) | 2026-07-08 |
+| [1.1 "Dreamwalk Corridor"](/versions/1-1/) | 2026-06-03 |
+| [1.0](/versions/1-0/) | 2026-04-29 |
 
 ## Systems and names
 
 - [Boards and Arc Research](/systems/boards/)
 - [Esper Cycles](/systems/esper-cycles/)
+- [Combat formulas](/systems/combat/)
 - [Arcs](/systems/arcs/)
 - [Consoles](/systems/consoles/)
 - [Progression materials](/systems/progression/)
 - [Vehicles](/systems/vehicles/)
+- [Sea Angler and Bagel](/systems/sea-angler-bagel/)
 - [Properties](/systems/properties/)
 - [Platforms and servers](/systems/platforms/)
 - [Names in three languages](/names/)

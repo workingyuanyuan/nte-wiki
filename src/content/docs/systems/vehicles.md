@@ -1,11 +1,11 @@
 ---
 title: Vehicles
-description: The 31 cars, motorcycles and other vehicles in NTE by Version 1.5, with top speed and how to get each.
+description: The 31 vehicles in NTE by Version 1.5, with top speed and how to get each, and the public transport.
 aliases:
   - 載具
   - 载具
 appliesTo: Version 1.5, game data 1.5.4
-lastVerified: 2026-11-19
+lastVerified: 2026-11-21
 caveat: Mystery Box vehicles came from limited-time Mystery Box events; the shop prices are in Fons and the shops sell those vehicles permanently.
 sources:
   - title: nanoka.cc game data 1.5.4, vehicles in English
@@ -20,6 +20,12 @@ sources:
     url: https://nte.perfectworld.com/en/article/news/gamenews/20260817/263605.html
   - title: Version 1.5 patch notes, 2026-11-09 (Iron Ogre, Prototype Land Overlord 001, C001, Ori-LV03)
     url: https://nte.perfectworld.com/en/article/news/gamenews/20261109/264948.html
+  - title: GameWith, Methods to Travel
+    url: https://gamewith.net/nte/74171
+  - title: NGA forum, Hethereau public transport map thread, in Simplified Chinese (read 2026-11-21)
+    url: https://bbs.nga.cn/read.php?tid=46759733
+  - title: NGA forum, post on the layout of Bridge Crossings, in Simplified Chinese (read 2026-11-21)
+    url: https://bbs.nga.cn/read.php?tid=46992828
 ---
 
 ## Vehicles
@@ -59,3 +65,18 @@ Prices without a shop name are in Fons at a dealership. Cars and sports cars are
 | Tide | Hikari's | Watercraft |  | "Lucent Tides" Mystery Boxes |
 | 「划向明天！」 |  | Boat |  | Pukaland shop, 10,000 |
 | Iron Ogre | TerraX | Tank | 35 | "Open Roads Ahead" Mystery Boxes |
+
+## Public transport
+
+Hethereau has trains and buses, and players can ride both. No timetable is shown, so the wait for the next train or bus can be long. GameWith adds that trains charge no fare.
+
+The NGA forum thread with a player's transit map adds these details:
+
+| Topic | Detail |
+| --- | --- |
+| Lines | Several rail lines run as loops; one tram line crosses a stretch of sea |
+| Buses | Line names appear on stop signs only, not on the buses. Buses stop at red lights |
+| Driving a bus | Buses in service cannot be driven or taken over. Two buses parked at the driving school car park can be driven |
+| Closed stations | Some underground stations in the city are locked |
+
+Another NGA post notes that Hankaku Street is the only part of Bridge Crossings that four-wheeled vehicles cannot enter; they stop at the car park at its entrance.

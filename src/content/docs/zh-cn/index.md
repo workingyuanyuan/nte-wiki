@@ -26,7 +26,7 @@ sources:
     url: https://game8.co/games/Neverness-to-Everness/archives/592067
 ---
 
-![官方主视觉图：九名角色围绕着水环](/art/key-visual.webp)
+![官方主视觉图](/art/key-visual.webp)
 
 ## 游戏
 
@@ -34,31 +34,33 @@ sources:
 | --- | --- |
 | 类型 | 超自然都市开放世界 RPG |
 | 开发商、发行商 | Hotta Studio；Perfect World Games（国际版） |
-| 正式上线 | 2026-04-29，11:00 (UTC+8) |
+| 正式上线 | 2026-04-29，11:00 |
 | 支持平台 | PC、Mac、iOS、Android、PlayStation 5 |
 | 背景设定 | 海特洛；玩家是伊波恩古董店的鉴定师 |
 | 当前版本 | 1.5「致电，空想迷数」，自 2026-11-11 起 |
-| 当前限定棋盘 | 曳尔沐与真红，至 2026-12-02 05:59 (UTC+8) |
+| 当前限定棋盘 | 曳尔沐与真红，至 2026-12-02 05:59 |
 
 ## 版本
 
-| 版本 | 上线日期 | 新增限定角色 |
-| --- | --- | --- |
-| [1.5「致电，空想迷数」](/zh-cn/versions/1-5/) | 2026-11-11 | 曳尔沐 |
-| [1.4「祷歌为谁而诵」](/zh-cn/versions/1-4/) | 2026-09-30 | 黑羽、明音凛 |
-| [1.3「雾中朔望星回」](/zh-cn/versions/1-3/) | 2026-08-19 | 残虹、灵可 |
-| [1.2「九百九十九夜」](/zh-cn/versions/1-2/) | 2026-07-08 | 真红、伊洛伊 |
-| [1.1「游梦洄廊」](/zh-cn/versions/1-1/) | 2026-06-03 | 安魂曲、卡厄斯 |
-| [1.0](/zh-cn/versions/1-0/) | 2026-04-29 | 娜娜莉、浔 |
+| 版本 | 上线日期 |
+| --- | --- |
+| [1.5「致电，空想迷数」](/zh-cn/versions/1-5/) | 2026-11-11 |
+| [1.4「祷歌为谁而诵」](/zh-cn/versions/1-4/) | 2026-09-30 |
+| [1.3「雾中朔望星回」](/zh-cn/versions/1-3/) | 2026-08-19 |
+| [1.2「九百九十九夜」](/zh-cn/versions/1-2/) | 2026-07-08 |
+| [1.1「游梦洄廊」](/zh-cn/versions/1-1/) | 2026-06-03 |
+| [1.0](/zh-cn/versions/1-0/) | 2026-04-29 |
 
 ## 系统与名称对照
 
 - [棋盘与弧盘研募](/zh-cn/systems/boards/)
 - [异能环合](/zh-cn/systems/esper-cycles/)
+- [战斗数值](/zh-cn/systems/combat/)
 - [弧盘](/zh-cn/systems/arcs/)
 - [空幕](/zh-cn/systems/consoles/)
 - [养成材料](/zh-cn/systems/progression/)
 - [载具](/zh-cn/systems/vehicles/)
+- [海上钓客与呗果](/zh-cn/systems/sea-angler-bagel/)
 - [房产与异象家具](/zh-cn/systems/properties/)
 - [平台与服务器](/zh-cn/systems/platforms/)
 - [名称对照](/zh-cn/names/)
