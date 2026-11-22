@@ -1,0 +1,49 @@
+{
+	"origin": "https://nte.perfectworld.com",
+	"list": "/en/article/news/",
+	"read": "2026-11-22",
+	"notices": [
+		{
+			"url": "https://nte.perfectworld.com/en/article/news/gamebroad/20261113/265053.html",
+			"title": "《NTE》 Fan Content Guidelines",
+			"date": "2026-11-20",
+			"type": "Notices"
+		},
+		{
+			"url": "https://nte.perfectworld.com/en/article/news/gamebroad/20261116/265063.html",
+			"title": "Account Action Notice: 2026-11-16 (UTC+8)",
+			"date": "2026-11-16",
+			"type": "Notices"
+		},
+		{
+			"url": "https://nte.perfectworld.com/en/article/news/gamebroad/20261112/265030.html",
+			"title": "Official Marketing Partnership Contact Channels",
+			"date": "2026-11-12",
+			"type": "Notices"
+		},
+		{
+			"url": "https://nte.perfectworld.com/en/article/news/gamenews/20261109/264948.html",
+			"title": "Version 1.5 [Once Upon a Glitched Call] Patch Notes",
+			"date": "2026-11-09",
+			"type": "News"
+		},
+		{
+			"url": "https://nte.perfectworld.com/en/article/news/gamebroad/20261109/264938.html",
+			"title": "Account Action Notice: 2026-11-09 (UTC+8)",
+			"date": "2026-11-09",
+			"type": "Notices"
+		},
+		{
+			"url": "https://nte.perfectworld.com/en/article/news/gameevent/20261104/264885.html",
+			"title": "NTE V1.5 Fan Creation Event: Enter to Win $1,000 + Annulith x6,480!",
+			"date": "2026-11-04",
+			"type": "Events"
+		}
+	],
+	"cited": {
+		"https://nte.perfectworld.com/en/article/news/gamenews/20261109/264948.html": {
+			"sha256": "412ad0ec18f99f3370cc63a678c6efcadc86dd7f83c56001e3ec97161cdaa8f9",
+			"characters": 15503
+		}
+	}
+}

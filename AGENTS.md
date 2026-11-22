@@ -19,6 +19,7 @@ This site is an unofficial wiki for the game Neverness to Everness (NTE, 異環)
 - Guide sites may supply a fact that the official sources lack when at least two of them agree, and the page names them in `sources`. A fact from one guide site is attributed in the sentence ("Game8 says").
 - Look: pixel terminal in the official colours, cyan `#39d5fc` and pink `#fb5692`. Motion is sparing: the title is typed once, the first blocks print in once, the cursors blink. The owner had these removed as too much: the logo mark, the signal meter, the moving band under the header, motion and scan lines on images, the status line. Do not add them back.
 - `robots.txt` carries `ai-train=no`. Address: `https://yuanaruru.com/nte-wiki/`.
+- How the site follows its sources (owner, 2026-11-22): a weekly scheduled check that keeps one issue, as for `github-repositories`; it also compares the text of the cited notices of the current version. See "When the sources change".
 
 ## Commands
 
@@ -26,6 +27,7 @@ This site is an unofficial wiki for the game Neverness to Everness (NTE, 異環)
 pnpm verify      # subset the font, build, then run the acceptance checks. Run this before you call a change done.
 pnpm build       # subset the font and build
 pnpm check       # acceptance checks on an existing dist/
+pnpm upstream    # compare the sources with what the pages were written from (upstream/README.md)
 uv run --with opencc-python-reimplemented scripts/to-zh-cn.py   # write the zh-cn pages from the zh-tw pages
 pnpm preview     # serve dist/ at http://127.0.0.1:4399/nte-wiki/ with GitHub Pages style headers
 ```
@@ -42,8 +44,12 @@ pnpm preview     # serve dist/ at http://127.0.0.1:4399/nte-wiki/ with GitHub Pa
 - Japanese and Korean pages: translated from the English page with the same facts, headings, tables and links. Names come from the Japanese and Korean game data 1.5.4 (nanoka.cc `ja/` and `ko/` files) for in-game text, and from the official Japanese (`nte.perfectworld.com/jp/`) and Korean (`/kr/`) notices for versions, events, Boards and outfits; a name with neither stays in English. Those notices write JST/KST (UTC+9); the pages keep the UTC+8 times of the English pages. Every page lists the Japanese and Korean counterparts of the notices and game data files it cites, in every language. Core terms: Arc 弧盤 / 아크, Board ボード / 보드, Esper Cycle 異能連環 / 에스퍼 사이클, Console ギア / 콘솔, Cartridge 駆動コア / 카트리지, Awakening 覚醒 / 각성; skill slots 通常攻撃, バイレールスキル, EXレール終結, サポートスキル / 일반 공격, 바이레일 스킬, 울티메이트, 서포트 스킬. Style: Japanese である調, Korean 한다체. The title and aliases of each page name the same set in all five languages.
 - Attributes in Chinese: 光 Cosmos, 靈 Anima, 咒 Incantation, 魂 Psyche (Taiwan news posts); 暗 Chaos, 相 Lakshana (Traditional Chinese guide sites). Arc types in Chinese are followed by the English in parentheses, for example 固態 (Solid). The game's Chinese text names the five types 固态, 液态, 气态, 等离子 and 聚合 (Condensate); 聚合 replaced the earlier 凝聚態.
 - Character pages follow one structure: portrait, Profile (with voice actors), How to obtain, Skills, Growth, Awakenings, then Signature Arc, Outfits, Story and modes where they apply. Skill multipliers comes last: one table per skill with Lv. 1–13 from the game data (`abilities[].param_rows`), labels in the page language, `*` written as `×`, and a row that is the same at every level written as a sentence under the table. Portraits go in `public/art/characters/<slug>.webp`, cropped from the official site's mobile poster (left 95, top 150, width 560, height 686 of the 750×836 image). Adler, Edgar, Haniel, Aurelia and Skia have no profile on the official site and so no portrait.
-- When a version changes: add the version page, add the Board to `systems/boards.md` and to the three A-Class pages that share it, update the home page (current version, current Boards, tables), the caveats that name "Version 1.5", and `LLMS_NOTES`.
+- When a version changes or a Board opens: see `upstream/README.md`.
 - The home page must link every page within its first 5,000 extracted characters. The English home page is about 15 characters under the limit (the check counts absolute URLs); the versions table lost its column of new limited characters to make room on 2026-11-21. Shorten cells or drop duplicate links before adding rows; another page needs a change the owner decides, such as a systems index page. System pages are a plain link list there.
+
+## When the sources change
+
+Run `pnpm upstream`. What it watches, what each line of its report means and how to update the pages are in `upstream/README.md`; read it when an update is due.
 
 ## Skin rules
 
@@ -78,6 +84,7 @@ pnpm preview     # serve dist/ at http://127.0.0.1:4399/nte-wiki/ with GitHub Pa
 | `tests/agent-eval/questions.json` | The site's question list: what readers ask, each with the expected answer and qualifier. The agent test and the search test draw from it |
 | `scripts/indexnow.mjs` | Lists pages whose Markdown twin differs from the live one; the deploy workflow submits them to IndexNow |
 | `scripts/to-zh-cn.py` | Writes the Simplified Chinese pages from the Traditional Chinese ones |
+| `scripts/upstream.mjs`, `upstream/`, `.github/workflows/upstream.yml` | Check against the sources and its weekly run (`upstream/README.md`) |
 | `tests/agent-eval/` | Fetch tool, questions and method for the agent test |
 
 ## Sources checked on 2026-11-18 and 2026-11-19 (plain HTTP fetch unless noted)
