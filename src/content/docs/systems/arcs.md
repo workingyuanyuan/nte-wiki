@@ -80,21 +80,21 @@ Arcs come in five types and three classes: S (gold), A (purple) and B (blue). Ev
 | Time Bandit | A | Solid | 475 | HP Bonus 25% |  |
 | Call of the Twisted City | A | Liquid | 395 | HP Bonus 37.5% |  |
 | Clear Skies | A | Liquid | 475 | ATK Bonus 25% |  |
-| Mind Royale | A | Liquid | 555 | Break Intensity 60% |  |
+| Mind Royale | A | Liquid | 555 | Break Intensity 60 |  |
 | Shiny Days | A | Liquid | 475 | ATK Bonus 25% |  |
 | A Time Will Come | A | Condensate | 475 | CRIT Rate 20% |  |
 | The Fools' Spring | A | Condensate | 395 | DEF Bonus 52.5% |  |
 | The Good, The Bad, The Bitter | A | Condensate | 475 | HP Bonus 25% |  |
-| The Great Thief | A | Condensate | 475 | Break Intensity 120% |  |
+| The Great Thief | A | Condensate | 475 | Break Intensity 120 |  |
 | Umbrella | A | Condensate | 395 | DEF Bonus 52.5% |  |
 | Cosmos Daze, Wild Reverie | A | Gas | 475 | ATK Bonus 25% |  |
-| Failing You, Heavy in My Heart | A | Gas | 475 | Break Intensity 120% |  |
+| Failing You, Heavy in My Heart | A | Gas | 475 | Break Intensity 120 |  |
 | Watch Your Heads! | A | Gas | 475 | CRIT DMG 40% |  |
 | Drawn Blade | A | Plasma | 395 | ATK Bonus 37.5% |  |
 | Oraora! | A | Plasma | 395 | ATK Bonus 37.5% |  |
 | First Step to Success | B | Solid | 380 | ATK Bonus 20% |  |
 | "Real Music" | B | Liquid | 380 | ATK Bonus 20% |  |
-| Dangerous Game | B | Condensate | 380 | Break Intensity 96% |  |
+| Dangerous Game | B | Condensate | 380 | Break Intensity 96 |  |
 | Be Happy | B | Gas | 316 | HP Bonus 30% |  |
 | Us. | B | Plasma | 380 | ATK Bonus 20% |  |
 
