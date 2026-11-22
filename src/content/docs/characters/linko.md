@@ -4,6 +4,8 @@ description: Linko is a limited S-Class character of the Anima attribute, added 
 aliases:
   - 靈可
   - 灵可
+  - リンコ
+  - 링코
 appliesTo: Version 1.5, game data 1.5.4
 caveat: 'Linko is limited: obtainable only while the "Surfing All Channels!" Board is open. It last closed on 2026-09-30 at 05:59 (UTC+8).'
 effectiveDate: 2026-09-08
@@ -14,8 +16,16 @@ art:
 sources:
   - title: Maintenance notice of 2026-09-08 (Version 1.3, second half)
     url: https://nte.perfectworld.com/en/article/news/gamenews/20260908/263947.html
+  - title: Maintenance notice of 2026-09-08 (Version 1.3, second half, Japanese)
+    url: https://nte.perfectworld.com/jp/article/news/gamenews/20260908/263946.html
+  - title: Maintenance notice of 2026-09-08 (Version 1.3, second half, Korean)
+    url: https://nte.perfectworld.com/kr/article/news/gamenews/20260908/263945.html
   - title: Character profiles on the official site
     url: https://nte.perfectworld.com/en/main.html?nav=2&role=20
+  - title: Character profiles on the official site (Japanese)
+    url: https://nte.perfectworld.com/jp/main.html?nav=2&role=20
+  - title: Character profiles on the official site (Korean)
+    url: https://nte.perfectworld.com/kr/main.html?nav=2&role=20
   - title: Prydwen, Linko character page (skills, attribute, Arc type)
     url: https://www.prydwen.gg/neverness-to-everness/characters/linko
   - title: Game8, Linko build page (cross-check of skills and attribute)
@@ -24,6 +34,10 @@ sources:
     url: https://static.nanoka.cc/nte/1.5.4/en/character/1072.json
   - title: nanoka.cc game data 1.5.4, character file in Chinese
     url: https://static.nanoka.cc/nte/1.5.4/zh/character/1072.json
+  - title: nanoka.cc game data 1.5.4, character file in Japanese
+    url: https://static.nanoka.cc/nte/1.5.4/ja/character/1072.json
+  - title: nanoka.cc game data 1.5.4, character file in Korean
+    url: https://static.nanoka.cc/nte/1.5.4/ko/character/1072.json
 ---
 
 ![Linko, official character art: a girl with short pink hair in a teal jacket and shorts](/art/characters/linko.webp)

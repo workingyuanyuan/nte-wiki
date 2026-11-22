@@ -4,6 +4,8 @@ description: Haniel is an A-Class character of the Psyche attribute, found on Li
 aliases:
   - 哈尼婭
   - 哈尼娅
+  - ハニア
+  - 하니엘
 appliesTo: Version 1.5, game data 1.5.4
 caveat: 'Neither Limited Board of Version 1.5 carries Haniel; both carry Mint, Edgar and Adler. The last Board with Haniel closed on 2026-11-11 at 05:59 (UTC+8).'
 effectiveDate: 2026-10-19
@@ -11,12 +13,28 @@ lastVerified: 2026-11-22
 sources:
   - title: Maintenance notice of 2026-09-08 (Version 1.3, second half)
     url: https://nte.perfectworld.com/en/article/news/gamenews/20260908/263947.html
+  - title: Maintenance notice of 2026-09-08 (Version 1.3, second half, Japanese)
+    url: https://nte.perfectworld.com/jp/article/news/gamenews/20260908/263946.html
+  - title: Maintenance notice of 2026-09-08 (Version 1.3, second half, Korean)
+    url: https://nte.perfectworld.com/kr/article/news/gamenews/20260908/263945.html
   - title: Maintenance notice of 2026-10-19 (Version 1.4, second half)
     url: https://nte.perfectworld.com/en/article/news/gamenews/20261019/264675.html
+  - title: Maintenance notice of 2026-10-19 (Version 1.4, second half, Japanese)
+    url: https://nte.perfectworld.com/jp/article/news/gamenews/20261019/264678.html
+  - title: Maintenance notice of 2026-10-19 (Version 1.4, second half, Korean)
+    url: https://nte.perfectworld.com/kr/article/news/gamenews/20261019/264679.html
   - title: Official launch FAQ, 2026-04-27
     url: https://nte.perfectworld.com/en/article/news/gamebroad/20260426/261931.html
+  - title: Official launch FAQ, 2026-04-27 (Japanese)
+    url: https://nte.perfectworld.com/jp/article/news/gamebroad/20260427/261937.html
+  - title: Official launch FAQ, 2026-04-27 (Korean)
+    url: https://nte.perfectworld.com/kr/article/news/gamebroad/20260426/261934.html
   - title: Version 1.4 patch notes, 2026-09-29
     url: https://nte.perfectworld.com/en/article/news/gamenews/20260929/264409.html
+  - title: Version 1.4 patch notes, 2026-09-29 (Japanese)
+    url: https://nte.perfectworld.com/jp/article/news/gamenews/20260929/264412.html
+  - title: Version 1.4 patch notes, 2026-09-29 (Korean)
+    url: https://nte.perfectworld.com/kr/article/news/gamenews/20260929/264413.html
   - title: Prydwen, Haniel character page (skills, attribute, Arc type)
     url: https://www.prydwen.gg/neverness-to-everness/characters/haniel
   - title: Game8, Haniel build page (cross-check of skills and attribute)
@@ -25,6 +43,10 @@ sources:
     url: https://static.nanoka.cc/nte/1.5.4/en/character/1020.json
   - title: nanoka.cc game data 1.5.4, character file in Chinese
     url: https://static.nanoka.cc/nte/1.5.4/zh/character/1020.json
+  - title: nanoka.cc game data 1.5.4, character file in Japanese
+    url: https://static.nanoka.cc/nte/1.5.4/ja/character/1020.json
+  - title: nanoka.cc game data 1.5.4, character file in Korean
+    url: https://static.nanoka.cc/nte/1.5.4/ko/character/1020.json
 ---
 
 ## Profile

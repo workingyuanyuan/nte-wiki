@@ -5,6 +5,7 @@ aliases:
   - NTE
   - 異環
   - 异环
+  - 이환
 appliesTo: Version 1.5, as published on the global official site by 2026-11-18
 caveat: Dates and times follow the global official site in UTC+8; mainland China has its own schedule. The site is not run by Hotta Studio or Perfect World Games.
 lastVerified: 2026-11-18
@@ -16,10 +17,22 @@ sources:
     url: https://nte.perfectworld.com/en/
   - title: Official launch date notice, 2026-02-26
     url: https://nte.perfectworld.com/en/article/news/gamenews/20260226/261061.html
+  - title: Official launch date notice, 2026-02-26 (Japanese)
+    url: https://nte.perfectworld.com/jp/article/news/gamenews/20260226/261062.html
+  - title: Official launch date notice, 2026-02-26 (Korean)
+    url: https://nte.perfectworld.com/kr/article/news/gamenews/20260226/261063.html
   - title: Official launch FAQ, 2026-04-27
     url: https://nte.perfectworld.com/en/article/news/gamebroad/20260426/261931.html
+  - title: Official launch FAQ, 2026-04-27 (Japanese)
+    url: https://nte.perfectworld.com/jp/article/news/gamebroad/20260427/261937.html
+  - title: Official launch FAQ, 2026-04-27 (Korean)
+    url: https://nte.perfectworld.com/kr/article/news/gamebroad/20260426/261934.html
   - title: Version 1.5 patch notes, 2026-11-09
     url: https://nte.perfectworld.com/en/article/news/gamenews/20261109/264948.html
+  - title: Version 1.5 patch notes, 2026-11-09 (Japanese)
+    url: https://nte.perfectworld.com/jp/article/news/gamenews/20261109/264951.html
+  - title: Version 1.5 patch notes, 2026-11-09 (Korean)
+    url: https://nte.perfectworld.com/kr/article/news/gamenews/20261109/264952.html
   - title: Prydwen, NTE characters (attributes and Arc types)
     url: https://www.prydwen.gg/neverness-to-everness/characters
   - title: Game8, list of characters
@@ -63,7 +76,7 @@ sources:
 - [Sea Angler and Bagel](/systems/sea-angler-bagel/)
 - [Properties](/systems/properties/)
 - [Platforms and servers](/systems/platforms/)
-- [Names in three languages](/names/)
+- [Names in five languages](/names/)
 
 ## Characters
 

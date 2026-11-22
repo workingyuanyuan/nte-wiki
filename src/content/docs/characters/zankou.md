@@ -4,6 +4,7 @@ description: Zankou is a limited S-Class character of the Incantation attribute,
 aliases:
   - 殘虹
   - 残虹
+  - 잔홍
 appliesTo: Version 1.5, game data 1.5.4
 caveat: 'Zankou is limited: obtainable only while the "Alluring Shadows" Board is open. It last closed on 2026-09-09 at 05:59 (UTC+8).'
 effectiveDate: 2026-08-18
@@ -14,8 +15,16 @@ art:
 sources:
   - title: Version 1.3 patch notes, 2026-08-18
     url: https://nte.perfectworld.com/en/article/news/gamenews/20260817/263605.html
+  - title: Version 1.3 patch notes, 2026-08-18 (Japanese)
+    url: https://nte.perfectworld.com/jp/article/news/gamenews/20260817/263606.html
+  - title: Version 1.3 patch notes, 2026-08-18 (Korean)
+    url: https://nte.perfectworld.com/kr/article/news/gamenews/20260817/263607.html
   - title: Character profiles on the official site
     url: https://nte.perfectworld.com/en/main.html?nav=2&role=20
+  - title: Character profiles on the official site (Japanese)
+    url: https://nte.perfectworld.com/jp/main.html?nav=2&role=20
+  - title: Character profiles on the official site (Korean)
+    url: https://nte.perfectworld.com/kr/main.html?nav=2&role=20
   - title: Prydwen, Zankou character page (skills, attribute, Arc type)
     url: https://www.prydwen.gg/neverness-to-everness/characters/zankou
   - title: Game8, Zankou build page (cross-check of skills and attribute)
@@ -24,6 +33,10 @@ sources:
     url: https://static.nanoka.cc/nte/1.5.4/en/character/1036.json
   - title: nanoka.cc game data 1.5.4, character file in Chinese
     url: https://static.nanoka.cc/nte/1.5.4/zh/character/1036.json
+  - title: nanoka.cc game data 1.5.4, character file in Japanese
+    url: https://static.nanoka.cc/nte/1.5.4/ja/character/1036.json
+  - title: nanoka.cc game data 1.5.4, character file in Korean
+    url: https://static.nanoka.cc/nte/1.5.4/ko/character/1036.json
 ---
 
 ![Zankou, official character art: a woman with long silver hair in a white and grey outfit with a red knot at the waist](/art/characters/zankou.webp)

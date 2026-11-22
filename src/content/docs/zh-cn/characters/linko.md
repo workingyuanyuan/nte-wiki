@@ -4,6 +4,8 @@ description: 灵可是 1.3 版加入的限定 S 级角色，属性为灵。
 aliases:
   - Linko
   - 靈可
+  - リンコ
+  - 링코
 appliesTo: Version 1.5, game data 1.5.4
 caveat: '灵可是限定角色：仅可在「全频带漫游中！」棋盘开放期间取得。该棋盘上一次开放已于 2026-09-30 05:59 (UTC+8) 结束。'
 effectiveDate: 2026-09-08
@@ -14,8 +16,16 @@ art:
 sources:
   - title: 2026-09-08 停服维护公告（1.3 版下半期，英文）
     url: https://nte.perfectworld.com/en/article/news/gamenews/20260908/263947.html
+  - title: 2026-09-08 停服维护公告（1.3 版下半期，日文）
+    url: https://nte.perfectworld.com/jp/article/news/gamenews/20260908/263946.html
+  - title: 2026-09-08 停服维护公告（1.3 版下半期，韩文）
+    url: https://nte.perfectworld.com/kr/article/news/gamenews/20260908/263945.html
   - title: 官方网站的角色介绍
     url: https://nte.perfectworld.com/en/main.html?nav=2&role=20
+  - title: 官方网站的角色介绍（日文）
+    url: https://nte.perfectworld.com/jp/main.html?nav=2&role=20
+  - title: 官方网站的角色介绍（韩文）
+    url: https://nte.perfectworld.com/kr/main.html?nav=2&role=20
   - title: Prydwen 的灵可页面（技能、属性、弧盘类型）
     url: https://www.prydwen.gg/neverness-to-everness/characters/linko
   - title: Game8 的灵可配装页面（交叉查证技能与属性）
@@ -24,6 +34,10 @@ sources:
     url: https://static.nanoka.cc/nte/1.5.4/en/character/1072.json
   - title: nanoka.cc 游戏资料 1.5.4，角色档案（中文）
     url: https://static.nanoka.cc/nte/1.5.4/zh/character/1072.json
+  - title: nanoka.cc 游戏资料 1.5.4，角色档案（日文）
+    url: https://static.nanoka.cc/nte/1.5.4/ja/character/1072.json
+  - title: nanoka.cc 游戏资料 1.5.4，角色档案（韩文）
+    url: https://static.nanoka.cc/nte/1.5.4/ko/character/1072.json
 ---
 
 ![灵可的官方角色图：粉色短发的少女，身穿蓝绿色外套与短裤](/art/characters/linko.webp)

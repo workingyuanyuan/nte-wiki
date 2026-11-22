@@ -3,6 +3,7 @@ title: 翳
 description: 翳是相属性的 A 级角色，可在限定棋盘中取得。
 aliases:
   - Skia
+  - 스키아
 appliesTo: Version 1.5, game data 1.5.4
 caveat: 1.5 版的两个限定棋盘皆不包含翳，两者都只收录薄荷、埃德嘉与阿德勒。最后一个收录翳的棋盘已于 2026-11-11 05:59 (UTC+8) 结束。
 effectiveDate: 2026-10-19
@@ -10,8 +11,16 @@ lastVerified: 2026-11-22
 sources:
   - title: 2026-09-08 停服维护公告（1.3 版下半）
     url: https://nte.perfectworld.com/en/article/news/gamenews/20260908/263947.html
+  - title: 2026-09-08 停服维护公告（1.3 版下半，日文）
+    url: https://nte.perfectworld.com/jp/article/news/gamenews/20260908/263946.html
+  - title: 2026-09-08 停服维护公告（1.3 版下半，韩文）
+    url: https://nte.perfectworld.com/kr/article/news/gamenews/20260908/263945.html
   - title: 2026-10-19 停服维护公告（1.4 版下半）
     url: https://nte.perfectworld.com/en/article/news/gamenews/20261019/264675.html
+  - title: 2026-10-19 停服维护公告（1.4 版下半，日文）
+    url: https://nte.perfectworld.com/jp/article/news/gamenews/20261019/264678.html
+  - title: 2026-10-19 停服维护公告（1.4 版下半，韩文）
+    url: https://nte.perfectworld.com/kr/article/news/gamenews/20261019/264679.html
   - title: Prydwen 的翳角色页面（技能、属性、弧盘类型）
     url: https://www.prydwen.gg/neverness-to-everness/characters/skia
   - title: Game8 的翳配装页面（交叉查证技能与属性）
@@ -20,6 +29,10 @@ sources:
     url: https://static.nanoka.cc/nte/1.5.4/en/character/1008.json
   - title: nanoka.cc 游戏资料 1.5.4，角色档案（中文）
     url: https://static.nanoka.cc/nte/1.5.4/zh/character/1008.json
+  - title: nanoka.cc 游戏资料 1.5.4，角色档案（日文）
+    url: https://static.nanoka.cc/nte/1.5.4/ja/character/1008.json
+  - title: nanoka.cc 游戏资料 1.5.4，角色档案（韩文）
+    url: https://static.nanoka.cc/nte/1.5.4/ko/character/1008.json
 ---
 
 ## 角色资料

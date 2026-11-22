@@ -5,6 +5,7 @@ aliases:
   - Neverness to Everness
   - NTE
   - 异环
+  - 이환
 appliesTo: 1.5 版，依國際版官方網站截至 2026-11-18 發布之資訊
 caveat: 日期與時間皆依國際版官網的 UTC+8 為準；中國大陸伺服器另有排程。本站非 Hotta Studio 或完美世界遊戲營運。
 lastVerified: 2026-11-18
@@ -16,10 +17,22 @@ sources:
     url: https://nte.perfectworld.com/en/
   - title: 正式上線日期公告，2026-02-26
     url: https://nte.perfectworld.com/en/article/news/gamenews/20260226/261061.html
+  - title: 正式上線日期公告，2026-02-26（日文）
+    url: https://nte.perfectworld.com/jp/article/news/gamenews/20260226/261062.html
+  - title: 正式上線日期公告，2026-02-26（韓文）
+    url: https://nte.perfectworld.com/kr/article/news/gamenews/20260226/261063.html
   - title: 公測常見問題 FAQ，2026-04-27
     url: https://nte.perfectworld.com/en/article/news/gamebroad/20260426/261931.html
+  - title: 公測常見問題 FAQ，2026-04-27（日文）
+    url: https://nte.perfectworld.com/jp/article/news/gamebroad/20260427/261937.html
+  - title: 公測常見問題 FAQ，2026-04-27（韓文）
+    url: https://nte.perfectworld.com/kr/article/news/gamebroad/20260426/261934.html
   - title: 1.5 版更新公告，2026-11-09
     url: https://nte.perfectworld.com/en/article/news/gamenews/20261109/264948.html
+  - title: 1.5 版更新公告，2026-11-09（日文）
+    url: https://nte.perfectworld.com/jp/article/news/gamenews/20261109/264951.html
+  - title: 1.5 版更新公告，2026-11-09（韓文）
+    url: https://nte.perfectworld.com/kr/article/news/gamenews/20261109/264952.html
   - title: Prydwen，《異環》角色列表（屬性與弧盤類型）
     url: https://www.prydwen.gg/neverness-to-everness/characters
   - title: Game8，角色列表

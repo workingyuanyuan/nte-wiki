@@ -19,3 +19,19 @@ export const hastBase = defineHastPlugin({
 		},
 	},
 });
+
+// Readability-style extractors score a table body from its cells and keep the parent chain
+// only while each parent scores at least a third of the best candidate. A table scores
+// exactly a third of its body, so on a page with one long table (Arc effects in Japanese
+// and Korean) rounding decided whether the extractor kept the whole article or only that
+// table. Their class weighting counts "scroll" as a negative signal; this class lowers
+// every table body so that the article container stays the best candidate. Not styled.
+export const hastTableBody = defineHastPlugin({
+	name: 'table-body-weight',
+	element: {
+		filter: ['tbody'],
+		visit(node, ctx) {
+			ctx.setProperty(node, 'className', ['rows-scroll']);
+		},
+	},
+});

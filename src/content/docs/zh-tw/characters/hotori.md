@@ -4,6 +4,7 @@ description: 潯是 1.0 版加入的光屬性限定 S 級角色。
 aliases:
   - Hotori
   - 浔
+  - 호토리
 appliesTo: Version 1.5, game data 1.5.4
 caveat: 潯是限定角色，只能在「獨酌朧月流」限定棋盤開放期間取得。最近一次開放已於 2026-09-30 05:59 (UTC+8) 結束。
 effectiveDate: 2026-09-08
@@ -14,10 +15,22 @@ art:
 sources:
   - title: 2026-05-12 維護公告（1.0 版下半）
     url: https://nte.perfectworld.com/en/article/news/gamebroad/20260512/262144.html
+  - title: 2026-05-12 維護公告（1.0 版下半，日文）
+    url: https://nte.perfectworld.com/jp/article/news/gamebroad/20260512/262141.html
+  - title: 2026-05-12 維護公告（1.0 版下半，韓文）
+    url: https://nte.perfectworld.com/kr/article/news/gamebroad/20260512/262140.html
   - title: 2026-09-08 維護公告（1.3 版下半）
     url: https://nte.perfectworld.com/en/article/news/gamenews/20260908/263947.html
+  - title: 2026-09-08 維護公告（1.3 版下半，日文）
+    url: https://nte.perfectworld.com/jp/article/news/gamenews/20260908/263946.html
+  - title: 2026-09-08 維護公告（1.3 版下半，韓文）
+    url: https://nte.perfectworld.com/kr/article/news/gamenews/20260908/263945.html
   - title: 官方網站的角色介紹
     url: https://nte.perfectworld.com/en/main.html?nav=2&role=20
+  - title: 官方網站的角色介紹（日文）
+    url: https://nte.perfectworld.com/jp/main.html?nav=2&role=20
+  - title: 官方網站的角色介紹（韓文）
+    url: https://nte.perfectworld.com/kr/main.html?nav=2&role=20
   - title: Prydwen，潯角色頁面（技能、屬性、弧盤類型）
     url: https://www.prydwen.gg/neverness-to-everness/characters/hotori
   - title: Game8，潯配裝頁面（交叉查證技能與屬性）
@@ -26,6 +39,10 @@ sources:
     url: https://static.nanoka.cc/nte/1.5.4/en/character/1052.json
   - title: nanoka.cc 遊戲資料 1.5.4，角色檔案（中文）
     url: https://static.nanoka.cc/nte/1.5.4/zh/character/1052.json
+  - title: nanoka.cc 遊戲資料 1.5.4，角色檔案（日文）
+    url: https://static.nanoka.cc/nte/1.5.4/ja/character/1052.json
+  - title: nanoka.cc 遊戲資料 1.5.4，角色檔案（韓文）
+    url: https://static.nanoka.cc/nte/1.5.4/ko/character/1052.json
 ---
 
 ![潯的官方角色圖：黑色長髮並戴著髮飾的女子，身穿紅黑白相間的和風服飾](/art/characters/hotori.webp)

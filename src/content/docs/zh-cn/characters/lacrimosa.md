@@ -3,6 +3,8 @@ title: 安魂曲
 description: 安魂曲是 1.1 版加入的暗属性限定 S 级角色。
 aliases:
   - Lacrimosa
+  - レクイエム
+  - 라크리모사
 appliesTo: Version 1.5, game data 1.5.4
 caveat: 安魂曲是限定角色，只能在「久梦初醒时」限定棋盘开放期间取得。最近一次开放已于 2026-10-21 05:59 (UTC+8) 结束。
 effectiveDate: 2026-09-29
@@ -13,10 +15,22 @@ art:
 sources:
   - title: 1.1 版更新公告，2026-06-02
     url: https://nte.perfectworld.com/en/article/news/gamebroad/20260602/262479.html
+  - title: 1.1 版更新公告，2026-06-02（日文）
+    url: https://nte.perfectworld.com/jp/article/news/gamebroad/20260602/262474.html
+  - title: 1.1 版更新公告，2026-06-02（韩文）
+    url: https://nte.perfectworld.com/kr/article/news/gamebroad/20260602/262473.html
   - title: 1.4 版更新公告，2026-09-29
     url: https://nte.perfectworld.com/en/article/news/gamenews/20260929/264409.html
+  - title: 1.4 版更新公告，2026-09-29（日文）
+    url: https://nte.perfectworld.com/jp/article/news/gamenews/20260929/264412.html
+  - title: 1.4 版更新公告，2026-09-29（韩文）
+    url: https://nte.perfectworld.com/kr/article/news/gamenews/20260929/264413.html
   - title: 官方网站的角色介绍
     url: https://nte.perfectworld.com/en/main.html?nav=2&role=20
+  - title: 官方网站的角色介绍（日文）
+    url: https://nte.perfectworld.com/jp/main.html?nav=2&role=20
+  - title: 官方网站的角色介绍（韩文）
+    url: https://nte.perfectworld.com/kr/main.html?nav=2&role=20
   - title: Prydwen，安魂曲角色页面（技能、属性、弧盘类型）
     url: https://www.prydwen.gg/neverness-to-everness/characters/lacrimosa
   - title: Game8，安魂曲配装页面（交叉查证技能与属性）
@@ -25,6 +39,10 @@ sources:
     url: https://static.nanoka.cc/nte/1.5.4/en/character/1004.json
   - title: nanoka.cc 游戏资料 1.5.4，角色档案（中文）
     url: https://static.nanoka.cc/nte/1.5.4/zh/character/1004.json
+  - title: nanoka.cc 游戏资料 1.5.4，角色档案（日文）
+    url: https://static.nanoka.cc/nte/1.5.4/ja/character/1004.json
+  - title: nanoka.cc 游戏资料 1.5.4，角色档案（韩文）
+    url: https://static.nanoka.cc/nte/1.5.4/ko/character/1004.json
 ---
 
 ![安魂曲的官方角色图：黑白双色头发、闭着双眼的少女，身穿红色外套与黑色短裙](/art/characters/lacrimosa.webp)

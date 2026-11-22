@@ -1,0 +1,111 @@
+---
+title: 이환
+description: 이환(NTE)의 버전, 캐릭터, 시스템, 명칭을 정리한 비공식 자료 사이트이다.
+aliases:
+  - Neverness to Everness
+  - NTE
+  - 異環
+  - 异环
+appliesTo: 1.5 버전, 2026-11-18까지 글로벌 공식 사이트에 게시된 내용 기준
+caveat: 날짜와 시간은 글로벌 공식 사이트의 UTC+8 기준이며, 중국 본토는 별도 일정을 따른다. 이 사이트는 Hotta Studio나 Perfect World Games가 운영하지 않는다.
+lastVerified: 2026-11-18
+art:
+  - title: 키 비주얼
+    url: https://nte.perfectworld.com/en/
+sources:
+  - title: NTE 공식 사이트(글로벌)
+    url: https://nte.perfectworld.com/en/
+  - title: 정식 출시일 공지, 2026-02-26
+    url: https://nte.perfectworld.com/en/article/news/gamenews/20260226/261061.html
+  - title: 정식 출시일 공지, 2026-02-26(일본어)
+    url: https://nte.perfectworld.com/jp/article/news/gamenews/20260226/261062.html
+  - title: 정식 출시일 공지, 2026-02-26(한국어)
+    url: https://nte.perfectworld.com/kr/article/news/gamenews/20260226/261063.html
+  - title: 정식 출시 FAQ, 2026-04-27
+    url: https://nte.perfectworld.com/en/article/news/gamebroad/20260426/261931.html
+  - title: 정식 출시 FAQ, 2026-04-27(일본어)
+    url: https://nte.perfectworld.com/jp/article/news/gamebroad/20260427/261937.html
+  - title: 정식 출시 FAQ, 2026-04-27(한국어)
+    url: https://nte.perfectworld.com/kr/article/news/gamebroad/20260426/261934.html
+  - title: 1.5 버전 업데이트 공지, 2026-11-09
+    url: https://nte.perfectworld.com/en/article/news/gamenews/20261109/264948.html
+  - title: 1.5 버전 업데이트 공지, 2026-11-09(일본어)
+    url: https://nte.perfectworld.com/jp/article/news/gamenews/20261109/264951.html
+  - title: 1.5 버전 업데이트 공지, 2026-11-09(한국어)
+    url: https://nte.perfectworld.com/kr/article/news/gamenews/20261109/264952.html
+  - title: Prydwen, NTE 캐릭터 목록(속성과 아크 타입)
+    url: https://www.prydwen.gg/neverness-to-everness/characters
+  - title: Game8, 캐릭터 목록
+    url: https://game8.co/games/Neverness-to-Everness/archives/592067
+---
+
+![공식 키 비주얼](/art/key-visual.webp)
+
+## 게임
+
+| 항목 | 내용 |
+| --- | --- |
+| 장르 | 초자연 어반 오픈월드 RPG |
+| 개발사, 퍼블리셔 | Hotta Studio; Perfect World Games(글로벌) |
+| 정식 출시 | 2026-04-29, 11:00 |
+| 플랫폼 | PC, Mac, iOS, Android, PlayStation 5 |
+| 배경 | 헤테로 시티. 플레이어는 골동품 가게 「에이본」의 감정사이다 |
+| 현재 버전 | 1.5 「지금 거신 번호는」, 2026-11-11부터 |
+| 현재 한정 보드 | 엘림과 신쿠, 2026-12-02 05:59까지 |
+
+## 버전
+
+| 버전 | 오픈일 |
+| --- | --- |
+| [1.5 「지금 거신 번호는」](/ko/versions/1-5/) | 2026-11-11 |
+| [1.4 「누구를 위하여 기도를 올리나」](/ko/versions/1-4/) | 2026-09-30 |
+| [1.3 「안개 너머의 별빛」](/ko/versions/1-3/) | 2026-08-19 |
+| [1.2 「999일 야화」](/ko/versions/1-2/) | 2026-07-08 |
+| [1.1 「꿈의 회랑」](/ko/versions/1-1/) | 2026-06-03 |
+| [1.0](/ko/versions/1-0/) | 2026-04-29 |
+
+## 시스템과 명칭
+
+- [보드와 아크 연구 모집](/ko/systems/boards/)
+- [에스퍼 사이클](/ko/systems/esper-cycles/)
+- [전투 공식](/ko/systems/combat/)
+- [아크](/ko/systems/arcs/)
+- [콘솔](/ko/systems/consoles/)
+- [육성 재료](/ko/systems/progression/)
+- [탈것](/ko/systems/vehicles/)
+- [바다 낚시꾼과 베이글](/ko/systems/sea-angler-bagel/)
+- [부동산](/ko/systems/properties/)
+- [플랫폼과 서버](/ko/systems/platforms/)
+- [다섯 언어의 명칭](/ko/names/)
+
+## 캐릭터
+
+1.5 버전의 플레이 가능 캐릭터는 25명이다.
+
+| 캐릭터 | 등급 | 속성 |
+| --- | --- | --- |
+| [엘림](/ko/characters/elyms/) | S급, 한정 | 빛 |
+| [아카네 린](/ko/characters/akane-rin/) | S급, 한정 | 상 |
+| [레이븐](/ko/characters/blackbird/) | S급, 한정 | 혼 |
+| [링코](/ko/characters/linko/) | S급, 한정 | 령 |
+| [잔홍](/ko/characters/zankou/) | S급, 한정 | 주 |
+| [일로이](/ko/characters/iroi/) | S급, 한정 | 령 |
+| [신쿠](/ko/characters/shinku/) | S급, 한정 | 빛 |
+| [카오스](/ko/characters/chaos/) | S급, 한정 | 상 |
+| [라크리모사](/ko/characters/lacrimosa/) | S급, 한정 | 암 |
+| [호토리](/ko/characters/hotori/) | S급, 한정 | 빛 |
+| [나나리](/ko/characters/nanally/) | S급, 한정 | 령 |
+| [스키아](/ko/characters/skia/) | A급 | 상 |
+| [우미츠키](/ko/characters/aurelia/) | A급 | 혼 |
+| [하니엘](/ko/characters/haniel/) | A급 | 혼 |
+| [아들러](/ko/characters/adler/) | A급 | 주 |
+| [에드가](/ko/characters/edgar/) | A급 | 빛 |
+| [민트](/ko/characters/mint/) | A급 | 령 |
+| [구원](/ko/characters/jiuyuan/) | S급, 상시 | 령 |
+| [다포딜](/ko/characters/daffodill/) | S급, 상시 | 암 |
+| [파디아](/ko/characters/fadia/) | S급, 상시 | 혼 |
+| [하토르](/ko/characters/hathor/) | S급, 상시 | 상 |
+| [백장](/ko/characters/baicang/) | S급, 상시 | 주 |
+| [사키리](/ko/characters/sakiri/) | S급, 상시 | 주 |
+| [치즈](/ko/characters/chiz/) | S급 | 빛 |
+| [이능력자·제로](/ko/characters/zero/) | S급, 주인공 | 빛 |

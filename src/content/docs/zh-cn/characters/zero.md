@@ -5,6 +5,8 @@ aliases:
   - Esper Zero
   - Zero
   - 異能者·零
+  - 異能者・零
+  - 이능력자·제로
 appliesTo: Version 1.5, game data 1.5.4
 caveat: 零有男性与女性两种形态；选择会改变外观，官方公告将两者视为同一名角色「异能者·零」。
 effectiveDate: 2026-09-29
@@ -15,14 +17,34 @@ art:
 sources:
   - title: 1.1 版更新公告，2026-06-02
     url: https://nte.perfectworld.com/en/article/news/gamebroad/20260602/262479.html
+  - title: 1.1 版更新公告，2026-06-02（日文）
+    url: https://nte.perfectworld.com/jp/article/news/gamebroad/20260602/262474.html
+  - title: 1.1 版更新公告，2026-06-02（韩文）
+    url: https://nte.perfectworld.com/kr/article/news/gamebroad/20260602/262473.html
   - title: 1.2 版更新公告，2026-07-06
     url: https://nte.perfectworld.com/en/article/news/gamenews/20260706/263029.html
+  - title: 1.2 版更新公告，2026-07-06（日文）
+    url: https://nte.perfectworld.com/jp/article/news/gamenews/20260706/263026.html
+  - title: 1.2 版更新公告，2026-07-06（韩文）
+    url: https://nte.perfectworld.com/kr/article/news/gamenews/20260706/263025.html
   - title: 1.3 版更新公告，2026-08-18
     url: https://nte.perfectworld.com/en/article/news/gamenews/20260817/263605.html
+  - title: 1.3 版更新公告，2026-08-18（日文）
+    url: https://nte.perfectworld.com/jp/article/news/gamenews/20260817/263606.html
+  - title: 1.3 版更新公告，2026-08-18（韩文）
+    url: https://nte.perfectworld.com/kr/article/news/gamenews/20260817/263607.html
   - title: 1.4 版更新公告，2026-09-29
     url: https://nte.perfectworld.com/en/article/news/gamenews/20260929/264409.html
+  - title: 1.4 版更新公告，2026-09-29（日文）
+    url: https://nte.perfectworld.com/jp/article/news/gamenews/20260929/264412.html
+  - title: 1.4 版更新公告，2026-09-29（韩文）
+    url: https://nte.perfectworld.com/kr/article/news/gamenews/20260929/264413.html
   - title: 官方网站的角色介绍
     url: https://nte.perfectworld.com/en/main.html?nav=2&role=20
+  - title: 官方网站的角色介绍（日文）
+    url: https://nte.perfectworld.com/jp/main.html?nav=2&role=20
+  - title: 官方网站的角色介绍（韩文）
+    url: https://nte.perfectworld.com/kr/main.html?nav=2&role=20
   - title: Prydwen 的零角色页面（技能、属性、弧盘类型）
     url: https://www.prydwen.gg/neverness-to-everness/characters/zero
   - title: Game8 的零配装页面（交叉查证技能与属性）
@@ -31,6 +53,10 @@ sources:
     url: https://static.nanoka.cc/nte/1.5.4/en/character/1046.json
   - title: nanoka.cc 游戏资料 1.5.4，角色档案（中文）
     url: https://static.nanoka.cc/nte/1.5.4/zh/character/1046.json
+  - title: nanoka.cc 游戏资料 1.5.4，角色档案（日文）
+    url: https://static.nanoka.cc/nte/1.5.4/ja/character/1046.json
+  - title: nanoka.cc 游戏资料 1.5.4，角色档案（韩文）
+    url: https://static.nanoka.cc/nte/1.5.4/ko/character/1046.json
 ---
 
 ![男性形态的异能者·零官方角色图：银色短发的青年，身穿黑色外套、白色衬衫与紫色领带](/art/characters/zero.webp)

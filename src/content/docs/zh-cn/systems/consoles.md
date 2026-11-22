@@ -3,6 +3,8 @@ title: 空幕
 description: 空幕是角色的装备，由带套装效果的卡带与摆进格盘的驱动块组成。
 aliases:
   - 'Consoles: Cartridges and Modules'
+  - ギア：駆動コアと駆動ブロック
+  - '콘솔: 카트리지와 드라이브 모듈'
 appliesTo: 1.5 版，游戏资料 1.5.4
 lastVerified: 2026-11-21
 caveat: 卡带的套装效果只计算该卡带指定形状的驱动块；其他形状的四块驱动块不会启动套装。
@@ -11,6 +13,10 @@ sources:
     url: https://static.nanoka.cc/nte/1.5.4/en/console.json
   - title: nanoka.cc 游戏资料 1.5.4，空幕档案（中文）
     url: https://static.nanoka.cc/nte/1.5.4/zh/console.json
+  - title: nanoka.cc 游戏资料 1.5.4，空幕档案（日文）
+    url: https://static.nanoka.cc/nte/1.5.4/ja/console.json
+  - title: nanoka.cc 游戏资料 1.5.4，空幕档案（韩文）
+    url: https://static.nanoka.cc/nte/1.5.4/ko/console.json
   - title: Prydwen 的驱动块与卡带指南（英文）
     url: https://www.prydwen.gg/neverness-to-everness/guides/modules-generic
   - title: Prydwen 的卡带套装列表（英文）

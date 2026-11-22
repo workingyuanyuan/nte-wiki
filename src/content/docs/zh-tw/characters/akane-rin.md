@@ -4,6 +4,7 @@ description: 明音凜是 1.4 版加入的限定 S 級角色，屬性為相。
 aliases:
   - Akane Rin
   - 明音凛
+  - 아카네 린
 appliesTo: Version 1.5, game data 1.5.4
 caveat: '明音凜是限定角色：僅可在「燦爛的星」棋盤開放期間取得。該棋盤上一次開放已於 2026-11-11 05:59 (UTC+8) 結束。'
 effectiveDate: 2026-10-19
@@ -14,10 +15,22 @@ art:
 sources:
   - title: 2026-10-19 停服維護公告（1.4 版下半期，英文）
     url: https://nte.perfectworld.com/en/article/news/gamenews/20261019/264675.html
+  - title: 2026-10-19 停服維護公告（1.4 版下半期，日文）
+    url: https://nte.perfectworld.com/jp/article/news/gamenews/20261019/264678.html
+  - title: 2026-10-19 停服維護公告（1.4 版下半期，韓文）
+    url: https://nte.perfectworld.com/kr/article/news/gamenews/20261019/264679.html
   - title: 1.4 版更新公告（英文），2026-09-29
     url: https://nte.perfectworld.com/en/article/news/gamenews/20260929/264409.html
+  - title: 1.4 版更新公告（日文），2026-09-29
+    url: https://nte.perfectworld.com/jp/article/news/gamenews/20260929/264412.html
+  - title: 1.4 版更新公告（韓文），2026-09-29
+    url: https://nte.perfectworld.com/kr/article/news/gamenews/20260929/264413.html
   - title: 官方網站的角色介紹
     url: https://nte.perfectworld.com/en/main.html?nav=2&role=20
+  - title: 官方網站的角色介紹（日文）
+    url: https://nte.perfectworld.com/jp/main.html?nav=2&role=20
+  - title: 官方網站的角色介紹（韓文）
+    url: https://nte.perfectworld.com/kr/main.html?nav=2&role=20
   - title: Prydwen 的明音凜頁面（技能、屬性、弧盤類型）
     url: https://www.prydwen.gg/neverness-to-everness/characters/akane-rin
   - title: Game8 的明音凜配裝頁面（交叉查證技能與屬性）
@@ -26,6 +39,10 @@ sources:
     url: https://static.nanoka.cc/nte/1.5.4/en/character/1057.json
   - title: nanoka.cc 遊戲資料 1.5.4，角色檔案（中文）
     url: https://static.nanoka.cc/nte/1.5.4/zh/character/1057.json
+  - title: nanoka.cc 遊戲資料 1.5.4，角色檔案（日文）
+    url: https://static.nanoka.cc/nte/1.5.4/ja/character/1057.json
+  - title: nanoka.cc 遊戲資料 1.5.4，角色檔案（韓文）
+    url: https://static.nanoka.cc/nte/1.5.4/ko/character/1057.json
 ---
 
 ![明音凜的官方角色圖：金色長髮綁著側馬尾的少女，身穿白色短袖襯衫與藍色領帶](/art/characters/akane-rin.webp)

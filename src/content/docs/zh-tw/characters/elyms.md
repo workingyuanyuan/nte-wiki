@@ -4,6 +4,8 @@ description: 曳爾沐是 1.5 版加入的限定 S 級角色，屬性為光。
 aliases:
   - Elyms
   - 曳尔沐
+  - イェルム
+  - 엘림
 appliesTo: Version 1.5, game data 1.5.4
 caveat: '曳爾沐是限定角色：僅可在「電子人之夢」棋盤開放期間取得。當期棋盤將於 2026-12-02 05:59 (UTC+8) 結束。'
 effectiveDate: 2026-11-09
@@ -14,12 +16,20 @@ art:
 sources:
   - title: 1.5 版更新公告（英文），2026-11-09
     url: https://nte.perfectworld.com/en/article/news/gamenews/20261109/264948.html
+  - title: 1.5 版更新公告（日文），2026-11-09
+    url: https://nte.perfectworld.com/jp/article/news/gamenews/20261109/264951.html
+  - title: 1.5 版更新公告（韓文），2026-11-09
+    url: https://nte.perfectworld.com/kr/article/news/gamenews/20261109/264952.html
   - title: 官方網站首頁（角色標籤）
     url: https://nte.perfectworld.com/en/
   - title: 台港澳版 1.5 版上線新聞，2026-11-11
     url: https://nte.iwplay.com.tw/news/view/20261111/72bcf6d9.html
   - title: 官方網站的角色介紹
     url: https://nte.perfectworld.com/en/main.html?nav=2&role=20
+  - title: 官方網站的角色介紹（日文）
+    url: https://nte.perfectworld.com/jp/main.html?nav=2&role=20
+  - title: 官方網站的角色介紹（韓文）
+    url: https://nte.perfectworld.com/kr/main.html?nav=2&role=20
   - title: Prydwen 的曳爾沐頁面（技能、屬性、弧盤類型）
     url: https://www.prydwen.gg/neverness-to-everness/characters/elyms
   - title: Game8 的曳爾沐配裝頁面（交叉查證技能與屬性）
@@ -28,6 +38,10 @@ sources:
     url: https://static.nanoka.cc/nte/1.5.4/en/character/1090.json
   - title: nanoka.cc 遊戲資料 1.5.4，角色檔案（中文）
     url: https://static.nanoka.cc/nte/1.5.4/zh/character/1090.json
+  - title: nanoka.cc 遊戲資料 1.5.4，角色檔案（日文）
+    url: https://static.nanoka.cc/nte/1.5.4/ja/character/1090.json
+  - title: nanoka.cc 遊戲資料 1.5.4，角色檔案（韓文）
+    url: https://static.nanoka.cc/nte/1.5.4/ko/character/1090.json
 ---
 
 ![曳爾沐的官方角色圖：銀色長髮的少女，身穿白色外套與黑色手套，背景是城市](/art/characters/elyms.webp)

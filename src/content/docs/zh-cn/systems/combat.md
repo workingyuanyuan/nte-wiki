@@ -4,6 +4,8 @@ description: 《异环》计算伤害、暴击、倾陷与终结能量的规则�
 aliases:
   - Combat formulas
   - 戰鬥數值
+  - 戦闘の計算式
+  - 전투 공식
 appliesTo: 1.5 版，游戏资料 1.5.4
 lastVerified: 2026-11-21
 caveat: 倾陷不会让敌人承受更高伤害，而是使敌人暂时无法行动并触发一次倾陷伤害，由全队四名角色共同计算。
@@ -12,6 +14,10 @@ sources:
     url: https://static.nanoka.cc/nte/1.5.4/en/character/1003.json
   - title: nanoka.cc 游戏资料 1.5.4，角色档案（中文）
     url: https://static.nanoka.cc/nte/1.5.4/zh/character/1003.json
+  - title: nanoka.cc 游戏资料 1.5.4，角色档案（日文：基础暴击、终结能量消耗、角色标签）
+    url: https://static.nanoka.cc/nte/1.5.4/ja/character/1003.json
+  - title: nanoka.cc 游戏资料 1.5.4，角色档案（韩文：基础暴击、终结能量消耗、角色标签）
+    url: https://static.nanoka.cc/nte/1.5.4/ko/character/1003.json
   - title: 零号攻略组，伤害乘区解析影片，Bilibili（简体中文，2026-06-21）
     url: https://www.bilibili.com/video/BV13ijt6gEF4/
   - title: NGA 论坛玩家分析：伤害与异能环合机制（简体中文，2026-11-21 读取）

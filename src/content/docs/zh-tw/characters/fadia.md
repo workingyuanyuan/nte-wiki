@@ -4,6 +4,8 @@ description: 法帝婭是常駐 S 級角色，屬性為魂。
 aliases:
   - Fadia
   - 法帝娅
+  - ファルディーヤ
+  - 파디아
 appliesTo: Version 1.5, game data 1.5.4
 caveat: 法帝婭是常駐角色，不是限定角色：透過「S 級常駐角色自選箱」可直接選擇法帝婭。
 effectiveDate: 2026-09-29
@@ -14,10 +16,22 @@ art:
 sources:
   - title: 1.2 版更新公告，2026-07-06
     url: https://nte.perfectworld.com/en/article/news/gamenews/20260706/263029.html
+  - title: 1.2 版更新公告，2026-07-06（日文）
+    url: https://nte.perfectworld.com/jp/article/news/gamenews/20260706/263026.html
+  - title: 1.2 版更新公告，2026-07-06（韓文）
+    url: https://nte.perfectworld.com/kr/article/news/gamenews/20260706/263025.html
   - title: 1.4 版更新公告，2026-09-29
     url: https://nte.perfectworld.com/en/article/news/gamenews/20260929/264409.html
+  - title: 1.4 版更新公告，2026-09-29（日文）
+    url: https://nte.perfectworld.com/jp/article/news/gamenews/20260929/264412.html
+  - title: 1.4 版更新公告，2026-09-29（韓文）
+    url: https://nte.perfectworld.com/kr/article/news/gamenews/20260929/264413.html
   - title: 官方網站的角色介紹
     url: https://nte.perfectworld.com/en/main.html?nav=2&role=20
+  - title: 官方網站的角色介紹（日文）
+    url: https://nte.perfectworld.com/jp/main.html?nav=2&role=20
+  - title: 官方網站的角色介紹（韓文）
+    url: https://nte.perfectworld.com/kr/main.html?nav=2&role=20
   - title: Prydwen 的法帝婭角色頁面（技能、屬性、弧盤類型）
     url: https://www.prydwen.gg/neverness-to-everness/characters/fadia
   - title: Game8 的法帝婭配裝頁面（交叉查證技能與屬性）
@@ -26,6 +40,10 @@ sources:
     url: https://static.nanoka.cc/nte/1.5.4/en/character/1039.json
   - title: nanoka.cc 遊戲資料 1.5.4，角色檔案（中文）
     url: https://static.nanoka.cc/nte/1.5.4/zh/character/1039.json
+  - title: nanoka.cc 遊戲資料 1.5.4，角色檔案（日文）
+    url: https://static.nanoka.cc/nte/1.5.4/ja/character/1039.json
+  - title: nanoka.cc 遊戲資料 1.5.4，角色檔案（韓文）
+    url: https://static.nanoka.cc/nte/1.5.4/ko/character/1039.json
 ---
 
 ![法帝婭的官方角色圖：留著紫色長髮、身穿深色洋裝的女子](/art/characters/fadia.webp)
@@ -89,6 +107,8 @@ sources:
 | 愛與死的使徒 | 「變軌技能：存在證明的體驗」可為範圍內最多10個目標施加「破滅體驗」，每個目標單獨計算「破滅體驗」持續時間及通過「破滅體驗」所承受的傷害上限。 |
 | 共鳴 3：不敬的「聖潔」之人 | 「普通攻擊：話語中斷的否定」「變軌技能：存在證明的體驗」「極軌終結：痛苦讓位於狂喜」的技能等級提升1級。 |
 | 共鳴 6：歸一的「聖潔」之人 | 當法帝婭在隊伍中時，全隊獲得10%最大生命值提升。 |
+
+共鳴 6 的英文遊戲文字寫作攻擊力 10%，中文、日文與韓文遊戲文字寫作最大生命值 10%。
 
 ## 技能倍率
 

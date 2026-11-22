@@ -4,6 +4,8 @@ description: Hathor is a standard S-Class character of the Lakshana attribute.
 aliases:
   - 哈索爾
   - 哈索尔
+  - ハソール
+  - 하토르
 appliesTo: Version 1.5, game data 1.5.4
 caveat: 'Hathor is a standard character, not a limited one: the S-Class Standard Character Selection Box lets a player pick Hathor directly.'
 effectiveDate: 2026-09-29
@@ -14,10 +16,22 @@ art:
 sources:
   - title: Version 1.2 patch notes, 2026-07-06
     url: https://nte.perfectworld.com/en/article/news/gamenews/20260706/263029.html
+  - title: Version 1.2 patch notes, 2026-07-06 (Japanese)
+    url: https://nte.perfectworld.com/jp/article/news/gamenews/20260706/263026.html
+  - title: Version 1.2 patch notes, 2026-07-06 (Korean)
+    url: https://nte.perfectworld.com/kr/article/news/gamenews/20260706/263025.html
   - title: Version 1.4 patch notes, 2026-09-29
     url: https://nte.perfectworld.com/en/article/news/gamenews/20260929/264409.html
+  - title: Version 1.4 patch notes, 2026-09-29 (Japanese)
+    url: https://nte.perfectworld.com/jp/article/news/gamenews/20260929/264412.html
+  - title: Version 1.4 patch notes, 2026-09-29 (Korean)
+    url: https://nte.perfectworld.com/kr/article/news/gamenews/20260929/264413.html
   - title: Character profiles on the official site
     url: https://nte.perfectworld.com/en/main.html?nav=2&role=20
+  - title: Character profiles on the official site (Japanese)
+    url: https://nte.perfectworld.com/jp/main.html?nav=2&role=20
+  - title: Character profiles on the official site (Korean)
+    url: https://nte.perfectworld.com/kr/main.html?nav=2&role=20
   - title: Prydwen, Hathor character page (skills, attribute, Arc type)
     url: https://www.prydwen.gg/neverness-to-everness/characters/hathor
   - title: Game8, Hathor build page (cross-check of skills and attribute)
@@ -26,6 +40,10 @@ sources:
     url: https://static.nanoka.cc/nte/1.5.4/en/character/1025.json
   - title: nanoka.cc game data 1.5.4, character file in Chinese
     url: https://static.nanoka.cc/nte/1.5.4/zh/character/1025.json
+  - title: nanoka.cc game data 1.5.4, character file in Japanese
+    url: https://static.nanoka.cc/nte/1.5.4/ja/character/1025.json
+  - title: nanoka.cc game data 1.5.4, character file in Korean
+    url: https://static.nanoka.cc/nte/1.5.4/ko/character/1025.json
 ---
 
 ![Hathor, official character art: a woman with long silver hair and white feathered wings in a white and black outfit](/art/characters/hathor.webp)

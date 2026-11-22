@@ -4,6 +4,8 @@ description: 角色等級、突破、技能、弧盤與空幕所需的材料及�
 aliases:
   - Progression materials
   - 养成材料
+  - 育成素材
+  - 육성 재료
 appliesTo: 1.5 版，遊戲資料 1.5.4
 lastVerified: 2026-11-19
 caveat: 每名角色突破時使用一個異象掉落系列與一種異象追獵材料，升級技能時使用一個胡迪尼的詭計舞台系列與一種異象巡禮材料；各表列出對應角色。
@@ -12,14 +14,26 @@ sources:
     url: https://static.nanoka.cc/nte/1.5.4/en/item.json
   - title: nanoka.cc 遊戲資料 1.5.4，道具（中文）
     url: https://static.nanoka.cc/nte/1.5.4/zh/item.json
+  - title: nanoka.cc 遊戲資料 1.5.4，道具（日文）
+    url: https://static.nanoka.cc/nte/1.5.4/ja/item.json
+  - title: nanoka.cc 遊戲資料 1.5.4，道具（韓文）
+    url: https://static.nanoka.cc/nte/1.5.4/ko/item.json
   - title: nanoka.cc 遊戲資料 1.5.4，角色檔案（突破與技能消耗）
     url: https://static.nanoka.cc/nte/1.5.4/en/character/1003.json
+  - title: nanoka.cc 遊戲資料 1.5.4，角色檔案（突破與技能消耗，日文）
+    url: https://static.nanoka.cc/nte/1.5.4/ja/character/1003.json
+  - title: nanoka.cc 遊戲資料 1.5.4，角色檔案（突破與技能消耗，韓文）
+    url: https://static.nanoka.cc/nte/1.5.4/ko/character/1003.json
   - title: mysqil（環世全鑑）的材料資料庫（簡體中文）
     url: https://wiki.mysqil.com/database
   - title: Prydwen 的角色養成指南（英文）
     url: https://www.prydwen.gg/neverness-to-everness/guides/character-progression
   - title: 1.5 版更新公告，2026-11-09（異象巡禮「Amber Broodmother」，英文）
     url: https://nte.perfectworld.com/en/article/news/gamenews/20261109/264948.html
+  - title: 1.5 版更新公告，2026-11-09（異象巡禮「Amber Broodmother」，日文）
+    url: https://nte.perfectworld.com/jp/article/news/gamenews/20261109/264951.html
+  - title: 1.5 版更新公告，2026-11-09（異象巡禮「Amber Broodmother」，韓文）
+    url: https://nte.perfectworld.com/kr/article/news/gamenews/20261109/264952.html
 ---
 
 ## 等級

@@ -3,6 +3,7 @@ title: 海月
 description: 海月是魂屬性的 A 級角色，可在限定棋盤中取得。
 aliases:
   - Aurelia
+  - 우미츠키
 appliesTo: Version 1.5, game data 1.5.4
 caveat: 1.5 版的兩個限定棋盤皆不包含海月，兩者都只收錄薄荷、埃德嘉與阿德勒。最後一個收錄海月的棋盤已於 2026-11-11 05:59 (UTC+8) 結束。
 effectiveDate: 2026-10-19
@@ -10,8 +11,16 @@ lastVerified: 2026-11-22
 sources:
   - title: 2026-09-08 停服維護公告（1.3 版下半）
     url: https://nte.perfectworld.com/en/article/news/gamenews/20260908/263947.html
+  - title: 2026-09-08 停服維護公告（1.3 版下半，日文）
+    url: https://nte.perfectworld.com/jp/article/news/gamenews/20260908/263946.html
+  - title: 2026-09-08 停服維護公告（1.3 版下半，韓文）
+    url: https://nte.perfectworld.com/kr/article/news/gamenews/20260908/263945.html
   - title: 2026-10-19 停服維護公告（1.4 版下半）
     url: https://nte.perfectworld.com/en/article/news/gamenews/20261019/264675.html
+  - title: 2026-10-19 停服維護公告（1.4 版下半，日文）
+    url: https://nte.perfectworld.com/jp/article/news/gamenews/20261019/264678.html
+  - title: 2026-10-19 停服維護公告（1.4 版下半，韓文）
+    url: https://nte.perfectworld.com/kr/article/news/gamenews/20261019/264679.html
   - title: Prydwen 的海月角色頁面（技能、屬性、弧盤類型）
     url: https://www.prydwen.gg/neverness-to-everness/characters/aurelia
   - title: Game8 的海月配裝頁面（交叉查證技能與屬性）
@@ -20,6 +29,10 @@ sources:
     url: https://static.nanoka.cc/nte/1.5.4/en/character/1070.json
   - title: nanoka.cc 遊戲資料 1.5.4，角色檔案（中文）
     url: https://static.nanoka.cc/nte/1.5.4/zh/character/1070.json
+  - title: nanoka.cc 遊戲資料 1.5.4，角色檔案（日文）
+    url: https://static.nanoka.cc/nte/1.5.4/ja/character/1070.json
+  - title: nanoka.cc 遊戲資料 1.5.4，角色檔案（韓文）
+    url: https://static.nanoka.cc/nte/1.5.4/ko/character/1070.json
 ---
 
 ## 角色資料

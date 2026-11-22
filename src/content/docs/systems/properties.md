@@ -4,6 +4,8 @@ description: Seven properties can be bought with Fons; each holds a set of Anoma
 aliases:
   - 房產與異象家具
   - 房产与异象家具
+  - 物件と異象家具
+  - 부동산과 이상 가구
 appliesTo: Version 1.5, game data 1.5.4
 lastVerified: 2026-11-19
 caveat: The properties hold different Anomaly Furniture; only Coocoo Alert, Unknown Caller and Mechanic are in all seven.
@@ -12,14 +14,26 @@ sources:
     url: https://static.nanoka.cc/nte/1.5.4/en/home.json
   - title: nanoka.cc game data 1.5.4, properties in Chinese
     url: https://static.nanoka.cc/nte/1.5.4/zh/home.json
+  - title: nanoka.cc game data 1.5.4, properties in Japanese
+    url: https://static.nanoka.cc/nte/1.5.4/ja/home.json
+  - title: nanoka.cc game data 1.5.4, properties in Korean
+    url: https://static.nanoka.cc/nte/1.5.4/ko/home.json
   - title: mysqil (环世全鉴), property page in Simplified Chinese
     url: https://wiki.mysqil.com/property
   - title: Everness Database, Anomaly Furniture
     url: https://everness.info/en/anomaly-furniture
   - title: Version 1.1 update notes, 2026-06-02 (Pegasus Residence)
     url: https://nte.perfectworld.com/en/article/news/gamebroad/20260602/262479.html
+  - title: Version 1.1 update notes, 2026-06-02 (Pegasus Residence, Japanese)
+    url: https://nte.perfectworld.com/jp/article/news/gamebroad/20260602/262474.html
+  - title: Version 1.1 update notes, 2026-06-02 (Pegasus Residence, Korean)
+    url: https://nte.perfectworld.com/kr/article/news/gamebroad/20260602/262473.html
   - title: Version 1.3 patch notes, 2026-08-17 (Stillmeadow House)
     url: https://nte.perfectworld.com/en/article/news/gamenews/20260817/263605.html
+  - title: Version 1.3 patch notes, 2026-08-17 (Stillmeadow House, Japanese)
+    url: https://nte.perfectworld.com/jp/article/news/gamenews/20260817/263606.html
+  - title: Version 1.3 patch notes, 2026-08-17 (Stillmeadow House, Korean)
+    url: https://nte.perfectworld.com/kr/article/news/gamenews/20260817/263607.html
 ---
 
 ## Properties

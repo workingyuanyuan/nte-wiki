@@ -4,6 +4,8 @@ description: How fishing (Sea Angler) and the Bagel social app work in NTE, and 
 aliases:
   - 海上釣客與唄果
   - 海上钓客与呗果
+  - 海釣りとベーグル
+  - 바다 낚시꾼과 베이글
 appliesTo: Version 1.5
 lastVerified: 2026-11-21
 caveat: The Fish Market's higher prices apply only to the three featured fish of the day; other fish sell at the normal price.
@@ -22,6 +24,10 @@ sources:
     url: https://bbs.nga.cn/read.php?tid=46921946
   - title: nanoka.cc game data 1.5.4, items in Chinese (Scale Coins)
     url: https://static.nanoka.cc/nte/1.5.4/zh/item.json
+  - title: nanoka.cc game data 1.5.4, items in Japanese (Scale Coins)
+    url: https://static.nanoka.cc/nte/1.5.4/ja/item.json
+  - title: nanoka.cc game data 1.5.4, items in Korean (Scale Coins)
+    url: https://static.nanoka.cc/nte/1.5.4/ko/item.json
 ---
 
 ## Sea Angler

@@ -4,6 +4,8 @@ description: Materials for character levels, ascension, skills, Arcs and Console
 aliases:
   - 養成材料
   - 养成材料
+  - 育成素材
+  - 육성 재료
 appliesTo: Version 1.5, game data 1.5.4
 lastVerified: 2026-11-19
 caveat: Each character ascends with one Anomaly drop line and one Anomaly Hunt material, and upgrades skills with one Houdinii's Schemes line and one Anomaly Pilgrimage material; the tables name which.
@@ -12,14 +14,26 @@ sources:
     url: https://static.nanoka.cc/nte/1.5.4/en/item.json
   - title: nanoka.cc game data 1.5.4, items in Chinese
     url: https://static.nanoka.cc/nte/1.5.4/zh/item.json
+  - title: nanoka.cc game data 1.5.4, items in Japanese
+    url: https://static.nanoka.cc/nte/1.5.4/ja/item.json
+  - title: nanoka.cc game data 1.5.4, items in Korean
+    url: https://static.nanoka.cc/nte/1.5.4/ko/item.json
   - title: nanoka.cc game data 1.5.4, character files (ascension and skill costs)
     url: https://static.nanoka.cc/nte/1.5.4/en/character/1003.json
+  - title: nanoka.cc game data 1.5.4, character files (ascension and skill costs, Japanese)
+    url: https://static.nanoka.cc/nte/1.5.4/ja/character/1003.json
+  - title: nanoka.cc game data 1.5.4, character files (ascension and skill costs, Korean)
+    url: https://static.nanoka.cc/nte/1.5.4/ko/character/1003.json
   - title: mysqil (环世全鉴), materials database in Simplified Chinese
     url: https://wiki.mysqil.com/database
   - title: Prydwen, Character Progression guide
     url: https://www.prydwen.gg/neverness-to-everness/guides/character-progression
   - title: Version 1.5 patch notes, 2026-11-09 (Anomaly Pilgrimage "Amber Broodmother")
     url: https://nte.perfectworld.com/en/article/news/gamenews/20261109/264948.html
+  - title: Version 1.5 patch notes, 2026-11-09 (Anomaly Pilgrimage "Amber Broodmother", Japanese)
+    url: https://nte.perfectworld.com/jp/article/news/gamenews/20261109/264951.html
+  - title: Version 1.5 patch notes, 2026-11-09 (Anomaly Pilgrimage "Amber Broodmother", Korean)
+    url: https://nte.perfectworld.com/kr/article/news/gamenews/20261109/264952.html
 ---
 
 ## Levels

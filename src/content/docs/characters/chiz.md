@@ -3,6 +3,8 @@ title: Chiz
 description: Chiz is a free S-Class character of the Cosmos attribute.
 aliases:
   - 小吱
+  - ちぃちゃん
+  - 치즈
 appliesTo: Version 1.5, game data 1.5.4
 caveat: Chiz is not on a Limited Board. She is obtained through City Tycoon, which is described by guide sites and not by the official notes.
 effectiveDate: 2026-06-02
@@ -13,6 +15,10 @@ art:
 sources:
   - title: Character profiles on the official site
     url: https://nte.perfectworld.com/en/main.html?nav=2&role=20
+  - title: Character profiles on the official site (Japanese)
+    url: https://nte.perfectworld.com/jp/main.html?nav=2&role=20
+  - title: Character profiles on the official site (Korean)
+    url: https://nte.perfectworld.com/kr/main.html?nav=2&role=20
   - title: Prydwen, Chiz character page (skills, attribute, Arc type)
     url: https://www.prydwen.gg/neverness-to-everness/characters/chiz
   - title: Game8, Chiz build page (cross-check of skills and attribute)
@@ -21,6 +27,10 @@ sources:
     url: https://static.nanoka.cc/nte/1.5.4/en/character/1073.json
   - title: nanoka.cc game data 1.5.4, character file in Chinese
     url: https://static.nanoka.cc/nte/1.5.4/zh/character/1073.json
+  - title: nanoka.cc game data 1.5.4, character file in Japanese
+    url: https://static.nanoka.cc/nte/1.5.4/ja/character/1073.json
+  - title: nanoka.cc game data 1.5.4, character file in Korean
+    url: https://static.nanoka.cc/nte/1.5.4/ko/character/1073.json
 ---
 
 ![Chiz, official character art: a girl with pink hair in buns, in a pink and white uniform dress](/art/characters/chiz.webp)

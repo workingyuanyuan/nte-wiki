@@ -15,12 +15,13 @@ const t = LABELS[localeOf(id).lang];
 const hasFacts = Boolean(data.lastVerified && data.sources);
 // A pointer for agents that read the HTML. It is hidden from sighted readers with a
 // CSS class (not `hidden` or `aria-hidden`, which extractors treat as "drop this").
-const zh = localeOf(id).lang !== 'en';
+// Chinese and Japanese take full-width punctuation; English and Korean take Western punctuation.
+const zh = ['zh-TW', 'zh-CN', 'ja'].includes(localeOf(id).lang);
 const sep = zh ? '：' : ': ';
 const agentNote = hasFacts
 	? zh
-		? `${t.appliesTo}：${data.appliesTo}。${t.caveat}：${data.caveat} Markdown：${SITE}${mdPath(id)} 。所有頁面：${SITE}${llmsPath(localeOf(id))} 、${SITE}/index.json 。`
-		: `${t.appliesTo}: ${data.appliesTo}. ${t.caveat}: ${data.caveat} Markdown: ${SITE}${mdPath(id)} . All pages: ${SITE}${llmsPath(localeOf(id))} , ${SITE}/index.json .`
+		? `${t.appliesTo}：${data.appliesTo}。${t.caveat}：${data.caveat} Markdown：${SITE}${mdPath(id)} 。${t.allPages}：${SITE}${llmsPath(localeOf(id))} 、${SITE}/index.json 。`
+		: `${t.appliesTo}: ${data.appliesTo}. ${t.caveat}: ${data.caveat} Markdown: ${SITE}${mdPath(id)} . ${t.allPages}: ${SITE}${llmsPath(localeOf(id))} , ${SITE}/index.json .`
 	: '';
 ---
 

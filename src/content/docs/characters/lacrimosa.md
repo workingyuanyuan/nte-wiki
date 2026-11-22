@@ -3,6 +3,8 @@ title: Lacrimosa
 description: Lacrimosa is a limited S-Class character of the Chaos attribute, added in Version 1.1.
 aliases:
   - 安魂曲
+  - レクイエム
+  - 라크리모사
 appliesTo: Version 1.5, game data 1.5.4
 caveat: 'Lacrimosa is limited: obtainable only while the "Fading Reverie" Board is open. It last closed on 2026-10-21 at 05:59 (UTC+8).'
 effectiveDate: 2026-09-29
@@ -13,10 +15,22 @@ art:
 sources:
   - title: Version 1.1 update notes, 2026-06-02
     url: https://nte.perfectworld.com/en/article/news/gamebroad/20260602/262479.html
+  - title: Version 1.1 update notes, 2026-06-02 (Japanese)
+    url: https://nte.perfectworld.com/jp/article/news/gamebroad/20260602/262474.html
+  - title: Version 1.1 update notes, 2026-06-02 (Korean)
+    url: https://nte.perfectworld.com/kr/article/news/gamebroad/20260602/262473.html
   - title: Version 1.4 patch notes, 2026-09-29
     url: https://nte.perfectworld.com/en/article/news/gamenews/20260929/264409.html
+  - title: Version 1.4 patch notes, 2026-09-29 (Japanese)
+    url: https://nte.perfectworld.com/jp/article/news/gamenews/20260929/264412.html
+  - title: Version 1.4 patch notes, 2026-09-29 (Korean)
+    url: https://nte.perfectworld.com/kr/article/news/gamenews/20260929/264413.html
   - title: Character profiles on the official site
     url: https://nte.perfectworld.com/en/main.html?nav=2&role=20
+  - title: Character profiles on the official site (Japanese)
+    url: https://nte.perfectworld.com/jp/main.html?nav=2&role=20
+  - title: Character profiles on the official site (Korean)
+    url: https://nte.perfectworld.com/kr/main.html?nav=2&role=20
   - title: Prydwen, Lacrimosa character page (skills, attribute, Arc type)
     url: https://www.prydwen.gg/neverness-to-everness/characters/lacrimosa
   - title: Game8, Lacrimosa build page (cross-check of skills and attribute)
@@ -25,6 +39,10 @@ sources:
     url: https://static.nanoka.cc/nte/1.5.4/en/character/1004.json
   - title: nanoka.cc game data 1.5.4, character file in Chinese
     url: https://static.nanoka.cc/nte/1.5.4/zh/character/1004.json
+  - title: nanoka.cc game data 1.5.4, character file in Japanese
+    url: https://static.nanoka.cc/nte/1.5.4/ja/character/1004.json
+  - title: nanoka.cc game data 1.5.4, character file in Korean
+    url: https://static.nanoka.cc/nte/1.5.4/ko/character/1004.json
 ---
 
 ![Lacrimosa, official character art: a girl with black-and-white hair, her eyes closed, in a red jacket and a black skirt](/art/characters/lacrimosa.webp)

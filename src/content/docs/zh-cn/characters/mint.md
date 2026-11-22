@@ -3,6 +3,8 @@ title: 薄荷
 description: 薄荷是灵属性的 A 级角色，可在限定棋盘中取得。
 aliases:
   - Mint
+  - ミント
+  - 민트
 appliesTo: Version 1.5, game data 1.5.4
 caveat: 薄荷同时出现在 1.5 版的两个限定棋盘中，两者皆于 2026-12-02 05:59 (UTC+8) 结束。
 effectiveDate: 2026-11-09
@@ -13,14 +15,34 @@ art:
 sources:
   - title: 1.4 版更新公告，2026-09-29
     url: https://nte.perfectworld.com/en/article/news/gamenews/20260929/264409.html
+  - title: 1.4 版更新公告，2026-09-29（日文）
+    url: https://nte.perfectworld.com/jp/article/news/gamenews/20260929/264412.html
+  - title: 1.4 版更新公告，2026-09-29（韩文）
+    url: https://nte.perfectworld.com/kr/article/news/gamenews/20260929/264413.html
   - title: 1.5 版更新公告，2026-11-09
     url: https://nte.perfectworld.com/en/article/news/gamenews/20261109/264948.html
+  - title: 1.5 版更新公告，2026-11-09（日文）
+    url: https://nte.perfectworld.com/jp/article/news/gamenews/20261109/264951.html
+  - title: 1.5 版更新公告，2026-11-09（韩文）
+    url: https://nte.perfectworld.com/kr/article/news/gamenews/20261109/264952.html
   - title: 1.2 版更新公告，2026-07-06
     url: https://nte.perfectworld.com/en/article/news/gamenews/20260706/263029.html
+  - title: 1.2 版更新公告，2026-07-06（日文）
+    url: https://nte.perfectworld.com/jp/article/news/gamenews/20260706/263026.html
+  - title: 1.2 版更新公告，2026-07-06（韩文）
+    url: https://nte.perfectworld.com/kr/article/news/gamenews/20260706/263025.html
   - title: 1.3 版更新公告，2026-08-18
     url: https://nte.perfectworld.com/en/article/news/gamenews/20260817/263605.html
+  - title: 1.3 版更新公告，2026-08-18（日文）
+    url: https://nte.perfectworld.com/jp/article/news/gamenews/20260817/263606.html
+  - title: 1.3 版更新公告，2026-08-18（韩文）
+    url: https://nte.perfectworld.com/kr/article/news/gamenews/20260817/263607.html
   - title: 官方网站的角色介绍
     url: https://nte.perfectworld.com/en/main.html?nav=2&role=20
+  - title: 官方网站的角色介绍（日文）
+    url: https://nte.perfectworld.com/jp/main.html?nav=2&role=20
+  - title: 官方网站的角色介绍（韩文）
+    url: https://nte.perfectworld.com/kr/main.html?nav=2&role=20
   - title: Prydwen 的薄荷角色页面（技能、属性、弧盘类型）
     url: https://www.prydwen.gg/neverness-to-everness/characters/mint
   - title: Game8 的薄荷配装页面（交叉查证技能与属性）
@@ -29,6 +51,10 @@ sources:
     url: https://static.nanoka.cc/nte/1.5.4/en/character/1019.json
   - title: nanoka.cc 游戏资料 1.5.4，角色档案（中文）
     url: https://static.nanoka.cc/nte/1.5.4/zh/character/1019.json
+  - title: nanoka.cc 游戏资料 1.5.4，角色档案（日文）
+    url: https://static.nanoka.cc/nte/1.5.4/ja/character/1019.json
+  - title: nanoka.cc 游戏资料 1.5.4，角色档案（韩文）
+    url: https://static.nanoka.cc/nte/1.5.4/ko/character/1019.json
 ---
 
 ![薄荷的官方角色图：拥有猫耳与青绿色长发的少女，身穿白色衬衫与黑色马甲](/art/characters/mint.webp)

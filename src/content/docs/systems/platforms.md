@@ -4,6 +4,8 @@ description: NTE runs on PC, Mac, iOS, Android and PlayStation 5, with progress 
 aliases:
   - 平台與伺服器
   - 平台与服务器
+  - プラットフォームとサーバー
+  - 플랫폼과 서버
 appliesTo: Global service, official notices of 2026-02-26 to 2026-07-08
 caveat: Progress is shared between platforms only on the same server and the same login. The four servers are independent, and accounts made with different third-party logins are separate.
 effectiveDate: 2026-07-08
@@ -11,14 +13,34 @@ lastVerified: 2026-11-18
 sources:
   - title: Official launch FAQ, 2026-04-27
     url: https://nte.perfectworld.com/en/article/news/gamebroad/20260426/261931.html
+  - title: Official launch FAQ, 2026-04-27 (Japanese)
+    url: https://nte.perfectworld.com/jp/article/news/gamebroad/20260427/261937.html
+  - title: Official launch FAQ, 2026-04-27 (Korean)
+    url: https://nte.perfectworld.com/kr/article/news/gamebroad/20260426/261934.html
   - title: Pre-download notice, 2026-04-26
     url: https://nte.perfectworld.com/en/article/news/gamenews/20260424/261919.html
+  - title: Pre-download notice, 2026-04-26 (Japanese)
+    url: https://nte.perfectworld.com/jp/article/news/gamenews/20260424/261922.html
+  - title: Pre-download notice, 2026-04-26 (Korean)
+    url: https://nte.perfectworld.com/kr/article/news/gamenews/20260424/261923.html
   - title: Official launch date notice, 2026-02-26
     url: https://nte.perfectworld.com/en/article/news/gamenews/20260226/261061.html
+  - title: Official launch date notice, 2026-02-26 (Japanese)
+    url: https://nte.perfectworld.com/jp/article/news/gamenews/20260226/261062.html
+  - title: Official launch date notice, 2026-02-26 (Korean)
+    url: https://nte.perfectworld.com/kr/article/news/gamenews/20260226/261063.html
   - title: Steam, Epic and Samsung Galaxy Store launch FAQ, 2026-07-08
     url: https://nte.perfectworld.com/en/article/news/gamenews/20260708/263057.html
+  - title: Steam, Epic and Samsung Galaxy Store launch FAQ, 2026-07-08 (Japanese)
+    url: https://nte.perfectworld.com/jp/article/news/gamenews/20260708/263054.html
+  - title: Steam, Epic and Samsung Galaxy Store launch FAQ, 2026-07-08 (Korean)
+    url: https://nte.perfectworld.com/kr/article/news/gamenews/20260708/263051.html
   - title: Version 1.5 patch notes, 2026-11-09 (how to update)
     url: https://nte.perfectworld.com/en/article/news/gamenews/20261109/264948.html
+  - title: Version 1.5 patch notes, 2026-11-09 (how to update, Japanese)
+    url: https://nte.perfectworld.com/jp/article/news/gamenews/20261109/264951.html
+  - title: Version 1.5 patch notes, 2026-11-09 (how to update, Korean)
+    url: https://nte.perfectworld.com/kr/article/news/gamenews/20261109/264952.html
 ---
 
 ## Platforms

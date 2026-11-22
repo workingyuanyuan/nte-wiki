@@ -4,6 +4,8 @@ description: 《异环》钓鱼玩法「海上钓客」与游戏内社群应用�
 aliases:
   - Sea Angler and Bagel
   - 海上釣客與唄果
+  - 海釣りとベーグル
+  - 바다 낚시꾼과 베이글
 appliesTo: 1.5 版
 lastVerified: 2026-11-21
 caveat: 渔获市场的高价只适用于当日三种特选鱼种，其余鱼种仍以原价收购。
@@ -22,6 +24,10 @@ sources:
     url: https://bbs.nga.cn/read.php?tid=46921946
   - title: nanoka.cc 游戏资料 1.5.4，道具档案（中文：鱼鳞币）
     url: https://static.nanoka.cc/nte/1.5.4/zh/item.json
+  - title: nanoka.cc 游戏资料 1.5.4，道具档案（日文：鱼鳞币）
+    url: https://static.nanoka.cc/nte/1.5.4/ja/item.json
+  - title: nanoka.cc 游戏资料 1.5.4，道具档案（韩文：鱼鳞币）
+    url: https://static.nanoka.cc/nte/1.5.4/ko/item.json
 ---
 
 ## 海上钓客

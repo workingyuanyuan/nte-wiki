@@ -4,6 +4,8 @@ description: Esper Cycles are reactions between adjacent attributes, triggered w
 aliases:
   - 異能環合
   - 异能环合
+  - 異能連環
+  - 에스퍼 사이클
 appliesTo: Version 1.5, game data 1.5.4
 lastVerified: 2026-11-21
 caveat: Charge and Discord are not set off by a switch of their own. They happen when a target already carries two reactions, Blossom on a target in Remora, or Nova and Scorch together.
@@ -16,6 +18,10 @@ sources:
     url: https://static.nanoka.cc/nte/1.5.4/en/character/1003.json
   - title: nanoka.cc game data 1.5.4, character files (passive texts in Chinese)
     url: https://static.nanoka.cc/nte/1.5.4/zh/character/1003.json
+  - title: nanoka.cc game data 1.5.4, character files (passive texts in Japanese)
+    url: https://static.nanoka.cc/nte/1.5.4/ja/character/1003.json
+  - title: nanoka.cc game data 1.5.4, character files (passive texts in Korean)
+    url: https://static.nanoka.cc/nte/1.5.4/ko/character/1003.json
   - title: GameWith, Cycle Intensity guide
     url: https://gamewith.net/nte/76296
   - title: NGA forum, player analysis of damage and Esper Cycle mechanics, in Simplified Chinese (read 2026-11-21)

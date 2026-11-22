@@ -4,6 +4,8 @@ description: How NTE calculates damage, critical hits, Break and Ultimate Energy
 aliases:
   - 戰鬥數值
   - 战斗数值
+  - 戦闘の計算式
+  - 전투 공식
 appliesTo: Version 1.5, game data 1.5.4
 lastVerified: 2026-11-21
 caveat: Break does not make the enemy take more damage. It stops the enemy for a while and deals one Break Damage hit, worked out from all four party members.
@@ -12,6 +14,10 @@ sources:
     url: https://static.nanoka.cc/nte/1.5.4/en/character/1003.json
   - title: nanoka.cc game data 1.5.4, character files in Chinese
     url: https://static.nanoka.cc/nte/1.5.4/zh/character/1003.json
+  - title: nanoka.cc game data 1.5.4, character files in Japanese (base Crit, Ultimate Energy cost, role tags)
+    url: https://static.nanoka.cc/nte/1.5.4/ja/character/1003.json
+  - title: nanoka.cc game data 1.5.4, character files in Korean (base Crit, Ultimate Energy cost, role tags)
+    url: https://static.nanoka.cc/nte/1.5.4/ko/character/1003.json
   - title: 零号攻略组, video on damage multipliers, Bilibili, in Simplified Chinese (2026-06-21)
     url: https://www.bilibili.com/video/BV13ijt6gEF4/
   - title: NGA forum, player analysis of damage and Esper Cycle mechanics, in Simplified Chinese (read 2026-11-21)

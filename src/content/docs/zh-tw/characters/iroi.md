@@ -3,6 +3,8 @@ title: 伊洛伊
 description: 伊洛伊是 1.2 版加入的靈屬性限定 S 級角色。
 aliases:
   - Iroi
+  - イロヒ
+  - 일로이
 appliesTo: Version 1.5, game data 1.5.4
 caveat: 伊洛伊是限定角色，只能在「生命線」限定棋盤開放期間取得。最近一次開放已於 2026-08-19 05:59 (UTC+8) 結束。
 effectiveDate: 2026-07-28
@@ -13,8 +15,16 @@ art:
 sources:
   - title: 2026-07-28 維護公告（1.2 版下半）
     url: https://nte.perfectworld.com/en/article/news/gamenews/20260728/263296.html
+  - title: 2026-07-28 維護公告（1.2 版下半，日文）
+    url: https://nte.perfectworld.com/jp/article/news/gamenews/20260728/263293.html
+  - title: 2026-07-28 維護公告（1.2 版下半，韓文）
+    url: https://nte.perfectworld.com/kr/article/news/gamenews/20260728/263292.html
   - title: 官方網站的角色介紹
     url: https://nte.perfectworld.com/en/main.html?nav=2&role=20
+  - title: 官方網站的角色介紹（日文）
+    url: https://nte.perfectworld.com/jp/main.html?nav=2&role=20
+  - title: 官方網站的角色介紹（韓文）
+    url: https://nte.perfectworld.com/kr/main.html?nav=2&role=20
   - title: Prydwen，伊洛伊角色頁面（技能、屬性、弧盤類型）
     url: https://www.prydwen.gg/neverness-to-everness/characters/iroi
   - title: Game8，伊洛伊配裝頁面（交叉查證技能與屬性）
@@ -23,6 +33,10 @@ sources:
     url: https://static.nanoka.cc/nte/1.5.4/en/character/1075.json
   - title: nanoka.cc 遊戲資料 1.5.4，角色檔案（中文）
     url: https://static.nanoka.cc/nte/1.5.4/zh/character/1075.json
+  - title: nanoka.cc 遊戲資料 1.5.4，角色檔案（日文）
+    url: https://static.nanoka.cc/nte/1.5.4/ja/character/1075.json
+  - title: nanoka.cc 遊戲資料 1.5.4，角色檔案（韓文）
+    url: https://static.nanoka.cc/nte/1.5.4/ko/character/1075.json
 ---
 
 ![伊洛伊的官方角色圖：綠色長髮並長著紅色捲曲雙角的少女，身穿白色外套](/art/characters/iroi.webp)

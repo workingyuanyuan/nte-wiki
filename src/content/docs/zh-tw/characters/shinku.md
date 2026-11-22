@@ -4,6 +4,7 @@ description: 真紅是 1.2 版加入的光屬性限定 S 級角色。
 aliases:
   - Shinku
   - 真红
+  - 신쿠
 appliesTo: Version 1.5, game data 1.5.4
 caveat: 真紅是限定角色，只能在「破曉前」限定棋盤開放期間取得。本期開放將於 2026-12-02 05:59 (UTC+8) 結束。
 effectiveDate: 2026-11-09
@@ -14,10 +15,22 @@ art:
 sources:
   - title: 1.2 版更新公告，2026-07-06
     url: https://nte.perfectworld.com/en/article/news/gamenews/20260706/263029.html
+  - title: 1.2 版更新公告，2026-07-06（日文）
+    url: https://nte.perfectworld.com/jp/article/news/gamenews/20260706/263026.html
+  - title: 1.2 版更新公告，2026-07-06（韓文）
+    url: https://nte.perfectworld.com/kr/article/news/gamenews/20260706/263025.html
   - title: 1.5 版更新公告，2026-11-09
     url: https://nte.perfectworld.com/en/article/news/gamenews/20261109/264948.html
+  - title: 1.5 版更新公告，2026-11-09（日文）
+    url: https://nte.perfectworld.com/jp/article/news/gamenews/20261109/264951.html
+  - title: 1.5 版更新公告，2026-11-09（韓文）
+    url: https://nte.perfectworld.com/kr/article/news/gamenews/20261109/264952.html
   - title: 官方網站的角色介紹
     url: https://nte.perfectworld.com/en/main.html?nav=2&role=20
+  - title: 官方網站的角色介紹（日文）
+    url: https://nte.perfectworld.com/jp/main.html?nav=2&role=20
+  - title: 官方網站的角色介紹（韓文）
+    url: https://nte.perfectworld.com/kr/main.html?nav=2&role=20
   - title: Prydwen，真紅角色頁面（技能、屬性、弧盤類型）
     url: https://www.prydwen.gg/neverness-to-everness/characters/shinku
   - title: Game8，真紅配裝頁面（交叉查證技能與屬性）
@@ -26,6 +39,10 @@ sources:
     url: https://static.nanoka.cc/nte/1.5.4/en/character/1076.json
   - title: nanoka.cc 遊戲資料 1.5.4，角色檔案（中文）
     url: https://static.nanoka.cc/nte/1.5.4/zh/character/1076.json
+  - title: nanoka.cc 遊戲資料 1.5.4，角色檔案（日文）
+    url: https://static.nanoka.cc/nte/1.5.4/ja/character/1076.json
+  - title: nanoka.cc 遊戲資料 1.5.4，角色檔案（韓文）
+    url: https://static.nanoka.cc/nte/1.5.4/ko/character/1076.json
 ---
 
 ![真紅的官方角色圖：黑色長髮挑染紅色、長著暗紅色雙角的少女，身穿白色襯衫](/art/characters/shinku.webp)

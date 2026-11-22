@@ -4,6 +4,8 @@ description: 异能环合是相邻属性之间的反应，在切换角色时触�
 aliases:
   - Esper Cycles
   - 異能環合
+  - 異能連環
+  - 에스퍼 사이클
 appliesTo: 1.5 版，游戏资料 1.5.4
 lastVerified: 2026-11-21
 caveat: 盈蓄与失谐不是靠切换角色直接触发，而是在目标同时带有两种反应时发生：创生花命中延滞中的目标，或目标同时处于黯星与浊燃。
@@ -16,6 +18,10 @@ sources:
     url: https://static.nanoka.cc/nte/1.5.4/en/character/1003.json
   - title: nanoka.cc 游戏资料 1.5.4，角色档案（中文被动技能文字）
     url: https://static.nanoka.cc/nte/1.5.4/zh/character/1003.json
+  - title: nanoka.cc 游戏资料 1.5.4，角色档案（日文被动技能文字）
+    url: https://static.nanoka.cc/nte/1.5.4/ja/character/1003.json
+  - title: nanoka.cc 游戏资料 1.5.4，角色档案（韩文被动技能文字）
+    url: https://static.nanoka.cc/nte/1.5.4/ko/character/1003.json
   - title: GameWith 的环合强度指南（英文）
     url: https://gamewith.net/nte/76296
   - title: NGA 论坛玩家分析：伤害与异能环合机制（简体中文，2026-11-21 读取）

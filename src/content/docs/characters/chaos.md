@@ -3,6 +3,8 @@ title: Chaos
 description: Chaos is a limited S-Class character of the Lakshana attribute, added in Version 1.1.
 aliases:
   - 卡厄斯
+  - カオス
+  - 카오스
 appliesTo: Version 1.5, game data 1.5.4
 caveat: 'Chaos is limited: obtainable only while the "Forsaken Path" Board is open. It last closed on 2026-07-08 at 05:59 (UTC+8); Prydwen and Game8 list a rerun from 2026-12-02.'
 effectiveDate: 2026-06-23
@@ -13,10 +15,22 @@ art:
 sources:
   - title: Maintenance notice of 2026-06-23 (Version 1.1, second half)
     url: https://nte.perfectworld.com/en/article/news/gamebroad/20260623/262810.html
+  - title: Maintenance notice of 2026-06-23 (Version 1.1, second half, Japanese)
+    url: https://nte.perfectworld.com/jp/article/news/gamebroad/20260623/262807.html
+  - title: Maintenance notice of 2026-06-23 (Version 1.1, second half, Korean)
+    url: https://nte.perfectworld.com/kr/article/news/gamebroad/20260623/262806.html
   - title: Version 1.3 patch notes, 2026-08-18
     url: https://nte.perfectworld.com/en/article/news/gamenews/20260817/263605.html
+  - title: Version 1.3 patch notes, 2026-08-18 (Japanese)
+    url: https://nte.perfectworld.com/jp/article/news/gamenews/20260817/263606.html
+  - title: Version 1.3 patch notes, 2026-08-18 (Korean)
+    url: https://nte.perfectworld.com/kr/article/news/gamenews/20260817/263607.html
   - title: Character profiles on the official site
     url: https://nte.perfectworld.com/en/main.html?nav=2&role=20
+  - title: Character profiles on the official site (Japanese)
+    url: https://nte.perfectworld.com/jp/main.html?nav=2&role=20
+  - title: Character profiles on the official site (Korean)
+    url: https://nte.perfectworld.com/kr/main.html?nav=2&role=20
   - title: Prydwen, Chaos character page (skills, attribute, Arc type)
     url: https://www.prydwen.gg/neverness-to-everness/characters/chaos
   - title: Game8, Chaos build page (cross-check of skills and attribute)
@@ -29,6 +43,10 @@ sources:
     url: https://static.nanoka.cc/nte/1.5.4/en/character/1071.json
   - title: nanoka.cc game data 1.5.4, character file in Chinese
     url: https://static.nanoka.cc/nte/1.5.4/zh/character/1071.json
+  - title: nanoka.cc game data 1.5.4, character file in Japanese
+    url: https://static.nanoka.cc/nte/1.5.4/ja/character/1071.json
+  - title: nanoka.cc game data 1.5.4, character file in Korean
+    url: https://static.nanoka.cc/nte/1.5.4/ko/character/1071.json
 ---
 
 ![Chaos, official character art: a man with short dark hair in a blue jacket over a black top](/art/characters/chaos.webp)

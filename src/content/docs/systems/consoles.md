@@ -3,6 +3,8 @@ title: 'Consoles: Cartridges and Modules'
 description: The Console is the gear of a character, a Cartridge with a set effect and Modules on a grid.
 aliases:
   - 空幕
+  - ギア：駆動コアと駆動ブロック
+  - '콘솔: 카트리지와 드라이브 모듈'
 appliesTo: Version 1.5, game data 1.5.4
 lastVerified: 2026-11-21
 caveat: A Cartridge's set effect counts only Modules of the shapes that Cartridge asks for; four Modules of other shapes do not activate it.
@@ -11,6 +13,10 @@ sources:
     url: https://static.nanoka.cc/nte/1.5.4/en/console.json
   - title: nanoka.cc game data 1.5.4, Console file in Chinese
     url: https://static.nanoka.cc/nte/1.5.4/zh/console.json
+  - title: nanoka.cc game data 1.5.4, Console file in Japanese
+    url: https://static.nanoka.cc/nte/1.5.4/ja/console.json
+  - title: nanoka.cc game data 1.5.4, Console file in Korean
+    url: https://static.nanoka.cc/nte/1.5.4/ko/console.json
   - title: Prydwen, Modules and Cartridges guide
     url: https://www.prydwen.gg/neverness-to-everness/guides/modules-generic
   - title: Prydwen, Cartridge sets

@@ -3,6 +3,8 @@ title: 卡厄斯
 description: 卡厄斯是 1.1 版加入的相屬性限定 S 級角色。
 aliases:
   - Chaos
+  - カオス
+  - 카오스
 appliesTo: Version 1.5, game data 1.5.4
 caveat: 卡厄斯是限定角色，只能在「無歸路」限定棋盤開放期間取得。最近一次開放已於 2026-07-08 05:59 (UTC+8) 結束；Prydwen 與 Game8 列出自 2026-12-02 起返場。
 effectiveDate: 2026-06-23
@@ -13,10 +15,22 @@ art:
 sources:
   - title: 2026-06-23 維護公告（1.1 版下半）
     url: https://nte.perfectworld.com/en/article/news/gamebroad/20260623/262810.html
+  - title: 2026-06-23 維護公告（1.1 版下半，日文）
+    url: https://nte.perfectworld.com/jp/article/news/gamebroad/20260623/262807.html
+  - title: 2026-06-23 維護公告（1.1 版下半，韓文）
+    url: https://nte.perfectworld.com/kr/article/news/gamebroad/20260623/262806.html
   - title: 1.3 版更新公告，2026-08-18
     url: https://nte.perfectworld.com/en/article/news/gamenews/20260817/263605.html
+  - title: 1.3 版更新公告，2026-08-18（日文）
+    url: https://nte.perfectworld.com/jp/article/news/gamenews/20260817/263606.html
+  - title: 1.3 版更新公告，2026-08-18（韓文）
+    url: https://nte.perfectworld.com/kr/article/news/gamenews/20260817/263607.html
   - title: 官方網站的角色介紹
     url: https://nte.perfectworld.com/en/main.html?nav=2&role=20
+  - title: 官方網站的角色介紹（日文）
+    url: https://nte.perfectworld.com/jp/main.html?nav=2&role=20
+  - title: 官方網站的角色介紹（韓文）
+    url: https://nte.perfectworld.com/kr/main.html?nav=2&role=20
   - title: Prydwen，卡厄斯角色頁面（技能、屬性、弧盤類型）
     url: https://www.prydwen.gg/neverness-to-everness/characters/chaos
   - title: Game8，卡厄斯配裝頁面（交叉查證技能與屬性）
@@ -29,6 +43,10 @@ sources:
     url: https://static.nanoka.cc/nte/1.5.4/en/character/1071.json
   - title: nanoka.cc 遊戲資料 1.5.4，角色檔案（中文）
     url: https://static.nanoka.cc/nte/1.5.4/zh/character/1071.json
+  - title: nanoka.cc 遊戲資料 1.5.4，角色檔案（日文）
+    url: https://static.nanoka.cc/nte/1.5.4/ja/character/1071.json
+  - title: nanoka.cc 遊戲資料 1.5.4，角色檔案（韓文）
+    url: https://static.nanoka.cc/nte/1.5.4/ko/character/1071.json
 ---
 
 ![卡厄斯的官方角色圖：黑色短髮的男子，身穿藍色外套內搭黑色上衣](/art/characters/chaos.webp)

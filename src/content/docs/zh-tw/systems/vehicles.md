@@ -4,6 +4,8 @@ description: 1.5 版遊戲內 31 款載具的極速與取得方式，以及城�
 aliases:
   - Vehicles
   - 载具
+  - 乗り物
+  - 탈것
 appliesTo: 1.5 版，遊戲資料 1.5.4
 lastVerified: 2026-11-21
 caveat: 盲盒載具來自限時盲盒活動；商店價格以方斯計，相關商店常駐販售。
@@ -12,14 +14,26 @@ sources:
     url: https://static.nanoka.cc/nte/1.5.4/en/vehicle.json
   - title: nanoka.cc 遊戲資料 1.5.4，載具（中文）
     url: https://static.nanoka.cc/nte/1.5.4/zh/vehicle.json
+  - title: nanoka.cc 遊戲資料 1.5.4，載具（日文）
+    url: https://static.nanoka.cc/nte/1.5.4/ja/vehicle.json
+  - title: nanoka.cc 遊戲資料 1.5.4，載具（韓文）
+    url: https://static.nanoka.cc/nte/1.5.4/ko/vehicle.json
   - title: mysqil（環世全鑑）的車輛頁面（簡體中文）
     url: https://wiki.mysqil.com/vehicles
   - title: Everness Database 的載具列表（英文）
     url: https://everness.info/en/vehicles
   - title: 1.3 版更新公告，2026-08-17（Sirocco，英文）
     url: https://nte.perfectworld.com/en/article/news/gamenews/20260817/263605.html
+  - title: 1.3 版更新公告，2026-08-17（Sirocco，日文）
+    url: https://nte.perfectworld.com/jp/article/news/gamenews/20260817/263606.html
+  - title: 1.3 版更新公告，2026-08-17（Sirocco，韓文）
+    url: https://nte.perfectworld.com/kr/article/news/gamenews/20260817/263607.html
   - title: 1.5 版更新公告，2026-11-09（Iron Ogre 等，英文）
     url: https://nte.perfectworld.com/en/article/news/gamenews/20261109/264948.html
+  - title: 1.5 版更新公告，2026-11-09（Iron Ogre 等，日文）
+    url: https://nte.perfectworld.com/jp/article/news/gamenews/20261109/264951.html
+  - title: 1.5 版更新公告，2026-11-09（Iron Ogre 等，韓文）
+    url: https://nte.perfectworld.com/kr/article/news/gamenews/20261109/264952.html
   - title: GameWith 的移動方式指南（英文）
     url: https://gamewith.net/nte/74171
   - title: NGA 論壇，海特洛大眾運輸路線圖討論串（簡體中文，2026-11-21 讀取）

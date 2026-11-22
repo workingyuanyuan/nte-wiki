@@ -4,6 +4,7 @@ description: 早雾是常驻 S 级角色，属性为咒。
 aliases:
   - Sakiri
   - 早霧
+  - 사키리
 appliesTo: Version 1.5, game data 1.5.4
 caveat: 早雾是常驻角色，不是限定角色：通过「S 级常驻角色自选箱」可直接选择早雾。
 effectiveDate: 2026-09-29
@@ -14,10 +15,22 @@ art:
 sources:
   - title: 1.2 版更新公告，2026-07-06
     url: https://nte.perfectworld.com/en/article/news/gamenews/20260706/263029.html
+  - title: 1.2 版更新公告，2026-07-06（日文）
+    url: https://nte.perfectworld.com/jp/article/news/gamenews/20260706/263026.html
+  - title: 1.2 版更新公告，2026-07-06（韩文）
+    url: https://nte.perfectworld.com/kr/article/news/gamenews/20260706/263025.html
   - title: 1.4 版更新公告，2026-09-29
     url: https://nte.perfectworld.com/en/article/news/gamenews/20260929/264409.html
+  - title: 1.4 版更新公告，2026-09-29（日文）
+    url: https://nte.perfectworld.com/jp/article/news/gamenews/20260929/264412.html
+  - title: 1.4 版更新公告，2026-09-29（韩文）
+    url: https://nte.perfectworld.com/kr/article/news/gamenews/20260929/264413.html
   - title: 官方网站的角色介绍
     url: https://nte.perfectworld.com/en/main.html?nav=2&role=20
+  - title: 官方网站的角色介绍（日文）
+    url: https://nte.perfectworld.com/jp/main.html?nav=2&role=20
+  - title: 官方网站的角色介绍（韩文）
+    url: https://nte.perfectworld.com/kr/main.html?nav=2&role=20
   - title: Prydwen 的早雾角色页面（技能、属性、弧盘类型）
     url: https://www.prydwen.gg/neverness-to-everness/characters/sakiri
   - title: Game8 的早雾配装页面（交叉查证技能与属性）
@@ -26,6 +39,10 @@ sources:
     url: https://static.nanoka.cc/nte/1.5.4/en/character/1003.json
   - title: nanoka.cc 游戏资料 1.5.4，角色档案（中文）
     url: https://static.nanoka.cc/nte/1.5.4/zh/character/1003.json
+  - title: nanoka.cc 游戏资料 1.5.4，角色档案（日文）
+    url: https://static.nanoka.cc/nte/1.5.4/ja/character/1003.json
+  - title: nanoka.cc 游戏资料 1.5.4，角色档案（韩文）
+    url: https://static.nanoka.cc/nte/1.5.4/ko/character/1003.json
 ---
 
 ![早雾的官方角色图：淡蓝色头发、头上有小角并戴着黑色帽子的少女，身穿红色外套与百褶裙](/art/characters/sakiri.webp)

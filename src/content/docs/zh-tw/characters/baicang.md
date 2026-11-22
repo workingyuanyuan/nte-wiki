@@ -3,6 +3,8 @@ title: 白藏
 description: 白藏是常駐 S 級角色，屬性為咒。
 aliases:
   - Baicang
+  - 白蔵
+  - 백장
 appliesTo: Version 1.5, game data 1.5.4
 caveat: 白藏是常駐角色，不是限定角色：透過「S 級常駐角色自選箱」可直接選擇白藏。
 effectiveDate: 2026-09-29
@@ -13,10 +15,22 @@ art:
 sources:
   - title: 1.2 版更新公告，2026-07-06
     url: https://nte.perfectworld.com/en/article/news/gamenews/20260706/263029.html
+  - title: 1.2 版更新公告，2026-07-06（日文）
+    url: https://nte.perfectworld.com/jp/article/news/gamenews/20260706/263026.html
+  - title: 1.2 版更新公告，2026-07-06（韓文）
+    url: https://nte.perfectworld.com/kr/article/news/gamenews/20260706/263025.html
   - title: 1.4 版更新公告，2026-09-29
     url: https://nte.perfectworld.com/en/article/news/gamenews/20260929/264409.html
+  - title: 1.4 版更新公告，2026-09-29（日文）
+    url: https://nte.perfectworld.com/jp/article/news/gamenews/20260929/264412.html
+  - title: 1.4 版更新公告，2026-09-29（韓文）
+    url: https://nte.perfectworld.com/kr/article/news/gamenews/20260929/264413.html
   - title: 官方網站的角色介紹
     url: https://nte.perfectworld.com/en/main.html?nav=2&role=20
+  - title: 官方網站的角色介紹（日文）
+    url: https://nte.perfectworld.com/jp/main.html?nav=2&role=20
+  - title: 官方網站的角色介紹（韓文）
+    url: https://nte.perfectworld.com/kr/main.html?nav=2&role=20
   - title: Prydwen 的白藏角色頁面（技能、屬性、弧盤類型）
     url: https://www.prydwen.gg/neverness-to-everness/characters/baicang
   - title: Game8 的白藏配裝頁面（交叉查證技能與屬性）
@@ -25,6 +39,10 @@ sources:
     url: https://static.nanoka.cc/nte/1.5.4/en/character/1023.json
   - title: nanoka.cc 遊戲資料 1.5.4，角色檔案（中文）
     url: https://static.nanoka.cc/nte/1.5.4/zh/character/1023.json
+  - title: nanoka.cc 遊戲資料 1.5.4，角色檔案（日文）
+    url: https://static.nanoka.cc/nte/1.5.4/ja/character/1023.json
+  - title: nanoka.cc 遊戲資料 1.5.4，角色檔案（韓文）
+    url: https://static.nanoka.cc/nte/1.5.4/ko/character/1023.json
 ---
 
 ![白藏的官方角色圖：留著銀色長髮的男子，身穿白色雙排扣大衣與黑色手套](/art/characters/baicang.webp)

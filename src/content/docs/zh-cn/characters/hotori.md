@@ -4,6 +4,7 @@ description: 浔是 1.0 版加入的光属性限定 S 级角色。
 aliases:
   - Hotori
   - 潯
+  - 호토리
 appliesTo: Version 1.5, game data 1.5.4
 caveat: 浔是限定角色，只能在「独酌胧月流」限定棋盘开放期间取得。最近一次开放已于 2026-09-30 05:59 (UTC+8) 结束。
 effectiveDate: 2026-09-08
@@ -14,10 +15,22 @@ art:
 sources:
   - title: 2026-05-12 维护公告（1.0 版下半）
     url: https://nte.perfectworld.com/en/article/news/gamebroad/20260512/262144.html
+  - title: 2026-05-12 维护公告（1.0 版下半，日文）
+    url: https://nte.perfectworld.com/jp/article/news/gamebroad/20260512/262141.html
+  - title: 2026-05-12 维护公告（1.0 版下半，韩文）
+    url: https://nte.perfectworld.com/kr/article/news/gamebroad/20260512/262140.html
   - title: 2026-09-08 维护公告（1.3 版下半）
     url: https://nte.perfectworld.com/en/article/news/gamenews/20260908/263947.html
+  - title: 2026-09-08 维护公告（1.3 版下半，日文）
+    url: https://nte.perfectworld.com/jp/article/news/gamenews/20260908/263946.html
+  - title: 2026-09-08 维护公告（1.3 版下半，韩文）
+    url: https://nte.perfectworld.com/kr/article/news/gamenews/20260908/263945.html
   - title: 官方网站的角色介绍
     url: https://nte.perfectworld.com/en/main.html?nav=2&role=20
+  - title: 官方网站的角色介绍（日文）
+    url: https://nte.perfectworld.com/jp/main.html?nav=2&role=20
+  - title: 官方网站的角色介绍（韩文）
+    url: https://nte.perfectworld.com/kr/main.html?nav=2&role=20
   - title: Prydwen，浔角色页面（技能、属性、弧盘类型）
     url: https://www.prydwen.gg/neverness-to-everness/characters/hotori
   - title: Game8，浔配装页面（交叉查证技能与属性）
@@ -26,6 +39,10 @@ sources:
     url: https://static.nanoka.cc/nte/1.5.4/en/character/1052.json
   - title: nanoka.cc 游戏资料 1.5.4，角色档案（中文）
     url: https://static.nanoka.cc/nte/1.5.4/zh/character/1052.json
+  - title: nanoka.cc 游戏资料 1.5.4，角色档案（日文）
+    url: https://static.nanoka.cc/nte/1.5.4/ja/character/1052.json
+  - title: nanoka.cc 游戏资料 1.5.4，角色档案（韩文）
+    url: https://static.nanoka.cc/nte/1.5.4/ko/character/1052.json
 ---
 
 ![浔的官方角色图：黑色长发并戴着发饰的女子，身穿红黑白相间的和风服饰](/art/characters/hotori.webp)

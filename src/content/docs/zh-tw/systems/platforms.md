@@ -4,6 +4,8 @@ description: 《異環》支援 PC、Mac、iOS、Android 與 PlayStation 5，同
 aliases:
   - Platforms and servers
   - 平台与服务器
+  - プラットフォームとサーバー
+  - 플랫폼과 서버
 appliesTo: 國際服，2026-02-26 至 2026-07-08 的官方公告
 caveat: 僅限同一伺服器且使用相同登入方式時，跨平台進度才會互通。四個伺服器彼此獨立，使用不同第三方登入方式建立的帳號也各自獨立。
 effectiveDate: 2026-07-08
@@ -11,14 +13,34 @@ lastVerified: 2026-11-18
 sources:
   - title: 公測常見問題 FAQ，2026-04-27
     url: https://nte.perfectworld.com/en/article/news/gamebroad/20260426/261931.html
+  - title: 公測常見問題 FAQ，2026-04-27（日文）
+    url: https://nte.perfectworld.com/jp/article/news/gamebroad/20260427/261937.html
+  - title: 公測常見問題 FAQ，2026-04-27（韓文）
+    url: https://nte.perfectworld.com/kr/article/news/gamebroad/20260426/261934.html
   - title: 預先下載公告，2026-04-26
     url: https://nte.perfectworld.com/en/article/news/gamenews/20260424/261919.html
+  - title: 預先下載公告，2026-04-26（日文）
+    url: https://nte.perfectworld.com/jp/article/news/gamenews/20260424/261922.html
+  - title: 預先下載公告，2026-04-26（韓文）
+    url: https://nte.perfectworld.com/kr/article/news/gamenews/20260424/261923.html
   - title: 正式上線日期公告，2026-02-26
     url: https://nte.perfectworld.com/en/article/news/gamenews/20260226/261061.html
+  - title: 正式上線日期公告，2026-02-26（日文）
+    url: https://nte.perfectworld.com/jp/article/news/gamenews/20260226/261062.html
+  - title: 正式上線日期公告，2026-02-26（韓文）
+    url: https://nte.perfectworld.com/kr/article/news/gamenews/20260226/261063.html
   - title: Steam、Epic 與 Samsung Galaxy Store 上線常見問題 FAQ，2026-07-08
     url: https://nte.perfectworld.com/en/article/news/gamenews/20260708/263057.html
+  - title: Steam、Epic 與 Samsung Galaxy Store 上線常見問題 FAQ，2026-07-08（日文）
+    url: https://nte.perfectworld.com/jp/article/news/gamenews/20260708/263054.html
+  - title: Steam、Epic 與 Samsung Galaxy Store 上線常見問題 FAQ，2026-07-08（韓文）
+    url: https://nte.perfectworld.com/kr/article/news/gamenews/20260708/263051.html
   - title: 1.5 版更新公告，2026-11-09（更新方式）
     url: https://nte.perfectworld.com/en/article/news/gamenews/20261109/264948.html
+  - title: 1.5 版更新公告，2026-11-09（更新方式，日文）
+    url: https://nte.perfectworld.com/jp/article/news/gamenews/20261109/264951.html
+  - title: 1.5 版更新公告，2026-11-09（更新方式，韓文）
+    url: https://nte.perfectworld.com/kr/article/news/gamenews/20261109/264952.html
 ---
 
 ## 支援平台

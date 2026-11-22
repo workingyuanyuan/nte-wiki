@@ -4,6 +4,8 @@ description: 七處房產可用方斯購買，各有一組效果不同的異象�
 aliases:
   - Properties and Anomaly Furniture
   - 房产与异象家具
+  - 物件と異象家具
+  - 부동산과 이상 가구
 appliesTo: 1.5 版，遊戲資料 1.5.4
 lastVerified: 2026-11-19
 caveat: 各房產的異象家具不同；只有咕咕警報、無人來電與修車工在七處房產都有。
@@ -12,14 +14,26 @@ sources:
     url: https://static.nanoka.cc/nte/1.5.4/en/home.json
   - title: nanoka.cc 遊戲資料 1.5.4，房產（中文）
     url: https://static.nanoka.cc/nte/1.5.4/zh/home.json
+  - title: nanoka.cc 遊戲資料 1.5.4，房產（日文）
+    url: https://static.nanoka.cc/nte/1.5.4/ja/home.json
+  - title: nanoka.cc 遊戲資料 1.5.4，房產（韓文）
+    url: https://static.nanoka.cc/nte/1.5.4/ko/home.json
   - title: mysqil（環世全鑑）的房產頁面（簡體中文）
     url: https://wiki.mysqil.com/property
   - title: Everness Database 的異象家具列表（英文）
     url: https://everness.info/en/anomaly-furniture
   - title: 1.1 版更新公告，2026-06-02（Pegasus Residence，英文）
     url: https://nte.perfectworld.com/en/article/news/gamebroad/20260602/262479.html
+  - title: 1.1 版更新公告，2026-06-02（Pegasus Residence，日文）
+    url: https://nte.perfectworld.com/jp/article/news/gamebroad/20260602/262474.html
+  - title: 1.1 版更新公告，2026-06-02（Pegasus Residence，韓文）
+    url: https://nte.perfectworld.com/kr/article/news/gamebroad/20260602/262473.html
   - title: 1.3 版更新公告，2026-08-17（Stillmeadow House，英文）
     url: https://nte.perfectworld.com/en/article/news/gamenews/20260817/263605.html
+  - title: 1.3 版更新公告，2026-08-17（Stillmeadow House，日文）
+    url: https://nte.perfectworld.com/jp/article/news/gamenews/20260817/263606.html
+  - title: 1.3 版更新公告，2026-08-17（Stillmeadow House，韓文）
+    url: https://nte.perfectworld.com/kr/article/news/gamenews/20260817/263607.html
 ---
 
 ## 房產

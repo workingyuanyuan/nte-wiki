@@ -3,6 +3,7 @@ title: Aurelia
 description: Aurelia is an A-Class character of the Psyche attribute, found on Limited Boards.
 aliases:
   - 海月
+  - 우미츠키
 appliesTo: Version 1.5, game data 1.5.4
 caveat: 'Neither Limited Board of Version 1.5 carries Aurelia; both carry Mint, Edgar and Adler. The last Board with Aurelia closed on 2026-11-11 at 05:59 (UTC+8).'
 effectiveDate: 2026-10-19
@@ -10,8 +11,16 @@ lastVerified: 2026-11-22
 sources:
   - title: Maintenance notice of 2026-09-08 (Version 1.3, second half)
     url: https://nte.perfectworld.com/en/article/news/gamenews/20260908/263947.html
+  - title: Maintenance notice of 2026-09-08 (Version 1.3, second half, Japanese)
+    url: https://nte.perfectworld.com/jp/article/news/gamenews/20260908/263946.html
+  - title: Maintenance notice of 2026-09-08 (Version 1.3, second half, Korean)
+    url: https://nte.perfectworld.com/kr/article/news/gamenews/20260908/263945.html
   - title: Maintenance notice of 2026-10-19 (Version 1.4, second half)
     url: https://nte.perfectworld.com/en/article/news/gamenews/20261019/264675.html
+  - title: Maintenance notice of 2026-10-19 (Version 1.4, second half, Japanese)
+    url: https://nte.perfectworld.com/jp/article/news/gamenews/20261019/264678.html
+  - title: Maintenance notice of 2026-10-19 (Version 1.4, second half, Korean)
+    url: https://nte.perfectworld.com/kr/article/news/gamenews/20261019/264679.html
   - title: Prydwen, Aurelia character page (skills, attribute, Arc type)
     url: https://www.prydwen.gg/neverness-to-everness/characters/aurelia
   - title: Game8, Aurelia build page (cross-check of skills and attribute)
@@ -20,6 +29,10 @@ sources:
     url: https://static.nanoka.cc/nte/1.5.4/en/character/1070.json
   - title: nanoka.cc game data 1.5.4, character file in Chinese
     url: https://static.nanoka.cc/nte/1.5.4/zh/character/1070.json
+  - title: nanoka.cc game data 1.5.4, character file in Japanese
+    url: https://static.nanoka.cc/nte/1.5.4/ja/character/1070.json
+  - title: nanoka.cc game data 1.5.4, character file in Korean
+    url: https://static.nanoka.cc/nte/1.5.4/ko/character/1070.json
 ---
 
 ## Profile

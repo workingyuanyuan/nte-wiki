@@ -4,6 +4,7 @@ description: 残虹是 1.3 版加入的咒属性限定 S 级角色。
 aliases:
   - Zankou
   - 殘虹
+  - 잔홍
 appliesTo: Version 1.5, game data 1.5.4
 caveat: 残虹是限定角色，只能在「惑心谲影」限定棋盘开放期间取得。最近一次开放已于 2026-09-09 05:59 (UTC+8) 结束。
 effectiveDate: 2026-08-18
@@ -14,8 +15,16 @@ art:
 sources:
   - title: 1.3 版更新公告，2026-08-18
     url: https://nte.perfectworld.com/en/article/news/gamenews/20260817/263605.html
+  - title: 1.3 版更新公告，2026-08-18（日文）
+    url: https://nte.perfectworld.com/jp/article/news/gamenews/20260817/263606.html
+  - title: 1.3 版更新公告，2026-08-18（韩文）
+    url: https://nte.perfectworld.com/kr/article/news/gamenews/20260817/263607.html
   - title: 官方网站的角色介绍
     url: https://nte.perfectworld.com/en/main.html?nav=2&role=20
+  - title: 官方网站的角色介绍（日文）
+    url: https://nte.perfectworld.com/jp/main.html?nav=2&role=20
+  - title: 官方网站的角色介绍（韩文）
+    url: https://nte.perfectworld.com/kr/main.html?nav=2&role=20
   - title: Prydwen，残虹角色页面（技能、属性、弧盘类型）
     url: https://www.prydwen.gg/neverness-to-everness/characters/zankou
   - title: Game8，残虹配装页面（交叉查证技能与属性）
@@ -24,6 +33,10 @@ sources:
     url: https://static.nanoka.cc/nte/1.5.4/en/character/1036.json
   - title: nanoka.cc 游戏资料 1.5.4，角色档案（中文）
     url: https://static.nanoka.cc/nte/1.5.4/zh/character/1036.json
+  - title: nanoka.cc 游戏资料 1.5.4，角色档案（日文）
+    url: https://static.nanoka.cc/nte/1.5.4/ja/character/1036.json
+  - title: nanoka.cc 游戏资料 1.5.4，角色档案（韩文）
+    url: https://static.nanoka.cc/nte/1.5.4/ko/character/1036.json
 ---
 
 ![残虹的官方角色图：银色长发的女子，身穿白灰相间的服饰，腰间系有红色绳结](/art/characters/zankou.webp)

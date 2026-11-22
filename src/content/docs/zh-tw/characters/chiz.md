@@ -3,6 +3,8 @@ title: 小吱
 description: 小吱是光屬性的免費 S 級角色。
 aliases:
   - Chiz
+  - ちぃちゃん
+  - 치즈
 appliesTo: Version 1.5, game data 1.5.4
 caveat: 小吱不會出現在限定棋盤中。她透過都市大亨取得，該玩法僅見於攻略網站說明，官方公告並未提及。
 effectiveDate: 2026-06-02
@@ -13,6 +15,10 @@ art:
 sources:
   - title: 官方網站的角色介紹
     url: https://nte.perfectworld.com/en/main.html?nav=2&role=20
+  - title: 官方網站的角色介紹（日文）
+    url: https://nte.perfectworld.com/jp/main.html?nav=2&role=20
+  - title: 官方網站的角色介紹（韓文）
+    url: https://nte.perfectworld.com/kr/main.html?nav=2&role=20
   - title: Prydwen 的小吱角色頁面（技能、屬性、弧盤類型）
     url: https://www.prydwen.gg/neverness-to-everness/characters/chiz
   - title: Game8 的小吱配裝頁面（交叉查證技能與屬性）
@@ -21,6 +27,10 @@ sources:
     url: https://static.nanoka.cc/nte/1.5.4/en/character/1073.json
   - title: nanoka.cc 遊戲資料 1.5.4，角色檔案（中文）
     url: https://static.nanoka.cc/nte/1.5.4/zh/character/1073.json
+  - title: nanoka.cc 遊戲資料 1.5.4，角色檔案（日文）
+    url: https://static.nanoka.cc/nte/1.5.4/ja/character/1073.json
+  - title: nanoka.cc 遊戲資料 1.5.4，角色檔案（韓文）
+    url: https://static.nanoka.cc/nte/1.5.4/ko/character/1073.json
 ---
 
 ![小吱的官方角色圖：綁著粉色丸子頭的少女，身穿粉白相間的制服裙裝](/art/characters/chiz.webp)

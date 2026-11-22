@@ -5,6 +5,8 @@ aliases:
   - Daffodill
   - Daffodil
   - 达芙蒂尔
+  - ダフォディール
+  - 다포딜
 appliesTo: Version 1.5, game data 1.5.4
 caveat: 官方英文拼寫為 Daffodill，攻略網站寫作 Daffodil。她是常駐角色，可從「S 級常駐角色自選箱」中選擇。
 effectiveDate: 2026-09-29
@@ -15,10 +17,22 @@ art:
 sources:
   - title: 1.2 版更新公告，2026-07-06
     url: https://nte.perfectworld.com/en/article/news/gamenews/20260706/263029.html
+  - title: 1.2 版更新公告，2026-07-06（日文）
+    url: https://nte.perfectworld.com/jp/article/news/gamenews/20260706/263026.html
+  - title: 1.2 版更新公告，2026-07-06（韓文）
+    url: https://nte.perfectworld.com/kr/article/news/gamenews/20260706/263025.html
   - title: 1.4 版更新公告，2026-09-29
     url: https://nte.perfectworld.com/en/article/news/gamenews/20260929/264409.html
+  - title: 1.4 版更新公告，2026-09-29（日文）
+    url: https://nte.perfectworld.com/jp/article/news/gamenews/20260929/264412.html
+  - title: 1.4 版更新公告，2026-09-29（韓文）
+    url: https://nte.perfectworld.com/kr/article/news/gamenews/20260929/264413.html
   - title: 官方網站的角色介紹
     url: https://nte.perfectworld.com/en/main.html?nav=2&role=20
+  - title: 官方網站的角色介紹（日文）
+    url: https://nte.perfectworld.com/jp/main.html?nav=2&role=20
+  - title: 官方網站的角色介紹（韓文）
+    url: https://nte.perfectworld.com/kr/main.html?nav=2&role=20
   - title: Prydwen 的達芙蒂爾角色頁面（技能、屬性、弧盤類型）
     url: https://www.prydwen.gg/neverness-to-everness/characters/daffodil
   - title: Game8 的達芙蒂爾配裝頁面（交叉查證技能與屬性）
@@ -27,6 +41,10 @@ sources:
     url: https://static.nanoka.cc/nte/1.5.4/en/character/1054.json
   - title: nanoka.cc 遊戲資料 1.5.4，角色檔案（中文）
     url: https://static.nanoka.cc/nte/1.5.4/zh/character/1054.json
+  - title: nanoka.cc 遊戲資料 1.5.4，角色檔案（日文）
+    url: https://static.nanoka.cc/nte/1.5.4/ja/character/1054.json
+  - title: nanoka.cc 遊戲資料 1.5.4，角色檔案（韓文）
+    url: https://static.nanoka.cc/nte/1.5.4/ko/character/1054.json
 ---
 
 ![達芙蒂爾的官方角色圖：黑色短髮帶有藍色挑染、身穿黑色大衣與白色手套的女子](/art/characters/daffodill.webp)

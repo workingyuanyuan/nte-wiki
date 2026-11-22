@@ -3,6 +3,8 @@ title: Iroi
 description: Iroi is a limited S-Class character of the Anima attribute, added in Version 1.2.
 aliases:
   - 伊洛伊
+  - イロヒ
+  - 일로이
 appliesTo: Version 1.5, game data 1.5.4
 caveat: 'Iroi is limited: obtainable only while the "The Lifeline" Board is open. It last closed on 2026-08-19 at 05:59 (UTC+8).'
 effectiveDate: 2026-07-28
@@ -13,8 +15,16 @@ art:
 sources:
   - title: Maintenance notice of 2026-07-28 (Version 1.2, second half)
     url: https://nte.perfectworld.com/en/article/news/gamenews/20260728/263296.html
+  - title: Maintenance notice of 2026-07-28 (Version 1.2, second half, Japanese)
+    url: https://nte.perfectworld.com/jp/article/news/gamenews/20260728/263293.html
+  - title: Maintenance notice of 2026-07-28 (Version 1.2, second half, Korean)
+    url: https://nte.perfectworld.com/kr/article/news/gamenews/20260728/263292.html
   - title: Character profiles on the official site
     url: https://nte.perfectworld.com/en/main.html?nav=2&role=20
+  - title: Character profiles on the official site (Japanese)
+    url: https://nte.perfectworld.com/jp/main.html?nav=2&role=20
+  - title: Character profiles on the official site (Korean)
+    url: https://nte.perfectworld.com/kr/main.html?nav=2&role=20
   - title: Prydwen, Iroi character page (skills, attribute, Arc type)
     url: https://www.prydwen.gg/neverness-to-everness/characters/iroi
   - title: Game8, Iroi build page (cross-check of skills and attribute)
@@ -23,6 +33,10 @@ sources:
     url: https://static.nanoka.cc/nte/1.5.4/en/character/1075.json
   - title: nanoka.cc game data 1.5.4, character file in Chinese
     url: https://static.nanoka.cc/nte/1.5.4/zh/character/1075.json
+  - title: nanoka.cc game data 1.5.4, character file in Japanese
+    url: https://static.nanoka.cc/nte/1.5.4/ja/character/1075.json
+  - title: nanoka.cc game data 1.5.4, character file in Korean
+    url: https://static.nanoka.cc/nte/1.5.4/ko/character/1075.json
 ---
 
 ![Iroi, official character art: a girl with long green hair and red curled horns in a white coat](/art/characters/iroi.webp)

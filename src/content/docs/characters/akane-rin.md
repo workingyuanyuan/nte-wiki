@@ -4,6 +4,7 @@ description: Akane Rin is a limited S-Class character of the Lakshana attribute,
 aliases:
   - 明音凜
   - 明音凛
+  - 아카네 린
 appliesTo: Version 1.5, game data 1.5.4
 caveat: 'Akane Rin is limited: obtainable only while the "Dazzling Star" Board is open. It last closed on 2026-11-11 at 05:59 (UTC+8).'
 effectiveDate: 2026-10-19
@@ -14,10 +15,22 @@ art:
 sources:
   - title: Maintenance notice of 2026-10-19 (Version 1.4, second half)
     url: https://nte.perfectworld.com/en/article/news/gamenews/20261019/264675.html
+  - title: Maintenance notice of 2026-10-19 (Version 1.4, second half, Japanese)
+    url: https://nte.perfectworld.com/jp/article/news/gamenews/20261019/264678.html
+  - title: Maintenance notice of 2026-10-19 (Version 1.4, second half, Korean)
+    url: https://nte.perfectworld.com/kr/article/news/gamenews/20261019/264679.html
   - title: Version 1.4 patch notes, 2026-09-29
     url: https://nte.perfectworld.com/en/article/news/gamenews/20260929/264409.html
+  - title: Version 1.4 patch notes, 2026-09-29 (Japanese)
+    url: https://nte.perfectworld.com/jp/article/news/gamenews/20260929/264412.html
+  - title: Version 1.4 patch notes, 2026-09-29 (Korean)
+    url: https://nte.perfectworld.com/kr/article/news/gamenews/20260929/264413.html
   - title: Character profiles on the official site
     url: https://nte.perfectworld.com/en/main.html?nav=2&role=20
+  - title: Character profiles on the official site (Japanese)
+    url: https://nte.perfectworld.com/jp/main.html?nav=2&role=20
+  - title: Character profiles on the official site (Korean)
+    url: https://nte.perfectworld.com/kr/main.html?nav=2&role=20
   - title: Prydwen, Akane Rin character page (skills, attribute, Arc type)
     url: https://www.prydwen.gg/neverness-to-everness/characters/akane-rin
   - title: Game8, Akane Rin build page (cross-check of skills and attribute)
@@ -26,6 +39,10 @@ sources:
     url: https://static.nanoka.cc/nte/1.5.4/en/character/1057.json
   - title: nanoka.cc game data 1.5.4, character file in Chinese
     url: https://static.nanoka.cc/nte/1.5.4/zh/character/1057.json
+  - title: nanoka.cc game data 1.5.4, character file in Japanese
+    url: https://static.nanoka.cc/nte/1.5.4/ja/character/1057.json
+  - title: nanoka.cc game data 1.5.4, character file in Korean
+    url: https://static.nanoka.cc/nte/1.5.4/ko/character/1057.json
 ---
 
 ![Akane Rin, official character art: a girl with long blonde hair in a side ponytail, in a white short-sleeved shirt and a blue tie](/art/characters/akane-rin.webp)

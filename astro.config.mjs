@@ -6,14 +6,14 @@ import starlightLinksValidator from 'starlight-links-validator';
 import { sitemapOptions } from './src/lib/sitemap.mjs';
 import { ORIGIN, BASE, TITLE, DESCRIPTION } from './src/lib/site.mjs';
 import { satteri } from '@astrojs/markdown-satteri';
-import { hastBase } from './src/lib/hast-base.mjs';
+import { hastBase, hastTableBody } from './src/lib/hast-base.mjs';
 
 export default defineConfig({
 	site: ORIGIN,
 	base: BASE || undefined,
 	trailingSlash: 'always',
 	// Content links are written without the sub-path; this adds it in the HTML.
-	markdown: { processor: satteri({ hastPlugins: [hastBase] }) },
+	markdown: { processor: satteri({ hastPlugins: [hastBase, hastTableBody] }) },
 	integrations: [
 		// Added here so that it takes options; Starlight then leaves its own copy out.
 		sitemap(sitemapOptions()),
@@ -25,21 +25,23 @@ export default defineConfig({
 				root: { label: 'English', lang: 'en' },
 				'zh-tw': { label: '繁體中文', lang: 'zh-TW' },
 				'zh-cn': { label: '简体中文', lang: 'zh-CN' },
+				ja: { label: '日本語', lang: 'ja' },
+				ko: { label: '한국어', lang: 'ko' },
 			},
 			sidebar: [
 				{
 					label: 'Versions',
-					translations: { 'zh-TW': '版本', 'zh-CN': '版本' },
+					translations: { 'zh-TW': '版本', 'zh-CN': '版本', ja: 'バージョン', ko: '버전' },
 					items: [{ autogenerate: { directory: 'versions' } }],
 				},
 				{
 					label: 'Characters',
-					translations: { 'zh-TW': '角色', 'zh-CN': '角色' },
+					translations: { 'zh-TW': '角色', 'zh-CN': '角色', ja: 'キャラクター', ko: '캐릭터' },
 					items: [{ autogenerate: { directory: 'characters' } }],
 				},
 				{
 					label: 'Systems and names',
-					translations: { 'zh-TW': '系統與名稱', 'zh-CN': '系统与名称' },
+					translations: { 'zh-TW': '系統與名稱', 'zh-CN': '系统与名称', ja: 'システムと名前', ko: '시스템과 이름' },
 					items: [
 						{ slug: 'systems/boards' },
 						{ slug: 'systems/esper-cycles' },

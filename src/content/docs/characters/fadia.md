@@ -4,6 +4,8 @@ description: Fadia is a standard S-Class character of the Psyche attribute.
 aliases:
   - 法帝婭
   - 法帝娅
+  - ファルディーヤ
+  - 파디아
 appliesTo: Version 1.5, game data 1.5.4
 caveat: 'Fadia is a standard character, not a limited one: the S-Class Standard Character Selection Box lets a player pick Fadia directly.'
 effectiveDate: 2026-09-29
@@ -14,10 +16,22 @@ art:
 sources:
   - title: Version 1.2 patch notes, 2026-07-06
     url: https://nte.perfectworld.com/en/article/news/gamenews/20260706/263029.html
+  - title: Version 1.2 patch notes, 2026-07-06 (Japanese)
+    url: https://nte.perfectworld.com/jp/article/news/gamenews/20260706/263026.html
+  - title: Version 1.2 patch notes, 2026-07-06 (Korean)
+    url: https://nte.perfectworld.com/kr/article/news/gamenews/20260706/263025.html
   - title: Version 1.4 patch notes, 2026-09-29
     url: https://nte.perfectworld.com/en/article/news/gamenews/20260929/264409.html
+  - title: Version 1.4 patch notes, 2026-09-29 (Japanese)
+    url: https://nte.perfectworld.com/jp/article/news/gamenews/20260929/264412.html
+  - title: Version 1.4 patch notes, 2026-09-29 (Korean)
+    url: https://nte.perfectworld.com/kr/article/news/gamenews/20260929/264413.html
   - title: Character profiles on the official site
     url: https://nte.perfectworld.com/en/main.html?nav=2&role=20
+  - title: Character profiles on the official site (Japanese)
+    url: https://nte.perfectworld.com/jp/main.html?nav=2&role=20
+  - title: Character profiles on the official site (Korean)
+    url: https://nte.perfectworld.com/kr/main.html?nav=2&role=20
   - title: Prydwen, Fadia character page (skills, attribute, Arc type)
     url: https://www.prydwen.gg/neverness-to-everness/characters/fadia
   - title: Game8, Fadia build page (cross-check of skills and attribute)
@@ -26,6 +40,10 @@ sources:
     url: https://static.nanoka.cc/nte/1.5.4/en/character/1039.json
   - title: nanoka.cc game data 1.5.4, character file in Chinese
     url: https://static.nanoka.cc/nte/1.5.4/zh/character/1039.json
+  - title: nanoka.cc game data 1.5.4, character file in Japanese
+    url: https://static.nanoka.cc/nte/1.5.4/ja/character/1039.json
+  - title: nanoka.cc game data 1.5.4, character file in Korean
+    url: https://static.nanoka.cc/nte/1.5.4/ko/character/1039.json
 ---
 
 ![Fadia, official character art: a woman with long purple hair in a dark dress](/art/characters/fadia.webp)
@@ -88,7 +106,9 @@ Each duplicate unlocks one Awakening of the player's choice; Resonances unlock a
 | Survivor of Death | Increases Fadia's CRIT Rate by 50% while in Lilith state. |
 | Bringer of Love and Death | Inflicts Destructive Experience on up to 10 targets within range. Each Destructive Experience's duration and damage cap are calculated individually. |
 | Resonance 3: The Disrespecting Saint | Increases the skill level of Wordless Rejection, Existence, and Agony to Euphoria by 1. |
-| Resonance 6: The Unified Saint | Grants all team members 10% ATK while Fadia is on the team. |
+| Resonance 6: The Unified Saint | Grants all team members 10% Max HP while Fadia is on the team. |
+
+The English game text of Resonance 6 says 10% ATK; the Chinese, Japanese and Korean game texts say 10% Max HP.
 
 ## Skill multipliers
 

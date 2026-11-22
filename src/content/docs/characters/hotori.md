@@ -4,6 +4,7 @@ description: Hotori is a limited S-Class character of the Cosmos attribute, adde
 aliases:
   - 潯
   - 浔
+  - 호토리
 appliesTo: Version 1.5, game data 1.5.4
 caveat: 'Hotori is limited: obtainable only while the "Misty Tipsy Style" Board is open. It last closed on 2026-09-30 at 05:59 (UTC+8).'
 effectiveDate: 2026-09-08
@@ -14,10 +15,22 @@ art:
 sources:
   - title: Maintenance notice of 2026-05-12 (Version 1.0, second half)
     url: https://nte.perfectworld.com/en/article/news/gamebroad/20260512/262144.html
+  - title: Maintenance notice of 2026-05-12 (Version 1.0, second half, Japanese)
+    url: https://nte.perfectworld.com/jp/article/news/gamebroad/20260512/262141.html
+  - title: Maintenance notice of 2026-05-12 (Version 1.0, second half, Korean)
+    url: https://nte.perfectworld.com/kr/article/news/gamebroad/20260512/262140.html
   - title: Maintenance notice of 2026-09-08 (Version 1.3, second half)
     url: https://nte.perfectworld.com/en/article/news/gamenews/20260908/263947.html
+  - title: Maintenance notice of 2026-09-08 (Version 1.3, second half, Japanese)
+    url: https://nte.perfectworld.com/jp/article/news/gamenews/20260908/263946.html
+  - title: Maintenance notice of 2026-09-08 (Version 1.3, second half, Korean)
+    url: https://nte.perfectworld.com/kr/article/news/gamenews/20260908/263945.html
   - title: Character profiles on the official site
     url: https://nte.perfectworld.com/en/main.html?nav=2&role=20
+  - title: Character profiles on the official site (Japanese)
+    url: https://nte.perfectworld.com/jp/main.html?nav=2&role=20
+  - title: Character profiles on the official site (Korean)
+    url: https://nte.perfectworld.com/kr/main.html?nav=2&role=20
   - title: Prydwen, Hotori character page (skills, attribute, Arc type)
     url: https://www.prydwen.gg/neverness-to-everness/characters/hotori
   - title: Game8, Hotori build page (cross-check of skills and attribute)
@@ -26,6 +39,10 @@ sources:
     url: https://static.nanoka.cc/nte/1.5.4/en/character/1052.json
   - title: nanoka.cc game data 1.5.4, character file in Chinese
     url: https://static.nanoka.cc/nte/1.5.4/zh/character/1052.json
+  - title: nanoka.cc game data 1.5.4, character file in Japanese
+    url: https://static.nanoka.cc/nte/1.5.4/ja/character/1052.json
+  - title: nanoka.cc game data 1.5.4, character file in Korean
+    url: https://static.nanoka.cc/nte/1.5.4/ko/character/1052.json
 ---
 
 ![Hotori, official character art: a woman with long black hair and hair ornaments in a red, black and white kimono-style outfit](/art/characters/hotori.webp)

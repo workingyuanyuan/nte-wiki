@@ -3,6 +3,7 @@ title: Jiuyuan
 description: Jiuyuan is a standard S-Class character of the Anima attribute.
 aliases:
   - 九原
+  - 구원
 appliesTo: Version 1.5, game data 1.5.4
 caveat: 'Jiuyuan is a standard character, not a limited one: the S-Class Standard Character Selection Box lets a player pick Jiuyuan directly.'
 effectiveDate: 2026-09-29
@@ -13,10 +14,22 @@ art:
 sources:
   - title: Version 1.2 patch notes, 2026-07-06
     url: https://nte.perfectworld.com/en/article/news/gamenews/20260706/263029.html
+  - title: Version 1.2 patch notes, 2026-07-06 (Japanese)
+    url: https://nte.perfectworld.com/jp/article/news/gamenews/20260706/263026.html
+  - title: Version 1.2 patch notes, 2026-07-06 (Korean)
+    url: https://nte.perfectworld.com/kr/article/news/gamenews/20260706/263025.html
   - title: Version 1.4 patch notes, 2026-09-29
     url: https://nte.perfectworld.com/en/article/news/gamenews/20260929/264409.html
+  - title: Version 1.4 patch notes, 2026-09-29 (Japanese)
+    url: https://nte.perfectworld.com/jp/article/news/gamenews/20260929/264412.html
+  - title: Version 1.4 patch notes, 2026-09-29 (Korean)
+    url: https://nte.perfectworld.com/kr/article/news/gamenews/20260929/264413.html
   - title: Character profiles on the official site
     url: https://nte.perfectworld.com/en/main.html?nav=2&role=20
+  - title: Character profiles on the official site (Japanese)
+    url: https://nte.perfectworld.com/jp/main.html?nav=2&role=20
+  - title: Character profiles on the official site (Korean)
+    url: https://nte.perfectworld.com/kr/main.html?nav=2&role=20
   - title: Prydwen, Jiuyuan character page (skills, attribute, Arc type)
     url: https://www.prydwen.gg/neverness-to-everness/characters/jiuyuan
   - title: Game8, Jiuyuan build page (cross-check of skills and attribute)
@@ -25,6 +38,10 @@ sources:
     url: https://static.nanoka.cc/nte/1.5.4/en/character/1055.json
   - title: nanoka.cc game data 1.5.4, character file in Chinese
     url: https://static.nanoka.cc/nte/1.5.4/zh/character/1055.json
+  - title: nanoka.cc game data 1.5.4, character file in Japanese
+    url: https://static.nanoka.cc/nte/1.5.4/ja/character/1055.json
+  - title: nanoka.cc game data 1.5.4, character file in Korean
+    url: https://static.nanoka.cc/nte/1.5.4/ko/character/1055.json
 ---
 
 ![Jiuyuan, official character art: a woman with long pale hair in a wide purple hat and a black and purple dress](/art/characters/jiuyuan.webp)

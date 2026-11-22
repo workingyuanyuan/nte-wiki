@@ -4,6 +4,8 @@ description: Characters come from Boards in Scarborough Fair and limited Arcs fr
 aliases:
   - 棋盤與弧盤研募
   - 棋盘与弧盘研募
+  - ボードと弧盤研究プロジェクト
+  - 보드와 아크 연구 모집
 appliesTo: Version 1.5, official notes from 2026-05-12 to 2026-11-09
 caveat: Rolls count per Board name. Rolls on one Limited Board do not count toward the perks of another, and progress returns when a Board with the same name is rerun.
 effectiveDate: 2026-11-09
@@ -11,24 +13,64 @@ lastVerified: 2026-11-18
 sources:
   - title: Version 1.5 patch notes, 2026-11-09
     url: https://nte.perfectworld.com/en/article/news/gamenews/20261109/264948.html
+  - title: Version 1.5 patch notes, 2026-11-09 (Japanese)
+    url: https://nte.perfectworld.com/jp/article/news/gamenews/20261109/264951.html
+  - title: Version 1.5 patch notes, 2026-11-09 (Korean)
+    url: https://nte.perfectworld.com/kr/article/news/gamenews/20261109/264952.html
   - title: Version 1.4 patch notes, 2026-09-29
     url: https://nte.perfectworld.com/en/article/news/gamenews/20260929/264409.html
+  - title: Version 1.4 patch notes, 2026-09-29 (Japanese)
+    url: https://nte.perfectworld.com/jp/article/news/gamenews/20260929/264412.html
+  - title: Version 1.4 patch notes, 2026-09-29 (Korean)
+    url: https://nte.perfectworld.com/kr/article/news/gamenews/20260929/264413.html
   - title: Maintenance notice of 2026-10-19
     url: https://nte.perfectworld.com/en/article/news/gamenews/20261019/264675.html
+  - title: Maintenance notice of 2026-10-19 (Japanese)
+    url: https://nte.perfectworld.com/jp/article/news/gamenews/20261019/264678.html
+  - title: Maintenance notice of 2026-10-19 (Korean)
+    url: https://nte.perfectworld.com/kr/article/news/gamenews/20261019/264679.html
   - title: Version 1.3 patch notes, 2026-08-18
     url: https://nte.perfectworld.com/en/article/news/gamenews/20260817/263605.html
+  - title: Version 1.3 patch notes, 2026-08-18 (Japanese)
+    url: https://nte.perfectworld.com/jp/article/news/gamenews/20260817/263606.html
+  - title: Version 1.3 patch notes, 2026-08-18 (Korean)
+    url: https://nte.perfectworld.com/kr/article/news/gamenews/20260817/263607.html
   - title: Maintenance notice of 2026-09-08
     url: https://nte.perfectworld.com/en/article/news/gamenews/20260908/263947.html
+  - title: Maintenance notice of 2026-09-08 (Japanese)
+    url: https://nte.perfectworld.com/jp/article/news/gamenews/20260908/263946.html
+  - title: Maintenance notice of 2026-09-08 (Korean)
+    url: https://nte.perfectworld.com/kr/article/news/gamenews/20260908/263945.html
   - title: Version 1.2 patch notes, 2026-07-06
     url: https://nte.perfectworld.com/en/article/news/gamenews/20260706/263029.html
+  - title: Version 1.2 patch notes, 2026-07-06 (Japanese)
+    url: https://nte.perfectworld.com/jp/article/news/gamenews/20260706/263026.html
+  - title: Version 1.2 patch notes, 2026-07-06 (Korean)
+    url: https://nte.perfectworld.com/kr/article/news/gamenews/20260706/263025.html
   - title: Maintenance notice of 2026-07-28
     url: https://nte.perfectworld.com/en/article/news/gamenews/20260728/263296.html
+  - title: Maintenance notice of 2026-07-28 (Japanese)
+    url: https://nte.perfectworld.com/jp/article/news/gamenews/20260728/263293.html
+  - title: Maintenance notice of 2026-07-28 (Korean)
+    url: https://nte.perfectworld.com/kr/article/news/gamenews/20260728/263292.html
   - title: Version 1.1 update notes, 2026-06-02
     url: https://nte.perfectworld.com/en/article/news/gamebroad/20260602/262479.html
+  - title: Version 1.1 update notes, 2026-06-02 (Japanese)
+    url: https://nte.perfectworld.com/jp/article/news/gamebroad/20260602/262474.html
+  - title: Version 1.1 update notes, 2026-06-02 (Korean)
+    url: https://nte.perfectworld.com/kr/article/news/gamebroad/20260602/262473.html
   - title: Maintenance notice of 2026-06-23
     url: https://nte.perfectworld.com/en/article/news/gamebroad/20260623/262810.html
+  - title: Maintenance notice of 2026-06-23 (Japanese)
+    url: https://nte.perfectworld.com/jp/article/news/gamebroad/20260623/262807.html
+  - title: Maintenance notice of 2026-06-23 (Korean)
+    url: https://nte.perfectworld.com/kr/article/news/gamebroad/20260623/262806.html
   - title: Maintenance notice of 2026-05-12
     url: https://nte.perfectworld.com/en/article/news/gamebroad/20260512/262144.html
+  - title: Maintenance notice of 2026-05-12 (Japanese)
+    url: https://nte.perfectworld.com/jp/article/news/gamebroad/20260512/262141.html
+  - title: Maintenance notice of 2026-05-12 (Korean)
+    url: https://nte.perfectworld.com/kr/article/news/gamebroad/20260512/262140.html
   - title: Game8, list of characters (Standard and Limited boards)
     url: https://game8.co/games/Neverness-to-Everness/archives/592067
   - title: Prydwen, banners page (standard banner)

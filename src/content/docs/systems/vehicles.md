@@ -4,6 +4,8 @@ description: The 31 vehicles in NTE by Version 1.5, with top speed and how to ge
 aliases:
   - 載具
   - 载具
+  - 乗り物
+  - 탈것
 appliesTo: Version 1.5, game data 1.5.4
 lastVerified: 2026-11-21
 caveat: Mystery Box vehicles came from limited-time Mystery Box events; the shop prices are in Fons and the shops sell those vehicles permanently.
@@ -12,14 +14,26 @@ sources:
     url: https://static.nanoka.cc/nte/1.5.4/en/vehicle.json
   - title: nanoka.cc game data 1.5.4, vehicles in Chinese
     url: https://static.nanoka.cc/nte/1.5.4/zh/vehicle.json
+  - title: nanoka.cc game data 1.5.4, vehicles in Japanese
+    url: https://static.nanoka.cc/nte/1.5.4/ja/vehicle.json
+  - title: nanoka.cc game data 1.5.4, vehicles in Korean
+    url: https://static.nanoka.cc/nte/1.5.4/ko/vehicle.json
   - title: mysqil (环世全鉴), vehicles page in Simplified Chinese
     url: https://wiki.mysqil.com/vehicles
   - title: Everness Database, vehicles
     url: https://everness.info/en/vehicles
   - title: Version 1.3 patch notes, 2026-08-17 (Sirocco)
     url: https://nte.perfectworld.com/en/article/news/gamenews/20260817/263605.html
+  - title: Version 1.3 patch notes, 2026-08-17 (Sirocco, Japanese)
+    url: https://nte.perfectworld.com/jp/article/news/gamenews/20260817/263606.html
+  - title: Version 1.3 patch notes, 2026-08-17 (Sirocco, Korean)
+    url: https://nte.perfectworld.com/kr/article/news/gamenews/20260817/263607.html
   - title: Version 1.5 patch notes, 2026-11-09 (Iron Ogre, Prototype Land Overlord 001, C001, Ori-LV03)
     url: https://nte.perfectworld.com/en/article/news/gamenews/20261109/264948.html
+  - title: Version 1.5 patch notes, 2026-11-09 (Iron Ogre, Prototype Land Overlord 001, C001, Ori-LV03, Japanese)
+    url: https://nte.perfectworld.com/jp/article/news/gamenews/20261109/264951.html
+  - title: Version 1.5 patch notes, 2026-11-09 (Iron Ogre, Prototype Land Overlord 001, C001, Ori-LV03, Korean)
+    url: https://nte.perfectworld.com/kr/article/news/gamenews/20261109/264952.html
   - title: GameWith, Methods to Travel
     url: https://gamewith.net/nte/74171
   - title: NGA forum, Hethereau public transport map thread, in Simplified Chinese (read 2026-11-21)

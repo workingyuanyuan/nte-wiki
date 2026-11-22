@@ -3,6 +3,8 @@ title: 娜娜莉
 description: 娜娜莉是 1.0 版加入的靈屬性限定 S 級角色。
 aliases:
   - Nanally
+  - ナナリ
+  - 나나리
 appliesTo: Version 1.5, game data 1.5.4
 caveat: 娜娜莉是限定角色，只能在「王牌一代目」限定棋盤開放期間取得。最近一次開放已於 2026-09-09 05:59 (UTC+8) 結束。
 effectiveDate: 2026-08-18
@@ -13,10 +15,22 @@ art:
 sources:
   - title: 2026-05-12 維護公告（1.0 版下半）
     url: https://nte.perfectworld.com/en/article/news/gamebroad/20260512/262144.html
+  - title: 2026-05-12 維護公告（1.0 版下半，日文）
+    url: https://nte.perfectworld.com/jp/article/news/gamebroad/20260512/262141.html
+  - title: 2026-05-12 維護公告（1.0 版下半，韓文）
+    url: https://nte.perfectworld.com/kr/article/news/gamebroad/20260512/262140.html
   - title: 1.3 版更新公告，2026-08-18
     url: https://nte.perfectworld.com/en/article/news/gamenews/20260817/263605.html
+  - title: 1.3 版更新公告，2026-08-18（日文）
+    url: https://nte.perfectworld.com/jp/article/news/gamenews/20260817/263606.html
+  - title: 1.3 版更新公告，2026-08-18（韓文）
+    url: https://nte.perfectworld.com/kr/article/news/gamenews/20260817/263607.html
   - title: 官方網站的角色介紹
     url: https://nte.perfectworld.com/en/main.html?nav=2&role=20
+  - title: 官方網站的角色介紹（日文）
+    url: https://nte.perfectworld.com/jp/main.html?nav=2&role=20
+  - title: 官方網站的角色介紹（韓文）
+    url: https://nte.perfectworld.com/kr/main.html?nav=2&role=20
   - title: Prydwen，娜娜莉角色頁面（技能、屬性、弧盤類型）
     url: https://www.prydwen.gg/neverness-to-everness/characters/nanally
   - title: Game8，娜娜莉配裝頁面（交叉查證技能與屬性）
@@ -25,6 +39,10 @@ sources:
     url: https://static.nanoka.cc/nte/1.5.4/en/character/1010.json
   - title: nanoka.cc 遊戲資料 1.5.4，角色檔案（中文）
     url: https://static.nanoka.cc/nte/1.5.4/zh/character/1010.json
+  - title: nanoka.cc 遊戲資料 1.5.4，角色檔案（日文）
+    url: https://static.nanoka.cc/nte/1.5.4/ja/character/1010.json
+  - title: nanoka.cc 遊戲資料 1.5.4，角色檔案（韓文）
+    url: https://static.nanoka.cc/nte/1.5.4/ko/character/1010.json
 ---
 
 ![娜娜莉的官方角色圖：戴著眼鏡、長著貓耳的紅髮少女，身穿黑色外套與紅色短裙](/art/characters/nanally.webp)

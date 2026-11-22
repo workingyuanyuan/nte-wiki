@@ -3,6 +3,8 @@ title: Mint
 description: Mint is an A-Class character of the Anima attribute, found on Limited Boards.
 aliases:
   - 薄荷
+  - ミント
+  - 민트
 appliesTo: Version 1.5, game data 1.5.4
 caveat: 'Mint is on both Limited Boards of Version 1.5, which close on 2026-12-02 at 05:59 (UTC+8).'
 effectiveDate: 2026-11-09
@@ -13,14 +15,34 @@ art:
 sources:
   - title: Version 1.4 patch notes, 2026-09-29
     url: https://nte.perfectworld.com/en/article/news/gamenews/20260929/264409.html
+  - title: Version 1.4 patch notes, 2026-09-29 (Japanese)
+    url: https://nte.perfectworld.com/jp/article/news/gamenews/20260929/264412.html
+  - title: Version 1.4 patch notes, 2026-09-29 (Korean)
+    url: https://nte.perfectworld.com/kr/article/news/gamenews/20260929/264413.html
   - title: Version 1.5 patch notes, 2026-11-09
     url: https://nte.perfectworld.com/en/article/news/gamenews/20261109/264948.html
+  - title: Version 1.5 patch notes, 2026-11-09 (Japanese)
+    url: https://nte.perfectworld.com/jp/article/news/gamenews/20261109/264951.html
+  - title: Version 1.5 patch notes, 2026-11-09 (Korean)
+    url: https://nte.perfectworld.com/kr/article/news/gamenews/20261109/264952.html
   - title: Version 1.2 patch notes, 2026-07-06
     url: https://nte.perfectworld.com/en/article/news/gamenews/20260706/263029.html
+  - title: Version 1.2 patch notes, 2026-07-06 (Japanese)
+    url: https://nte.perfectworld.com/jp/article/news/gamenews/20260706/263026.html
+  - title: Version 1.2 patch notes, 2026-07-06 (Korean)
+    url: https://nte.perfectworld.com/kr/article/news/gamenews/20260706/263025.html
   - title: Version 1.3 patch notes, 2026-08-18
     url: https://nte.perfectworld.com/en/article/news/gamenews/20260817/263605.html
+  - title: Version 1.3 patch notes, 2026-08-18 (Japanese)
+    url: https://nte.perfectworld.com/jp/article/news/gamenews/20260817/263606.html
+  - title: Version 1.3 patch notes, 2026-08-18 (Korean)
+    url: https://nte.perfectworld.com/kr/article/news/gamenews/20260817/263607.html
   - title: Character profiles on the official site
     url: https://nte.perfectworld.com/en/main.html?nav=2&role=20
+  - title: Character profiles on the official site (Japanese)
+    url: https://nte.perfectworld.com/jp/main.html?nav=2&role=20
+  - title: Character profiles on the official site (Korean)
+    url: https://nte.perfectworld.com/kr/main.html?nav=2&role=20
   - title: Prydwen, Mint character page (skills, attribute, Arc type)
     url: https://www.prydwen.gg/neverness-to-everness/characters/mint
   - title: Game8, Mint build page (cross-check of skills and attribute)
@@ -29,6 +51,10 @@ sources:
     url: https://static.nanoka.cc/nte/1.5.4/en/character/1019.json
   - title: nanoka.cc game data 1.5.4, character file in Chinese
     url: https://static.nanoka.cc/nte/1.5.4/zh/character/1019.json
+  - title: nanoka.cc game data 1.5.4, character file in Japanese
+    url: https://static.nanoka.cc/nte/1.5.4/ja/character/1019.json
+  - title: nanoka.cc game data 1.5.4, character file in Korean
+    url: https://static.nanoka.cc/nte/1.5.4/ko/character/1019.json
 ---
 
 ![Mint, official character art: a girl with long teal hair and cat ears in a white blouse and a black corset](/art/characters/mint.webp)

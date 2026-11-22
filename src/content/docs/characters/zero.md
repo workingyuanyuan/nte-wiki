@@ -5,6 +5,8 @@ aliases:
   - Zero
   - 異能者·零
   - 异能者·零
+  - 異能者・零
+  - 이능력자·제로
 appliesTo: Version 1.5, game data 1.5.4
 caveat: Zero has a male and a female form; the choice changes the look, and the official notes treat both as one character, Esper Zero.
 effectiveDate: 2026-09-29
@@ -15,14 +17,34 @@ art:
 sources:
   - title: Version 1.1 update notes, 2026-06-02
     url: https://nte.perfectworld.com/en/article/news/gamebroad/20260602/262479.html
+  - title: Version 1.1 update notes, 2026-06-02 (Japanese)
+    url: https://nte.perfectworld.com/jp/article/news/gamebroad/20260602/262474.html
+  - title: Version 1.1 update notes, 2026-06-02 (Korean)
+    url: https://nte.perfectworld.com/kr/article/news/gamebroad/20260602/262473.html
   - title: Version 1.2 patch notes, 2026-07-06
     url: https://nte.perfectworld.com/en/article/news/gamenews/20260706/263029.html
+  - title: Version 1.2 patch notes, 2026-07-06 (Japanese)
+    url: https://nte.perfectworld.com/jp/article/news/gamenews/20260706/263026.html
+  - title: Version 1.2 patch notes, 2026-07-06 (Korean)
+    url: https://nte.perfectworld.com/kr/article/news/gamenews/20260706/263025.html
   - title: Version 1.3 patch notes, 2026-08-18
     url: https://nte.perfectworld.com/en/article/news/gamenews/20260817/263605.html
+  - title: Version 1.3 patch notes, 2026-08-18 (Japanese)
+    url: https://nte.perfectworld.com/jp/article/news/gamenews/20260817/263606.html
+  - title: Version 1.3 patch notes, 2026-08-18 (Korean)
+    url: https://nte.perfectworld.com/kr/article/news/gamenews/20260817/263607.html
   - title: Version 1.4 patch notes, 2026-09-29
     url: https://nte.perfectworld.com/en/article/news/gamenews/20260929/264409.html
+  - title: Version 1.4 patch notes, 2026-09-29 (Japanese)
+    url: https://nte.perfectworld.com/jp/article/news/gamenews/20260929/264412.html
+  - title: Version 1.4 patch notes, 2026-09-29 (Korean)
+    url: https://nte.perfectworld.com/kr/article/news/gamenews/20260929/264413.html
   - title: Character profiles on the official site
     url: https://nte.perfectworld.com/en/main.html?nav=2&role=20
+  - title: Character profiles on the official site (Japanese)
+    url: https://nte.perfectworld.com/jp/main.html?nav=2&role=20
+  - title: Character profiles on the official site (Korean)
+    url: https://nte.perfectworld.com/kr/main.html?nav=2&role=20
   - title: Prydwen, Zero character page (skills, attribute, Arc type)
     url: https://www.prydwen.gg/neverness-to-everness/characters/zero
   - title: Game8, Zero build page (cross-check of skills and attribute)
@@ -31,6 +53,10 @@ sources:
     url: https://static.nanoka.cc/nte/1.5.4/en/character/1046.json
   - title: nanoka.cc game data 1.5.4, character file in Chinese
     url: https://static.nanoka.cc/nte/1.5.4/zh/character/1046.json
+  - title: nanoka.cc game data 1.5.4, character file in Japanese
+    url: https://static.nanoka.cc/nte/1.5.4/ja/character/1046.json
+  - title: nanoka.cc game data 1.5.4, character file in Korean
+    url: https://static.nanoka.cc/nte/1.5.4/ko/character/1046.json
 ---
 
 ![Esper Zero in the male form, official character art: a young man with short silver hair in a black jacket, a white shirt and a purple tie](/art/characters/zero.webp)

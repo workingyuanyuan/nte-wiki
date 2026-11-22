@@ -11,6 +11,18 @@
 	src: url('/fonts/pixel.woff2') format('woff2');
 	font-display: swap;
 }
+/* Japanese and Korean pages load the same font cut from its Japanese and Korean files,
+   which have the kana, Hangul and the glyph forms of those languages. */
+@font-face {
+	font-family: 'Fusion Pixel 12 JA';
+	src: url('/fonts/pixel-ja.woff2') format('woff2');
+	font-display: swap;
+}
+@font-face {
+	font-family: 'Fusion Pixel 12 KO';
+	src: url('/fonts/pixel-ko.woff2') format('woff2');
+	font-display: swap;
+}
 
 :root,
 ::backdrop {
@@ -39,7 +51,7 @@
 	--sl-color-bg-nav: #0b1014;
 	--sl-color-bg-sidebar: #0b1014;
 
-	--sl-font: 'Inter', 'Segoe UI', 'Noto Sans TC', 'PingFang TC', 'Microsoft JhengHei', system-ui, sans-serif;
+	--sl-font: 'Inter', 'Segoe UI', 'Noto Sans TC', 'PingFang TC', 'Microsoft JhengHei', 'Yu Gothic UI', 'Malgun Gothic', system-ui, sans-serif;
 	--sl-content-width: 50rem;
 	--sl-text-h1: 24px;
 	--sl-text-h2: 24px;
@@ -47,7 +59,18 @@
 
 /* Simplified Chinese pages take Simplified fonts, so punctuation sits where mainland readers expect it. */
 :root[lang='zh-CN'] {
-	--sl-font: 'Inter', 'Segoe UI', 'Noto Sans SC', 'PingFang SC', 'Microsoft YaHei', system-ui, sans-serif;
+	--sl-font: 'Inter', 'Segoe UI', 'Noto Sans SC', 'PingFang SC', 'Microsoft YaHei', 'Yu Gothic UI', 'Malgun Gothic', system-ui, sans-serif;
+}
+
+/* Japanese and Korean pages take fonts of their own language for kana, Hangul and kanji forms. */
+:root[lang='ja'] {
+	--sl-font: 'Inter', 'Segoe UI', 'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic UI', 'Meiryo', 'Malgun Gothic', system-ui, sans-serif;
+	--nte-pixel: 'Fusion Pixel 12 JA', ui-monospace, 'Cascadia Mono', Consolas, 'Noto Sans JP', 'Meiryo', monospace;
+}
+:root[lang='ko'] {
+	--sl-font: 'Inter', 'Segoe UI', 'Noto Sans KR', 'Apple SD Gothic Neo', 'Yu Gothic UI', 'Malgun Gothic', 'Meiryo', system-ui, sans-serif;
+	--nte-pixel: 'Fusion Pixel 12 KO', ui-monospace, 'Cascadia Mono', Consolas, 'Noto Sans KR', 'Malgun Gothic', monospace;
+	word-break: keep-all;
 }
 
 :root[data-theme='light'],

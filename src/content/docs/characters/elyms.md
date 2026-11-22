@@ -4,6 +4,8 @@ description: Elyms is a limited S-Class character of the Cosmos attribute, added
 aliases:
   - 曳爾沐
   - 曳尔沐
+  - イェルム
+  - 엘림
 appliesTo: Version 1.5, game data 1.5.4
 caveat: 'Elyms is limited: obtainable only while the "Android Dreams" Board is open. The current run closes on 2026-12-02 at 05:59 (UTC+8).'
 effectiveDate: 2026-11-09
@@ -14,12 +16,20 @@ art:
 sources:
   - title: Version 1.5 patch notes, 2026-11-09
     url: https://nte.perfectworld.com/en/article/news/gamenews/20261109/264948.html
+  - title: Version 1.5 patch notes, 2026-11-09 (Japanese)
+    url: https://nte.perfectworld.com/jp/article/news/gamenews/20261109/264951.html
+  - title: Version 1.5 patch notes, 2026-11-09 (Korean)
+    url: https://nte.perfectworld.com/kr/article/news/gamenews/20261109/264952.html
   - title: Official site home page (role tags)
     url: https://nte.perfectworld.com/en/
   - title: Taiwan news post on Version 1.5, 2026-11-11
     url: https://nte.iwplay.com.tw/news/view/20261111/72bcf6d9.html
   - title: Character profiles on the official site
     url: https://nte.perfectworld.com/en/main.html?nav=2&role=20
+  - title: Character profiles on the official site (Japanese)
+    url: https://nte.perfectworld.com/jp/main.html?nav=2&role=20
+  - title: Character profiles on the official site (Korean)
+    url: https://nte.perfectworld.com/kr/main.html?nav=2&role=20
   - title: Prydwen, Elyms character page (skills, attribute, Arc type)
     url: https://www.prydwen.gg/neverness-to-everness/characters/elyms
   - title: Game8, Elyms build page (cross-check of skills and attribute)
@@ -28,6 +38,10 @@ sources:
     url: https://static.nanoka.cc/nte/1.5.4/en/character/1090.json
   - title: nanoka.cc game data 1.5.4, character file in Chinese
     url: https://static.nanoka.cc/nte/1.5.4/zh/character/1090.json
+  - title: nanoka.cc game data 1.5.4, character file in Japanese
+    url: https://static.nanoka.cc/nte/1.5.4/ja/character/1090.json
+  - title: nanoka.cc game data 1.5.4, character file in Korean
+    url: https://static.nanoka.cc/nte/1.5.4/ko/character/1090.json
 ---
 
 ![Elyms, official character art: a girl with long silver hair in a white coat and black gloves, the city behind her](/art/characters/elyms.webp)

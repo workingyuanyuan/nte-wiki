@@ -4,6 +4,8 @@ description: 角色可通过斯卡布罗集市的棋盘取得，限定弧盘则�
 aliases:
   - Boards and Arc Research
   - 棋盤與弧盤研募
+  - ボードと弧盤研究プロジェクト
+  - 보드와 아크 연구 모집
 appliesTo: 1.5 版，2026-05-12 至 2026-11-09 的官方公告
 caveat: 掷骰次数依棋盘名称分开计算。在某个限定棋盘的掷骰不会计入其他棋盘的礼遇进度，同名棋盘返场时则会保留先前的进度。
 effectiveDate: 2026-11-09
@@ -11,24 +13,64 @@ lastVerified: 2026-11-18
 sources:
   - title: 1.5 版更新公告，2026-11-09
     url: https://nte.perfectworld.com/en/article/news/gamenews/20261109/264948.html
+  - title: 1.5 版更新公告，2026-11-09（日文）
+    url: https://nte.perfectworld.com/jp/article/news/gamenews/20261109/264951.html
+  - title: 1.5 版更新公告，2026-11-09（韩文）
+    url: https://nte.perfectworld.com/kr/article/news/gamenews/20261109/264952.html
   - title: 1.4 版更新公告，2026-09-29
     url: https://nte.perfectworld.com/en/article/news/gamenews/20260929/264409.html
+  - title: 1.4 版更新公告，2026-09-29（日文）
+    url: https://nte.perfectworld.com/jp/article/news/gamenews/20260929/264412.html
+  - title: 1.4 版更新公告，2026-09-29（韩文）
+    url: https://nte.perfectworld.com/kr/article/news/gamenews/20260929/264413.html
   - title: 2026-10-19 停服维护公告
     url: https://nte.perfectworld.com/en/article/news/gamenews/20261019/264675.html
+  - title: 2026-10-19 停服维护公告（日文）
+    url: https://nte.perfectworld.com/jp/article/news/gamenews/20261019/264678.html
+  - title: 2026-10-19 停服维护公告（韩文）
+    url: https://nte.perfectworld.com/kr/article/news/gamenews/20261019/264679.html
   - title: 1.3 版更新公告，2026-08-18
     url: https://nte.perfectworld.com/en/article/news/gamenews/20260817/263605.html
+  - title: 1.3 版更新公告，2026-08-18（日文）
+    url: https://nte.perfectworld.com/jp/article/news/gamenews/20260817/263606.html
+  - title: 1.3 版更新公告，2026-08-18（韩文）
+    url: https://nte.perfectworld.com/kr/article/news/gamenews/20260817/263607.html
   - title: 2026-09-08 停服维护公告
     url: https://nte.perfectworld.com/en/article/news/gamenews/20260908/263947.html
+  - title: 2026-09-08 停服维护公告（日文）
+    url: https://nte.perfectworld.com/jp/article/news/gamenews/20260908/263946.html
+  - title: 2026-09-08 停服维护公告（韩文）
+    url: https://nte.perfectworld.com/kr/article/news/gamenews/20260908/263945.html
   - title: 1.2 版更新公告，2026-07-06
     url: https://nte.perfectworld.com/en/article/news/gamenews/20260706/263029.html
+  - title: 1.2 版更新公告，2026-07-06（日文）
+    url: https://nte.perfectworld.com/jp/article/news/gamenews/20260706/263026.html
+  - title: 1.2 版更新公告，2026-07-06（韩文）
+    url: https://nte.perfectworld.com/kr/article/news/gamenews/20260706/263025.html
   - title: 2026-07-28 停服维护公告
     url: https://nte.perfectworld.com/en/article/news/gamenews/20260728/263296.html
+  - title: 2026-07-28 停服维护公告（日文）
+    url: https://nte.perfectworld.com/jp/article/news/gamenews/20260728/263293.html
+  - title: 2026-07-28 停服维护公告（韩文）
+    url: https://nte.perfectworld.com/kr/article/news/gamenews/20260728/263292.html
   - title: 1.1 版更新公告，2026-06-02
     url: https://nte.perfectworld.com/en/article/news/gamebroad/20260602/262479.html
+  - title: 1.1 版更新公告，2026-06-02（日文）
+    url: https://nte.perfectworld.com/jp/article/news/gamebroad/20260602/262474.html
+  - title: 1.1 版更新公告，2026-06-02（韩文）
+    url: https://nte.perfectworld.com/kr/article/news/gamebroad/20260602/262473.html
   - title: 2026-06-23 停服维护公告
     url: https://nte.perfectworld.com/en/article/news/gamebroad/20260623/262810.html
+  - title: 2026-06-23 停服维护公告（日文）
+    url: https://nte.perfectworld.com/jp/article/news/gamebroad/20260623/262807.html
+  - title: 2026-06-23 停服维护公告（韩文）
+    url: https://nte.perfectworld.com/kr/article/news/gamebroad/20260623/262806.html
   - title: 2026-05-12 停服维护公告
     url: https://nte.perfectworld.com/en/article/news/gamebroad/20260512/262144.html
+  - title: 2026-05-12 停服维护公告（日文）
+    url: https://nte.perfectworld.com/jp/article/news/gamebroad/20260512/262141.html
+  - title: 2026-05-12 停服维护公告（韩文）
+    url: https://nte.perfectworld.com/kr/article/news/gamebroad/20260512/262140.html
   - title: Game8，角色列表（常驻棋盘与限定棋盘）
     url: https://game8.co/games/Neverness-to-Everness/archives/592067
   - title: Prydwen，卡池页面（常驻卡池）

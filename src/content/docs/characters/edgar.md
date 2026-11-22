@@ -3,6 +3,8 @@ title: Edgar
 description: Edgar is an A-Class character of the Cosmos attribute, found on Limited Boards.
 aliases:
   - 埃德嘉
+  - エドガー
+  - 에드가
 appliesTo: Version 1.5, game data 1.5.4
 caveat: 'Edgar is on both Limited Boards of Version 1.5, which close on 2026-12-02 at 05:59 (UTC+8).'
 effectiveDate: 2026-11-09
@@ -10,8 +12,16 @@ lastVerified: 2026-11-22
 sources:
   - title: Version 1.4 patch notes, 2026-09-29
     url: https://nte.perfectworld.com/en/article/news/gamenews/20260929/264409.html
+  - title: Version 1.4 patch notes, 2026-09-29 (Japanese)
+    url: https://nte.perfectworld.com/jp/article/news/gamenews/20260929/264412.html
+  - title: Version 1.4 patch notes, 2026-09-29 (Korean)
+    url: https://nte.perfectworld.com/kr/article/news/gamenews/20260929/264413.html
   - title: Version 1.5 patch notes, 2026-11-09
     url: https://nte.perfectworld.com/en/article/news/gamenews/20261109/264948.html
+  - title: Version 1.5 patch notes, 2026-11-09 (Japanese)
+    url: https://nte.perfectworld.com/jp/article/news/gamenews/20261109/264951.html
+  - title: Version 1.5 patch notes, 2026-11-09 (Korean)
+    url: https://nte.perfectworld.com/kr/article/news/gamenews/20261109/264952.html
   - title: Prydwen, Edgar character page (skills, attribute, Arc type)
     url: https://www.prydwen.gg/neverness-to-everness/characters/edgar
   - title: Game8, Edgar build page (cross-check of skills and attribute)
@@ -20,6 +30,10 @@ sources:
     url: https://static.nanoka.cc/nte/1.5.4/en/character/1021.json
   - title: nanoka.cc game data 1.5.4, character file in Chinese
     url: https://static.nanoka.cc/nte/1.5.4/zh/character/1021.json
+  - title: nanoka.cc game data 1.5.4, character file in Japanese
+    url: https://static.nanoka.cc/nte/1.5.4/ja/character/1021.json
+  - title: nanoka.cc game data 1.5.4, character file in Korean
+    url: https://static.nanoka.cc/nte/1.5.4/ko/character/1021.json
 ---
 
 ## Profile

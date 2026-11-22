@@ -3,6 +3,8 @@ title: 阿德勒
 description: 阿德勒是咒屬性的 A 級角色，可在限定棋盤中取得。
 aliases:
   - Adler
+  - アドレー
+  - 아들러
 appliesTo: Version 1.5, game data 1.5.4
 caveat: 阿德勒同時出現在 1.5 版的兩個限定棋盤中，兩者皆於 2026-12-02 05:59 (UTC+8) 結束。
 effectiveDate: 2026-11-09
@@ -10,8 +12,16 @@ lastVerified: 2026-11-22
 sources:
   - title: 1.4 版更新公告，2026-09-29
     url: https://nte.perfectworld.com/en/article/news/gamenews/20260929/264409.html
+  - title: 1.4 版更新公告，2026-09-29（日文）
+    url: https://nte.perfectworld.com/jp/article/news/gamenews/20260929/264412.html
+  - title: 1.4 版更新公告，2026-09-29（韓文）
+    url: https://nte.perfectworld.com/kr/article/news/gamenews/20260929/264413.html
   - title: 1.5 版更新公告，2026-11-09
     url: https://nte.perfectworld.com/en/article/news/gamenews/20261109/264948.html
+  - title: 1.5 版更新公告，2026-11-09（日文）
+    url: https://nte.perfectworld.com/jp/article/news/gamenews/20261109/264951.html
+  - title: 1.5 版更新公告，2026-11-09（韓文）
+    url: https://nte.perfectworld.com/kr/article/news/gamenews/20261109/264952.html
   - title: Prydwen 的阿德勒角色頁面（技能、屬性、弧盤類型）
     url: https://www.prydwen.gg/neverness-to-everness/characters/adler
   - title: Game8 的阿德勒配裝頁面（交叉查證技能與屬性）
@@ -20,6 +30,10 @@ sources:
     url: https://static.nanoka.cc/nte/1.5.4/en/character/1033.json
   - title: nanoka.cc 遊戲資料 1.5.4，角色檔案（中文）
     url: https://static.nanoka.cc/nte/1.5.4/zh/character/1033.json
+  - title: nanoka.cc 遊戲資料 1.5.4，角色檔案（日文）
+    url: https://static.nanoka.cc/nte/1.5.4/ja/character/1033.json
+  - title: nanoka.cc 遊戲資料 1.5.4，角色檔案（韓文）
+    url: https://static.nanoka.cc/nte/1.5.4/ko/character/1033.json
 ---
 
 ## 角色資料

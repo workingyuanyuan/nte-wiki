@@ -4,6 +4,8 @@ description: 哈尼婭是魂屬性的 A 級角色，可在限定棋盤中取得�
 aliases:
   - Haniel
   - 哈尼娅
+  - ハニア
+  - 하니엘
 appliesTo: Version 1.5, game data 1.5.4
 caveat: 1.5 版的兩個限定棋盤皆不包含哈尼婭，兩者都只收錄薄荷、埃德嘉與阿德勒。最後一個收錄哈尼婭的棋盤已於 2026-11-11 05:59 (UTC+8) 結束。
 effectiveDate: 2026-10-19
@@ -11,12 +13,28 @@ lastVerified: 2026-11-22
 sources:
   - title: 2026-09-08 停服維護公告（1.3 版下半）
     url: https://nte.perfectworld.com/en/article/news/gamenews/20260908/263947.html
+  - title: 2026-09-08 停服維護公告（1.3 版下半，日文）
+    url: https://nte.perfectworld.com/jp/article/news/gamenews/20260908/263946.html
+  - title: 2026-09-08 停服維護公告（1.3 版下半，韓文）
+    url: https://nte.perfectworld.com/kr/article/news/gamenews/20260908/263945.html
   - title: 2026-10-19 停服維護公告（1.4 版下半）
     url: https://nte.perfectworld.com/en/article/news/gamenews/20261019/264675.html
+  - title: 2026-10-19 停服維護公告（1.4 版下半，日文）
+    url: https://nte.perfectworld.com/jp/article/news/gamenews/20261019/264678.html
+  - title: 2026-10-19 停服維護公告（1.4 版下半，韓文）
+    url: https://nte.perfectworld.com/kr/article/news/gamenews/20261019/264679.html
   - title: 官方開服常見問題（FAQ），2026-04-27
     url: https://nte.perfectworld.com/en/article/news/gamebroad/20260426/261931.html
+  - title: 官方開服常見問題（FAQ），2026-04-27（日文）
+    url: https://nte.perfectworld.com/jp/article/news/gamebroad/20260427/261937.html
+  - title: 官方開服常見問題（FAQ），2026-04-27（韓文）
+    url: https://nte.perfectworld.com/kr/article/news/gamebroad/20260426/261934.html
   - title: 1.4 版更新公告，2026-09-29
     url: https://nte.perfectworld.com/en/article/news/gamenews/20260929/264409.html
+  - title: 1.4 版更新公告，2026-09-29（日文）
+    url: https://nte.perfectworld.com/jp/article/news/gamenews/20260929/264412.html
+  - title: 1.4 版更新公告，2026-09-29（韓文）
+    url: https://nte.perfectworld.com/kr/article/news/gamenews/20260929/264413.html
   - title: Prydwen 的哈尼婭角色頁面（技能、屬性、弧盤類型）
     url: https://www.prydwen.gg/neverness-to-everness/characters/haniel
   - title: Game8 的哈尼婭配裝頁面（交叉查證技能與屬性）
@@ -25,6 +43,10 @@ sources:
     url: https://static.nanoka.cc/nte/1.5.4/en/character/1020.json
   - title: nanoka.cc 遊戲資料 1.5.4，角色檔案（中文）
     url: https://static.nanoka.cc/nte/1.5.4/zh/character/1020.json
+  - title: nanoka.cc 遊戲資料 1.5.4，角色檔案（日文）
+    url: https://static.nanoka.cc/nte/1.5.4/ja/character/1020.json
+  - title: nanoka.cc 遊戲資料 1.5.4，角色檔案（韓文）
+    url: https://static.nanoka.cc/nte/1.5.4/ko/character/1020.json
 ---
 
 ## 角色資料

@@ -4,6 +4,7 @@ description: 弧盤是異環的武器；1.5 版共有 52 把，分五種類型�
 aliases:
   - Arcs
   - 弧盘
+  - 아크
 appliesTo: 1.5 版，遊戲資料 1.5.4
 lastVerified: 2026-11-19
 caveat: 角色只能裝備與自身弧盤類型相同的弧盤。中文遊戲文字把 Condensate 類型稱為「聚合」，不是「凝聚態」。
@@ -14,6 +15,10 @@ sources:
     url: https://static.nanoka.cc/nte/1.5.4/en/weapon/fork_Arachne.json
   - title: nanoka.cc 遊戲資料 1.5.4，弧盤檔案（中文，例：永恆圓舞曲）
     url: https://static.nanoka.cc/nte/1.5.4/zh/weapon/fork_Arachne.json
+  - title: nanoka.cc 遊戲資料 1.5.4，弧盤檔案（日文，例：永恆圓舞曲）
+    url: https://static.nanoka.cc/nte/1.5.4/ja/weapon/fork_Arachne.json
+  - title: nanoka.cc 遊戲資料 1.5.4，弧盤檔案（韓文，例：永恆圓舞曲）
+    url: https://static.nanoka.cc/nte/1.5.4/ko/weapon/fork_Arachne.json
   - title: mysqil（環世全鑑）的弧盤頁面（簡體中文）
     url: https://wiki.mysqil.com/weapons
   - title: Everness Database 的弧盤列表（英文）

@@ -4,6 +4,7 @@ description: Arcs are the weapons of NTE; 52 are in the game by Version 1.5, in 
 aliases:
   - 弧盤
   - 弧盘
+  - 아크
 appliesTo: Version 1.5, game data 1.5.4
 lastVerified: 2026-11-19
 caveat: 'A character equips only Arcs of their own Arc type. Chinese texts call the Condensate type 聚合, not 凝聚態.'
@@ -14,6 +15,10 @@ sources:
     url: https://static.nanoka.cc/nte/1.5.4/en/weapon/fork_Arachne.json
   - title: 'nanoka.cc game data 1.5.4, Arc files in Chinese (example: Eternal Waltz)'
     url: https://static.nanoka.cc/nte/1.5.4/zh/weapon/fork_Arachne.json
+  - title: 'nanoka.cc game data 1.5.4, Arc files in Japanese (example: Eternal Waltz)'
+    url: https://static.nanoka.cc/nte/1.5.4/ja/weapon/fork_Arachne.json
+  - title: 'nanoka.cc game data 1.5.4, Arc files in Korean (example: Eternal Waltz)'
+    url: https://static.nanoka.cc/nte/1.5.4/ko/weapon/fork_Arachne.json
   - title: mysqil (环世全鉴), Arcs page in Simplified Chinese
     url: https://wiki.mysqil.com/weapons
   - title: Everness Database, Arcs
