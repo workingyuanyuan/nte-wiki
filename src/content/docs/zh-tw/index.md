@@ -1,13 +1,13 @@
 ---
 title: 異環
-description: '《異環》（NTE）非官方資料站：收錄版本資訊、角色、系統與名稱對照。'
+description: '《異環》（NTE）的版本資訊、角色、系統與各語言名稱對照。'
 aliases:
   - Neverness to Everness
   - NTE
   - 异环
   - 이환
 appliesTo: 1.5 版，依國際版官方網站截至 2026-11-18 發布之資訊
-caveat: 日期與時間皆依國際版官網的 UTC+8 為準；中國大陸伺服器另有排程。本站非 Hotta Studio 或完美世界遊戲營運。
+caveat: 日期與時間皆依國際版官網的 UTC+8 為準；中國大陸伺服器另有排程。
 lastVerified: 2026-11-18
 art:
   - title: 主視覺圖

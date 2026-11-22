@@ -15,6 +15,8 @@
 //  8. llms.txt: notes, bundles and other languages within the first 5,000 characters.
 //  9. The 404 page links each language's home page and page list.
 // 10. robots.txt names the sitemap and carries a Content-Signal line.
+// Header and page text: the header links the twin, llms.txt and index.json with key hints
+//     drawn by CSS; no text in <main> is about the site or the page (scripts/check-page-text.mjs).
 // Being found: title, description, canonical, hreflang and sitemap (scripts/check-found.mjs).
 
 import { readFileSync, readdirSync, existsSync } from 'node:fs';
@@ -27,6 +29,7 @@ import { SITE, LOCALES, LLMS_NOTES, localeOf, idInLocale, htmlPath, mdPath, llms
 import { bundlePath } from '../src/lib/llms.mjs';
 import { readPages } from '../src/lib/content-index.mjs';
 import { checkFound } from './check-found.mjs';
+import { checkHeaderLinks, checkKeyHintCss, checkSelfReference } from './check-page-text.mjs';
 
 const DIST = fileURLToPath(new URL('../dist/', import.meta.url));
 const LIMIT = 5000;
@@ -185,6 +188,11 @@ for (const { id, data } of pages) {
 		}
 	}
 
+	// Header links and page text (scripts/check-page-text.mjs): the header links the twin,
+	// llms.txt and index.json, and no text in <main> is about the site or the page.
+	checkHeaderLinks(doc, id, fail, { markdown: withBase(mdPath(id)), llms: withBase(llmsPath(localeOf(id))), json: withBase('/index.json') });
+	checkSelfReference(doc, id, fail);
+
 	// 5. No decoration leak into extracted text.
 	const visible = normalize(doc.body.textContent);
 	for (const [name, pattern] of [
@@ -257,6 +265,9 @@ for (const locale of LOCALES) {
 const robots = existsSync(join(DIST, 'robots.txt')) ? read('robots.txt') : '';
 if (!robots.includes(`Sitemap: ${SITE}/sitemap-index.xml`)) fail('robots.txt', 'missing or without the sitemap');
 if (!/^Content-Signal: /m.test(robots)) fail('robots.txt', 'no Content-Signal line');
+
+// The key hints of the header links ([M], [L], [J]) are drawn by the built CSS.
+checkKeyHintCss(DIST, fail);
 
 checkFound(DIST, pages, fail);
 

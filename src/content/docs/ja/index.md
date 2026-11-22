@@ -1,13 +1,13 @@
 ---
 title: NTE
-description: 'NTE: Neverness to Everness の非公式リファレンス。バージョン、キャラ、システム、名称をまとめる。'
+description: 'NTE: Neverness to Everness のバージョン、キャラ、システムと各言語の名称対照。'
 aliases:
   - Neverness to Everness
   - 異環
   - 异环
   - 이환
 appliesTo: バージョン1.5、2026-11-18までにグローバル版公式サイトで公開された内容
-caveat: 日付と時刻はグローバル版公式サイトのUTC+8に従い、中国大陸版は独自のスケジュールである。本サイトはHotta StudioやPerfect World Gamesが運営するものではない。
+caveat: 日付と時刻はグローバル版公式サイトのUTC+8に従い、中国大陸版は独自のスケジュールである。
 lastVerified: 2026-11-18
 art:
   - title: キービジュアル

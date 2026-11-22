@@ -1,13 +1,13 @@
 ---
 title: 이환
-description: 이환(NTE)의 버전, 캐릭터, 시스템, 명칭을 정리한 비공식 자료 사이트이다.
+description: 이환(NTE)의 버전, 캐릭터, 시스템과 언어별 명칭 대조.
 aliases:
   - Neverness to Everness
   - NTE
   - 異環
   - 异环
 appliesTo: 1.5 버전, 2026-11-18까지 글로벌 공식 사이트에 게시된 내용 기준
-caveat: 날짜와 시간은 글로벌 공식 사이트의 UTC+8 기준이며, 중국 본토는 별도 일정을 따른다. 이 사이트는 Hotta Studio나 Perfect World Games가 운영하지 않는다.
+caveat: 날짜와 시간은 글로벌 공식 사이트의 UTC+8 기준이며, 중국 본토는 별도 일정을 따른다.
 lastVerified: 2026-11-18
 art:
   - title: 키 비주얼

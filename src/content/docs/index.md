@@ -1,13 +1,13 @@
 ---
 title: Neverness to Everness
-description: 'Unofficial reference for Neverness to Everness (NTE): versions, characters, systems and names.'
+description: 'Neverness to Everness (NTE): versions, characters, systems and names in each language.'
 aliases:
   - NTE
   - 異環
   - 异环
   - 이환
 appliesTo: Version 1.5, as published on the global official site by 2026-11-18
-caveat: Dates and times follow the global official site in UTC+8; mainland China has its own schedule. The site is not run by Hotta Studio or Perfect World Games.
+caveat: Dates and times follow the global official site in UTC+8; mainland China has its own schedule.
 lastVerified: 2026-11-18
 art:
   - title: key visual

@@ -63,7 +63,7 @@ sources:
 
 The official profile introduces Chaos as the combat core of ETD-6, "the enforcer who never misses a mission".
 
-Chaos is also the name of an attribute. This page is about the character.
+Chaos is also the name of an attribute.
 
 ## How to obtain
 
