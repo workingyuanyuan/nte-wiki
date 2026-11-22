@@ -106,7 +106,7 @@ Each duplicate unlocks one Awakening of the player's choice; Resonances unlock a
 
 | Awakening | Effect |
 | --- | --- |
-| Blooming Gaze | Deals 1 additional hit of 200% ATK to enemies of lower level on first hit. This damage ignores 75% of the target's DEF. |
+| Blooming Gaze | Appraise and Engrave deals 1 additional hit of 200% ATK to the first enemy it hits if that enemy's level is not higher than Zero's. This damage ignores 75% of the target's DEF. |
 | Finding the Calling | Grants an additional 8 Ultimate Energy after successfully casting Appraise and Engrave. |
 | Anomalies Record | Increases Divide by Zero's Crit Chance by 50%. |
 | Undecided Factors | Every 1 point of Zero's Base ATK increases Ultimate: Divide by Zero damage by 0.1%, up to a maximum of 25%. |
@@ -114,6 +114,8 @@ Each duplicate unlocks one Awakening of the player's choice; Resonances unlock a
 | Deceptive Liberation | Increases Extra DMG Ratio of Appraise and Engrave to 300% of ATK. |
 | Resonance 3: Discern | Increases the skill level of Appraisal, Appraise and Engrave, and Divide by Zero by 1. |
 | Resonance 6: Zero Display | Grants the team 12% ATK for 20s when Zero triggers any Cosmos Esper Cycle. |
+
+The English game text of Blooming Gaze says enemies of lower level; the Chinese, Japanese and Korean game texts say a level not higher than Zero's.
 
 ## Outfits
 

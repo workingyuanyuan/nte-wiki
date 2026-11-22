@@ -100,9 +100,11 @@ Each duplicate unlocks one Awakening of the player's choice; Resonances unlock a
 | Across the Airwaves | Resets Full-Frequency Pulse's cooldown upon casting Oversync. |
 | Starlit Whispers | Deals 1 additional instance of Anima DMG in an area each time a Synced Strike is triggered within Resonance Field. DMG Ratio at the current Oversync Skill Level: {0}%. Allows this attack to consume a Hit 'Em Here! mark and trigger a Synced Strike. |
 | Love, Loud and Clear | Allows Synced Strikes triggered by Full-Frequency Pulse to trigger Cycle effects. Increases this Synced Strike's DMG by 50% if the selected ally cannot trigger a Cycle with Linko. |
-| The World Answers | Increases allies' Synced Strike Crit Rate by 25% while Linko is on the team. Grants allies' Synced Strikes the Charge effect. |
+| The World Answers | Increases allies' Synced Strike Crit Rate by 25% while Linko is on the team. After an ally's Synced Strike, Linko and that ally gain Ultimate Energy. |
 | Resonance 3: Shared Pulse | Increases the skill levels of Spectral Cross, Full-Frequency Pulse, and Oversync by 1. Increases Linko's ATK by 20%. |
 | Resonance 6: Perfect Reception | Extends Resonance Field's duration by 5s and increases all allies' Anima and Incantation DMG by 30% while it is active. |
+
+The English game text calls this energy gain "the Charge effect"; it is not the Esper Cycle Charge. The Korean game text names who gains the energy.
 
 ## Signature Arc
 
