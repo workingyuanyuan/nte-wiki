@@ -252,9 +252,18 @@ def set_source(md, lang, kind, example, drop=None):
     return front + rest
 
 
+def example(o, lang):
+    # The Traditional Chinese page named as the example source. The Simplified Chinese page
+    # names it by the game's Simplified name, not the Traditional one.
+    ex = dict(o['zh-tw'])
+    if lang == 'zh-cn':
+        ex['name'] = o['zh-cn']['name']
+    return ex
+
+
 def set_sources(md, rec, chars, lang, order):
     # The character page cites the Traditional Chinese pages its outfit descriptions come from.
-    ex = next((rec['outfits'][f]['zh-tw'] for g in order for f in g if rec['outfits'][f].get('zh-tw')), None)
+    ex = next((example(rec['outfits'][f], lang) for g in order for f in g if rec['outfits'][f].get('zh-tw')), None)
     md = set_source(md, lang, 'outfit', ex, drop='cosmetics/')
     # Outfit text taken from an English or Japanese page of everness.info (untranslated game data).
     lab = L[lang]
@@ -283,7 +292,7 @@ def set_desc_section(path, lang, heading, col, names, keys, rec_items, kind, par
         t = rec_items[k][lang]['text']
         rows.append(f"| {n} | {md_escape(' '.join(t.split())) if t else '—'} |")
     md = md.rstrip('\n') + f"\n\n## {heading}\n\n" + '\n'.join(rows) + '\n'
-    ex = rec_items[keys[0]]['zh-tw']
+    ex = example(rec_items[keys[0]], lang)
     md = set_source(md, lang, kind, ex, drop=part + '/')
     open(path, 'w', encoding='utf-8').write(md)
 

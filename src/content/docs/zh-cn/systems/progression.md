@@ -34,7 +34,7 @@ sources:
     url: https://nte.perfectworld.com/jp/article/news/gamenews/20261109/264951.html
   - title: 1.5 版更新公告，2026-11-09（异象巡礼「Amber Broodmother」，韩文）
     url: https://nte.perfectworld.com/kr/article/news/gamenews/20261109/264952.html
-  - title: Everness，道具页面（繁体中文，例：新銳獵人攻略，2026-11-23 读取）
+  - title: Everness，道具页面（繁体中文，例：新锐猎人攻略，2026-11-23 读取）
     url: https://everness.info/zh-Hant/items/CharacterUpMaterial_lv1
 ---
 

@@ -47,7 +47,7 @@ sources:
     url: https://static.nanoka.cc/nte/1.5.4/ja/character/1020.json
   - title: nanoka.cc 游戏资料 1.5.4，角色档案（韩文）
     url: https://static.nanoka.cc/nte/1.5.4/ko/character/1020.json
-  - title: Everness，时装页面（繁体中文，例：青春注腳，2026-11-23 读取）
+  - title: Everness，时装页面（繁体中文，例：青春注脚，2026-11-23 读取）
     url: https://everness.info/zh-Hant/cosmetics/Fashion_1020_1
 ---
 

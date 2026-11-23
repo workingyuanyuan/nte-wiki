@@ -25,7 +25,7 @@ sources:
     url: https://everness.info/en/arcs
   - title: Prydwen 的角色养成指南（英文，弧盘类型与升级）
     url: https://www.prydwen.gg/neverness-to-everness/guides/character-progression
-  - title: Everness，弧盘页面（繁体中文，例：引爆全場，2026-11-23 读取）
+  - title: Everness，弧盘页面（繁体中文，例：引爆全场，2026-11-23 读取）
     url: https://everness.info/zh-Hant/arcs/fork_BitGame
 ---
 
