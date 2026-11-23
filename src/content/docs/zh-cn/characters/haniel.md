@@ -47,6 +47,8 @@ sources:
     url: https://static.nanoka.cc/nte/1.5.4/ja/character/1020.json
   - title: nanoka.cc 游戏资料 1.5.4，角色档案（韩文）
     url: https://static.nanoka.cc/nte/1.5.4/ko/character/1020.json
+  - title: Everness，时装页面（繁体中文，例：青春注腳，2026-11-23 读取）
+    url: https://everness.info/zh-Hant/cosmetics/Fashion_1020_1
 ---
 
 ## 角色资料
@@ -58,6 +60,7 @@ sources:
 | 弧盘类型 | 固态 (Solid) |
 | 加入版本 | 1.0 版 |
 | 配音员 | 中文：苏子芜；英文：Alexis Tipton；日文：石见舞菜香；韩文：김가령 |
+| 个人档案 | [哈尼娅个人档案](/zh-cn/characters/haniel/archive/) |
 
 Game8 将她的普通攻击命名为「Genesse Technique」，Prydwen 则命名为「Paranormal Entrance」。
 
@@ -118,9 +121,9 @@ Game8 将她的普通攻击命名为「Genesse Technique」，Prydwen 则命名�
 
 ## 时装
 
-| 时装 | 取得方式 |
-| --- | --- |
-| 青春注脚 | 都市大亨「噗卡计划」达到指定等级（1.4 版） |
+| 时装 | 取得方式 | 说明 |
+| --- | --- | --- |
+| 青春注脚 | 都市大亨「噗卡计划」达到指定等级（1.4 版） | 学习和兴趣完全可以兼得的嘛！ 「这位是特工Z世代的『源』！虽然在三姐妹中年纪最小，但也是很可靠特工！特别是在第178话……」 |
 
 ## 技能倍率
 

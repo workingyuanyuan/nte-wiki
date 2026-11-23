@@ -45,6 +45,7 @@ sources:
 | 弧盤タイプ | リキッド (Liquid) |
 | 実装 | バージョン1.0 |
 | 声優 | 中国語：四白、英語：Casey Mongillo、日本語：三瓶由布子、韓国語：장채연 |
+| アーカイブ | [エドガーのアーカイブ](/ja/characters/edgar/archive/) |
 
 ## 入手方法
 

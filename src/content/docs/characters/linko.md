@@ -38,6 +38,8 @@ sources:
     url: https://static.nanoka.cc/nte/1.5.4/ja/character/1072.json
   - title: nanoka.cc game data 1.5.4, character file in Korean
     url: https://static.nanoka.cc/nte/1.5.4/ko/character/1072.json
+  - title: 'Everness, outfit pages in Traditional Chinese (example: 暮春物語, read 2026-11-23)'
+    url: https://everness.info/zh-Hant/cosmetics/Fashion_1072_school
 ---
 
 ![Linko, official character art: a girl with short pink hair in a teal jacket and shorts](/art/characters/linko.webp)
@@ -51,6 +53,7 @@ sources:
 | Arc type | Plasma |
 | Joined | Version 1.3, second half, 2026-09-09 |
 | Voice actors | Chinese: 胡影佳 and 洪海天; English: Emi Lo and Salli Saffioti; Japanese: 小倉唯 and 村瀬迪与; Korean: 김서현 and 김예림 |
+| Archive | [Linko archive](/characters/linko/archive/) |
 
 The official profile says Linko was recruited into ETD-6 as a special exception. She uses telepathy to sense the "frequencies" of humans and anomalies, and leaves the fighting to her adopted anomaly companion, Xiaozhen.
 
@@ -117,11 +120,11 @@ The English game text calls this energy gain "the Charge effect"; it is not the 
 
 ## Outfits
 
-| Outfit | How to get |
-| --- | --- |
-| Faded Spring | Shop, Riftcrystal ×2,480; permanent |
-| Surfing Among Stars | "Surfing All Channels!" Board tile, or the Sync Perks page after enough rolls |
-| Couch Potato | Bond Lvl 10 with Linko |
+| Outfit | How to get | Description |
+| --- | --- | --- |
+| Faded Spring | Shop, Riftcrystal ×2,480; permanent | Linko's school-inspired outfit. A crisp uniform, a spring in her step, and a route that never quite goes as planned. "Take the scenic route. You might find a surprise or two." |
+| Surfing Among Stars | "Surfing All Channels!" Board tile, or the Sync Perks page after enough rolls | Linko's imagination knows no limits. Ever since she found this outfit, she's wondered whether she can tune in to signals from beyond this world. Her backpack holds a tiny garden and the courage to keep going. Plants grow, and so does the journey. |
+| Couch Potato | Bond Lvl 10 with Linko | Linko's loungewear. The loose, comfy fit gives her plenty of room to stretch. "When inspiration comes knocking, you have to be ready to answer." |
 
 ## Skill multipliers
 

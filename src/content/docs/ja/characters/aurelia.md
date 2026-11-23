@@ -44,6 +44,7 @@ sources:
 | 弧盤タイプ | プラズマ (Plasma) |
 | 実装 | バージョン1.0 |
 | 声優 | 中国語：葛子瑞、英語：Kira Buckland、日本語：高橋花林、韓国語：정해은 |
+| アーカイブ | [海月のアーカイブ](/ja/characters/aurelia/archive/) |
 
 英語のスキル名のうち2つを、Game8は「Capella」「Canon Chorus」、Prydwenは「Cappella」「Canzon Chorus」と表記している。絆レベルの上限は2026-10-21に10へ引き上げられた。
 

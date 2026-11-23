@@ -43,6 +43,8 @@ sources:
     url: https://static.nanoka.cc/nte/1.5.4/ja/character/1076.json
   - title: nanoka.cc game data 1.5.4, character file in Korean
     url: https://static.nanoka.cc/nte/1.5.4/ko/character/1076.json
+  - title: 'Everness, outfit pages in Traditional Chinese (example: 獵龍者, read 2026-11-23)'
+    url: https://everness.info/zh-Hant/cosmetics/Fashion_1076_2
 ---
 
 ![Shinku, official character art: a girl with long black hair streaked with red and dark red horns, in a white shirt](/art/characters/shinku.webp)
@@ -56,6 +58,7 @@ sources:
 | Arc type | Condensate |
 | Joined | Version 1.2, 2026-07-08 |
 | Voice actors | Chinese: 唐夏芳; English: Anne Yatco; Japanese: 田所あずさ; Korean: 차영희 |
+| Archive | [Shinku archive](/characters/shinku/archive/) |
 
 The official profile describes Shinku as a "dragon girl" who seems hard to approach but is always the first to charge into danger and shield her teammates.
 
@@ -123,13 +126,13 @@ Each duplicate unlocks one Awakening of the player's choice; Resonances unlock a
 
 ## Outfits
 
-| Outfit | How to get |
-| --- | --- |
-| Dragonhunter | Shop, Riftcrystal ×3,280; permanent |
-| Dawn Patrol | Shop, Riftcrystal ×2,480; permanent |
-| Student of Terrasea | "Before the Dawn" Board tile, or the Resolve Perks page after enough rolls |
-| Labyrinth Lily | Bond Lvl 10 with Shinku |
-| Normie Heroine | "999 Nights" Button Shop |
+| Outfit | How to get | Description |
+| --- | --- | --- |
+| Dragonhunter | Shop, Riftcrystal ×3,280; permanent | Countless storms gather in her heart, and the dragonhunter sets forth on her quest. |
+| Dawn Patrol | Shop, Riftcrystal ×2,480; permanent | A pro-grade racing swimsuit that reveals her competitive spirit. The beach has a way of drawing out one's true self—or perhaps that is simply the thrill of cutting through the waves. "Go all out—even when you’re enjoying summer." |
+| Student of Terrasea | "Before the Dawn" Board tile, or the Resolve Perks page after enough rolls | A neat, preppy outfit with the fresh charm of campus life. They say youth is spent either fleeing from one's inner shadow or chasing after it… and even those without a shadow will find a way to cast one. "Don't read something that ridiculous into it… Ugh, whatever." |
+| Labyrinth Lily | Bond Lvl 10 with Shinku | Shinku's loungewear for quiet days spent idling undisturbed among her treasures. Once a dragon has made up her mind, no force can shake her resolve. "…No. I've already decided. I'm not going out today, no matter what." |
+| Normie Heroine | "999 Nights" Button Shop | Shinku kept her head lowered, trying to vanish into the crowd. After all, if no one came close, then no one would get hurt… right? |
 
 ## Skill multipliers
 

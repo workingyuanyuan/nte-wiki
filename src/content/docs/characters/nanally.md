@@ -43,6 +43,8 @@ sources:
     url: https://static.nanoka.cc/nte/1.5.4/ja/character/1010.json
   - title: nanoka.cc game data 1.5.4, character file in Korean
     url: https://static.nanoka.cc/nte/1.5.4/ko/character/1010.json
+  - title: 'Everness, outfit pages in Traditional Chinese (example: 華麗飛踢, read 2026-11-23)'
+    url: https://everness.info/zh-Hant/cosmetics/Fashion_1010_2
 ---
 
 ![Nanally, official character art: a girl with red hair, cat ears and glasses in a black jacket and red skirt](/art/characters/nanally.webp)
@@ -56,6 +58,7 @@ sources:
 | Arc type | Plasma |
 | Joined | Version 1.0, at launch on 2026-04-29 |
 | Voice actors | Chinese: 宋媛媛; English: Brittany Lauda; Japanese: 竹達彩奈; Korean: 강새봄 |
+| Archive | [Nanally archive](/characters/nanally/archive/) |
 
 The official profile calls Nanally Colucci the top ace of Eibon Antique Shop and the self-styled "Ichi-daime" of the Colucci family.
 
@@ -123,10 +126,10 @@ Each duplicate unlocks one Awakening of the player's choice; Resonances unlock a
 
 ## Outfits
 
-| Outfit | How to get |
-| --- | --- |
-| Phoenix Kick | "The Ichi-daime" Board tile, or the Tiger Perks page after enough rolls |
-| Sunny Surf | "Lucent Tides" Mystery Boxes, 2026-08-19 to 2026-09-30 05:59 (UTC+8) |
+| Outfit | How to get | Description |
+| --- | --- | --- |
+| Phoenix Kick | "The Ichi-daime" Board tile, or the Tiger Perks page after enough rolls | A fighting outfit with a unique design. Nanally specifically enrolled in a combat training class for this. "When am I going to attend the training sessions? Uh… Next time for sure!" |
+| Sunny Surf | "Lucent Tides" Mystery Boxes, 2026-08-19 to 2026-09-30 05:59 (UTC+8) | The Coluccis are expanding into open waters, and Captain Nanally is ready to set sail! All aboard, for the family! |
 
 ## Skill multipliers
 

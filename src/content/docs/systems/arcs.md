@@ -25,6 +25,8 @@ sources:
     url: https://everness.info/en/arcs
   - title: Prydwen, Character Progression guide (Arc types and upgrades)
     url: https://www.prydwen.gg/neverness-to-everness/guides/character-progression
+  - title: 'Everness, Arc pages in Traditional Chinese (example: 引爆全場, read 2026-11-23)'
+    url: https://everness.info/zh-Hant/arcs/fork_BitGame
 ---
 
 ## Types and classes
@@ -181,3 +183,60 @@ Each Arc ascends with one Bubble Can line and one line of Anomaly drops, in thre
 | Beginner Drama Core line | Fading Silhouette line | Reality Refuge, Song of the Whale, The Fools' Spring |
 | Beginner Drama Core line | Blurred Numeral line | Camellia Society, Call of the Twisted City |
 | Beginner Drama Core line | Suspended Delusions line | Far Side of the Moon, "Real Music" |
+
+## Arc descriptions
+
+| Arc | Description |
+| --- | --- |
+| Blow up the Crowd | Shh… it's coming, it's coming! IT'S COMING!!! |
+| Day Off | Eclipse said, "Let there be double days off." And thus, the double days off came into being (Eclipse Exclusive Edition). |
+| Echoes on Hold | Pretend to press the keys, pretend to leave a message, pretend to wait… What comes back? |
+| Fluff of Fearlessness | Hunter Guild Commemorative Arc: Cool fluffs don't look at explosions. |
+| Hethereau's Keeper | Once again, another day has passed peacefully. Hats off to Officer Whisker! |
+| Marching Beyond Time | We press on, lest we rust away to nothing. |
+| Reality Refuge | She told me that I was only ever a butterfly. |
+| The Rain That Shook the World | It emerged from a downpour that turned the world upside down. |
+| Your Happiness is Priceless | Mm, mm-hmm, mm-hmm-hmm-hmm-hmm-hmm-hmm! (Give me Fons— You'll be happy, and I'll be happy too!) |
+| Far Side of the Moon | Though we stand at opposite ends of the world, every step draws us closer. |
+| Fluff of Fleetness | Hunter Guild Commemorative Arc: MAD FLUFF! |
+| The Last Rose | On the water's surface, the last rose blooms alone. She waits… for a dear friend, or perhaps for a boundless dream. |
+| The Wrong Gate | Do not open that door. Do not leave this place. Wouldn't you rather stay somewhere warm? |
+| Youthful Fantasy | "Secret"… The moment it was recorded, it was already known by everyone. |
+| Blushing Mirage | Moonlight whispers a promise of unfurled wings, stirring rare passion and inspiration. But not every whisper should be trusted. |
+| Camellia Society | Though I'm not supposed to let my composure slip onto the petals… that flower really cut deep. |
+| Eternal Waltz | Dance to the beat, feel the dizzying sensation as if the world is ending, until forever! |
+| Fluff of Ferocity | Hunter Guild Commemorative Arc: Discard all that is useless… |
+| What's Desired | And so the epic begins, and everyone sets out on the journey. As for where the road ends, does it really matter? |
+| Contemplative Cat | The meaning of life… the reason for existence… the answer to the universe is… 4… balls of yarn! |
+| Crime and Punishment | Why spare me, only to draw me into your embrace? |
+| Fluff of Finesse | Hunter Guild Commemorative Arc: Not every encounter is a pleasant one… |
+| Good Boy's Grand Adventure | What do you see? A winged white wolf? An adorable white dog? Or perhaps…? |
+| Ravenous Blade | Where fear takes hold, death is never far behind. |
+| Tears Beneath the Mask | Who stole my child? Was it you? Was it him? Or was it… |
+| Fluff of Fortitude | Hunter Guild Commemorative Arc: So fluffy! |
+| Raging Flames | The desire for speed flows through my veins, the roar of engines thunders in my chest! Come on, let's go! Step onto this racetrack where we pledge our souls! |
+| Ready-Ready | Hold me close, embrace the courage and resolve that transcends the fallen—I salute you, great Tiger warriors. |
+| Song of the Whale | The surging tide is its final farewell. |
+| Stellar Veil | At sunrise, the lost stars are merely homeward bound. |
+| Voice of the Voyager | The languages engraved upon it remain indecipherable. Yet their message is clear enough: somewhere in the cosmos, we are not alone. |
+| The Forgotten | Even if I'm just a complement to those masterpieces… I'm still beautiful too, right? |
+| Time Bandit | Time is like water next to a sponge. Look away for only a second, and it vanishes. |
+| Call of the Twisted City | When the world begins to warp, crying out in ways no one can understand, who among us can hold on to their sanity? |
+| Clear Skies | Formation complete, securing air superiority. |
+| Mind Royale | Inspiration is like potato chips—crunching and crackling, leaving scattered crumbs everywhere, without rhyme or reason. |
+| Shiny Days | Capturing these radiant moments, even in dreams they must go on. Regret was never beautiful, and you were never alone. |
+| A Time Will Come | Descending from the heavens, returning to the heavens. Believing in that destined day, we leap into this endless migration with no visible end. |
+| The Fools' Spring | If I were a cicada, I'd still sing with my raspy voice. |
+| The Good, The Bad, The Bitter | A touch of bitterness, but it'll still put you in a good mood, won't it? |
+| The Great Thief | The moment I saw you, I was captivated. Your soft fur, that mischievous look on your face—I was mesmerized for so long that it wasn't until you left that I realized… where are my grilled skewers? |
+| Umbrella | Remember to get enough sleep and check the weather forecast; remember to eat your meals and take an umbrella when going out. |
+| Cosmos Daze, Wild Reverie | Masterpiece from Pop Re-Creator! |
+| Failing You, Heavy in My Heart | When you see red reflected in your teacher's eyes, that usually means you're about to fail the class. |
+| Watch Your Heads! | Hehehe… Don't be scared, it's just a laughing kite… |
+| Drawn Blade | Lone moon, dark clouds. Blade drawn, soul departs. Form fades, blade weeps. |
+| Oraora! | It's said that in a faraway place, Ora Puncher has a cousin, Muda Puncher. |
+| First Step to Success | Good self-control is the first step on the road to success. |
+| "Real Music" | Waddaya mean ya prefer "real music"? Is this not "real" enough for yer taste? |
+| Dangerous Game | Let's make a bet. Loser goes broke. |
+| Be Happy | Hm? Why aren't you laughing? |
+| Us. | I am… you… are… you, are… it, is… me… no, I… am… us. |

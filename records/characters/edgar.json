@@ -1,0 +1,167 @@
+{
+ "slug": "edgar",
+ "id": "1021",
+ "version": "1.5.4",
+ "sources": {
+  "en": "https://static.nanoka.cc/nte/1.5.4/en/character/1021.json",
+  "zh-cn": "https://static.nanoka.cc/nte/1.5.4/zh/character/1021.json",
+  "ja": "https://static.nanoka.cc/nte/1.5.4/ja/character/1021.json",
+  "ko": "https://static.nanoka.cc/nte/1.5.4/ko/character/1021.json",
+  "zh-tw": "https://everness.info/zh-Hant/espers/1021"
+ },
+ "reads": {
+  "zh-tw": "2026-11-23"
+ },
+ "archive": {
+  "en": [
+   {
+    "title": "Intel",
+    "text": "Of the \"Eibon Anomaly Detectives,\" most say he looks the most befitting of the 'detective' mantle. Edgar neither denies nor confirms this… Probably because explaining it would be really, really troublesome.\nAfter all, his other titles include \"Eibon Ace Trio,\" \"Hyelp's Most Promising Rising Star,\" \"Bridge Crossings' Top 3 Anomaly Hunter,\" and countless other impressive-sounding nicknames that Nanally, Sakiri, and Taygedo (and sometimes Kiroumaru too) casually make up.\n\nDespite still being a baby-faced boy, he's remarkably mature for his age; almost old-fashioned, likely because the other two are so impulsive that Edgar is always the one left bowing and thanking people. More often than not, he's the one apologizing and paying the bills.\nOf course, Edgar's main responsibilities are gathering intel and planning operations. As for how many times those plans have been followed… well, as long as the results are good, who cares? Edgar has come to fully embrace this philosophy; though it doesn't stop him from carefully preparing each time and having a Plan B ready for any unexpected situations that might (or rather, definitely will) occur.\nTaygedo often watches the three young Hunters head out and sighs with mock profundity: \"Future Edgar will be just like Adler!\""
+   },
+   {
+    "title": "Like mother, like son.",
+    "text": "They say forgetting is part of growing up. Most adults only retain hazy fragments of their childhood memories, as if viewing them through some kind of fuzzy filter that makes everything impossible to see clearly.\n\nEdgar is different. With enough effort, he can recall every single day with perfect clarity.\n\nThe day Edgar’s family discovered his esper ability went like this:\n\nEdgar was three years old. It was an ordinary evening, no different from any other. His parents had just come home from work, and they were enjoying family time around the dinner table. Light, delicious dishes accompanied by Dad's interesting little anomaly stories made for the perfect cozy atmosphere.\n\nBoth of Edgar's parents were clerks at Yggash Court. They were responsible for writing and maintaining anomaly profiles, so Dad always had endless stories to tell. The stories were little tales adapted from the publicly available anomaly profiles he wrote during work hours.\n\nBut young Edgar didn't know any of this yet. Whenever Dad got carried away telling stories at the dinner table, he'd look down to see his precious son's bright, sparkling eyes gazing up at him…\n\nBeing worshipped by his son as the \"Story King\" made all those overtime hours worth it.\n\n\"That's strange? It seems different from what Dad wrote in the files? Which one is actually true?\"\n\nSomething changed forever the moment Edgar asked this serious question. Edgar's dad would probably remember that instant for the rest of his life. But his dad quickly focused on something more crucial: how did Edgar know about the anomaly profiles he'd just filed?\n\nHad his son snuck out through the window and run all the way to Yggash Court to read the files? Did such a small child even have clearance to access those documents?\n\nOver the next half hour, Mom and Dad finally figured out what was happening: Edgar only needed to focus his imagination (both adults also had to stretch their own imaginations to picture this) to connect with various libraries around the world, including Yggash Court's archive. Edgar had probably been too curious about what Dad had written, and couldn't help thinking about his father's name… One by one, the anomaly profiles bearing Edgar's father's signature unfolded in Edgar's mind…\n\nBy the way, Edgar had discovered this ability long ago. It was probably innate, right? It's just that earlier on, he couldn't read very well, so he couldn't understand all those dense markings on the white papers…\n\nEdgar had probably already read through his father's early work files, when his writing style was still immature. His dad’s \"dark history\" was now completely exposed to his son. With this realization, Edgar's dad decided to escape to the kitchen to wash dishes, planning to study his son's esper ability more carefully later.\n\n\"This child really takes after me. On the night of our first date, I also read through all your papers from cover to cover.\"\n\nHis wife wouldn’t let him off the hook either."
+   },
+   {
+    "title": "What does Edgar want to be?",
+    "text": "A child prodigy; the \"golden kid;\" \"the boy kissed by the god of wisdom.\"\n\nThe day Edgar came back from Twinkle School of Espers, aunts, uncles, neighbors, and their children all swarmed in droves to congratulate him, nearly trampling down his family's doorstep. Whether they came out of curiosity to see what made this so-called \"neighbor's kid you should learn from\" so special, or were reluctant children dragged along by parents demanding they \"learn from his example,\" they all reached the same conclusion:\nHe really didn't look like anything special.\n\nMeanwhile, Edgar found himself surrounded by adults, completely overwhelmed. He just couldn't keep up with their overlapping chatter. As they talked over each other, Edgar's future became crystal clear in their minds: he'd immediately become a star researcher at Zerogon Laboratory, the rising star of Yggash Court, the new director of the Bureau of Anomaly Control. Pink Paws Bank's job offer was worth considering too. With Edgar's abilities, why would't he become a board member at PPB? Of course, when the time came, he shouldn't forget to give a helping hand to that kid living diagonally across from him whose grades barely scraped by in every subject…\n\nThe adults listing out and arranging all these bright futures for him had become completely lost in their own fantasies. It was as if Edgar were their own child, fulfilling all the dreams they, themselves, couldn't…\n\nEdgar looked around helplessly, unable to join any conversation. He was so nervous he pulled his scarf up high, wishing he could hide completely inside it. Luckily, at that very moment, his father squeezed through the crowd and patted his shoulder: \"What do you want to be when you grow up, Edgar?\"\n\nEncouraged by his father's gaze, Edgar said softly:\n\"I… I just want to be Edgar.\""
+   },
+   {
+    "title": "The World Beyond the Tree Hollow",
+    "text": "- Point One: Edgar really likes Anomalies\n- Point Two: Edgar's mind is reasonably sharp\n- Point Three: Edgar can easily access Anomaly profiles\n\nTherefore, Edgar is well-suited to work at Yggash Court's archives like his parents, organizing documents and studying Anomaly-related topics until the day he dies.\n\nEdgar's mother had to work very hard to suppress her laughter at her son's reasoning; not because the conclusion was absurd or ridiculous—quite the opposite, actually. The logic was clear and the reasoning sound, leaving almost no room for refusal.\nBut having Edgar move into Yggash Court's tree hollow, put on thick beer-bottle glasses, and bury himself in stacks of files was still a bit… premature. Mom understood her son's wishes, but… Wouldn't it be better for Edgar to personally verify those details, rather than learning about Anomalies from other people's reports? Who knew what Anomalies might be waiting around the next corner? How many unknown Anomaly characteristics were still waiting for us to discover them?\nEdgar listened very seriously.\n\nHe'd probably inherited his mother's adventurous spirit too. What seemed like a rather silly promise was sealed with a pinky promise. Mom took Edgar's hand and, blindfolded, threw a dart at a map. Luck—or perhaps fate—decided Edgar's adventure: his first journey after graduation would take him to Hethereau.\n\nForever curious, forever seeking knowledge, forever willing to try."
+   },
+   {
+    "title": "The Fateful Job Posting",
+    "text": "Standing on the bustling street corner, Edgar had no idea where he was supposed to go. Though he thought for a long, long time, he remained just as lost, just as confused.\nHe gave up on route planning, maps, and navigation. Following his mother's advice, he was now \"letting the wind guide him\" through Hethereau. According to her, encounters with destiny often arrive when you least expect them.\nWith no destination and no clue which direction to take, could he really find his \"destiny\" this way? Edgar couldn't fathom such an unplanned approach; the indecision paralyzed him. Instead, he bought a small bag of feed from a street vendor and crouched by the fountain to feed the pigeons.\n\nLater, when Edgar looked back on that day, he felt he'd begun to dimly understand what his mother meant by \"fate.\"\nAs he felt the pigeons pecking at his palm, watching the sky gradually turn a warm orange as golden clouds drifted toward the still-blue horizon, a sudden gust of wind smacked him right in the face. Along with it came a recruitment poster with crooked handwriting and a drawing of some TV-headed creature.\n\n\"Eibon Antique Shop.\"\nHe stood up, looked around, and followed the street signs to Hankaku Street."
+   },
+   {
+    "title": "Hearts Will Find Their Way",
+    "text": "They didn't share a language, but understanding Taygedo wasn't too difficult.\nBy combining the tone and frequency of Taygedo's \"Tayge-tayge\" sounds with his expressions and gestures, Edgar deciphered:\n\"Welcome, new friend!\"\n\nHe began a new chapter in his Anomaly observation diary; it naturally featured the wonderful TV-headed otter. Of course, Edgar's observation records weren't as formal as his parents'; he simply wrote down Taygedo's little habits, quirks, goals… and the many everyday activities with him.\nStill, this neat and tidy notebook ran out of space way sooner than Edgar had expected. An entire page was quickly covered with Taygedo's selfies, complete with a bonus paw print. One page had angry highlighter annotations: \"So it WAS you, Taygedo! I knew you stole my pudding!\" And several consecutive pages had suspicious water stains (best not to think too hard about what liquid that might be), right after the entry: \"Should I write about Kiroumaru too? I already agreed on his behalf.\"\n\nAdmittedly, Edgar wasn't very good at expressing himself, but understanding each other didn't necessarily require words, Edgar realized as he lay on the rooftop while stargazing with Nanally, Sakiri, and Taygedo.\n\n…Though language could speed up the process, Edgar added, after ages spent gesturing with Taygedo—that always ended in confusion."
+   }
+  ],
+  "zh-cn": [
+   {
+    "title": "详细情报",
+    "text": "总是被说是「伊波恩异象侦探」里看起来最像侦探的那位。埃德嘉没否认，但也没承认。大概因为解释起来真的很麻烦，很麻烦。\n毕竟除此之外的头衔还有「伊波恩王牌三人组」、「猎人帮最具潜力新星选手」、「桥间地异象猎人TOP3」以及未来无数个被娜娜莉或早雾塔吉多（有时候还有鬼郎丸）随口编出来的气势响当当外号。\n\n明明还是个满脸稚气的小小少年，行为举止却是超乎他年纪的成熟，甚至可以说，老成。大概是另外两位都是风风火火行动派的缘故，每当娜娜莉和早雾为新发现的线索一溜烟跑远，埃德嘉总是鞠躬向人道谢的那位。更多时候，则是道歉和结账。\n当然啦，埃德嘉最主要负责的还是搜集情报和制定行动计划。至于行动计划被严格遵守过几次——哎呀，只要结果是好的，管那么多呢！这套理论，目前埃德嘉已经深以为然。不过并不妨碍他每次的精心准备，并为可能（或者说一定）发生的意外状况准备PLAN B。\n塔吉多经常看着三位年轻的异象猎人出门远去的身影，故作高深叹口气「未来的埃德嘉，会成为阿德勒先生！」"
+   },
+   {
+    "title": "有其母必有其子",
+    "text": "都说遗忘也是成长的一部分。长大后的大人们，大都对儿时只剩下些模模糊糊，像被套上某种柔光滤镜，怎样都看不真切的回忆片段。\n埃德嘉却并非如此。只要努力回想，每一天都能在脑海中尽数浮现。\n家人得知埃德嘉的异能的那天，是这样的——\n\n寻常，和过去每一天都没什么两样的傍晚，埃德嘉三岁的某一天。下班回家的爸爸妈妈和埃德嘉正享受着餐桌上的亲子时光。清淡可口的菜肴佐以爸爸口述的有趣异象小故事，再惬意不过如此。\n埃德嘉的父母都是尤克阿什庭负责撰写维护异象档案的文员，因此爸爸总有讲不完的故事——取材自上班时间编写的，已对公众开放的异象档案，再稍作改编的小故事。\n但，现在的埃德嘉还不知道这些。每当爸爸在餐桌上滔滔不绝起来，一低头满眼皆是宝贝儿子亮晶晶的眼神……\n被儿子当成「故事大王」崇拜，加多少班都值了。\n\n「奇怪？好像和爸爸写的档案不太一样？到底哪一个才是真的？」\n自埃德嘉认真提问的那刻起，有些东西就永远也回不到过去了，埃德嘉爸爸大概会永远记得这个瞬间。不过他的注意力很快聚焦到更为关键的事上：埃德嘉怎么知道他才录入的异象档案？\n儿子什么时候翻窗出门一路小跑，跑去尤克阿什庭看档案了？这么小的孩子也有权限查阅档案吗？\n\n接下来的半个小时，爸爸妈妈终于弄清了这是怎么回事：原来埃德嘉只需努力想象（两位大人也努力调动自己的想象力想象这个画面），便能和诸多图书馆建立联系，尤克阿什庭的档案馆也不例外。埃德嘉大概太过好奇爸爸写过什么内容，情不自禁想着爸爸的名字……有埃德嘉爸爸署名的异象档案，就这么一份一份在埃德嘉脑海中摊开来……\n顺便一说的是，埃德嘉早就发现自己有这样的能力，大概是天生的吧？只是在更早之前，他还不怎么识字，看不太懂白纸上密密麻麻的东西……\n\n埃德嘉大概已经读过自己刚刚开始工作时，笔触尚还稚嫩的档案——「黑历史」已经在儿子面前一览无余了。想到这里，埃德嘉爸爸决定先溜去厨房洗碗，回头再细细研究儿子的异能。\n\n「这孩子真是随我~我们第一次约会的那天晚上，我也是把你写的论文读了个遍。」\n妻子也没放过他。"
+   },
+   {
+    "title": "埃德嘉想当什么？",
+    "text": "天才儿童、传闻中「邻居家的孩子」、「被智慧之神亲吻的少年」。\n\n埃德嘉从「灯校」毕业回家的那天，携自家孩子蜂拥来祝贺的七大姑八大姨街坊邻居们，险些把埃德嘉家的门坎踢平。只是好奇来看看所谓的「你要以人家为榜样的邻居家孩子」究竟有何不一样，又或是满不情愿嘟着嘴被家长要求「多学学人家」的小孩们，得出同样的结论——\n看起来真没什么特别的。\n\n而此刻被大人们团团包围住的埃德嘉，已经晕头转向，飞速转动的脑瓜怎么都追不上他们七嘴八舌的跨度。唾沫横飞间，埃德嘉的未来蓝图渐渐清晰：埃德嘉马上就当上「零角实验室」金牌研究员、「尤克阿什庭」的明日之星、「异象管理局」的新任局长。粉爪银行的offer也可以考虑考虑，以埃德嘉的能力出任粉爪银行的董事又有何难？当然，到时候别忘了提携提携住他斜对门那个每门成绩都在及格线上下徘徊的臭小子……\n\n那些罗列着，为他安排诸多光明前程的大人们，彻底沉浸在自己的想象里了。就好像埃德嘉才是他们亲生小孩，一个接一个地替他们实现所有无法亲自达成，只能寄托在后代上的梦想。\n\n埃德嘉左看看右看看，谁的话茬都接不上。紧张到把围巾拉得高高的，恨不得整个人都能躲进去。好在爸爸此时也挤了过来，拍拍他的肩头：埃德嘉以后想当什么？\n\n在爸爸目光的鼓励下，埃德嘉轻声道：\n我……我只想当「埃德嘉」。"
+   },
+   {
+    "title": "树洞之外的世界",
+    "text": "论点一：埃德嘉非常喜欢异象\n论点二：埃德嘉的脑瓜还算灵活\n论点三：埃德嘉访问异象档案很方便\n\n所以，埃德嘉很适合像爸爸妈妈一样，在尤克阿什庭的档案馆工作，整理文书，无止尽地学习异象相关的知识。\n\n儿子的这番推论，让埃德嘉妈妈费了很大功夫才忍住笑。并非结论荒谬可笑——或者说恰恰相反，逻辑清晰推导合理，简直让人没有拒绝的道理。\n但现在让埃德嘉也住进尤克阿什庭的树洞，戴起厚厚的啤酒瓶底眼镜，窝在厚厚文件袋里还太早了些。妈妈不是不明白儿子的心愿，但比起从其他人的报告中了解异象，埃德嘉亲眼去见识、亲自去验证那些奇妙的点点滴滴，不是更好吗？谁知道下一个街角会遇到什么异象？还有多少未知的异象特性有待我们的发现？\n埃德嘉听得很认真。\n\n埃德嘉大约也继承了来自妈妈的冒险精神，看起来颇有些胡闹的约定就这么拉钩约好了：妈妈拉着埃德嘉的手，蒙着眼睛把飞镖钉向地图。所谓的运气，或者说命运，亦可以是缘分，决定了埃德嘉的这场冒险——离开学校后的第一场冒险的目的地，海特洛市。\n\n永远好奇，永远想求知，永远勇于尝试。"
+   },
+   {
+    "title": "命中注定的招聘海报",
+    "text": "站在熙熙攘攘街角的埃德嘉并不知道自己要去哪里。他想了很久，很久，依旧迷茫又困惑。\n放弃了路线规划，地图，导航。他按照妈妈的说法，正在海特洛市「随心所欲漫游」，据说与缘分的邂逅，往往是在不经意间降临的。\n没有目的地，也不知道要往哪个方向走，这样就能找到「缘分」吗？埃德嘉完全无法想象毫无规划的行动方式，因而迟迟也迈不开接下来的脚步。他索性在街边小摊买上一小包饲料，蹲在喷泉前喂起鸽子来。\n\n后来，每当埃德嘉回想那一天，都觉得自己模模糊糊懂了些妈妈口中的「命中注定」。\n就在他感受着白鸽在掌心啄来啄去的痒意，看着天边渐渐泛起暖橙色，烫金的云朵向尚且蔚蓝的地方驶去的时候，一阵不知从何而来的风猛一下拍到他脸上。与之一起来的还有张字迹歪歪扭扭，画着某电视头生物的招聘海报。\n\n「伊波恩古董店」。\n他起身四处看了看，向路标指示的半角街走去。"
+   },
+   {
+    "title": "终将心意相通",
+    "text": "语言不通，但弄懂塔吉多的意思并不难。\n结合「塔吉塔吉」的语调和频率、塔吉多此刻显示的表情，还有他丰富的肢体动作，埃德嘉读懂了：\n「欢迎！新朋友！」\n\n异象观察日记正式开始新的一页，观察对象自然是奇妙的电视机头海獭。当然，埃德嘉的观察记录并不像爸爸妈妈的那么正式，他写下的只是塔吉多的小习惯，小怪癖，獭生目标……以及许许多多与塔吉多一起生活的日常。\n这本整洁漂亮的笔记本，消耗得远比埃德嘉想象中要快得多。可能是因为从中间的某页起，一整页被贴满塔吉多的自拍照，还附赠塔吉多的爪印一枚。某页被荧光粉马克笔狠狠批注：「好哇塔吉多！果然是你偷吃了我的布丁！」还有连续的好几页有可疑的水渍（最好不要细想是究竟是什么液体），就紧跟在「要不要也写写看鬼郎丸？我已经替这家伙同意了。」之后。\n\n诚然，埃德嘉不太擅长表达自己。但心意相通并不一定要通过语言……埃德嘉和娜娜莉、早雾还有塔吉多一起躺在屋顶看星星时，他没由头想到。\n\n不过语言可以加速这一历程——某次和塔吉多比划半天仍大眼瞪小眼后，埃德嘉在心中补充道。"
+   }
+  ],
+  "ja": [
+   {
+    "title": "詳細情報",
+    "text": "よく「エイボン異象探偵団」の中で一番探偵らしい人物だと言われる。エドガーはそれを否定も肯定もしなかった。おそらく、説明するのが面倒だからだろう。本当に、心底面倒なのだ。\n何しろ、これ以外にも「エイボンエース三人組」、「ハンターズ最有力若手スター」、「橋間地異象ハンターTOP3」、さらにナナリや早霧、タギド（時には鬼郎丸）がその場のノリで適当につける、威勢だけはいい無数のあだ名があるのだから。\n\nまだあどけなさの残る小柄な少年だが、その振る舞いは年齢以上に大人びており、老成しているとさえ言える。原因は十中八九、猪突猛進な他の二人のせいだろう。ナナリと早霧が新しい手がかりを見つけて一目散に飛び出した後、エドガーはいつも深々と頭を下げて礼を言う係だ。いや、それ以上に多いのは、謝罪と精算である。\nもちろん、エドガーの本来の担当は情報収集と作戦立案だ。その計画がこれまで何度厳密に守られたか——いや、結果オーライ、細かいことは気にしない！この理論を、今やエドガーは痛いほど理解している。しかし、だからといって彼が入念な準備を怠ることはない。起こり得る（あるいは、必ず起こる）不測の事態に備え、PLAN Bを用意し続けている。\n遠ざかる若きハンターたちの背中を見送りながら、タギドはよく、意味ありげなふりをしてため息をつく。「将来のエドガー、第二のアドレーさんになる！」"
+   },
+   {
+    "title": "この親にしてこの子あり",
+    "text": "忘却も成長の一部だと言われる。大人になった人々のほとんどは、子供時代の記憶が曖昧模糊としており、まるで柔らかな光のフィルターがかかったように、ぼんやりとした断片しか残っていない。\nしかし、エドガーはそうではなかった。努力して思い出そうとすれば、毎日すべてのことが脳裏に鮮明に浮かび上がる。\n家族がエドガーの異能を知ったあの日も、そうだった——\n\n普段と変わらない、過去の毎日と何ら変わりない夕暮れ、エドガーが3歳の時のこと。仕事を終えて帰宅したパパとママ、そしてエドガーは、食卓での親子団欒を楽しんでいた。さっぱりとしておいしい料理に、パパが口頭で話す異象にまつわる面白い小話が添えられ、これ以上ないほど穏やかな時間だった。\nエドガーの両親は二人ともユグアッシュ廷で異象資料の作成と管理を担当する事務員だったため、パパには常に尽きることのない話のタネがあった——それは、勤務時間中に作成し、すでに一般公開されている異象資料から着想を得て、少し脚色を加えた物語だった。\nしかし、当時のエドガーはまだそんなことは知らなかった。パパが食卓で熱心に話し出すたびに、ふと顔を下げると、愛する息子の目がキラキラと輝いているのを目にする…\n息子に「物語の王様」として崇拝されるなら、どれだけ残業しても報われるというものだ。\n\n「あれ？パパが書いた資料とちょっと違うみたい？どっちが本当なの？」\nエドガーが真剣にそう尋ねた瞬間から、何かが永遠に戻らないものになってしまった。エドガーのパパは、おそらくこの瞬間を永遠に忘れないだろう。しかし彼の注意はすぐに、より重要なことに向けられた。どうしてエドガーは、彼がたった今入力したばかりの異象資料を知っているんだ？\n息子はいつ窓を乗り越えて走り出し、ユグアッシュ廷まで行って資料を見たというのか？こんな小さな子供にファイル閲覧の権限があるのか？\n\nその後の三十分で、パパとママはついに事態を把握した。なんとエドガーは、努力して想像するだけで（二人の大人も、そのシーンを想像しようと努力した）、多くの図書館と繋がりを持つことができ、ユグアッシュ廷の資料館も例外ではなかったのだ。エドガーはパパがどんな内容を書いたのか好奇心旺盛すぎたのだろう、思わずパパの名前を頭の中で思い浮かべた…すると、エドガーのパパが署名した異象資料が、次々とエドガーの頭の中に広がり始めたのだ…\nついでに言うと、エドガーはこの能力があることをずっと前に気づいていた。おそらく生まれつきなのだろう。ただ、もっと幼い頃は、まだ文字が読めず、白い紙にびっしり書かれたものがよく理解できなかっただけなのだ。\n\nエドガーはきっと、パパが仕事を始めたばかりの頃に、まだ拙い筆致で書いた資料も読んでしまったのだろう——いわゆる「恥ずかしい歴史」が、息子の前で全てさらけ出されてしまったわけだ。ここまで考えて、エドガーのパパは、まずは食器洗いのためにキッチンに逃げ込み、後でゆっくりと息子の異能を研究することに決めた。\n\n「この子ったら、本当に私にそっくりだわ~私たちが初めてデートした夜も、私はパパが書いた論文を全部読破したんだからね。」\n妻も彼を逃がしてはくれなかった。"
+   },
+   {
+    "title": "エドガーは何になりたい？",
+    "text": "天才児、噂の「模範的な子ども」、「知恵の神に祝福された少年」。\n\nエドガーが「トウィンクル学園」を卒業して帰宅した日、我が子を連れてお祝いに押しかけた親戚一同や近所の住人たちで、エドガーの家の敷居は踏み潰されそうな勢いだった。「あなたもあの人をお手本にしなさい」と我が子に言い聞かせるために来た好奇心旺盛な大人たち。そして、親に「あの子を見習え」と耳にタコができるほど言われ、不承不承連れてこられた子どもたち。彼らが達した結論は同じだった——\n見たところ、別に何ひとつ特別ではない。\n\n大人たちに取り囲まれたエドガーは、すでに混乱の極みにあった。自慢の高速思考をもってしても、四方八方から飛び交う話題の飛躍には追いつけない。飛び交う唾の中で、勝手にエドガーの未来予想図が描かれていく。「ゼロゴン実験室」の主席研究員、「ユグアッシュ廷」の若きスター、あるいは「異象管理局」の新局長。「にくきゅう銀行」からのオファーも悪くない。エドガーの能力なら、役員待遇だって夢じゃないだろう。もちろんその時は、斜め向かいに住む成績ギリギリの生意気な息子を、コネで引き上げてやるのも忘れるなよ…\n\n勝手に輝かしい未来を並べ立てる大人たちは、完全に自分たちの妄想に浸っていた。まるでエドガーこそが自分たちの子どもであり、自身が叶えられず、子孫に託すしかなかった夢の数々を、彼に背負わせようとしているかのようだった。\n\nエドガーは視線を彷徨わせたが、誰の話題にも口を挟めない。緊張のあまりマフラーを鼻まで引き上げ、その中にすっぽりと隠れてしまいたい気分だった。幸い、その時父が人混みをかき分けて近づいてきて、彼の肩をポンと叩いた。「エドガー自身は、将来何になりたいんだい？」\n\n父の励ますような視線を受けて、エドガーは静かに答えた。\n「ぼくは…ただ、『エドガー』になりたいだけ」"
+   },
+   {
+    "title": "樹洞の外の世界",
+    "text": "前提１：エドガーは異象を愛している。\n前提２：エドガーの思考は柔軟だ。\n前提３：エドガーは異象資料へのアクセス権を持っている。\n\nゆえに、エドガーは父や母と同じく、ユグアッシュ廷の資料館で働き、文書整理に勤しみながら、尽きることのない異象の知識を学ぶのに適している。\n\n息子のこの推論を聞いて、母は笑いを堪えるのに必死だった。\n結論が荒唐無稽だからではない。むしろその逆だ。論理は明快、導き出された結論も理に適っており、反論の余地など全くないほどだったからだ。\nしかし、エドガーをユグアッシュ廷に閉じ込め、瓶底のような分厚い眼鏡をかけさせて、書類の山に埋もれさせるには、まだ早すぎる。\n母も息子の願いが分からないわけではない。だが、他人の報告書を通して異象を知るより、エドガー自身の目で世界を見て、その奇妙な現象の一つ一つを自ら検証していく方が、彼のためになるのではないか？\n次の角を曲がれば、どんな異象に出会うか誰にも分からない。世界にはまだ、どれほどの未知が発見を待っているのだろうか？\nエドガーは、母の言葉に真剣に耳を傾けた。\n\n恐らくエドガーは、母から冒険心を受け継いでいたのだろう。一見するとかなり無茶なその提案は、こうして指切りげんまんで約束された。\n母はエドガーの手を引き、目隠しをさせて地図に向かってダーツを投げさせた。\n運か、運命か、あるいは縁か。こうしてエドガーの冒険——学校卒業後初となる旅の目的地が決定された。\nその地こそ、ヘテロシティである。\n\n永遠に好奇心を抱き、永遠に知識を求め、永遠に挑戦する勇気を持つこと。"
+   },
+   {
+    "title": "運命の求人ポスター",
+    "text": "雑踏の中に立ち尽くすエドガーは、自分がどこへ向かうべきか分からずにいた。長い時間思考を巡らせてみたものの、依然として混乱は晴れず、途方に暮れていた。\nルート計画、地図、ナビゲーション……すべて諦めた。母の言いつけ通り、このヘテロシティを「気の向くままに漫遊」しようとしたのだ。「運命的な出会いは、得てして予期せぬ時に訪れるものよ」と、母は言っていた。\nだが、目的地もなく、進むべき方角も分からない状態で、本当に「縁」など見つかるのだろうか？\n計画性のない行動というものが理解できないエドガーは、次の一歩を踏み出せずにいた。結局彼は、道端の屋台で小袋の餌を買い、噴水の前でしゃがみ込んでハトに餌をやり始めた。\n\n後にエドガーがこの日を思い出すたび、母が言っていた「運命」というものが、ぼんやりと理解できたような気がした。\n掌をつつく白いハトの感触。空は徐々に温かなオレンジ色に染まり、焼けた鉄のような雲が、残された青空へと侵食していく。その光景を眺めていると、どこからともなく一陣の風が吹き抜け、彼の頬を強く打った。\n風と共に、一枚の紙切れが飛んできた。それは、ひどく乱雑な文字と、テレビの頭をした奇妙な生き物が描かれた求人ポスターだった。\n\n「骨董品屋エイボン」\n彼は立ち上がり、周囲を見回すと、道路標識が指し示す「半角街」の方へと歩き出した。"
+   },
+   {
+    "title": "いつか心は通じ合う",
+    "text": "言葉は通じないが、タギドの意図を理解するのは難しくなかった。\n「タギタギー」という鳴き声のトーンと頻度、その時の表情、そして豊かな身振り手振りを総合して、エドガーはそこに込められた意味を読み取った。\n「ようこそ！新しいお友達！」\n\n異象観察日記の新たなページが、正式にめくられた。もちろん観察対象は、奇妙なテレビ頭のラッコだ。だが、エドガーの観察記録は、父や母が書くような学術的な記録とは異なる。彼が書き留めるのは、タギドのちょっとした癖、小さな奇行、ラッコ生の目標……そして、タギドと過ごす何気ない日常の数々だった。\nこの几帳面に整理されたノートの消費速度は、エドガーの想定を遥かに上回っていた。何しろ、途中からはページ一面がタギドの自撮り写真で埋め尽くされ、あろうことかタギドの足跡スタンプまで添えられていたからだ。あるページには、蛍光ピンクのマーカーで「タギドめ！やっぱりキミがボクのプリンを食べたな！」と怒りの書き込みがある。そして続く数ページには怪しい水濡れの跡があり（それが一体何の液体かは考えない方が賢明だ）、それは「鬼郎丸についても書いてみようか？ボクはそいつの同意は取っておいたよ」という記述のすぐ後に続いていた。\n\n確かに、エドガーは自己表現があまり得意ではない。しかし、心が通じ合うのに必ずしも言葉は必要ない……ナナリや早霧、そしてタギドと一緒に屋根に寝転がり、星空を眺めていた時、エドガーはふとそう思った。\n\nもっとも、言葉があった方が手っ取り早いのも事実だが——ある時、タギドと身振り手振りで長い時間やり取りした挙句、結局お互い無言で見つめ合うだけで終わった後、エドガーは心の中でそう付け加えた。"
+   }
+  ],
+  "ko": [
+   {
+    "title": "상세 정보",
+    "text": "항상 「에이본 이상 탐정」 중 가장 탐정 같다는 말을 듣는 인물. 에드가는 이에 대해 부정도 긍정도 하지 않는다. 아마 설명하자면 귀찮고도 귀찮기 때문일 것이다.\n그 외에도 「에이본 에이스 3인방」, 「헬프 헌터 최고의 유망주」, 「브릿지 구역 이상 헌터 TOP3」 및 앞으로 나나리, 사키리, 타기도(때때로 키로마루까지)가 대충 붙여줄 거창한 타이틀이 무수히 많으므로.\n\n앳된 티가 가시지 않은 얼굴의 소년이지만, 행동과 태도는 나이보다 훨씬 성숙하며, 심지어 노숙하다고까지 할 수 있다. 아마 나머지 둘이 불같은 성격의 행동파인 탓일 것이다. 나나리와 사키리가 새로운 단서를 발견하고 후다닥 달려갈 때면, 사람들에게 허리 숙여 감사 인사를 하는 건 에드가의 몫이다. 인사보다는 사과와 배상을 해야 할 때가 더 많지만.\n물론 에드가가 가장 주요하게 하는 일은 정보를 수집하고 행동 계획을 짜는 것이다. 그 행동 계획이 몇 번이나 제대로 지켜졌는지는… 음, 결과만 좋으면 된 거 아닐까. 이제는 에드가도 이런 생각에 전적으로 동의한다. 하지만 그렇다고 해서 매번 준비를 철저히 하고 어쩌면(혹은 반드시) 발생할 사고에 대비해 PLAN B를 마련하는 걸 게을리하진 않는다.\n타기도는 세 명의 젊은 이상 헌터가 문을 나서서 멀어지는 모습을 바라보며 짐짓 심오한 말투로 「에드가는 나중에 아들러 씨가 될 거야!」라고 말하고는 한다."
+   },
+   {
+    "title": "엄마 판박이",
+    "text": "망각 역시 성장의 일부라고들 한다. 어른들 대부분은 어린 시절에 대해 마치 소프트포커스 필터를 씌운 것처럼 흐릿한, 어떻게 해도 선명하게 볼 수 없는 기억의 단편만을 가지고 있다.\n그러나 에드가는 다르다. 떠올리려고 노력만 하면 하루하루가 전부 머릿속에 완벽하게 떠오른다.\n가족들이 에드가의 이능력을 알게 된 그날은…\n\n여느 때와 다를 것 없는 어느 날 저녁이었고, 그해 에드가는 3살이었다. 퇴근하고 집에 온 부모님과 에드가는 오붓한 저녁 식사 시간을 보내고 있었다. 담백하고 맛있는 음식에 아버지의 재미난 이상 이야기가 더해진 저녁은 그야말로 완벽했다.\n에드가의 부모님은 우카슈 홀에서 이상 파일을 작성하고 관리하는 일을 했기에 아버지에게는 무한하게 많은 이야깃거리가 있었다. 근무 시간에 작성한, 이미 대중에게 공개된 이상 파일에서 소재를 얻어 약간 각색한 다음 풀어내는 것이었다.\n하지만 당시의 에드가는 그런 사실을 알지 못했다. 에드가의 아버지가 식탁에서 이야기를 풀어놓다가 고개를 숙일 때면 항상 사랑하는 아들의 반짝이는 눈빛이 그의 시야를 가득 채웠다…\n아들에게 「스토리킹」으로 숭배받을 수 있다면 야근도 할 만한 가치가 있었다.\n\n「이상한데요? 아빠가 작성한 파일이랑 좀 다른 것 같아요. 어느 게 진짜예요?」\n에드가가 진지하게 물어본 그 순간부로 무언가가 과거와 완전히 달라졌다. 에드가의 아버지는 아마 그 순간을 영원히 잊지 못할 것이다. 그러나 그의 주의력은 곧 더욱 중요한 문제에 꽂혔다. 불과 얼마 전에 입력한 이상 파일의 내용을 에드가가 어떻게 안단 말인가?\n아들이 언제 창문을 넘어 우카슈 홀로 쪼르르 달려가 파일을 봤단 말인가? 이런 어린아이에게 파일 열람 권한이 있단 말인가?\n\n부모님은 그 이후 30분에 걸쳐 마침내 어떻게 된 일인지를 알아낼 수 있었다. 알고 보니 에드가는 열심히 상상만 하면(두 어른도 상상력을 동원해 이 장면을 상상하려 노력했다) 수많은 도서관과 연결될 수 있었고, 우카슈 홀의 파일 보관소도 예외는 아니었다. 아마 에드가는 아버지가 작성한 내용이 너무 궁금했던 나머지 자기도 모르게 아버지의 이름을 떠올렸을 테고… 아버지의 서명이 들어간 이상 파일이 에드가의 머릿속에 하나하나 펼쳐졌을 것이다…\n참고로 에드가는 자기한테 그런 능력이 있다는 걸 진작에 알았는데, 아마 날 때부터 그랬던 게 아닐지? 다만 더 어렸을 때는 글을 제대로 읽지 못해서 흰 종이 위에 빽빽하게 적힌 게 무엇인지 알지 못했을 뿐이리라…\n\n에드가는 아마 막 일을 시작한 아버지가 미숙한 솜씨로 작성한 파일도 읽었을 것이다. 「흑역사」를 아들에게 낱낱이 들켜버린 꼴이 된 아버지는 일단 주방으로 몸을 피해 설거지를 하고, 아들의 이능력에 대해서는 나중에 연구해 보기로 했다.\n\n「애가 정말 날 쏙 빼닮았어~ 우리가 첫 데이트를 했던 그날 밤에 나도 당신 논문을 전부 다 읽었거든.」\n아내도 그의 아군이 아니었다."
+   },
+   {
+    "title": "에드가는 나중에 뭐가 되고 싶니?",
+    "text": "천재 소년, 소문의 「엄마 친구 아들」, 「지혜의 신에게 입맞춤을 받은 소년」.\n\n에드가가 「트윙클 아카데미」를 졸업하고 돌아온 날, 그의 집은 자기 자식을 데리고 떼 지어 축하하러 몰려온 온갖 친척과 이웃들로 인해 문지방이 거의 닳아 없어질 뻔했다. 「네가 롤모델로 삼아야 할 이웃집 아이」는 도대체 뭐가 그렇게 다른지 궁금해서 보러 온 꼬마들, 그리고 「본받아야 한다」는 부모님 말에 불만스럽게 입을 내밀고 있던 꼬마들은 에드가를 보고 모두 같은 결론에 도달했다.\n전혀 특별할 게 없어 보였다.\n\n그 시각 에드가는 어른들에게 겹겹이 둘러싸여 정신을 못 차리고 있었다. 별의별 소리를 다 하는 어른들 때문에 그 똑똑한 머리로도 대화의 폭을 도저히 따라갈 수가 없었다. 마구 튀는 침방울 속에서 에드가의 미래 청사진이 점점 뚜렷해졌다. 에드가는 「영도 실험실」의 에이스 연구원도 되고, 「우카슈 홀」 내일의 스타도 되고, 「이상 관리국」 신임 국장도 됐다. 핑크퍼스 은행의 오퍼도 고려해 볼 만했다. 에드가의 능력이라면 핑크퍼스 은행 이사를 맡는 게 뭐 어렵겠는가? 물론 그렇게 되면 모든 과목 성적이 합격선을 아슬아슬하게 넘나드는 맞은편 집 꼬맹이를 좀 도와주는 걸 잊지 말아야 할 것이다…\n\n그를 위해 갖가지 미래 전망을 계획하고 나열하는 어른들은 완전히 자기들 상상에 푹 빠져 있었다. 마치 에드가야말로 자기 친자식이라는 양, 스스로는 이룰 수 없어서 후대에게 맡겨야만 하는 꿈을 에드가가 하나하나 다 실현해 줄 거라고 생각하는 듯했다.\n\n에드가는 누구에게도 대꾸하지 못하고 두리번거리기만 했다. 목도리 속에 숨어버리고 싶을 정도로 긴장해서 목도리를 높이 끌어 올렸다. 다행히 그때 아버지가 사람들 틈을 비집고 다가와 에드가의 어깨를 토닥이며 물었다. 에드가는 나중에 뭐가 되고 싶니?\n\n아버지의 눈빛을 보고 용기를 낸 에드가는 작게 대답했다.\n저는… 저는 그냥 「에드가」이고 싶어요."
+   },
+   {
+    "title": "나무 구멍 밖의 세계",
+    "text": "첫째, 에드가는 이상을 정말 좋아한다.\n둘째, 에드가는 꽤 영리하다.\n셋째, 에드가는 이상 파일에 간단히 접근할 수 있다.\n\n그러므로 에드가는 부모님처럼 우카슈 홀의 파일 보관소에서 일하며 문서를 정리하고 이상과 관련된 무한한 지식을 습득하기에 적합하다.\n\n에드가의 어머니는 아들의 이러한 추론을 듣고 가까스로 웃음을 참아냈다. 결론이 황당해서 웃음이 나오는 건 아니었다. 오히려 논리가 명확하고 추론이 합리적이어서 그야말로 반박할 도리가 없었다.\n하지만 당장 에드가를 우카슈 홀의 나무 구멍에 집어넣어 맥주병 바닥처럼 두꺼운 안경을 쓴 채 서류 더미에 파묻혀 살게 하기에는 시기가 너무 일렀다. 아들의 마음을 모르는 것은 아니었으나, 다른 사람이 쓴 보고서를 통해 이상을 이해하는 것보다는 그런 기묘한 순간들을 직접 보고 확인하는 편이 더 좋지 않겠는가? 다음 길모퉁이를 돌았을 때 어떤 이상과 마주치게 될지 누가 알겠는가? 또 얼마나 많은 미지의 이상 특성이 우리에게 발견되길 기다리고 있겠는가?\n에드가는 어머니의 말을 진지하게 경청했다.\n\n에드가 역시 어머니의 모험 정신을 물려받은 모양인지, 상당히 터무니없어 보이는 약속이 새끼손가락 걸고 정해졌다. 어머니는 에드가의 손을 잡고 눈을 가린 채 지도를 향해 다트를 던졌다. 운, 혹은 운명, 또는 인연이라고 하는 것이 에드가의 모험을 결정지었다. 학교를 벗어나 처음으로 떠나는 모험의 목적지는 헤테로 시티가 됐다.\n\n항상 호기심을 갖고, 항상 지식을 추구하고, 항상 용감히 도전하라."
+   },
+   {
+    "title": "운명의 채용 공고",
+    "text": "에드가는 북적거리는 길모퉁이에 멈춰선 채 어디로 가야 할지 몰랐다. 고민하고 또 고민했지만, 막막하고 곤혹스럽기만 했다.\n경로 계획도, 지도도, 내비게이션도 포기한 상태였다. 그는 어머니의 말에 따라 헤테로 시티를 「내키는 대로 돌아다니고」 있었다. 인연과의 만남은 대개 의도치 않은 순간에 찾아온다고 했다.\n하지만 목적지도 없고 어느 방향으로 가야 할지도 모르는데, 이렇게 해서 「인연」을 찾을 수 있을까? 무계획적인 행동 방식을 상상조차 못 하는 에드가는 한참이나 다음 걸음을 내딛지 못했다. 그러다가 아예 길가 가판대에서 사료 한 봉지를 산 다음 분수 앞에 쪼그리고 앉아 비둘기들에게 먹이를 주기 시작했다.\n\n훗날 에드가는 이날을 떠올릴 때마다 어머니가 말했던 「정해진 운명」이라는 게 뭔지 조금은 알 것 같다고 느꼈다.\n흰 비둘기가 간질간질하게 손바닥을 쪼는 감각을 느끼며, 하늘 끝에서부터 따스한 주황색이 점점 번지고 금빛 구름이 아직 파란 쪽을 향해 흘러가는 광경을 보고 있을 때, 돌연 어디서 불어왔는지 모를 바람이 그의 얼굴을 때렸다. 그 바람과 함께 웬 포스터가 한 장 날아왔는데, 삐뚤빼뚤한 글씨에 TV 머리가 달린 생물이 그려진 채용 공고였다.\n\n「에이본 골동품 가게」.\n일어나서 주위를 둘러본 에드가는 도로 표지판이 가리키는 반각 거리를 향해 걸음을 옮겼다."
+   },
+   {
+    "title": "끝내 통하는 마음",
+    "text": "말이 통하지 않아도 타기도의 의도를 이해하는 건 어렵지 않았다.\n「타기타기」 하는 억양과 빈도, 그 순간 타기도의 표정, 그리고 그 풍부한 몸짓을 종합적으로 보고 에드가는 뜻을 이해했다.\n「환영해! 새 친구!」\n\n이상 관찰 일지의 새로운 페이지가 시작됐다. 관찰 대상은 물론 기묘한 TV 머리 해달이었다. 당연하지만, 에드가의 관찰 기록은 부모님 것처럼 정식적이지는 않았다. 그가 기록한 것은 타기도의 사소한 습관, 괴벽, 해달 인생의 목표… 그리고 타기도와 함께하는 수많은 일상 정도였다.\n깔끔하고 예쁜 노트의 빈 페이지는 에드가의 예상보다 훨씬 빠르게 줄어들었다. 중간 어느 부분부터 한 페이지 전체가 타기도의 셀카로 채워지고 타기도의 발자국까지 찍혀 있는 탓인지도 몰랐다. 어떤 페이지에는 형광 핑크색 마카로 휘갈겨 쓴 메모가 있었다. 「그래, 타기도! 역시 네가 내 푸딩 훔쳐 먹었구나!」 또 여러 페이지에 걸쳐 의심스러운 물자국(무슨 액체인지 자세히 생각하지 않는 편이 좋다)이 남아 있기도 했는데, 「키로마루에 대해서도 적어볼래? 동의는 이미 내가 대신 했어.」라는 메모의 바로 뒷부분이었다.\n\n확실히 에드가는 자기 의사를 잘 표현하지 못했다. 하지만 마음이 통하는 데에 꼭 언어가 필요한 건 아니다… 에드가는 나나리, 사키리, 타기도와 함께 지붕에 누워 별을 보면서 문득 그런 생각을 했다.\n\n그러나 언어가 그 과정에 속도를 더해줄 수는 있다… 언젠가 타기도와 마주보고 한참 손짓 발짓을 하고도 소통에 실패했을 때 에드가가 마음속으로 덧붙인 한마디였다."
+   }
+  ],
+  "zh-tw": [
+   {
+    "title": "詳細情報",
+    "text": "總是被說是「伊波恩異象偵探」裡看起來最像偵探的那位。埃德嘉沒否認，但也沒承認。大概因為解釋起來真的很麻煩，很麻煩。\n畢竟除此之外的頭銜還有「伊波恩王牌三人組」、「獵人幫最具潛力新星選手」、「橋間地異象獵人TOP3」以及未來無數個被娜娜莉或早霧塔吉多（有時候還有鬼郎丸）隨口編出來氣勢響噹噹的外號。\n\n明明還是個滿臉稚氣的小小少年，行為舉止卻是超乎他年紀的成熟，甚至可以說，老成。大概是另外兩位都是積極的行動派的緣故，每當娜娜莉和早霧為新發現的線索一溜煙跑遠，埃德嘉總是鞠躬向人道謝的那位。更多時候，則是道歉和結帳。\n當然啦，埃德嘉最主要負責的還是搜集情報和制定行動計畫。至於行動計畫被嚴格遵守過幾次——哎呀，只要結果是好的，何必管那麼多呢！這套理論，目前埃德嘉已經深以為然。不過並不妨礙他每次的精心準備，並為可能（或者說一定）發生的意外狀況準備PLAN B。\n塔吉多經常看著三位年輕的異象獵人出門遠去的身影，故作高深嘆口氣「未來的埃德嘉，會成為阿德勒先生！」"
+   },
+   {
+    "title": "有其母必有其子",
+    "text": "都說遺忘也是成長的一部分。長大後的大人們，大都對兒時只剩下些模模糊糊，像被套上某種柔光濾鏡，怎樣都看不真切的回憶片段。\n埃德嘉卻並非如此。只要努力回想，每一天都能在腦海中盡數浮現。\n家人得知埃德嘉的異能的那天，是這樣的——\n\n尋常，和過去每一天都沒什麼兩樣的傍晚，埃德嘉三歲的某一天。下班回家的爸爸媽媽和埃德嘉正享受著餐桌上的親子時光。清淡可口的菜肴佐以爸爸口述的有趣異象小故事，再愜意不過如此。\n埃德嘉的父母都是尤克阿什庭負責撰寫維護異象檔案的員工，因此爸爸總有講不完的故事——取材自上班時間編寫的，已對公眾開放的異象檔案，再稍作改編的小故事。\n但，現在的埃德嘉還不知道這些。每當爸爸在餐桌上滔滔不絕起來，一低頭滿眼皆是寶貝兒子亮晶晶的眼神……\n被兒子當成「故事大王」崇拜，加多少班都值得了。\n\n「奇怪？好像和爸爸寫的檔案不太一樣？到底哪一個才是真的？」\n自埃德嘉認真提問的那刻起，有些東西就永遠也回不到過去了，埃德嘉爸爸大概會永遠記得這個瞬間。不過他的注意力很快聚焦到更為關鍵的事上：埃德嘉怎麼知道他才存入的異象檔案？\n兒子什麼時候翻窗出門一路小跑，跑去尤克阿什庭看檔案了？這麼小的孩子也有權限查閱檔案嗎？\n\n接下來的半個小時，爸爸媽媽終於弄清了這是怎麼回事：原來埃德嘉只需努力想像（兩位大人也努力調動自己的想像力想像這個畫面），便能和諸多圖書館建立聯繫，尤克阿什庭的檔案館也不例外。埃德嘉大概太過好奇爸爸寫過什麼內容，情不自禁想著爸爸的名字……有埃德嘉爸爸署名的異象檔案，就這麼一份一份在埃德嘉腦海中攤開來……\n順帶一提的是，埃德嘉早就發現自己有這樣的能力，大概是天生的吧？只是在更早之前，他還不怎麼識字，看不太懂白紙上密密麻麻的東西……\n\n埃德嘉大概已經讀過自己剛剛開始工作時，筆觸尚還稚嫩的檔案——「黑歷史」已經在兒子面前一覽無餘了。想到這裡，埃德嘉爸爸決定先溜去廚房洗碗，回頭再細細研究兒子的異能。\n\n「這孩子真是像我~我們第一次約會的那天晚上，我也是把你寫的論文都看了一遍。」\n妻子也沒放過他。"
+   },
+   {
+    "title": "埃德嘉想當什麼？",
+    "text": "天才兒童、傳聞中「鄰居家的孩子」、「被智慧之神親吻的少年」。\n\n埃德嘉從「燈校」畢業回家的那天，帶著自己小孩，一窩蜂跑來祝賀的親戚鄰居們，險些把埃德嘉家的門檻踢平。只是好奇來看看所謂的「你要以人家為榜樣的鄰居家孩子」究竟有何不一樣，又或是滿不情願嘟著嘴被家長要求「多學學人家」的小孩們，得出同樣的結論——\n看起來真沒什麼特別的。\n\n而此刻被大人們團團包圍住的埃德嘉，已經暈頭轉向，腦筋轉得再快，也跟不上他們七嘴八舌的跳躍式話題。唾沫橫飛間，埃德嘉的未來藍圖漸漸清晰：埃德嘉馬上就當上「零角實驗室」金牌研究員、「尤克阿什庭」的明日之星、「異象管理局」的新任局長。粉爪銀行的offer也可以考慮考慮，以埃德嘉的能力出任粉爪銀行的董事又有何難？當然，到時候別忘了提拔提拔住他對面那個每科成績都在及格邊緣徘徊的臭小子……\n\n那些羅列著，為他安排諸多光明前程的大人們，徹底沉浸在自己的想像裡了。就好像埃德嘉才是他們親生小孩，一個接一個地替他們實現所有無法親自達成，只能寄託在後代上的夢想。\n\n埃德嘉左看看右看看，誰的話題都接不上。緊張到把圍巾拉得高高的，恨不得整個人都能躲進去。好在爸爸此時也擠了過來，拍拍他的肩頭：埃德嘉以後想當什麼？\n\n在爸爸目光的鼓勵下，埃德嘉輕聲道：\n我……我只想當「埃德嘉」。"
+   },
+   {
+    "title": "樹洞之外的世界",
+    "text": "論點一：埃德嘉非常喜歡異象\n論點二：埃德嘉的腦袋還算靈活\n論點三：埃德嘉訪問異象檔案很方便\n\n所以，埃德嘉很適合像爸爸媽媽一樣，在尤克阿什庭的檔案館工作，整理文書，無止盡地學習異象相關的知識。\n\n兒子的這番推論，讓埃德嘉媽媽費了好大功夫才忍住笑。並非結論荒謬可笑——或者說恰恰相反，邏輯清晰推導合理，簡直讓人沒有拒絕的道理。\n但現在讓埃德嘉也住進尤克阿什庭的樹洞，戴起厚厚的啤酒瓶底眼鏡，窩在厚厚文件袋裡還太早了些。媽媽不是不明白兒子的心願，但比起從其他人的報告中了解異象，埃德嘉親眼去見識、親自去驗證那些奇妙的點點滴滴，不是更好嗎？誰知道下一個街角會遇到什麼異象？還有多少未知的異象特性有待我們的發現？\n埃德嘉聽得很認真。\n\n埃德嘉大約也繼承了來自媽媽的冒險精神，看起來頗有些胡鬧的約定就這麼打勾勾約好了：媽媽拉著埃德嘉的手，蒙著眼睛把飛鏢釘向地圖。所謂的運氣，或者說命運，亦可以是緣分，決定了埃德嘉的這場冒險——離開學校後的第一場冒險的目的地，海特洛市。\n\n永遠好奇，永遠想求知，永遠勇於嘗試。"
+   },
+   {
+    "title": "命中註定的招募海報",
+    "text": "站在熙熙攘攘街角的埃德嘉並不知道自己要去哪裡。他想了很久，很久，依舊迷茫又困惑。\n放棄了路線規劃，地圖，導航。他按照媽媽的說法，正在海特洛市「隨心所欲漫遊」，據說與緣分的邂逅，往往是在不經意間降臨的。\n沒有目的地，也不知道要往哪個方向走，這樣就能找到「緣分」嗎？埃德嘉完全無法想像毫無規劃的行動方式，因而遲遲也邁不開接下來的腳步。他索性在街邊攤販買了一小包飼料，蹲在噴泉前餵起鴿子來。\n\n後來，每當埃德嘉回想那一天，都覺得自己模模糊糊懂了些媽媽口中的「命中註定」。\n就在他感受著白鴿在掌心啄來啄去的癢意，看著天邊漸漸泛起暖橙色，燙金的雲朵向尚且蔚藍的地方駛去的時候，一陣不知從何而來的風猛一下拍到他臉上。與之一起來的還有張字跡歪七扭八，畫著某電視頭生物的招募海報。\n\n「伊波恩古董店」。\n他起身四處看了看，向路標指示的半角街走去。"
+   },
+   {
+    "title": "終將心意相通",
+    "text": "語言不通，但弄懂塔吉多的意思並不難。\n結合「塔吉塔吉」的語調和頻率、塔吉多此刻顯示的表情，還有他豐富的肢體動作，埃德嘉讀懂了：\n「歡迎！新朋友！」\n\n異象觀察日記正式開始新的一頁，觀察對象自然是奇妙的電視機頭海獺。當然，埃德嘉的觀察記錄並不像爸爸媽媽的那麼正式，他寫下的只是塔吉多的小習慣，小怪癖，獺生目標……以及許許多多與塔吉多一起生活的日常。\n這本整潔漂亮的筆記本，消耗得遠比埃德嘉想像中要快得多。可能是因為從中間的某頁起，一整頁被貼滿塔吉多的自拍照，還附贈塔吉多的爪印一枚。某頁被螢光粉馬克筆狠狠備註：「好啊塔吉多！果然是你偷吃了我的布丁！」還有連續的好幾頁有可疑的水漬（最好不要細想究竟是什麼液體），就緊跟在「要不要也寫寫看鬼郎丸？我已經替這傢伙同意了。」之後。\n\n誠然，埃德嘉不太擅長表達自己。但心意相通並不一定要通過語言……埃德嘉和娜娜莉、早霧還有塔吉多一起躺在屋頂看星星時，他突然地想到。\n\n不過語言可以加速這一歷程——某次和塔吉多比劃半天仍大眼瞪小眼後，埃德嘉在心中補充道。"
+   }
+  ]
+ },
+ "outfits": {
+  "Fashion_1021_0": {
+   "en": {
+    "name": "All-Seeing",
+    "text": "The wide collar can cover half the face, acting like a protective shell. Perfect for hiding uncertain expressions."
+   },
+   "zh-cn": {
+    "name": "全知视角",
+    "text": "可以挡住半张脸的宽大衣领设计，就像是供于躲藏的贝壳，很方便藏起还不够大胆的表情。"
+   },
+   "ja": {
+    "name": "全知の視野",
+    "text": "顔の半分を覆ってしまうほど大きな襟は、まるで貝殻のように、不器用な表情をそっと隠してくれる。"
+   },
+   "ko": {
+    "name": "전지적 시점",
+    "text": "조개껍데기를 닮은 커다란 옷깃이 얼굴의 반을 가려주어, 자신감 없는 표정을 숨길 수 있다."
+   }
+  }
+ }
+}

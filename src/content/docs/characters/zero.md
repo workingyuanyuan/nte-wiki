@@ -57,6 +57,8 @@ sources:
     url: https://static.nanoka.cc/nte/1.5.4/ja/character/1046.json
   - title: nanoka.cc game data 1.5.4, character file in Korean
     url: https://static.nanoka.cc/nte/1.5.4/ko/character/1046.json
+  - title: 'Everness, outfit pages in Traditional Chinese (example: 最佳拍檔, read 2026-11-23)'
+    url: https://everness.info/zh-Hant/cosmetics/Fashion_1046_7
 ---
 
 ![Esper Zero in the male form, official character art: a young man with short silver hair in a black jacket, a white shirt and a purple tie](/art/characters/zero.webp)
@@ -119,12 +121,12 @@ The English game text of Blooming Gaze says enemies of lower level; the Chinese,
 
 ## Outfits
 
-| Outfit | How to get |
-| --- | --- |
-| Perfect Partners | "Everdriving" Mystery Boxes (Porsche collaboration): 2026-06-03 to 2026-07-08, and again 2026-09-30 to 2026-11-11 05:59 (UTC+8) |
-| Glory Days | "Neon Rift" Mystery Boxes, 2026-07-08 to 2026-08-19 05:59 (UTC+8) |
-| Cloudless Summer | "Lucent Tides" Mystery Boxes, 2026-08-19 to 2026-09-30 05:59 (UTC+8) |
-| Unassuming Warrior, The Blademaster | "999 Nights" Button Shop |
+| Outfit | How to get | Description |
+| --- | --- | --- |
+| Perfect Partners | "Everdriving" Mystery Boxes (Porsche collaboration): 2026-06-03 to 2026-07-08, and again 2026-09-30 to 2026-11-11 05:59 (UTC+8) | A sharply tailored racing suit, as irreplaceable as the partner at your side. |
+| Glory Days | "Neon Rift" Mystery Boxes, 2026-07-08 to 2026-08-19 05:59 (UTC+8) | Crowned in glory, the long night finds its light. |
+| Cloudless Summer | "Lucent Tides" Mystery Boxes, 2026-08-19 to 2026-09-30 05:59 (UTC+8) | A paper plane rides the sea breeze toward distant shores. What will this summer leave behind? |
+| Unassuming Warrior, The Blademaster | "999 Nights" Button Shop | Unassuming Warrior: Fasten the last button, straighten the collar. Those setting out for the first time must learn such things before all else. The Blademaster: The wind shall remember the swordsman's path. |
 
 ## Skill multipliers
 

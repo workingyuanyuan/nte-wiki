@@ -44,6 +44,7 @@ sources:
 | Arc type | Plasma |
 | Joined | Version 1.0 |
 | Voice actors | Chinese: 葛子瑞; English: Kira Buckland; Japanese: 高橋花林; Korean: 정해은 |
+| Archive | [Aurelia archive](/characters/aurelia/archive/) |
 
 Game8 spells two of her skills "Capella" and "Canon Chorus"; Prydwen spells them "Cappella" and "Canzon Chorus". Her Bond Level cap was raised to 10 on 2026-10-21.
 

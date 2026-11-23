@@ -1,0 +1,246 @@
+{
+ "slug": "zero",
+ "id": "1046",
+ "version": "1.5.4",
+ "sources": {
+  "en": "https://static.nanoka.cc/nte/1.5.4/en/character/1046.json",
+  "zh-cn": "https://static.nanoka.cc/nte/1.5.4/zh/character/1046.json",
+  "ja": "https://static.nanoka.cc/nte/1.5.4/ja/character/1046.json",
+  "ko": "https://static.nanoka.cc/nte/1.5.4/ko/character/1046.json",
+  "zh-tw": "https://everness.info/zh-Hant/espers/1046"
+ },
+ "reads": {
+  "zh-tw": "2026-11-23"
+ },
+ "archive": {},
+ "outfits": {
+  "Fashion_1046_0": {
+   "en": {
+    "name": "Beginning of the Story",
+    "text": "Clean, sharp tailoring. Perfect for everyday wear."
+   },
+   "zh-cn": {
+    "name": "故事之初",
+    "text": "干净利落的剪裁样式，很适合日常活动。"
+   },
+   "ja": {
+    "name": "物語のはじまり",
+    "text": "シンプルで無駄のないデザイン。普段着にぴったりの一着だ。"
+   },
+   "ko": {
+    "name": "이야기의 시작",
+    "text": "깔끔하게 재단된 의상. 일상 생활에 적합하다."
+   }
+  },
+  "Fashion_1046_2": {
+   "en": {
+    "name": "Hunter Off Duty",
+    "text": "Playful yet stylish attire with layers and eye-catching accessories, showcasing a carefree personality.\n\"A first-rate hunter should have first-rate fashion sense too!\""
+   },
+   "zh-cn": {
+    "name": "猎人不上班",
+    "text": "俏皮又不失帅气的着装，层叠的衣衫和亮眼的配饰，尽显随性自由。\n「一流的猎人，也该有一流的衣品~」"
+   },
+   "ja": {
+    "name": "ハンターの休日",
+    "text": "遊び心を残しつつもクールに決めた服装。レイヤードスタイルと目を引くアクセサリーが、自由気ままな雰囲気を演出している。\n「一流のハンターなら、ファッションも一流じゃなきゃね～」"
+   },
+   "ko": {
+    "name": "헌터는 휴가 중",
+    "text": "세련되면서도 시크한 스타일링, 겹겹이 레이어드 된 옷감과 화려한 액세서리에서 자유분방한 매력이 느껴진다.\n「일류 헌터라면 그에 걸맞은 옷도 있어야지~」"
+   }
+  },
+  "Fashion_1046_3": {
+   "en": {
+    "name": "City Wanderer",
+    "text": "Light and fitted, clean and sharp styling that never goes wrong, helping you blend into crowds with ease."
+   },
+   "zh-cn": {
+    "name": "城市漫游者",
+    "text": "轻便合身、简洁利落，永不出错的穿搭，帮助你轻松融入人群。"
+   },
+   "ja": {
+    "name": "シティウォーカー",
+    "text": "軽快な着心地と、シンプルかつスマートなシルエット。この王道スタイルなら、人混みにも自然に溶け込めるだろう。"
+   },
+   "ko": {
+    "name": "유유자적한 일상",
+    "text": "편안한 착용감과 군더더기 없는 라인, 자연스럽게 군중 속에 녹아들 수 있는 완벽한 스타일링이다."
+   }
+  },
+  "Fashion_1046_4": {
+   "en": {
+    "name": "Unconventional Attire",
+    "text": "Standard detention facility uniform with a well-fitted cut, comfortable fabric, and bright colors. If only I could wear it normally…"
+   },
+   "zh-cn": {
+    "name": "「非常规衣着」",
+    "text": "拘留所统一服装，版型合身、面料舒适、颜色亮眼，要是平常也能穿的话……"
+   },
+   "ja": {
+    "name": "「非日常の装い」",
+    "text": "拘置所の指定服。体にフィットするデザイン、快適な生地、目を引く色使い。普段着としても着られたらいいのに…"
+   },
+   "ko": {
+    "name": "「비일상적인 복장」",
+    "text": "구치소 죄수복. 슬림한 핏에 소재가 편안하고 색감도 화사하다. 일상복으로 입을 수만 있다면…"
+   }
+  },
+  "Fashion_1046_5": {
+   "en": {
+    "name": "School Musings",
+    "text": "Preppy academic attire with understated colors complemented by classic patterns, showcasing the refined aura of an honor student.\n\"Want to attend tomorrow's mixer together?\""
+   },
+   "zh-cn": {
+    "name": "学园随想",
+    "text": "学院风格着装，低调配色辅以经典花纹，彰显精致的优等生气质。\n「明天的联谊会，要一起去吗？」"
+   },
+   "ja": {
+    "name": "学園の日常",
+    "text": "スクールテイストな一着。落ち着いた配色にクラシカルな柄をあしらい、洗練された優等生の雰囲気を醸し出している。\n「明日の合コン、一緒に行かない？」"
+   },
+   "ko": {
+    "name": "아카데미 단상",
+    "text": "스쿨룩 스타일. 차분한 컬러와 클래식한 패턴이 단정한 모범생 분위기를 자아낸다.\n「내일 친목회에 같이 갈래?」"
+   }
+  },
+  "Fashion_1046_6": {
+   "en": {
+    "name": "Graffiti in Progress",
+    "text": "A playful overalls set full of childlike charm, featuring unique printed patterns and an asymmetrical design with loads of personality. Even if you get paint splattered on it, it'll just look like part of the print."
+   },
+   "zh-cn": {
+    "name": "涂鸦进行时",
+    "text": "充满童趣的背带裤套装，独特的印花图案与不对称设计，个性十足。就算身上溅到颜料，也会被当作印花的一部分。"
+   },
+   "ja": {
+    "name": "ラクガキ中",
+    "text": "遊び心あふれるオーバーオール・スタイル。ユニークなプリント柄とアシンメトリーなデザインが個性的。もし絵の具が飛んでしまっても、柄の一部として馴染んでくれるだろう。"
+   },
+   "ko": {
+    "name": "그래피티 타임",
+    "text": "동심이 가득한 멜빵바지. 유니크한 프린트와 언밸런스한 디자인이 개성을 더한다. 몸에 물감이 튀어도 프린트처럼 보인다."
+   }
+  },
+  "Fashion_1046_7": {
+   "en": {
+    "name": "Perfect Partners",
+    "text": "A sharply tailored racing suit, as irreplaceable as the partner at your side."
+   },
+   "zh-cn": {
+    "name": "最佳拍档",
+    "text": "极具剪裁设计的赛车服，就像身边伙伴一样，无可替代。"
+   },
+   "ja": {
+    "name": "プライム・パートナー",
+    "text": "見事なカッティングデザインのレーシングスーツ。最も頼れる相棒として、かけがえのない存在だ。"
+   },
+   "ko": {
+    "name": "환상의 콤비",
+    "text": "섬세한 재단 디자인이 돋보이는 레이싱 슈트. 곁에 있는 동료처럼 그 무엇으로도 대체할 수 없다."
+   },
+   "zh-tw": {
+    "name": "最佳拍檔",
+    "text": "極具剪裁設計的賽車服，就像身邊夥伴一樣，無可替代。",
+    "url": "https://everness.info/zh-Hant/cosmetics/Fashion_1046_7",
+    "read": "2026-11-23"
+   }
+  },
+  "Fashion_1046_rpg_level1": {
+   "en": {
+    "name": "Unassuming Warrior",
+    "text": "Fasten the last button, straighten the collar.\nThose setting out for the first time must learn such things before all else."
+   },
+   "zh-cn": {
+    "name": "未启之锋",
+    "text": "扣好最后一粒纽扣，整理好衣领。\n初次启程的人总要先学会这些。"
+   },
+   "ja": {
+    "name": "ブレイド・ロンド",
+    "text": "最後のボタンを留め、襟元を整える。\n初めて旅立つ者は、まずこれらを学ばねばならない。"
+   },
+   "ko": {
+    "name": "봉인된 칼날",
+    "text": "마지막 단추를 채우고, 옷깃을 단정히 정리하자.\n첫 여정을 떠나는 자는 언제나 이런 것부터 익혀야 한다."
+   },
+   "zh-tw": {
+    "name": "未啟之鋒",
+    "text": "扣好最後一粒鈕扣，整理好衣領。\n初次啟程的人總要先學會這些。",
+    "url": "https://everness.info/zh-Hant/cosmetics/Fashion_1046_rpg_level1",
+    "read": "2026-11-23"
+   }
+  },
+  "Fashion_1046_rpg_level2": {
+   "en": {
+    "name": "The Blademaster",
+    "text": "The wind shall remember the swordsman's path."
+   },
+   "zh-cn": {
+    "name": "剑士之姿",
+    "text": "风会记住剑士的痕迹。"
+   },
+   "ja": {
+    "name": "聖剣マスター",
+    "text": "風は剣士の軌跡を覚えている。"
+   },
+   "ko": {
+    "name": "검사의 자태",
+    "text": "바람은 검사의 흔적을 기억한다."
+   },
+   "zh-tw": {
+    "name": "劍士之姿",
+    "text": "風會記住劍士的痕跡。",
+    "url": "https://everness.info/zh-Hant/cosmetics/Fashion_1046_rpg_level2",
+    "read": "2026-11-23"
+   }
+  },
+  "Fashion_1046_rpg_level3": {
+   "en": {
+    "name": "Glory Days",
+    "text": "Crowned in glory, the long night finds its light."
+   },
+   "zh-cn": {
+    "name": "授勋日",
+    "text": "荣光加冕，长夜有明。"
+   },
+   "ja": {
+    "name": "白銀の聖騎士",
+    "text": "栄光を戴き、長き夜が明ける。"
+   },
+   "ko": {
+    "name": "수훈의 날",
+    "text": "영광은 왕관이 되고, 긴 밤에도 빛은 존재한다."
+   },
+   "zh-tw": {
+    "name": "授勳日",
+    "text": "榮光加冕，長夜有明。",
+    "url": "https://everness.info/zh-Hant/cosmetics/Fashion_1046_rpg_level3",
+    "read": "2026-11-23"
+   }
+  },
+  "Fashion_1046_swimsuit": {
+   "en": {
+    "name": "Cloudless Summer",
+    "text": "A paper plane rides the sea breeze toward distant shores. What will this summer leave behind?"
+   },
+   "zh-cn": {
+    "name": "夏日澄空",
+    "text": "当纸飞机乘着海风飞向大海的另一头，这个夏天会留下什么？"
+   },
+   "ja": {
+    "name": "サニー・マリン",
+    "text": "このマリンブルーの夏が終わる時、私たちにはどんな思い出が残るのだろう？"
+   },
+   "ko": {
+    "name": "한여름의 푸른빛",
+    "text": "종이비행기가 바닷바람을 타고 바다 너머로 날아가면, 이 여름은 무엇을 남겨줄까?"
+   },
+   "zh-tw": {
+    "name": "夏日澄空",
+    "text": "當紙飛機乘著海風飛向大海的另一頭，這個夏天會留下什麼？",
+    "url": "https://everness.info/zh-Hant/cosmetics/Fashion_1046_swimsuit",
+    "read": "2026-11-23"
+   }
+  }
+ }
+}

@@ -45,6 +45,7 @@ sources:
 | 아크 타입 | 결합 (Condensate) |
 | 참전 | 1.0 버전 |
 | 성우 | 중국어: 王宇航; 영어: Jacob Craner; 일본어: 森川智之; 한국어: 심규혁 |
+| 아카이브 | [아들러 아카이브](/ko/characters/adler/archive/) |
 
 ## 획득 방법
 

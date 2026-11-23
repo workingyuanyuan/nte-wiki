@@ -10,6 +10,9 @@ This site is an unofficial wiki for the game Neverness to Everness (NTE, 異環)
 - Third release (owner, 2026-11-21): two system pages, Combat formulas (`systems/combat`) and Sea Angler and Bagel (`systems/sea-angler-bagel`), a public transport section on the vehicles page, and sections on Console dismantling and on whose stats an Esper Cycle uses. Player research from the NGA forum and from the Bilibili channel 零号攻略组 may serve as sources; a fact found in only one of them is attributed in the sentence. An endgame modes page waits for a change to how the home page reaches the system pages.
 - Skill multipliers (owner, 2026-11-22): every character page gets a last section with the per-level values of its four skills from the game data 1.5.4; character pages now list their nanoka.cc character files as sources.
 - Game data: the owner accepted the versioned game data that nanoka.cc publishes (`static.nanoka.cc/nte/<version>/`, English and Simplified Chinese) as the source of in-game text: names, Arc stats and effects, Cartridge sets, Awakenings, base stats, materials, vehicles, properties. Only released content goes in (Exe and the Arc "Dotted Horizon" were in 1.5.4 data before release). Check samples against mysqil, Everness and the official notices, take a bounded number of files, and do not crawl the sites: nanoka.cc and everness.info carry `ai-train=no` and block AI crawlers.
+- Story text (owner, 2026-11-23): character archives (`profile_detail`), outfit descriptions, and the descriptions of Arcs (on the Arcs page) and of the materials on the progression page are shown as the game writes them, in each language's own edition: English, Simplified Chinese, Japanese and Korean from the nanoka.cc files, Traditional Chinese from everness.info, whose text is the Taiwan localisation (it differs in wording from the Simplified text). Never converted with OpenCC, never paraphrased. Archive pages sit at `characters/<slug>/archive`, hidden from the sidebar and linked from the Profile table and the character list. A character whose archive the game has not opened (one entry, "Profile locked": Esper Zero in 1.5.4) gets no archive page. Outfit rows that name several outfits put each name before its text. As with art, remove text when the publisher asks. The anomaly archive is left out: its only source is GameKee's player transcriptions (Simplified Chinese, some fields locked), and GameKee's user agreement (4.5) forbids copying, reposting and compiling its content without written permission.
+- Game text is written into the pages by script from records (owner, 2026-11-23): `pipeline/` fetches a bounded list of files, writes `records/characters/<slug>.json`, `records/arcs.json` and `records/items.json`, and writes the archive pages, the Outfits description column, the Profile row, the character list's archive column and the description tables at the end of the Arcs and progression pages. Do not edit those parts by hand.
+- The home page reaches the character pages through the character list (`characters/index.md`, 2026-11-23); `INDEX_PAGES` in `scripts/check-dist.mjs` names the index pages the check follows.
 - Primary source: the global official site `nte.perfectworld.com`, because it is readable with a plain HTTP fetch. The Taiwan site `nte.iwplay.com.tw` is used only for Traditional Chinese names.
 - Do not label the service region beside each date. The pages state once, in the home page caveat and in `llms.txt`, that dates follow the global official site in UTC+8 and that mainland China is not covered.
 - Official art is used, by the owner's decision, although the publisher's Derivative Work Guidelines forbid direct copying of official materials. Credits go in the `art` frontmatter field and appear in the page notes at the end of the page, never under the picture. Remove an image when the publisher asks.
@@ -28,7 +31,15 @@ pnpm verify      # subset the font, build, then run the acceptance checks. Run t
 pnpm build       # subset the font and build
 pnpm check       # acceptance checks on an existing dist/
 pnpm upstream    # compare the sources with what the pages were written from (upstream/README.md)
-uv run --with opencc-python-reimplemented scripts/to-zh-cn.py   # write the zh-cn pages from the zh-tw pages
+
+uv run --with opencc-python-reimplemented scripts/to-zh-cn.py   # write the zh-cn pages from the zh-tw pages, then run the last line below
+
+# game text from records (after any zh-tw change, in this order; no slug = everything)
+python3 pipeline/fetch_nanoka.py                                              # nanoka.cc files to pipeline/cache/
+CHROMIUM=<chrome-headless-shell> node pipeline/fetch_everness.mjs $(python3 pipeline/everness_keys.py)   # Traditional Chinese
+python3 pipeline/build_records.py [slug ...]                                  # records/
+uv run --with opencc-python-reimplemented scripts/to-zh-cn.py
+python3 pipeline/build_pages.py [slug ...]
 pnpm preview     # serve dist/ at http://127.0.0.1:4399/nte-wiki/ with GitHub Pages style headers
 ```
 
@@ -45,7 +56,7 @@ pnpm preview     # serve dist/ at http://127.0.0.1:4399/nte-wiki/ with GitHub Pa
 - Attributes in Chinese: 光 Cosmos, 靈 Anima, 咒 Incantation, 魂 Psyche (Taiwan news posts); 暗 Chaos, 相 Lakshana (Traditional Chinese guide sites). Arc types in Chinese are followed by the English in parentheses, for example 固態 (Solid). The game's Chinese text names the five types 固态, 液态, 气态, 等离子 and 聚合 (Condensate); 聚合 replaced the earlier 凝聚態.
 - Character pages follow one structure: portrait, Profile (with voice actors), How to obtain, Skills, Growth, Awakenings, then Signature Arc, Outfits, Story and modes where they apply. Skill multipliers comes last: one table per skill with Lv. 1–13 from the game data (`abilities[].param_rows`), labels in the page language, `*` written as `×`, and a row that is the same at every level written as a sentence under the table. Portraits go in `public/art/characters/<slug>.webp`, cropped from the official site's mobile poster (left 95, top 150, width 560, height 686 of the 750×836 image). Adler, Edgar, Haniel, Aurelia and Skia have no profile on the official site and so no portrait.
 - When a version changes or a Board opens: see `upstream/README.md`.
-- The home page must link every page within its first 5,000 extracted characters. The English home page is about 15 characters under the limit (the check counts absolute URLs); the versions table lost its column of new limited characters to make room on 2026-11-21. Shorten cells or drop duplicate links before adding rows; another page needs a change the owner decides, such as a systems index page. System pages are a plain link list there.
+- The home page must link every page within its first 5,000 extracted characters, or an index page that does. The English home page is about 15 characters under the limit (the check counts absolute URLs); the versions table lost its column of new limited characters to make room on 2026-11-21. Shorten cells or drop duplicate links before adding rows; another page needs a change the owner decides, such as a systems index page. System pages are a plain link list there.
 
 ## When the sources change
 
@@ -83,7 +94,8 @@ Run `pnpm upstream`. What it watches, what each line of its report means and how
 | `scripts/check-found.mjs` | Checks called by `check-dist.mjs`: a title and description of its own for every page, canonical, `hreflang`, sitemap |
 | `tests/agent-eval/questions.json` | The site's question list: what readers ask, each with the expected answer and qualifier. The agent test and the search test draw from it |
 | `scripts/indexnow.mjs` | Lists pages whose Markdown twin differs from the live one; the deploy workflow submits them to IndexNow |
-| `scripts/to-zh-cn.py` | Writes the Simplified Chinese pages from the Traditional Chinese ones |
+| `scripts/to-zh-cn.py` | Writes the Simplified Chinese pages from the Traditional Chinese ones; skips the archive pages |
+| `pipeline/`, `records/` | Game text: fetch, records, and the script that writes it into the pages |
 | `scripts/upstream.mjs`, `upstream/`, `.github/workflows/upstream.yml` | Check against the sources and its weekly run (`upstream/README.md`) |
 | `tests/agent-eval/` | Fetch tool, questions and method for the agent test |
 
@@ -103,6 +115,9 @@ Run `pnpm upstream`. What it watches, what each line of its report means and how
 | `static.nanoka.cc/nte/1.5.4/{en,zh}/` (`item.json`, `console.json`, `vehicle.json`, `home.json`, `character/<id>.json`, `weapon/<id>.json`; `weapon.json` and `character.json` at the version root) | Plain JSON of the game data, versioned; no Traditional Chinese. Some English fields hold untranslated Chinese (vehicle brands and a few names; their English names come from the patch notes) | In-game text |
 | `wiki.mysqil.com` | Static Simplified Chinese guide site, CC BY-NC-SA 4.0; takes part of its data from nanoka.cc and everness.info, so it is not independent of them; lags behind the game data (51 Arcs, 6 properties at 1.5) | Cross-check |
 | `everness.info` | Data renders with JavaScript (a browser is needed); same game data as nanoka.cc | Cross-check |
+| `everness.info/zh-Hant/espers/<id>`, `/zh-Hant/cosmetics/<Fashion_id>`, `/zh-Hant/arcs/<fork_id>`, `/zh-Hant/items/<item id>` (checked 2026-11-23) | Profile tab: archive entries collapsed behind buttons that the title layer covers (click them through the DOM); outfit, Arc and item pages: name, then the text after a „ mark (an item's first line is its use) | Traditional Chinese game text |
+| `gamekee.com/yh/<id>.html` (checked 2026-11-23) | Renders with JavaScript. Anomaly archive entries transcribed by players (number, class, type, containment, traits, story); about 70 listed. User agreement 4.5 forbids copying and compiling without written permission | Not used |
+| `wiki.biligame.com/yh/` (checked 2026-11-23) | `action=raw` returns wikitext. `异象设定` has three paragraphs, marked under construction; `角色设定` is an empty template | Not used |
 | `prydwen.gg/neverness-to-everness/guides/<slug>` | System guides as plain text (`esper-cycles`, `modules-generic`, `modules-cartridge`, `character-progression`) | Mechanics not in the game data |
 | Fandom, Mobalytics, wiki.gg, thegameswiki.com | 403, 403, 401, 429 | Not readable |
 | `gamewith.net/nte/<id>` (checked 2026-11-21) | Full text after the site navigation. `76296` is the Cycle Intensity guide | Mechanics, second source |

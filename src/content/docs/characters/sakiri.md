@@ -43,6 +43,8 @@ sources:
     url: https://static.nanoka.cc/nte/1.5.4/ja/character/1003.json
   - title: nanoka.cc game data 1.5.4, character file in Korean
     url: https://static.nanoka.cc/nte/1.5.4/ko/character/1003.json
+  - title: 'Everness, outfit pages in Traditional Chinese (example: 小熊曲奇, read 2026-11-23)'
+    url: https://everness.info/zh-Hant/cosmetics/Fashion_1003_2
 ---
 
 ![Sakiri, official character art: a girl with pale blue hair, a small horn and a black cap, in a red jacket and a pleated skirt](/art/characters/sakiri.webp)
@@ -56,6 +58,7 @@ sources:
 | Arc type | Gas |
 | Joined | Version 1.0 |
 | Voice actors | Chinese: 蔡书瑾; English: Brianna Knickerbocker; Japanese: 伊藤美来; Korean: 김나율 |
+| Archive | [Sakiri archive](/characters/sakiri/archive/) |
 
 The official profile introduces Sakiri as the author of the sticky-note rules on the fridge at Eibon Antique Shop. She wields the Anomaly war hammer Kiroumaru.
 
@@ -109,9 +112,9 @@ Each duplicate unlocks one Awakening of the player's choice; Resonances unlock a
 
 ## Outfits
 
-| Outfit | How to get |
-| --- | --- |
-| Gingerbear Biscuit | City Tycoon "Puka Membership Program", at the required level (Version 1.4) |
+| Outfit | How to get | Description |
+| --- | --- | --- |
+| Gingerbear Biscuit | City Tycoon "Puka Membership Program", at the required level (Version 1.4) | Sakiri may insist they're "way too childish," but really—who could say no to a sweet, fluffy Gingerbear Biscuit? |
 
 ## Skill multipliers
 

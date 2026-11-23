@@ -37,6 +37,8 @@ sources:
     url: https://static.nanoka.cc/nte/1.5.4/ja/character/1075.json
   - title: nanoka.cc game data 1.5.4, character file in Korean
     url: https://static.nanoka.cc/nte/1.5.4/ko/character/1075.json
+  - title: 'Everness, outfit pages in Traditional Chinese (example: 織夢者, read 2026-11-23)'
+    url: https://everness.info/zh-Hant/cosmetics/Fashion_1075_rpg_level3
 ---
 
 ![Iroi, official character art: a girl with long green hair and red curled horns in a white coat](/art/characters/iroi.webp)
@@ -50,6 +52,7 @@ sources:
 | Arc type | Liquid |
 | Joined | Version 1.2, second half, 2026-07-29 |
 | Voice actors | Chinese: 汪悦; English: Rachel Lepore; Japanese: 日高里菜; Korean: 이주은 |
+| Archive | [Iroi archive](/characters/iroi/archive/) |
 
 The official profile says Iroi is warm and approachable and puts people at ease the moment they meet her; every pattern of her behaviour matches what people expect of a "perfectly normal girl".
 
@@ -114,13 +117,13 @@ Each duplicate unlocks one Awakening of the player's choice; Resonances unlock a
 
 ## Outfits
 
-| Outfit | How to get |
-| --- | --- |
-| Dreamweaver | Shop, Riftcrystal ×3,280; permanent |
-| Summer Dream | Shop, Riftcrystal ×2,480; permanent |
-| Archmage | "The Lifeline" Board tile, or the Wayfarer Perks page after enough rolls |
-| Channeling… | "999 Nights" Button Shop |
-| Starlit Night | Bond Lvl 10 with Iroi |
+| Outfit | How to get | Description |
+| --- | --- | --- |
+| Dreamweaver | Shop, Riftcrystal ×3,280; permanent | She weaves the stars into the dreamscape. As Iroi sleeps, the weight of a universe rests lightly upon her. |
+| Summer Dream | Shop, Riftcrystal ×2,480; permanent | Hidden within a bright and colorful dreamscape, watching the long summer drift by. |
+| Archmage | "The Lifeline" Board tile, or the Wayfarer Perks page after enough rolls | The chant goes on, and the edge of the dream quietly stretches another inch. |
+| Channeling… | "999 Nights" Button Shop | Arcane sparks dance at her fingertips, while Iroi writes the first page of a dream yet unfinished. |
+| Starlit Night | Bond Lvl 10 with Iroi | The moon has fallen a thousand times. Has it truly been only a thousand? |
 
 ## Skill multipliers
 

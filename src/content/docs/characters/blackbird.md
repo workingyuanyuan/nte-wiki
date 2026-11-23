@@ -37,6 +37,8 @@ sources:
     url: https://static.nanoka.cc/nte/1.5.4/ja/character/1042.json
   - title: nanoka.cc game data 1.5.4, character file in Korean
     url: https://static.nanoka.cc/nte/1.5.4/ko/character/1042.json
+  - title: 'Everness, outfit pages in Traditional Chinese (example: 牧星者, read 2026-11-23)'
+    url: https://everness.info/zh-Hant/cosmetics/Fashion_1042_1
 ---
 
 ![Blackbird, official character art: a woman in a wide black witch's hat and a black feathered dress](/art/characters/blackbird.webp)
@@ -50,6 +52,7 @@ sources:
 | Arc type | Gas |
 | Joined | Version 1.4, 2026-09-30 |
 | Voice actors | Chinese: 井琉; English: Xanthe Huynh; Japanese: 能登麻美子; Korean: 문유정 |
+| Archive | [Blackbird archive](/characters/blackbird/archive/) |
 
 The official profile places Blackbird in the Witch's House deep in the forest. Locals know her simply as the Witch, a woman of few words with a talent for Divination.
 
@@ -114,11 +117,11 @@ Each duplicate unlocks one Awakening of the player's choice; Resonances unlock a
 
 ## Outfits
 
-| Outfit | How to get |
-| --- | --- |
-| Wandering Stars | Shop from 2026-10-07, Riftcrystal ×3,280; permanent |
-| Rouge et Noir | "Foretold Finale" Board tile, or the Divination Perks page after enough rolls |
-| Unfazed Denim | Bond Lvl 10 with Blackbird |
+| Outfit | How to get | Description |
+| --- | --- | --- |
+| Wandering Stars | Shop from 2026-10-07, Riftcrystal ×3,280; permanent | Those who read the stars spend their lives searching for meaning in every sign. To her, destiny is written in the endless dance of the heavens. "Among all the stars above, I saw yours and mine bound to the same fate." |
+| Rouge et Noir | "Foretold Finale" Board tile, or the Divination Perks page after enough rolls | One of the many outfits in Blackbird's collection. It's a bolder look than usual, with vivid crimson set against vintage tailoring—flashy, elegant, and hard to miss. Turns out Blackbird is every bit as discerning about clothes as she is about antiques. |
+| Unfazed Denim | Bond Lvl 10 with Blackbird | Blackbird's favorite loungewear. When she has time to kill, she likes taking perfectly ordinary clothes and giving them a distinctly Blackbird makeover. This set, somehow, has yet to be dethroned. |
 
 ## Skill multipliers
 

@@ -18,6 +18,8 @@ It needs no token and changes no page. It reads the English pages only: the othe
 | Game data versions after the one the pages cite: HEAD requests for `static.nanoka.cc/nte/<version>/character.json`, three patch numbers and the next minor version's `.0` to `.2` | The version in the pages' `sources` URLs | The pages |
 | Dates in each page's `caveat` | `lastVerified` of the page and the present (UTC+8; a date without a time counts from the end of the day) | The pages |
 
+The game text that `pipeline/` writes (archives, outfit, Arc and material descriptions) follows the game data version: its records cite the same version, so a new version is reported as above. Its Traditional Chinese text comes from everness.info, which needs a browser, so the weekly run cannot read it; it is read again with the pipeline when the version moves.
+
 Prydwen and Game8 are not watched: their pages carry no version and change every week, and they follow the patch notes, which are watched. nanoka.cc and everness.info refuse AI training and AI crawlers; the check sends six HEAD requests to nanoka.cc and keeps nothing. A version that skips a number past the candidates is not found by the probe; the patch notes notice still is.
 
 ## The report
@@ -42,6 +44,7 @@ One line for each difference, then the notes, then a count. A line reads `kind: 
 1. Read the patch notes in English, then in Simplified Chinese (`/cn/`), Japanese (`/jp/`), Korean (`/kr/`) and the Taiwan post, as `AGENTS.md` says under Sources.
 2. Add the version page in every language, add the Board to `systems/boards.md` and to the three A-Class pages that share it, add the new characters' pages, and update the home page (current version, current Boards, tables), the caveats that name the previous version, and `LLMS_NOTES` in `src/lib/site.mjs`.
 3. Run `scripts/to-zh-cn.py` for the Simplified Chinese pages.
+4. Move `VERSION` in `pipeline/fetch_nanoka.py`, delete `pipeline/cache/everness/`, and run the game text commands in `AGENTS.md` (Commands); new characters, outfits and Arcs are picked up from the pages' rows.
 
 ## A new Board
 

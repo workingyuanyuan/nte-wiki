@@ -43,6 +43,8 @@ sources:
     url: https://static.nanoka.cc/nte/1.5.4/ja/character/1052.json
   - title: nanoka.cc game data 1.5.4, character file in Korean
     url: https://static.nanoka.cc/nte/1.5.4/ko/character/1052.json
+  - title: 'Everness, outfit pages in Traditional Chinese (example: 蘭花不菲, read 2026-11-23)'
+    url: https://everness.info/zh-Hant/cosmetics/Fashion_1052_1
 ---
 
 ![Hotori, official character art: a woman with long black hair and hair ornaments in a red, black and white kimono-style outfit](/art/characters/hotori.webp)
@@ -56,6 +58,7 @@ sources:
 | Arc type | Solid |
 | Joined | Version 1.0, second half, 2026-05-13 |
 | Voice actors | Chinese: 杜晴晴; English: Lindsay Sheppard; Japanese: 伊藤静; Korean: 이지현 |
+| Archive | [Hotori archive](/characters/hotori/archive/) |
 
 The official profile describes Hotori as the enigmatic owner of the Eibon antique shop: the least responsible adult around, according to Sakiri, and someone Nanally admires.
 
@@ -123,9 +126,9 @@ Each duplicate unlocks one Awakening of the player's choice; Resonances unlock a
 
 ## Outfits
 
-| Outfit | How to get |
-| --- | --- |
-| Priceless Orchid | "Misty Tipsy Style" Board tile, or the Hourglass Perks page after enough rolls |
+| Outfit | How to get | Description |
+| --- | --- | --- |
+| Priceless Orchid | "Misty Tipsy Style" Board tile, or the Hourglass Perks page after enough rolls | A high-end Ghost Orchid–themed custom outfit that produces striking results in studio shoots. But it would only have been within reach when Eibon first opened and funds were still plentiful. |
 
 ## Skill multipliers
 

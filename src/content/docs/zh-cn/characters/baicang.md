@@ -43,6 +43,8 @@ sources:
     url: https://static.nanoka.cc/nte/1.5.4/ja/character/1023.json
   - title: nanoka.cc 游戏资料 1.5.4，角色档案（韩文）
     url: https://static.nanoka.cc/nte/1.5.4/ko/character/1023.json
+  - title: Everness，时装页面（繁体中文，例：摸魚大師，2026-11-23 读取）
+    url: https://everness.info/zh-Hant/cosmetics/Fashion_1023_1
 ---
 
 ![白藏的官方角色图：留着银色长发的男子，身穿白色双排扣大衣与黑色手套](/art/characters/baicang.webp)
@@ -56,6 +58,7 @@ sources:
 | 弧盘类型 | 聚合 (Condensate) |
 | 加入版本 | 1.0 版 |
 | 配音员 | 中文：桑毓泽；英文：Griffin Burns；日文：中村悠一；韩文：심규혁 |
+| 个人档案 | [白藏个人档案](/zh-cn/characters/baicang/archive/) |
 
 官方介绍指出，白藏是异象管理局 E.T.D 四队队长：随性散漫、直言不讳，还是个工作摸鱼大师。
 
@@ -109,9 +112,9 @@ sources:
 
 ## 时装
 
-| 时装 | 取得方式 |
-| --- | --- |
-| 摸鱼大师 | 都市大亨「噗卡计划」达到指定等级（1.4 版） |
+| 时装 | 取得方式 | 说明 |
+| --- | --- | --- |
+| 摸鱼大师 | 都市大亨「噗卡计划」达到指定等级（1.4 版） | 大隐隐于市。柔软简洁，随处可见的服饰最适合混入各种生活区。嘘，低调点——咱们在带薪摸鱼呢。 |
 
 ## 技能倍率
 

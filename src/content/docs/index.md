@@ -80,32 +80,6 @@ sources:
 
 ## Characters
 
-Version 1.5 has 25 playable characters.
+Version 1.5 has [25 playable characters](/characters/).
 
-| Character | Class | Attribute |
-| --- | --- | --- |
-| [Elyms](/characters/elyms/) | S, limited | Cosmos |
-| [Akane Rin](/characters/akane-rin/) | S, limited | Lakshana |
-| [Blackbird](/characters/blackbird/) | S, limited | Psyche |
-| [Linko](/characters/linko/) | S, limited | Anima |
-| [Zankou](/characters/zankou/) | S, limited | Incantation |
-| [Iroi](/characters/iroi/) | S, limited | Anima |
-| [Shinku](/characters/shinku/) | S, limited | Cosmos |
-| [Chaos](/characters/chaos/) | S, limited | Lakshana |
-| [Lacrimosa](/characters/lacrimosa/) | S, limited | Chaos |
-| [Hotori](/characters/hotori/) | S, limited | Cosmos |
-| [Nanally](/characters/nanally/) | S, limited | Anima |
-| [Skia](/characters/skia/) | A | Lakshana |
-| [Aurelia](/characters/aurelia/) | A | Psyche |
-| [Haniel](/characters/haniel/) | A | Psyche |
-| [Adler](/characters/adler/) | A | Incantation |
-| [Edgar](/characters/edgar/) | A | Cosmos |
-| [Mint](/characters/mint/) | A | Anima |
-| [Jiuyuan](/characters/jiuyuan/) | S, standard | Anima |
-| [Daffodill](/characters/daffodill/) | S, standard | Chaos |
-| [Fadia](/characters/fadia/) | S, standard | Psyche |
-| [Hathor](/characters/hathor/) | S, standard | Lakshana |
-| [Baicang](/characters/baicang/) | S, standard | Incantation |
-| [Sakiri](/characters/sakiri/) | S, standard | Incantation |
-| [Chiz](/characters/chiz/) | S | Cosmos |
-| [Esper Zero](/characters/zero/) | S, player | Cosmos |
+[Elyms](/characters/elyms/), [Akane Rin](/characters/akane-rin/), [Blackbird](/characters/blackbird/), [Linko](/characters/linko/), [Zankou](/characters/zankou/), [Iroi](/characters/iroi/), [Shinku](/characters/shinku/), [Chaos](/characters/chaos/), [Lacrimosa](/characters/lacrimosa/), [Hotori](/characters/hotori/), [Nanally](/characters/nanally/), [Skia](/characters/skia/), [Aurelia](/characters/aurelia/), [Haniel](/characters/haniel/), [Adler](/characters/adler/), [Edgar](/characters/edgar/), [Mint](/characters/mint/), [Jiuyuan](/characters/jiuyuan/), [Daffodill](/characters/daffodill/), [Fadia](/characters/fadia/), [Hathor](/characters/hathor/), [Baicang](/characters/baicang/), [Sakiri](/characters/sakiri/), [Chiz](/characters/chiz/), [Esper Zero](/characters/zero/).

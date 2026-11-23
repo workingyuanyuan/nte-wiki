@@ -6,6 +6,8 @@
 # Steps: replace Taiwan wording with the wording of the official Simplified Chinese
 # notices (VOC), convert the characters (OpenCC tw2s), swap the title with its
 # Simplified alias, and point links at /zh-cn/. Source URLs are kept as they are.
+# Then run pipeline/build_pages.py, which puts the official Simplified game text into the
+# archive pages and the Outfits tables.
 # OpenCC's phrase mode (tw2sp) is not used: it rewrites game terms (支援技能, 角色資料).
 
 import glob
@@ -108,6 +110,9 @@ def page(src, rel):
 
 base = os.path.join(root, 'zh-tw')
 files = sorted(glob.glob(base + '/**/*.md', recursive=True))
+# Archive pages carry each language's own game text; pipeline/build_pages.py writes the
+# Simplified Chinese ones from the Simplified game data, so they are not converted here.
+files = [f for f in files if not re.search(r'/characters/[^/]+/archive\.md$', f)]
 for f in files:
     page(f, os.path.relpath(f, base))
 print(len(files), 'pages written to', os.path.join(root, 'zh-cn'))

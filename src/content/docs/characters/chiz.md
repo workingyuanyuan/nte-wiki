@@ -44,6 +44,7 @@ sources:
 | Arc type | Gas |
 | Joined | Version 1.0 |
 | Voice actors | Chinese: 则灵; English: Alice Himora; Japanese: 小原好美; Korean: 권다예 |
+| Archive | [Chiz archive](/characters/chiz/archive/) |
 
 The official profile introduces Chiz as the Lobby Manager of Pink Paws Bank (New Herland District HQ), employee ID 018888, who looks like an intern until she recites every clause of the fine print.
 
