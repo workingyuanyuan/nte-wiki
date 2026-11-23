@@ -1,41 +1,29 @@
 ---
 // Override of Starlight's SiteTitle: the site name, a mark that the site is not the
-// publisher's, and links to the machine-readable outputs of the current page. The
-// bracketed key hints before the links are drawn by CSS (`[data-key]::before`), so they
-// never reach the text an agent extracts from the page.
-import { LABELS, pageId, localeOf, mdPath, llmsPath, withBase } from '../lib/site.mjs';
+// publisher's, and a link to the first page of each top-level sidebar group (versions,
+// characters, systems and names), in the sidebar's order and labels. The Markdown twin,
+// llms.txt and index.json are linked from the page notes (MarkdownContent.astro).
+import { LABELS, localeOf } from '../lib/site.mjs';
 
-const { siteTitle, siteTitleHref, entry } = Astro.locals.starlightRoute;
-const locale = localeOf(entry.id);
-const t = LABELS[locale.lang];
-const links = [
-	...(entry.data.lastVerified ? [{ key: 'M', label: 'Markdown', href: withBase(mdPath(pageId(entry.id))) }] : []),
-	{ key: 'L', label: 'llms.txt', href: withBase(llmsPath(locale)) },
-	{ key: 'J', label: 'index.json', href: withBase('/index.json') },
-];
+const { siteTitle, siteTitleHref, entry, sidebar } = Astro.locals.starlightRoute;
+const t = LABELS[localeOf(entry.id).lang];
+const links = (entries) => entries.flatMap((e) => (e.type === 'link' ? [e] : links(e.entries)));
+const sections = sidebar
+	.filter((e) => e.type === 'group')
+	.map((group) => {
+		const inner = links(group.entries);
+		return { label: group.label, href: inner[0]?.href, current: inner.some((e) => e.isCurrent) };
+	})
+	.filter((s) => s.href);
 ---
 
 <a href={siteTitleHref} class="site-title" translate="no">
 	<span class="name">{siteTitle}</span>
 	<span class="unofficial">{t.unofficial}</span>
 </a>
-<nav class="outputs" aria-label={t.formats}>
-	{links.map((link) => <a href={link.href} data-key={link.key} aria-keyshortcuts={link.key.toLowerCase()}>{link.label}</a>)}
+<nav class="sections" aria-label={t.sections}>
+	{sections.map((s) => <a href={s.href} aria-current={s.current ? 'true' : undefined}>{s.label}</a>)}
 </nav>
-
-<script is:inline>
-	// Single-key shortcuts for the links above. Ignored while typing or with modifier keys.
-	document.addEventListener('keydown', (event) => {
-		if (event.defaultPrevented || event.ctrlKey || event.metaKey || event.altKey) return;
-		const target = event.target;
-		if (target instanceof HTMLElement) {
-			if (target.isContentEditable || /^(INPUT|TEXTAREA|SELECT)$/.test(target.tagName)) return;
-		}
-		if (document.querySelector('dialog[open]')) return;
-		const link = document.querySelector(`nav.outputs a[data-key="${event.key.toUpperCase()}"]`);
-		if (link instanceof HTMLAnchorElement) link.click();
-	});
-</script>
 
 <style>
 	.site-title {
@@ -65,7 +53,7 @@ const links = [
 		font-size: 12px;
 		line-height: 18px;
 	}
-	.outputs {
+	.sections {
 		display: none;
 		gap: 18px;
 		margin-inline-start: 24px;
@@ -74,26 +62,23 @@ const links = [
 		white-space: nowrap;
 	}
 	@media (min-width: 72rem) {
-		.outputs {
+		.sections {
 			display: flex;
 		}
 	}
-	.outputs a {
+	.sections a {
 		padding: 0 3px;
 		color: var(--sl-color-gray-3);
 		text-decoration: none;
 		text-transform: uppercase;
 	}
-	.outputs a::before {
-		content: '[' attr(data-key) '] ';
-		color: var(--nte-pink-text);
+	/* The section of the current page: full text colour and a cyan rule under it. */
+	.sections a[aria-current] {
+		color: var(--sl-color-white);
+		box-shadow: inset 0 -3px 0 var(--nte-cyan);
 	}
-	.outputs a:hover::before,
-	.outputs a:focus-visible::before {
-		color: var(--nte-ink);
-	}
-	.outputs a:hover,
-	.outputs a:focus-visible {
+	.sections a:hover,
+	.sections a:focus-visible {
 		background: var(--nte-cyan);
 		color: var(--nte-ink);
 	}

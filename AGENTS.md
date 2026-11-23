@@ -53,7 +53,7 @@ Run `pnpm upstream`. What it watches, what each line of its report means and how
 
 ## Skin rules
 
-- The header links to the Markdown twin, `llms.txt` and `index.json` are shown in capitals with a key hint (`[M]`, `[L]`, `[J]`), as on the reference site; the keys work as shortcuts. Capitals and hints come from CSS.
+- The header links the three sections, in the sidebar's order: versions, characters, systems and names (`SiteTitle.astro`, from the sidebar groups), each to its first page. The Markdown twin, `llms.txt` and `index.json` are linked from the page notes, not the header. `scripts/check-dist.mjs` fails otherwise (`checkHeaderAndOutputs`). Decided 2026-11-22: the header is for players; the format links and their key hints `[M]` `[L]` `[J]` moved out of it.
 - All marks, prefixes, key hints, counters and the cursor are drawn with CSS and never typed into page text. If you add text through CSS `content`, add a pattern for it to check 5 in `scripts/check-dist.mjs`.
 - Three Starlight components are overridden: `SiteTitle`, `MarkdownContent` and `ThemeSelect` (three buttons, so each theme is one click away; it keeps Starlight's storage key `starlight-theme`).
 - The hidden note, the answer and the page notes are direct children of the article container, with no wrapper. A wrapper made a readability-style extractor keep the notes and drop the body. The hidden note repeats scope and caveat at the top so that they fall within the first 5,000 extracted characters while the visible notes sit after the body.

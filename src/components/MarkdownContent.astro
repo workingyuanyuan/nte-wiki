@@ -88,6 +88,8 @@ const agentNote = hasFacts
 	}
 	<dt>{t.markdown}</dt>
 	<dd><a href={withBase(mdPath(id))}>{mdPath(id)}</a></dd>
+	<dt>{t.allPages}</dt>
+	<dd class="outputs"><a href={withBase(llmsPath(localeOf(id)))}>{llmsPath(localeOf(id))}</a>{zh ? '、' : ', '}<a href={withBase('/index.json')}>/index.json</a></dd>
 </dl>}
 </div>
 
