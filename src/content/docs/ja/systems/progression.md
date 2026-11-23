@@ -34,7 +34,7 @@ sources:
     url: https://nte.perfectworld.com/jp/article/news/gamenews/20261109/264951.html
   - title: Ver1.5アップデートのお知らせ、2026-11-09（異象巡礼「貴腐の巣母」、韓国語）
     url: https://nte.perfectworld.com/kr/article/news/gamenews/20261109/264952.html
-  - title: Everness、アイテムのページ（繁体字中国語、例：新銳獵人攻略、2026-11-23取得）
+  - title: Everness、アイテムのページ（繁体字中国語、例：新鋭ハンター攻略、2026-11-23取得）
     url: https://everness.info/zh-Hant/items/CharacterUpMaterial_lv1
 ---
 

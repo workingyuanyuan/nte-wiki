@@ -25,7 +25,7 @@ sources:
     url: https://everness.info/en/arcs
   - title: Prydwen、キャラ育成ガイド（弧盤タイプと強化）
     url: https://www.prydwen.gg/neverness-to-everness/guides/character-progression
-  - title: Everness、弧盤のページ（繁体字中国語、例：引爆全場、2026-11-23取得）
+  - title: Everness、弧盤のページ（繁体字中国語、例：熱狂の渦、2026-11-23取得）
     url: https://everness.info/zh-Hant/arcs/fork_BitGame
 ---
 

@@ -43,7 +43,7 @@ sources:
     url: https://static.nanoka.cc/nte/1.5.4/ja/character/1010.json
   - title: nanoka.cc ゲームデータ1.5.4、キャラクターファイル（韓国語）
     url: https://static.nanoka.cc/nte/1.5.4/ko/character/1010.json
-  - title: Everness、コスチュームのページ（繁体字中国語、例：華麗飛踢、2026-11-23取得）
+  - title: Everness、コスチュームのページ（繁体字中国語、例：華麗なるキック、2026-11-23取得）
     url: https://everness.info/zh-Hant/cosmetics/Fashion_1010_2
 ---
 

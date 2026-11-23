@@ -43,7 +43,7 @@ sources:
     url: https://static.nanoka.cc/nte/1.5.4/ja/character/1076.json
   - title: nanoka.cc 게임 데이터 1.5.4, 한국어 캐릭터 파일
     url: https://static.nanoka.cc/nte/1.5.4/ko/character/1076.json
-  - title: 'Everness, 코스튬 페이지(번체 중국어, 예: 獵龍者, 2026-11-23 확인)'
+  - title: 'Everness, 코스튬 페이지(번체 중국어, 예: 드래곤 헌터, 2026-11-23 확인)'
     url: https://everness.info/zh-Hant/cosmetics/Fashion_1076_2
 ---
 

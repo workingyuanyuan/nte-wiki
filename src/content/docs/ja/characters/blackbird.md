@@ -37,7 +37,7 @@ sources:
     url: https://static.nanoka.cc/nte/1.5.4/ja/character/1042.json
   - title: nanoka.cc ゲームデータ1.5.4、キャラクターファイル（韓国語）
     url: https://static.nanoka.cc/nte/1.5.4/ko/character/1042.json
-  - title: Everness、コスチュームのページ（繁体字中国語、例：牧星者、2026-11-23取得）
+  - title: Everness、コスチュームのページ（繁体字中国語、例：蒼羽ソワレ、2026-11-23取得）
     url: https://everness.info/zh-Hant/cosmetics/Fashion_1042_1
 ---
 

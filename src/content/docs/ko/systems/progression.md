@@ -34,7 +34,7 @@ sources:
     url: https://nte.perfectworld.com/jp/article/news/gamenews/20261109/264951.html
   - title: 1.5 버전 업데이트 공지, 2026-11-09(이상 순례 「우아한 부패자, 둥지 어미」, 한국어)
     url: https://nte.perfectworld.com/kr/article/news/gamenews/20261109/264952.html
-  - title: 'Everness, 아이템 페이지(번체 중국어, 예: 新銳獵人攻略, 2026-11-23 확인)'
+  - title: 'Everness, 아이템 페이지(번체 중국어, 예: 라이징 헌터 가이드, 2026-11-23 확인)'
     url: https://everness.info/zh-Hant/items/CharacterUpMaterial_lv1
 ---
 

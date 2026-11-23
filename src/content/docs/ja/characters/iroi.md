@@ -37,7 +37,7 @@ sources:
     url: https://static.nanoka.cc/nte/1.5.4/ja/character/1075.json
   - title: nanoka.cc ゲームデータ1.5.4、キャラクターファイル（韓国語）
     url: https://static.nanoka.cc/nte/1.5.4/ko/character/1075.json
-  - title: Everness、コスチュームのページ（繁体字中国語、例：織夢者、2026-11-23取得）
+  - title: Everness、コスチュームのページ（繁体字中国語、例：星詠みの羊、2026-11-23取得）
     url: https://everness.info/zh-Hant/cosmetics/Fashion_1075_rpg_level3
 ---
 

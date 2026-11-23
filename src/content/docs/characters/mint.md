@@ -55,7 +55,7 @@ sources:
     url: https://static.nanoka.cc/nte/1.5.4/ja/character/1019.json
   - title: nanoka.cc game data 1.5.4, character file in Korean
     url: https://static.nanoka.cc/nte/1.5.4/ko/character/1019.json
-  - title: 'Everness, outfit pages in Traditional Chinese (example: 海鹽金平糖, read 2026-11-23)'
+  - title: 'Everness, outfit pages in Traditional Chinese (example: Saltwater Taffy, read 2026-11-23)'
     url: https://everness.info/zh-Hant/cosmetics/Fashion_1019_swimsuit
 ---
 

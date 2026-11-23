@@ -25,7 +25,7 @@ sources:
     url: https://everness.info/en/arcs
   - title: Prydwen, 캐릭터 육성 가이드(아크 타입과 강화)
     url: https://www.prydwen.gg/neverness-to-everness/guides/character-progression
-  - title: 'Everness, 아크 페이지(번체 중국어, 예: 引爆全場, 2026-11-23 확인)'
+  - title: 'Everness, 아크 페이지(번체 중국어, 예: 폭발 현장, 2026-11-23 확인)'
     url: https://everness.info/zh-Hant/arcs/fork_BitGame
 ---
 

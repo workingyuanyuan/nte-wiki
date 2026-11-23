@@ -37,7 +37,7 @@ sources:
     url: https://static.nanoka.cc/nte/1.5.4/ja/character/1036.json
   - title: nanoka.cc game data 1.5.4, character file in Korean
     url: https://static.nanoka.cc/nte/1.5.4/ko/character/1036.json
-  - title: 'Everness, outfit pages in Traditional Chinese (example: 堇色流火, read 2026-11-23)'
+  - title: 'Everness, outfit pages in Traditional Chinese (example: Searing Lavender, read 2026-11-23)'
     url: https://everness.info/zh-Hant/cosmetics/Fashion_1036_swimsuit
 ---
 

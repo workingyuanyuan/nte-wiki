@@ -42,7 +42,7 @@ sources:
     url: https://static.nanoka.cc/nte/1.5.4/ja/character/1090.json
   - title: nanoka.cc game data 1.5.4, character file in Korean
     url: https://static.nanoka.cc/nte/1.5.4/ko/character/1090.json
-  - title: 'Everness, outfit pages in Traditional Chinese (example: 千年蟲之謎, read 2026-11-23)'
+  - title: 'Everness, outfit pages in Traditional Chinese (example: Y2K Mystique, read 2026-11-23)'
     url: https://everness.info/zh-Hant/cosmetics/Fashion_1090_1
   - title: Everness, Y2K Mystique page in English (read 2026-11-23)
     url: https://everness.info/en/cosmetics/Fashion_1090_1

@@ -42,7 +42,7 @@ sources:
     url: https://static.nanoka.cc/nte/1.5.4/ja/character/1090.json
   - title: nanoka.cc 게임 데이터 1.5.4, 한국어 캐릭터 파일
     url: https://static.nanoka.cc/nte/1.5.4/ko/character/1090.json
-  - title: 'Everness, 코스튬 페이지(번체 중국어, 예: 千年蟲之謎, 2026-11-23 확인)'
+  - title: 'Everness, 코스튬 페이지(번체 중국어, 예: Y2K 미스터리, 2026-11-23 확인)'
     url: https://everness.info/zh-Hant/cosmetics/Fashion_1090_1
   - title: Everness, 「Y2K Mystique」 페이지(영어, 2026-11-23 확인)
     url: https://everness.info/en/cosmetics/Fashion_1090_1

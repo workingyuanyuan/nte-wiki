@@ -47,7 +47,7 @@ sources:
     url: https://static.nanoka.cc/nte/1.5.4/ja/character/1071.json
   - title: nanoka.cc game data 1.5.4, character file in Korean
     url: https://static.nanoka.cc/nte/1.5.4/ko/character/1071.json
-  - title: 'Everness, outfit pages in Traditional Chinese (example: 放晴日, read 2026-11-23)'
+  - title: 'Everness, outfit pages in Traditional Chinese (example: Clear Skies, read 2026-11-23)'
     url: https://everness.info/zh-Hant/cosmetics/Fashion_1071_1
 ---
 

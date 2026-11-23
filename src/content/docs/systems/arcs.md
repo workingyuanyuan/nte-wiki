@@ -25,7 +25,7 @@ sources:
     url: https://everness.info/en/arcs
   - title: Prydwen, Character Progression guide (Arc types and upgrades)
     url: https://www.prydwen.gg/neverness-to-everness/guides/character-progression
-  - title: 'Everness, Arc pages in Traditional Chinese (example: 引爆全場, read 2026-11-23)'
+  - title: 'Everness, Arc pages in Traditional Chinese (example: Blow up the Crowd, read 2026-11-23)'
     url: https://everness.info/zh-Hant/arcs/fork_BitGame
 ---
 

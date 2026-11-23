@@ -34,7 +34,7 @@ sources:
     url: https://nte.perfectworld.com/jp/article/news/gamenews/20261109/264951.html
   - title: Version 1.5 patch notes, 2026-11-09 (Anomaly Pilgrimage "Amber Broodmother", Korean)
     url: https://nte.perfectworld.com/kr/article/news/gamenews/20261109/264952.html
-  - title: 'Everness, item pages in Traditional Chinese (example: 新銳獵人攻略, read 2026-11-23)'
+  - title: 'Everness, item pages in Traditional Chinese (example: Rising Hunter Guide, read 2026-11-23)'
     url: https://everness.info/zh-Hant/items/CharacterUpMaterial_lv1
 ---
 

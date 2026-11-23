@@ -253,11 +253,10 @@ def set_source(md, lang, kind, example, drop=None):
 
 
 def example(o, lang):
-    # The Traditional Chinese page named as the example source. The Simplified Chinese page
-    # names it by the game's Simplified name, not the Traditional one.
+    # The Traditional Chinese page named as the example source, named in the page's language
+    # by the game's own name for it.
     ex = dict(o['zh-tw'])
-    if lang == 'zh-cn':
-        ex['name'] = o['zh-cn']['name']
+    ex['name'] = o[lang]['name']
     return ex
 
 
