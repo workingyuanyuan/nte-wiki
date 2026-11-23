@@ -47,6 +47,8 @@ sources:
     url: https://static.nanoka.cc/nte/1.5.4/ja/character/1071.json
   - title: nanoka.cc game data 1.5.4, character file in Korean
     url: https://static.nanoka.cc/nte/1.5.4/ko/character/1071.json
+  - title: 'Everness, outfit pages in Traditional Chinese (example: 放晴日, read 2026-11-23)'
+    url: https://everness.info/zh-Hant/cosmetics/Fashion_1071_1
 ---
 
 ![Chaos, official character art: a man with short dark hair in a blue jacket over a black top](/art/characters/chaos.webp)
@@ -60,6 +62,7 @@ sources:
 | Arc type | Condensate |
 | Joined | Version 1.1, second half, 2026-06-24 |
 | Voice actors | Chinese: 淦子齐; English: Rick Kumazawa; Japanese: 小西克幸; Korean: 원종준 |
+| Archive | [Chaos archive](/characters/chaos/archive/) |
 
 The official profile introduces Chaos as the combat core of ETD-6, "the enforcer who never misses a mission".
 
@@ -128,11 +131,11 @@ Each duplicate unlocks one Awakening of the player's choice; Resonances unlock a
 
 ## Outfits
 
-| Outfit | How to get |
-| --- | --- |
-| Clear Skies | 200 rolls on the "Forsaken Path" Board, claimed from Fogshroud Perks, or an earlier random drop while rolling |
-| Never Skip | Bond Lvl 10 with Chaos |
-| Chartered Waves | Shop, Riftcrystal ×2,480, added in Version 1.3; permanent |
+| Outfit | How to get | Description |
+| --- | --- | --- |
+| Clear Skies | 200 rolls on the "Forsaken Path" Board, claimed from Fogshroud Perks, or an earlier random drop while rolling | A casual streetwear look that pairs simple pieces with bold accessories to express true individuality. |
+| Never Skip | Bond Lvl 10 with Chaos | Even on days off, training never stops! |
+| Chartered Waves | Shop, Riftcrystal ×2,480, added in Version 1.3; permanent | A dark figure races across the waves, carving out a route of his own. Where does it lead? Eh, he'll figure it out. |
 
 ## Skill multipliers
 

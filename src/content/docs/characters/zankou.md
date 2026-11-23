@@ -37,6 +37,8 @@ sources:
     url: https://static.nanoka.cc/nte/1.5.4/ja/character/1036.json
   - title: nanoka.cc game data 1.5.4, character file in Korean
     url: https://static.nanoka.cc/nte/1.5.4/ko/character/1036.json
+  - title: 'Everness, outfit pages in Traditional Chinese (example: 堇色流火, read 2026-11-23)'
+    url: https://everness.info/zh-Hant/cosmetics/Fashion_1036_swimsuit
 ---
 
 ![Zankou, official character art: a woman with long silver hair in a white and grey outfit with a red knot at the waist](/art/characters/zankou.webp)
@@ -50,6 +52,7 @@ sources:
 | Arc type | Gas |
 | Joined | Version 1.3, 2026-08-19 |
 | Voice actors | Chinese: 陈婷婷; English: Stephanie Wong; Japanese: 井上喜久子; Korean: 허예은 |
+| Archive | [Zankou archive](/characters/zankou/archive/) |
 
 The official profile describes Zankou as a dangerous Esper armed with a Cursed Blade: Inanna's adopted daughter and bodyguard, and the most feared assassin of The Scarlet Letter. Her Esper Ability, the Eye of Delusion, senses emotions and conjures illusions.
 
@@ -114,13 +117,13 @@ Each duplicate unlocks one Awakening of the player's choice; Resonances unlock a
 
 ## Outfits
 
-| Outfit | How to get |
-| --- | --- |
-| Searing Lavender | Shop from 2026-08-26, Riftcrystal ×3,280; permanent |
-| Twilight Noir | Shop, Riftcrystal ×2,480; permanent |
-| Autumn Vignette | "Alluring Shadows" Board tile, or the Alluring Perks page after enough rolls |
-| Moonlit Courtyard | Bond Lvl 10 with Zankou |
-| Red Nightshade | Unlocked on obtaining Zankou |
+| Outfit | How to get | Description |
+| --- | --- | --- |
+| Searing Lavender | Shop from 2026-08-26, Riftcrystal ×3,280; permanent | As fireworks bloom across the sky, the dazzling display can make reality feel like a dream. Is this moment real, or a beautiful illusion you never want to wake from? |
+| Twilight Noir | Shop, Riftcrystal ×2,480; permanent | Light shifts, and something stirs beneath the surface. When night overtakes reality, even the sweetest dreams may be quietly rewritten. |
+| Autumn Vignette | "Alluring Shadows" Board tile, or the Alluring Perks page after enough rolls | Zankou's custom casualwear, created after studying modern fashion. It helps her blend into the city crowd, though whether it actually looks fashionable is still up for debate. |
+| Moonlit Courtyard | Bond Lvl 10 with Zankou | Zankou's loungewear. A loose robe and wooden clogs, perfect for drifting into a long, uninterrupted dream. "The night's still young… I wonder what it has in store." |
+| Red Nightshade | Unlocked on obtaining Zankou | Zankou's attire from her days with The Scarlet Letter. When a job gets messy, she prefers something bold enough to turn every head. After all, getting noticed is part of the hunt. |
 
 ## Skill multipliers
 

@@ -43,6 +43,8 @@ sources:
     url: https://static.nanoka.cc/nte/1.5.4/ja/character/1023.json
   - title: nanoka.cc game data 1.5.4, character file in Korean
     url: https://static.nanoka.cc/nte/1.5.4/ko/character/1023.json
+  - title: 'Everness, outfit pages in Traditional Chinese (example: 摸魚大師, read 2026-11-23)'
+    url: https://everness.info/zh-Hant/cosmetics/Fashion_1023_1
 ---
 
 ![Baicang, official character art: a man with long silver hair in a white double-breasted coat and black gloves](/art/characters/baicang.webp)
@@ -56,6 +58,7 @@ sources:
 | Arc type | Condensate |
 | Joined | Version 1.0 |
 | Voice actors | Chinese: 桑毓泽; English: Griffin Burns; Japanese: 中村悠一; Korean: 심규혁 |
+| Archive | [Baicang archive](/characters/baicang/archive/) |
 
 The official profile introduces Baicang as the captain of ETD-4 at the Bureau of Anomaly Control: carefree, irreverent, blunt to a fault and a master of dodging work.
 
@@ -109,9 +112,9 @@ Each duplicate unlocks one Awakening of the player's choice; Resonances unlock a
 
 ## Outfits
 
-| Outfit | How to get |
-| --- | --- |
-| Master Slacker | City Tycoon "Puka Membership Program", at the required level (Version 1.4) |
+| Outfit | How to get | Description |
+| --- | --- | --- |
+| Master Slacker | City Tycoon "Puka Membership Program", at the required level (Version 1.4) | The best disguise is looking like you belong. Soft, simple, and easy to overlook—perfect for slipping into just about any neighborhood. Shh, keep your voice down. We're technically supposed to be working. |
 
 ## Skill multipliers
 

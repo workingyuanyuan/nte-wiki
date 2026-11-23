@@ -57,6 +57,7 @@ sources:
 | Arc type | Condensate |
 | Joined | Version 1.0 |
 | Voice actors | Chinese: 裴致莹; English: Amber Lee Connors; Japanese: 真堂圭; Korean: 조현정 |
+| Archive | [Fadia archive](/characters/fadia/archive/) |
 
 The official profile says that even by the enigmatic hiring standards of the ETD, Fadia is something else entirely; most of her colleagues at the Bureau cannot handle her.
 

@@ -45,6 +45,7 @@ sources:
 | 弧盤タイプ | 重合体 (Condensate) |
 | 実装 | バージョン1.0 |
 | 声優 | 中国語：王宇航、英語：Jacob Craner、日本語：森川智之、韓国語：심규혁 |
+| アーカイブ | [アドレーのアーカイブ](/ja/characters/adler/archive/) |
 
 ## 入手方法
 

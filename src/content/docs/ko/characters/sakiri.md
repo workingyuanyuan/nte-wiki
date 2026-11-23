@@ -43,6 +43,8 @@ sources:
     url: https://static.nanoka.cc/nte/1.5.4/ja/character/1003.json
   - title: nanoka.cc 게임 데이터 1.5.4, 한국어 캐릭터 파일
     url: https://static.nanoka.cc/nte/1.5.4/ko/character/1003.json
+  - title: 'Everness, 코스튬 페이지(번체 중국어, 예: 小熊曲奇, 2026-11-23 확인)'
+    url: https://everness.info/zh-Hant/cosmetics/Fashion_1003_2
 ---
 
 ![사키리의 공식 캐릭터 일러스트. 작은 뿔이 나고 검은 모자를 쓴 옅은 하늘색 머리의 소녀가 빨간 재킷과 플리츠스커트를 입고 있다](/art/characters/sakiri.webp)
@@ -56,6 +58,7 @@ sources:
 | 아크 타입 | 기체 (Gas) |
 | 참전 | 1.0 버전 |
 | 성우 | 중국어: 蔡书瑾; 영어: Brianna Knickerbocker; 일본어: 伊藤美来; 한국어: 김나율 |
+| 아카이브 | [사키리 아카이브](/ko/characters/sakiri/archive/) |
 
 공식 프로필은 사키리를 에이본 골동품 가게 냉장고에 붙은 포스트잇 규칙을 만든 사람으로 소개한다. 사키리는 이상 전투 망치 「키로마루」를 휘두른다.
 
@@ -109,9 +112,9 @@ sources:
 
 ## 코스튬
 
-| 코스튬 | 획득 방법 |
-| --- | --- |
-| 곰돌이 쿠키 | 도시 타이쿤 「푸카 멤버십 플랜」에서 일정 레벨 달성 (1.4 버전) |
+| 코스튬 | 획득 방법 | 설명 |
+| --- | --- | --- |
+| 곰돌이 쿠키 | 도시 타이쿤 「푸카 멤버십 플랜」에서 일정 레벨 달성 (1.4 버전) | 사키리는 항상 「너무 애 같다」고 투덜대지만 달콤하고 폭신한 곰돌이 쿠키를 싫어할 사람이 있을까? |
 
 ## 스킬 배율
 

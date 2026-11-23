@@ -23,6 +23,21 @@
 	src: url('/fonts/pixel-ko.woff2') format('woff2');
 	font-display: swap;
 }
+/* The pixel font draws curly quotes and the ellipsis at full width, as Chinese and Japanese
+   set them. English and Korean pages leave out those characters (U+2018–201D, U+2026) and
+   take them from the next font, so "won’t" and "now…" keep their Latin width. */
+@font-face {
+	font-family: 'Fusion Pixel 12 Latin';
+	src: url('/fonts/pixel.woff2') format('woff2');
+	font-display: swap;
+	unicode-range: U+0000-2017, U+201E-2025, U+2027-10FFFF;
+}
+@font-face {
+	font-family: 'Fusion Pixel 12 KO Latin';
+	src: url('/fonts/pixel-ko.woff2') format('woff2');
+	font-display: swap;
+	unicode-range: U+0000-2017, U+201E-2025, U+2027-10FFFF;
+}
 
 :root,
 ::backdrop {
@@ -57,6 +72,10 @@
 	--sl-text-h2: 24px;
 }
 
+:root[lang='en'] {
+	--nte-pixel: 'Fusion Pixel 12 Latin', ui-monospace, 'Cascadia Mono', Consolas, monospace;
+}
+
 /* Simplified Chinese pages take Simplified fonts, so punctuation sits where mainland readers expect it. */
 :root[lang='zh-CN'] {
 	--sl-font: 'Inter', 'Segoe UI', 'Noto Sans SC', 'PingFang SC', 'Microsoft YaHei', 'Yu Gothic UI', 'Malgun Gothic', system-ui, sans-serif;
@@ -69,7 +88,7 @@
 }
 :root[lang='ko'] {
 	--sl-font: 'Inter', 'Segoe UI', 'Noto Sans KR', 'Apple SD Gothic Neo', 'Yu Gothic UI', 'Malgun Gothic', 'Meiryo', system-ui, sans-serif;
-	--nte-pixel: 'Fusion Pixel 12 KO', ui-monospace, 'Cascadia Mono', Consolas, 'Noto Sans KR', 'Malgun Gothic', monospace;
+	--nte-pixel: 'Fusion Pixel 12 KO Latin', ui-monospace, 'Cascadia Mono', Consolas, 'Noto Sans KR', 'Malgun Gothic', monospace;
 	word-break: keep-all;
 }
 

@@ -45,6 +45,7 @@ sources:
 | 弧盘类型 | 液态 (Liquid) |
 | 加入版本 | 1.0 版 |
 | 配音员 | 中文：四白；英文：Casey Mongillo；日文：三瓶由布子；韩文：장채연 |
+| 个人档案 | [埃德嘉个人档案](/zh-cn/characters/edgar/archive/) |
 
 ## 取得方式
 

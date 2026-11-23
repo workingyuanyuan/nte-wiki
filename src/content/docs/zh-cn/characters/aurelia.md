@@ -44,6 +44,7 @@ sources:
 | 弧盘类型 | 等离子 (Plasma) |
 | 加入版本 | 1.0 版 |
 | 配音员 | 中文：葛子瑞；英文：Kira Buckland；日文：高桥花林；韩文：정해은 |
+| 个人档案 | [海月个人档案](/zh-cn/characters/aurelia/archive/) |
 
 Game8 将她的两个技能拼为「Capella」与「Canon Chorus」，Prydwen 则拼为「Cappella」与「Canzon Chorus」。她的羁遇等级上限已于 2026-10-21 开放至 10 级。
 

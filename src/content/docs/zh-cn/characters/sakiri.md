@@ -43,6 +43,8 @@ sources:
     url: https://static.nanoka.cc/nte/1.5.4/ja/character/1003.json
   - title: nanoka.cc 游戏资料 1.5.4，角色档案（韩文）
     url: https://static.nanoka.cc/nte/1.5.4/ko/character/1003.json
+  - title: Everness，时装页面（繁体中文，例：小熊曲奇，2026-11-23 读取）
+    url: https://everness.info/zh-Hant/cosmetics/Fashion_1003_2
 ---
 
 ![早雾的官方角色图：淡蓝色头发、头上有小角并戴着黑色帽子的少女，身穿红色外套与百褶裙](/art/characters/sakiri.webp)
@@ -56,6 +58,7 @@ sources:
 | 弧盘类型 | 气态 (Gas) |
 | 加入版本 | 1.0 版 |
 | 配音员 | 中文：蔡书瑾；英文：Brianna Knickerbocker；日文：伊藤美来；韩文：김나율 |
+| 个人档案 | [早雾个人档案](/zh-cn/characters/sakiri/archive/) |
 
 官方介绍指出，早雾是伊波恩古董店冰箱便利贴规则的制定者，使用的武器是异象巨锤「鬼郎丸」。
 
@@ -109,9 +112,9 @@ sources:
 
 ## 时装
 
-| 时装 | 取得方式 |
-| --- | --- |
-| 小熊曲奇 | 都市大亨「噗卡计划」达到指定等级（1.4 版） |
+| 时装 | 取得方式 | 说明 |
+| --- | --- | --- |
+| 小熊曲奇 | 都市大亨「噗卡计划」达到指定等级（1.4 版） | 虽说早雾总嚷着「太小孩子气」，但谁会不喜欢香甜松软的小熊曲奇呢？ |
 
 ## 技能倍率
 

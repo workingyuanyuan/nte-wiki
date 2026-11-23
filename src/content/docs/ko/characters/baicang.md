@@ -43,6 +43,8 @@ sources:
     url: https://static.nanoka.cc/nte/1.5.4/ja/character/1023.json
   - title: nanoka.cc 게임 데이터 1.5.4, 한국어 캐릭터 파일
     url: https://static.nanoka.cc/nte/1.5.4/ko/character/1023.json
+  - title: 'Everness, 코스튬 페이지(번체 중국어, 예: 摸魚大師, 2026-11-23 확인)'
+    url: https://everness.info/zh-Hant/cosmetics/Fashion_1023_1
 ---
 
 ![백장의 공식 캐릭터 일러스트. 긴 은발의 남성이 흰 더블 코트를 입고 검은 장갑을 끼고 있다](/art/characters/baicang.webp)
@@ -56,6 +58,7 @@ sources:
 | 아크 타입 | 결합 (Condensate) |
 | 참전 | 1.0 버전 |
 | 성우 | 중국어: 桑毓泽; 영어: Griffin Burns; 일본어: 中村悠一; 한국어: 심규혁 |
+| 아카이브 | [백장 아카이브](/ko/characters/baicang/archive/) |
 
 공식 프로필은 백장을 이상 관리국 E.T.D 4팀의 대장으로 소개한다. 태평하고 격식이 없으며, 지나칠 만큼 직설적이고 일을 피하는 데 능하다.
 
@@ -109,9 +112,9 @@ sources:
 
 ## 코스튬
 
-| 코스튬 | 획득 방법 |
-| --- | --- |
-| 월급 루팡 | 도시 타이쿤 「푸카 멤버십 플랜」에서 일정 레벨 달성 (1.4 버전) |
+| 코스튬 | 획득 방법 | 설명 |
+| --- | --- | --- |
+| 월급 루팡 | 도시 타이쿤 「푸카 멤버십 플랜」에서 일정 레벨 달성 (1.4 버전) | 진정한 고수는 세상 속에 숨어 사는 법. 부드럽고 심플해 흔히 볼 수 있는 옷이야말로 어디에든 자연스럽게 섞여 들기 제격이다. 쉿, 조용… 우리 지금 월급 루팡 중이거든. |
 
 ## 스킬 배율
 

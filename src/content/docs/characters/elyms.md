@@ -42,6 +42,10 @@ sources:
     url: https://static.nanoka.cc/nte/1.5.4/ja/character/1090.json
   - title: nanoka.cc game data 1.5.4, character file in Korean
     url: https://static.nanoka.cc/nte/1.5.4/ko/character/1090.json
+  - title: 'Everness, outfit pages in Traditional Chinese (example: 千年蟲之謎, read 2026-11-23)'
+    url: https://everness.info/zh-Hant/cosmetics/Fashion_1090_1
+  - title: Everness, Y2K Mystique page in English (read 2026-11-23)
+    url: https://everness.info/en/cosmetics/Fashion_1090_1
 ---
 
 ![Elyms, official character art: a girl with long silver hair in a white coat and black gloves, the city behind her](/art/characters/elyms.webp)
@@ -57,6 +61,7 @@ sources:
 | Post | Lieutenant of ETD Squad 6 at the Bureau of Anomaly Control (BAC) |
 | Joined | Version 1.5, 2026-11-11 |
 | Voice actors | Chinese: 陈章; English: Crystal Lee; Japanese: 雨宮天; Korean: 손선영 |
+| Archive | [Elyms archive](/characters/elyms/archive/) |
 
 The official profile says there is hardly anyone at the Bureau who does not know her. Staff describe her as understanding, easygoing, cheerful, mischievous and polite to a fault, and agree on one phrase: "my friend."
 
@@ -121,11 +126,11 @@ Each duplicate unlocks one Awakening of the player's choice; Resonances unlock a
 
 ## Outfits
 
-| Outfit | How to get |
-| --- | --- |
-| Y2K Mystique | Shop, Riftcrystal ×3,280; ×2,680 until 2026-12-23 05:59 (UTC+8); permanent |
-| Drifting Petals | "Android Dreams" Board tile, or the Dialing Perks page after enough rolls |
-| Windflower | Bond Lvl 10 with Elyms |
+| Outfit | How to get | Description |
+| --- | --- | --- |
+| Y2K Mystique | Shop, Riftcrystal ×3,280; ×2,680 until 2026-12-23 05:59 (UTC+8); permanent | \*Changes the interface appearance when this outfit is equipped and its wearer is in your current lineup. A throwback to a once-popular retro-futurist fashion trend. Holographic finishes! Fluorescent colors! Pixels! Retro tech! "How wonderful! People once 'imagined' a dazzling, high-tech future with such hope and excitement—" |
+| Drifting Petals | "Android Dreams" Board tile, or the Dialing Perks page after enough rolls | A school uniform straight out of Neverland, where fairies live—a little touch of storybook magic. "Winter's over, and spring is here! Why not head out and enjoy it with your best friend?" |
+| Windflower | Bond Lvl 10 with Elyms | A fresh, comfortable casual outfit for dropping by a friend's place. Add the glasses, and there's something almost dreamlike about the look—as though they're about to give a lecture… or tell another story about how people connect. |
 
 ## Story and modes
 

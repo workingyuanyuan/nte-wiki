@@ -58,6 +58,7 @@ sources:
 | Arc type | Liquid |
 | Joined | Version 1.0 |
 | Voice actors | Chinese: 陈彦亦; English: Natalie Van Sistine; Japanese: 大原さやか; Korean: 이명호 |
+| Archive | [Daffodill archive](/characters/daffodill/archive/) |
 
 The official profile describes Daffodill of the Eibon antique shop as someone who never quite knows how to start a conversation and would rather observe anomalies than people; her blade serves only those she deems worthy.
 

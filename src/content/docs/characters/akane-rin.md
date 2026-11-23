@@ -43,6 +43,8 @@ sources:
     url: https://static.nanoka.cc/nte/1.5.4/ja/character/1057.json
   - title: nanoka.cc game data 1.5.4, character file in Korean
     url: https://static.nanoka.cc/nte/1.5.4/ko/character/1057.json
+  - title: 'Everness, outfit pages in Traditional Chinese (example: 茜色絲絨, read 2026-11-23)'
+    url: https://everness.info/zh-Hant/cosmetics/Fashion_1057_1
 ---
 
 ![Akane Rin, official character art: a girl with long blonde hair in a side ponytail, in a white short-sleeved shirt and a blue tie](/art/characters/akane-rin.webp)
@@ -56,6 +58,7 @@ sources:
 | Arc type | Liquid |
 | Joined | Version 1.4, second half, 2026-10-21 |
 | Voice actors | Chinese: 陈怡萱; English: Cristina Vee; Japanese: 長谷川育美; Korean: 김하루 |
+| Archive | [Akane Rin archive](/characters/akane-rin/archive/) |
 
 The official profile describes Akane as golden-haired and made for the spotlight, yet usually found in a quiet corner with her headphones on, lost in her own music. The notes also call her Akane.
 
@@ -120,13 +123,13 @@ Each duplicate unlocks one Awakening of the player's choice; Resonances unlock a
 
 ## Outfits
 
-| Outfit | How to get |
-| --- | --- |
-| Cozy Velvet | Shop, Riftcrystal ×2,480; permanent |
-| Full Metal Rock | Shop from 2026-10-28, Riftcrystal ×3,280; permanent |
-| Shining Idol | "Dazzling Star" Board tile, or the Void Perks page after enough rolls |
-| Off the Clock | Bond Lvl 10 with Akane Rin |
-| House Special | Pukaland Fest Special Gift Pack, sent by mail after the update of 2026-10-21 to players who created a character before Version 1.4 ended |
+| Outfit | How to get | Description |
+| --- | --- | --- |
+| Cozy Velvet | Shop, Riftcrystal ×2,480; permanent | An outfit saved for special occasions. "I only wear it a few times a year. Surely I can let the whole energy-saving thing slide, right?" |
+| Full Metal Rock | Shop from 2026-10-28, Riftcrystal ×3,280; permanent | Every girl has a wild side she doesn't advertise. So maybe those old rumors about her running a protection racket at school weren't entirely made up. "Those were concert tickets! I was putting on a show!" |
+| Shining Idol | "Dazzling Star" Board tile, or the Void Perks page after enough rolls | Give it everything you've got, own the stage, and be the star everyone remembers. |
+| Off the Clock | Bond Lvl 10 with Akane Rin | "If it's not worth doing, don't bother. If it is, do the bare minimum." |
+| House Special | Pukaland Fest Special Gift Pack, sent by mail after the update of 2026-10-21 to players who created a character before Version 1.4 ended | "Ask away—but order a drink first." |
 
 ## Skill multipliers
 

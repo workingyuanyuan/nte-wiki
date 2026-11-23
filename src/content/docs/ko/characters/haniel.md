@@ -47,6 +47,8 @@ sources:
     url: https://static.nanoka.cc/nte/1.5.4/ja/character/1020.json
   - title: nanoka.cc 게임 데이터 1.5.4, 한국어 캐릭터 파일
     url: https://static.nanoka.cc/nte/1.5.4/ko/character/1020.json
+  - title: 'Everness, 코스튬 페이지(번체 중국어, 예: 青春注腳, 2026-11-23 확인)'
+    url: https://everness.info/zh-Hant/cosmetics/Fashion_1020_1
 ---
 
 ## 프로필
@@ -58,6 +60,7 @@ sources:
 | 아크 타입 | 고체 (Solid) |
 | 참전 | 1.0 버전 |
 | 성우 | 중국어: 苏子芜; 영어: Alexis Tipton; 일본어: 石見舞菜香; 한국어: 김가령 |
+| 아카이브 | [하니엘 아카이브](/ko/characters/haniel/archive/) |
 
 Game8은 하니엘의 일반 공격을 "Genesse Technique"로, Prydwen은 "Paranormal Entrance"로 부른다.
 
@@ -118,9 +121,9 @@ Game8은 하니엘의 일반 공격을 "Genesse Technique"로, Prydwen은 "Paran
 
 ## 코스튬
 
-| 코스튬 | 획득 방법 |
-| --- | --- |
-| 청춘의 각주 | 도시 타이쿤 「푸카 멤버십 플랜」에서 일정 레벨 달성 (1.4 버전) |
+| 코스튬 | 획득 방법 | 설명 |
+| --- | --- | --- |
+| 청춘의 각주 | 도시 타이쿤 「푸카 멤버십 플랜」에서 일정 레벨 달성 (1.4 버전) | 공부와 취미, 두 마리 토끼 다 잡을 수 있어! 「이쪽은 에이전트 젠Z의 '오리온'이야! 세 자매 중 막내지만 아주 믿음직하지! 특히 178화에서는…」 |
 
 ## 스킬 배율
 

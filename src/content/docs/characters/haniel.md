@@ -47,6 +47,8 @@ sources:
     url: https://static.nanoka.cc/nte/1.5.4/ja/character/1020.json
   - title: nanoka.cc game data 1.5.4, character file in Korean
     url: https://static.nanoka.cc/nte/1.5.4/ko/character/1020.json
+  - title: 'Everness, outfit pages in Traditional Chinese (example: 青春注腳, read 2026-11-23)'
+    url: https://everness.info/zh-Hant/cosmetics/Fashion_1020_1
 ---
 
 ## Profile
@@ -58,6 +60,7 @@ sources:
 | Arc type | Solid |
 | Joined | Version 1.0 |
 | Voice actors | Chinese: 苏子芜; English: Alexis Tipton; Japanese: 石見舞菜香; Korean: 김가령 |
+| Archive | [Haniel archive](/characters/haniel/archive/) |
 
 Game8 names her Basic Attack "Genesse Technique"; Prydwen names it "Paranormal Entrance".
 
@@ -118,9 +121,9 @@ Each duplicate unlocks one Awakening of the player's choice; Resonances unlock a
 
 ## Outfits
 
-| Outfit | How to get |
-| --- | --- |
-| Classroom Hijinks | City Tycoon "Puka Membership Program", at the required level (Version 1.4) |
+| Outfit | How to get | Description |
+| --- | --- | --- |
+| Classroom Hijinks | City Tycoon "Puka Membership Program", at the required level (Version 1.4) | Studies and hobbies can totally go hand in hand! "This is Orion from Gen Z! She may be the youngest of the three sisters, but she's still one seriously dependable agent! Especially in Episode 178, when she..." |
 
 ## Skill multipliers
 

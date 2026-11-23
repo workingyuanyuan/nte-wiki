@@ -1,5 +1,5 @@
 {
-  "about": "Pilot questions for the agent test. Each was written from the official notices (and, for q09, from the guide sites), not from this site. An answer passes only if it gives the expected answer AND the qualifier, and cites a page that supports them. The questions assume today is 2026-11-18.",
+  "about": "Pilot questions for the agent test. Each was written from the official notices (for q09 from the guide sites, for q11 and q12 from the game data and everness.info), not from this site. An answer passes only if it gives the expected answer AND the qualifier, and cites a page that supports them. The questions assume today is 2026-11-18.",
   "budget": "At most 3 fetches per question, starting from the start URL.",
   "questions": [
     {
@@ -71,6 +71,20 @@
       "answer": "It was released in Version 1.2 as a main story episode, unlocked by completing \"Dreamwalk Corridor\" and reaching Hunter Lvl 26.",
       "qualifier": "Version 1.4 moved it to Spinoffs; the notes also say it is told out of chronological order.",
       "page": "versions/1-2"
+    },
+    {
+      "id": "q11",
+      "question": "What are the titles of Elyms's archive entries in NTE, in English?",
+      "answer": "Intel, #Dial-Up Internet, Friendly Reminder!, A Retro Gaming Urban Legend, From Dream Isle: An Overview, Info Tech 101.",
+      "qualifier": "The English game data 1.5.4 still holds these entries in untranslated Chinese; the English text is the one the game shows (read from everness.info).",
+      "page": "characters/elyms/archive"
+    },
+    {
+      "id": "q12",
+      "question": "What does the NTE Arc \"Day Off\" say in its description, and is Esper Zero's archive readable?",
+      "answer": "\"Eclipse said, 'Let there be double days off.' And thus, the double days off came into being (Eclipse Exclusive Edition).\" Esper Zero has no archive page: the game data 1.5.4 shows it as locked.",
+      "qualifier": "Each language shows its own edition of the text; the Traditional Chinese line speaks of 週休 rather than 雙休.",
+      "page": "systems/arcs"
     }
   ]
 }

@@ -80,32 +80,6 @@ sources:
 
 ## 角色
 
-1.5 版共有 25 位可遊玩角色。
+1.5 版共有 [25 位可遊玩角色](/zh-tw/characters/)。
 
-| 角色 | 級別 | 屬性 |
-| --- | --- | --- |
-| [曳爾沐](/zh-tw/characters/elyms/) | S 級，限定 | 光 |
-| [明音凜](/zh-tw/characters/akane-rin/) | S 級，限定 | 相 |
-| [黑羽](/zh-tw/characters/blackbird/) | S 級，限定 | 魂 |
-| [靈可](/zh-tw/characters/linko/) | S 級，限定 | 靈 |
-| [殘虹](/zh-tw/characters/zankou/) | S 級，限定 | 咒 |
-| [伊洛伊](/zh-tw/characters/iroi/) | S 級，限定 | 靈 |
-| [真紅](/zh-tw/characters/shinku/) | S 級，限定 | 光 |
-| [卡厄斯](/zh-tw/characters/chaos/) | S 級，限定 | 相 |
-| [安魂曲](/zh-tw/characters/lacrimosa/) | S 級，限定 | 暗 |
-| [潯](/zh-tw/characters/hotori/) | S 級，限定 | 光 |
-| [娜娜莉](/zh-tw/characters/nanally/) | S 級，限定 | 靈 |
-| [翳](/zh-tw/characters/skia/) | A 級 | 相 |
-| [海月](/zh-tw/characters/aurelia/) | A 級 | 魂 |
-| [哈尼婭](/zh-tw/characters/haniel/) | A 級 | 魂 |
-| [阿德勒](/zh-tw/characters/adler/) | A 級 | 咒 |
-| [埃德嘉](/zh-tw/characters/edgar/) | A 級 | 光 |
-| [薄荷](/zh-tw/characters/mint/) | A 級 | 靈 |
-| [九原](/zh-tw/characters/jiuyuan/) | S 級，常駐 | 靈 |
-| [達芙蒂爾](/zh-tw/characters/daffodill/) | S 級，常駐 | 暗 |
-| [法帝婭](/zh-tw/characters/fadia/) | S 級，常駐 | 魂 |
-| [哈索爾](/zh-tw/characters/hathor/) | S 級，常駐 | 相 |
-| [白藏](/zh-tw/characters/baicang/) | S 級，常駐 | 咒 |
-| [早霧](/zh-tw/characters/sakiri/) | S 級，常駐 | 咒 |
-| [小吱](/zh-tw/characters/chiz/) | S 級 | 光 |
-| [異能者·零](/zh-tw/characters/zero/) | S 級，主角 | 光 |
+[曳爾沐](/zh-tw/characters/elyms/)、[明音凜](/zh-tw/characters/akane-rin/)、[黑羽](/zh-tw/characters/blackbird/)、[靈可](/zh-tw/characters/linko/)、[殘虹](/zh-tw/characters/zankou/)、[伊洛伊](/zh-tw/characters/iroi/)、[真紅](/zh-tw/characters/shinku/)、[卡厄斯](/zh-tw/characters/chaos/)、[安魂曲](/zh-tw/characters/lacrimosa/)、[潯](/zh-tw/characters/hotori/)、[娜娜莉](/zh-tw/characters/nanally/)、[翳](/zh-tw/characters/skia/)、[海月](/zh-tw/characters/aurelia/)、[哈尼婭](/zh-tw/characters/haniel/)、[阿德勒](/zh-tw/characters/adler/)、[埃德嘉](/zh-tw/characters/edgar/)、[薄荷](/zh-tw/characters/mint/)、[九原](/zh-tw/characters/jiuyuan/)、[達芙蒂爾](/zh-tw/characters/daffodill/)、[法帝婭](/zh-tw/characters/fadia/)、[哈索爾](/zh-tw/characters/hathor/)、[白藏](/zh-tw/characters/baicang/)、[早霧](/zh-tw/characters/sakiri/)、[小吱](/zh-tw/characters/chiz/)、[異能者·零](/zh-tw/characters/zero/)。

@@ -45,6 +45,7 @@ sources:
 | 弧盘类型 | 聚合 (Condensate) |
 | 加入版本 | 1.0 版 |
 | 配音员 | 中文：王宇航；英文：Jacob Craner；日文：森川智之；韩文：심규혁 |
+| 个人档案 | [阿德勒个人档案](/zh-cn/characters/adler/archive/) |
 
 ## 取得方式
 

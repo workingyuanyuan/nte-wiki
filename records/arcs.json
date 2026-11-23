@@ -1,0 +1,1259 @@
+{
+ "version": "1.5.4",
+ "sources": {
+  "en": "https://static.nanoka.cc/nte/1.5.4/en/weapon/",
+  "zh-cn": "https://static.nanoka.cc/nte/1.5.4/zh/weapon/",
+  "ja": "https://static.nanoka.cc/nte/1.5.4/ja/weapon/",
+  "ko": "https://static.nanoka.cc/nte/1.5.4/ko/weapon/"
+ },
+ "arcs": {
+  "fork_BitGame": {
+   "en": {
+    "name": "Blow up the Crowd",
+    "text": "Shh… it's coming, it's coming! IT'S COMING!!!"
+   },
+   "zh-cn": {
+    "name": "引爆全场",
+    "text": "嘘……要来了，要来了！要！来！！了！！！"
+   },
+   "ja": {
+    "name": "熱狂の渦",
+    "text": "しっ！来るよ、来るよ！来！る！！よ！！！"
+   },
+   "ko": {
+    "name": "폭발 현장",
+    "text": "쉿… 온다, 온다! 온!! 다!!!"
+   },
+   "zh-tw": {
+    "name": "引爆全場",
+    "text": "噓……要來了，要來了！要！來！！了！！！",
+    "url": "https://everness.info/zh-Hant/arcs/fork_BitGame",
+    "read": "2026-11-23"
+   }
+  },
+  "fork_rishi": {
+   "en": {
+    "name": "Day Off",
+    "text": "Eclipse said, \"Let there be double days off.\"\nAnd thus, the double days off came into being (Eclipse Exclusive Edition)."
+   },
+   "zh-cn": {
+    "name": "休息日",
+    "text": "日蚀说，要有双休。\n于是就有了双休（日蚀专属版）。"
+   },
+   "ja": {
+    "name": "休息日",
+    "text": "日蝕は週休二日がいいと言った。\nだから、休みは週二日だけになった（日蝕のみ）"
+   },
+   "ko": {
+    "name": "휴일",
+    "text": "일식이 말하길, 주 5일제가 있으라.\n이로써 세상에 주 5일제가 생겼다(일식 특별판)."
+   },
+   "zh-tw": {
+    "name": "休假日",
+    "text": "日蝕說，要有週休。 於是就有了週休（日蝕專屬版）。",
+    "url": "https://everness.info/zh-Hant/arcs/fork_rishi",
+    "read": "2026-11-23"
+   }
+  },
+  "fork_elyms": {
+   "en": {
+    "name": "Echoes on Hold",
+    "text": "Pretend to press the keys, pretend to leave a message, pretend to wait… What comes back?"
+   },
+   "zh-cn": {
+    "name": "静候彩铃",
+    "text": "假装按键、假装留言、假装等待，听听传回了什么？"
+   },
+   "ja": {
+    "name": "あなたを待ってる",
+    "text": "ボタンを押すフリをし、メッセージを残すフリをし、待つフリをする。返ってきた声に耳を澄ませてみて？"
+   },
+   "ko": {
+    "name": "연결음이 흐르는 동안",
+    "text": "버튼을 누르는 척, 메시지를 남기는 척, 기다리는 척… 무슨 답변이 왔는지 들어볼까?"
+   },
+   "zh-tw": {
+    "name": "靜候彩鈴",
+    "text": "假裝按鍵、假裝留言、假裝等待，聽聽傳回了什麼？",
+    "url": "https://everness.info/zh-Hant/arcs/fork_elyms",
+    "read": "2026-11-23"
+   }
+  },
+  "fork_BlastCandy": {
+   "en": {
+    "name": "Fluff of Fearlessness",
+    "text": "Hunter Guild Commemorative Arc: Cool fluffs don't look at explosions."
+   },
+   "zh-cn": {
+    "name": "无畏之绵",
+    "text": "猎人公会纪念版弧盘——真绵糖从不回头看爆炸。"
+   },
+   "ja": {
+    "name": "不敵な綿",
+    "text": "ハンター協会記念版弧盤――真の綿飴は爆発を振り返らない。"
+   },
+   "ko": {
+    "name": "용맹의 솜뭉치",
+    "text": "헌터 길드 기념판 아크-진정한 솜사탕은 폭발을 등지고 걷는다."
+   },
+   "zh-tw": {
+    "name": "無畏之綿",
+    "text": "獵人公會紀念版弧盤——真綿糖從不回頭看爆炸。",
+    "url": "https://everness.info/zh-Hant/arcs/fork_BlastCandy",
+    "read": "2026-11-23"
+   }
+  },
+  "fork_PoliceRat": {
+   "en": {
+    "name": "Hethereau's Keeper",
+    "text": "Once again, another day has passed peacefully. Hats off to Officer Whisker!"
+   },
+   "zh-cn": {
+    "name": "海特洛的安宁",
+    "text": "再一次的，一天平安度过了。感谢巡哨鼠鼠的努力！"
+   },
+   "ja": {
+    "name": "ヘテロシティの平穏",
+    "text": "今日も一日、平穏無事。見回りラットのおかげだね！"
+   },
+   "ko": {
+    "name": "헤테로의 안녕",
+    "text": "덕분에 오늘 하루도 무사히 보냈어요. 고마워요, 순찰쥐 경장님!"
+   },
+   "zh-tw": {
+    "name": "海特洛的安寧",
+    "text": "再一次的，一天平安度過了。感謝巡哨鼠鼠的努力！",
+    "url": "https://everness.info/zh-Hant/arcs/fork_PoliceRat",
+    "read": "2026-11-23"
+   }
+  },
+  "fork_Time": {
+   "en": {
+    "name": "Marching Beyond Time",
+    "text": "We press on, lest we rust away to nothing."
+   },
+   "zh-cn": {
+    "name": "行进于时间之外",
+    "text": "前进，是为了不落得锈蚀殆尽。"
+   },
+   "ja": {
+    "name": "時間外を行く",
+    "text": "前進するのは、錆びついて朽ち果てないためだ。"
+   },
+   "ko": {
+    "name": "시간 밖으로의 행진",
+    "text": "앞으로 나아가는 것은 녹슬지 않기 위한 것."
+   },
+   "zh-tw": {
+    "name": "行進於時間之外",
+    "text": "前進，是為了不落得銹蝕殆盡。",
+    "url": "https://everness.info/zh-Hant/arcs/fork_Time",
+    "read": "2026-11-23"
+   }
+  },
+  "fork_Butterfly": {
+   "en": {
+    "name": "Reality Refuge",
+    "text": "She told me that I was only ever a butterfly."
+   },
+   "zh-cn": {
+    "name": "现实避难所",
+    "text": "她告诉我，其实我只是一只蝴蝶。"
+   },
+   "ja": {
+    "name": "現実の避難所",
+    "text": "彼女は言った、実は私はただの蝶なのだと。"
+   },
+   "ko": {
+    "name": "현실 도피처",
+    "text": "그녀는 내가 한 마리의 나비일 뿐이라고 했다."
+   },
+   "zh-tw": {
+    "name": "現實避難所",
+    "text": "她告訴我，其實我只是一隻蝴蝶。",
+    "url": "https://everness.info/zh-Hant/arcs/fork_Butterfly",
+    "read": "2026-11-23"
+   }
+  },
+  "fork_worldrain": {
+   "en": {
+    "name": "The Rain That Shook the World",
+    "text": "It emerged from a downpour that turned the world upside down."
+   },
+   "zh-cn": {
+    "name": "「倾世之雨」",
+    "text": "在一场让世界颠倒的雨中出现。"
+   },
+   "ja": {
+    "name": "「傾世の雨」",
+    "text": "世界を反転させる雨の中に現れる。"
+   },
+   "ko": {
+    "name": "「세상을 뒤흔든 비」",
+    "text": "세상을 뒤흔든 빗속에서 나타난다."
+   },
+   "zh-tw": {
+    "name": "「傾世之雨」",
+    "text": "在一場讓世界顛倒的雨中出現。",
+    "url": "https://everness.info/zh-Hant/arcs/fork_worldrain",
+    "read": "2026-11-23"
+   }
+  },
+  "fork_Nakupeda": {
+   "en": {
+    "name": "Your Happiness is Priceless",
+    "text": "Mm, mm-hmm, mm-hmm-hmm-hmm-hmm-hmm-hmm! (Give me Fons— You'll be happy, and I'll be happy too!)"
+   },
+   "zh-cn": {
+    "name": "千金难买你开心",
+    "text": "嗯，嗯嗯嗯，嗯嗯嗯嗯嗯嗯嗯嗯！（方斯给我，你开心，我也开心！）"
+   },
+   "ja": {
+    "name": "コインより笑顔",
+    "text": "ん、んんん、んんんんんんん！（ファンスをちょうだい。キミが嬉しいなら、ボクも嬉しい！）"
+   },
+   "ko": {
+    "name": "백만불짜리 미소",
+    "text": "웅, 우우웅, 우우우웅우우우웅! (폰즈를 줘, 네가 기쁘면 나도 기뻐!)"
+   },
+   "zh-tw": {
+    "name": "千金難買你開心",
+    "text": "嗯，嗯嗯嗯，嗯嗯嗯嗯嗯嗯嗯嗯！（方斯給我，你開心，我也開心！）",
+    "url": "https://everness.info/zh-Hant/arcs/fork_Nakupeda",
+    "read": "2026-11-23"
+   }
+  },
+  "fork_prism": {
+   "en": {
+    "name": "Far Side of the Moon",
+    "text": "Though we stand at opposite ends of the world, every step draws us closer."
+   },
+   "zh-cn": {
+    "name": "月的对跖点",
+    "text": "站在对跖点上的你我，每走出一步都是在靠近彼此。"
+   },
+   "ja": {
+    "name": "月のB面",
+    "text": "対蹠点に立つあなたと私、一歩踏み出すたびに互いに近づいていく。"
+   },
+   "ko": {
+    "name": "달의 대척점",
+    "text": "대척점에 선 너와 나, 한 걸음 내디딜 때마다 서로에게 다가가는 거야."
+   },
+   "zh-tw": {
+    "name": "月的對蹠點",
+    "text": "站在對蹠點上的你我，每走出一步都是在靠近彼此。",
+    "url": "https://everness.info/zh-Hant/arcs/fork_prism",
+    "read": "2026-11-23"
+   }
+  },
+  "fork_MotorCandy": {
+   "en": {
+    "name": "Fluff of Fleetness",
+    "text": "Hunter Guild Commemorative Arc: MAD FLUFF!"
+   },
+   "zh-cn": {
+    "name": "极速之绵",
+    "text": "猎人公会纪念版弧盘——焰魂狂「毛！」"
+   },
+   "ja": {
+    "name": "神速の綿",
+    "text": "ハンター協会記念版弧盤――炎魂狂「モフ！」"
+   },
+   "ko": {
+    "name": "광속의 솜뭉치",
+    "text": "헌터 길드 기념판 아크-염혼의 「몽실!」"
+   },
+   "zh-tw": {
+    "name": "極速之綿",
+    "text": "獵人公會紀念版弧盤——焰魂狂「毛！」",
+    "url": "https://everness.info/zh-Hant/arcs/fork_MotorCandy",
+    "read": "2026-11-23"
+   }
+  },
+  "fork_Rose": {
+   "en": {
+    "name": "The Last Rose",
+    "text": "On the water's surface, the last rose blooms alone. She waits… for a dear friend, or perhaps for a boundless dream."
+   },
+   "zh-cn": {
+    "name": "「最后一朵玫瑰」",
+    "text": "水面上，最后一朵玫瑰独自绽放，她在等待——等待亲爱的朋友或一片无边的梦到来。"
+   },
+   "ja": {
+    "name": "「ラスト・ローズ」",
+    "text": "水面に、孤独に咲く最後の薔薇。彼女は待っている――親愛なる友か、あるいは終わりのない夢が訪れるのを。"
+   },
+   "ko": {
+    "name": "「마지막 장미」",
+    "text": "수면 위에 홀로 핀 마지막 장미 한 송이가 소중한 친구, 혹은 영원처럼 끝없는 꿈이 찾아오기를 기다리고 있다."
+   },
+   "zh-tw": {
+    "name": "「最後一朵玫瑰」",
+    "text": "水面上，最後一朵玫瑰獨自綻放，她在等待——等待親愛的朋友或一片無邊的夢到來。",
+    "url": "https://everness.info/zh-Hant/arcs/fork_Rose",
+    "read": "2026-11-23"
+   }
+  },
+  "fork_Door": {
+   "en": {
+    "name": "The Wrong Gate",
+    "text": "Do not open that door. Do not leave this place. Wouldn't you rather stay somewhere warm?"
+   },
+   "zh-cn": {
+    "name": "错误的门",
+    "text": "不要打开那扇门。不要离开这里。你不想留在这个更温暖的地方吗？"
+   },
+   "ja": {
+    "name": "偽りの門",
+    "text": "その門を開けてはならない。ここを去ってはならない。この温かな場所に留まりたいのならば。"
+   },
+   "ko": {
+    "name": "금기의 문",
+    "text": "그 문을 열지 마. 여기를 떠나지 마. 더 따뜻한 이곳에 남고 싶지 않아?"
+   },
+   "zh-tw": {
+    "name": "錯誤的門",
+    "text": "不要打開那扇門。不要離開這裡。你不想留在這個更溫暖的地方嗎？",
+    "url": "https://everness.info/zh-Hant/arcs/fork_Door",
+    "read": "2026-11-23"
+   }
+  },
+  "fork_BlackBook": {
+   "en": {
+    "name": "Youthful Fantasy",
+    "text": "\"Secret\"… The moment it was recorded, it was already known by everyone."
+   },
+   "zh-cn": {
+    "name": "漆黑青春妄想",
+    "text": "「秘密」——当它被记录下来的那一刻起，就已经被所有人看见了。"
+   },
+   "ja": {
+    "name": "漆黒の青春妄想",
+    "text": "「秘密」とは、記録された瞬間に、その価値を失う。すでに公に晒されているのだから。"
+   },
+   "ko": {
+    "name": "암흑 청춘의 망상",
+    "text": "「비밀」, 기록되는 순간 모두의 앞에 드러난다."
+   },
+   "zh-tw": {
+    "name": "漆黑青春妄想",
+    "text": "「秘密」——當它被記錄下來的那一刻起，就已經被所有人看見了。",
+    "url": "https://everness.info/zh-Hant/arcs/fork_BlackBook",
+    "read": "2026-11-23"
+   }
+  },
+  "fork_LunarPhase": {
+   "en": {
+    "name": "Blushing Mirage",
+    "text": "Moonlight whispers a promise of unfurled wings, stirring rare passion and inspiration. But not every whisper should be trusted."
+   },
+   "zh-cn": {
+    "name": "穿过胭红蜃景",
+    "text": "那道月光低语着展翼而起的许诺，予人以非凡激情和灵感——然而倾听未必总是明智。"
+   },
+   "ja": {
+    "name": "紅き蜃気楼",
+    "text": "その月光は飛翔の誓いを囁き、狂おしいほどの情熱とインスピレーションを授ける。だが…その甘い誘いに耳を貸すことが、果たして賢明と言えるのだろうか。"
+   },
+   "ko": {
+    "name": "홍염의 신기루",
+    "text": "그 달빛은 날개를 펼치고 비상하리라는 약속을 속삭이며 비범한 열정과 영감을 불어넣는다… 하지만, 경청이 언제나 현명한 것은 아니다."
+   },
+   "zh-tw": {
+    "name": "穿過胭紅蜃景",
+    "text": "那道月光低語著展翼而起的承諾，予人以非凡激情和靈感——然而傾聽未必總是明智。",
+    "url": "https://everness.info/zh-Hant/arcs/fork_LunarPhase",
+    "read": "2026-11-23"
+   }
+  },
+  "fork_jingmotingyuan": {
+   "en": {
+    "name": "Camellia Society",
+    "text": "Though I'm not supposed to let my composure slip onto the petals… that flower really cut deep."
+   },
+   "zh-cn": {
+    "name": "茶花会",
+    "text": "虽然不被允许把失态暴露在花瓣上……那句花可真是深深刺伤我了。"
+   },
+   "ja": {
+    "name": "椿会",
+    "text": "花びらに失態を晒すことは許されないが…あの花は本当に私を深く傷つけたんだ。"
+   },
+   "ko": {
+    "name": "동백꽃 모임",
+    "text": "꽃잎 앞에서는 항상 품위를 지켜야 하지만… 그 꽃은 나에게 정말 깊은 상처를 줬어."
+   },
+   "zh-tw": {
+    "name": "茶花會",
+    "text": "雖然不被允許把失態暴露在花瓣上……那句花可真是深深刺傷我了。",
+    "url": "https://everness.info/zh-Hant/arcs/fork_jingmotingyuan",
+    "read": "2026-11-23"
+   }
+  },
+  "fork_Arachne": {
+   "en": {
+    "name": "Eternal Waltz",
+    "text": "Dance to the beat, feel the dizzying sensation as if the world is ending, until forever!"
+   },
+   "zh-cn": {
+    "name": "永恒圆舞曲",
+    "text": "与我一同跳起3/4拍的舞步，感受仿佛世界末日般的晕眩感，直至永远！"
+   },
+   "ja": {
+    "name": "永遠のワルツ",
+    "text": "一緒に3/4拍子のステップを踏んで、世界の終わりみたいにクラクラしよう。永遠に！"
+   },
+   "ko": {
+    "name": "영원한 왈츠",
+    "text": "나와 함께 3/4 박자에 맞춰, 세계 종말이 찾아오는 그날까지 신나게 춤추는 거야!"
+   },
+   "zh-tw": {
+    "name": "永恆圓舞曲",
+    "text": "與我一同跳起3/4拍的舞步，感受彷彿世界末日般的暈眩感，直至永遠！",
+    "url": "https://everness.info/zh-Hant/arcs/fork_Arachne",
+    "read": "2026-11-23"
+   }
+  },
+  "fork_KnightCandy": {
+   "en": {
+    "name": "Fluff of Ferocity",
+    "text": "Hunter Guild Commemorative Arc: Discard all that is useless…"
+   },
+   "zh-cn": {
+    "name": "凶猛之绵",
+    "text": "猎人公会纪念版弧盘——将无用之物全部舍弃……"
+   },
+   "ja": {
+    "name": "凶暴な綿",
+    "text": "ハンター協会記念版弧盤――無用なものは全て捨て去れ…"
+   },
+   "ko": {
+    "name": "광폭의 솜뭉치",
+    "text": "헌터 길드 기념판 아크-불필요한 건 전부 버리자…"
+   },
+   "zh-tw": {
+    "name": "兇猛之綿",
+    "text": "獵人公會紀念版弧盤——將無用之物全部捨棄……",
+    "url": "https://everness.info/zh-Hant/arcs/fork_KnightCandy",
+    "read": "2026-11-23"
+   }
+  },
+  "fork_GoldWool": {
+   "en": {
+    "name": "What's Desired",
+    "text": "And so the epic begins, and everyone sets out on the journey. As for where the road ends, does it really matter?"
+   },
+   "zh-cn": {
+    "name": "众人追寻之物",
+    "text": "于是史诗翻开第一页，众人踏上旅途。至于终点在何方——这并不重要吧。"
+   },
+   "ja": {
+    "name": "オムニ・デザイア",
+    "text": "かくしての叙事詩の最初のページがめくられ、人々は旅に出る。終着点がどこにあるか――そんなことは重要ではないだろう。"
+   },
+   "ko": {
+    "name": "만인의 갈망",
+    "text": "그리하여 대서사시의 첫 페이지가 펼쳐지고, 일행은 여정을 시작한다. 종착점이 어디인지는… 그리 중요하지 않으리라."
+   },
+   "zh-tw": {
+    "name": "眾人追尋之物",
+    "text": "於是史詩翻開第一頁，眾人踏上旅途。至於終點在何方——這並不重要吧。",
+    "url": "https://everness.info/zh-Hant/arcs/fork_GoldWool",
+    "read": "2026-11-23"
+   }
+  },
+  "fork_mamen": {
+   "en": {
+    "name": "Contemplative Cat",
+    "text": "The meaning of life… the reason for existence… the answer to the universe is… 4… balls of yarn!"
+   },
+   "zh-cn": {
+    "name": "思考喵",
+    "text": "生命的意义……存在的理由……宇宙的答案是——4……毛线团！"
+   },
+   "ja": {
+    "name": "思考ニャン",
+    "text": "命の意味…存在の理由…宇宙の答えは…4…毛糸の玉！"
+   },
+   "ko": {
+    "name": "생각하는 고양이",
+    "text": "삶의 의미… 존재의 이유… 우주의 진리는, 4… 털뭉치!"
+   },
+   "zh-tw": {
+    "name": "思考喵",
+    "text": "生命的意義……存在的理由……宇宙的答案是——4……毛線團！",
+    "url": "https://everness.info/zh-Hant/arcs/fork_mamen",
+    "read": "2026-11-23"
+   }
+  },
+  "fork_twinbirds": {
+   "en": {
+    "name": "Crime and Punishment",
+    "text": "Why spare me, only to draw me into your embrace?"
+   },
+   "zh-cn": {
+    "name": "罪与罚",
+    "text": "你为何不杀死我，却要来拥抱我？"
+   },
+   "ja": {
+    "name": "罪と罰",
+    "text": "なぜ私を殺さず、抱きしめに来るのですか？"
+   },
+   "ko": {
+    "name": "죄와 벌",
+    "text": "어째서 날 죽이지 않고 안아주는 거야?"
+   },
+   "zh-tw": {
+    "name": "罪與罰",
+    "text": "你為何不殺死我，卻要來擁抱我？",
+    "url": "https://everness.info/zh-Hant/arcs/fork_twinbirds",
+    "read": "2026-11-23"
+   }
+  },
+  "fork_ThiefCandy": {
+   "en": {
+    "name": "Fluff of Finesse",
+    "text": "Hunter Guild Commemorative Arc: Not every encounter is a pleasant one…"
+   },
+   "zh-cn": {
+    "name": "灵敏之绵",
+    "text": "猎人公会纪念版弧盘——邂逅并不总是美好的……"
+   },
+   "ja": {
+    "name": "鋭敏な綿",
+    "text": "ハンター協会記念版弧盤――出会いはいつも美しいとは限らない…"
+   },
+   "ko": {
+    "name": "기민의 솜뭉치",
+    "text": "헌터 길드 기념판 아크-만남이 언제나 아름답진 않은 법…"
+   },
+   "zh-tw": {
+    "name": "靈敏之綿",
+    "text": "獵人公會紀念版弧盤——邂逅並不總是美好的……",
+    "url": "https://everness.info/zh-Hant/arcs/fork_ThiefCandy",
+    "read": "2026-11-23"
+   }
+  },
+  "fork_mofeikesi": {
+   "en": {
+    "name": "Good Boy's Grand Adventure",
+    "text": "What do you see? A winged white wolf? An adorable white dog? Or perhaps…?"
+   },
+   "zh-cn": {
+    "name": "好狗狗走四方",
+    "text": "你看到的是什么？长着翅膀的白狼？可爱的白色大狗？亦或是……？"
+   },
+   "ja": {
+    "name": "お散歩ワンワン",
+    "text": "何が見える？翼の生えた白い狼？かわいくて白い大型犬？それとも…？"
+   },
+   "ko": {
+    "name": "착한 강아지의 여행",
+    "text": "뭐가 보여? 날개 달린 하얀 늑대? 귀엽고 하얀 대형견? 아니면…?"
+   },
+   "zh-tw": {
+    "name": "好狗狗走四方",
+    "text": "你看到的是什麼？長著翅膀的白狼？可愛的白色大狗？亦或是……？",
+    "url": "https://everness.info/zh-Hant/arcs/fork_mofeikesi",
+    "read": "2026-11-23"
+   }
+  },
+  "fork_DemonBlade": {
+   "en": {
+    "name": "Ravenous Blade",
+    "text": "Where fear takes hold, death is never far behind."
+   },
+   "zh-cn": {
+    "name": "噬心诡刃",
+    "text": "恐惧与死亡总是相伴而行。"
+   },
+   "ja": {
+    "name": "喰心刃",
+    "text": "恐怖と死は常に隣り合わせだ。"
+   },
+   "ko": {
+    "name": "심장을 좀먹는 칼",
+    "text": "공포는 죽음의 영원한 동반자다."
+   },
+   "zh-tw": {
+    "name": "噬心詭刃",
+    "text": "恐懼與死亡總是相伴而行。",
+    "url": "https://everness.info/zh-Hant/arcs/fork_DemonBlade",
+    "read": "2026-11-23"
+   }
+  },
+  "fork_NestBird": {
+   "en": {
+    "name": "Tears Beneath the Mask",
+    "text": "Who stole my child? Was it you? Was it him? Or was it…"
+   },
+   "zh-cn": {
+    "name": "面具下的泪",
+    "text": "谁偷走了我的孩子？是你，是他，还是……"
+   },
+   "ja": {
+    "name": "仮面の下の涙",
+    "text": "誰が私の子どもを盗んだの？あなた、彼、それとも…"
+   },
+   "ko": {
+    "name": "가면 뒤의 눈물",
+    "text": "내 아이를 훔쳐 간 게 누구야? 너야? 쟤야? 아니면…"
+   },
+   "zh-tw": {
+    "name": "面具下的淚",
+    "text": "誰偷走了我的孩子？是你，是他，還是……",
+    "url": "https://everness.info/zh-Hant/arcs/fork_NestBird",
+    "read": "2026-11-23"
+   }
+  },
+  "fork_BoxingCandy": {
+   "en": {
+    "name": "Fluff of Fortitude",
+    "text": "Hunter Guild Commemorative Arc: So fluffy!"
+   },
+   "zh-cn": {
+    "name": "不屈之绵",
+    "text": "猎人公会纪念版弧盘——毛啦毛啦！"
+   },
+   "ja": {
+    "name": "不屈の綿",
+    "text": "ハンター協会記念版弧盤――モフモフだ！"
+   },
+   "ko": {
+    "name": "불굴의 솜뭉치",
+    "text": "헌터 길드 기념판 아크-뭉실뭉실!"
+   },
+   "zh-tw": {
+    "name": "不屈之綿",
+    "text": "獵人公會紀念版弧盤——毛啦毛啦！",
+    "url": "https://everness.info/zh-Hant/arcs/fork_BoxingCandy",
+    "read": "2026-11-23"
+   }
+  },
+  "fork_wushoutieyu": {
+   "en": {
+    "name": "Raging Flames",
+    "text": "The desire for speed flows through my veins, the roar of engines thunders in my chest! Come on, let's go! Step onto this racetrack where we pledge our souls!"
+   },
+   "zh-cn": {
+    "name": "焰魂狂飙",
+    "text": "流淌于吾之体内的是对速度的渴望、轰鸣于吾之胸腔的是引擎的咆哮！来吧，来吧！踏上这以速度之魂相赌的赛道！"
+   },
+   "ja": {
+    "name": "炎魂ハリケーン",
+    "text": "身体を流れるのは速さへの欲求、胸に響くのはエンジンの咆哮！さあ！サーキットに踏み出そう！速さの魂を賭けて！"
+   },
+   "ko": {
+    "name": "염혼의 질주",
+    "text": "몸 속에 흐르는 건 속도를 향한 갈망, 가슴에 울려 퍼지는 건 엔진의 포효! 자, 자! 속도의 영혼을 걸고 달리는 트랙으로 나가자!"
+   },
+   "zh-tw": {
+    "name": "焰魂狂飆",
+    "text": "流淌於吾之體內的是對速度的渴望、轟鳴於吾之胸腔的是引擎的咆哮！來吧，來吧！踏上這以速度之魂相賭的賽道！",
+    "url": "https://everness.info/zh-Hant/arcs/fork_wushoutieyu",
+    "read": "2026-11-23"
+   }
+  },
+  "fork_TigerTally": {
+   "en": {
+    "name": "Ready-Ready",
+    "text": "Hold me close, embrace the courage and resolve that transcends the fallen—I salute you, great Tiger warriors."
+   },
+   "zh-cn": {
+    "name": "预备备",
+    "text": "握住我，抱着超越死亡的勇气与决心——向您致敬，伟大的猛虎将士。"
+   },
+   "ja": {
+    "name": "プリペア",
+    "text": "離さないで。死を超える勇気と覚悟をその胸に――偉大なる猛虎戦士に敬礼！"
+   },
+   "ko": {
+    "name": "준비, 준비",
+    "text": "나를 잡으라, 죽음을 넘어서는 용기와 결의를 품고… 위대한 호랑이 전사에게 경례!"
+   },
+   "zh-tw": {
+    "name": "預備備",
+    "text": "握住我，抱著超越死亡的勇氣與決心——向您致敬，偉大的猛虎將士。",
+    "url": "https://everness.info/zh-Hant/arcs/fork_TigerTally",
+    "read": "2026-11-23"
+   }
+  },
+  "fork_Whale": {
+   "en": {
+    "name": "Song of the Whale",
+    "text": "The surging tide is its final farewell."
+   },
+   "zh-cn": {
+    "name": "鲸之歌",
+    "text": "翻涌的浪潮是它的诀别诗。"
+   },
+   "ja": {
+    "name": "鯨の歌",
+    "text": "逆巻く波は別れの詩。"
+   },
+   "ko": {
+    "name": "고래의 노래",
+    "text": "솟구치는 파도는 녀석의 이별시이다."
+   },
+   "zh-tw": {
+    "name": "鯨之歌",
+    "text": "翻湧的浪潮是它的訣別詩。",
+    "url": "https://everness.info/zh-Hant/arcs/fork_Whale",
+    "read": "2026-11-23"
+   }
+  },
+  "fork_moon": {
+   "en": {
+    "name": "Stellar Veil",
+    "text": "At sunrise, the lost stars are merely homeward bound."
+   },
+   "zh-cn": {
+    "name": "「银河暂留」",
+    "text": "太阳升起后，消失的群星只是回到了它们启程的地方。"
+   },
+   "ja": {
+    "name": "「銀河の残像」",
+    "text": "夜明けと共に消えた星々は、ただ旅立ちの場所へ戻っただけだ。"
+   },
+   "ko": {
+    "name": "「은하의 찰나」",
+    "text": "태양이 떠오른 뒤 사라진 별들은 단지 그들이 여정을 시작한 곳으로 돌아갔을 뿐이다."
+   },
+   "zh-tw": {
+    "name": "「銀河暫留」",
+    "text": "太陽升起後，消失的群星只是回到了它們啟程的地方。",
+    "url": "https://everness.info/zh-Hant/arcs/fork_moon",
+    "read": "2026-11-23"
+   }
+  },
+  "fork_GoldRecord": {
+   "en": {
+    "name": "Voice of the Voyager",
+    "text": "The languages engraved upon it remain indecipherable. Yet their message is clear enough: somewhere in the cosmos, we are not alone."
+   },
+   "zh-cn": {
+    "name": "远行者之声",
+    "text": "无法解析其中刻录的任何一种语言，但可以确认的是，宇宙中的我们并不孤单。"
+   },
+   "ja": {
+    "name": "アストロ・コーラー",
+    "text": "そこに刻まれたいかなる言語も解析することはできないが、それは、我々が宇宙で孤独ではないという証明でもある。"
+   },
+   "ko": {
+    "name": "원행자의 목소리",
+    "text": "기록된 언어는 단 하나도 해독할 수 없지만, 이것만은 분명하다. 우리는 이 우주에 혼자가 아니다."
+   },
+   "zh-tw": {
+    "name": "遠行者之聲",
+    "text": "無法解析其中燒錄的任何一種語言，但可以確認的是，宇宙中的我們並不孤單。",
+    "url": "https://everness.info/zh-Hant/arcs/fork_GoldRecord",
+    "read": "2026-11-23"
+   }
+  },
+  "fork_wuhuakuang": {
+   "en": {
+    "name": "The Forgotten",
+    "text": "Even if I'm just a complement to those masterpieces… I'm still beautiful too, right?"
+   },
+   "zh-cn": {
+    "name": "被遗忘者",
+    "text": "即使是那些传世作品的陪衬，但……我也是很漂亮的，对吗？"
+   },
+   "ja": {
+    "name": "忘れられし者",
+    "text": "たとえ名作の引き立て役に過ぎないとしても…私って美しいでしょう？"
+   },
+   "ko": {
+    "name": "잊힌 자",
+    "text": "명화의 들러리에 불과하지만… 나도 꽤 예쁘잖아. 안 그래?"
+   },
+   "zh-tw": {
+    "name": "被遺忘者",
+    "text": "即使是那些傳世作品的陪襯，但……我也是很漂亮的，對嗎？",
+    "url": "https://everness.info/zh-Hant/arcs/fork_wuhuakuang",
+    "read": "2026-11-23"
+   }
+  },
+  "fork_Crowbar": {
+   "en": {
+    "name": "Time Bandit",
+    "text": "Time is like water next to a sponge. Look away for only a second, and it vanishes."
+   },
+   "zh-cn": {
+    "name": "时间大盗",
+    "text": "时间就像海绵旁的水——一不留神就没了。"
+   },
+   "ja": {
+    "name": "時間泥棒",
+    "text": "時間はスポンジのそばの水のようなものだ――油断するとすぐになくなる。"
+   },
+   "ko": {
+    "name": "시간 도둑",
+    "text": "시간은 스펀지 바로 옆의 물과도 같아, 잠깐 한 눈판 사이 전부 사라지고 만다."
+   },
+   "zh-tw": {
+    "name": "時間大盜",
+    "text": "時間就像海綿旁的水——一不留神就沒了。",
+    "url": "https://everness.info/zh-Hant/arcs/fork_Crowbar",
+    "read": "2026-11-23"
+   }
+  },
+  "fork_Castle": {
+   "en": {
+    "name": "Call of the Twisted City",
+    "text": "When the world begins to warp, crying out in ways no one can understand, who among us can hold on to their sanity?"
+   },
+   "zh-cn": {
+    "name": "扭曲之城的呼唤",
+    "text": "当世界开始扭曲，发出无人能解的呐喊，又有谁能维持理智？"
+   },
+   "ja": {
+    "name": "歪んだ城の呼び声",
+    "text": "世界が歪み始め、誰も理解できない叫び声を上げた時、誰が理性を保てるだろうか？"
+   },
+   "ko": {
+    "name": "뒤틀린 도시의 부름",
+    "text": "세상이 뒤틀리면서 아무도 알아듣지 못하는 절규를 토해낼 때, 과연 누가 이성을 온전히 유지할 수 있을까?"
+   },
+   "zh-tw": {
+    "name": "扭曲之城的呼喚",
+    "text": "當世界開始扭曲，發出無人能解的呐喊，又有誰能維持理智？",
+    "url": "https://everness.info/zh-Hant/arcs/fork_Castle",
+    "read": "2026-11-23"
+   }
+  },
+  "fork_PaperPlane": {
+   "en": {
+    "name": "Clear Skies",
+    "text": "Formation complete, securing air superiority."
+   },
+   "zh-cn": {
+    "name": "开始净空",
+    "text": "战斗队形已确认，准备夺取制空权。"
+   },
+   "ja": {
+    "name": "空域確保開始",
+    "text": "バトルフォーメーション確認、これより、当空域の制空権を奪取する！"
+   },
+   "ko": {
+    "name": "정화 개시",
+    "text": "전투 대형 확인, 제공권 탈취 준비!"
+   },
+   "zh-tw": {
+    "name": "開始淨空",
+    "text": "戰鬥隊形已確認，準備奪取制空權。",
+    "url": "https://everness.info/zh-Hant/arcs/fork_PaperPlane",
+    "read": "2026-11-23"
+   }
+  },
+  "fork_lingganzhongjiezhe": {
+   "en": {
+    "name": "Mind Royale",
+    "text": "Inspiration is like potato chips—crunching and crackling, leaving scattered crumbs everywhere, without rhyme or reason."
+   },
+   "zh-cn": {
+    "name": "灵感大逃杀",
+    "text": "灵感像薯片，咔滋咔滋，留下一地碎屑，没有理由。"
+   },
+   "ja": {
+    "name": "ひらめきデスゲーム",
+    "text": "インスピレーションはポテチみたい。サクッ、パリッ。で、カスだけ残るけど、そこに理由はない。"
+   },
+   "ko": {
+    "name": "영감 배틀로얄",
+    "text": "영감은 감자칩 같아. 와그작 와그작, 부스러기를 남기지만 이유는 없지."
+   },
+   "zh-tw": {
+    "name": "靈感大逃殺",
+    "text": "靈感像洋芋片，咔滋咔滋，留下一地碎屑，沒有理由。",
+    "url": "https://everness.info/zh-Hant/arcs/fork_lingganzhongjiezhe",
+    "read": "2026-11-23"
+   }
+  },
+  "fork_jiaojuan": {
+   "en": {
+    "name": "Shiny Days",
+    "text": "Capturing these radiant moments, even in dreams they must go on. Regret was never beautiful, and you were never alone."
+   },
+   "zh-cn": {
+    "name": "闪耀的每一天",
+    "text": "捕捉闪耀的瞬间，在梦中都要继续。后悔从来都不会是美好的，你也并非是孤单一人。"
+   },
+   "ja": {
+    "name": "輝かしい日々",
+    "text": "輝く瞬間をとらえよ。夢の中でも。後悔なんて、何一ついいことはない。"
+   },
+   "ko": {
+    "name": "빛나는 나날",
+    "text": "빛나는 순간을 포착하라, 꿈속에서도 마찬가지로. 내 사전에 후회란 없고, 너는 결코 혼자가 아니야."
+   },
+   "zh-tw": {
+    "name": "閃耀的每一天",
+    "text": "捕捉閃耀的瞬間，在夢中都要繼續。後悔從來都不會是美好的，你也並非是孤單一人。",
+    "url": "https://everness.info/zh-Hant/arcs/fork_jiaojuan",
+    "read": "2026-11-23"
+   }
+  },
+  "fork_koinobori": {
+   "en": {
+    "name": "A Time Will Come",
+    "text": "Descending from the heavens, returning to the heavens. Believing in that destined day, we leap into this endless migration with no visible end."
+   },
+   "zh-cn": {
+    "name": "终有时",
+    "text": "自天而下，重归于天。相信着那命中注定的一日，我们跃入这看不见终点的洄游。"
+   },
+   "ja": {
+    "name": "いつかは終わる",
+    "text": "天から降り、再び天へ還る。その運命の日を信じて、果てなき回遊へと飛び込もう。"
+   },
+   "ko": {
+    "name": "때는 온다",
+    "text": "하늘에서 왔으니, 하늘로 돌아간다. 운명의 그날을 기다리며, 끝이 보이지 않는 그곳을 향해 회유한다."
+   },
+   "zh-tw": {
+    "name": "終有時",
+    "text": "自天而下，重歸於天。相信著那命中注定的一日，我們躍入這看不見終點的洄游。",
+    "url": "https://everness.info/zh-Hant/arcs/fork_koinobori",
+    "read": "2026-11-23"
+   }
+  },
+  "fork_snowman": {
+   "en": {
+    "name": "The Fools' Spring",
+    "text": "If I were a cicada, I'd still sing with my raspy voice."
+   },
+   "zh-cn": {
+    "name": "愚者种春",
+    "text": "假如我是一只蝉，我也会用嘶哑的喉咙歌唱。"
+   },
+   "ja": {
+    "name": "愚者が春を蒔く",
+    "text": "もし僕が蝉なら、ガラガラな声でも歌おう。"
+   },
+   "ko": {
+    "name": "봄을 심는 바보",
+    "text": "만약 내가 한 마리의 매미였다면, 나는 쉰 목소리로 노래하였으리라."
+   },
+   "zh-tw": {
+    "name": "愚者種春",
+    "text": "假如我是一隻蟬，我也會用沙啞的喉嚨歌唱。",
+    "url": "https://everness.info/zh-Hant/arcs/fork_snowman",
+    "read": "2026-11-23"
+   }
+  },
+  "fork_BitterCake": {
+   "en": {
+    "name": "The Good, The Bad, The Bitter",
+    "text": "A touch of bitterness, but it'll still put you in a good mood, won't it?"
+   },
+   "zh-cn": {
+    "name": "良药苦口",
+    "text": "些许的苦涩，但也会给你好心情，不是吗？"
+   },
+   "ja": {
+    "name": "良薬は口に苦し",
+    "text": "少し苦いけど、気分は良くなるよね？"
+   },
+   "ko": {
+    "name": "입에 쓴 약이 몸에 좋다",
+    "text": "좀 쓰긴 하지만 기분은 좋잖아, 안 그래?"
+   },
+   "zh-tw": {
+    "name": "良藥苦口",
+    "text": "些許的苦澀，但也會給你好心情，不是嗎？",
+    "url": "https://everness.info/zh-Hant/arcs/fork_BitterCake",
+    "read": "2026-11-23"
+   }
+  },
+  "fork_tuansanlang": {
+   "en": {
+    "name": "The Great Thief",
+    "text": "The moment I saw you, I was captivated. Your soft fur, that mischievous look on your face—I was mesmerized for so long that it wasn't until you left that I realized… where are my grilled skewers?"
+   },
+   "zh-cn": {
+    "name": "该死的邂逅",
+    "text": "见到你的第一眼，无法抗拒被夺走视线。柔软的毛发，脸上的狡黠，入迷许久，等到你离开后才发现——我烤串呢？"
+   },
+   "ja": {
+    "name": "呪われた出会い",
+    "text": "君を見た瞬間、釘付けになった。その、ふわふわの毛並みと、悪戯っぽく輝く瞳に…ってあれ？焼き串どこいった？"
+   },
+   "ko": {
+    "name": "망할 인연",
+    "text": "너를 본 순간, 마치 시간이 멈춰버린 것 같았지. 부드러운 털, 장난기 어린 얼굴… 모든 게 완벽했어. 그렇게 넋 놓고 바라보다가, 네가 떠나고 나서야… 내 꼬치구이가 사라졌다는 걸 깨달았지."
+   },
+   "zh-tw": {
+    "name": "該死的邂逅",
+    "text": "見到你的第一眼，無法抗拒被奪走視線。柔軟的毛髮，臉上的狡黠，入迷許久，等到你離開後才發現——我串燒呢？",
+    "url": "https://everness.info/zh-Hant/arcs/fork_tuansanlang",
+    "read": "2026-11-23"
+   }
+  },
+  "fork_yuren": {
+   "en": {
+    "name": "Umbrella",
+    "text": "Remember to get enough sleep and check the weather forecast; remember to eat your meals and take an umbrella when going out."
+   },
+   "zh-cn": {
+    "name": "勿忘伞",
+    "text": "记得睡觉，记得看天气预报；记得吃饭，记得出门带伞。"
+   },
+   "ja": {
+    "name": "忘れな傘",
+    "text": "寝る、天気予報を見る、食事をする、傘を持って出る…どれも忘れないように。"
+   },
+   "ko": {
+    "name": "물망산",
+    "text": "잘 자고, 일기예보 확인하는 거 잊지 마. 밥 잘 챙겨 먹고, 우산도 잊지 마!"
+   },
+   "zh-tw": {
+    "name": "勿忘傘",
+    "text": "記得睡覺，記得看天氣預報；記得吃飯，記得出門帶傘。",
+    "url": "https://everness.info/zh-Hant/arcs/fork_yuren",
+    "read": "2026-11-23"
+   }
+  },
+  "fork_bopu": {
+   "en": {
+    "name": "Cosmos Daze, Wild Reverie",
+    "text": "Masterpiece from Pop Re-Creator!"
+   },
+   "zh-cn": {
+    "name": "光波眩晕，迷走狂欢",
+    "text": "Masterpiece made by 「Pop Re-Creator 」!"
+   },
+   "ja": {
+    "name": "光のカーニバル",
+    "text": "Masterpiece made by 「Pop Re-Creator 」!"
+   },
+   "ko": {
+    "name": "화려한 조명 속 광란의 파티",
+    "text": "Masterpiece made by 「Pop Re-Creator」!"
+   },
+   "zh-tw": {
+    "name": "光波暈眩，迷走狂歡",
+    "text": "Masterpiece made by 「Pop Re-Creator 」!",
+    "url": "https://everness.info/zh-Hant/arcs/fork_bopu",
+    "read": "2026-11-23"
+   }
+  },
+  "fork_spider": {
+   "en": {
+    "name": "Failing You, Heavy in My Heart",
+    "text": "When you see red reflected in your teacher's eyes, that usually means you're about to fail the class."
+   },
+   "zh-cn": {
+    "name": "挂你在心口难开",
+    "text": "当你在老师的眼睛里看到红光，那一般代表你要挂科了。"
+   },
+   "ja": {
+    "name": "言葉にできない",
+    "text": "先生の目が赤く光ったら、たぶんその単位はもうだめだよ。"
+   },
+   "ko": {
+    "name": "말하기 어려운 마음",
+    "text": "선생님의 눈에서 빨간 빛이 보이면, 그건 보통 네가 낙제했다는 뜻이야."
+   },
+   "zh-tw": {
+    "name": "掛你在心口難開",
+    "text": "當你在老師的眼睛裡看到紅光，那一般代表你要被當了。",
+    "url": "https://everness.info/zh-Hant/arcs/fork_spider",
+    "read": "2026-11-23"
+   }
+  },
+  "fork_Kite": {
+   "en": {
+    "name": "Watch Your Heads!",
+    "text": "Hehehe… Don't be scared, it's just a laughing kite…"
+   },
+   "zh-cn": {
+    "name": "当心头顶",
+    "text": "嘻嘻嘻……别怕，不过是一只爱笑的风筝而已……"
+   },
+   "ja": {
+    "name": "頭上に注意！",
+    "text": "ふふふ…怖がらないで。ただの、笑うのが好きな凧さ。"
+   },
+   "ko": {
+    "name": "머리 조심",
+    "text": "히히히… 무서워하지 마. 그냥 웃기를 좋아하는 연일 뿐이야…"
+   },
+   "zh-tw": {
+    "name": "當心頭頂",
+    "text": "嘻嘻嘻……別怕，不過是一隻愛笑的風箏而已……",
+    "url": "https://everness.info/zh-Hant/arcs/fork_Kite",
+    "read": "2026-11-23"
+   }
+  },
+  "fork_yaodao": {
+   "en": {
+    "name": "Drawn Blade",
+    "text": "Lone moon, dark clouds. Blade drawn, soul departs. Form fades, blade weeps."
+   },
+   "zh-cn": {
+    "name": "拔刀",
+    "text": "孤月，墨云。刃出，魂归。色褪，刃泣。"
+   },
+   "ja": {
+    "name": "抜刀",
+    "text": "孤月、墨雲。刃が出れば、魂は還る。色が褪せ、刃が泣く。"
+   },
+   "ko": {
+    "name": "발도",
+    "text": "고월, 묵운. 뽑히는 칼날에 영혼이 잠드니, 색이 바래고 남은건 칼날의 흐느낌 뿐이네."
+   },
+   "zh-tw": {
+    "name": "拔刀",
+    "text": "孤月，墨雲。刃出，魂歸。色褪，刃泣。",
+    "url": "https://everness.info/zh-Hant/arcs/fork_yaodao",
+    "read": "2026-11-23"
+   }
+  },
+  "fork_oulaquantao": {
+   "en": {
+    "name": "Oraora!",
+    "text": "It's said that in a faraway place, Ora Puncher has a cousin, Muda Puncher."
+   },
+   "zh-cn": {
+    "name": "欧拉欧拉！",
+    "text": "据说在遥远地方，欧拉拳套有一个远方表弟，叫做「木大拳套」。"
+   },
+   "ja": {
+    "name": "オラオラ！",
+    "text": "遙か遠くにオラオラグローブのいとこがいるらしい。その名も「ムダムダグローブ」"
+   },
+   "ko": {
+    "name": "오라오라!",
+    "text": "머나먼 곳에 오라 글러브의 먼 사촌 동생이 있대, 이름하여 「무다무다 글러브」."
+   },
+   "zh-tw": {
+    "name": "歐拉歐拉！",
+    "text": "據說在遙遠地方，歐拉拳套有一個遠方表弟，叫做「木大拳套」。",
+    "url": "https://everness.info/zh-Hant/arcs/fork_oulaquantao",
+    "read": "2026-11-23"
+   }
+  },
+  "fork_nonos": {
+   "en": {
+    "name": "First Step to Success",
+    "text": "Good self-control is the first step on the road to success."
+   },
+   "zh-cn": {
+    "name": "成功的第一步",
+    "text": "优良的自我管理是走上成功道路的第一步。"
+   },
+   "ja": {
+    "name": "成功への第一歩",
+    "text": "良い自己管理は成功への第一歩。"
+   },
+   "ko": {
+    "name": "성공을 향한 첫 걸음",
+    "text": "자기 관리는 성공을 향한 첫 걸음이야."
+   },
+   "zh-tw": {
+    "name": "成功的第一步",
+    "text": "優良的自我管理是走上成功道路的第一步。",
+    "url": "https://everness.info/zh-Hant/arcs/fork_nonos",
+    "read": "2026-11-23"
+   }
+  },
+  "fork_appliance": {
+   "en": {
+    "name": "\"Real Music\"",
+    "text": "Waddaya mean ya prefer \"real music\"? Is this not \"real\" enough for yer taste?"
+   },
+   "zh-cn": {
+    "name": "「电音」狂欢",
+    "text": "哪有电音？附电灵发出来的声音怎么不算「电音」呢？"
+   },
+   "ja": {
+    "name": "「電音」カーニバル",
+    "text": "どこに電子音があるって？「レコードの電気霊」が出してる音だって、「電子音」でしょ？"
+   },
+   "ko": {
+    "name": "광란의 「전자음악」",
+    "text": "전자음악이 어디 있냐고? 스파키 팬텀이 내는 소리는 「전자음악」이 아니라는 거야?"
+   },
+   "zh-tw": {
+    "name": "「電音」狂歡",
+    "text": "哪有電音？附電靈發出來的聲音怎麼不算「電音」呢？",
+    "url": "https://everness.info/zh-Hant/arcs/fork_appliance",
+    "read": "2026-11-23"
+   }
+  },
+  "fork_dustbin": {
+   "en": {
+    "name": "Dangerous Game",
+    "text": "Let's make a bet. Loser goes broke."
+   },
+   "zh-cn": {
+    "name": "危险游戏",
+    "text": "我跟你打个赌，输的人要吃土。"
+   },
+   "ja": {
+    "name": "危険なゲーム",
+    "text": "賭けようぜ、負けたほうが土を食うってことで。"
+   },
+   "ko": {
+    "name": "위험한 게임",
+    "text": "내기하자, 진 사람은 파산이야."
+   },
+   "zh-tw": {
+    "name": "危險遊戲",
+    "text": "我跟你打個賭，輸的人要吃土。",
+    "url": "https://everness.info/zh-Hant/arcs/fork_dustbin",
+    "read": "2026-11-23"
+   }
+  },
+  "fork_vine": {
+   "en": {
+    "name": "Be Happy",
+    "text": "Hm? Why aren't you laughing?"
+   },
+   "zh-cn": {
+    "name": "笑口常开",
+    "text": "嗯？你怎么不笑呢？"
+   },
+   "ja": {
+    "name": "いつも笑顔で",
+    "text": "なんで笑わないの？"
+   },
+   "ko": {
+    "name": "미소 천사",
+    "text": "응? 왜 안 웃어?"
+   },
+   "zh-tw": {
+    "name": "笑口常開",
+    "text": "嗯？你怎麼不笑呢？",
+    "url": "https://everness.info/zh-Hant/arcs/fork_vine",
+    "read": "2026-11-23"
+   }
+  },
+  "fork_Prokaryon": {
+   "en": {
+    "name": "Us.",
+    "text": "I am… you… are… you, are… it, is… me… no, I… am… us."
+   },
+   "zh-cn": {
+    "name": "「我们。」",
+    "text": "我是、你……是……你，是……它、是……我……不，我——是、我们。"
+   },
+   "ja": {
+    "name": "「私たち」",
+    "text": "私は…君は君、それはそれ、私は…いや、私たちだ。"
+   },
+   "ko": {
+    "name": "「우리.」",
+    "text": "나는, 너… 는…. 너, 는… 그것, 은… 나… 아니, 나… 는, 우리."
+   },
+   "zh-tw": {
+    "name": "「我們。」",
+    "text": "我是、你……是……你，是……它、是……我……不，我——是、我們。",
+    "url": "https://everness.info/zh-Hant/arcs/fork_Prokaryon",
+    "read": "2026-11-23"
+   }
+  }
+ }
+}

@@ -45,6 +45,7 @@ sources:
 | Arc type | Liquid |
 | Joined | Version 1.0 |
 | Voice actors | Chinese: 四白; English: Casey Mongillo; Japanese: 三瓶由布子; Korean: 장채연 |
+| Archive | [Edgar archive](/characters/edgar/archive/) |
 
 ## How to obtain
 

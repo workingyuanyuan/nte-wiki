@@ -44,6 +44,7 @@ sources:
 | Arc type | Gas |
 | Joined | Version 1.0 |
 | Voice actors | Chinese: 刘雨轩; English: Bill Butts; Japanese: 杉田智和; Korean: 이동훈 |
+| Archive | [Skia archive](/characters/skia/archive/) |
 
 ## How to obtain
 

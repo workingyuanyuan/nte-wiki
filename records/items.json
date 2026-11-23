@@ -1,0 +1,1571 @@
+{
+ "version": "1.5.4",
+ "sources": {
+  "en": "https://static.nanoka.cc/nte/1.5.4/en/item.json",
+  "zh-cn": "https://static.nanoka.cc/nte/1.5.4/zh/item.json",
+  "ja": "https://static.nanoka.cc/nte/1.5.4/ja/item.json",
+  "ko": "https://static.nanoka.cc/nte/1.5.4/ko/item.json"
+ },
+ "items": {
+  "CharacterUpMaterial_lv1": {
+   "en": {
+    "name": "Rising Hunter Guide",
+    "text": "\"Notes from a Rising Hunter: Your Guide to Promotion!\"\n—This is a hunter's guide that garnered 999+ Sesame ratings on Bagel. A rookie who had just received their hunter's license tried to put the book into practice, leaving only one comment: Be… ware… of… Anomalies!"
+   },
+   "zh-cn": {
+    "name": "新锐猎人攻略",
+    "text": "「新生代猎人的个人见解，晋升攻略先行放送！」\n——这是一份「呗果」上获得999+「芝麻」的猎人攻略，曾有刚领到猎人证的新手尝试验证其成效，最后只留下了一句评论：小……心……异……象！"
+   },
+   "ja": {
+    "name": "新鋭ハンター攻略",
+    "text": "「新世代ハンターの個人的見解、昇進攻略を先行公開！」"
+   },
+   "ko": {
+    "name": "라이징 헌터 가이드",
+    "text": "<라이징 헌터의 개인적 견해, 레벨업 공략 선공개!>\n「베이글」에서 「참깨」를 999개 이상 획득한 헌터가 작성한 공략글이다. 갓 헌터 면허를 딴 초보 헌터가 효과를 검증하려 했으나, 이 댓글을 마지막으로 사라졌다. 이… 상… 을… 조… 심… 해…!"
+   },
+   "zh-tw": {
+    "name": "新銳獵人攻略",
+    "text": "「新生代獵人的個人見解，晉升攻略先行放送！」 ——這是一份「唄果」上獲得999+「芝麻」的獵人攻略，曾有剛領到獵人證的新手嘗試驗證其成效，最後只留下了一句評論：小……心……異……象！",
+    "url": "https://everness.info/zh-Hant/items/CharacterUpMaterial_lv1",
+    "read": "2026-11-23"
+   }
+  },
+  "CharacterUpMaterial_lv2": {
+   "en": {
+    "name": "Senior Hunter Guide",
+    "text": "\"How I Became The Chosen Hunter - Anomalies, Tests, And Notes\"\n—This is a hunter's guide with over 10,000 bookmarks on Bagel. No serious hunters, no powerful arcs, no flashy Espers, just a slice-of-life light novel about taming high threat Anomalies into minions around the city. The high bookmark count is probably because hunters wish to be blessed by such luck."
+   },
+   "zh-cn": {
+    "name": "资深猎人攻略",
+    "text": "「天选猎人才知道的行业秘则！异象、测验与记事本。」\n——这是一份「呗果」上收藏10000+的猎人攻略，没有认真的猎人，没有准备好的弧盘，没有帅气的异能，只剩下「在都市接连收服高级异象小弟」的轻小说日常，收藏量很高大概是因为猎人们都想被幸运眷顾吧。"
+   },
+   "ja": {
+    "name": "熟練ハンター攻略",
+    "text": "「選ばれしハンターだけが知る業界の秘密の掟！異象、試験、そして手記」\n——これは「ベーグル」で1万以上のお気に入りを獲得したハンターの攻略情報。真面目なハンター像も載っていなければ、弧盤も、かっこいい異能も存在しない。ただ「街で上級異象を立て続けに手なずける」といったライトノベル的な日常が綴られているだけだが、その運にあやかりたいというハンターたちの羨望が人気の理由だろう。"
+   },
+   "ko": {
+    "name": "베테랑 헌터 가이드",
+    "text": "<선택받은 헌터만 아는 업계 비밀! 이상, 시험, 노트>\n—「베이글」에서 즐겨찾기 1만 개를 넘긴 헌터 공략 글이다. 진지한 헌터도, 완벽한 아크도, 멋진 이능력도 없이 「도시에서 상급 이상을 연달아 복종시키는」 소설 같은 일상이 등장한다. 이런 행운의 보살핌을 받고 싶은 헌터가 많아 즐겨찾기 수가 높은 것 같다."
+   },
+   "zh-tw": {
+    "name": "資深獵人攻略",
+    "text": "「天選獵人才知道的行業秘則！異象、測驗與記事本。」 ——這是一份「唄果」上收藏10000+的獵人攻略，沒有認真的獵人，沒有準備好的弧盤，沒有帥氣的異能，只剩下「在都市接連收服高級異象小弟」的輕小說日常，收藏量很高大概是因為獵人們都想被幸運眷顧吧。",
+    "url": "https://everness.info/zh-Hant/items/CharacterUpMaterial_lv2",
+    "read": "2026-11-23"
+   }
+  },
+  "CharacterUpMaterial_lv3": {
+   "en": {
+    "name": "Elite Hunter Guide",
+    "text": "\"From I to VIII: The Ultimate Hunter's Anomaly Catalog!\"\n—No one had ever seen the special Anomalies it documented until one day, when an anonymous user uploaded a cryptic image. Its blurry figures and puzzling scenes seemed to obliquely validate something…"
+   },
+   "zh-cn": {
+    "name": "特级猎人攻略",
+    "text": "《从Ⅰ到VIII，特级猎人的异象目录，也要一网打尽！》\n——这是一份「呗果」上「开心果」投喂999999+的猎人攻略，但记录的特殊异象从未有人见过，直到某天某个匿名用户上传了一张表意不明的画作图片，画内模糊的身影、令人费解的场景好像在极力从侧面印证着什么……"
+   },
+   "ja": {
+    "name": "特級ハンター攻略",
+    "text": "『Ⅰ～VIII スーパーハンターの異象カタログ 刮目せよ！』\n——これは「ベーグル」で999999以上の「ピスタチオ」を獲得したハンターの攻略情報だ。しかし、記録されている特殊異象は今まで目撃されたことがなかった。ある匿名のユーザーが意味不明な絵をアップロードした、その日までは。ぼやけた姿、不可解なシーン…できるだけ間接的に何かを実証しようとしているようだ…"
+   },
+   "ko": {
+    "name": "특급 헌터 가이드",
+    "text": "<Ⅰ등급부터 VIII등급까지, 한 번에 섭렵하는 특급 헌터의 이상 목록>\n—「베이글」에서 999,999개 이상의 「피스타치오」를 획득한 헌터 공략 글이다. 하지만 기록된 특수 이상은 아무도 본 적이 없다. 어느 날 익명의 유저가 알 수 없는 그림을 올렸고, 그림 속 흐릿한 형상과 이해하기 어려운 장면들은 무언가를 증명하려는 듯한데…"
+   },
+   "zh-tw": {
+    "name": "特級獵人攻略",
+    "text": "《從Ⅰ到VIII，特級獵人的異象目錄，也要一網打盡！》 ——這是一份「唄果」上「開心果」餵食999999+的獵人攻略，但記錄的特殊異象從未有人見過，直到某天某個匿名用戶上傳了一張意義不明的畫作圖片，畫內模糊的身影、令人費解的場景好像在極力從側面印證著什麼……",
+    "url": "https://everness.info/zh-Hant/items/CharacterUpMaterial_lv3",
+    "read": "2026-11-23"
+   }
+  },
+  "OrdinaryMonMaterial_01_lv1": {
+   "en": {
+    "name": "Lost Whispers",
+    "text": "Captured faint whispers.\n\n\"…overcome the lost ones @#%aberration…\n…destroy *^$anomaly?#@!!$…\""
+   },
+   "zh-cn": {
+    "name": "失落絮语",
+    "text": "被捕捉到的微弱絮语。\n\n「……克服失群者@#%怪谲……\n……摧毁*^$异禀?#@!!$ ……」"
+   },
+   "ja": {
+    "name": "失われし呟き",
+    "text": "とらえられたかすかな呟き。\n\n「…はぐれ者の@#%奇妙な…を克服…\n…*^$特殊能力?#@!!$粉砕 …」"
+   },
+   "ko": {
+    "name": "잃어버린 속삭임",
+    "text": "희미한 속삭임이 포착됐다.\n\n「…길 잃은 자들 @#% 기이함을 극복…\n… 이능력을 *^$ 파괴 ?#@!!$…」"
+   },
+   "zh-tw": {
+    "name": "失落絮語",
+    "text": "被捕捉到的微弱絮語。 「……克服失群者@#%怪譎…… ……摧毀*^$異稟?#@!!$ ……」",
+    "url": "https://everness.info/zh-Hant/items/OrdinaryMonMaterial_01_lv1",
+    "read": "2026-11-23"
+   }
+  },
+  "OrdinaryMonMaterial_01_lv2": {
+   "en": {
+    "name": "Obscure Whispers",
+    "text": "Captured fragmented whispers.\n\n\"██████order███solve██\n███terror██fear██\""
+   },
+   "zh-cn": {
+    "name": "茫昧絮语",
+    "text": "被捕捉到的破碎絮语。\n\n「██████秩序███解██\n    ███恐██恐惧██」"
+   },
+   "ja": {
+    "name": "ボソボソした呟き",
+    "text": "捉えられた、途切れ途切れのつぶやき。\n「██████秩序が███崩██\n███お██恐ろ██」"
+   },
+   "ko": {
+    "name": "모호한 속삭임",
+    "text": "조각난 속삭임이 포착됐다.\n\n「██████질서███해결██\n    ███공포██두려움██」"
+   },
+   "zh-tw": {
+    "name": "茫昧絮語",
+    "text": "被捕捉到的破碎絮語。 「██████秩序███解██ ███恐██恐懼██」",
+    "url": "https://everness.info/zh-Hant/items/OrdinaryMonMaterial_01_lv2",
+    "read": "2026-11-23"
+   }
+  },
+  "OrdinaryMonMaterial_01_lv3": {
+   "en": {
+    "name": "Paradoxical Whispers",
+    "text": "Captured self-revealing whispers.\n\n\"My words shall proceed as follows—all language exists in its topological relationships with other languages.\""
+   },
+   "zh-cn": {
+    "name": "悖谬絮语",
+    "text": "被捕捉到的自见分晓的絮语。\n\n「我的话语将以如下方式进行——一切语言都是被维系在它与其他语言的拓扑关系之中。」"
+   },
+   "ja": {
+    "name": "でたらめな呟き",
+    "text": "捉えられた、知性を感じさせるつぶやき。\n\n「僕の話は以下の手順で行われる——全ての言語は、他言語とのトポロジカルな関係性の中で維持されるのだ」"
+   },
+   "ko": {
+    "name": "모순된 속삭임",
+    "text": "뚜렷한 속삭임이 포착되었다.\n\n「내 말은 다음과 같이 작동한다. 모든 언어는 다른 언어와 맺어진 위상학적 관계 안에서 유지된다.」"
+   },
+   "zh-tw": {
+    "name": "悖謬絮語",
+    "text": "被捕捉到的自見分曉的絮語。 「我的話語將以如下方式進行——一切語言都是被維繫在它與其他語言的拓撲關係之中。」",
+    "url": "https://everness.info/zh-Hant/items/OrdinaryMonMaterial_01_lv3",
+    "read": "2026-11-23"
+   }
+  },
+  "OrdinaryMonMaterial_02_lv1": {
+   "en": {
+    "name": "Fading Silhouette",
+    "text": "Captured fading silhouette from the edge.\n\n\"Tthhe qquuickk brrownn ffoxx jumpps oveer thhe lazzy dogg.\""
+   },
+   "zh-cn": {
+    "name": "褪色掠影",
+    "text": "被捕捉到的自边缘处逐渐消退的掠影。\n\n「Tthhe qquuickk brrownn ffoxx jumpps oveer thhe lazzy dogg.」"
+   },
+   "ja": {
+    "name": "色褪せた姿",
+    "text": "捉えられた、端から次第に消失していく姿。\n「Tthhe qquuickk brrownn ffoxx jumpps oveer thhe lazzy dogg.」"
+   },
+   "ko": {
+    "name": "빛바랜 실루엣",
+    "text": "가장자리부터 사라지는 실루엣이 포착되었다.\n\n「Tthhe qquuickk brrownn ffoxx jumpps oveer thhe lazzy dogg.」"
+   },
+   "zh-tw": {
+    "name": "褪色掠影",
+    "text": "被捕捉到的自邊緣處逐漸消退的掠影。 「Tthhe qquuickk brrownn ffoxx jumpps oveer thhe lazzy dogg.」",
+    "url": "https://everness.info/zh-Hant/items/OrdinaryMonMaterial_02_lv1",
+    "read": "2026-11-23"
+   }
+  },
+  "OrdinaryMonMaterial_02_lv2": {
+   "en": {
+    "name": "Blurred Silhouette",
+    "text": "Captured hazy silhouette.\n\n\"CoC＞0.1██D██0\nFocus██5██\nMTF＜██\n██＞██pixels wide\n████\""
+   },
+   "zh-cn": {
+    "name": "失焦掠影",
+    "text": "被捕捉到的迷蒙掠影。\n「CoC＞0.1██D██0\n聚焦██5██\nMTF＜██\n██＞██像素宽\n████」"
+   },
+   "ja": {
+    "name": "ぼやけた姿",
+    "text": "捉えられた、輪郭のぼやけた姿。\n「CoC＞0.1██D██0\n██5██に焦点\nMTF＜██\n██＞██ピクセル幅\n████」"
+   },
+   "ko": {
+    "name": "초점 잃은 실루엣",
+    "text": "희미한 실루엣이 포착되었다.\n「CoC＞0.1██D██0\n초점██5██\nMTF＜██\n██＞██픽셀 너비\n████」"
+   },
+   "zh-tw": {
+    "name": "失焦掠影",
+    "text": "被捕捉到的迷蒙掠影。 「CoC＞0.1██D██0 聚焦██5██ MTF＜██ ██＞██像素寬 ████」",
+    "url": "https://everness.info/zh-Hant/items/OrdinaryMonMaterial_02_lv2",
+    "read": "2026-11-23"
+   }
+  },
+  "OrdinaryMonMaterial_02_lv3": {
+   "en": {
+    "name": "Chaos Silhouette",
+    "text": "Captured silhouette attempting to linger and reappear from the chaos.\n\n\"TexTum6789 ▲▲5434▼▼▼89 TexTum▲▲▼\""
+   },
+   "zh-cn": {
+    "name": "晦暗掠影",
+    "text": "被捕捉到的自暗处试图徘徊再现的掠影。\n\n「TexTum6789▲▲5434▼▼▼89TexTum▲▲▼」"
+   },
+   "ja": {
+    "name": "仄暗い姿",
+    "text": "捉えられた、暗闇から彷徨い出ようとする姿。\n「TexTum6789▲▲5434▼▼▼89TexTum▲▲▼」"
+   },
+   "ko": {
+    "name": "어두운 실루엣",
+    "text": "어둠 속을 헤매며 다시 나오려는 실루엣이 포착되었다.\n\n「TexTum6789 ▲▲5434▼▼▼89 TexTum▲▲▼」"
+   },
+   "zh-tw": {
+    "name": "晦暗掠影",
+    "text": "被捕捉到的自暗處試圖徘徊再現的掠影。 「TexTum6789▲▲5434▼▼▼89TexTum▲▲▼」",
+    "url": "https://everness.info/zh-Hant/items/OrdinaryMonMaterial_02_lv3",
+    "read": "2026-11-23"
+   }
+  },
+  "OrdinaryMonMaterial_03_lv1": {
+   "en": {
+    "name": "Blurred Numeral",
+    "text": "Captured numerals contending with clarity.\n\n\"KØAV&*O\""
+   },
+   "zh-cn": {
+    "name": "模糊数符",
+    "text": "被捕捉到的与清晰博弈的数符。\n\n「KØAV&*O」"
+   },
+   "ja": {
+    "name": "ぼやけた数字記号",
+    "text": "捉えられた、鮮明さを競い合う数字記号。\n「KØAV&*O」"
+   },
+   "ko": {
+    "name": "흐릿한 숫자 부호",
+    "text": "명확함과 척을 진 숫자 부호가 포착되었다.\n\n「KØAV&*O」"
+   },
+   "zh-tw": {
+    "name": "模糊數符",
+    "text": "被捕捉到的與清晰博弈的數符。 「KØAV&*O」",
+    "url": "https://everness.info/zh-Hant/items/OrdinaryMonMaterial_03_lv1",
+    "read": "2026-11-23"
+   }
+  },
+  "OrdinaryMonMaterial_03_lv2": {
+   "en": {
+    "name": "Unsolved Numeral",
+    "text": "Captured rational survey signal numerals.\n\n\"α≈1/137,\nThe respondent has never landed in the universe.\""
+   },
+   "zh-cn": {
+    "name": "未解数符",
+    "text": "被捕捉到的勘测理性信号数符。\n\n「α≈1/137，\n答题者未曾在宇宙降落。」"
+   },
+   "ja": {
+    "name": "未解明の数字記号",
+    "text": "捉えられた、理性信号を解析する数字記号。\n「α≈1/137、\n回答者は宇宙に降り立っていない」"
+   },
+   "ko": {
+    "name": "미해독 숫자 부호",
+    "text": "이성적 신호를 탐지하는 숫자 부호가 포착되었다.\n\n「α≈1/137,\n응답자는 우주에 착륙한 적이 없다.」"
+   },
+   "zh-tw": {
+    "name": "未解數符",
+    "text": "被捕捉到的勘測理性訊號數符。 「α≈1/137， 答題者未曾在宇宙降落。」",
+    "url": "https://everness.info/zh-Hant/items/OrdinaryMonMaterial_03_lv2",
+    "read": "2026-11-23"
+   }
+  },
+  "OrdinaryMonMaterial_03_lv3": {
+   "en": {
+    "name": "Distorted Numeral",
+    "text": "Captured intertwined numerals.\n\n\"7\" \"0\" \"3\" \"5\" \"X\" \"1\""
+   },
+   "zh-cn": {
+    "name": "扭曲数符",
+    "text": "被捕捉到的相互纠缠的数符。\n\n「7」「0」「3」「5」「X」「1」"
+   },
+   "ja": {
+    "name": "歪んだ数字記号",
+    "text": "捉えられた、互いに絡み合う数字記号。\n\n「7」「0」「3」「5」「X」「1」"
+   },
+   "ko": {
+    "name": "뒤틀린 숫자 부호",
+    "text": "서로 얽힌 숫자 부호가 포착되었다.\n\n「7」 「0」 「3」 「5」 「X」 「1」"
+   },
+   "zh-tw": {
+    "name": "扭曲數符",
+    "text": "被捕捉到的互相糾纏的數符。 「7」「0」「3」「5」「X」「1」",
+    "url": "https://everness.info/zh-Hant/items/OrdinaryMonMaterial_03_lv3",
+    "read": "2026-11-23"
+   }
+  },
+  "OrdinaryMonMaterial_04_lv1": {
+   "en": {
+    "name": "Suspended Delusions",
+    "text": "Captured blind delusions.\n\n\"So many voices inside the light blue plastic shell.\nListen. Vengeful spirits entangle, gnashing their teeth, clamoring in chaos, as the luminous mist rises then disperses.\nWe wear frost like a mantle, isolated from the world yet tearing away its distrustful shell.\""
+   },
+   "zh-cn": {
+    "name": "悬想幻妄",
+    "text": "被捕捉到的盲眼幻妄。\n\n「淡蓝色塑料壳里有好多声音。\n你听。怨灵纠缠，咬牙切齿，喧哗骚动，氤氲起的灯雾又退散开来。\n我们披着冷冽，遗世孤立却又为世界撕开不信任的外壳。」"
+   },
+   "ja": {
+    "name": "妄想ファントム",
+    "text": "捉えられた、盲目のファントム。\n「水色のプラスチックケースには、たくさんの音が詰まっている。\n聞いてごらん。つきまとう怨霊、ギリギリと噛みしめる歯、狂乱の叫び、徐々に薄れゆくランプの霧。\n冷酷で世間から孤立しているが、世界から不信を取り払った外殻を、我々は身にまとっているのだ」"
+   },
+   "ko": {
+    "name": "허황된 망상",
+    "text": "눈먼 망상이 포착되었다.\n\n「연파란 플라스틱 케이스에 수많은 목소리가 담겨 있다.\n들어 보라. 원령들이 뒤엉킨 채 이를 가는 소리, 그리고 피어오르기 시작했던 안개가 다시 흩어지는 소리를.\n냉기를 두른 채 고립된 우리는 또다시 세상을 뒤덮은 불신의 껍질을 뜯어낸다.」"
+   },
+   "zh-tw": {
+    "name": "懸想幻妄",
+    "text": "被捕捉到的盲眼幻妄。 「淡藍色塑膠殼裡有好多聲音。 你聽。怨靈糾纏，咬牙切齒，喧嘩騷動，氤氳起的燈霧又退散開來。 我們披著冷冽，遺世孤立卻又為世界撕開不信任的外殼。」",
+    "url": "https://everness.info/zh-Hant/items/OrdinaryMonMaterial_04_lv1",
+    "read": "2026-11-23"
+   }
+  },
+  "OrdinaryMonMaterial_04_lv2": {
+   "en": {
+    "name": "Yearning Delusions",
+    "text": "Captured reckless delusions.\n\n\"It spoke: Never to return.\""
+   },
+   "zh-cn": {
+    "name": "渴念幻妄",
+    "text": "被捕捉到的横冲直撞的幻妄。\n\n「它说道：永不再来。」"
+   },
+   "ja": {
+    "name": "思想ファントム",
+    "text": "とらえられた暴走ファントム。\n\n「それは『二度と来ない』と言った」"
+   },
+   "ko": {
+    "name": "간절한 망상",
+    "text": "활개 치는 망상이 포착되었다.\n\n「그것이 말하길, 다시는 돌아오지 않으리라.」"
+   },
+   "zh-tw": {
+    "name": "渴念幻妄",
+    "text": "被捕捉到的橫衝直撞的幻妄。 「它說道：永不再來。」",
+    "url": "https://everness.info/zh-Hant/items/OrdinaryMonMaterial_04_lv2",
+    "read": "2026-11-23"
+   }
+  },
+  "OrdinaryMonMaterial_04_lv3": {
+   "en": {
+    "name": "Transcendent Delusions",
+    "text": "Delusions captured within a cosmic microcosm.\n\n\"Hey—Hey—\nHey—Hey—\nCome—Come—\nHey—!\""
+   },
+   "zh-cn": {
+    "name": "超验幻妄",
+    "text": "被捕捉到的宇宙缩影中的幻妄。\n\n「喂——喂——\n喂——喂——\n来——来——\n喂——！」"
+   },
+   "ja": {
+    "name": "超越ファントム",
+    "text": "捉えられた、小宇宙に潜むファントム。\n\n「おい——おい——\nおい——おい——\n来いよ——来いよ——\nおい——！」"
+   },
+   "ko": {
+    "name": "초월적 망상",
+    "text": "축소판 우주에 있는 망상이 포착되었다.\n\n「야~ 야~\n야~ 야~\n와~ 와~\n야~!」"
+   },
+   "zh-tw": {
+    "name": "超驗幻妄",
+    "text": "被捕捉到的宇宙縮影中的幻妄。 「喂——喂—— 喂——喂—— 來——來—— 喂——！」",
+    "url": "https://everness.info/zh-Hant/items/OrdinaryMonMaterial_04_lv3",
+    "read": "2026-11-23"
+   }
+  },
+  "Worldboss_material_01": {
+   "en": {
+    "name": "Confessional Flower Seed",
+    "text": "A flower seed containing words left unspoken, its meaning unknown until it blooms into full blossom."
+   },
+   "zh-cn": {
+    "name": "倾诉花种",
+    "text": "蕴含了没能被说出口的某句话的花种，在将其栽培到绽放之前无从知晓语义为何。"
+   },
+   "ja": {
+    "name": "語らいの花種",
+    "text": "口にできない言葉を秘めた花の種。育てて花を咲かせるまで、その意味を知る術はない。"
+   },
+   "ko": {
+    "name": "고백의 꽃씨",
+    "text": "끝내 꺼내지 못한 말이 담긴 꽃씨. 피어나기 전까지 그 안에 담긴 뜻을 알 수 없다."
+   },
+   "zh-tw": {
+    "name": "傾訴花種",
+    "text": "蘊含了沒能被說出口的某句話的花種，在將其栽培到綻放之前無從知曉花語為何。",
+    "url": "https://everness.info/zh-Hant/items/Worldboss_material_01",
+    "read": "2026-11-23"
+   }
+  },
+  "Worldboss_material_02": {
+   "en": {
+    "name": "Charging Knight Spark Plug",
+    "text": "The Judge Hunter pledges loyalty to Raging City!"
+   },
+   "zh-cn": {
+    "name": "上膛骑士火花塞",
+    "text": "审判猎手为暴走都市献上忠诚！"
+   },
+   "ja": {
+    "name": "ナイトプラグ装填",
+    "text": "ジャッジハンターはランペイジシティに忠誠を誓う！"
+   },
+   "ko": {
+    "name": "장전한 기사의 점화 플러그",
+    "text": "심판 사냥꾼, 폭주한 도시에 충성을 바친다!"
+   },
+   "zh-tw": {
+    "name": "上膛騎士火星塞",
+    "text": "審判獵手為暴走都市獻上忠誠！",
+    "url": "https://everness.info/zh-Hant/items/Worldboss_material_02",
+    "read": "2026-11-23"
+   }
+  },
+  "Worldboss_material_03": {
+   "en": {
+    "name": "A Page from Delusion's Shore",
+    "text": "Secrets written on paper will eventually be discovered, but those written in the heart never will."
+   },
+   "zh-cn": {
+    "name": "妄想彼端的一页",
+    "text": "写在纸上的秘密终有被发现的一天，写在心底的可不会。"
+   },
+   "ja": {
+    "name": "妄想の向こうのワンページ",
+    "text": "紙に書かれた秘密はいずれ見つかる日が来るが、心に秘めたものはそうではない。"
+   },
+   "ko": {
+    "name": "망상 저편의 한 페이지",
+    "text": "종이에 쓰인 비밀은 언젠가 발견되지만, 마음에 쓰인 것은 그렇지 않다."
+   },
+   "zh-tw": {
+    "name": "妄想彼端的一頁",
+    "text": "寫在紙上的秘密終有被發現的一天，寫在心底的可不會。",
+    "url": "https://everness.info/zh-Hant/items/Worldboss_material_03",
+    "read": "2026-11-23"
+   }
+  },
+  "Worldboss_material_04": {
+   "en": {
+    "name": "Water Moon Pick",
+    "text": "Wanting to become something different, wanting to shine brilliantly like them."
+   },
+   "zh-cn": {
+    "name": "水月色拨片",
+    "text": "想成为不一样的存在，想像他们一样闪耀光辉。"
+   },
+   "ja": {
+    "name": "水月色のピック",
+    "text": "違う存在になりたい、あの人たちのように輝きたい。"
+   },
+   "ko": {
+    "name": "워터문 피크",
+    "text": "다른 존재가 되고 싶다. 그들처럼 빛나고 싶다."
+   },
+   "zh-tw": {
+    "name": "水月色Pick",
+    "text": "想成為不一樣的存在，想像他們一樣閃耀光輝。",
+    "url": "https://everness.info/zh-Hant/items/Worldboss_material_04",
+    "read": "2026-11-23"
+   }
+  },
+  "Worldboss_material_05": {
+   "en": {
+    "name": "Nest Guard Fragment",
+    "text": "If only I could find the children…"
+   },
+   "zh-cn": {
+    "name": "护巢残片",
+    "text": "只要能找回孩子们……"
+   },
+   "ja": {
+    "name": "巣籠りの残片",
+    "text": "子どもたちを取り戻しさえすれば…"
+   },
+   "ko": {
+    "name": "둥지 수호 조각",
+    "text": "아이들만 되찾을 수 있다면…"
+   },
+   "zh-tw": {
+    "name": "護巢殘片",
+    "text": "只要能找回孩子們……",
+    "url": "https://everness.info/zh-Hant/items/Worldboss_material_05",
+    "read": "2026-11-23"
+   }
+  },
+  "Worldboss_material_06": {
+   "en": {
+    "name": "Colorful Ticket Stub",
+    "text": "A colorful yet faded ticket stub, proof of a lonely girl's existence."
+   },
+   "zh-cn": {
+    "name": "斑斓的票根",
+    "text": "色彩斑斓的褪色票根，孤独少女的存在证明。"
+   },
+   "ja": {
+    "name": "色鮮やかな半券",
+    "text": "色鮮やかな色あせたチケットの半券、孤独な少女の存在証明。"
+   },
+   "ko": {
+    "name": "알록달록 티켓 조각",
+    "text": "알록달록하게 바래진 티켓 조각. 고독한 소녀의 존재를 증명한다."
+   },
+   "zh-tw": {
+    "name": "斑斕的票根",
+    "text": "色彩斑斕的褪色票根，孤獨少女的存在證明。",
+    "url": "https://everness.info/zh-Hant/items/Worldboss_material_06",
+    "read": "2026-11-23"
+   }
+  },
+  "Worldboss_material_07": {
+   "en": {
+    "name": "Tear of the Sea",
+    "text": "Seawater, tears, or perhaps the sea's own tears?"
+   },
+   "zh-cn": {
+    "name": "海之泪",
+    "text": "海水，眼泪，亦或是海的泪？"
+   },
+   "ja": {
+    "name": "海の涙",
+    "text": "海水か、涙か、それとも海の涙か？"
+   },
+   "ko": {
+    "name": "바다의 눈물",
+    "text": "바닷물일까, 눈물일까? 그것도 아니면 바다의 눈물?"
+   },
+   "zh-tw": {
+    "name": "海之淚",
+    "text": "海水，眼淚，亦或是海的淚？",
+    "url": "https://everness.info/zh-Hant/items/Worldboss_material_07",
+    "read": "2026-11-23"
+   }
+  },
+  "SkillUpMaterial_01_lv1": {
+   "en": {
+    "name": "Nestling's Longing",
+    "text": "In this performance, you take on the role of a fragile nestling. Poor child, may you receive the most sincere blessings."
+   },
+   "zh-cn": {
+    "name": "雏鸟的希冀",
+    "text": "这场表演你的身份是羸弱的幼鸟，可怜的孩子，向你献上最真挚的祝福。"
+   },
+   "ja": {
+    "name": "ひな鳥の願い",
+    "text": "このショーで演じるのは「か弱い小鳥」可哀想なあなたに最大限の祝福を送りましょう。"
+   },
+   "ko": {
+    "name": "어린 새의 희망",
+    "text": "이 공연에서 당신은 연약한 어린 새다. 불쌍한 아이야, 진심 어린 축복을 너에게 주겠다."
+   },
+   "zh-tw": {
+    "name": "雛鳥的希冀",
+    "text": "這場表演你的身份是羸弱的幼鳥，可憐的孩子，向你獻上最真摯的祝福。",
+    "url": "https://everness.info/zh-Hant/items/SkillUpMaterial_01_lv1",
+    "read": "2026-11-23"
+   }
+  },
+  "SkillUpMaterial_01_lv2": {
+   "en": {
+    "name": "Dove's Flutter",
+    "text": "In this performance, you embody a healthy white dove. Fly now, while your wings are still strong."
+   },
+   "zh-cn": {
+    "name": "白鸽的振翅",
+    "text": "这场表演你的身份是健康的白鸽，快飞吧，趁着翅膀还在。"
+   },
+   "ja": {
+    "name": "ハトの羽ばたき",
+    "text": "このショーで演じるのは「健康なハト」さあ、翼があるうちに飛んでいけ。"
+   },
+   "ko": {
+    "name": "비둘기의 날갯짓",
+    "text": "이 공연에서 당신은 건강한 비둘기다. 얼른 날아라, 날개가 있을 때."
+   },
+   "zh-tw": {
+    "name": "白鴿的振翅",
+    "text": "這場表演你的身份是健康的白鴿，快飛吧，趁著翅膀還在。",
+    "url": "https://everness.info/zh-Hant/items/SkillUpMaterial_01_lv2",
+    "read": "2026-11-23"
+   }
+  },
+  "SkillUpMaterial_01_lv3": {
+   "en": {
+    "name": "The Olive Branch",
+    "text": "The ending of this performance is yours to decide. Will you declare it an ordinary day, or perhaps the opposite?"
+   },
+   "zh-cn": {
+    "name": "「橄榄枝」",
+    "text": "这场表演的结局由你来定，你可以宣布这是平安的一天，或者相反？"
+   },
+   "ja": {
+    "name": "「オリーブの枝」",
+    "text": "この物語の結末を決めるのはあなた。平和な一日で終える？それとも…？"
+   },
+   "ko": {
+    "name": "「올리브 가지」",
+    "text": "이 공연의 결말은 당신이 정한다. 오늘 하루가 평화로웠는가, 아니면 그 반대였는가."
+   },
+   "zh-tw": {
+    "name": "「橄欖枝」",
+    "text": "這場表演的結局由你來定，你可以宣佈這是平安的一天，或者相反？",
+    "url": "https://everness.info/zh-Hant/items/SkillUpMaterial_01_lv3",
+    "read": "2026-11-23"
+   }
+  },
+  "SkillUpMaterial_02_lv1": {
+   "en": {
+    "name": "FNG",
+    "text": "In this performance, you take on the role of a recruit. Start with sentry duty."
+   },
+   "zh-cn": {
+    "name": "新兵的怯懦",
+    "text": "这场表演你的身份是一个新兵，先从站岗开始吧。"
+   },
+   "ja": {
+    "name": "新兵の臆病",
+    "text": "このショーで演じるのは「新兵」まずは見張りから始めよう。"
+   },
+   "ko": {
+    "name": "신병의 두려움",
+    "text": "이 공연에서 당신은 새로 온 병사다. 보초부터 시작한다."
+   },
+   "zh-tw": {
+    "name": "新兵的怯懦",
+    "text": "這場表演你的身份是一個新兵，先從站崗開始吧。",
+    "url": "https://everness.info/zh-Hant/items/SkillUpMaterial_02_lv1",
+    "read": "2026-11-23"
+   }
+  },
+  "SkillUpMaterial_02_lv2": {
+   "en": {
+    "name": "CO",
+    "text": "In this performance, you embody an officer. Please adhere to the code."
+   },
+   "zh-cn": {
+    "name": "尉官的谨慎",
+    "text": "这场表演你的身份是一名尉官，请遵循士兵守则。"
+   },
+   "ja": {
+    "name": "尉官の慎重さ",
+    "text": "このショーで演じるのは「尉官」規則は必ず遵守するように。"
+   },
+   "ko": {
+    "name": "장교의 신중함",
+    "text": "이 공연에서 당신은 장교다. 병사 수칙을 준수하라."
+   },
+   "zh-tw": {
+    "name": "尉官的謹慎",
+    "text": "這場表演你的身份是一名尉官，請遵循士兵守則。",
+    "url": "https://everness.info/zh-Hant/items/SkillUpMaterial_02_lv2",
+    "read": "2026-11-23"
+   }
+  },
+  "SkillUpMaterial_02_lv3": {
+   "en": {
+    "name": "White Rose",
+    "text": "In this performance, you are the General. You will eliminate every white rose in the garden."
+   },
+   "zh-cn": {
+    "name": "「白蔷薇」",
+    "text": "这场表演你的身份是白蔷薇上将，你的职责是消灭花园里的每一朵白蔷薇。"
+   },
+   "ja": {
+    "name": "「白薔薇」",
+    "text": "このショーで演じるのは「白薔薇大将」花畑から白薔薇を1本残さず排除することが求められる。"
+   },
+   "ko": {
+    "name": "「백장미」",
+    "text": "이 공연에서 당신은 백장미 장군이다. 당신의 역할은 정원의 모든 백장미를 제거하는 것."
+   },
+   "zh-tw": {
+    "name": "「白薔薇」",
+    "text": "這場表演你的身份是白薔薇上將，你的職責是消滅花園裡的每一朵白薔薇。",
+    "url": "https://everness.info/zh-Hant/items/SkillUpMaterial_02_lv3",
+    "read": "2026-11-23"
+   }
+  },
+  "SkillUpMaterial_03_lv1": {
+   "en": {
+    "name": "First Expectations",
+    "text": "In this performance, you are assigned the random role of a tourist. Step right up, the box has everything you need."
+   },
+   "zh-cn": {
+    "name": "初次的期许",
+    "text": "这场表演你的随机身份是一名游客，快来吧，盒子里什么都有。"
+   },
+   "ja": {
+    "name": "初めての期待",
+    "text": "このショーで演じるのは「観光客」さあ、いこう。箱の中にはすべてが用意されている。"
+   },
+   "ko": {
+    "name": "첫 번째 기대",
+    "text": "이 공연에서 당신에게 랜덤으로 부여된 신분은 여행객이다. 어서 와, 필요한 건 전부 상자에 있을 거야."
+   },
+   "zh-tw": {
+    "name": "初次的期許",
+    "text": "這場表演你的隨機身份是一名遊客，快來吧，盒子裡什麼都有。",
+    "url": "https://everness.info/zh-Hant/items/SkillUpMaterial_03_lv1",
+    "read": "2026-11-23"
+   }
+  },
+  "SkillUpMaterial_03_lv2": {
+   "en": {
+    "name": "Known Weariness",
+    "text": "In this performance, you are assigned the random role of a frequent visitor. You already know what these empty boxes contain, yet you still reach out your hand."
+   },
+   "zh-cn": {
+    "name": "已知的倦怠",
+    "text": "这场表演你的随机身份是一名常来的游客，你已经知道这些空盒子里都是什么了，但还是伸出了手。"
+   },
+   "ja": {
+    "name": "既知の倦怠",
+    "text": "このショーで演じるのは「観光客」あなたはこれらの箱が空っぽだと知っていながらも、やはり手を伸ばす。"
+   },
+   "ko": {
+    "name": "익숙한 권태",
+    "text": "이 공연에서 당신에게 랜덤으로 부여된 신분은 단골 여행객이다. 이미 상자 안에 무엇이 있는지 알지만 그래도 손을 뻗는다."
+   },
+   "zh-tw": {
+    "name": "已知的倦怠",
+    "text": "這場表演你的隨機身份是一名常來的遊客，你已經知道這些空盒子裡都是什麼了，但還是伸出了手。",
+    "url": "https://everness.info/zh-Hant/items/SkillUpMaterial_03_lv2",
+    "read": "2026-11-23"
+   }
+  },
+  "SkillUpMaterial_03_lv3": {
+   "en": {
+    "name": "Black Hat",
+    "text": "In this performance, you are assigned the role of a gentleman hidden among tourists. Remove your hat, bow gracefully, and pay respects to this wonderful party."
+   },
+   "zh-cn": {
+    "name": "「黑帽子」",
+    "text": "这场表演你的身份是藏在游客中的绅士，摘下帽子，鞠躬致意，敬这场美妙的派对。"
+   },
+   "ja": {
+    "name": "「ブラックハット」",
+    "text": "このショーで演じるのは「観光客に紛れ込んだ紳士」帽子を脱いで一礼し、この素晴らしいパーティーに敬意を表そう。"
+   },
+   "ko": {
+    "name": "「검은 모자」",
+    "text": "이 공연에서 당신은 여행객 사이에 숨은 신사다. 모자를 벗고 허리 굽혀 인사해 아름다운 파티에 경의를 표하자."
+   },
+   "zh-tw": {
+    "name": "「黑帽子」",
+    "text": "這場表演你的身份是藏在遊客中的紳士，摘下帽子，鞠躬致意，敬這場美妙的派對。",
+    "url": "https://everness.info/zh-Hant/items/SkillUpMaterial_03_lv3",
+    "read": "2026-11-23"
+   }
+  },
+  "SkillUpMaterial_04_lv1": {
+   "en": {
+    "name": "Synchronicity of Thought",
+    "text": "In this performance, you are assigned the role of a participant. The card before you is the 3 of Hearts… Sorry, you guessed wrong."
+   },
+   "zh-cn": {
+    "name": "思维的同频",
+    "text": "这场表演你的身份是参与者，面前这张牌是红心3……很抱歉，你猜错了。"
+   },
+   "ja": {
+    "name": "思考の同調",
+    "text": "このショーで演じるのは「参加者」目の前に置かれたカードはハートの3…残念ながら、不正解だ。"
+   },
+   "ko": {
+    "name": "사유의 동기화",
+    "text": "이 공연에서 당신은 참가자다. 앞에 있는 카드는 하트3… 아쉽지만, 틀렸습니다."
+   },
+   "zh-tw": {
+    "name": "思維的同頻",
+    "text": "這場表演你的身份是參與者，面前這張牌是紅心3……很抱歉，你猜錯了。",
+    "url": "https://everness.info/zh-Hant/items/SkillUpMaterial_04_lv1",
+    "read": "2026-11-23"
+   }
+  },
+  "SkillUpMaterial_04_lv2": {
+   "en": {
+    "name": "Resonance of Faith",
+    "text": "In this performance, you are assigned the role of a participant. The card before you is the 3 of Hearts… Congratulations, you guessed correctly."
+   },
+   "zh-cn": {
+    "name": "信仰的共鸣",
+    "text": "这场表演你的身份是参与者，面前这张牌是红心3……恭喜，你猜对了。"
+   },
+   "ja": {
+    "name": "信仰の共鳴",
+    "text": "このショーで演じるのは「参加者」目の前に置かれたカードはハートの3…お見事、正解だ。"
+   },
+   "ko": {
+    "name": "믿음의 공명",
+    "text": "이 공연에서 당신은 참가자다. 앞에 있는 카드는 하트3… 축하합니다, 맞추셨네요."
+   },
+   "zh-tw": {
+    "name": "信仰的共鳴",
+    "text": "這場表演你的身份是參與者，面前這張牌是紅心3……恭喜，你猜對了。",
+    "url": "https://everness.info/zh-Hant/items/SkillUpMaterial_04_lv2",
+    "read": "2026-11-23"
+   }
+  },
+  "SkillUpMaterial_04_lv3": {
+   "en": {
+    "name": "Heart-Racing Night",
+    "text": "In this performance, you are assigned the role of the dealer. The card before you is either the 3 of Hearts or all cards."
+   },
+   "zh-cn": {
+    "name": "「心跳夜」",
+    "text": "这场表演你的身份是庄家，面前那张牌是红心3或者所有牌。"
+   },
+   "ja": {
+    "name": "「ドキドキナイト」",
+    "text": "このショーで演じるのは「胴元」目の前のカードはハートの3か、あるいはあらゆるカードだ。"
+   },
+   "ko": {
+    "name": "「두근대는 밤」",
+    "text": "이 공연에서 당신은 딜러다. 앞에 있는 카드는 하트3이거나 그 외의 모든 카드다."
+   },
+   "zh-tw": {
+    "name": "「心跳夜」",
+    "text": "這場表演你的身份是莊家，面前那張牌是紅心3或者所有牌。",
+    "url": "https://everness.info/zh-Hant/items/SkillUpMaterial_04_lv3",
+    "read": "2026-11-23"
+   }
+  },
+  "SkillUpMaterial_05_lv1": {
+   "en": {
+    "name": "Hesitation of the Waves",
+    "text": "In this performance, you are assigned the role of an innocent spectator, a provider of shackles, and a future murderer."
+   },
+   "zh-cn": {
+    "name": "水波的迟疑",
+    "text": "这场表演你的身份是无辜的观众，是镣铐的提供者，是未来的凶手。"
+   },
+   "ja": {
+    "name": "水波の躊躇",
+    "text": "このショーで演じるのは「無実の観客」手錠を提供する者であり、未来の殺人鬼だ。"
+   },
+   "ko": {
+    "name": "물결의 망설임",
+    "text": "이 공연에서 당신은 무고한 관중이자 족쇄의 제공자이며 미래의 흑막이다."
+   },
+   "zh-tw": {
+    "name": "水波的遲疑",
+    "text": "這場表演你的身份是無辜的觀眾，是鐐銬的提供者，是未來的兇手。",
+    "url": "https://everness.info/zh-Hant/items/SkillUpMaterial_05_lv1",
+    "read": "2026-11-23"
+   }
+  },
+  "SkillUpMaterial_05_lv2": {
+   "en": {
+    "name": "Suspended Whispers",
+    "text": "In this performance, you are assigned the role of a blind follower. Together, you all hold your breath, attempting to hear the sound of a latch from the silent water."
+   },
+   "zh-cn": {
+    "name": "倒悬的轻响",
+    "text": "这场表演你的身份是盲从者，你们一起屏息，试图从无声的水中听到锁舌的声音。"
+   },
+   "ja": {
+    "name": "逆さづりの響き",
+    "text": "このショーで演じるのは「盲信者」みんなで息を潜め、無音の水の中で錠前の音を聞き取ろうとする。"
+   },
+   "ko": {
+    "name": "떠도는 속삭임",
+    "text": "이 공연에서 당신은 맹목적인 추종자다. 모두 숨을 죽이고 물속의 자물쇠 소리를 들으려 애쓴다."
+   },
+   "zh-tw": {
+    "name": "倒懸的輕響",
+    "text": "這場表演你的身份是盲從者，你們一起屏息，試圖從無聲的水中聽到鎖舌的聲音。",
+    "url": "https://everness.info/zh-Hant/items/SkillUpMaterial_05_lv2",
+    "read": "2026-11-23"
+   }
+  },
+  "SkillUpMaterial_05_lv3": {
+   "en": {
+    "name": "The Second Self",
+    "text": "In this performance, you will die and become your second self."
+   },
+   "zh-cn": {
+    "name": "「第二人」",
+    "text": "这场表演中你将死去，然后成为第二个你。"
+   },
+   "ja": {
+    "name": "「二人目の人」",
+    "text": "このショーであなたは一度死に、そして「第二のあなた」へと生まれ変わる。"
+   },
+   "ko": {
+    "name": "「제2의 자아」",
+    "text": "이 공연에서 당신은 죽을 것이다. 그리고 새로운 모습으로 다시 태어날 것이다."
+   },
+   "zh-tw": {
+    "name": "「第二人」",
+    "text": "這場表演中你將死去，然後成為第二個你。",
+    "url": "https://everness.info/zh-Hant/items/SkillUpMaterial_05_lv3",
+    "read": "2026-11-23"
+   }
+  },
+  "weeklycloneboss_a01_01": {
+   "en": {
+    "name": "Good Boy Stamp",
+    "text": "Registered! Fluffy Boss added to the Oddidex!"
+   },
+   "zh-cn": {
+    "name": "好狗狗印章",
+    "text": "盖满！毛茸茸头目的驯养图鉴~"
+   },
+   "ja": {
+    "name": "ワンワンスタンプ",
+    "text": "圧倒的！手なずけられたモフモフのボスの図鑑"
+   },
+   "ko": {
+    "name": "착한 강아지 도장",
+    "text": "도장 다 모았다! 털북숭이 보스의 길들이기 도감~"
+   },
+   "zh-tw": {
+    "name": "好狗狗印章",
+    "text": "蓋滿！毛茸茸頭目的馴養圖鑑~",
+    "url": "https://everness.info/zh-Hant/items/weeklycloneboss_a01_01",
+    "read": "2026-11-23"
+   }
+  },
+  "weeklycloneboss_a02_01": {
+   "en": {
+    "name": "Dress Hem of Vanity",
+    "text": "Arachne's dress hem spins around the dance floor, round and round, blooming into flowers that never cease."
+   },
+   "zh-cn": {
+    "name": "名为炫耀的裙袂",
+    "text": "阿拉克涅的裙摆在舞池里转动着，一圈又一圈，开出永不停歇的鲜花。"
+   },
+   "ja": {
+    "name": "誇らしげな裳裾",
+    "text": "アラクネのスカートがダンスホールでクルクルと回り続け、永遠に咲き続ける花を咲かせる。"
+   },
+   "ko": {
+    "name": "휘날리는 드레스 자락",
+    "text": "아라크네의 치맛자락이 무도회장에서 빙글빙글 돌며 끝없이 꽃을 피워내고 있다."
+   },
+   "zh-tw": {
+    "name": "名為炫耀的裙擺",
+    "text": "阿拉克涅的裙擺在舞池裡轉動著，一圈又一圈，開出永不停歇的鮮花。",
+    "url": "https://everness.info/zh-Hant/items/weeklycloneboss_a02_01",
+    "read": "2026-11-23"
+   }
+  },
+  "weeklycloneboss_a03_01": {
+   "en": {
+    "name": "Eternal Memory",
+    "text": "If life can be measured, what value does it still hold?"
+   },
+   "zh-cn": {
+    "name": "记忆的永恒",
+    "text": "当生命变得可以衡量，它又将价值几何？"
+   },
+   "ja": {
+    "name": "記憶の固執",
+    "text": "命が測れるようになった時、それにはどれほどの価値があるのだろうか？"
+   },
+   "ko": {
+    "name": "기억의 영속성",
+    "text": "생명이 측정 가능해진다면, 그 가치는 과연 얼마나 될까?"
+   },
+   "zh-tw": {
+    "name": "記憶的永恆",
+    "text": "當生命變得可以衡量，它又將價值多少？",
+    "url": "https://everness.info/zh-Hant/items/weeklycloneboss_a03_01",
+    "read": "2026-11-23"
+   }
+  },
+  "weeklycloneboss_a04_01": {
+   "en": {
+    "name": "Hollowflower Seeds",
+    "text": "How could a shriveled seed ever sprout?"
+   },
+   "zh-cn": {
+    "name": "空心花籽",
+    "text": "干瘪的种子又要如何发芽？"
+   },
+   "ja": {
+    "name": "ココロのタネ",
+    "text": "萎びた種は、一体どうやって芽を出すのだろうか？"
+   },
+   "ko": {
+    "name": "속 빈 꽃씨",
+    "text": "말라비틀어진 씨앗은 어떻게 다시 싹을 틔울 수 있을까?"
+   },
+   "zh-tw": {
+    "name": "空心花籽",
+    "text": "乾扁的種子又要如何發芽？",
+    "url": "https://everness.info/zh-Hant/items/weeklycloneboss_a04_01",
+    "read": "2026-11-23"
+   }
+  },
+  "WeaponBreakMaterial_01_lv1": {
+   "en": {
+    "name": "Iron Appleseed",
+    "text": "A masterfully crafted replica, which even mimics the slow decay of a real appleseed."
+   },
+   "zh-cn": {
+    "name": "铁制苹果核",
+    "text": "一件技艺精湛的复刻品，它甚至也会像真的苹果核一样，缓慢腐朽。"
+   },
+   "ja": {
+    "name": "鉄リンゴの芯",
+    "text": "精巧な技術で作られたレプリカ。そのリアルさは、本物のリンゴ同様に次第に腐敗していくほどだ。"
+   },
+   "ko": {
+    "name": "철 사과씨",
+    "text": "섬세하게 만들어진 복제품. 심지어 진짜 사과씨처럼 서서히 부패한다."
+   },
+   "zh-tw": {
+    "name": "鐵製蘋果核",
+    "text": "一件技藝精湛的復刻品，它甚至也會像真的蘋果核一樣，緩慢腐朽。",
+    "url": "https://everness.info/zh-Hant/items/WeaponBreakMaterial_01_lv1",
+    "read": "2026-11-23"
+   }
+  },
+  "WeaponBreakMaterial_01_lv2": {
+   "en": {
+    "name": "Silver Appleseed",
+    "text": "An almost perfect creation, with even the wormholes in the appleseed looking incredibly lifelike."
+   },
+   "zh-cn": {
+    "name": "银质苹果核",
+    "text": "一件近乎完美的制品，连苹果核上的虫洞都栩栩如生。"
+   },
+   "ja": {
+    "name": "銀リンゴの芯",
+    "text": "完璧に近い一品。芯にある虫食い穴さえ、本物そっくりに再現されている。"
+   },
+   "ko": {
+    "name": "은 사과씨",
+    "text": "완벽에 가까운 제품. 사과 속 벌레 먹은 구멍까지 생생하게 재현되어 있다."
+   },
+   "zh-tw": {
+    "name": "銀質蘋果核",
+    "text": "一件近乎完美的製品，連蘋果核上的蟲洞都栩栩如生。",
+    "url": "https://everness.info/zh-Hant/items/WeaponBreakMaterial_01_lv2",
+    "read": "2026-11-23"
+   }
+  },
+  "WeaponBreakMaterial_01_lv3": {
+   "en": {
+    "name": "Golden Appleseed",
+    "text": "A true masterpiece, now gleaming with golden brilliance, enough to spark envy and conflict."
+   },
+   "zh-cn": {
+    "name": "金色苹果核",
+    "text": "一件杰作，现在它金光灿灿，足以引起纷争。"
+   },
+   "ja": {
+    "name": "金リンゴの芯",
+    "text": "正真正銘の傑作。その黄金の輝きは、新たな争いの引き金となるだろう。"
+   },
+   "ko": {
+    "name": "금 사과씨",
+    "text": "걸작. 지금도 반짝이는 저 황금빛은 충분히 갈등을 불러일으킬 만하다."
+   },
+   "zh-tw": {
+    "name": "金色蘋果核",
+    "text": "一件傑作，現在它金光燦燦，足以引起紛爭。",
+    "url": "https://everness.info/zh-Hant/items/WeaponBreakMaterial_01_lv3",
+    "read": "2026-11-23"
+   }
+  },
+  "WeaponBreakMaterial_02_lv1": {
+   "en": {
+    "name": "Beaty",
+    "text": "Erratic notes from a child's xylophone, marking a great exploration of a new world."
+   },
+   "zh-cn": {
+    "name": "螺旋乐碎屑",
+    "text": "错落无法成节的音符，稚嫩的手落在小木琴上，是对新世界的一次伟大探索。"
+   },
+   "ja": {
+    "name": "渦音符の欠片",
+    "text": "旋律を成さない、散らばった音の粒。幼い手が小さな木琴を叩く。それは、新世界への偉大なる航路の始まりだ。"
+   },
+   "ko": {
+    "name": "나선형 선율 조각",
+    "text": "들쑥날쑥 곡조를 이루지 못한 음표들과 서툰 손이 실로폰을 어루만지며 어색한 울림을 만들어냈다. 이는 새로운 세상을 향한 위대한 탐험이다."
+   },
+   "zh-tw": {
+    "name": "螺旋樂碎屑",
+    "text": "錯落無法成節的音符，稚嫩的手落在小木琴上，是對新世界的一次偉大探索。",
+    "url": "https://everness.info/zh-Hant/items/WeaponBreakMaterial_02_lv1",
+    "read": "2026-11-23"
+   }
+  },
+  "WeaponBreakMaterial_02_lv2": {
+   "en": {
+    "name": "Versey",
+    "text": "Unnamed music, like innocent emotions—indescribable but sincere."
+   },
+   "zh-cn": {
+    "name": "螺旋乐小节",
+    "text": "一小节没有名字的音乐，一如那懵懂的情感，描述不清却足够真挚。"
+   },
+   "ja": {
+    "name": "渦音符の小節",
+    "text": "名もなき音節の一小節。捉えどころのない描写だが、芽生えたばかりの感情のように真心がこもっている。"
+   },
+   "ko": {
+    "name": "나선형 선율 소절",
+    "text": "이름 없는 음악 한 소절. 어리숙한 감정처럼 서툴면서도 진실되었다."
+   },
+   "zh-tw": {
+    "name": "螺旋樂小節",
+    "text": "一小節沒有名字的音樂，一如那懵懂的情感，描述不清卻足夠真摯。",
+    "url": "https://everness.info/zh-Hant/items/WeaponBreakMaterial_02_lv2",
+    "read": "2026-11-23"
+   }
+  },
+  "WeaponBreakMaterial_02_lv3": {
+   "en": {
+    "name": "Harmony",
+    "text": "A dynamic symphony. Wave the baton and let the performance begin!"
+   },
+   "zh-cn": {
+    "name": "螺旋乐齐奏",
+    "text": "一曲或高昂或平淡的交响乐，现在指挥棒就在手中，挥动，演出开始！"
+   },
+   "ja": {
+    "name": "渦音符の合奏",
+    "text": "時に激しく、時に優しい交響曲。指揮棒は今、あなたの手の中に。振り下ろせば、音楽の始まりだ！"
+   },
+   "ko": {
+    "name": "나선형 선율 합주",
+    "text": "다이내믹한 교향곡. 지휘봉이 손안에! 지휘봉을 휘두르는 즉시 공연이 시작된다!"
+   },
+   "zh-tw": {
+    "name": "螺旋樂齊奏",
+    "text": "一曲或高昂或平淡的交響樂，現在指揮棒就在手中，揮動，演出開始！",
+    "url": "https://everness.info/zh-Hant/items/WeaponBreakMaterial_02_lv3",
+    "read": "2026-11-23"
+   }
+  },
+  "WeaponBreakMaterial_03_lv1": {
+   "en": {
+    "name": "Liquid Dream Trial Kit",
+    "text": "Trial versions always work better than the official release. It's common knowledge."
+   },
+   "zh-cn": {
+    "name": "液态梦试用装",
+    "text": "试用装总是比正装好使，这是常识。"
+   },
+   "ja": {
+    "name": "リキッドドリーム-サンプル",
+    "text": "正規品よりサンプルのほうが使える。常識だよ。"
+   },
+   "ko": {
+    "name": "리퀴드 드림 샘플 키트",
+    "text": "샘플 키트가 본품보다 좋다는 건 상식 아닌가요?"
+   },
+   "zh-tw": {
+    "name": "液態夢試用包",
+    "text": "試用品總是比正品好用，這是常識。",
+    "url": "https://everness.info/zh-Hant/items/WeaponBreakMaterial_03_lv1",
+    "read": "2026-11-23"
+   }
+  },
+  "WeaponBreakMaterial_03_lv2": {
+   "en": {
+    "name": "Liquid Dream Travel Kit",
+    "text": "It's lightweight and easy to carry, which is a plus. Be sure to cut open the packaging and scrape it clean."
+   },
+   "zh-cn": {
+    "name": "液态梦旅行装",
+    "text": "至少便于携带是它的优点，记得把包装拆开刮刮干净。"
+   },
+   "ja": {
+    "name": "リキッドドリーム-トラベルセット",
+    "text": "少なくとも、こいつは持ち運びやすい。使い終わったら、パッケージを開いて、中身を全部こそげとってから捨ててくれ。"
+   },
+   "ko": {
+    "name": "리퀴드 드림 여행 키트",
+    "text": "휴대가 간편하다는 게 장점이다. 포장을 뜯어 깨끗이 긁어 쓰는 것도 잊지 말자."
+   },
+   "zh-tw": {
+    "name": "液態夢旅行組",
+    "text": "至少便於攜帶是它的優點，記得把包裝拆開刮乾淨。",
+    "url": "https://everness.info/zh-Hant/items/WeaponBreakMaterial_03_lv2",
+    "read": "2026-11-23"
+   }
+  },
+  "WeaponBreakMaterial_03_lv3": {
+   "en": {
+    "name": "Liquid Dream Can",
+    "text": "I take back what I said before—the official version is truly perfect!"
+   },
+   "zh-cn": {
+    "name": "罐装液态梦",
+    "text": "请允许我收回前言，正装——才是最完美的！"
+   },
+   "ja": {
+    "name": "リキッドドリーム-缶入り",
+    "text": "前言撤回。正規品こそが至高だ！"
+   },
+   "ko": {
+    "name": "리퀴드 드림 캔",
+    "text": "방금 한 말 취소, 정품이 최고다!"
+   },
+   "zh-tw": {
+    "name": "罐裝液態夢",
+    "text": "請允許我收回前言，正品——才是最完美的！",
+    "url": "https://everness.info/zh-Hant/items/WeaponBreakMaterial_03_lv3",
+    "read": "2026-11-23"
+   }
+  },
+  "WeaponBreakMaterial_04_lv1": {
+   "en": {
+    "name": "Flavorless Cold Dessert",
+    "text": "A partially melted ice cream with loose thread scraps as decoration—courtesy of a stingy owner."
+   },
+   "zh-cn": {
+    "name": "无味冷点心",
+    "text": "已经有些融化的冰淇淋，吝啬的老板竟然用线头做装饰品。"
+   },
+   "ja": {
+    "name": "冷たいデザート（無味）",
+    "text": "すでに溶けかけているアイスクリーム。ケチな店主がなんと糸くずで飾りを作っていた。"
+   },
+   "ko": {
+    "name": "무미 냉디저트",
+    "text": "이미 조금 녹은 아이스크림. 짠돌이 사장님이 실타래로 장식했다."
+   },
+   "zh-tw": {
+    "name": "無味冷點心",
+    "text": "已經有些融化的冰淇淋，吝嗇的老闆竟然用線頭做裝飾品。",
+    "url": "https://everness.info/zh-Hant/items/WeaponBreakMaterial_04_lv1",
+    "read": "2026-11-23"
+   }
+  },
+  "WeaponBreakMaterial_04_lv2": {
+   "en": {
+    "name": "Plain Cold Dessert",
+    "text": "A classic vanilla ice cream with a taste that hasn't changed for decades, complete with the signature loose thread scraps decorations."
+   },
+   "zh-cn": {
+    "name": "原味冷点心",
+    "text": "经典款香草味冰淇淋，有着几十年如一日的不变口感和线头装饰品。"
+   },
+   "ja": {
+    "name": "冷たいデザート（オリジナル）",
+    "text": "定番のバニラアイスクリーム。いつまで経っても変わらない風味と、糸くずで作られた飾りが特徴。"
+   },
+   "ko": {
+    "name": "오리지널 냉디저트",
+    "text": "클래식 바닐라 아이스크림. 수십 년 동안 변함없는 맛과 실타래 장식이 특징이다."
+   },
+   "zh-tw": {
+    "name": "原味冷點心",
+    "text": "經典款香草味冰淇淋，有著幾十年如一日的不變口感和線頭裝飾品。",
+    "url": "https://everness.info/zh-Hant/items/WeaponBreakMaterial_04_lv2",
+    "read": "2026-11-23"
+   }
+  },
+  "WeaponBreakMaterial_04_lv3": {
+   "en": {
+    "name": "Special Cold Dessert",
+    "text": "A custom limited-edition ice cream that keeps the signature decorations while apparently adding special ingredients to enhance the flavor."
+   },
+   "zh-cn": {
+    "name": "特制冷点心",
+    "text": "私人订制限定款冰淇淋，保留装饰品的同时，似乎添加了一些特殊材料来丰富口感。"
+   },
+   "ja": {
+    "name": "冷たいデザート（特製）",
+    "text": "オーダーメイドの限定版アイスクリーム。飾りはそのままだが、どうやら特別な素材を加えたおかげで、味わいが豊かになっている。"
+   },
+   "ko": {
+    "name": "스페셜 냉디저트",
+    "text": "한정판 맞춤 아이스크림. 장식은 그대로지만 특별한 재료를 첨가해 맛이 한층 더 깊어졌다."
+   },
+   "zh-tw": {
+    "name": "特製冷點心",
+    "text": "私人訂製限定款冰淇淋，保留裝飾品的同時，似乎添加了一些特殊材料來豐富口感。",
+    "url": "https://everness.info/zh-Hant/items/WeaponBreakMaterial_04_lv3",
+    "read": "2026-11-23"
+   }
+  },
+  "WeaponBreakMaterial_05_lv1": {
+   "en": {
+    "name": "Beginner Drama Core",
+    "text": "This has to be the worst theatrical performance possible—you've fallen asleep before the poorly made-up actors could even speak their first lines."
+   },
+   "zh-cn": {
+    "name": "入门级戏剧芯",
+    "text": "这真是一场不能更糟糕的戏剧表演，在妆造劣质的演员开口前，你已经陷入了昏睡。"
+   },
+   "ja": {
+    "name": "シアターチップ（入門）",
+    "text": "これ以上ひどい舞台はない。粗末なメイクと衣装で着飾った役者が口を開く前に、あなたはすでに眠りに落ちている。"
+   },
+   "ko": {
+    "name": "입문자 드라마 코어",
+    "text": "이보다 나빠질 수 없는 끔찍한 연극 공연. 어설프게 메이크업을 한 배우가 입을 열기도 전에, 이미 잠들고 말았다."
+   },
+   "zh-tw": {
+    "name": "入門級戲劇芯",
+    "text": "這真是一場不能更糟糕的戲劇表演，在妝髮造型劣質的演員開口前，你已經陷入了昏睡。",
+    "url": "https://everness.info/zh-Hant/items/WeaponBreakMaterial_05_lv1",
+    "read": "2026-11-23"
+   }
+  },
+  "WeaponBreakMaterial_05_lv2": {
+   "en": {
+    "name": "Master Drama Core",
+    "text": "After appreciating countless theatrical performances, you've become a qualified Drama Master. That's it."
+   },
+   "zh-cn": {
+    "name": "大师级戏剧芯",
+    "text": "在欣赏过众多的戏剧之后，你成为一名合格的戏剧大师，就这样。"
+   },
+   "ja": {
+    "name": "シアターチップ（マスター）",
+    "text": "たくさんの舞台を鑑賞した後、あなたは立派な舞台マスターになった。そんな感じ。"
+   },
+   "ko": {
+    "name": "마스터 드라마 코어",
+    "text": "수많은 연극을 감상한 후, 연극의 마스터가 되었다. 그게 전부다."
+   },
+   "zh-tw": {
+    "name": "大師級戲劇芯",
+    "text": "在欣賞過眾多的戲劇之後，你成為一名合格的戲劇大師，就這樣。",
+    "url": "https://everness.info/zh-Hant/items/WeaponBreakMaterial_05_lv2",
+    "read": "2026-11-23"
+   }
+  },
+  "WeaponBreakMaterial_05_lv3": {
+   "en": {
+    "name": "Collector's Drama Core",
+    "text": "Seated in the prime viewing area, you now gracefully applaud every performance—even when an actor has just flubbed their lines."
+   },
+   "zh-cn": {
+    "name": "典藏级戏剧芯",
+    "text": "坐在最佳观影区的你，已经可以优雅地为每一场戏剧鼓掌，哪怕那位演员刚刚忘词。"
+   },
+   "ja": {
+    "name": "シアターチップ（コレクター）",
+    "text": "SS席に座っているあなたは、どんな舞台にも優雅に拍手を送ることができる。たとえ、役者がセリフをド忘れしたとしても。"
+   },
+   "ko": {
+    "name": "콜렉터 드라마 코어",
+    "text": "최고의 관람석에 앉은 당신은 우아한 자태로 모든 연극에 박수를 보낼 수 있게 됐다. 설령 배우가 대사를 잊었더라도."
+   },
+   "zh-tw": {
+    "name": "典藏級戲劇芯",
+    "text": "坐在最佳觀影區的你，已經可以優雅地為每一場戲劇鼓掌，哪怕那位演員剛剛忘詞。",
+    "url": "https://everness.info/zh-Hant/items/WeaponBreakMaterial_05_lv3",
+    "read": "2026-11-23"
+   }
+  },
+  "WeaponUpMaterial_lv1": {
+   "en": {
+    "name": "Light Dye",
+    "text": "A diluted arc dye for daily maintenance, using a precise ratio of water and ingredients. Works better than just water, at least."
+   },
+   "zh-cn": {
+    "name": "淡色染剂",
+    "text": "稀释过后的弧盘染剂，可满足弧盘的日常保养需求，极其精妙的水和原料配比，至少比水有用。"
+   },
+   "ja": {
+    "name": "パステルカラーの染色剤",
+    "text": "希釈済みの弧盤染料。日常的な手入れならこれで十分だ。水と原液がバランスよく配合されている。少なくとも水だけよりは使いやすいだろう。"
+   },
+   "ko": {
+    "name": "연한 염료",
+    "text": "희석된 아크 염료. 아크의 기본적인 관리는 이걸로 충분하다. 물과 원료의 비율이 적절해 적어도 물보다는 쓸 만하다."
+   },
+   "zh-tw": {
+    "name": "淡色染劑",
+    "text": "稀釋過後的弧盤染劑，可滿足弧盤的日常保養需求，極其精妙的水和原料比例，至少比水有用。",
+    "url": "https://everness.info/zh-Hant/items/WeaponUpMaterial_lv1",
+    "read": "2026-11-23"
+   }
+  },
+  "WeaponUpMaterial_lv2": {
+   "en": {
+    "name": "Colorless Dye",
+    "text": "A classic arc dye which revitalizes your arc with its secret formula."
+   },
+   "zh-cn": {
+    "name": "无彩染剂",
+    "text": "经典款的弧盘染剂，让您的弧盘焕然一新，畅销多年的秘密在于从不公开畅销的秘密。"
+   },
+   "ja": {
+    "name": "色なしの染色剤",
+    "text": "定番の弧盤染料。弧盤をピカピカにしてくれる。長年不動のベストセラーたる秘密は、その秘密を決して公表しないこと。"
+   },
+   "ko": {
+    "name": "무채색 염료",
+    "text": "클래식한 아크 염료. 당신의 아크를 새것처럼 바꿔준다. 오랫동안 베스트셀러일 수 있는 비밀은 그 비밀을 절대 공개하지 않는 것이다."
+   },
+   "zh-tw": {
+    "name": "無彩染劑",
+    "text": "經典款的弧盤染劑，讓您的弧盤煥然一新，暢銷多年的秘密在於從不公開暢銷的秘密。",
+    "url": "https://everness.info/zh-Hant/items/WeaponUpMaterial_lv2",
+    "read": "2026-11-23"
+   }
+  },
+  "WeaponUpMaterial_lv3": {
+   "en": {
+    "name": "Chaotic Dye",
+    "text": "A special arc dye. Enhances arc performance quickly without side effects, except for the high price."
+   },
+   "zh-cn": {
+    "name": "混沌染剂",
+    "text": "添加了某种特殊物质的弧盘染剂，能快速提升弧盘性能且无副作用，如果价格昂贵不算副作用的话。"
+   },
+   "ja": {
+    "name": "カオスな染色剤",
+    "text": "とある特殊な物質を原料に加えた弧盤染料。弧盤の性能を引き上げられるのに、副作用もない。その高価な値段が、副作用に入らなければの話だが。"
+   },
+   "ko": {
+    "name": "혼돈 염료",
+    "text": "어떤 특수 물질이 첨가된 아크 염료. 아크 성능을 빠르게 향상시키며 부작용도 없다. 가격이 비싼 게 부작용이 아니라면 말이다."
+   },
+   "zh-tw": {
+    "name": "混沌染劑",
+    "text": "添加了某種特殊物質的弧盤染劑，能快速提升弧盤性能且無副作用，如果價格昂貴不算副作用的話。",
+    "url": "https://everness.info/zh-Hant/items/WeaponUpMaterial_lv3",
+    "read": "2026-11-23"
+   }
+  },
+  "EquipmentUpMaterial_lv1": {
+   "en": {
+    "name": "Manhole Thug",
+    "text": "\"Take me along? Sure, why not—it's not like I have anything better to do.\""
+   },
+   "zh-cn": {
+    "name": "井小屑",
+    "text": "「带上我？也行吧，反正本屑不差这点屑。」"
+   },
+   "ja": {
+    "name": "ウサゲス-普通",
+    "text": "「僕を連れてくの？それもいいかも。どうせ僕なんて、いてもいなくても一緒だしね」"
+   },
+   "ko": {
+    "name": "맨홀 갱스터",
+    "text": "「날 데려가는 거야? 뭐 상관없지. 어차피 나 같은 건 있으나 마나니까.」"
+   },
+   "zh-tw": {
+    "name": "井小屑",
+    "text": "「帶上我？也行吧，反正本屑不差這點屑。」",
+    "url": "https://everness.info/zh-Hant/items/EquipmentUpMaterial_lv1",
+    "read": "2026-11-23"
+   }
+  },
+  "EquipmentUpMaterial_lv2": {
+   "en": {
+    "name": "Manhole Crook",
+    "text": "\"Tsk, that's pushing it.\""
+   },
+   "zh-cn": {
+    "name": "井屑达人",
+    "text": "「啧，太勉强了吧。」"
+   },
+   "ja": {
+    "name": "ウサゲス-希少",
+    "text": "「チェッ、強引だなぁ」"
+   },
+   "ko": {
+    "name": "맨홀 마스터",
+    "text": "「쳇, 너무 억지 아니야?」"
+   },
+   "zh-tw": {
+    "name": "井屑達人",
+    "text": "「嘖，太勉強了吧。」",
+    "url": "https://everness.info/zh-Hant/items/EquipmentUpMaterial_lv2",
+    "read": "2026-11-23"
+   }
+  },
+  "EquipmentUpMaterial_lv3": {
+   "en": {
+    "name": "Manhole Boss",
+    "text": "\"Above all trash, I am the lord of this manhole.\""
+   },
+   "zh-cn": {
+    "name": "超屑井主",
+    "text": "「屑之上，我即井主。」"
+   },
+   "ja": {
+    "name": "ウサゲス-伝説",
+    "text": "「ゲス笑いを極めし者。そう、我こそはウサゲス」"
+   },
+   "ko": {
+    "name": "맨홀 보스",
+    "text": "「하찮은 것들 사이에선, 내가 보스다.」"
+   },
+   "zh-tw": {
+    "name": "超屑井主",
+    "text": "「屑之上，我即井主。」",
+    "url": "https://everness.info/zh-Hant/items/EquipmentUpMaterial_lv3",
+    "read": "2026-11-23"
+   }
+  },
+  "Common_material_01": {
+   "en": {
+    "name": "Expansion Core",
+    "text": "A compact and portable material supplement pack, suitable for various situations and custom-made for Anomaly Hunters."
+   },
+   "zh-cn": {
+    "name": "扩容核心",
+    "text": "小巧便携的随身材料补充装，适用于多种情况，为各位异象猎人量身打造。"
+   },
+   "ja": {
+    "name": "拡張コア",
+    "text": "コンパクトで持ち運びに便利な携帯用素材補充パック。様々な状況に対応し、異象ハンターのために作られた。"
+   },
+   "ko": {
+    "name": "확장 코어",
+    "text": "작고 휴대하기 편한 휴대용 재료 보충팩. 다양한 상황에서 활용 가능하여, 이상 헌터들이 쓰기에 매우 적합하다."
+   },
+   "zh-tw": {
+    "name": "擴容核心",
+    "text": "小巧便攜的隨身材料補充裝，適用於多種情況，為各位異象獵人量身打造。",
+    "url": "https://everness.info/zh-Hant/items/Common_material_01",
+    "read": "2026-11-23"
+   }
+  },
+  "Common_material_02": {
+   "en": {
+    "name": "Heterogeneous Unit",
+    "text": "A substance with highly unstable special properties. You never know what it will become the next time you view it."
+   },
+   "zh-cn": {
+    "name": "异构单元",
+    "text": "一种具有特殊的高度不稳定性的物质，你永远不知道下一次查看它时它会变成什么。"
+   },
+   "ja": {
+    "name": "異性体ユニット",
+    "text": "非常に不安定な性質を持つ特殊な物質。次に確認した時、何に変わっているかは誰にも分からない。"
+   },
+   "ko": {
+    "name": "이성질 유닛",
+    "text": "높은 불안정성을 띤 특수 물질. 다음엔 어떤 모습으로 변할지는 아무도 모른다."
+   },
+   "zh-tw": {
+    "name": "異構單元",
+    "text": "一種具有特殊的高度不穩定性的物質，你永遠不知道下一次查看它時它會變成什麼。",
+    "url": "https://everness.info/zh-Hant/items/Common_material_02",
+    "read": "2026-11-23"
+   }
+  },
+  "CityAbility_UpMaterial": {
+   "en": {
+    "name": "Dreamless Seed",
+    "text": "\"Plant a thousand seeds in a thousand fever dreams.\""
+   },
+   "zh-cn": {
+    "name": "无梦果核",
+    "text": "「在一千个斑斓梦境中，种下一千枚种子。」"
+   },
+   "ja": {
+    "name": "夢なき果核",
+    "text": "「千のカラードリームに、千の種を蒔きましょう」"
+   },
+   "ko": {
+    "name": "꿈 없는 씨앗",
+    "text": "「천 가지 꿈속에 천 개의 씨앗을 심는다.」"
+   },
+   "zh-tw": {
+    "name": "無夢果核",
+    "text": "「在一千個斑斕夢境中，種下一千枚種子。」",
+    "url": "https://everness.info/zh-Hant/items/CityAbility_UpMaterial",
+    "read": "2026-11-23"
+   }
+  }
+ }
+}

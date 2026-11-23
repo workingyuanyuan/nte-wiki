@@ -55,6 +55,8 @@ sources:
     url: https://static.nanoka.cc/nte/1.5.4/ja/character/1019.json
   - title: nanoka.cc game data 1.5.4, character file in Korean
     url: https://static.nanoka.cc/nte/1.5.4/ko/character/1019.json
+  - title: 'Everness, outfit pages in Traditional Chinese (example: 海鹽金平糖, read 2026-11-23)'
+    url: https://everness.info/zh-Hant/cosmetics/Fashion_1019_swimsuit
 ---
 
 ![Mint, official character art: a girl with long teal hair and cat ears in a white blouse and a black corset](/art/characters/mint.webp)
@@ -68,6 +70,7 @@ sources:
 | Arc type | Liquid |
 | Joined | Version 1.0 |
 | Voice actors | Chinese: 陈雨; English: Brianna Knickerbocker; Japanese: 鬼頭明里; Korean: 성예원 |
+| Archive | [Mint archive](/characters/mint/archive/) |
 
 The official profile calls Mint a rising star of the Bureau's Containment Strike Unit 2 (CSU-2) who knows everyone in the neighbourhood and every cheap place to eat in the city.
 
@@ -128,10 +131,10 @@ Each duplicate unlocks one Awakening of the player's choice; Resonances unlock a
 
 ## Outfits
 
-| Outfit | How to get |
-| --- | --- |
-| Saltwater Taffy | "Lucent Tides" Mystery Boxes, 2026-08-19 to 2026-09-30 05:59 (UTC+8) |
-| Wild as the Wind, Sylvan Hunter, Aurora Flame | "999 Nights" Button Shop |
+| Outfit | How to get | Description |
+| --- | --- | --- |
+| Saltwater Taffy | "Lucent Tides" Mystery Boxes, 2026-08-19 to 2026-09-30 05:59 (UTC+8) | A shiny candy wrapper catches the sunlight and shimmers with every color of the rainbow. This one's mint. |
+| Wild as the Wind, Sylvan Hunter, Aurora Flame | "999 Nights" Button Shop | Wild as the Wind: Run, and the scent of freedom will reach the road before your footsteps. Sylvan Hunter: From the first fallen leaf to the final footprint, the hunt never ceases. Aurora Flame: Like a ghostflame before the wilds, the daughter of the wind was born to roam free and unbound. |
 
 ## Skill multipliers
 

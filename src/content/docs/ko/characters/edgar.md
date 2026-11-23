@@ -45,6 +45,7 @@ sources:
 | 아크 타입 | 액체 (Liquid) |
 | 참전 | 1.0 버전 |
 | 성우 | 중국어: 四白; 영어: Casey Mongillo; 일본어: 三瓶由布子; 한국어: 장채연 |
+| 아카이브 | [에드가 아카이브](/ko/characters/edgar/archive/) |
 
 ## 획득 방법
 

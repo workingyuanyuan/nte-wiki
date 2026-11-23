@@ -57,6 +57,7 @@ sources:
 | Arc type | Plasma |
 | Joined | Version 1.0 |
 | Voice actors | Chinese: 洪海天; English: Allegra Clark; Japanese: 市ノ瀬加那; Korean: 이다은 |
+| Archive | [Hathor archive](/characters/hathor/archive/) |
 
 The official profile describes Hathor as an elite courier, a job her Mentor gave her: precise, punctual, and able to find an unmarked drop-off in a storm without a map.
 

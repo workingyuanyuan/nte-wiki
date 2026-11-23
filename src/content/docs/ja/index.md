@@ -80,32 +80,6 @@ sources:
 
 ## キャラクター
 
-バージョン1.5のプレイアブルキャラは25名である。
+バージョン1.5の[プレイアブルキャラ](/ja/characters/)は25名である。
 
-| キャラ | ランク | 属性 |
-| --- | --- | --- |
-| [イェルム](/ja/characters/elyms/) | S、限定 | 光 |
-| [明音凛](/ja/characters/akane-rin/) | S、限定 | 相 |
-| [クロバネ](/ja/characters/blackbird/) | S、限定 | 魂 |
-| [リンコ](/ja/characters/linko/) | S、限定 | 霊 |
-| [残虹](/ja/characters/zankou/) | S、限定 | 呪 |
-| [イロヒ](/ja/characters/iroi/) | S、限定 | 霊 |
-| [真紅](/ja/characters/shinku/) | S、限定 | 光 |
-| [カオス](/ja/characters/chaos/) | S、限定 | 相 |
-| [レクイエム](/ja/characters/lacrimosa/) | S、限定 | 闇 |
-| [潯](/ja/characters/hotori/) | S、限定 | 光 |
-| [ナナリ](/ja/characters/nanally/) | S、限定 | 霊 |
-| [翳](/ja/characters/skia/) | A | 相 |
-| [海月](/ja/characters/aurelia/) | A | 魂 |
-| [ハニア](/ja/characters/haniel/) | A | 魂 |
-| [アドレー](/ja/characters/adler/) | A | 呪 |
-| [エドガー](/ja/characters/edgar/) | A | 光 |
-| [ミント](/ja/characters/mint/) | A | 霊 |
-| [九原](/ja/characters/jiuyuan/) | S、常設 | 霊 |
-| [ダフォディール](/ja/characters/daffodill/) | S、常設 | 闇 |
-| [ファルディーヤ](/ja/characters/fadia/) | S、常設 | 魂 |
-| [ハソール](/ja/characters/hathor/) | S、常設 | 相 |
-| [白蔵](/ja/characters/baicang/) | S、常設 | 呪 |
-| [早霧](/ja/characters/sakiri/) | S、常設 | 呪 |
-| [ちぃちゃん](/ja/characters/chiz/) | S | 光 |
-| [異能者・零](/ja/characters/zero/) | S、主人公 | 光 |
+[イェルム](/ja/characters/elyms/)、[明音凛](/ja/characters/akane-rin/)、[クロバネ](/ja/characters/blackbird/)、[リンコ](/ja/characters/linko/)、[残虹](/ja/characters/zankou/)、[イロヒ](/ja/characters/iroi/)、[真紅](/ja/characters/shinku/)、[カオス](/ja/characters/chaos/)、[レクイエム](/ja/characters/lacrimosa/)、[潯](/ja/characters/hotori/)、[ナナリ](/ja/characters/nanally/)、[翳](/ja/characters/skia/)、[海月](/ja/characters/aurelia/)、[ハニア](/ja/characters/haniel/)、[アドレー](/ja/characters/adler/)、[エドガー](/ja/characters/edgar/)、[ミント](/ja/characters/mint/)、[九原](/ja/characters/jiuyuan/)、[ダフォディール](/ja/characters/daffodill/)、[ファルディーヤ](/ja/characters/fadia/)、[ハソール](/ja/characters/hathor/)、[白蔵](/ja/characters/baicang/)、[早霧](/ja/characters/sakiri/)、[ちぃちゃん](/ja/characters/chiz/)、[異能者・零](/ja/characters/zero/)。

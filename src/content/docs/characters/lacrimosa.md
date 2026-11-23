@@ -43,6 +43,8 @@ sources:
     url: https://static.nanoka.cc/nte/1.5.4/ja/character/1004.json
   - title: nanoka.cc game data 1.5.4, character file in Korean
     url: https://static.nanoka.cc/nte/1.5.4/ko/character/1004.json
+  - title: 'Everness, outfit pages in Traditional Chinese (example: 舊憶輓歌, read 2026-11-23)'
+    url: https://everness.info/zh-Hant/cosmetics/Fashion_1004_2
 ---
 
 ![Lacrimosa, official character art: a girl with black-and-white hair, her eyes closed, in a red jacket and a black skirt](/art/characters/lacrimosa.webp)
@@ -56,6 +58,7 @@ sources:
 | Arc type | Liquid |
 | Joined | Version 1.1, 2026-06-03 |
 | Voice actors | Chinese: 宴宁; English: Baraka May; Japanese: 長縄まりあ; Korean: 김보나 |
+| Archive | [Lacrimosa archive](/characters/lacrimosa/archive/) |
 
 The official profile calls Lacrimosa "ETD-4's adorable little ace": a girl of few words who loves tomatoes and whose property damage tally grows as fast as her fan mail.
 
@@ -123,12 +126,12 @@ Each duplicate unlocks one Awakening of the player's choice; Resonances unlock a
 
 ## Outfits
 
-| Outfit | How to get |
-| --- | --- |
-| Yesterday's Melody | Shop, Riftcrystal ×3,280; permanent |
-| Piano Key Sonatina | Shop, Riftcrystal ×2,480; permanent |
-| Gilded Rhapsody | "Fading Reverie" Board tile, or the Daydream Perks page after enough rolls |
-| New Moon Lullaby | Bond Lvl 10 with Lacrimosa |
+| Outfit | How to get | Description |
+| --- | --- | --- |
+| Yesterday's Melody | Shop, Riftcrystal ×3,280; permanent | A decadent, ornate formal dress, perfect for a castle banquet. "The night sky poured over the garden, soaking its roses in muted darkness. Years later, those flowers still bloom in silence, and the rest of the story has faded into shadow." |
+| Piano Key Sonatina | Shop, Riftcrystal ×2,480; permanent | Like night and day, some things in this world are simply black and white: espresso and latte, tuxedo cats and white cats, piano keys, Lacrimosa's everyday outfit, and the white dress she wears only once in a while. "White dresses are pretty. But… they get dirty so easily." |
+| Gilded Rhapsody | "Fading Reverie" Board tile, or the Daydream Perks page after enough rolls | Things that shine are often heavy. Lacrimosa feels unusually tired flying to work today. Maybe it isn't just her imagination. |
+| New Moon Lullaby | Bond Lvl 10 with Lacrimosa | Lacrimosa's loungewear. Made of soft, cozy fabric that lets you fall asleep anytime, anywhere. "One bat… two bats… three… zzz…" |
 
 ## Skill multipliers
 
