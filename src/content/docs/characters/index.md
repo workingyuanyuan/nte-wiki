@@ -23,28 +23,28 @@ sources:
 
 | Character | Class | Attribute | Archive |
 | --- | --- | --- | --- |
-| [Elyms](/characters/elyms/) | S, limited | Cosmos | [Archive](/characters/elyms/archive/) |
-| [Akane Rin](/characters/akane-rin/) | S, limited | Lakshana | [Archive](/characters/akane-rin/archive/) |
-| [Blackbird](/characters/blackbird/) | S, limited | Psyche | [Archive](/characters/blackbird/archive/) |
-| [Linko](/characters/linko/) | S, limited | Anima | [Archive](/characters/linko/archive/) |
-| [Zankou](/characters/zankou/) | S, limited | Incantation | [Archive](/characters/zankou/archive/) |
-| [Iroi](/characters/iroi/) | S, limited | Anima | [Archive](/characters/iroi/archive/) |
-| [Shinku](/characters/shinku/) | S, limited | Cosmos | [Archive](/characters/shinku/archive/) |
-| [Chaos](/characters/chaos/) | S, limited | Lakshana | [Archive](/characters/chaos/archive/) |
-| [Lacrimosa](/characters/lacrimosa/) | S, limited | Chaos | [Archive](/characters/lacrimosa/archive/) |
-| [Hotori](/characters/hotori/) | S, limited | Cosmos | [Archive](/characters/hotori/archive/) |
-| [Nanally](/characters/nanally/) | S, limited | Anima | [Archive](/characters/nanally/archive/) |
-| [Skia](/characters/skia/) | A | Lakshana | [Archive](/characters/skia/archive/) |
-| [Aurelia](/characters/aurelia/) | A | Psyche | [Archive](/characters/aurelia/archive/) |
-| [Haniel](/characters/haniel/) | A | Psyche | [Archive](/characters/haniel/archive/) |
-| [Adler](/characters/adler/) | A | Incantation | [Archive](/characters/adler/archive/) |
-| [Edgar](/characters/edgar/) | A | Cosmos | [Archive](/characters/edgar/archive/) |
-| [Mint](/characters/mint/) | A | Anima | [Archive](/characters/mint/archive/) |
-| [Jiuyuan](/characters/jiuyuan/) | S, standard | Anima | [Archive](/characters/jiuyuan/archive/) |
-| [Daffodill](/characters/daffodill/) | S, standard | Chaos | [Archive](/characters/daffodill/archive/) |
-| [Fadia](/characters/fadia/) | S, standard | Psyche | [Archive](/characters/fadia/archive/) |
-| [Hathor](/characters/hathor/) | S, standard | Lakshana | [Archive](/characters/hathor/archive/) |
-| [Baicang](/characters/baicang/) | S, standard | Incantation | [Archive](/characters/baicang/archive/) |
-| [Sakiri](/characters/sakiri/) | S, standard | Incantation | [Archive](/characters/sakiri/archive/) |
-| [Chiz](/characters/chiz/) | S | Cosmos | [Archive](/characters/chiz/archive/) |
+| [Elyms](/characters/elyms/) | S, limited | Cosmos | [Elyms archive](/characters/elyms/archive/) |
+| [Akane Rin](/characters/akane-rin/) | S, limited | Lakshana | [Akane Rin archive](/characters/akane-rin/archive/) |
+| [Blackbird](/characters/blackbird/) | S, limited | Psyche | [Blackbird archive](/characters/blackbird/archive/) |
+| [Linko](/characters/linko/) | S, limited | Anima | [Linko archive](/characters/linko/archive/) |
+| [Zankou](/characters/zankou/) | S, limited | Incantation | [Zankou archive](/characters/zankou/archive/) |
+| [Iroi](/characters/iroi/) | S, limited | Anima | [Iroi archive](/characters/iroi/archive/) |
+| [Shinku](/characters/shinku/) | S, limited | Cosmos | [Shinku archive](/characters/shinku/archive/) |
+| [Chaos](/characters/chaos/) | S, limited | Lakshana | [Chaos archive](/characters/chaos/archive/) |
+| [Lacrimosa](/characters/lacrimosa/) | S, limited | Chaos | [Lacrimosa archive](/characters/lacrimosa/archive/) |
+| [Hotori](/characters/hotori/) | S, limited | Cosmos | [Hotori archive](/characters/hotori/archive/) |
+| [Nanally](/characters/nanally/) | S, limited | Anima | [Nanally archive](/characters/nanally/archive/) |
+| [Skia](/characters/skia/) | A | Lakshana | [Skia archive](/characters/skia/archive/) |
+| [Aurelia](/characters/aurelia/) | A | Psyche | [Aurelia archive](/characters/aurelia/archive/) |
+| [Haniel](/characters/haniel/) | A | Psyche | [Haniel archive](/characters/haniel/archive/) |
+| [Adler](/characters/adler/) | A | Incantation | [Adler archive](/characters/adler/archive/) |
+| [Edgar](/characters/edgar/) | A | Cosmos | [Edgar archive](/characters/edgar/archive/) |
+| [Mint](/characters/mint/) | A | Anima | [Mint archive](/characters/mint/archive/) |
+| [Jiuyuan](/characters/jiuyuan/) | S, standard | Anima | [Jiuyuan archive](/characters/jiuyuan/archive/) |
+| [Daffodill](/characters/daffodill/) | S, standard | Chaos | [Daffodill archive](/characters/daffodill/archive/) |
+| [Fadia](/characters/fadia/) | S, standard | Psyche | [Fadia archive](/characters/fadia/archive/) |
+| [Hathor](/characters/hathor/) | S, standard | Lakshana | [Hathor archive](/characters/hathor/archive/) |
+| [Baicang](/characters/baicang/) | S, standard | Incantation | [Baicang archive](/characters/baicang/archive/) |
+| [Sakiri](/characters/sakiri/) | S, standard | Incantation | [Sakiri archive](/characters/sakiri/archive/) |
+| [Chiz](/characters/chiz/) | S | Cosmos | [Chiz archive](/characters/chiz/archive/) |
 | [Esper Zero](/characters/zero/) | S, player | Cosmos | — |

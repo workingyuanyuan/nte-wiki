@@ -311,7 +311,7 @@ def set_desc_section(path, lang, heading, col, names, keys, rec_items, kind, par
     open(path, 'w', encoding='utf-8').write(md)
 
 
-def set_index_cell(lang, slug):
+def set_index_cell(lang, slug, name):
     # The character list links each archive page in its last column.
     lab, p = L[lang], PREFIX[lang]
     path = f'{DOCS}/{p}characters/index.md'
@@ -321,7 +321,8 @@ def set_index_cell(lang, slug):
     for line in md.split('\n'):
         if line.startswith('| [') and key in line.split(' | ')[0]:
             c = cells(line)
-            c[-1] = f'[{lab["archive"]}](/{p}characters/{slug}/archive/)'
+            # The link reads as the archive page's title, as the sidebar row does.
+            c[-1] = f'[{lab["title"].format(name=name)}](/{p}characters/{slug}/archive/)'
             line = '| ' + ' | '.join(c) + ' |'
         out.append(line)
     open(path, 'w', encoding='utf-8').write('\n'.join(out))
@@ -380,7 +381,7 @@ if __name__ == '__main__':
                 os.makedirs(os.path.dirname(dst), exist_ok=True)
                 write_archive(dst, archive_page(rec, chars, lang))
                 md = set_profile_row(md, rec, chars, lang)
-                set_index_cell(lang, slug)
+                set_index_cell(lang, slug, chars[slug][lang])
             md, n = set_outfit_column(md, rec, lang, order)
             md = set_sources(md, rec, chars, lang, order)
             open(cp, 'w', encoding='utf-8').write(md)

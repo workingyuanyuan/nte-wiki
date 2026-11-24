@@ -23,28 +23,28 @@ sources:
 
 | 캐릭터 | 등급 | 속성 | 아카이브 |
 | --- | --- | --- | --- |
-| [엘림](/ko/characters/elyms/) | S급, 한정 | 빛 | [아카이브](/ko/characters/elyms/archive/) |
-| [아카네 린](/ko/characters/akane-rin/) | S급, 한정 | 상 | [아카이브](/ko/characters/akane-rin/archive/) |
-| [레이븐](/ko/characters/blackbird/) | S급, 한정 | 혼 | [아카이브](/ko/characters/blackbird/archive/) |
-| [링코](/ko/characters/linko/) | S급, 한정 | 령 | [아카이브](/ko/characters/linko/archive/) |
-| [잔홍](/ko/characters/zankou/) | S급, 한정 | 주 | [아카이브](/ko/characters/zankou/archive/) |
-| [일로이](/ko/characters/iroi/) | S급, 한정 | 령 | [아카이브](/ko/characters/iroi/archive/) |
-| [신쿠](/ko/characters/shinku/) | S급, 한정 | 빛 | [아카이브](/ko/characters/shinku/archive/) |
-| [카오스](/ko/characters/chaos/) | S급, 한정 | 상 | [아카이브](/ko/characters/chaos/archive/) |
-| [라크리모사](/ko/characters/lacrimosa/) | S급, 한정 | 암 | [아카이브](/ko/characters/lacrimosa/archive/) |
-| [호토리](/ko/characters/hotori/) | S급, 한정 | 빛 | [아카이브](/ko/characters/hotori/archive/) |
-| [나나리](/ko/characters/nanally/) | S급, 한정 | 령 | [아카이브](/ko/characters/nanally/archive/) |
-| [스키아](/ko/characters/skia/) | A급 | 상 | [아카이브](/ko/characters/skia/archive/) |
-| [우미츠키](/ko/characters/aurelia/) | A급 | 혼 | [아카이브](/ko/characters/aurelia/archive/) |
-| [하니엘](/ko/characters/haniel/) | A급 | 혼 | [아카이브](/ko/characters/haniel/archive/) |
-| [아들러](/ko/characters/adler/) | A급 | 주 | [아카이브](/ko/characters/adler/archive/) |
-| [에드가](/ko/characters/edgar/) | A급 | 빛 | [아카이브](/ko/characters/edgar/archive/) |
-| [민트](/ko/characters/mint/) | A급 | 령 | [아카이브](/ko/characters/mint/archive/) |
-| [구원](/ko/characters/jiuyuan/) | S급, 상시 | 령 | [아카이브](/ko/characters/jiuyuan/archive/) |
-| [다포딜](/ko/characters/daffodill/) | S급, 상시 | 암 | [아카이브](/ko/characters/daffodill/archive/) |
-| [파디아](/ko/characters/fadia/) | S급, 상시 | 혼 | [아카이브](/ko/characters/fadia/archive/) |
-| [하토르](/ko/characters/hathor/) | S급, 상시 | 상 | [아카이브](/ko/characters/hathor/archive/) |
-| [백장](/ko/characters/baicang/) | S급, 상시 | 주 | [아카이브](/ko/characters/baicang/archive/) |
-| [사키리](/ko/characters/sakiri/) | S급, 상시 | 주 | [아카이브](/ko/characters/sakiri/archive/) |
-| [치즈](/ko/characters/chiz/) | S급 | 빛 | [아카이브](/ko/characters/chiz/archive/) |
+| [엘림](/ko/characters/elyms/) | S급, 한정 | 빛 | [엘림 아카이브](/ko/characters/elyms/archive/) |
+| [아카네 린](/ko/characters/akane-rin/) | S급, 한정 | 상 | [아카네 린 아카이브](/ko/characters/akane-rin/archive/) |
+| [레이븐](/ko/characters/blackbird/) | S급, 한정 | 혼 | [레이븐 아카이브](/ko/characters/blackbird/archive/) |
+| [링코](/ko/characters/linko/) | S급, 한정 | 령 | [링코 아카이브](/ko/characters/linko/archive/) |
+| [잔홍](/ko/characters/zankou/) | S급, 한정 | 주 | [잔홍 아카이브](/ko/characters/zankou/archive/) |
+| [일로이](/ko/characters/iroi/) | S급, 한정 | 령 | [일로이 아카이브](/ko/characters/iroi/archive/) |
+| [신쿠](/ko/characters/shinku/) | S급, 한정 | 빛 | [신쿠 아카이브](/ko/characters/shinku/archive/) |
+| [카오스](/ko/characters/chaos/) | S급, 한정 | 상 | [카오스 아카이브](/ko/characters/chaos/archive/) |
+| [라크리모사](/ko/characters/lacrimosa/) | S급, 한정 | 암 | [라크리모사 아카이브](/ko/characters/lacrimosa/archive/) |
+| [호토리](/ko/characters/hotori/) | S급, 한정 | 빛 | [호토리 아카이브](/ko/characters/hotori/archive/) |
+| [나나리](/ko/characters/nanally/) | S급, 한정 | 령 | [나나리 아카이브](/ko/characters/nanally/archive/) |
+| [스키아](/ko/characters/skia/) | A급 | 상 | [스키아 아카이브](/ko/characters/skia/archive/) |
+| [우미츠키](/ko/characters/aurelia/) | A급 | 혼 | [우미츠키 아카이브](/ko/characters/aurelia/archive/) |
+| [하니엘](/ko/characters/haniel/) | A급 | 혼 | [하니엘 아카이브](/ko/characters/haniel/archive/) |
+| [아들러](/ko/characters/adler/) | A급 | 주 | [아들러 아카이브](/ko/characters/adler/archive/) |
+| [에드가](/ko/characters/edgar/) | A급 | 빛 | [에드가 아카이브](/ko/characters/edgar/archive/) |
+| [민트](/ko/characters/mint/) | A급 | 령 | [민트 아카이브](/ko/characters/mint/archive/) |
+| [구원](/ko/characters/jiuyuan/) | S급, 상시 | 령 | [구원 아카이브](/ko/characters/jiuyuan/archive/) |
+| [다포딜](/ko/characters/daffodill/) | S급, 상시 | 암 | [다포딜 아카이브](/ko/characters/daffodill/archive/) |
+| [파디아](/ko/characters/fadia/) | S급, 상시 | 혼 | [파디아 아카이브](/ko/characters/fadia/archive/) |
+| [하토르](/ko/characters/hathor/) | S급, 상시 | 상 | [하토르 아카이브](/ko/characters/hathor/archive/) |
+| [백장](/ko/characters/baicang/) | S급, 상시 | 주 | [백장 아카이브](/ko/characters/baicang/archive/) |
+| [사키리](/ko/characters/sakiri/) | S급, 상시 | 주 | [사키리 아카이브](/ko/characters/sakiri/archive/) |
+| [치즈](/ko/characters/chiz/) | S급 | 빛 | [치즈 아카이브](/ko/characters/chiz/archive/) |
 | [이능력자·제로](/ko/characters/zero/) | S급, 주인공 | 빛 | — |
