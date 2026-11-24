@@ -197,8 +197,6 @@ export const LABELS = {
 		allPages: 'All pages',
 		home: 'Home',
 		pageList: 'list of all pages',
-		/** Sidebar entry of a character's archive page, under the character. */
-		archive: 'Archive',
 		unofficial: 'unofficial',
 		sections: 'Sections',
 	},
@@ -217,8 +215,6 @@ export const LABELS = {
 		allPages: '所有頁面',
 		home: '首頁',
 		pageList: '所有頁面清單',
-		/** Sidebar entry of a character's archive page, under the character. */
-		archive: '個人檔案',
 		unofficial: '非官方',
 		sections: '分類',
 	},
@@ -237,8 +233,6 @@ export const LABELS = {
 		allPages: '所有页面',
 		home: '首页',
 		pageList: '所有页面清单',
-		/** Sidebar entry of a character's archive page, under the character. */
-		archive: '个人档案',
 		unofficial: '非官方',
 		sections: '分类',
 	},
@@ -257,8 +251,6 @@ export const LABELS = {
 		allPages: 'すべてのページ',
 		home: 'ホーム',
 		pageList: '全ページの一覧',
-		/** Sidebar entry of a character's archive page, under the character. */
-		archive: 'アーカイブ',
 		unofficial: '非公式',
 		sections: 'セクション',
 	},
@@ -277,8 +269,6 @@ export const LABELS = {
 		allPages: '모든 페이지',
 		home: '홈',
 		pageList: '모든 페이지 목록',
-		/** Sidebar entry of a character's archive page, under the character. */
-		archive: '아카이브',
 		unofficial: '비공식',
 		sections: '섹션',
 	},

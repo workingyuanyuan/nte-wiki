@@ -1,6 +1,6 @@
 import { defineRouteMiddleware, type StarlightRouteData } from '@astrojs/starlight/route-data';
 import { getEntry } from 'astro:content';
-import { SITE, LABELS, pageId, localeOf, htmlPath, mdPath, isoDate, withBase } from './lib/site.mjs';
+import { SITE, pageId, localeOf, htmlPath, mdPath, isoDate, withBase } from './lib/site.mjs';
 
 type Entry = StarlightRouteData['sidebar'][number];
 
@@ -25,11 +25,13 @@ export const onRequest = defineRouteMiddleware(async (context) => {
 	if (!data.lastVerified || !data.sources) return;
 
 	const character = id.match(/^(?:[a-z-]+\/)?characters\/[a-z0-9-]+(?=$|\/archive$)/)?.[0];
-	if (character && (await getEntry('docs', `${character}/archive`))) {
+	const archive = character && (await getEntry('docs', `${character}/archive`));
+	if (character && archive) {
 		const href = withBase(htmlPath(`${character}/archive`));
 		route.sidebar = addArchiveEntry(route.sidebar, withBase(htmlPath(character)), {
 			type: 'link',
-			label: LABELS[localeOf(id).lang].archive,
+			// The row reads as the page title ("Adler archive", 阿德勒個人檔案).
+			label: archive.data.title,
 			href,
 			isCurrent: id === `${character}/archive`,
 			badge: undefined,
