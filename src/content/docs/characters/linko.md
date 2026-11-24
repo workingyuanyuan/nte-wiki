@@ -52,10 +52,9 @@ sources:
 | Attribute | Anima |
 | Arc type | Plasma |
 | Joined | Version 1.3, second half, 2026-09-09 |
+| Role | Member of ETD-6, recruited as a special exception; her anomaly companion is Xiaozhen |
 | Voice actors | Chinese: 胡影佳 and 洪海天; English: Emi Lo and Salli Saffioti; Japanese: 小倉唯 and 村瀬迪与; Korean: 김서현 and 김예림 |
 | Archive | [Linko archive](/characters/linko/archive/) |
-
-The official profile says Linko was recruited into ETD-6 as a special exception. She uses telepathy to sense the "frequencies" of humans and anomalies, and leaves the fighting to her adopted anomaly companion, Xiaozhen.
 
 ## How to obtain
 

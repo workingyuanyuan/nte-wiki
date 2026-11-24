@@ -57,10 +57,9 @@ sources:
 | Attribute | Cosmos |
 | Arc type | Solid |
 | Joined | Version 1.0, second half, 2026-05-13 |
+| Role | Owner of the Eibon Antique Shop |
 | Voice actors | Chinese: 杜晴晴; English: Lindsay Sheppard; Japanese: 伊藤静; Korean: 이지현 |
 | Archive | [Hotori archive](/characters/hotori/archive/) |
-
-The official profile describes Hotori as the enigmatic owner of the Eibon antique shop: the least responsible adult around, according to Sakiri, and someone Nanally admires.
 
 ## How to obtain
 

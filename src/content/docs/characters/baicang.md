@@ -57,10 +57,9 @@ sources:
 | Attribute | Incantation |
 | Arc type | Condensate |
 | Joined | Version 1.0 |
+| Role | Captain of ETD-4, Bureau of Anomaly Control |
 | Voice actors | Chinese: 桑毓泽; English: Griffin Burns; Japanese: 中村悠一; Korean: 심규혁 |
 | Archive | [Baicang archive](/characters/baicang/archive/) |
-
-The official profile introduces Baicang as the captain of ETD-4 at the Bureau of Anomaly Control: carefree, irreverent, blunt to a fault and a master of dodging work.
 
 ## How to obtain
 

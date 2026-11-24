@@ -57,10 +57,9 @@ sources:
 | Attribute | Incantation |
 | Arc type | Gas |
 | Joined | Version 1.0 |
+| Role | Eibon Antique Shop; wields the Anomaly war hammer Kiroumaru |
 | Voice actors | Chinese: 蔡书瑾; English: Brianna Knickerbocker; Japanese: 伊藤美来; Korean: 김나율 |
 | Archive | [Sakiri archive](/characters/sakiri/archive/) |
-
-The official profile introduces Sakiri as the author of the sticky-note rules on the fridge at Eibon Antique Shop. She wields the Anomaly war hammer Kiroumaru.
 
 ## How to obtain
 

@@ -61,10 +61,9 @@ sources:
 | Attribute | Lakshana |
 | Arc type | Condensate |
 | Joined | Version 1.1, second half, 2026-06-24 |
+| Role | Member of ETD-6 |
 | Voice actors | Chinese: 淦子齐; English: Rick Kumazawa; Japanese: 小西克幸; Korean: 원종준 |
 | Archive | [Chaos archive](/characters/chaos/archive/) |
-
-The official profile introduces Chaos as the combat core of ETD-6, "the enforcer who never misses a mission".
 
 Chaos is also the name of an attribute.
 

@@ -57,10 +57,9 @@ sources:
 | Attribute | Chaos |
 | Arc type | Liquid |
 | Joined | Version 1.1, 2026-06-03 |
+| Role | Member of ETD-4 |
 | Voice actors | Chinese: 宴宁; English: Baraka May; Japanese: 長縄まりあ; Korean: 김보나 |
 | Archive | [Lacrimosa archive](/characters/lacrimosa/archive/) |
-
-The official profile calls Lacrimosa "ETD-4's adorable little ace": a girl of few words who loves tomatoes and whose property damage tally grows as fast as her fan mail.
 
 ## How to obtain
 

@@ -63,8 +63,6 @@ sources:
 | Voice actors | Chinese: 陈章; English: Crystal Lee; Japanese: 雨宮天; Korean: 손선영 |
 | Archive | [Elyms archive](/characters/elyms/archive/) |
 
-The official profile says there is hardly anyone at the Bureau who does not know her. Staff describe her as understanding, easygoing, cheerful, mischievous and polite to a fault, and agree on one phrase: "my friend."
-
 ## How to obtain
 
 | Fact | Value |

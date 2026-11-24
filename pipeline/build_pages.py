@@ -114,6 +114,16 @@ def named(rec, chars, slug):
     return res
 
 
+def write_archive(path, md):
+    # lastVerified moves only when the text changes: an unchanged page keeps its date.
+    date = re.compile(r'^lastVerified: .*$', re.M)
+    if os.path.exists(path):
+        old = open(path, encoding='utf-8').read()
+        if date.sub('', old) == date.sub('', md):
+            return
+    open(path, 'w', encoding='utf-8').write(md)
+
+
 def archive_page(rec, chars, lang):
     lab, slug, v = L[lang], rec['slug'], rec['version']
     name = chars[slug][lang]
@@ -364,7 +374,7 @@ if __name__ == '__main__':
             if rec['archive']:
                 dst = f'{DOCS}/{PREFIX[lang]}characters/{slug}/archive.md'
                 os.makedirs(os.path.dirname(dst), exist_ok=True)
-                open(dst, 'w', encoding='utf-8').write(archive_page(rec, chars, lang))
+                write_archive(dst, archive_page(rec, chars, lang))
                 md = set_profile_row(md, rec, chars, lang)
                 set_index_cell(lang, slug)
             md, n = set_outfit_column(md, rec, lang, order)

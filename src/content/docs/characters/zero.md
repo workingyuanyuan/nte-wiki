@@ -8,7 +8,7 @@ aliases:
   - 異能者・零
   - 이능력자·제로
 appliesTo: Version 1.5, game data 1.5.4
-caveat: Zero has a male and a female form; the choice changes the look, and the official notes treat both as one character, Esper Zero.
+caveat: 'Zero has a male and a female form; the choice changes only the look: both are one character, Esper Zero.'
 effectiveDate: 2026-09-29
 lastVerified: 2026-11-22
 art:
@@ -73,7 +73,7 @@ sources:
 | Joined | Version 1.0 |
 | Voice actors | Chinese: 马洋; English: Hunter McCoy; Japanese: 内田雄馬; Korean: 박기욱 |
 
-Zero is the player character, the Appraiser. The official profile describes an Esper who emerged from nothingness with an uncanny sense for the "Nexus" inside every anomaly, sent by the Bureau to work at the Eibon antique shop without an anomaly hunter licence. Zero can be played as male or female.
+Zero is the player character, the Appraiser, sent by the Bureau to work at the Eibon Antique Shop without an anomaly hunter licence. Zero can be played as male or female.
 
 ## How to obtain
 

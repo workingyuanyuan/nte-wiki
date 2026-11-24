@@ -54,8 +54,6 @@ sources:
 | Voice actors | Chinese: 汪悦; English: Rachel Lepore; Japanese: 日高里菜; Korean: 이주은 |
 | Archive | [Iroi archive](/characters/iroi/archive/) |
 
-The official profile says Iroi is warm and approachable and puts people at ease the moment they meet her; every pattern of her behaviour matches what people expect of a "perfectly normal girl".
-
 ## How to obtain
 
 | Fact | Value |

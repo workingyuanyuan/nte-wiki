@@ -51,10 +51,9 @@ sources:
 | Attribute | Incantation |
 | Arc type | Gas |
 | Joined | Version 1.3, 2026-08-19 |
+| Role | Inanna's adopted daughter and bodyguard, an assassin of The Scarlet Letter; Esper Ability: Eye of Delusion |
 | Voice actors | Chinese: 陈婷婷; English: Stephanie Wong; Japanese: 井上喜久子; Korean: 허예은 |
 | Archive | [Zankou archive](/characters/zankou/archive/) |
-
-The official profile describes Zankou as a dangerous Esper armed with a Cursed Blade: Inanna's adopted daughter and bodyguard, and the most feared assassin of The Scarlet Letter. Her Esper Ability, the Eye of Delusion, senses emotions and conjures illusions.
 
 ## How to obtain
 

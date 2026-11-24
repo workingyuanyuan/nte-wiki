@@ -54,10 +54,9 @@ sources:
 | Attribute | Anima |
 | Arc type | Solid |
 | Joined | Version 1.0 |
+| Role | Coordinates Sterry's intel network |
 | Voice actors | Chinese: 张安琪; English: Baraka May; Japanese: 田中理恵; Korean: 방시우 |
 | Archive | [Jiuyuan archive](/characters/jiuyuan/archive/) |
-
-The official profile says that at Sterry intel arrives before packages do, and that this network runs on Jiuyuan's coordination. She reads people from the smallest details.
 
 ## How to obtain
 

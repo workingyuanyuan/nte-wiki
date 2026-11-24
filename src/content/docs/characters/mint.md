@@ -69,10 +69,9 @@ sources:
 | Attribute | Anima |
 | Arc type | Liquid |
 | Joined | Version 1.0 |
+| Role | Containment Strike Unit 2 (CSU-2), Bureau of Anomaly Control |
 | Voice actors | Chinese: 陈雨; English: Brianna Knickerbocker; Japanese: 鬼頭明里; Korean: 성예원 |
 | Archive | [Mint archive](/characters/mint/archive/) |
-
-The official profile calls Mint a rising star of the Bureau's Containment Strike Unit 2 (CSU-2) who knows everyone in the neighbourhood and every cheap place to eat in the city.
 
 ## How to obtain
 

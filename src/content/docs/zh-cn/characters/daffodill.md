@@ -57,12 +57,11 @@ sources:
 | 属性 | 暗 |
 | 弧盘类型 | 液态 (Liquid) |
 | 加入版本 | 1.0 版 |
+| 身份 | 伊波恩古董店 |
 | 配音员 | 中文：陈彦亦；英文：Natalie Van Sistine；日文：大原さやか；韩文：이명호 |
 | 个人档案 | [达芙蒂尔个人档案](/zh-cn/characters/daffodill/archive/) |
 
-官方介绍将伊波恩古董店的达芙蒂尔描述为不太知道该如何开口闲聊、宁可观察异象也不太擅长面对人群的人；她的刀刃只为她认可的人而挥动。
-
-官方公告与角色介绍将英文名字拼为 Daffodill；Prydwen 与 Game8 则拼为 Daffodil。
+Prydwen 与 Game8 将英文名字拼为 Daffodil。
 
 ## 取得方式
 

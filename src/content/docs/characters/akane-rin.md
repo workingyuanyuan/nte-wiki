@@ -2,6 +2,9 @@
 title: Akane Rin
 description: Akane Rin is a limited S-Class character of the Lakshana attribute, added in Version 1.4.
 aliases:
+  - Akane
+  - 明音
+  - 아카네
   - 明音凜
   - 明音凛
   - 아카네 린
@@ -59,8 +62,6 @@ sources:
 | Joined | Version 1.4, second half, 2026-10-21 |
 | Voice actors | Chinese: 陈怡萱; English: Cristina Vee; Japanese: 長谷川育美; Korean: 김하루 |
 | Archive | [Akane Rin archive](/characters/akane-rin/archive/) |
-
-The official profile describes Akane as golden-haired and made for the spotlight, yet usually found in a quiet corner with her headphones on, lost in her own music. The notes also call her Akane.
 
 ## How to obtain
 

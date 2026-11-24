@@ -60,8 +60,6 @@ sources:
 | Voice actors | Chinese: 唐夏芳; English: Anne Yatco; Japanese: 田所あずさ; Korean: 차영희 |
 | Archive | [Shinku archive](/characters/shinku/archive/) |
 
-The official profile describes Shinku as a "dragon girl" who seems hard to approach but is always the first to charge into danger and shield her teammates.
-
 ## How to obtain
 
 | Fact | Value |

@@ -57,10 +57,9 @@ sources:
 | Attribute | Anima |
 | Arc type | Plasma |
 | Joined | Version 1.0, at launch on 2026-04-29 |
+| Role | Eibon Antique Shop; calls herself the "Ichi-daime" of the Colucci family |
 | Voice actors | Chinese: 宋媛媛; English: Brittany Lauda; Japanese: 竹達彩奈; Korean: 강새봄 |
 | Archive | [Nanally archive](/characters/nanally/archive/) |
-
-The official profile calls Nanally Colucci the top ace of Eibon Antique Shop and the self-styled "Ichi-daime" of the Colucci family.
 
 ## How to obtain
 

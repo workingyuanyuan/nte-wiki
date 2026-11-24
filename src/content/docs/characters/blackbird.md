@@ -51,10 +51,9 @@ sources:
 | Attribute | Psyche |
 | Arc type | Gas |
 | Joined | Version 1.4, 2026-09-30 |
+| Role | Lives in the Witch's House deep in the forest; locals call her the Witch |
 | Voice actors | Chinese: 井琉; English: Xanthe Huynh; Japanese: 能登麻美子; Korean: 문유정 |
 | Archive | [Blackbird archive](/characters/blackbird/archive/) |
-
-The official profile places Blackbird in the Witch's House deep in the forest. Locals know her simply as the Witch, a woman of few words with a talent for Divination.
 
 ## How to obtain
 
