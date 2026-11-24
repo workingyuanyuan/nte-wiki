@@ -397,6 +397,23 @@ site-search button[data-open-modal] {
 	font-family: var(--nte-pixel);
 }
 
+/* A character's archive: a child row under the character, joined to it by a tree line
+   drawn with borders (no text). It appears only on that character's two pages. */
+.sidebar-content a[data-child] {
+	position: relative;
+	margin-inline-start: 1.6rem;
+}
+.sidebar-content a[data-child]::after {
+	content: '';
+	position: absolute;
+	inset-inline-start: -1rem;
+	top: -0.3rem;
+	width: 0.7rem;
+	height: calc(50% + 0.3rem);
+	border-inline-start: 2px solid var(--nte-line);
+	border-bottom: 2px solid var(--nte-line);
+}
+
 /* Table of contents and the links to the previous and next page. */
 starlight-toc h2,
 mobile-starlight-toc .toggle {

@@ -16,6 +16,8 @@ const contract = z.object({
 	effectiveDate: z.coerce.date().optional(),
 	/** The subject's name in the other scripts (English, Traditional and Simplified Chinese). */
 	aliases: z.array(z.string().min(1)).optional(),
+	/** The answer stays out of the visible page (it repeats the title); the twin, meta and the hidden note keep it. */
+	hideAnswer: z.boolean().optional(),
 	/** Credits for the images on the page, shown in the page notes after the body. */
 	art: z.array(z.object({ title: z.string(), url: z.string().url() })).optional(),
 	sources: z.array(z.object({ title: z.string(), url: z.string().url() })).min(1),

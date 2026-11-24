@@ -9,6 +9,7 @@ aliases:
 appliesTo: 游戏数据 1.5.4
 caveat: 各语言页面收录该语言版本的游戏原文，不同语言的用字与细节可能不同。
 lastVerified: 2026-11-23
+hideAnswer: true
 sidebar:
   hidden: true
 sources:

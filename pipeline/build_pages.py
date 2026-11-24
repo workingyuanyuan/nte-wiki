@@ -134,6 +134,7 @@ def archive_page(rec, chars, lang):
           'appliesTo: ' + yaml_str(lab['applies'].format(v=v)),
           'caveat: ' + yaml_str(lab['caveat']),
           f'lastVerified: {TODAY}',
+          'hideAnswer: true',
           'sidebar:', '  hidden: true',
           'sources:']
     for t, u in src:

@@ -130,6 +130,12 @@ for (const { id, data } of pages) {
 		fail(id, 'the pointer for agents must be hidden by CSS class only, or extractors drop it');
 	}
 
+	// A page marked hideAnswer (an archive page) shows no answer line, and the sidebar
+	// marks where the page is: the archive row under its character.
+	if (data.hideAnswer && doc.querySelector('main .answer')) fail(id, 'hideAnswer page shows the answer line');
+	if (/\/archive$/.test(id) && !data.hideAnswer) fail(id, 'archive page without hideAnswer');
+	if (/\/archive$/.test(id) && !doc.querySelector('.sidebar-content a[data-child][aria-current="page"]')) fail(id, 'archive page has no current row in the sidebar');
+
 	// 2. Clean Markdown
 	const mdProse = md.replace(/^```[^\n]*\n[\s\S]*?^```/gm, '').replace(/`[^`\n]*`/g, '');
 	if (/<[A-Z][A-Za-z]*[\s/>]/.test(mdProse)) fail(id, 'JSX component tag in Markdown twin');

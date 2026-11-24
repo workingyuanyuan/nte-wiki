@@ -18,10 +18,14 @@ const hasFacts = Boolean(data.lastVerified && data.sources);
 // Chinese and Japanese take full-width punctuation; English and Korean take Western punctuation.
 const zh = ['zh-TW', 'zh-CN', 'ja'].includes(localeOf(id).lang);
 const sep = zh ? '：' : ': ';
+// A page whose title and body already show what it is (an archive page: name, then
+// numbered entries) shows no answer line; the hidden note carries the answer instead.
+const lead = hasFacts && data.hideAnswer ? data.description + (zh ? '' : ' ') : '';
 const agentNote = hasFacts
-	? zh
-		? `${t.appliesTo}：${data.appliesTo}。${t.caveat}：${data.caveat} Markdown：${SITE}${mdPath(id)} 。${t.allPages}：${SITE}${llmsPath(localeOf(id))} 、${SITE}/index.json 。`
-		: `${t.appliesTo}: ${data.appliesTo}. ${t.caveat}: ${data.caveat} Markdown: ${SITE}${mdPath(id)} . ${t.allPages}: ${SITE}${llmsPath(localeOf(id))} , ${SITE}/index.json .`
+	? lead +
+		(zh
+			? `${t.appliesTo}：${data.appliesTo}。${t.caveat}：${data.caveat} Markdown：${SITE}${mdPath(id)} 。${t.allPages}：${SITE}${llmsPath(localeOf(id))} 、${SITE}/index.json 。`
+			: `${t.appliesTo}: ${data.appliesTo}. ${t.caveat}: ${data.caveat} Markdown: ${SITE}${mdPath(id)} . ${t.allPages}: ${SITE}${llmsPath(localeOf(id))} , ${SITE}/index.json .`)
 	: '';
 ---
 
@@ -31,7 +35,7 @@ const agentNote = hasFacts
      keeps, together with the body. */}
 {hasFacts && <>
 <p class="not-content agent-note">{agentNote}</p>
-<p class="not-content answer">{data.description}</p>
+{!data.hideAnswer && <p class="not-content answer">{data.description}</p>}
 </>}
 {!hasFacts && <div class="not-content not-found">
 <p>Page addresses use lower-case English names: <code>/characters/elyms/</code>. 頁面網址使用小寫英文名稱。</p>
