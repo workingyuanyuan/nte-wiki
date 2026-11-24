@@ -1,13 +1,13 @@
 ---
 title: 達芙蒂爾個人檔案
-description: 《異環》角色達芙蒂爾的 8 則個人檔案，收錄遊戲原文。
+description: 《異環》角色達芙蒂爾的個人檔案共有 8 則。
 aliases:
   - Daffodill archive
   - 达芙蒂尔个人档案
   - ダフォディールのアーカイブ
   - 다포딜 아카이브
 appliesTo: 遊戲資料 1.5.4
-caveat: 各語言頁面收錄該語言版本的遊戲原文，不同語言的用字與細節可能不同。
+caveat: 遊戲各語言版本的用字與細節可能不同。
 lastVerified: 2026-11-23
 hideAnswer: true
 sidebar:

@@ -6,7 +6,7 @@ aliases:
   - ちぃちゃん
   - 치즈
 appliesTo: Version 1.5, game data 1.5.4
-caveat: Chiz is not on a Limited Board. She is obtained through City Tycoon, which is described by guide sites and not by the official notes.
+caveat: Chiz is not on a Limited Board. She is obtained through City Tycoon.
 effectiveDate: 2026-06-02
 lastVerified: 2026-11-22
 art:
@@ -51,7 +51,7 @@ Game8 spells her Skill "Pink Paws Priority Principe"; Prydwen spells it "Pink Pa
 
 ## How to obtain
 
-Chiz is free. Game8 says she is obtained by raising the City Tycoon level; Prydwen lists her, and her extra copies, as obtainable without spending.
+Game8 says she is obtained by raising the City Tycoon level; Prydwen lists her, and her extra copies, as obtainable without spending.
 
 ## Skills
 

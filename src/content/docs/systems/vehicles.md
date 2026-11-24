@@ -1,6 +1,6 @@
 ---
 title: Vehicles
-description: The 31 vehicles in NTE by Version 1.5, with top speed and how to get each, and the public transport.
+description: NTE has 31 vehicles by Version 1.5, among them 19 cars, 4 karts, a tank and a boat.
 aliases:
   - 載具
   - 载具
@@ -84,9 +84,7 @@ Prices without a shop name are in Fons at a dealership. Cars and sports cars are
 
 Hethereau has trains and buses, and players can ride both. No timetable is shown, so the wait for the next train or bus can be long. GameWith adds that trains charge no fare.
 
-The NGA forum thread with a player's transit map adds these details:
-
-| Topic | Detail |
+| Topic | Detail, from an NGA forum thread with a player's transit map |
 | --- | --- |
 | Lines | Several rail lines run as loops; one tram line crosses a stretch of sea |
 | Buses | Line names appear on stop signs only, not on the buses. Buses stop at red lights |

@@ -73,8 +73,6 @@ sources:
 
 Rolls count per Board name: progress toward Resolve Perks from the first run carried over to the rerun.
 
-How Boards work: [Boards and Arc Research](/systems/boards/).
-
 ## Skills
 
 Shinku builds Defiant Spirit with Basic Attacks, High-Speed Breach, and Breaching Tactics, then consumes it via Crimson Fury to enter Surging Crimson. Inside this state, she generates Fading Reason to cast Scarlet Descent and chains into Crimson Judgment and Dragonflame Verdict.

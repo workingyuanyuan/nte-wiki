@@ -32,6 +32,8 @@ pnpm verify      # subset the font, build, then run the acceptance checks. Run t
 pnpm build       # subset the font and build
 pnpm check       # acceptance checks on an existing dist/
 pnpm upstream    # compare the sources with what the pages were written from (upstream/README.md)
+node scripts/prose-review.mjs run      # after pnpm build: a reader of another model reads every unit of prose not yet in the ledger (PROSE_READER names it)
+node scripts/prose-review.mjs status   # units of prose the ledger lacks; pnpm verify fails for each
 
 uv run --with opencc-python-reimplemented scripts/to-zh-cn.py   # write the zh-cn pages from the zh-tw pages, then run the last line below
 
@@ -92,6 +94,9 @@ Run `pnpm upstream`. What it watches, what each line of its report means and how
 | `assets/fonts/`, `scripts/subset-font.mjs` | Pixel font source with its licence, and the subsetter |
 | `scripts/check-dist.mjs`, `scripts/preview.mjs` | Acceptance checks, local preview |
 | `src/lib/sitemap.mjs` | Sitemap options: `lastmod` of each page from `lastVerified` |
+| `scripts/check-page-text.mjs` | Header and page-note links, sentences about the site or the page, and a body that opens with a paragraph; copied unchanged from the reference site |
+| `scripts/prose-review.mjs`, `scripts/prose-rubric.md`, `reviews/prose-ledger.json` | The prose ledger: the reader, its rubric (both copied unchanged between sites) and the units it passed, committed with the pages |
+| `scripts/prose-site.mjs` | Ledger settings for this site: `zh-cn` is written by a script; archive entries, outfit descriptions and the Arc and item description tables are game text and are not read |
 | `scripts/check-found.mjs` | Checks called by `check-dist.mjs`: a title and description of its own for every page, canonical, `hreflang`, sitemap |
 | `tests/agent-eval/questions.json` | The site's question list: what readers ask, each with the expected answer and qualifier. The agent test and the search test draw from it |
 | `scripts/indexnow.mjs` | Lists pages whose Markdown twin differs from the live one; the deploy workflow submits them to IndexNow |

@@ -65,8 +65,6 @@ sources:
 | A-Class characters on the Board | [Mint](/characters/mint/), [Edgar](/characters/edgar/) and [Adler](/characters/adler/) |
 | Roll rewards | "The Harbinger" glider livery, "Nightplume" Yesteryear bike livery, outfit "Rouge et Noir": claimed on the Divination Perks page at 50, 120 and 200 total rolls, or landed on earlier by chance |
 
-How Boards work: [Boards and Arc Research](/systems/boards/).
-
 ## Skills
 
 Blackbird builds Malice and marks enemies with Forsaken Feather for off-field coordinated attacks, then casts Requies Animarum to enter Witch of Deliverance and spend Malice on enhanced attacks before ending with Flammae in Unum.

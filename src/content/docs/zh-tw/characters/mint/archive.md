@@ -1,13 +1,13 @@
 ---
 title: 薄荷個人檔案
-description: 《異環》角色薄荷的 6 則個人檔案，收錄遊戲原文。
+description: 《異環》角色薄荷的個人檔案共有 6 則。
 aliases:
   - Mint archive
   - 薄荷个人档案
   - ミントのアーカイブ
   - 민트 아카이브
 appliesTo: 遊戲資料 1.5.4
-caveat: 各語言頁面收錄該語言版本的遊戲原文，不同語言的用字與細節可能不同。
+caveat: 遊戲各語言版本的用字與細節可能不同。
 lastVerified: 2026-11-23
 hideAnswer: true
 sidebar:

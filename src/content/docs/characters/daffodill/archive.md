@@ -1,13 +1,13 @@
 ---
 title: Daffodill archive
-description: Daffodill's 8 archive entries in NTE, as the game writes them.
+description: Daffodill has 8 archive entries in NTE.
 aliases:
   - 達芙蒂爾個人檔案
   - 达芙蒂尔个人档案
   - ダフォディールのアーカイブ
   - 다포딜 아카이브
 appliesTo: Game data 1.5.4
-caveat: Each language shows that language's own game text; wording and details can differ between languages.
+caveat: The game's language editions can differ in wording and detail.
 lastVerified: 2026-11-23
 hideAnswer: true
 sidebar:

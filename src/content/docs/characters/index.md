@@ -1,6 +1,6 @@
 ---
 title: Characters
-description: The 25 playable characters of version 1.5, with class, attribute and archive.
+description: NTE has 25 playable characters in version 1.5, 19 of them S-Class and 6 A-Class.
 aliases:
   - 角色列表
   - キャラクター一覧

@@ -1,13 +1,13 @@
 ---
 title: ミントのアーカイブ
-description: NTE（異環）のキャラクター、ミントのアーカイブ6件のゲーム原文である。
+description: NTE（異環）のキャラクター、ミントのアーカイブは6件である。
 aliases:
   - Mint archive
   - 薄荷個人檔案
   - 薄荷个人档案
   - 민트 아카이브
 appliesTo: ゲームデータ 1.5.4
-caveat: 各言語のページはその言語版のゲーム原文を載せており、言語間で表現や細部が異なることがある。
+caveat: ゲームの各言語版では、表現や細部が異なることがある。
 lastVerified: 2026-11-23
 hideAnswer: true
 sidebar:

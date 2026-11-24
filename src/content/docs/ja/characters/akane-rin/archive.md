@@ -1,13 +1,13 @@
 ---
 title: 明音凛のアーカイブ
-description: NTE（異環）のキャラクター、明音凛のアーカイブ6件のゲーム原文である。
+description: NTE（異環）のキャラクター、明音凛のアーカイブは6件である。
 aliases:
   - Akane Rin archive
   - 明音凜個人檔案
   - 明音凛个人档案
   - 아카네 린 아카이브
 appliesTo: ゲームデータ 1.5.4
-caveat: 各言語のページはその言語版のゲーム原文を載せており、言語間で表現や細部が異なることがある。
+caveat: ゲームの各言語版では、表現や細部が異なることがある。
 lastVerified: 2026-11-23
 hideAnswer: true
 sidebar:

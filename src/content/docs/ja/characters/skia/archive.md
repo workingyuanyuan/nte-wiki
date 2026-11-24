@@ -1,13 +1,13 @@
 ---
 title: 翳のアーカイブ
-description: NTE（異環）のキャラクター、翳のアーカイブ6件のゲーム原文である。
+description: NTE（異環）のキャラクター、翳のアーカイブは6件である。
 aliases:
   - Skia archive
   - 翳個人檔案
   - 翳个人档案
   - 스키아 아카이브
 appliesTo: ゲームデータ 1.5.4
-caveat: 各言語のページはその言語版のゲーム原文を載せており、言語間で表現や細部が異なることがある。
+caveat: ゲームの各言語版では、表現や細部が異なることがある。
 lastVerified: 2026-11-23
 hideAnswer: true
 sidebar:

@@ -65,8 +65,6 @@ sources:
 | A-Class characters on the Board | [Mint](/characters/mint/), [Edgar](/characters/edgar/) and [Adler](/characters/adler/) |
 | Roll rewards | "Scarlet Sash" glider livery, "Sandy Mirage" Sirocco livery, outfit "Autumn Vignette": claimed on the Alluring Perks page at 50, 120 and 200 total rolls, or landed on earlier by chance |
 
-How Boards work: [Boards and Arc Research](/systems/boards/).
-
 ## Skills
 
 Zankou alternates between Reality Form and Illusion Form via Sanguine Dash and Soulcross, applying Heartwrench and spreading DoTs as Follow-up Attack DMG. Timed Soulcross triggers Oblivion to activate Bloodfeast Reverie, which inflicts Vile Ash and grants a free enhanced Inferno Flamenco.

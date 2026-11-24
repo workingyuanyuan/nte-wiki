@@ -1,13 +1,13 @@
 ---
 title: Hathor archive
-description: Hathor's 6 archive entries in NTE, as the game writes them.
+description: Hathor has 6 archive entries in NTE.
 aliases:
   - 哈索爾個人檔案
   - 哈索尔个人档案
   - ハソールのアーカイブ
   - 하토르 아카이브
 appliesTo: Game data 1.5.4
-caveat: Each language shows that language's own game text; wording and details can differ between languages.
+caveat: The game's language editions can differ in wording and detail.
 lastVerified: 2026-11-23
 hideAnswer: true
 sidebar:

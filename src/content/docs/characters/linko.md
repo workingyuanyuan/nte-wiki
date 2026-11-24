@@ -66,8 +66,6 @@ sources:
 | A-Class characters on the Board | [Haniel](/characters/haniel/), [Aurelia](/characters/aurelia/) and [Skia](/characters/skia/) |
 | Roll rewards | "Super Specter" glider livery, "Turbo Linko" livery set for the "Yesteryear" bicycle, outfit "Surfing Among Stars": claimed on the Sync Perks page at 50, 120 and 200 total rolls, or landed on earlier by chance |
 
-How Boards work: [Boards and Arc Research](/systems/boards/).
-
 ## Skills
 
 Linko builds Modulation through Basic Attacks and applies Hit 'Em Here! marks off-field to summon allies or Xiaozhen for attribute-matched Synced Strikes. Her Ultimate enters Overdrive to deploy a Resonance Field that chains Synced Strikes and turns ally Support Skills into Follow-up Attacks.

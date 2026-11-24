@@ -64,8 +64,6 @@ sources:
 | A-Class characters on the Board | [Haniel](/characters/haniel/), [Aurelia](/characters/aurelia/) and [Skia](/characters/skia/) |
 | Roll rewards | "Sheepcopter" glider livery, "Three's Company" B100 livery, outfit "Archmage": claimed on the Wayfarer Perks page at 50, 120 and 200 total rolls, or landed on earlier by chance |
 
-How Boards work: [Boards and Arc Research](/systems/boards/).
-
 ## Skills
 
 Iroi builds Imagination through Basic Attacks, Skill, Support Skill, and allies entering Regression. Her Skill heals, buffs ATK, and sends allies into Regression, while her Ultimate drains Imagination to open a healing dream—or an offensive dream that temporarily revives one Regression ally.

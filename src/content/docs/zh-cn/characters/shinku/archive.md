@@ -1,13 +1,13 @@
 ---
 title: 真红个人档案
-description: 《异环》角色真红的 7 则个人档案，收录游戏原文。
+description: 《异环》角色真红的个人档案共有 7 则。
 aliases:
   - Shinku archive
   - 真紅個人檔案
   - 真紅のアーカイブ
   - 신쿠 아카이브
 appliesTo: 游戏数据 1.5.4
-caveat: 各语言页面收录该语言版本的游戏原文，不同语言的用字与细节可能不同。
+caveat: 游戏各语言版本的用字与细节可能不同。
 lastVerified: 2026-11-23
 hideAnswer: true
 sidebar:

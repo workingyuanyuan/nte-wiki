@@ -1,13 +1,13 @@
 ---
 title: Zankou archive
-description: Zankou's 9 archive entries in NTE, as the game writes them.
+description: Zankou has 9 archive entries in NTE.
 aliases:
   - 殘虹個人檔案
   - 残虹个人档案
   - 残虹のアーカイブ
   - 잔홍 아카이브
 appliesTo: Game data 1.5.4
-caveat: Each language shows that language's own game text; wording and details can differ between languages.
+caveat: The game's language editions can differ in wording and detail.
 lastVerified: 2026-11-23
 hideAnswer: true
 sidebar:

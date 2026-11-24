@@ -1,6 +1,6 @@
 ---
 title: 海上釣客與唄果
-description: 《異環》釣魚玩法「海上釣客」與遊戲內社群應用「唄果」的運作方式與獎勵。
+description: 《異環》的釣魚玩法「海上釣客」收益為魚鱗幣與方斯，社群應用「唄果」收益為過獎果醬。
 aliases:
   - Sea Angler and Bagel
   - 海上钓客与呗果

@@ -1,13 +1,13 @@
 ---
 title: 九原个人档案
-description: 《异环》角色九原的 6 则个人档案，收录游戏原文。
+description: 《异环》角色九原的个人档案共有 6 则。
 aliases:
   - Jiuyuan archive
   - 九原個人檔案
   - 九原のアーカイブ
   - 구원 아카이브
 appliesTo: 游戏数据 1.5.4
-caveat: 各语言页面收录该语言版本的游戏原文，不同语言的用字与细节可能不同。
+caveat: 游戏各语言版本的用字与细节可能不同。
 lastVerified: 2026-11-23
 hideAnswer: true
 sidebar:

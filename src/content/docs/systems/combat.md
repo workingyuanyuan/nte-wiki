@@ -61,22 +61,20 @@ The level base grows with character level; 零号攻略组 gives 3,603 at level 
 
 ## Ultimate Energy
 
-Most Ultimates cost 100 or 120 Ultimate Energy (game data 1.5.4). [Hotori](/characters/hotori/)'s Ultimate needs no Ultimate Energy and has no cooldown; [Shinku](/characters/shinku/)'s Ultimate spends Defiant Spirit instead. The game data gives no cost for [Elyms](/characters/elyms/).
+Most Ultimates cost 100 or 120 Ultimate Energy (game data 1.5.4). [Hotori](/characters/hotori/)'s Ultimate needs no Ultimate Energy and has no cooldown; [Shinku](/characters/shinku/)'s Ultimate spends Defiant Spirit instead.
 
 | Cost | Characters |
 | --- | --- |
 | 100 | [Akane Rin](/characters/akane-rin/), [Blackbird](/characters/blackbird/), [Chaos](/characters/chaos/), [Chiz](/characters/chiz/), [Edgar](/characters/edgar/), [Esper Zero](/characters/zero/), [Hathor](/characters/hathor/), [Iroi](/characters/iroi/), [Jiuyuan](/characters/jiuyuan/), [Linko](/characters/linko/), [Mint](/characters/mint/), [Nanally](/characters/nanally/), [Skia](/characters/skia/) |
 | 120 | [Adler](/characters/adler/), [Aurelia](/characters/aurelia/), [Baicang](/characters/baicang/), [Daffodill](/characters/daffodill/), [Fadia](/characters/fadia/), [Haniel](/characters/haniel/), [Lacrimosa](/characters/lacrimosa/), [Sakiri](/characters/sakiri/), [Zankou](/characters/zankou/) |
 
-In this table, Cosmos, Anima and Lakshana characters cost 100; Incantation, Chaos and Psyche characters cost 120, except Blackbird at 100.
+Of the characters with a cost, Cosmos, Anima and Lakshana characters cost 100; Incantation, Chaos and Psyche characters cost 120, except Blackbird at 100.
 
 The NGA analysis gives how energy is shared: a hit fills 100% of its energy for the attacker and 60% for every other party member, whatever the party size, and both scale with Charge Efficiency. Energy from Charge and from Awakenings goes only to the character that triggers it and ignores Charge Efficiency.
 
 ## Co-op and Pink Paws Heist
 
-Two more rules come from the NGA analysis alone.
-
-| Situation | Rule |
+| Situation | Rule, from the NGA analysis |
 | --- | --- |
 | Co-op with 1, 2, 3 or 4 players | Enemy HP ×1, ×1.75, ×2.5, ×3.25; enemy ATK ×1, ×1.2, ×1.4, ×1.6; Break gauge ×1, ×2, ×3, ×4 |
 | Pink Paws Heist | The story balance mode is on: each hit deals a fixed amount set for that skill, so the character's stats do not change it. Effects that raise a skill's multiplier still do, and so do Hexed and Stain |

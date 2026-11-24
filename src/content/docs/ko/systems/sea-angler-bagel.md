@@ -1,6 +1,6 @@
 ---
 title: 바다 낚시꾼과 베이글
-description: NTE의 낚시 콘텐츠(바다 낚시꾼)와 소셜 앱 베이글의 작동 방식과 보상을 정리한다.
+description: NTE의 낚시 콘텐츠 바다 낚시꾼은 비늘 코인과 폰즈를, 소셜 앱 베이글은 좋아요잼을 준다.
 aliases:
   - Sea Angler and Bagel
   - 海上釣客與唄果

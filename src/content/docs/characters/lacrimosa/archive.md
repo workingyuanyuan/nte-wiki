@@ -1,13 +1,13 @@
 ---
 title: Lacrimosa archive
-description: Lacrimosa's 6 archive entries in NTE, as the game writes them.
+description: Lacrimosa has 6 archive entries in NTE.
 aliases:
   - 安魂曲個人檔案
   - 安魂曲个人档案
   - レクイエムのアーカイブ
   - 라크리모사 아카이브
 appliesTo: Game data 1.5.4
-caveat: Each language shows that language's own game text; wording and details can differ between languages.
+caveat: The game's language editions can differ in wording and detail.
 lastVerified: 2026-11-23
 hideAnswer: true
 sidebar:

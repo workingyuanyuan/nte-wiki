@@ -73,8 +73,6 @@ sources:
 | A-Class characters on the Board | [Haniel](/characters/haniel/), [Aurelia](/characters/aurelia/) and [Skia](/characters/skia/) |
 | Roll rewards | "Day Adrift" glider livery, "Starbeat Rush" Yesteryear bike livery, outfit "Shining Idol": claimed on the Void Perks page at 50, 120 and 200 total rolls, or landed on earlier by chance |
 
-How Boards work: [Boards and Arc Research](/systems/boards/).
-
 ## Skills
 
 Akane Rin builds String Energy with Stringblade and sets either single-target Overtone or area Reverb Field via Rhythm Wave to relay Basic Attacks, then spends 30 String Energy on Synced Resonance while using Sonic Boom's two-stage Solo Cadenza window.

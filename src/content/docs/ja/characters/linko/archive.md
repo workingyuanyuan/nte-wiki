@@ -1,13 +1,13 @@
 ---
 title: リンコのアーカイブ
-description: NTE（異環）のキャラクター、リンコのアーカイブ7件のゲーム原文である。
+description: NTE（異環）のキャラクター、リンコのアーカイブは7件である。
 aliases:
   - Linko archive
   - 靈可個人檔案
   - 灵可个人档案
   - 링코 아카이브
 appliesTo: ゲームデータ 1.5.4
-caveat: 各言語のページはその言語版のゲーム原文を載せており、言語間で表現や細部が異なることがある。
+caveat: ゲームの各言語版では、表現や細部が異なることがある。
 lastVerified: 2026-11-23
 hideAnswer: true
 sidebar:

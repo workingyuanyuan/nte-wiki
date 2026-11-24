@@ -1,6 +1,6 @@
 ---
 title: NTE
-description: 'NTE: Neverness to Everness のバージョン、キャラ、システムと各言語の名称対照。'
+description: NTE（異環）はHotta Studioの超現実アーバンオープンワールドRPGで、2026-04-29にリリースされた。
 aliases:
   - Neverness to Everness
   - 異環
@@ -45,7 +45,6 @@ sources:
 
 | 項目 | 内容 |
 | --- | --- |
-| ジャンル | 超現実アーバンオープンワールドRPG |
 | 開発、運営 | Hotta Studio、Perfect World Games（グローバル版） |
 | 正式リリース | 2026-04-29、11:00 |
 | プラットフォーム | PC、Mac、iOS、Android、PlayStation 5 |

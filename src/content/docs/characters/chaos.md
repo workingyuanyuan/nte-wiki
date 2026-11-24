@@ -6,7 +6,7 @@ aliases:
   - カオス
   - 카오스
 appliesTo: Version 1.5, game data 1.5.4
-caveat: 'Chaos is limited: obtainable only while the "Forsaken Path" Board is open. It last closed on 2026-07-08 at 05:59 (UTC+8); Prydwen and Game8 list a rerun from 2026-12-02.'
+caveat: 'Chaos is limited: obtainable only while the "Forsaken Path" Board is open. It last closed on 2026-07-08 at 05:59 (UTC+8); a rerun starts on 2026-12-02.'
 effectiveDate: 2026-06-23
 lastVerified: 2026-11-22
 art:
@@ -77,9 +77,7 @@ Chaos is also the name of an attribute.
 | A-Class characters on the Board | [Haniel](/characters/haniel/), [Aurelia](/characters/aurelia/) and [Skia](/characters/skia/) |
 | Roll rewards | "Skyrider" glider livery, "Hound Blitz" Novis ST-X 950 livery, outfit "Clear Skies": claimed on the Fogshroud Perks page at 50, 120 and 200 total rolls, or landed on earlier by chance |
 
-Prydwen and Game8 list a rerun of "Forsaken Path" and of the Arc "What's Desired" for the second half of Version 1.5, from 2026-12-02; Game8 gives its end as 2026-12-23 05:59 (UTC+8).
-
-How Boards work: [Boards and Arc Research](/systems/boards/).
+A rerun of "Forsaken Path" and of the Arc "What's Desired" runs in the second half of Version 1.5, from 2026-12-02; Game8 gives its end as 2026-12-23 05:59 (UTC+8).
 
 ## Skills
 

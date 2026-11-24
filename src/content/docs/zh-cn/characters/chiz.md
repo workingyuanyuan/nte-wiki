@@ -6,7 +6,7 @@ aliases:
   - ちぃちゃん
   - 치즈
 appliesTo: Version 1.5, game data 1.5.4
-caveat: 小吱不会出现在限定棋盘中。她通过都市大亨取得，该玩法仅见于攻略网站说明，官方公告并未提及。
+caveat: 小吱不会出现在限定棋盘中。她通过都市大亨取得。
 effectiveDate: 2026-06-02
 lastVerified: 2026-11-22
 art:
@@ -51,7 +51,7 @@ Game8 将她的技能拼为「Pink Paws Priority Principe」，Prydwen 则拼为
 
 ## 取得方式
 
-小吱是免费角色。Game8 指出可通过提升都市大亨等级取得她；Prydwen 则将她与她的额外同名角色列为无须付费即可取得。
+Game8 指出可通过提升都市大亨等级取得她；Prydwen 则将她与她的额外同名角色列为无须付费即可取得。
 
 ## 技能
 

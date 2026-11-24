@@ -79,8 +79,6 @@ Haniel is one of three A-Class characters that share a place on Limited Boards, 
 
 Haniel was also a pre-registration reward: one copy was sent by in-game mail to players who logged in after launch.
 
-How Boards work: [Boards and Arc Research](/systems/boards/).
-
 ## Skills
 
 Haniel deploys her speaker Hootie to grant a team ATK bonus and build Four-Part Harmony stacks from active character attacks, triggering Ensemble area Psyche DMG. Her Ultimate grants Paranormal Ace, pausing Hootie's timer and adding Ensemble — Symphony procs that build Plot Armor.

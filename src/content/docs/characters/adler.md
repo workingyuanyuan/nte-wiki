@@ -62,8 +62,6 @@ Adler is one of three A-Class characters that share a place on Limited Boards, b
 | "Before the Dawn" | [Shinku](/characters/shinku/) | 2026-11-11, after maintenance, to 2026-12-02 05:59 (UTC+8) |
 | "Android Dreams" | [Elyms](/characters/elyms/) | 2026-11-11, after maintenance, to 2026-12-02 05:59 (UTC+8) |
 
-How Boards work: [Boards and Arc Research](/systems/boards/).
-
 ## Skills
 
 Adler builds Karma stacks through Basic Attacks and consumes them with his Skill, Evil's Bane, to deal area Incantation DMG over time and grant a Blessing shield, while his Ultimate deals multi-hit Incantation DMG and his Temperance passive debuffs Scorch-afflicted enemies.

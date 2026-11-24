@@ -61,22 +61,20 @@ sources:
 
 ## 울트에너지
 
-대부분의 울티메이트는 울트에너지 100 또는 120을 소모한다(게임 데이터 1.5.4). [호토리](/ko/characters/hotori/)의 울티메이트는 울트에너지가 필요 없고 쿨타임도 없으며, [신쿠](/ko/characters/shinku/)의 울티메이트는 대신 「야성의 투지」를 소모한다. 게임 데이터에는 [엘림](/ko/characters/elyms/)의 소모량이 없다.
+대부분의 울티메이트는 울트에너지 100 또는 120을 소모한다(게임 데이터 1.5.4). [호토리](/ko/characters/hotori/)의 울티메이트는 울트에너지가 필요 없고 쿨타임도 없으며, [신쿠](/ko/characters/shinku/)의 울티메이트는 대신 「야성의 투지」를 소모한다.
 
 | 소모량 | 캐릭터 |
 | --- | --- |
 | 100 | [아카네 린](/ko/characters/akane-rin/), [레이븐](/ko/characters/blackbird/), [카오스](/ko/characters/chaos/), [치즈](/ko/characters/chiz/), [에드가](/ko/characters/edgar/), [이능력자·제로](/ko/characters/zero/), [하토르](/ko/characters/hathor/), [일로이](/ko/characters/iroi/), [구원](/ko/characters/jiuyuan/), [링코](/ko/characters/linko/), [민트](/ko/characters/mint/), [나나리](/ko/characters/nanally/), [스키아](/ko/characters/skia/) |
 | 120 | [아들러](/ko/characters/adler/), [우미츠키](/ko/characters/aurelia/), [백장](/ko/characters/baicang/), [다포딜](/ko/characters/daffodill/), [파디아](/ko/characters/fadia/), [하니엘](/ko/characters/haniel/), [라크리모사](/ko/characters/lacrimosa/), [사키리](/ko/characters/sakiri/), [잔홍](/ko/characters/zankou/) |
 
-이 표에서 빛속성, 령속성, 상속성 캐릭터는 100을, 주속성, 암속성, 혼속성 캐릭터는 120을 소모하며, 예외로 레이븐은 100이다.
+소모량이 있는 캐릭터 중 빛속성, 령속성, 상속성 캐릭터는 100을, 주속성, 암속성, 혼속성 캐릭터는 120을 소모하며, 예외로 레이븐은 100이다.
 
 NGA 분석은 에너지가 나뉘는 방식을 제시한다. 1회 명중은 공격자에게 그 에너지의 100%를, 다른 파티원 각각에게 60%를 파티 인원과 관계없이 채워 주며, 둘 다 에너지 충전 효율에 비례한다. 「차지」와 각성에서 얻는 에너지는 발동한 캐릭터에게만 들어가며 에너지 충전 효율의 영향을 받지 않는다.
 
 ## 협동 플레이와 「핑크퍼스를 털어라」
 
-다음 두 규칙은 NGA 분석에만 나온다.
-
-| 상황 | 규칙 |
+| 상황 | 규칙(NGA 분석) |
 | --- | --- |
 | 1, 2, 3, 4명 협동 플레이 | 적 HP ×1, ×1.75, ×2.5, ×3.25; 적 공격력 ×1, ×1.2, ×1.4, ×1.6; 붕괴 수치 게이지 ×1, ×2, ×3, ×4 |
 | 「핑크퍼스를 털어라」 | 스토리 밸런스 모드가 켜진다: 각 명중은 그 스킬에 정해진 고정량의 피해를 주므로 캐릭터의 스탯은 피해를 바꾸지 않는다. 스킬 배율을 올리는 효과는 여전히 적용되며, 「헥스」와 「스테인」도 적용된다 |

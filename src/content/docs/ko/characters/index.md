@@ -1,6 +1,6 @@
 ---
 title: 캐릭터 목록
-description: 1.5 버전의 플레이 가능 캐릭터 25명과 등급, 속성, 아카이브.
+description: 1.5 버전의 플레이 가능 캐릭터는 25명이며, S급 19명, A급 6명이다.
 aliases:
   - Characters
   - 角色列表

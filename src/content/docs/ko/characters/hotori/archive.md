@@ -1,13 +1,13 @@
 ---
 title: 호토리 아카이브
-description: 이환(NTE) 캐릭터 호토리의 아카이브 5건의 게임 원문이다.
+description: 이환(NTE) 캐릭터 호토리의 아카이브는 5건이다.
 aliases:
   - Hotori archive
   - 潯個人檔案
   - 浔个人档案
   - 潯のアーカイブ
 appliesTo: 게임 데이터 1.5.4
-caveat: 각 언어 페이지는 해당 언어판의 게임 원문을 싣고 있으며, 언어마다 표현과 세부 내용이 다를 수 있다.
+caveat: 게임의 언어판마다 표현과 세부 내용이 다를 수 있다.
 lastVerified: 2026-11-23
 hideAnswer: true
 sidebar:

@@ -59,8 +59,6 @@ Skia is one of three A-Class characters that share a place on Limited Boards, be
 | "Surfing All Channels!" | [Linko](/characters/linko/) | 2026-09-09, after maintenance, to 2026-09-30 05:59 (UTC+8) |
 | "Dazzling Star" | [Akane Rin](/characters/akane-rin/) | 2026-10-21, after maintenance, to 2026-11-11 05:59 (UTC+8) |
 
-How Boards work: [Boards and Arc Research](/systems/boards/).
-
 ## Skills
 
 Skia attaches up to three Fang Thrust shadows per target via Arresting Art and Shadow Hound Chase. His skill activates Tailed to keep Fang Thrusts persistent and enters Shadow Hound Gnaw to trigger extra hits on contact, while The Pack buffs and adds control.

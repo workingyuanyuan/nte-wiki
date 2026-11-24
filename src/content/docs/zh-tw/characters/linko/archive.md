@@ -1,13 +1,13 @@
 ---
 title: 靈可個人檔案
-description: 《異環》角色靈可的 7 則個人檔案，收錄遊戲原文。
+description: 《異環》角色靈可的個人檔案共有 7 則。
 aliases:
   - Linko archive
   - 灵可个人档案
   - リンコのアーカイブ
   - 링코 아카이브
 appliesTo: 遊戲資料 1.5.4
-caveat: 各語言頁面收錄該語言版本的遊戲原文，不同語言的用字與細節可能不同。
+caveat: 遊戲各語言版本的用字與細節可能不同。
 lastVerified: 2026-11-23
 hideAnswer: true
 sidebar:

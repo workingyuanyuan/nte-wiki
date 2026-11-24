@@ -1,6 +1,6 @@
 ---
 title: 角色列表
-description: 1.5 版的 25 位可遊玩角色，附等級、屬性與個人檔案。
+description: 《異環》1.5 版共有 25 位可遊玩角色，其中 S 級 19 位、A 級 6 位。
 aliases:
   - Characters
   - キャラクター一覧

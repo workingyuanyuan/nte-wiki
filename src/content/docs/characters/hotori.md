@@ -74,8 +74,6 @@ sources:
 
 Rolls count per Board name: progress toward Hourglass Perks from the first run carried over to the rerun.
 
-How Boards work: [Boards and Arc Research](/systems/boards/).
-
 ## Skills
 
 Hotori accumulates energy over time on her Non-Closed Timepiece instead of using cooldowns or Ultimate energy. Her Skill spends 60 energy to record up to three ally Support or Redirect Skills, and her Ultimate triggers Time Stop to replay them and unleash katana combos.

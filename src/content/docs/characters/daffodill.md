@@ -67,11 +67,11 @@ Prydwen and Game8 spell the name Daffodil.
 
 | Way | Details |
 | --- | --- |
-| Standard Board | Standard S-Class characters are on the permanent Standard Board of Scarborough Fair, according to Game8 and Prydwen |
+| Standard Board | Standard S-Class characters are on the permanent Standard Board of Scarborough Fair |
 | Selection box, Version 1.2 | S-Class Standard Character Selection Box by mail to every player who created a character before 2026-08-19 05:59 (UTC+8) |
 | Selection box, Version 1.4 | S-Class Standard Character Selection Box from the City Tycoon "Puka Membership Program" |
 
-The box gives one of six characters of the player's choice: Sakiri, Baicang, Hathor, Fadia, Daffodill or Jiuyuan. How Boards work: [Boards and Arc Research](/systems/boards/).
+The box gives one of six characters of the player's choice: Sakiri, Baicang, Hathor, Fadia, Daffodill or Jiuyuan.
 
 ## Skills
 

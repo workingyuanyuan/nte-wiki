@@ -1,13 +1,13 @@
 ---
 title: Jiuyuan archive
-description: Jiuyuan's 6 archive entries in NTE, as the game writes them.
+description: Jiuyuan has 6 archive entries in NTE.
 aliases:
   - 九原個人檔案
   - 九原个人档案
   - 九原のアーカイブ
   - 구원 아카이브
 appliesTo: Game data 1.5.4
-caveat: Each language shows that language's own game text; wording and details can differ between languages.
+caveat: The game's language editions can differ in wording and detail.
 lastVerified: 2026-11-23
 hideAnswer: true
 sidebar:

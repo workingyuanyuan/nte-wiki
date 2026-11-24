@@ -61,22 +61,20 @@ sources:
 
 ## 終結エネルギー
 
-ほとんどのEXレール終結は終結エネルギーを100または120消費する（ゲームデータ1.5.4）。[潯](/ja/characters/hotori/)のEXレール終結は終結エネルギーが不要でクールダウンもない。[真紅](/ja/characters/shinku/)のEXレール終結は代わりに「反逆の闘志」を消費する。ゲームデータには[イェルム](/ja/characters/elyms/)の消費量がない。
+ほとんどのEXレール終結は終結エネルギーを100または120消費する（ゲームデータ1.5.4）。[潯](/ja/characters/hotori/)のEXレール終結は終結エネルギーが不要でクールダウンもない。[真紅](/ja/characters/shinku/)のEXレール終結は代わりに「反逆の闘志」を消費する。
 
 | 消費 | キャラ |
 | --- | --- |
 | 100 | [明音凛](/ja/characters/akane-rin/)、[クロバネ](/ja/characters/blackbird/)、[カオス](/ja/characters/chaos/)、[ちぃちゃん](/ja/characters/chiz/)、[エドガー](/ja/characters/edgar/)、[異能者・零](/ja/characters/zero/)、[ハソール](/ja/characters/hathor/)、[イロヒ](/ja/characters/iroi/)、[九原](/ja/characters/jiuyuan/)、[リンコ](/ja/characters/linko/)、[ミント](/ja/characters/mint/)、[ナナリ](/ja/characters/nanally/)、[翳](/ja/characters/skia/) |
 | 120 | [アドレー](/ja/characters/adler/)、[海月](/ja/characters/aurelia/)、[白蔵](/ja/characters/baicang/)、[ダフォディール](/ja/characters/daffodill/)、[ファルディーヤ](/ja/characters/fadia/)、[ハニア](/ja/characters/haniel/)、[レクイエム](/ja/characters/lacrimosa/)、[早霧](/ja/characters/sakiri/)、[残虹](/ja/characters/zankou/) |
 
-この表では、光、霊、相のキャラが100、呪、闇、魂のキャラが120を消費する。例外はクロバネで100である。
+消費のあるキャラのうち、光、霊、相のキャラが100、呪、闇、魂のキャラが120を消費する。例外はクロバネで100である。
 
 NGAの分析によるエネルギーの分配：攻撃が命中すると、攻撃したキャラはそのエネルギーの100%を、他のパーティメンバーはパーティの人数に関係なくそれぞれ60%を得る。どちらもチャージ効率で増える。「充蓄」と覚醒から得るエネルギーは発動したキャラだけに入り、チャージ効率の影響を受けない。
 
 ## マルチプレイと「にくきゅう大強盗」
 
-次の2つのルールはNGAの分析だけにある。
-
-| 状況 | ルール |
+| 状況 | ルール（NGAの分析より） |
 | --- | --- |
 | 1、2、3、4人のマルチプレイ | 敵のHP ×1、×1.75、×2.5、×3.25。敵の攻撃力 ×1、×1.2、×1.4、×1.6。ブレイク耐性 ×1、×2、×3、×4 |
 | 「にくきゅう大強盗」 | ストーリー用のバランスモードが有効になる。1回の命中はスキルごとに決められた固定量のダメージを与え、キャラのステータスでは変わらない。スキル倍率を上げる効果、「覆紋」と「浸染」は引き続き効果がある |

@@ -105,7 +105,7 @@ sources:
 | [Akane Rin](/characters/akane-rin/) | 明音凜 | 明音凛 | 明音凛 | 아카네 린 |
 | [Elyms](/characters/elyms/) | 曳爾沐 | 曳尔沐 | イェルム | 엘림 |
 
-Taiwan texts write Fadia both as 法帝婭 (official site profile) and 法蒂婭 (news post of 2026-09-09). Daffodill has no Taiwan text among the sources; 達芙蒂爾 is the Simplified name in Traditional characters.
+Taiwan texts write Fadia both as 法帝婭 (official site profile) and 法蒂婭 (news post of 2026-09-09).
 
 The Japanese and Korean names are from the game data. In the game, Esper Zero is 「零」 in Japanese and 「제로」 in Korean; the Japanese and Korean notices write 異能者・零 and 이능력자·제로.
 

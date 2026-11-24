@@ -31,7 +31,7 @@ sources:
 
 ## Types and classes
 
-Arcs come in five types and three classes: S (gold), A (purple) and B (blue). Every Arc has ATK as its first stat, a second stat, and an effect with five ranks. Arcs level to 80 and ascend at levels 30, 40, 50, 60, 70 and 80. Limited S-Class Arcs come from Arc Research Programs; see [Boards and Arc Research](/systems/boards/).
+Arcs come in five types and three classes: S (gold), A (purple) and B (blue). Every Arc has ATK as its first stat, a second stat, and an effect with five ranks. Arcs level to 80 and ascend at levels 30, 40, 50, 60, 70 and 80. Limited S-Class Arcs come from [Arc Research Programs](/systems/boards/).
 
 | Arc type | Characters |
 | --- | --- |
@@ -161,7 +161,7 @@ Values run from rank 1 to rank 5.
 
 ## Ascension materials
 
-Each Arc ascends with one Bubble Can line and one line of Anomaly drops, in three tiers each. Where to farm them: [Progression materials](/systems/progression/).
+Each Arc ascends with one Bubble Can line and one line of Anomaly drops, in three tiers each (see [Progression materials](/systems/progression/)).
 
 | Bubble Can material | Anomaly drop | Arcs |
 | --- | --- | --- |

@@ -39,7 +39,7 @@ sources:
 | Cartridge | Sets the set effect; carries one main stat and four sub stats, rolled when it drops |
 | Module | Fills the grid; one main stat and up to four sub stats. Sorted by type (cells taken) and shape |
 | Set effect | 2 and 4 Modules of the shapes the Cartridge lists activate its 2-piece and 4-piece effects |
-| Character bonus | Each character gains a stat for every Module of one type, listed below |
+| Character bonus | Each character gains a stat for every Module of one type |
 
 ## Where they come from
 
@@ -52,7 +52,7 @@ sources:
 
 ## Upgrading and dismantling
 
-Modules and Cartridges level up with Manhole items. Dismantling an upgraded Module returns all the EXP it holds from upgrades and 80% of the Beetle Coins; feeding it straight into another piece loses part of that EXP. An upgraded Module is better dismantled than fed.
+Modules and Cartridges level up with Manhole items. Dismantling an upgraded Module returns all the EXP it holds from upgrades and 80% of the Beetle Coins; feeding it straight into another piece loses part of that EXP.
 
 A player test on the NGA forum adds the details, for Cartridges as well as Modules:
 

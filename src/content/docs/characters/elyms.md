@@ -73,8 +73,6 @@ sources:
 | A-Class characters on the Board | [Mint](/characters/mint/), [Edgar](/characters/edgar/) and [Adler](/characters/adler/) |
 | Roll rewards | "Joy Buoy" glider, "+Friend & Rescue+" Novus A001 livery, outfit "Drifting Petals": claimed on the Dialing Perks page at 50, 120 and 200 total rolls, or landed on earlier by chance |
 
-How Boards work: [Boards and Arc Research](/systems/boards/).
-
 ## Skills
 
 Elyms upgrades Connection Strength from Weak to Strong Connection using Basic Attack combos, Redirect Skills, and her Support Skill to scale her Ultimate and off-field Remembrance Follow-up Attacks while buffing team ATK and Follow-up Attack DMG.

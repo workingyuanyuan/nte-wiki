@@ -1,6 +1,6 @@
 ---
 title: 부동산과 이상 가구
-description: 폰즈로 살 수 있는 부동산 7곳과, 곳마다 다른 효과의 이상 가구 구성을 정리한다.
+description: 폰즈로 살 수 있는 부동산은 7곳이며, 곳마다 효과가 다른 이상 가구 한 세트를 갖춘다.
 aliases:
   - Properties and Anomaly Furniture
   - 房產與異象家具

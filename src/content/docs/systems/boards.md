@@ -92,7 +92,7 @@ sources:
 | A-Class characters | Either [Mint](/characters/mint/), [Edgar](/characters/edgar/) and [Adler](/characters/adler/), or [Haniel](/characters/haniel/), [Aurelia](/characters/aurelia/) and [Skia](/characters/skia/) |
 | Limited Arc | One limited S-Class Arc per limited character, in its own Arc Research Program, open during the same period as the Board |
 | Cost of Arc Research | Tri-Keys; since Version 1.2 also the program's own Keys, such as Resolve Keys |
-| Standard Board | Permanent, with the standard S-Class and A-Class characters and its own pool and pity, according to Game8 and Prydwen |
+| Standard Board | Permanent, with the standard S-Class and A-Class characters and its own pool and pity |
 
 Prydwen states that the counter toward a guaranteed limited S-Class character carries over from one Limited Board to the next, while Arc programs and the Standard Board keep counters of their own. That counter is not the roll count of a Perks page.
 
@@ -118,7 +118,7 @@ All times are UTC+8. A run starts after the maintenance of its first day and end
 | 2026-11-11 to 2026-12-02 | [Elyms](/characters/elyms/) | Android Dreams | Dialing Perks | Mint, Edgar, Adler |
 | 2026-11-11 to 2026-12-02 | Shinku, rerun | Before the Dawn | Resolve Perks | Mint, Edgar, Adler |
 
-From 2026-12-02, Prydwen and Game8 list a new Board with the S-Class character Exe and a rerun of Chaos on "Forsaken Path".
+From 2026-12-02, a new Board carries the S-Class character Exe, and Chaos returns on "Forsaken Path".
 
 ## Limited Arcs
 

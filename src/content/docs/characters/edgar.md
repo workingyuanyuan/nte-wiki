@@ -62,8 +62,6 @@ Edgar is one of three A-Class characters that share a place on Limited Boards, b
 | "Before the Dawn" | [Shinku](/characters/shinku/) | 2026-11-11, after maintenance, to 2026-12-02 05:59 (UTC+8) |
 | "Android Dreams" | [Elyms](/characters/elyms/) | 2026-11-11, after maintenance, to 2026-12-02 05:59 (UTC+8) |
 
-How Boards work: [Boards and Arc Research](/systems/boards/).
-
 ## Skills
 
 Edgar heals allies through his channeled Skill and Ultimate domain, earns Key of Truth stacks from Skills and Support Skills to extend his Ultimate duration, and restores Ultimate Energy via Charge Enhancement.

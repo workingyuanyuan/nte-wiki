@@ -28,8 +28,8 @@ L = {
         arcs_h='Arc descriptions', items_h='Item descriptions', arc='Arc', item='Item', evx='Everness, {kind} pages in Traditional Chinese (example: {name}, read {read})', kinds={'outfit': 'outfit', 'arc': 'Arc', 'item': 'item'},
         evo='Everness, outfit {name} in Traditional Chinese (read {read})', title='{name} archive', archive='Archive', no='No.', entry='Entry', named='Characters named',
         desc='Description', profile='Profile', outfits='Outfits', applies='Game data {v}',
-        description="{name}'s {n} archive entries in NTE, as the game writes them.",
-        caveat="Each language shows that language's own game text; wording and details can differ between languages.",
+        description='{name} has {n} archive entries in NTE.',
+        caveat="The game's language editions can differ in wording and detail.",
         src='nanoka.cc game data {v}, character file in {lang}', ev='Everness, {name} page in {lang} (read {read})',
         langs={'zh-tw': 'Traditional Chinese', 'en': 'English', 'zh-cn': 'Chinese', 'ja': 'Japanese', 'ko': 'Korean'}, sep=', ', none='None'),
     'zh-tw': dict(
@@ -37,8 +37,8 @@ L = {
         arcs_h='弧盤說明', items_h='材料說明', arc='弧盤', item='材料', evx='Everness，{kind}頁面（繁體中文，例：{name}，{read} 讀取）', kinds={'outfit': '時裝', 'arc': '弧盤', 'item': '道具'},
         evo='Everness，時裝「{name}」（繁體中文，{read} 讀取）', title='{name}個人檔案', archive='個人檔案', no='序號', entry='條目', named='提及的角色',
         desc='說明', profile='角色資料', outfits='時裝', applies='遊戲資料 {v}',
-        description='《異環》角色{name}的 {n} 則個人檔案，收錄遊戲原文。',
-        caveat='各語言頁面收錄該語言版本的遊戲原文，不同語言的用字與細節可能不同。',
+        description='《異環》角色{name}的個人檔案共有 {n} 則。',
+        caveat='遊戲各語言版本的用字與細節可能不同。',
         src='nanoka.cc 遊戲資料 {v}，角色檔案（{lang}）', ev='Everness，{name}頁面（{lang}，{read} 讀取）',
         langs={'zh-tw': '繁體中文', 'en': '英文', 'zh-cn': '中文', 'ja': '日文', 'ko': '韓文'}, sep='、', none='無'),
     'zh-cn': dict(
@@ -46,8 +46,8 @@ L = {
         arcs_h='弧盘说明', items_h='材料说明', arc='弧盘', item='材料', evx='Everness，{kind}页面（繁体中文，例：{name}，{read} 读取）', kinds={'outfit': '时装', 'arc': '弧盘', 'item': '道具'},
         evo='Everness，时装「{name}」（繁体中文，{read} 读取）', title='{name}个人档案', archive='个人档案', no='序号', entry='条目', named='提及的角色',
         desc='说明', profile='角色资料', outfits='时装', applies='游戏数据 {v}',
-        description='《异环》角色{name}的 {n} 则个人档案，收录游戏原文。',
-        caveat='各语言页面收录该语言版本的游戏原文，不同语言的用字与细节可能不同。',
+        description='《异环》角色{name}的个人档案共有 {n} 则。',
+        caveat='游戏各语言版本的用字与细节可能不同。',
         src='nanoka.cc 游戏数据 {v}，角色档案（{lang}）', ev='Everness，{name}页面（{lang}，{read} 读取）',
         langs={'zh-tw': '繁体中文', 'en': '英文', 'zh-cn': '中文', 'ja': '日文', 'ko': '韩文'}, sep='、', none='无'),
     'ja': dict(
@@ -55,8 +55,8 @@ L = {
         arcs_h='弧盤の説明', items_h='素材の説明', arc='弧盤', item='素材', evx='Everness、{kind}のページ（繁体字中国語、例：{name}、{read}取得）', kinds={'outfit': 'コスチューム', 'arc': '弧盤', 'item': 'アイテム'},
         evo='Everness、コスチューム「{name}」（繁体字中国語、{read}取得）', title='{name}のアーカイブ', archive='アーカイブ', no='番号', entry='項目', named='登場するキャラクター',
         desc='説明', profile='プロフィール', outfits='コスチューム', applies='ゲームデータ {v}',
-        description='NTE（異環）のキャラクター、{name}のアーカイブ{n}件のゲーム原文である。',
-        caveat='各言語のページはその言語版のゲーム原文を載せており、言語間で表現や細部が異なることがある。',
+        description='NTE（異環）のキャラクター、{name}のアーカイブは{n}件である。',
+        caveat='ゲームの各言語版では、表現や細部が異なることがある。',
         src='nanoka.cc ゲームデータ{v}、キャラクターファイル（{lang}）', ev='Everness、{name}のページ（{lang}、{read}取得）',
         langs={'zh-tw': '繁体字中国語', 'en': '英語', 'zh-cn': '中国語', 'ja': '日本語', 'ko': '韓国語'}, sep='、', none='なし'),
     'ko': dict(
@@ -64,8 +64,8 @@ L = {
         arcs_h='아크 설명', items_h='재료 설명', arc='아크', item='재료', evx='Everness, {kind} 페이지(번체 중국어, 예: {name}, {read} 확인)', kinds={'outfit': '코스튬', 'arc': '아크', 'item': '아이템'},
         evo='Everness, 코스튬 「{name}」(번체 중국어, {read} 확인)', title='{name} 아카이브', archive='아카이브', no='번호', entry='항목', named='언급된 캐릭터',
         desc='설명', profile='프로필', outfits='코스튬', applies='게임 데이터 {v}',
-        description='이환(NTE) 캐릭터 {name}의 아카이브 {n}건의 게임 원문이다.',
-        caveat='각 언어 페이지는 해당 언어판의 게임 원문을 싣고 있으며, 언어마다 표현과 세부 내용이 다를 수 있다.',
+        description='이환(NTE) 캐릭터 {name}의 아카이브는 {n}건이다.',
+        caveat='게임의 언어판마다 표현과 세부 내용이 다를 수 있다.',
         src='nanoka.cc 게임 데이터 {v}, {lang} 캐릭터 파일', ev='Everness, 「{name}」 페이지({lang}, {read} 확인)',
         langs={'zh-tw': '번체 중국어', 'en': '영어', 'zh-cn': '중국어', 'ja': '일본어', 'ko': '한국어'}, sep=', ', none='없음'),
 }
@@ -115,12 +115,16 @@ def named(rec, chars, slug):
 
 
 def write_archive(path, md):
-    # lastVerified moves only when the text changes: an unchanged page keeps its date.
+    # lastVerified moves only when the game text in the body changes: an edit to the
+    # site's own wording (description, caveat) does not re-read the page against its sources.
     date = re.compile(r'^lastVerified: .*$', re.M)
+    body = lambda t: t.split('\n---\n', 1)[-1]
     if os.path.exists(path):
         old = open(path, encoding='utf-8').read()
         if date.sub('', old) == date.sub('', md):
             return
+        if body(old) == body(md) and date.search(old):
+            md = date.sub(lambda _: date.search(old).group(0), md, count=1)
     open(path, 'w', encoding='utf-8').write(md)
 
 

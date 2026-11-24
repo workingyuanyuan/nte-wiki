@@ -1,6 +1,6 @@
 ---
 title: Neverness to Everness
-description: 'Neverness to Everness (NTE): versions, characters, systems and names in each language.'
+description: Neverness to Everness (NTE) is a supernatural urban open-world RPG by Hotta Studio, launched on 2026-04-29.
 aliases:
   - NTE
   - 異環
@@ -45,7 +45,6 @@ sources:
 
 | Fact | Value |
 | --- | --- |
-| Genre | Supernatural urban open-world RPG |
 | Developer, publisher | Hotta Studio; Perfect World Games (global) |
 | Launch | 2026-04-29, 11:00 |
 | Platforms | PC, Mac, iOS, Android, PlayStation 5 |

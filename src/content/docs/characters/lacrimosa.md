@@ -74,8 +74,6 @@ sources:
 
 Rolls count per Board name: progress toward Daydream Perks from the first run carried over to the rerun.
 
-How Boards work: [Boards and Arc Research](/systems/boards/).
-
 ## Skills
 
 Lacrimosa switches between Tomato Metal and Tomato Percussion forms to stack Nightmare and change Working Day Judgement's attack pattern. Through Devilish Inspiration, she can also learn enemy techniques to temporarily replace Morning Tomato with Devilish Gift.

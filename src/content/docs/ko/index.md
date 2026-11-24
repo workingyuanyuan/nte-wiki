@@ -1,6 +1,6 @@
 ---
 title: 이환
-description: 이환(NTE)의 버전, 캐릭터, 시스템과 언어별 명칭 대조.
+description: 이환(NTE)은 Hotta Studio가 개발한 초자연 어반 오픈월드 RPG로, 2026-04-29에 정식 출시되었다.
 aliases:
   - Neverness to Everness
   - NTE
@@ -45,7 +45,6 @@ sources:
 
 | 항목 | 내용 |
 | --- | --- |
-| 장르 | 초자연 어반 오픈월드 RPG |
 | 개발사, 퍼블리셔 | Hotta Studio; Perfect World Games(글로벌) |
 | 정식 출시 | 2026-04-29, 11:00 |
 | 플랫폼 | PC, Mac, iOS, Android, PlayStation 5 |

@@ -8,7 +8,7 @@ aliases:
   - 육성 재료
 appliesTo: Version 1.5, game data 1.5.4
 lastVerified: 2026-11-19
-caveat: Each character ascends with one Anomaly drop line and one Anomaly Hunt material, and upgrades skills with one Houdinii's Schemes line and one Anomaly Pilgrimage material; the tables name which.
+caveat: Each character ascends with one Anomaly drop line and one Anomaly Hunt material, and upgrades skills with one Houdinii's Schemes line and one Anomaly Pilgrimage material.
 sources:
   - title: nanoka.cc game data 1.5.4, items in English
     url: https://static.nanoka.cc/nte/1.5.4/en/item.json
@@ -45,7 +45,7 @@ sources:
 | Character level | Up to 80; ascension at levels 30, 40, 50, 60, 70 and 80 |
 | Arc level | Up to 80; ascension at the same levels |
 | Level cap | Prydwen states that a character cannot pass the player's Hunter Level |
-| Awakenings | Six per character, one per duplicate, chosen in any order; Resonances at 3 and 6 Awakenings. Each character page lists them |
+| Awakenings | Six per character, one per duplicate, chosen in any order; Resonances at 3 and 6 Awakenings |
 
 ## Character EXP
 

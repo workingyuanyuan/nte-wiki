@@ -74,8 +74,6 @@ sources:
 
 Rolls count per Board name: progress toward Tiger Perks from the first run carried over to the rerun.
 
-How Boards work: [Boards and Arc Research](/systems/boards/).
-
 ## Skills
 
 Nanally chains uninterrupted five-hit combos into Heavy Hitter! strikes while empowering herself with Ichi-daime's Authority to trigger follow-up attacks on team Esper Cycle DMG. Her Ultimate summons Underboss to pull enemies and coordinate follow-up strikes, while Blossom Enhancement accelerates Vita Bud fire.

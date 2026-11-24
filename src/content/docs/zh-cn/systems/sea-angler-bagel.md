@@ -1,6 +1,6 @@
 ---
 title: 海上钓客与呗果
-description: 《异环》钓鱼玩法「海上钓客」与游戏内社群应用「呗果」的运作方式与奖励。
+description: 《异环》的钓鱼玩法「海上钓客」收益为鱼鳞币与方斯，社群应用「呗果」收益为过奖果酱。
 aliases:
   - Sea Angler and Bagel
   - 海上釣客與唄果

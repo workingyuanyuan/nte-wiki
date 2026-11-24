@@ -1,6 +1,6 @@
 ---
 title: 戰鬥數值
-description: 《異環》計算傷害、暴擊、傾陷與終結能量的規則與公式。
+description: 《異環》如何計算傷害、暴擊、傾陷與終結能量。
 aliases:
   - Combat formulas
   - 战斗数值
@@ -61,22 +61,20 @@ sources:
 
 ## 終結能量
 
-多數角色的極軌終結消耗 100 或 120 點終結能量（遊戲資料 1.5.4）。[潯](/zh-tw/characters/hotori/)的極軌終結不需要終結能量，也沒有冷卻時間；[真紅](/zh-tw/characters/shinku/)的極軌終結改為消耗「桀驁鬥志」。遊戲資料未列出[曳爾沐](/zh-tw/characters/elyms/)的消耗。
+多數角色的極軌終結消耗 100 或 120 點終結能量（遊戲資料 1.5.4）。[潯](/zh-tw/characters/hotori/)的極軌終結不需要終結能量，也沒有冷卻時間；[真紅](/zh-tw/characters/shinku/)的極軌終結改為消耗「桀驁鬥志」。
 
 | 消耗 | 角色 |
 | --- | --- |
 | 100 | [明音凜](/zh-tw/characters/akane-rin/)、[黑羽](/zh-tw/characters/blackbird/)、[卡厄斯](/zh-tw/characters/chaos/)、[小吱](/zh-tw/characters/chiz/)、[埃德嘉](/zh-tw/characters/edgar/)、[異能者·零](/zh-tw/characters/zero/)、[哈索爾](/zh-tw/characters/hathor/)、[伊洛伊](/zh-tw/characters/iroi/)、[九原](/zh-tw/characters/jiuyuan/)、[靈可](/zh-tw/characters/linko/)、[薄荷](/zh-tw/characters/mint/)、[娜娜莉](/zh-tw/characters/nanally/)、[翳](/zh-tw/characters/skia/) |
 | 120 | [阿德勒](/zh-tw/characters/adler/)、[海月](/zh-tw/characters/aurelia/)、[白藏](/zh-tw/characters/baicang/)、[達芙蒂爾](/zh-tw/characters/daffodill/)、[法帝婭](/zh-tw/characters/fadia/)、[哈尼婭](/zh-tw/characters/haniel/)、[安魂曲](/zh-tw/characters/lacrimosa/)、[早霧](/zh-tw/characters/sakiri/)、[殘虹](/zh-tw/characters/zankou/) |
 
-此表中，光、靈、相屬性角色消耗 100 點；咒、暗、魂屬性角色消耗 120 點，唯獨黑羽為 100 點。
+有消耗的角色中，光、靈、相屬性角色消耗 100 點；咒、暗、魂屬性角色消耗 120 點，唯獨黑羽為 100 點。
 
 NGA 的分析給出了能量分配方式：命中時，攻擊者獲得 100% 能量，其餘每名隊友各獲得 60%，不論隊伍人數多寡，且兩者皆受充能效率加成。來自「盈蓄」與覺醒的能量只給予觸發效果的角色，且不受充能效率影響。
 
 ## 連線與粉爪大劫案
 
-以下兩項規則僅見於 NGA 的分析。
-
-| 情境 | 規則 |
+| 情境 | 規則（出自 NGA 的分析） |
 | --- | --- |
 | 1、2、3 或 4 人連線 | 敵人生命值 ×1、×1.75、×2.5、×3.25；敵人攻擊力 ×1、×1.2、×1.4、×1.6；傾陷值 ×1、×2、×3、×4 |
 | 粉爪大劫案 | 開啟劇情平衡模式：每次命中造成該技能設定的固定傷害，角色數值不會影響傷害；提升技能倍率的效果以及「覆紋」與「浸染」仍會生效 |

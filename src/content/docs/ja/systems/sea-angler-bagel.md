@@ -1,6 +1,6 @@
 ---
 title: 海釣りとベーグル
-description: NTEの釣り「海釣り」とSNSアプリ「ベーグル」の仕組みと報酬。
+description: NTEの釣り「海釣り」の報酬は魚鱗コインとファンス、SNSアプリ「ベーグル」の報酬はジャムポイントである。
 aliases:
   - Sea Angler and Bagel
   - 海上釣客與唄果

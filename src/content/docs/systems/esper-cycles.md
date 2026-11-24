@@ -30,7 +30,7 @@ sources:
 
 ## The cycle
 
-The six attributes sit on a ring in this order: Cosmos, Anima, Incantation, Chaos, Psyche, Lakshana, and back to Cosmos. Two neighbours on the ring make a two-attribute reaction. Charge and Discord combine three neighbours.
+The six attributes sit on a ring in this order: Cosmos, Anima, Incantation, Chaos, Psyche, Lakshana, and back to Cosmos. Charge and Discord combine three neighbours.
 
 Prydwen describes the trigger: when the Cycle gauge is full and the player switches to a character whose attribute borders the one on the field, the incoming character's entry skill sets off the reaction.
 
@@ -58,13 +58,13 @@ A reaction set off by a switch involves two characters: the one on the field and
 
 Of the reaction damage, only Scorch can land critical hits by default. Its Crit Rate is fixed at 50%, and it uses the Crit DMG of the character whose stats count. GameWith adds that Cycle Intensity has no effect on Remora, Charge and Discord, which deal no damage.
 
-A player analysis on the NGA forum gives the exact rule. For Blossom, Scorch and Nova the game compares each character's base reaction damage, which grows with level, multiplied by a Cycle Intensity factor. On a tie, the character whose entry attack set off the reaction counts, and the choice is fixed when the reaction triggers. The 20% of Hexed and of Stain is the value at 0 Cycle Intensity and rises with the Cycle Intensity of the character who deals the damage.
+A player analysis on the NGA forum gives the exact rule: for Blossom, Scorch and Nova the game compares each character's base reaction damage, which grows with level, multiplied by a Cycle Intensity factor. On a tie, the character whose entry attack set off the reaction counts, and the choice is fixed when the reaction triggers. The 20% of Hexed and of Stain is the value at 0 Cycle Intensity and rises with the Cycle Intensity of the character who deals the damage.
 
 ## Character enhancements
 
-Every playable character has a passive that strengthens one or two reactions. The texts below are the in-game passive texts of game data 1.5.4.
+Every playable character has a passive that strengthens one or two reactions.
 
-| Reaction | Character | Enhancement |
+| Reaction | Character | Passive text (game data 1.5.4) |
 | --- | --- | --- |
 | Blossom | [Nanally](/characters/nanally/) | Fires 10 Vita Pistils with Vita Bud, reducing the interval between each shot to 1s. |
 | Blossom | [Mint](/characters/mint/) | Expands Vita Pistils' damage area on hit. |

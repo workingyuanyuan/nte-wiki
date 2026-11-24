@@ -1,6 +1,6 @@
 ---
 title: Sea Angler and Bagel
-description: How fishing (Sea Angler) and the Bagel social app work in NTE, and what they pay.
+description: Sea Angler, the fishing hobby of NTE, pays Scale Coins and Fons; the Bagel social app pays Praise Jam.
 aliases:
   - 海上釣客與唄果
   - 海上钓客与呗果

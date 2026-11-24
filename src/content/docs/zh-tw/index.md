@@ -1,6 +1,6 @@
 ---
 title: 異環
-description: '《異環》（NTE）的版本資訊、角色、系統與各語言名稱對照。'
+description: 《異環》（NTE）是 Hotta Studio 開發的超自然都市開放世界 RPG，2026-04-29 正式上線。
 aliases:
   - Neverness to Everness
   - NTE
@@ -45,7 +45,6 @@ sources:
 
 | 項目 | 內容 |
 | --- | --- |
-| 類型 | 超自然都市開放世界 RPG |
 | 開發商、發行商 | Hotta Studio；Perfect World Games（國際版） |
 | 正式上線 | 2026-04-29，11:00 |
 | 支援平台 | PC、Mac、iOS、Android、PlayStation 5 |

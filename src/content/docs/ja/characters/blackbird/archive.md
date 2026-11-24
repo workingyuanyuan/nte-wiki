@@ -1,13 +1,13 @@
 ---
 title: クロバネのアーカイブ
-description: NTE（異環）のキャラクター、クロバネのアーカイブ8件のゲーム原文である。
+description: NTE（異環）のキャラクター、クロバネのアーカイブは8件である。
 aliases:
   - Blackbird archive
   - 黑羽個人檔案
   - 黑羽个人档案
   - 레이븐 아카이브
 appliesTo: ゲームデータ 1.5.4
-caveat: 各言語のページはその言語版のゲーム原文を載せており、言語間で表現や細部が異なることがある。
+caveat: ゲームの各言語版では、表現や細部が異なることがある。
 lastVerified: 2026-11-23
 hideAnswer: true
 sidebar:

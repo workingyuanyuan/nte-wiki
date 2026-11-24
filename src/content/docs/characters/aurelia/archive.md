@@ -1,13 +1,13 @@
 ---
 title: Aurelia archive
-description: Aurelia's 6 archive entries in NTE, as the game writes them.
+description: Aurelia has 6 archive entries in NTE.
 aliases:
   - 海月個人檔案
   - 海月个人档案
   - 海月のアーカイブ
   - 우미츠키 아카이브
 appliesTo: Game data 1.5.4
-caveat: Each language shows that language's own game text; wording and details can differ between languages.
+caveat: The game's language editions can differ in wording and detail.
 lastVerified: 2026-11-23
 hideAnswer: true
 sidebar:

@@ -88,8 +88,6 @@ Mint is one of three A-Class characters that share a place on Limited Boards, be
 | "Before the Dawn" | [Shinku](/characters/shinku/) | 2026-11-11, after maintenance, to 2026-12-02 05:59 (UTC+8) |
 | "Android Dreams" | [Elyms](/characters/elyms/) | 2026-11-11, after maintenance, to 2026-12-02 05:59 (UTC+8) |
 
-How Boards work: [Boards and Arc Research](/systems/boards/).
-
 ## Skills
 
 Mint is an on-field Anima attacker who chains five-hit combos, Stamina-draining Minty Whirlwind spins, dash strikes, and multi-hit AoE slashes. While on-field she gains increased DEF and interruption resistance, and her Blossom Enhancement expands the damage area of Vita Pistils.

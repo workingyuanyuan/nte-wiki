@@ -1,13 +1,13 @@
 ---
 title: 하토르 아카이브
-description: 이환(NTE) 캐릭터 하토르의 아카이브 6건의 게임 원문이다.
+description: 이환(NTE) 캐릭터 하토르의 아카이브는 6건이다.
 aliases:
   - Hathor archive
   - 哈索爾個人檔案
   - 哈索尔个人档案
   - ハソールのアーカイブ
 appliesTo: 게임 데이터 1.5.4
-caveat: 각 언어 페이지는 해당 언어판의 게임 원문을 싣고 있으며, 언어마다 표현과 세부 내용이 다를 수 있다.
+caveat: 게임의 언어판마다 표현과 세부 내용이 다를 수 있다.
 lastVerified: 2026-11-23
 hideAnswer: true
 sidebar:

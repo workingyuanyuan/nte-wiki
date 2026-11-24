@@ -61,8 +61,6 @@ Aurelia is one of three A-Class characters that share a place on Limited Boards,
 | "Surfing All Channels!" | [Linko](/characters/linko/) | 2026-09-09, after maintenance, to 2026-09-30 05:59 (UTC+8) |
 | "Dazzling Star" | [Akane Rin](/characters/akane-rin/) | 2026-10-21, after maintenance, to 2026-11-11 05:59 (UTC+8) |
 
-How Boards work: [Boards and Arc Research](/systems/boards/).
-
 ## Skills
 
 Aurelia fights by entering the Cadenza state with Cadenza Aria and riding a jellyfish in Staccato to trigger periodic jellyfish blasts, building Crescendo ATK stacks while grouping enemies with Canzon Chorus and dealing bonus Psyche DMG after Nova ends.
