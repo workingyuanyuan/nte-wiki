@@ -318,10 +318,10 @@ starlight-toc a[aria-current='true'] {
 	}
 }
 /* Very wide windows: header, sidebar, text and table of contents in one centred frame.
-   --frame-gap is 0 below 96rem; % resolves against the viewport (fixed boxes) or the page. */
+   --frame-gap is 0 up to 120rem (1920 px); % resolves against the viewport (fixed boxes) or the page. */
 @media (min-width: 72rem) {
 	:root {
-		--frame-gap: max(0px, (100% - 96rem) / 2);
+		--frame-gap: max(0px, (100% - 120rem) / 2);
 	}
 	header.header {
 		padding-inline: calc(var(--sl-nav-pad-x) + var(--frame-gap));
