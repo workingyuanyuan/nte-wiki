@@ -18,7 +18,6 @@ const sections = sidebar
 ---
 
 <a href={siteTitleHref} class="site-title" translate="no">
-	<svg class="site-icon" viewBox="0 0 32 32" aria-hidden="true" focusable="false"><rect width="32" height="32" class="ground" /><path d="M13 12h14l-3 14H10z" class="back" /><path d="M8 6h14l-3 14H5z" class="front" /></svg>
 	<span class="name">{siteTitle}</span>
 	<span class="unofficial">{t.unofficial}</span>
 </a>
@@ -39,21 +38,18 @@ const sections = sidebar
 		text-decoration: none;
 		white-space: nowrap;
 	}
-	/* The site's icon, the same drawing as public/favicon.svg. Static: the moving logo mark
-	   was removed (AGENTS.md, Look). Inline SVG; check-dist strips svg from the page text. */
-	.site-icon {
-		flex: none;
-		width: 24px;
-		height: 24px;
-	}
-	.site-icon .ground {
-		fill: #14191d;
-	}
-	.site-icon .back {
-		fill: var(--nte-pink);
-	}
-	.site-icon .front {
-		fill: var(--nte-cyan);
+	/* Two slanted cards before the name, cyan over pink, as in the favicon. Static: the
+	   cursor after the name is the header's one moving mark (AGENTS.md, Look). */
+	.name::before {
+		content: '';
+		display: inline-block;
+		width: 10px;
+		height: 16px;
+		margin-inline: 2px 14px;
+		background: var(--nte-cyan);
+		box-shadow: 4px 4px 0 var(--nte-pink);
+		transform: skewX(-12deg);
+		vertical-align: -1px;
 	}
 	.name::after {
 		content: '';
