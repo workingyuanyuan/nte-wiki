@@ -306,15 +306,56 @@ starlight-toc a[aria-current='true'] {
 		}
 	}
 }
-/* Header: site name and section links | search | buttons. The side tracks never shrink below
-   their content, so where the left side is wide the search moves right instead of cutting
-   the links. With equal sidebars and a table of contents the middle is the text column's. */
+/* Header: the site name on the left, the section links in the middle, the buttons on the right,
+   and search at the top of the left sidebar. The side tracks never shrink below their content,
+   so where the left side is wide the links move right instead of being cut. Search stays the
+   one instance Starlight renders (one dialog, one Ctrl+K), moved by position only: in the tab
+   order it follows the section links. The sidebar's ground is the page's (see above), so the
+   band under it needs none. Pages without a sidebar (404) keep search in the header's middle. */
+@media screen and (min-width: 50rem) {
+	:root[data-has-sidebar] {
+		--search-band: 3.5rem;
+	}
+	:root[data-has-sidebar] header.header > .header > :has(> site-search) {
+		position: absolute;
+		inset-block-start: var(--sl-nav-height);
+		inset-inline-start: var(--frame-gap, 0px);
+		box-sizing: border-box;
+		width: var(--sl-sidebar-width);
+		height: var(--search-band);
+		align-items: flex-end;
+		padding-inline: var(--sl-sidebar-pad-x);
+	}
+	:root[data-has-sidebar] header.header > .header > .right-group {
+		grid-column: 3;
+		justify-self: end;
+	}
+	:root[data-has-sidebar] .sidebar-pane {
+		inset-block-start: calc(var(--sl-nav-height) + var(--search-band));
+	}
+}
 @media (min-width: 72rem) {
 	header.header > .header {
 		grid-template-columns: minmax(max-content, 1fr) minmax(10rem, 22rem) minmax(max-content, 1fr);
 	}
 	header.header > .header > .right-group {
 		justify-self: end;
+	}
+}
+@media screen and (min-width: 72rem) {
+	:root[data-has-sidebar] header.header > .header {
+		grid-template-columns: minmax(max-content, 1fr) auto minmax(max-content, 1fr);
+	}
+	:root[data-has-sidebar] header.header > .header > .title-wrapper {
+		display: contents;
+	}
+	:root[data-has-sidebar] header.header > .header > .title-wrapper > .site-title {
+		grid-column: 1;
+		justify-self: start;
+	}
+	:root[data-has-sidebar] header.header > .header > .title-wrapper > nav {
+		grid-column: 2;
+		margin-inline: 0;
 	}
 }
 /* Very wide windows: header, sidebar, text and table of contents in one centred frame.
@@ -373,6 +414,12 @@ site-search button[data-open-modal] {
 	vertical-align: -0.08em;
 }
 .content-panel + .content-panel {
+	border-top: 0;
+	padding-top: 0;
+}
+/* The rule under the title spans the text column, not the space between the sidebars. */
+.content-panel + .content-panel > .sl-container {
+	padding-top: 1.5rem;
 	border-top: 2px dashed var(--nte-line);
 }
 
@@ -529,9 +576,23 @@ site-search button[data-open-modal] {
 	padding-top: 0;
 	border-top: 0;
 }
-/* A full-width table would drop below the float, so the first one gets the width left over. */
-.sl-markdown-content p:has(> img[src*='/art/characters/']) + .sl-heading-wrapper + table:not(:where(.not-content *)) {
-	width: calc(100% - var(--portrait) - 1.75rem - 8px);
+/* The first table fills the width beside the portrait, or the column once it is below it
+   (root AGENTS.md, Visible page): a table next to a float stretches to the space left. */
+/* One value per @supports: in one rule the build keeps only the last. */
+@supports (width: -webkit-fill-available) {
+	.sl-markdown-content p:has(> img[src*='/art/characters/']) ~ table:first-of-type:not(:where(.not-content *)) {
+		width: -webkit-fill-available;
+	}
+}
+@supports (width: -moz-available) {
+	.sl-markdown-content p:has(> img[src*='/art/characters/']) ~ table:first-of-type:not(:where(.not-content *)) {
+		width: -moz-available;
+	}
+}
+@supports (width: stretch) {
+	.sl-markdown-content p:has(> img[src*='/art/characters/']) ~ table:first-of-type:not(:where(.not-content *)) {
+		width: stretch;
+	}
 }
 .sl-markdown-content p:has(> img[src*='/art/characters/']) ~ .sl-heading-wrapper ~ .sl-heading-wrapper {
 	clear: both;
@@ -541,9 +602,6 @@ site-search button[data-open-modal] {
 		float: none;
 		width: min(100%, 18rem);
 		margin: 0 auto 1.5rem;
-	}
-	.sl-markdown-content p:has(> img[src*='/art/characters/']) + .sl-heading-wrapper + table:not(:where(.not-content *)) {
-		width: 100%;
 	}
 }
 
