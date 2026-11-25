@@ -18,7 +18,7 @@ It needs no token and changes no page. It reads the English pages only: the othe
 | Game data versions after the one the pages cite: HEAD requests for `static.nanoka.cc/nte/<version>/character.json`, three patch numbers and the next minor version's `.0` to `.2` | The version in the pages' `sources` URLs | The pages |
 | Dates in each page's `caveat` | `lastVerified` of the page and the present (UTC+8; a date without a time counts from the end of the day) | The pages |
 
-The game text that `pipeline/` writes (archives, outfit, Arc and material descriptions) follows the game data version: its records cite the same version, so a new version is reported as above. Its Traditional Chinese text comes from everness.info, which needs a browser, so the weekly run cannot read it; it is read again with the pipeline when the version moves.
+The game text that `pipeline/` writes (archives, outfit, Arc and material descriptions) follows the game data version: its records cite the same version, so a new version is reported as above. Its Traditional Chinese text comes from everness.info, which needs a browser, so the scheduled run cannot read it; it is read again with the pipeline when the version moves.
 
 Prydwen and Game8 are not watched: their pages carry no version and change every week, and they follow the patch notes, which are watched. nanoka.cc and everness.info refuse AI training and AI crawlers; the check sends six HEAD requests to nanoka.cc and keeps nothing. A version that skips a number past the candidates is not found by the probe; the patch notes notice still is.
 
@@ -62,6 +62,6 @@ Add it to `systems/boards.md`, to the A-Class pages that share it and to the pag
 
 ## Schedule
 
-`.github/workflows/upstream.yml` runs the command once a week (owner, 2026-11-22) and by hand (`gh workflow run upstream.yml`). A difference on the default branch opens one issue with the label `upstream`, assigned to the owner; later runs replace its text, comment when a line other than a note is added or removed, and close it when there is no difference. A run that could not make the check fails the workflow and leaves the issue as it is.
+`.github/workflows/upstream.yml` runs the command every day (owner, 2026-11-25; once a week from 2026-11-22, which reported a new version up to six days late) and by hand (`gh workflow run upstream.yml`). A difference on the default branch opens one issue with the label `upstream`, assigned to the owner; later runs replace its text, comment when a line other than a note is added or removed, and close it when there is no difference. A run that could not make the check fails the workflow and leaves the issue as it is.
 
 GitHub stops scheduled workflows in a public repository after 60 days without activity in it; `gh workflow enable upstream.yml` starts them again.

@@ -23,7 +23,7 @@ This site is an unofficial wiki for the game Neverness to Everness (NTE, 異環)
 - Guide sites may supply a fact that the official sources lack when at least two of them agree, and the page names them in `sources`. A fact from one guide site is attributed in the sentence ("Game8 says").
 - Look: pixel terminal in the official colours, cyan `#39d5fc` and pink `#fb5692`. Motion is sparing: the title is typed once, the first blocks print in once, the cursors blink. Removed as too much, by the owner's decision: the moving logo mark, the signal meter, the moving band under the header, motion and scan lines on images, the status line. Do not add them back. The site name has a mark of the look before it, drawn in CSS: two slanted cards, cyan over pink, as in `public/favicon.svg`; it does not move, the cursor after the name does (2026-11-25).
 - `robots.txt` carries `ai-train=no`. Address: `https://yuanaruru.com/nte-wiki/`.
-- How the site follows its sources (owner, 2026-11-22): a weekly scheduled check that keeps one issue, as for `github-repositories`; it also compares the text of the cited notices of the current version. See "When the sources change".
+- How the site follows its sources (owner, 2026-11-22): a scheduled check that keeps one issue, as for `github-repositories`, run every day (owner, 2026-11-25; weekly before); it also compares the text of the cited notices of the current version. See "When the sources change".
 
 ## Commands
 
@@ -102,7 +102,7 @@ Run `pnpm upstream`. What it watches, what each line of its report means and how
 | `scripts/indexnow.mjs` | Lists pages whose Markdown twin differs from the live one; the deploy workflow submits them to IndexNow |
 | `scripts/to-zh-cn.py` | Writes the Simplified Chinese pages from the Traditional Chinese ones; skips the archive pages |
 | `pipeline/`, `records/` | Game text: fetch, records, and the script that writes it into the pages |
-| `scripts/upstream.mjs`, `upstream/`, `.github/workflows/upstream.yml` | Check against the sources and its weekly run (`upstream/README.md`) |
+| `scripts/upstream.mjs`, `upstream/`, `.github/workflows/upstream.yml` | Check against the sources and its daily run (`upstream/README.md`) |
 | `tests/agent-eval/` | Fetch tool, questions and method for the agent test |
 
 ## Sources checked on 2026-11-18 and 2026-11-19 (plain HTTP fetch unless noted)

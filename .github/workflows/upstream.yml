@@ -6,8 +6,8 @@ name: Check the sources
 
 on:
   schedule:
-    # Mondays 06:57 in Taipei (Sundays 22:57 UTC). Off the hour: runs at :00 are often late.
-    - cron: '57 22 * * 0'
+    # Every day 06:57 in Taipei (22:57 UTC the day before). Off the hour: runs at :00 are often late.
+    - cron: '57 22 * * *'
   workflow_dispatch:
 
 permissions:
