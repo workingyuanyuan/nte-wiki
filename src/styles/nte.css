@@ -159,6 +159,181 @@ body {
 	}
 }
 
+/* Frame (root AGENTS.md, Visible page): no line between the text and either sidebar or
+   beside nested sidebar items, no visible heading over the table of contents, sidebar
+   scrollbars only under the pointer, a fade on the edge that has more to scroll, one
+   header row, and one centred frame on very wide windows. Shared by every skin; see the
+   "Frame" row in STACK.md. The same block is in the reference site's tui.css. */
+@media (min-width: 50rem) {
+	.sidebar-pane {
+		border-inline-end: 0;
+		scroll-padding-block: 1rem;
+	}
+}
+.sidebar-content ul ul li {
+	border-inline-start: 0;
+}
+/* The heading names the nav for screen readers (aria-labelledby), so it is hidden, not removed.
+   The phone's "On this page" toggle is its only control and stays. */
+starlight-toc h2 {
+	position: absolute;
+	width: 1px;
+	height: 1px;
+	margin: -1px;
+	overflow: hidden;
+	clip-path: inset(50%);
+	white-space: nowrap;
+}
+/* The current heading: a static bar at the list edge, drawn as a border so that it survives
+   forced colours. Indentation is padding, so the bar sits at the same edge at every depth. */
+starlight-toc a {
+	border-inline-start: 2px solid transparent;
+}
+starlight-toc a[aria-current='true'] {
+	border-inline-start-color: var(--sl-color-accent);
+}
+@media (forced-colors: active) {
+	starlight-toc a:not([aria-current='true']) {
+		border-inline-start-color: Canvas;
+	}
+}
+@media (min-width: 72rem) {
+	.right-sidebar {
+		border-inline-start: 0;
+		width: var(--sl-sidebar-width);
+		scroll-padding-block: calc(var(--sl-nav-height) + 1rem) 1rem;
+	}
+}
+/* Scrollbar only while the pointer is over a sidebar or focus is in it. Below 50rem the
+   pane is the phone menu and keeps the system scrollbar; the table of contents is a
+   sidebar from 72rem (Starlight hides its scrollbar altogether). Forced colours reset
+   scrollbar-color to the system scrollbar. */
+@media (min-width: 50rem) and (hover: hover) {
+	.sidebar-pane {
+		scrollbar-width: thin;
+		scrollbar-color: transparent transparent;
+	}
+	.sidebar-pane:is(:hover, :focus-within) {
+		scrollbar-color: var(--sl-color-gray-3) transparent;
+	}
+}
+@media (min-width: 72rem) and (hover: hover) {
+	.right-sidebar {
+		scrollbar-width: thin;
+		scrollbar-color: transparent transparent;
+		scrollbar-gutter: stable;
+	}
+	.right-sidebar:is(:hover, :focus-within) {
+		scrollbar-color: var(--sl-color-gray-3) transparent;
+	}
+}
+/* Edge fade, only where the browser drives it by scroll position: the top edge fades once
+   the list has moved, the bottom edge until its end. A list that does not scroll has no
+   timeline, keeps 0px and shows no fade. No static fallback: it would dim the last item. */
+@property --fade-top {
+	syntax: '<length>';
+	inherits: false;
+	initial-value: 0px;
+}
+@property --fade-bottom {
+	syntax: '<length>';
+	inherits: false;
+	initial-value: 0px;
+}
+@keyframes edge-fade {
+	0% {
+		--fade-top: 0px;
+		--fade-bottom: 1rem;
+	}
+	8% {
+		--fade-top: 1rem;
+	}
+	92% {
+		--fade-bottom: 1rem;
+	}
+	100% {
+		--fade-top: 1rem;
+		--fade-bottom: 0px;
+	}
+}
+/* The right sidebar only from 72rem: below that it holds the phone's fixed "On this page" bar
+   in a box of no height, and a mask on it hides the bar. */
+@supports (animation-timeline: scroll()) {
+	@media (min-width: 50rem) {
+		.sidebar-pane {
+			--fade-start: 0px;
+			mask-image: linear-gradient(
+				to bottom,
+				transparent var(--fade-start),
+				#000 calc(var(--fade-start) + var(--fade-top)),
+				#000 calc(100% - var(--fade-bottom)),
+				transparent
+			);
+			/* Longhands only: with the `animation` shorthand the build folds the timeline into it,
+			   which Chromium rejects, and the fade never runs. */
+			animation-name: edge-fade;
+			animation-timing-function: linear;
+			animation-fill-mode: both;
+			animation-timeline: scroll(self);
+		}
+	}
+	@media (min-width: 72rem) {
+		/* The table of contents starts behind the fixed header; its visible top edge is below it. */
+		.right-sidebar {
+			--fade-start: var(--sl-nav-height);
+			mask-image: linear-gradient(
+				to bottom,
+				transparent var(--fade-start),
+				#000 calc(var(--fade-start) + var(--fade-top)),
+				#000 calc(100% - var(--fade-bottom)),
+				transparent
+			);
+			animation-name: edge-fade;
+			animation-timing-function: linear;
+			animation-fill-mode: both;
+			animation-timeline: scroll(self);
+		}
+	}
+	/* Keyboard focus is never dimmed, and forced colours show the lists plain. */
+	.sidebar-pane:has(:focus-visible),
+	.right-sidebar:has(:focus-visible) {
+		mask-image: none;
+	}
+	@media (forced-colors: active) {
+		.sidebar-pane,
+		.right-sidebar {
+			mask-image: none;
+		}
+	}
+}
+/* Header: site name and section links | search | buttons. The side tracks never shrink below
+   their content, so where the left side is wide the search moves right instead of cutting
+   the links. With equal sidebars and a table of contents the middle is the text column's. */
+@media (min-width: 72rem) {
+	header.header > .header {
+		grid-template-columns: minmax(max-content, 1fr) minmax(10rem, 22rem) minmax(max-content, 1fr);
+	}
+	header.header > .header > .right-group {
+		justify-self: end;
+	}
+}
+/* Very wide windows: header, sidebar, text and table of contents in one centred frame.
+   --frame-gap is 0 below 96rem; % resolves against the viewport (fixed boxes) or the page. */
+@media (min-width: 72rem) {
+	:root {
+		--frame-gap: max(0px, (100% - 96rem) / 2);
+	}
+	header.header {
+		padding-inline: calc(var(--sl-nav-pad-x) + var(--frame-gap));
+	}
+	.sidebar-pane {
+		inset-inline-start: var(--frame-gap);
+	}
+	.main-frame {
+		padding-inline: calc(var(--sl-content-inline-start, 0rem) + var(--frame-gap)) var(--frame-gap);
+	}
+}
+
 /* Header. */
 header.header {
 	border-bottom: 1px solid var(--nte-line);
@@ -372,7 +547,14 @@ site-search button[data-open-modal] {
 	}
 }
 
-/* Sidebar: group names in pixel type; the current page is the selected row. */
+/* Sidebar: group names in pixel type; the current page is the selected row. From 50rem
+   it lies on the page's own ground and dot grid, so no change of tone marks its edge.
+   Below that it is the phone menu over the page and keeps its own ground. */
+@media (min-width: 50rem) {
+	.sidebar-pane {
+		background: transparent;
+	}
+}
 .sidebar-content .large,
 .sidebar-content summary .large {
 	font-family: var(--nte-pixel);
@@ -421,6 +603,7 @@ mobile-starlight-toc .toggle {
 	font-weight: 400;
 }
 starlight-toc a[aria-current='true'] {
+	border-inline-start-color: var(--nte-pink);
 	color: var(--nte-pink-text);
 }
 .pagination-links a {
