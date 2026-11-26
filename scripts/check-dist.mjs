@@ -294,6 +294,9 @@ for (const home of pages.filter((p) => p.id === 'index' || LOCALES.some((l) => l
 	const prefix = home.id === 'index' ? '' : home.id + '/';
 	const head = heads.get(home.id) ?? '';
 	const reach = [head];
+	// A game wiki's home page shows an official key visual of the game (root AGENTS.md, Visible page).
+	const homeHtml = read((htmlPath(home.id) + 'index.html').slice(1));
+	if (!/<img[^>]+src="[^"]*\/art\/key-visual\.webp"/.test(homeHtml)) fail(home.id, 'the home page shows no key visual (/art/key-visual.webp)');
 	for (const ix of INDEX_PAGES) {
 		const ixId = prefix + ix;
 		if (!heads.has(ixId)) continue;
