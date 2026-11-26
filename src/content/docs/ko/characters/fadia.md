@@ -59,6 +59,7 @@ sources:
 | 신분 | 이상 관리국 E.T.D |
 | 성우 | 중국어: 裴致莹; 영어: Amber Lee Connors; 일본어: 真堂圭; 한국어: 조현정 |
 | 아카이브 | [파디아 아카이브](/ko/characters/fadia/archive/) |
+| 보이스 | [파디아 보이스](/ko/characters/fadia/voice/) |
 
 ## 획득 방법
 

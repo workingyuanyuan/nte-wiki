@@ -1,0 +1,1647 @@
+{
+ "slug": "jiuyuan",
+ "id": "1055",
+ "version": "1.5.4",
+ "sources": {
+  "en": "https://static.nanoka.cc/nte/1.5.4/en/character/1055.json",
+  "zh-cn": "https://static.nanoka.cc/nte/1.5.4/zh/character/1055.json",
+  "ja": "https://static.nanoka.cc/nte/1.5.4/ja/character/1055.json",
+  "ko": "https://static.nanoka.cc/nte/1.5.4/ko/character/1055.json",
+  "zh-tw": "https://everness.info/zh-Hant/espers/1055"
+ },
+ "reads": {
+  "zh-tw": "2026-11-25"
+ },
+ "lines": {
+  "en": {
+   "daily": [
+    {
+     "title": "First Meet",
+     "text": "Sterry Express at your service. Nice to meet you, you can call me Jiuyuan. We provide anomaly hunter delivery service, and also accept anomaly commissions. If those are what you come for, we can have some further discussion."
+    },
+    {
+     "title": "Chat: Sports Car Delivery",
+     "text": "Behavior, manner, dressing… Tiny things manipulate people's attitude towards you more than you expect. Dealing with bussiness driving a Regalia seems to be showing off, but always makes way for you, so that things will go smoothly."
+    },
+    {
+     "title": "Chat: Personal Food Survey",
+     "text": "In the aroma of fine dishes and wine, a casual chat can reveal a lot more than people think… Of course, I'm not there for work every time. Sitting down and savoring the moment isn't a bad thing to do sometimes."
+    },
+    {
+     "title": "Chat: Job Details",
+     "text": "I'm in special deliveries for Sterry. The content… depends on the client. Different people have different needs."
+    },
+    {
+     "title": "Sunny",
+     "text": "Delivering on a sunny day is always better than a gloomy one, don't you think?"
+    },
+    {
+     "title": "Rainy",
+     "text": "By yourself on a rainy day? Need a ride?"
+    },
+    {
+     "title": "Cold",
+     "text": "It's never easy working in this weather for me, as well as you anomaly hunters… However, we both know that troubles bring you chances."
+    },
+    {
+     "title": "Hot",
+     "text": "People get more impatient under hot weather… Don't make them wait too long."
+    },
+    {
+     "title": "Morning Greeting",
+     "text": "Our first client this morning! What would you like to know?"
+    },
+    {
+     "title": "Noon Greeting",
+     "text": "Ah. The high noon sun. Why don't we chat under some shades away from the blinding light?"
+    },
+    {
+     "title": "Evening Greeting",
+     "text": "People tend to let their guard down in the evening… Are you paying attention to your surroundings?"
+    },
+    {
+     "title": "Good Night",
+     "text": "Nightfall… the perfect time to negotiate."
+    },
+    {
+     "title": "Hobbies",
+     "text": "Nothing special. Just slowing down when I have the time. Drink some coffee, look at some people around, and pick up some interesting news."
+    },
+    {
+     "title": "Worries",
+     "text": "Troubles… probably those monthly parking tickets, damaged vases and decors at Sterry, and that limited edition perfume spilled out of curiosity… You think there are other things keeping me busy? Sharp eyes you have."
+    },
+    {
+     "title": "Topic: Intel",
+     "text": "I don't rush to judgement on intel. I see who is in it, who is into it… Focus on the line and wait, those who hide deeply but always concern will bite the hook."
+    },
+    {
+     "title": "Topic: Reading Silence",
+     "text": "Silence is sometimes harder to handle than noise. It hides hesitation, fear, concealment… and truths that don't want to be revealed. For intel merchants, the challenge isn't listening, but discerning. What's worth pursuing, what should be ignored. Miss the mark, and those opportunities that should have been seized will quietly slip away."
+    },
+    {
+     "title": "Topic: Cheek Pouches",
+     "text": "Every Sterry member has their own Cheek Pouch. These little guys are influenced by their contractor's personality. Observing their behavior is quite interesting sometimes."
+    },
+    {
+     "title": "About Myself: Esper Ability",
+     "text": "My esper? Consider it like turning roses to bullets when necessary. To achieve a goal, there's no harm to use a direct approach."
+    },
+    {
+     "title": "About Myself: Rose",
+     "text": "The bullet that shot him was roses he gave me not long ago. What a pity… for the roses."
+    },
+    {
+     "title": "About Myself: Nightingale",
+     "text": "Smart birds know when to get lost."
+    },
+    {
+     "title": "About Jenson",
+     "text": "As one of Sterry's founders, his intel abilities are naturally impeccable. If only he could spend less time using \"intel gathering\" as an excuse for slacking off, and spend more time fulfilling his duties as shop owner, and maintain relationship with some VICs, AND deal with those pending high risk commissions… There comes my turn to have a vacation. After all, there's nothing worth \"investigating\" around the Caltrop Lake, is there?"
+    },
+    {
+     "title": "About Hathor",
+     "text": "She always does things at her own pace, carrying out instructions. I just have her observe how others laugh, make noise, and mess up ordinary little things. These trivial moments are more important to her than any training."
+    },
+    {
+     "title": "About Haniel",
+     "text": "Looking for her to make deliveries? Open your Bagel, ask a few simple questions… Most of the time she'll show up and won't keep you waiting. As for causing trouble, she handles big things appropriately. For small matters, just watch if she's being overly helpful around the shop. That usually means she's making up for some minor mishap, quietly cleaning up the mess."
+    },
+    {
+     "title": "About Illica",
+     "text": "Illica… his problem isn't causing trouble but insisting on being smarter than everyone else. Especially when there's someone his age around, his little brain starts sparking. He's genuinely clever, but unfortunately uses it all for making trouble."
+    },
+    {
+     "title": "About Sterry Express",
+     "text": "Intel trading, anomalies, or ordinary items… Whatever the demand, we're happy to fulfill it."
+    },
+    {
+     "title": "Character Ascension I",
+     "text": "Ah. Thanks to someone helping behind the scenes."
+    },
+    {
+     "title": "Character Ascension II",
+     "text": "This feels smoother than I expected."
+    },
+    {
+     "title": "Character Ascension III",
+     "text": "Looks like we both got what we wanted."
+    },
+    {
+     "title": "Gift Received I",
+     "text": "You knew me better than I expected."
+    },
+    {
+     "title": "Gift Received II",
+     "text": "There aren't many gifts in this world that would make me this happy."
+    },
+    {
+     "title": "Gift Received III",
+     "text": "I guess this is fitting of your style."
+    },
+    {
+     "title": "Gift Received IV",
+     "text": "I don't care much about the gift itself, but I do appreciate your effort."
+    }
+   ],
+   "battle": [
+    {
+     "title": "Redirect Skill I",
+     "text": "Thank you for your patronage."
+    },
+    {
+     "title": "Redirect Skill II",
+     "text": "Exclusive delivery, please sign here."
+    },
+    {
+     "title": "Redirect Skill III",
+     "text": "I'll deliver this one myself."
+    },
+    {
+     "title": "Ultimate I",
+     "text": "Let's settle."
+    },
+    {
+     "title": "Ultimate II",
+     "text": "I can see you all."
+    },
+    {
+     "title": "Ultimate III",
+     "text": "Signed for delivery."
+    },
+    {
+     "title": "Containment I",
+     "text": "Phew! Hope someone will pay a good price for this."
+    },
+    {
+     "title": "Containment II",
+     "text": "Time's up. Back to where you belong."
+    },
+    {
+     "title": "Nullification I",
+     "text": "I don't offer discounts for follow up services."
+    },
+    {
+     "title": "Nullification II",
+     "text": "Mission complete. Now… shall we discuss payment?"
+    },
+    {
+     "title": "Unexpected Gains I",
+     "text": "Ah… this isn't your ordinary package."
+    },
+    {
+     "title": "Unexpected Gains II",
+     "text": "Occasionally there are some unexpected gains."
+    },
+    {
+     "title": "Unexpected Gains III",
+     "text": "The off-the-books portion needs personal collection."
+    },
+    {
+     "title": "Unexpected Gains IV",
+     "text": "This is our rightful share!"
+    },
+    {
+     "title": "Unexpected Gains V",
+     "text": "Beautiful prey. What should I collect next?"
+    },
+    {
+     "title": "Unexpected Gains VI",
+     "text": "Good stuff in stock!"
+    },
+    {
+     "title": "Low Health I",
+     "text": "Opportunities always hide in the smallest details."
+    },
+    {
+     "title": "Low Health II",
+     "text": "Improvisation is more interesting."
+    },
+    {
+     "title": "Low Health III",
+     "text": "What else can I use?"
+    },
+    {
+     "title": "Heal I",
+     "text": "Perfect timing!"
+    },
+    {
+     "title": "Heal II",
+     "text": "A rare moment of harmony."
+    },
+    {
+     "title": "Down I",
+     "text": "It's just… another kind of ending."
+    },
+    {
+     "title": "Down II",
+     "text": "Heh… secrets brought me this far."
+    },
+    {
+     "title": "Down III",
+     "text": "Even I… have moments when I'm helpless."
+    },
+    {
+     "title": "Takedown I",
+     "text": "One at a time!"
+    },
+    {
+     "title": "Takedown II",
+     "text": "Pick your targets before blocking the way!"
+    },
+    {
+     "title": "Damaged I",
+     "text": "No big deal. Continue."
+    },
+    {
+     "title": "Damaged II",
+     "text": "Pretty bold of you!"
+    },
+    {
+     "title": "Heavily Damaged I",
+     "text": "Pretty agile, aren't you!"
+    },
+    {
+     "title": "Heavily Damaged II",
+     "text": "Looks like this job needs some additional fees."
+    },
+    {
+     "title": "Deploy I",
+     "text": "Every mess needs someone to clean it up… I don't work for free."
+    },
+    {
+     "title": "Deploy II",
+     "text": "Invited guest here. I don't want this to be a wasted trip."
+    },
+    {
+     "title": "Entry Attack I",
+     "text": "Your express delivery."
+    },
+    {
+     "title": "Entry Attack II",
+     "text": "Here's your delivery!"
+    },
+    {
+     "title": "Entry Attack III",
+     "text": "Intel confirmed."
+    },
+    {
+     "title": "Glide I",
+     "text": "Aren't things clearer when you're looking from above?"
+    },
+    {
+     "title": "Glide II",
+     "text": "Feels good."
+    },
+    {
+     "title": "Switch I",
+     "text": "Time for the professionals to take over!"
+    },
+    {
+     "title": "Switch II",
+     "text": "Shift change. Don't make me clean up for too long."
+    },
+    {
+     "title": "Switch III",
+     "text": "Pretty lively here."
+    },
+    {
+     "title": "Special Switch - Hathor",
+     "text": "Well done."
+    },
+    {
+     "title": "Special Switch - Haniel",
+     "text": "Perfect chance for us to shine."
+    },
+    {
+     "title": "Teammate Down - Hathor",
+     "text": "Hathor, relax."
+    },
+    {
+     "title": "Teammate Down - Haniel",
+     "text": "Leave the rest to the adults."
+    },
+    {
+     "title": "Parry I",
+     "text": "An opportunity served on a silver platter."
+    },
+    {
+     "title": "Parry II",
+     "text": "Perfect positioning."
+    },
+    {
+     "title": "Consecutive Critical Dodge Success I",
+     "text": "You'll need to try harder next time!"
+    },
+    {
+     "title": "Consecutive Critical Dodge Success II",
+     "text": "You need to be faster than that."
+    }
+   ]
+  },
+  "zh-cn": {
+   "daily": [
+    {
+     "title": "初次见面",
+     "text": "斯特利速递为您服务~初次见面，你可以叫我「九原」。本店承接异象猎人派送工作，也受理异象相关的各类委托……如果你是为此而来，我们可以好好谈谈~"
+    },
+    {
+     "title": "闲聊·跑车派送",
+     "text": "行事风格、言行谈吐、穿着打扮……这些小东西，往往比你想的更能左右别人对你的态度。开着雷加利亚出门处理事务，也许略显张扬，却总能让人自动给出空间，事情也因此顺利许多。"
+    },
+    {
+     "title": "闲聊·私人美食考察",
+     "text": "贵客们在香气与酒意中最容易放松，一句不经意的寒暄，也足以露出几条值得注意的线索。当然，我也不是每次都为了工作而来，偶尔坐下来，尝一口恰到好处的风味，也不失为一件惬意的事。"
+    },
+    {
+     "title": "闲聊·工作内容",
+     "text": "我在斯特利速递负责「特殊派送」，内容……视客人而定。不同的人，总有不同的需求。"
+    },
+    {
+     "title": "大晴天",
+     "text": "晴天的派送，总是比阴天更让人期待，不是吗？"
+    },
+    {
+     "title": "雨天",
+     "text": "下雨可不太适合独行——要我顺路送你一程吗？"
+    },
+    {
+     "title": "寒冷",
+     "text": "在这种天气里做事，自然不轻松，你们异象猎人想必也一样……不过，我们都明白，机会与麻烦总是并行的。"
+    },
+    {
+     "title": "炎热",
+     "text": "高温之下，客户的耐性最易消磨，让他们等太久的话，满意度可是会下降的哦~"
+    },
+    {
+     "title": "早上问候",
+     "text": "作为今早的第一位客人，你想了解什么？"
+    },
+    {
+     "title": "中午问候",
+     "text": "正午的阳光真刺眼啊……要不要一起找个阴凉的地方，聊些有趣的事？"
+    },
+    {
+     "title": "傍晚问候",
+     "text": "傍晚时容易放松警惕，你呢，有在留意周围吗？"
+    },
+    {
+     "title": "晚安",
+     "text": "夜幕降临……正是谈交易的好时候。"
+    },
+    {
+     "title": "爱好",
+     "text": "算不上什么特别的爱好。只是偶尔会在闲暇时间里放慢生活节奏，喝杯咖啡、看看周围人，顺便听点有意思的消息。"
+    },
+    {
+     "title": "烦恼",
+     "text": "麻烦事……大概是那些按月缴的罚单、被打闹波及的花瓶和摆件，还有那瓶因好奇心打翻的限量款香水……你说我忙的不止这些？敏锐的观察~"
+    },
+    {
+     "title": "话题·情报",
+     "text": "情报真假，不必急着下结论~先看看谁会从中获利，谁又可能被牵连其中。顺着这些线索静观其变，有些躲在暗处又「真正关心」的人，总会不自觉地露出破绽。"
+    },
+    {
+     "title": "话题·读懂沉默",
+     "text": "沉默，有时比喧嚣更难应对，那里面藏着犹豫、恐惧、隐瞒……还有不愿被揭开的真相。对于情报商人来说，难的不是倾听，而是分辨——哪些值得追问，哪些该装作没听见。如果不小心听错了，那些本该被抓住的机会，也会悄悄溜走哦~"
+    },
+    {
+     "title": "话题·颊囊",
+     "text": "斯特利的每位成员都有自己的专属颊囊，那些小家伙会受契约者的个性影响，偶尔观察它们的行为举动是个有趣的事。"
+    },
+    {
+     "title": "关于自己·异能",
+     "text": "我的异能，大概是在关键时刻，把玫瑰化作子弹……为了达成目的，直接一点，也未尝不可。"
+    },
+    {
+     "title": "关于自己·玫瑰",
+     "text": "那颗射向眉心的子弹，不久前还是那家伙送我的一束玫瑰……唉，可惜了那么好的花。"
+    },
+    {
+     "title": "关于自己·夜莺",
+     "text": "聪明的鸟儿知道自己该什么时候迷路~"
+    },
+    {
+     "title": "关于简森",
+     "text": "斯特利的创始人之一，情报能力确实无可挑剔……要是能少打着幌子外出，多履行履行店长的职责，维系几个重要客户，处理一下堆积的高难度委托……就能轮到我去休假了。要我说，水菱湖那也没什么值得特意「打探」的消息吧？"
+    },
+    {
+     "title": "关于哈索尔",
+     "text": "她总是按照自己的节奏做事，井井有条的执行着各种指令。我只是让她去看看别人如何笑、如何闹，如何在平凡的小事上犯错。这些微不足道的瞬间，对她来说，比任何训练都重要。"
+    },
+    {
+     "title": "关于哈尼娅",
+     "text": "找她派件？打开呗果，简单问几句，大多数时候她都能出现，不会让你空等。要说惹麻烦，大事上她总把握得当；小事的话，只要留意她在店里是否「过分殷勤」，大概率就是在弥补某个小祸，「悄悄」收拾残局了。"
+    },
+    {
+     "title": "关于伊里卡",
+     "text": "……伊里卡，他的问题不在「闯祸」，而是「非要比别人更聪明」。尤其是当有个同龄人在场时，他的小脑袋就开始冒出点小火花。聪明是真聪明，只可惜都用在添麻烦上了。"
+    },
+    {
+     "title": "关于斯特利速递",
+     "text": "情报交易、异象、又或者是普通物件，无论什么样的需求，我们都乐意达成。"
+    },
+    {
+     "title": "角色突破·Ⅰ",
+     "text": "这次的进度，可多亏了有人在背后「帮忙」。"
+    },
+    {
+     "title": "角色突破·Ⅱ",
+     "text": "这感觉，比想象中顺手。"
+    },
+    {
+     "title": "角色突破·Ⅲ",
+     "text": "看来，我们都得到了想要的东西。"
+    },
+    {
+     "title": "收到赠礼·Ⅰ",
+     "text": "你倒是比我预想的，要更懂我几分~"
+    },
+    {
+     "title": "收到赠礼·Ⅱ",
+     "text": "能真正戳中我心坎的礼物，这世上可不算多见。"
+    },
+    {
+     "title": "收到赠礼·Ⅲ",
+     "text": "倒也符合你的风格。"
+    },
+    {
+     "title": "收到赠礼·IV",
+     "text": "形式如何，本就不必挂怀。这份心意，我可是实实在在收到了。"
+    }
+   ],
+   "battle": [
+    {
+     "title": "变轨技能·Ⅰ",
+     "text": "感谢惠顾。"
+    },
+    {
+     "title": "变轨技能·Ⅱ",
+     "text": "专属派送，请签收。"
+    },
+    {
+     "title": "变轨技能·Ⅲ",
+     "text": "这单，我亲自递。"
+    },
+    {
+     "title": "极轨终结·Ⅰ",
+     "text": "清算时间、到。"
+    },
+    {
+     "title": "极轨终结·Ⅱ",
+     "text": "锁定全场。"
+    },
+    {
+     "title": "极轨终结·Ⅲ",
+     "text": "全员签收。"
+    },
+    {
+     "title": "收容异象·Ⅰ",
+     "text": "到手了~希望有人会为它出个好价。"
+    },
+    {
+     "title": "收容异象·Ⅱ",
+     "text": "时间到了，去你该去的地方吧。"
+    },
+    {
+     "title": "泯除异象·Ⅰ",
+     "text": "若要追加服务，我可不打折。"
+    },
+    {
+     "title": "泯除异象·Ⅱ",
+     "text": "任务结束了。接下来……该谈谈报酬了？"
+    },
+    {
+     "title": "意外收获·Ⅰ",
+     "text": "啊……这可不是一般的「快递件」。"
+    },
+    {
+     "title": "意外收获·Ⅱ",
+     "text": "偶尔也会有些意想不到的收获。"
+    },
+    {
+     "title": "意外收获·Ⅲ",
+     "text": "账单外的部分，可得亲自收下。"
+    },
+    {
+     "title": "意外收获·Ⅳ",
+     "text": "这是我们应得的份额~"
+    },
+    {
+     "title": "意外收获·Ⅴ",
+     "text": "漂亮的猎物，下次该收集什么好呢。"
+    },
+    {
+     "title": "意外收获·Ⅵ",
+     "text": "好货入库~"
+    },
+    {
+     "title": "生命值低·Ⅰ",
+     "text": "机会，总藏在微末之间。"
+    },
+    {
+     "title": "生命值低·Ⅱ",
+     "text": "临场应变才更有趣。"
+    },
+    {
+     "title": "生命值低·Ⅲ",
+     "text": "还能利用哪些呢？"
+    },
+    {
+     "title": "恢复生命·Ⅰ",
+     "text": "正合我意~"
+    },
+    {
+     "title": "恢复生命·Ⅱ",
+     "text": "难得合拍。"
+    },
+    {
+     "title": "力竭·Ⅰ",
+     "text": "不过是……另一种结束。"
+    },
+    {
+     "title": "力竭·Ⅱ",
+     "text": "呵……秘密让我走到了这一步。"
+    },
+    {
+     "title": "力竭·Ⅲ",
+     "text": "我……也有束手无策的时候。"
+    },
+    {
+     "title": "击败怪物·Ⅰ",
+     "text": "一个一个来~"
+    },
+    {
+     "title": "击败怪物·Ⅱ",
+     "text": "拦路前可得找好目标~"
+    },
+    {
+     "title": "普通受击·Ⅰ",
+     "text": "小意思，继续。"
+    },
+    {
+     "title": "普通受击·Ⅱ",
+     "text": "胆子不小哦~"
+    },
+    {
+     "title": "重受击·Ⅰ",
+     "text": "动作挺灵活的嘛~"
+    },
+    {
+     "title": "重受击·Ⅱ",
+     "text": "看来，这单得再加点附加费。"
+    },
+    {
+     "title": "上阵·Ⅰ",
+     "text": "每场混乱都要有人收尾……我可不免费登场。"
+    },
+    {
+     "title": "上阵·Ⅱ",
+     "text": "应邀而来，我可不想白跑一趟。"
+    },
+    {
+     "title": "协同技·Ⅰ",
+     "text": "你的特急件。"
+    },
+    {
+     "title": "协同技·Ⅱ",
+     "text": "快递上门了~"
+    },
+    {
+     "title": "协同技·Ⅲ",
+     "text": "情报确认。"
+    },
+    {
+     "title": "滑翔·Ⅰ",
+     "text": "在空中看清局势了吗？"
+    },
+    {
+     "title": "滑翔·Ⅱ",
+     "text": "感觉不错。"
+    },
+    {
+     "title": "切换·Ⅰ",
+     "text": "轮到专业人士出手了~"
+    },
+    {
+     "title": "切换·Ⅱ",
+     "text": "换班了，别让我收拾太久。"
+    },
+    {
+     "title": "切换·Ⅲ",
+     "text": "挺热闹的嘛。"
+    },
+    {
+     "title": "特殊切换·哈索尔",
+     "text": "做得很好。"
+    },
+    {
+     "title": "特殊切换·哈尼娅",
+     "text": "正好让我们发挥。"
+    },
+    {
+     "title": "队友倒下·哈索尔",
+     "text": "哈索尔，放松点。"
+    },
+    {
+     "title": "队友倒下·哈尼娅",
+     "text": "剩下的交给大人们来处理。"
+    },
+    {
+     "title": "弹反·Ⅰ",
+     "text": "送上门的机会。"
+    },
+    {
+     "title": "弹反·Ⅱ",
+     "text": "刚好落点。"
+    },
+    {
+     "title": "连续极限闪避成功·Ⅰ",
+     "text": "下次得加把劲~"
+    },
+    {
+     "title": "连续极限闪避成功·Ⅱ",
+     "text": "你得更快点才行。"
+    }
+   ]
+  },
+  "ja": {
+   "daily": [
+    {
+     "title": "初対面",
+     "text": "ステーリー急便へ、ようこそ。私のことは「九原」と呼んでちょうだい…さて、本日は異象ハンターによる配達をご希望で？それとも通常のご依頼かしら？どちらにせよ、ここへ来たということは、そういうことなのでしょ？"
+    },
+    {
+     "title": "雑談-スポーツカー配送",
+     "text": "立ち居振る舞いや言葉遣い、服装…そういった些細なことが、他人の態度を左右するものよ。例えば、レガリアで仕事に向かうのは少し派手かもしれないけれど、それだけで道を開けてくれる人も多いの。結果、物事が格段に円滑になるというわけ。"
+    },
+    {
+     "title": "雑談-個人的グルメ考察",
+     "text": "ふふ、人間っていうのはね、良い香りと美味しいお酒を前にすると、驚くほど無防備になるものなの。何気ない世間話に耳を澄ませていれば、ほら、面白い「情報」がどんどん転がり込んでくる…もちろん、仕事のことばかりじゃないわ。たまにはこうして、ただ純粋に、この美酒を味わうのも悪くないんじゃなくて？"
+    },
+    {
+     "title": "雑談-仕事内容",
+     "text": "私は、ステーリー急便で「特別配達」を担当しているの。内容は…お客様次第。人それぞれ、求めるものは違うから。"
+    },
+    {
+     "title": "快晴",
+     "text": "晴れた日の配達は、曇りの日より、少しだけ楽しみがあってよ。"
+    },
+    {
+     "title": "雨",
+     "text": "雨の日に一人で歩くのは、あまり感心しないわね。よければ、途中まで送っていきましょうか？"
+    },
+    {
+     "title": "寒い",
+     "text": "こんな天気で動くのは、楽じゃないわね。あなたたち異象ハンターも同じでしょう？…でも、分かっているはずよ。「好機には面倒がつきもの」だってこと。"
+    },
+    {
+     "title": "灼熱",
+     "text": "暑い日は、お客様もせっかちになっているの。あまり長く待たせないようにね。"
+    },
+    {
+     "title": "朝の挨拶",
+     "text": "この朝、一番目のお客様として、あなたは何をお知りになりたい？"
+    },
+    {
+     "title": "昼の挨拶",
+     "text": "真昼の日差しは、目に刺さるわね…どこか涼しい場所で、何か面白い話でもしない？"
+    },
+    {
+     "title": "夕方の挨拶",
+     "text": "夕暮れは、気が緩みがちになるものだけど…あなたはどうかしら？"
+    },
+    {
+     "title": "おやすみ",
+     "text": "夜の帳が下りたわ…取引を始めるには、絶好の時間じゃないかしら。"
+    },
+    {
+     "title": "趣味",
+     "text": "これといった趣味はないわ。ただ、たまに暇な時間を見つけて、のんびりコーヒーを飲んだり、周りの人を眺めたり、ついでに何か面白い情報を拾ったりするのも、好きよ。"
+    },
+    {
+     "title": "悩み",
+     "text": "面倒事…そうね。毎月律儀に届く罰金の請求書、誰かの喧嘩の巻き添えで砕け散った花瓶、それに…ほんの弾みに倒してしまった、一点モノの香水瓶と……え？私が忙しい本当の理由？…ふふ、なかなか鋭いわね。"
+    },
+    {
+     "title": "話題-情報",
+     "text": "情報の真偽なんて、急いで結論を出す必要はないわ。誰が利を得て、誰が不利を被るのか…その糸を辿って静観していれば、物陰にいる真の黒幕も、自然とボロを出すものよ。"
+    },
+    {
+     "title": "話題-沈黙を読む",
+     "text": "沈黙は、時としてどんな雄弁よりも扱い難い。その奥には、ためらい、恐怖、そして暴かれたくない真実が隠れているから。情報屋の仕事で一番難しいのはね、聞き出すことと、聞き出さないことの匙加減なの。その一線を読み違えれば、掴めるはずだった好機も、音もなく去っていってしまうのだから。"
+    },
+    {
+     "title": "話題-ホオブクロ",
+     "text": "ステーリーのメンバーは、それぞれ専用のホオブクロを持っているの。契約者の個性によって色んな風に染まるから…ふふ、観察してみると面白いわよ。"
+    },
+    {
+     "title": "自分について-異能",
+     "text": "私の異能？そうね…いざという時、薔薇を弾丸に変えること、かしら。目的を果たすためには、少し直接的な方が、手っ取り早いこともあるでしょう？"
+    },
+    {
+     "title": "自分について-バラ",
+     "text": "私に贈ってくれた薔薇の花束が、次の瞬間には、あいつの眉間を撃ち抜く弾丸になるとはねぇ…ああ、もったいない。あんなに綺麗な花だったのに。"
+    },
+    {
+     "title": "自分について-サヨナキ",
+     "text": "賢い鳥というものは、いつ「道に迷う」べきか、心得ているものよ。"
+    },
+    {
+     "title": "ジェンソンについて",
+     "text": "ステーリーの創設者の一人として、彼の実力は確かよ…ただ、もう少し、店長として大口の顧客を繋ぎとめたり、レベルの高い依頼に参加したりしてくれたら、私も休暇が取れるのだけど。ロンバス湖に「情報収集に行く」だなんて、どうせまたどこかで油を売ってるんでしょう。"
+    },
+    {
+     "title": "ハソールについて",
+     "text": "あの子はいつだって、自分のペースで物事を着実にこなすわ。だから私は、ただ見せてあげただけ…他の人間がどう笑い、どう騒ぐか。そして、どうしようもなく下らないことで失敗するってことを。そういった、取るに足らない瞬間の積み重ねこそが、あの子にとっては、どんな訓練よりも大切なことだったのよ。"
+    },
+    {
+     "title": "ハニアについて",
+     "text": "あの子に配達を頼みたい、ですって？「ベーグル」を開いて、いくつか簡単な質問を投げかければ、大抵は顔を出すわ。まあ…肝心な場面では、いつも的確な判断をしてくれるのだけど、些細なことになると話は別…もし、あの子が店で甲斐甲斐しく働いているのを見かけたら、何かの「後始末」って思っていいわよ。"
+    },
+    {
+     "title": "イリカについて",
+     "text": "…イリカ。あの子の問題は、同年代の子がいると、どうしても張り合おうとしちゃうところなのよ。それがトラブルを生む。頭の回転は速いのだけれど…才能の使い方を間違っちゃってるのよね。"
+    },
+    {
+     "title": "ステーリー急便について",
+     "text": "情報の取引、異象の調査、あるいは、単なる普通の調達でも。どのようなご依頼でも、喜んでお引き受けいたしますわ。"
+    },
+    {
+     "title": "キャラ突破Ⅰ",
+     "text": "この進捗は、誰かさんが裏で「手伝って」くれたおかげね。"
+    },
+    {
+     "title": "キャラ突破Ⅱ",
+     "text": "この感覚、思ったより、手に馴染むわ。"
+    },
+    {
+     "title": "キャラ突破Ⅲ",
+     "text": "どうやら、お互いに、欲しいものを手に入れられたようね。"
+    },
+    {
+     "title": "届けられたギフトⅠ",
+     "text": "あなた、私のこと……案外よく分かってるじゃない。"
+    },
+    {
+     "title": "届けられたギフトⅡ",
+     "text": "私の心をここまで動かす贈り物なんて、そうそうあるものじゃないわよ？"
+    },
+    {
+     "title": "届けられたギフトⅢ",
+     "text": "ふふ、あなたらしいわね。"
+    },
+    {
+     "title": "届けられたギフトⅣ",
+     "text": "とっても嬉しいわ。あなたの気持ちがこもってるのが分かるもの。"
+    }
+   ],
+   "battle": [
+    {
+     "title": "バイレールスキルⅠ",
+     "text": "毎度、ありがとうございます。"
+    },
+    {
+     "title": "バイレールスキルⅡ",
+     "text": "特別配達です。どうぞ、お受け取りを。"
+    },
+    {
+     "title": "バイレールスキルⅢ",
+     "text": "この品は、私がお届けするわ。"
+    },
+    {
+     "title": "EXレール終結Ⅰ",
+     "text": "清算の時間よ。"
+    },
+    {
+     "title": "EXレール終結Ⅱ",
+     "text": "全域を、掌握する。"
+    },
+    {
+     "title": "EXレール終結Ⅲ",
+     "text": "受け取りなさい。"
+    },
+    {
+     "title": "異象収容Ⅰ",
+     "text": "誰かさんが、これに良い値をつけてくれるといいのだけど。"
+    },
+    {
+     "title": "異象収容Ⅱ",
+     "text": "時間切れよ。あなたが行くべき場所へ、お行きなさい。"
+    },
+    {
+     "title": "異象排除Ⅰ",
+     "text": "追加サービスをご希望なら、割引はなしよ。"
+    },
+    {
+     "title": "異象排除Ⅱ",
+     "text": "任務完了ね。さて…報酬の話でもしましょうか？"
+    },
+    {
+     "title": "意外な収穫Ⅰ",
+     "text": "あら…これは、ただの「お届け物」ではないようね。"
+    },
+    {
+     "title": "意外な収穫Ⅱ",
+     "text": "たまには、こういう、思いがけない収穫もあるものだわ。"
+    },
+    {
+     "title": "意外な収穫Ⅲ",
+     "text": "帳簿に載らない分は、私がいただいておくわ。"
+    },
+    {
+     "title": "意外な収穫Ⅳ",
+     "text": "これは、我々の取り分よ。"
+    },
+    {
+     "title": "意外な収穫Ⅴ",
+     "text": "美しい獲物ね。次は、何をコレクションに加えようかしら。"
+    },
+    {
+     "title": "意外な収穫Ⅵ",
+     "text": "良い品が入荷したわ~。"
+    },
+    {
+     "title": "低HPⅠ",
+     "text": "好機は、どこかに隠れているものよ。"
+    },
+    {
+     "title": "低HPⅡ",
+     "text": "臨機応変に動く方が、面白いじゃない。"
+    },
+    {
+     "title": "低HPⅢ",
+     "text": "他に、利用できるものは、あるかしら？"
+    },
+    {
+     "title": "HP回復Ⅰ",
+     "text": "望むところよ~。"
+    },
+    {
+     "title": "HP回復Ⅱ",
+     "text": "珍しく、気が合うわね。"
+    },
+    {
+     "title": "力尽きⅠ",
+     "text": "これもまた…一つの結末、ということね。"
+    },
+    {
+     "title": "力尽きⅡ",
+     "text": "フッ…秘密が、私をここまで導いた。"
+    },
+    {
+     "title": "力尽きⅢ",
+     "text": "私にも…どうしようもない時が、あるのよ。"
+    },
+    {
+     "title": "敵を撃破Ⅰ",
+     "text": "一人ずつ、ね~。"
+    },
+    {
+     "title": "敵を撃破Ⅱ",
+     "text": "邪魔をするなら、相手を選ぶことね~。"
+    },
+    {
+     "title": "ダメージを受ける（通常）Ⅰ",
+     "text": "大したことないわ。続けなさい。"
+    },
+    {
+     "title": "ダメージを受ける（通常）Ⅱ",
+     "text": "なかなか、度胸があるじゃない。"
+    },
+    {
+     "title": "大打撃Ⅰ",
+     "text": "動きは、悪くないわね~。"
+    },
+    {
+     "title": "大打撃Ⅱ",
+     "text": "この一件は、追加料金が必要になりそうね。"
+    },
+    {
+     "title": "出撃Ⅰ",
+     "text": "混乱には後始末がつきものよ…私は、タダ働きはしない主義なの。"
+    },
+    {
+     "title": "出撃Ⅱ",
+     "text": "お招きいただいたからには、手ぶらで帰るつもりはないわ。"
+    },
+    {
+     "title": "コンビスキルⅠ",
+     "text": "あなたの、お急ぎ便よ。"
+    },
+    {
+     "title": "コンビスキルⅡ",
+     "text": "お届け物で~す。"
+    },
+    {
+     "title": "コンビスキルⅢ",
+     "text": "情報、確認。"
+    },
+    {
+     "title": "滑空Ⅰ",
+     "text": "空からなら、戦局がよく見えるかしら？"
+    },
+    {
+     "title": "滑空Ⅱ",
+     "text": "悪くない気分ね。"
+    },
+    {
+     "title": "切替Ⅰ",
+     "text": "プロの出番、というわけね~"
+    },
+    {
+     "title": "切替Ⅱ",
+     "text": "交代の時間よ。あまり、手間をかけさせないでちょうだい。"
+    },
+    {
+     "title": "切替Ⅲ",
+     "text": "なかなか、賑やかじゃない。"
+    },
+    {
+     "title": "特殊切替・ハソール",
+     "text": "上出来よ。"
+    },
+    {
+     "title": "特殊切替・ハニア",
+     "text": "ちょうど、私たちが活躍できる場面ね。"
+    },
+    {
+     "title": "仲間気絶・ハソール",
+     "text": "ハソール、少し、力を抜きなさい。"
+    },
+    {
+     "title": "仲間気絶・ハニア",
+     "text": "残りは、大人たちに任せて。"
+    },
+    {
+     "title": "パリィⅠ",
+     "text": "ひっかかったわね。"
+    },
+    {
+     "title": "パリィⅡ",
+     "text": "いい着地点だわ。"
+    },
+    {
+     "title": "連続極限回避成功Ⅰ",
+     "text": "次は、もう少し頑張らないとね。"
+    },
+    {
+     "title": "連続極限回避成功Ⅱ",
+     "text": "のんびりしすぎよ。"
+    }
+   ]
+  },
+  "ko": {
+   "daily": [
+    {
+     "title": "첫 만남",
+     "text": "스테리 익스프레스입니다~ 우리 초면인가? 「구원」이라고 불러줘. 우린 이상 배송 업무, 각종 이상 관련 의뢰를 다루고 있어… 이러한 이유로 찾아온 거면, 차분히 얘기를 나눠도 좋을 것 같은데~"
+    },
+    {
+     "title": "대화·스포츠카 배송",
+     "text": "행동… 말투… 옷차림… 이런 사소한 것들이 타인의 태도를 좌우할 때가 많아. 레갈리아를 타고 외출해 업무를 처리하는 것은 다소 과해 보일 수 있으나, 사람들이 알아서 길을 내주니, 업무가 훨씬 쉬워지거든."
+    },
+    {
+     "title": "대화·미식에 관한 고찰",
+     "text": "귀한 손님들이 좋은 향과 술기운에 경계를 허물면 의례적인 인사말로도 중요한 단서를 얻을 수도 있어. 물론, 나라고 항상 일 때문에 여기 오는 건 아니야. 가끔은 편하게 앉아서 마음에 드는 음식을 먹는 것도 좋아해."
+    },
+    {
+     "title": "대화·업무 내용",
+     "text": "난 스테리에서 「특수 배송」을 맡고 있어. 구체적인 업무 내용은… 고객마다 다르지. 저마다 원하는 바가 다르니까."
+    },
+    {
+     "title": "맑은 날",
+     "text": "우중충한 날보다는 맑은 날 배송할 때 좀 더 설레는 것 같아. 안 그래?"
+    },
+    {
+     "title": "비 오는 날",
+     "text": "비 오는 날에 혼자 외출하는 건 위험한데… 가는 길에 데려다줄까?"
+    },
+    {
+     "title": "추운 날",
+     "text": "이런 날씨에 일하는 게 쉬울 리가. 너희 이상 헌터도 마찬가지 아닌가? 그치만 알잖아. 기회는 언제나 성가심과 같이 찾아오지."
+    },
+    {
+     "title": "더운 날",
+     "text": "더운 날엔 고객들 인내심도 쉽게 바닥을 보여. 오래 기다리게 했다간 평점이 떨어진다고~"
+    },
+    {
+     "title": "아침 인사",
+     "text": "오늘의 첫 손님이군. 뭘 알고 싶어서 왔지?"
+    },
+    {
+     "title": "점심 인사",
+     "text": "역시 정오의 햇살은 따가워… 그늘진 곳에 가서 재밌는 이야기라도 나눌까?"
+    },
+    {
+     "title": "저녁 인사",
+     "text": "저녁이면 사람의 경계심은 쉽게 무너져. 어때? 주변은 좀 둘러봤어?"
+    },
+    {
+     "title": "취침 인사",
+     "text": "밤의 장막이 내려앉은 시간… 거래하기 딱 좋은 때군."
+    },
+    {
+     "title": "취미",
+     "text": "대단한 취미는 없어. 그냥 가끔 시간 날 때 여유를 즐기는 정도? 커피 한잔하면서 사람 구경도 하고, 겸사겸사 이런저런 정보도 듣고."
+    },
+    {
+     "title": "고민",
+     "text": "고민…? 뭐, 매월 꼬박꼬박 날아오는 벌금 고지서, 꼬맹이들 말썽 피워서 깨뜨린 꽃병이나 장식품, 호기심 때문에 엎지른 한정판 향수병…? 고작 이런 일 때문에 바쁜 게 아닌 것 같다고? 예리한걸~"
+    },
+    {
+     "title": "주제·정보",
+     "text": "난 정보의 사실 여부를 판단하기 전에 그 정보로 이득을 보는 사람이 누구인지, 그게 어떤 사람들이랑 관련된 일인지부터 생각해. 그렇게 하나하나 단서를 따라가다 보면, 숨어 있던 「중요한 인물」이 스스로 모습을 드러내기 마련이거든."
+    },
+    {
+     "title": "주제·침묵의 의미",
+     "text": "침묵이 소란보다 까다로울 때가 있어. 침묵 속에는 갈등, 공포, 거짓… 그리고 들키고 싶지 않은 진실까지 숨어 있거든. 정보상에게 듣는 것보다 어려운 건, 계속 추궁해야 하는 질문과 못 들은체해야 할 질문을 판별하는 거야. 잘못된 판단은 잡을 수 있던 기회도 놓치게 만들지~"
+    },
+    {
+     "title": "주제·볼 주머니",
+     "text": "스테리 직원들은 모두 전용 볼 주머니가 있는데, 녀석들은 계약자의 성향을 따라가. 가끔 녀석들 행동을 관찰하는 것도 꽤 재미있을 거야."
+    },
+    {
+     "title": "자신에 관해·이능력",
+     "text": "내 이능력은 필요한 순간에 장미를 총알로 바꾸는 거야. 목표 달성을 위해서라면 다소 과격한 행동도, 안 될 건 없잖아?"
+    },
+    {
+     "title": "자신에 관해·장미",
+     "text": "미간을 향해 날아가는 저 총알, 저 사람이 나한테 준 장미꽃이었어. 아까워라, 정말 예쁜 꽃이었는데…"
+    },
+    {
+     "title": "자신에 관해·나이팅게일",
+     "text": "똑똑한 새는 언제 길을 잃어야 할지도 알고 있지~"
+    },
+    {
+     "title": "젠슨에 관해",
+     "text": "스테리 공동 창립자야. 정보 수집 능력 면에선 흠잡을 데 없지… 다만 이 친구가 외근을 좀 줄이고, 점장의 역할을 훌륭히 이행하고, 중요 고객들을 관리하고, 산처럼 쌓인 고난이도 의뢰를 처리해야 내가 휴가를 갈 수 있을 뿐이랄까. 솔직히 말해봐. 체스트넛 레이크에 정말 「수집」할 만한 정보가 있다고 생각해?"
+    },
+    {
+     "title": "하토르에 관해",
+     "text": "모든 지시를 충실히 따르면서 언제나 자신만의 템포로 일해. 그 애한텐 항상 다른 사람은 어떻게 웃는지, 어떻게 떠드는지, 일상에서 어떤 크고 작은 실수를 하는지 관찰하라고 해. 그런 사소한 순간들이 다른 어떤 훈련보다 중요할 테니까."
+    },
+    {
+     "title": "하니엘에 관해",
+     "text": "배송을 맡기고 싶다고? 베이글로 메시지만 보내면 바로 나타날 거야. 절대 손님을 기다리게 하지 않거든. 문제라면… 중요한 일은 책임지고 잘하는데, 사소한 일일수록 「과하게 친절한지」 잘 지켜봐야 해. 높은 확률로 사고 친 걸 「몰래」 수습하고 있는 거거든."
+    },
+    {
+     "title": "일리카에 관해",
+     "text": "일리카… 「사고」를 치진 않지만 「자기가 제일 똑똑하고 싶어하는 욕심」이 문제야. 특히 자기 또래랑 같이 있을 땐 머리에서 스파이크라도 튀는 것 같다니까. 똑똑하긴 한데, 그 머릴 문제 일으키는 데 쓰지."
+    },
+    {
+     "title": "스테리 익스프레스에 관해",
+     "text": "정보든 이상이든 그냥 물건이든, 우린 어떤 요구도 기꺼이 들어주고 있어."
+    },
+    {
+     "title": "캐릭터 돌파·Ⅰ",
+     "text": "이번 성장은… 누군가의 「도움」 덕분이려나?"
+    },
+    {
+     "title": "캐릭터 돌파·Ⅱ",
+     "text": "이 느낌… 생각보다 훨씬 좋은걸?"
+    },
+    {
+     "title": "캐릭터 돌파·Ⅲ",
+     "text": "흐음, 우리 모두 원하던 걸 얻은 것 같은데?"
+    },
+    {
+     "title": "선물 수령·Ⅰ",
+     "text": "생각보다 나를 훨씬 더 잘 알고 있네~"
+    },
+    {
+     "title": "선물 수령·Ⅱ",
+     "text": "이렇게 내 마음에 쏙 드는 선물은 정말 오랜만이야."
+    },
+    {
+     "title": "선물 수령·Ⅲ",
+     "text": "너다운 선물이네."
+    },
+    {
+     "title": "선물 수령·IV",
+     "text": "중요한 건 형식이 아니라 마음이지. 마음도 잘 받았어."
+    }
+   ],
+   "battle": [
+    {
+     "title": "바이레일 스킬·Ⅰ",
+     "text": "이용해 줘서 고마워요."
+    },
+    {
+     "title": "바이레일 스킬·Ⅱ",
+     "text": "지정 배송이죠? 서명 부탁해요."
+    },
+    {
+     "title": "바이레일 스킬·Ⅲ",
+     "text": "이건 내가 직접 배송할게."
+    },
+    {
+     "title": "울티메이트·Ⅰ",
+     "text": "숙청을 시작 해볼까."
+    },
+    {
+     "title": "울티메이트·Ⅱ",
+     "text": "필드 봉쇄!"
+    },
+    {
+     "title": "울티메이트·Ⅲ",
+     "text": "전원 서명 완료."
+    },
+    {
+     "title": "이상 수용·Ⅰ",
+     "text": "손에 넣었군. 적당한 가격을 치러 줄 사람이 있으면 좋았을 텐데."
+    },
+    {
+     "title": "이상 수용·Ⅱ",
+     "text": "자자, 이제 집으로 갈 시간이야."
+    },
+    {
+     "title": "이상 제거·Ⅰ",
+     "text": "추가 서비스를 원한다면, 할인은 없어."
+    },
+    {
+     "title": "이상 제거·Ⅱ",
+     "text": "임무 완료. 이제… 보수 얘기를 해볼까?"
+    },
+    {
+     "title": "뜻밖의 수확·Ⅰ",
+     "text": "오… 이건 평범한 「배송 상품」이 아닌데?"
+    },
+    {
+     "title": "뜻밖의 수확·Ⅱ",
+     "text": "예상치 못한 수확인걸."
+    },
+    {
+     "title": "뜻밖의 수확·Ⅲ",
+     "text": "업무 외의 물건은, 개인 소유지."
+    },
+    {
+     "title": "뜻밖의 수확·Ⅳ",
+     "text": "이건 당연히 우리 몫이지~"
+    },
+    {
+     "title": "뜻밖의 수확·Ⅴ",
+     "text": "아름다운 사냥감이야. 다음에는 또 어떤 걸 수집하게 되려나."
+    },
+    {
+     "title": "뜻밖의 수확·Ⅵ",
+     "text": "좋은 걸 건졌어~"
+    },
+    {
+     "title": "HP 낮음·Ⅰ",
+     "text": "기회는 언제나 눈에 띄지 않는 사소한 것에 숨어 있지."
+    },
+    {
+     "title": "HP 낮음·Ⅱ",
+     "text": "원래 임기응변이 재미있는 거 아니겠어?"
+    },
+    {
+     "title": "HP 낮음·Ⅲ",
+     "text": "더 쓸 수 있는 게 없나?"
+    },
+    {
+     "title": "HP 회복·Ⅰ",
+     "text": "바로 이거야~"
+    },
+    {
+     "title": "HP 회복·Ⅱ",
+     "text": "웬일로 손발이 맞네."
+    },
+    {
+     "title": "탈진·Ⅰ",
+     "text": "그저… 또 다른 결말일 뿐."
+    },
+    {
+     "title": "탈진·Ⅱ",
+     "text": "하아… 비밀이 나를 여기로 이끈 건가."
+    },
+    {
+     "title": "탈진·Ⅲ",
+     "text": "나도… 어쩔 수 없을 때가 있네."
+    },
+    {
+     "title": "몬스터 처치·Ⅰ",
+     "text": "차례대로 들어와~"
+    },
+    {
+     "title": "몬스터 처치·Ⅱ",
+     "text": "상대를 보고 덤볐어야지~"
+    },
+    {
+     "title": "일반 피격·Ⅰ",
+     "text": "쉽네, 다음."
+    },
+    {
+     "title": "일반 피격·Ⅱ",
+     "text": "대담한걸~"
+    },
+    {
+     "title": "심각한 피해·Ⅰ",
+     "text": "꽤 민첩하잖아~"
+    },
+    {
+     "title": "심각한 피해·Ⅱ",
+     "text": "아무래도 이번 건은 수고비를 더 받아야 할 것 같군."
+    },
+    {
+     "title": "출전·Ⅰ",
+     "text": "어떤 사고든 누군가는 수습을 해야지… 난 공짜로는 안 움직여."
+    },
+    {
+     "title": "출전·Ⅱ",
+     "text": "초대받고 왔으니, 헛걸음할 생각은 없어."
+    },
+    {
+     "title": "협동기·Ⅰ",
+     "text": "퀵 받아야지."
+    },
+    {
+     "title": "협동기·Ⅱ",
+     "text": "택배 왔어~"
+    },
+    {
+     "title": "협동기·Ⅲ",
+     "text": "정보 확인."
+    },
+    {
+     "title": "글라이딩·Ⅰ",
+     "text": "높은 곳에선 상황이 잘 보이네."
+    },
+    {
+     "title": "글라이딩·Ⅱ",
+     "text": "나쁘지 않은걸."
+    },
+    {
+     "title": "전환·Ⅰ",
+     "text": "전문가가 나설 차례인가~"
+    },
+    {
+     "title": "전환·Ⅱ",
+     "text": "교대야. 빨리 끝내줄게."
+    },
+    {
+     "title": "전환·Ⅲ",
+     "text": "꽤 분주한걸?"
+    },
+    {
+     "title": "특수 전환·하토르",
+     "text": "잘했어."
+    },
+    {
+     "title": "특수 전환·하니엘",
+     "text": "우리가 나설 차례네."
+    },
+    {
+     "title": "팀원 쓰러짐·하토르",
+     "text": "긴장 풀어, 하토르."
+    },
+    {
+     "title": "팀원 쓰러짐·하니엘",
+     "text": "이제 남은 건 어른들한테 맡겨둬."
+    },
+    {
+     "title": "패링·Ⅰ",
+     "text": "기회가 굴러 들어오네."
+    },
+    {
+     "title": "패링·Ⅱ",
+     "text": "절묘한 타이밍였어."
+    },
+    {
+     "title": "연속 극한 회피 성공·Ⅰ",
+     "text": "다음엔 더 열심히 해봐~"
+    },
+    {
+     "title": "연속 극한 회피 성공·Ⅱ",
+     "text": "넌 좀 더 빨라야겠다."
+    }
+   ]
+  },
+  "zh-tw": {
+   "daily": [
+    {
+     "title": "初次見面",
+     "text": "斯特利快遞為您服務~初次見面，你可以叫我「九原」。本店承接異象獵人派送工作，也受理異象相關的各類委託……如果你是為此而來，我們可以好好談談~"
+    },
+    {
+     "title": "閒聊·跑車派送",
+     "text": "行事風格、言行談吐、穿著打扮……這些小東西，往往比你想的更能左右別人對你的態度。開著雷加利亞出門處理事務，也許略顯張揚，卻總能讓人自動給出空間，事情也因此順利許多。"
+    },
+    {
+     "title": "閒聊·私人美食考察",
+     "text": "貴客們在香氣與酒意中最容易放鬆，一句不經意的寒暄，也足以露出幾條值得注意的線索。當然，我也不是每次都為了工作而來，偶爾坐下來，嘗一口恰到好處的風味，也不失為一件愜意的事。"
+    },
+    {
+     "title": "閒聊·工作內容",
+     "text": "我在斯特利快遞負責「特殊派送」，內容……視客人而定。不同的人，總有不同的需求。"
+    },
+    {
+     "title": "大晴天",
+     "text": "晴天的派送，總是比陰天更讓人期待，不是嗎？"
+    },
+    {
+     "title": "雨天",
+     "text": "下雨可不太適合獨行——要我順路送你一程嗎？"
+    },
+    {
+     "title": "寒冷",
+     "text": "在這種天氣裡做事，自然不輕鬆，你們異象獵人想必也一樣……不過，我們都明白，機會與麻煩總是並行的。"
+    },
+    {
+     "title": "炎熱",
+     "text": "高溫之下，客戶的耐性最容易磨光，讓他們等太久的話，滿意度可是會下降的哦~"
+    },
+    {
+     "title": "早上問候",
+     "text": "作為今早的第一位客人，你想了解什麼？"
+    },
+    {
+     "title": "中午問候",
+     "text": "中午的陽光真刺眼啊……要不要一起找個陰涼的地方，聊些有趣的事？"
+    },
+    {
+     "title": "傍晚問候",
+     "text": "傍晚時容易放鬆警惕，你呢，有在留意周圍嗎？"
+    },
+    {
+     "title": "晚安",
+     "text": "夜幕降臨……正是談交易的好時候。"
+    },
+    {
+     "title": "愛好",
+     "text": "算不上什麼特別的愛好。只是偶爾會在閒暇時間裡放慢生活節奏，喝杯咖啡、看看周圍人，順便聽點有意思的消息。"
+    },
+    {
+     "title": "煩惱",
+     "text": "麻煩事……大概是那些按月繳的罰單、被打鬧波及的花瓶和裝飾品，還有那瓶因好奇心打翻的限量款香水……你說我忙的不止這些？敏銳的觀察~"
+    },
+    {
+     "title": "話題·情報",
+     "text": "情報真假，不必急著下結論~先看看誰會從中獲利，誰又可能被牽連其中。順著這些線索靜觀其變，有些躲在暗處又「真正關心」的人，總會不自覺地露出破綻。"
+    },
+    {
+     "title": "話題·讀懂沉默",
+     "text": "沉默，有時比喧囂更難應對，那裡面藏著猶豫、恐懼、隱瞞……還有不願被揭開的真相。對於情報商人來說，難的不是傾聽，而是分辨——哪些值得追問，哪些該裝作沒聽見。如果不小心聽錯了，那些本該被抓住的機會，也會悄悄溜走哦~"
+    },
+    {
+     "title": "話題·頰囊",
+     "text": "斯特利的每位成員都有自己的專屬頰囊，那些小傢伙會受契約者的個性影響，偶爾觀察它們的行為舉動是個有趣的事。"
+    },
+    {
+     "title": "關於自己·異能",
+     "text": "我的異能，大概是在關鍵時刻，把玫瑰化作子彈……為了達成目的，直接一點，也未嘗不可。"
+    },
+    {
+     "title": "關於自己·玫瑰",
+     "text": "那顆射向眉心的子彈，不久前還是那傢伙送我的一束玫瑰……唉，可惜了那麼好的花。"
+    },
+    {
+     "title": "關於自己·夜鶯",
+     "text": "聰明的鳥兒知道自己該什麼時候迷路~"
+    },
+    {
+     "title": "關於簡森",
+     "text": "斯特利的創始人之一，情報能力確實無可挑剔……要是能少找藉口外出，多履行履行店長的職責，維繫幾個重要客戶，處理一下堆積的高難度委託……就能輪到我去休假了。要我說，水菱湖那也沒什麼值得特地「打探」的消息吧？"
+    },
+    {
+     "title": "關於哈索爾",
+     "text": "她總是按照自己的節奏做事，井井有條的執行著各種指令。我只是讓她去看看別人如何笑、如何鬧，如何在平凡的小事上犯錯。這些微不足道的瞬間，對她來說，比任何訓練都重要。"
+    },
+    {
+     "title": "關於哈尼婭",
+     "text": "找她送件？打開唄果，簡單問幾句，大多數時候她都能出現，不會讓你白等。要說惹麻煩，大事上她總把握得當；小事的話，只要留意她在店裡是否「過分殷勤」，高機率就是在彌補某個小過錯，「悄悄」收拾殘局了。"
+    },
+    {
+     "title": "關於伊里卡",
+     "text": "……伊里卡，他的問題不在「闖禍」，而是「非得要比別人更聰明」。尤其是當有個同齡人在場時，他的小腦袋就開始冒出點小火花。聰明是真聰明，只可惜都用在添麻煩上了。"
+    },
+    {
+     "title": "關於斯德利快遞",
+     "text": "情報交易、異象、又或者是普通物件，無論什麼樣的需求，我們都樂意達成。"
+    },
+    {
+     "title": "角色突破·Ⅰ",
+     "text": "這次的進度，可多虧了有人在背後「幫忙」。"
+    },
+    {
+     "title": "角色突破·Ⅱ",
+     "text": "這感覺，比想像中順手。"
+    },
+    {
+     "title": "角色突破·Ⅲ",
+     "text": "看來，我們都得到了想要的東西。"
+    },
+    {
+     "title": "收到贈禮·Ⅰ",
+     "text": "你倒是比我預想的，要更懂我幾分~"
+    },
+    {
+     "title": "收到贈禮·Ⅱ",
+     "text": "能真正送到我心坎的禮物，這世上可不算多見。"
+    },
+    {
+     "title": "收到贈禮·Ⅲ",
+     "text": "倒也符合你的風格。"
+    },
+    {
+     "title": "收到贈禮·IV",
+     "text": "形式如何，本就不必掛懷。這份心意，我可是實實在在收到了。"
+    }
+   ],
+   "battle": [
+    {
+     "title": "變軌技能·Ⅰ",
+     "text": "感謝惠顧。"
+    },
+    {
+     "title": "變軌技能·Ⅱ",
+     "text": "專屬派送，請簽收。"
+    },
+    {
+     "title": "變軌技能·Ⅲ",
+     "text": "這件，我親自送。"
+    },
+    {
+     "title": "極軌終結·Ⅰ",
+     "text": "清算時間、到。"
+    },
+    {
+     "title": "極軌終結·Ⅱ",
+     "text": "鎖定全場。"
+    },
+    {
+     "title": "極軌終結·Ⅲ",
+     "text": "全員簽收。"
+    },
+    {
+     "title": "收容異象·Ⅰ",
+     "text": "到手了~希望有人會為它出個好價。"
+    },
+    {
+     "title": "收容異象·Ⅱ",
+     "text": "時間到了，去你該去的地方吧。"
+    },
+    {
+     "title": "泯除異象·Ⅰ",
+     "text": "若要追加服務，我可不打折。"
+    },
+    {
+     "title": "泯除異象·Ⅱ",
+     "text": "任務結束了。接下來……該談談報酬了？"
+    },
+    {
+     "title": "意外收穫·Ⅰ",
+     "text": "啊……這可不是一般的「快遞件」。"
+    },
+    {
+     "title": "意外收穫·Ⅱ",
+     "text": "偶爾也會有些意想不到的收穫。"
+    },
+    {
+     "title": "意外收穫·Ⅲ",
+     "text": "帳單外的部分，可得親自收下。"
+    },
+    {
+     "title": "意外收穫·Ⅳ",
+     "text": "這是我們應得的份額~"
+    },
+    {
+     "title": "意外收穫·Ⅴ",
+     "text": "漂亮的獵物，下次該收集什麼好呢。"
+    },
+    {
+     "title": "意外收穫·Ⅵ",
+     "text": "好貨入庫~"
+    },
+    {
+     "title": "生命值低·Ⅰ",
+     "text": "機會，總藏在微末之間。"
+    },
+    {
+     "title": "生命值低·Ⅱ",
+     "text": "臨場應變才更有趣。"
+    },
+    {
+     "title": "生命值低·Ⅲ",
+     "text": "還能利用哪些呢？"
+    },
+    {
+     "title": "恢復生命·Ⅰ",
+     "text": "正合我意~"
+    },
+    {
+     "title": "恢復生命·Ⅱ",
+     "text": "難得有默契。"
+    },
+    {
+     "title": "力竭·Ⅰ",
+     "text": "不過是……另一種結束。"
+    },
+    {
+     "title": "力竭·Ⅱ",
+     "text": "呵……秘密讓我走到了這一步。"
+    },
+    {
+     "title": "力竭·Ⅲ",
+     "text": "我……也有束手無策的時候。"
+    },
+    {
+     "title": "擊敗怪物·Ⅰ",
+     "text": "一個一個來~"
+    },
+    {
+     "title": "擊敗怪物·Ⅱ",
+     "text": "攔路前可得找好目標~"
+    },
+    {
+     "title": "普通受擊·Ⅰ",
+     "text": "小意思，繼續。"
+    },
+    {
+     "title": "普通受擊·Ⅱ",
+     "text": "膽子不小哦~"
+    },
+    {
+     "title": "重受擊·Ⅰ",
+     "text": "動作挺靈活的嘛~"
+    },
+    {
+     "title": "重受擊·Ⅱ",
+     "text": "看來，這件得再加點附加費。"
+    },
+    {
+     "title": "上陣·Ⅰ",
+     "text": "每場混亂都要有人收尾……我可不免費登場。"
+    },
+    {
+     "title": "上陣·Ⅱ",
+     "text": "應邀而來，我可不想白跑一趟。"
+    },
+    {
+     "title": "協同技·Ⅰ",
+     "text": "你的特急件。"
+    },
+    {
+     "title": "協同技·Ⅱ",
+     "text": "快遞上門了~"
+    },
+    {
+     "title": "協同技·Ⅲ",
+     "text": "情報確認。"
+    },
+    {
+     "title": "滑翔·Ⅰ",
+     "text": "在空中看清局勢了嗎？"
+    },
+    {
+     "title": "滑翔·Ⅱ",
+     "text": "感覺不錯。"
+    },
+    {
+     "title": "切換·Ⅰ",
+     "text": "輪到專業人士出手了~"
+    },
+    {
+     "title": "切換·Ⅱ",
+     "text": "換班了，別讓我收拾太久。"
+    },
+    {
+     "title": "切換·Ⅲ",
+     "text": "挺熱鬧的嘛。"
+    },
+    {
+     "title": "特殊切換·哈索爾",
+     "text": "做得很好。"
+    },
+    {
+     "title": "特殊切換·哈尼婭",
+     "text": "正好讓我們發揮。"
+    },
+    {
+     "title": "隊友倒下·哈索爾",
+     "text": "哈索爾，放鬆點。"
+    },
+    {
+     "title": "隊友倒下·哈尼婭",
+     "text": "剩下的交給大人們來處理。"
+    },
+    {
+     "title": "彈反·Ⅰ",
+     "text": "送上門的機會。"
+    },
+    {
+     "title": "彈反·Ⅱ",
+     "text": "剛好落點。"
+    },
+    {
+     "title": "連續極限閃避成功·Ⅰ",
+     "text": "下次得加把勁~"
+    },
+    {
+     "title": "連續極限閃避成功·Ⅱ",
+     "text": "你得更快點才行。"
+    }
+   ]
+  }
+ }
+}

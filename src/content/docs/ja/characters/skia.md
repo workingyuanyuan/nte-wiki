@@ -45,6 +45,7 @@ sources:
 | 実装 | バージョン1.0 |
 | 声優 | 中国語：刘雨轩、英語：Bill Butts、日本語：杉田智和、韓国語：이동훈 |
 | アーカイブ | [翳のアーカイブ](/ja/characters/skia/archive/) |
+| ボイス | [翳のボイス](/ja/characters/skia/voice/) |
 
 ## 入手方法
 

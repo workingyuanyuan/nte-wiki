@@ -57,6 +57,7 @@ sources:
 | Role | Coordinates Sterry's intel network |
 | Voice actors | Chinese: 张安琪; English: Baraka May; Japanese: 田中理恵; Korean: 방시우 |
 | Archive | [Jiuyuan archive](/characters/jiuyuan/archive/) |
+| Voice lines | [Jiuyuan voice lines](/characters/jiuyuan/voice/) |
 
 ## How to obtain
 

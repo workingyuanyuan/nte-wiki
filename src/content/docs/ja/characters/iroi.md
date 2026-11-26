@@ -53,6 +53,7 @@ sources:
 | 実装 | バージョン1.2後半、2026-07-29 |
 | 声優 | 中国語：汪悦、英語：Rachel Lepore、日本語：日高里菜、韓国語：이주은 |
 | アーカイブ | [イロヒのアーカイブ](/ja/characters/iroi/archive/) |
+| ボイス | [イロヒのボイス](/ja/characters/iroi/voice/) |
 
 ## 入手方法
 

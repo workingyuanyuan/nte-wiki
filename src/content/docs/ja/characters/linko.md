@@ -55,6 +55,7 @@ sources:
 | 肩書き | 特例で採用されたE.T.D第6小隊の隊員。異象の相棒はさだちゃん |
 | 声優 | 中国語：胡影佳、洪海天、英語：Emi Lo、Salli Saffioti、日本語：小倉唯、村瀬迪与、韓国語：김서현、김예림 |
 | アーカイブ | [リンコのアーカイブ](/ja/characters/linko/archive/) |
+| ボイス | [リンコのボイス](/ja/characters/linko/voice/) |
 
 ## 入手方法
 

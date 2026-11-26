@@ -60,6 +60,7 @@ sources:
 | 肩書き | E.T.D第4小隊の隊員 |
 | 声優 | 中国語：宴宁、英語：Baraka May、日本語：長縄まりあ、韓国語：김보나 |
 | アーカイブ | [レクイエムのアーカイブ](/ja/characters/lacrimosa/archive/) |
+| ボイス | [レクイエムのボイス](/ja/characters/lacrimosa/voice/) |
 
 ## 入手方法
 

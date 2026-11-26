@@ -1,0 +1,1647 @@
+{
+ "slug": "hathor",
+ "id": "1025",
+ "version": "1.5.4",
+ "sources": {
+  "en": "https://static.nanoka.cc/nte/1.5.4/en/character/1025.json",
+  "zh-cn": "https://static.nanoka.cc/nte/1.5.4/zh/character/1025.json",
+  "ja": "https://static.nanoka.cc/nte/1.5.4/ja/character/1025.json",
+  "ko": "https://static.nanoka.cc/nte/1.5.4/ko/character/1025.json",
+  "zh-tw": "https://everness.info/zh-Hant/espers/1025"
+ },
+ "reads": {
+  "zh-tw": "2026-11-25"
+ },
+ "lines": {
+  "en": {
+   "daily": [
+    {
+     "title": "First Meet",
+     "text": "Hello. I'm Hathor, elite courier of Sterry Express. As per request, please confirm the delivery and sign your name on the Proof of Receipt. The commission fee will be settled once the receipt is confirmed."
+    },
+    {
+     "title": "Chat: Brake Pads",
+     "text": "Ceramic brake pads maintain performance under high heat, ideal for rapid-response emergencies. Semi-metal pads cool faster and are cheaper, and are the best daily driver. Sintered metal pads handle long, high-intensity braking, perfect for mountain routes. Using the right type in the right scenario minimizes delivery delays and ensures tasks are completed on time."
+    },
+    {
+     "title": "Chat: Elite Courier",
+     "text": "Primarily responsible for Class III anomaly deliveries, intel reconnaissance for high-risk jobs, and emergency response. Explosions, car chases, aerial maneuvers…? That's just Haniel exaggerating. She enjoys those movie plots. The reality is, it's just racing against chaos."
+    },
+    {
+     "title": "Chat: Cheek Pouches",
+     "text": "Some anomaly containers require strict storage conditions—even slight temperature shifts can change their behavior. Keeping them in a Cheek Pouch stabilizes them. You could think of it like a picky pet pouch—moody and fussy, but it never fails a job."
+    },
+    {
+     "title": "Sunny",
+     "text": "Delivery note… no sun damage risks. The weather's good."
+    },
+    {
+     "title": "Rainy",
+     "text": "Wings and vehicles don't handle rain well. Today's deliveries must start 25 minutes earlier."
+    },
+    {
+     "title": "Cold",
+     "text": "Anti-slip tires… snow chains… all set."
+    },
+    {
+     "title": "Hot",
+     "text": "Bike's overheating. Taking a short break."
+    },
+    {
+     "title": "Morning Greeting",
+     "text": "Route confirmed. Let's go."
+    },
+    {
+     "title": "Noon Greeting",
+     "text": "Take a break. Stay sharp."
+    },
+    {
+     "title": "Evening Greeting",
+     "text": "Evening. No time to slack off."
+    },
+    {
+     "title": "Good Night",
+     "text": "Get some rest. I'll take it from here."
+    },
+    {
+     "title": "Hobbies",
+     "text": "Current top priority is completing the task assigned by my mentor."
+    },
+    {
+     "title": "Worries",
+     "text": "Ever since my mentor told me to learn how younger generations live, Haniel's been sharing all kinds of content. Some of them are interesting, but some ideas… \"Why be serious when you can be crazy?\" or \"Stand back! My power is about to go berserk!\"… I don't get it. Having power you can't control is not a good thing."
+    },
+    {
+     "title": "Topic: Delivery Routes",
+     "text": "Priority is based on urgency and risk level, then route overlap. Weather, road conditions, and high level anomaly activity zones are all factored in before finalizing a route."
+    },
+    {
+     "title": "Topic: Road Cycling",
+     "text": "Outside delivery work, I sometimes ride mountain roads with no fixed plan… Just to wander. If you want scenic routes, I can send you a guide later… I'll send them in a file on Bagel."
+    },
+    {
+     "title": "Topic: Food",
+     "text": "I don't have strong preferences for food. To me, food's just fuel. But if I must choose… sandwiches. Plenty of calories, stable structure, perfect for work."
+    },
+    {
+     "title": "About Myself: Esper Abilities",
+     "text": "Sometimes my ability spirals out of control and I lose consciousness. I'm considered a threat to city stability and should be restrained. My mentor was the only one who could stabilize me back then. She vouched for me and kept me close. After a lot of training, my control has improved. But if I ever lose it during a mission, and neither my mentor nor Haniel is nearby… end me. Don't hesitate."
+    },
+    {
+     "title": "About Myself: Wings",
+     "text": "After awakening my ability, it appeared on my back and I can feel it like a limb. Why only one wing…? It's not broken. Just undeveloped. Doctors said that if I learn to control it, it might just become whole at last."
+    },
+    {
+     "title": "About Myself: Thorns",
+     "text": "Based on mentor's records, each time my power flares, thorns begin to spread. I've compressed them to the smallest stable range possible—it's still not fully under control."
+    },
+    {
+     "title": "About Jenson",
+     "text": "Most of the time he just isn't there for the business. If you can't reach him, he's probably chatting in some bar."
+    },
+    {
+     "title": "About Jiuyuan",
+     "text": "Since founding Sterry, mentor's workload grew heavier. Her lights are often on deep into the night. I want to get stronger. Strong enough to lighten her burden."
+    },
+    {
+     "title": "About Haniel",
+     "text": "We met by chance. Back then, I couldn't control my powers. Haniel helped stabilize me. Later, she joined Sterry and taught me a lot about the modern youth life… Rather than teacher and student, she prefers to call us friends. Last time we met? Probably at the anime convention… She was… energetic."
+    },
+    {
+     "title": "About Illica",
+     "text": "Whatever he's doing, he's always fired up, spouting weird lines. If you know what he's been watching lately, you can kind of make sense of what he says."
+    },
+    {
+     "title": "About Sterry Express",
+     "text": "Early on, my only contact was with my mentor. She and Jenson founded Sterry. In the early days, even small delivery volumes were overwhelming. After Haniel and Illica joined, things ran smoother, and it all felt a little more… alive."
+    },
+    {
+     "title": "Character Ascension I",
+     "text": "Stay sharp."
+    },
+    {
+     "title": "Character Ascension II",
+     "text": "My control has gotten better."
+    },
+    {
+     "title": "Character Ascension III",
+     "text": "It seems that hard work does pay off."
+    },
+    {
+     "title": "Gift Received I",
+     "text": "Where do you want this to be delivered? Oh, I'm the recipient?"
+    },
+    {
+     "title": "Gift Received II",
+     "text": "I've delivered gifts for a lot of people, but I haven't received many gifts for myself."
+    },
+    {
+     "title": "Gift Received III",
+     "text": "Normally, I should register this gift in the store…"
+    },
+    {
+     "title": "Gift Received IV",
+     "text": "I'll take good care of it."
+    }
+   ],
+   "battle": [
+    {
+     "title": "Redirect Skill I",
+     "text": "Target confirmed."
+    },
+    {
+     "title": "Redirect Skill II",
+     "text": "Now's the time."
+    },
+    {
+     "title": "Redirect Skill III",
+     "text": "I'll handle this."
+    },
+    {
+     "title": "Ultimate I",
+     "text": "Route secured."
+    },
+    {
+     "title": "Ultimate II",
+     "text": "Spin and clear."
+    },
+    {
+     "title": "Ultimate III",
+     "text": "Clear on time."
+    },
+    {
+     "title": "Containment I",
+     "text": "Delivery complete. Same-day settled."
+    },
+    {
+     "title": "Containment II",
+     "text": "Where's this headed?"
+    },
+    {
+     "title": "Nullification I",
+     "text": "Appreciate the support."
+    },
+    {
+     "title": "Nullification II",
+     "text": "Thanks for the rating."
+    },
+    {
+     "title": "Unexpected Gains I",
+     "text": "Worth keeping."
+    },
+    {
+     "title": "Unexpected Gains II",
+     "text": "Clean pickup."
+    },
+    {
+     "title": "Unexpected Gains III",
+     "text": "Can't have too many of these."
+    },
+    {
+     "title": "Unexpected Gains IV",
+     "text": "Making good progress."
+    },
+    {
+     "title": "Unexpected Gains V",
+     "text": "Straying from the path isn't always wrong."
+    },
+    {
+     "title": "Unexpected Gains VI",
+     "text": "Just what we need."
+    },
+    {
+     "title": "Low Health I",
+     "text": "This doesn't look good…"
+    },
+    {
+     "title": "Low Health II",
+     "text": "Let's rethink the plan…"
+    },
+    {
+     "title": "Low Health III",
+     "text": "Stay calm."
+    },
+    {
+     "title": "Heal I",
+     "text": "Right on time."
+    },
+    {
+     "title": "Heal II",
+     "text": "…I owe you one."
+    },
+    {
+     "title": "Down I",
+     "text": "My last delivery…"
+    },
+    {
+     "title": "Down II",
+     "text": "I have failed…"
+    },
+    {
+     "title": "Down III",
+     "text": "Still not strong enough…"
+    },
+    {
+     "title": "Takedown I",
+     "text": "Good progress."
+    },
+    {
+     "title": "Takedown II",
+     "text": "No big deal."
+    },
+    {
+     "title": "Damaged I",
+     "text": "Keep moving."
+    },
+    {
+     "title": "Damaged II",
+     "text": "Just getting warmed up."
+    },
+    {
+     "title": "Heavily Damaged I",
+     "text": "I won't fall."
+    },
+    {
+     "title": "Heavily Damaged II",
+     "text": "Careful now."
+    },
+    {
+     "title": "Deploy I",
+     "text": "Feeling good. Let's start working."
+    },
+    {
+     "title": "Deploy II",
+     "text": "Urgent task. I'm on it."
+    },
+    {
+     "title": "Entry Attack I",
+     "text": "Nowhere to run."
+    },
+    {
+     "title": "Entry Attack II",
+     "text": "No loose ends."
+    },
+    {
+     "title": "Entry Attack III",
+     "text": "Right now."
+    },
+    {
+     "title": "Glide I",
+     "text": "Perimeter clear."
+    },
+    {
+     "title": "Glide II",
+     "text": "Stay balanced."
+    },
+    {
+     "title": "Switch I",
+     "text": "I'll provide backup."
+    },
+    {
+     "title": "Switch II",
+     "text": "I'll handle this part."
+    },
+    {
+     "title": "Switch III",
+     "text": "Stick to the plan."
+    },
+    {
+     "title": "Special Switch - Jiuyuan",
+     "text": "Noted."
+    },
+    {
+     "title": "Special Switch - Haniel",
+     "text": "Don't worry, I'll handle this."
+    },
+    {
+     "title": "Teammate Down - Jiuyuan",
+     "text": "I'll deal with this carefully."
+    },
+    {
+     "title": "Teammate Down - Haniel",
+     "text": "I'll cover for you. Focus on recovery."
+    },
+    {
+     "title": "Parry I",
+     "text": "As expected."
+    },
+    {
+     "title": "Parry II",
+     "text": "One moment is enough."
+    },
+    {
+     "title": "Consecutive Critical Dodge Success I",
+     "text": "Come again. Same result."
+    },
+    {
+     "title": "Consecutive Critical Dodge Success II",
+     "text": "Opening spotted."
+    }
+   ]
+  },
+  "zh-cn": {
+   "daily": [
+    {
+     "title": "初次见面",
+     "text": "初次见面，我是斯特利速递精英快递员——哈索尔。遵照委托，请您核对快递，并于「签收凭证」上签署姓名，确定签收后，委托费用即刻扣除。"
+    },
+    {
+     "title": "闲聊·刹车片",
+     "text": "陶瓷刹车片能在高温下维持稳定的制动性能，适合需要快速反应的紧急任务；半金属刹车片散热快、成本低，更适合日常派送使用；烧结金属刹车片耐热性强，适应长时间、高强度制动，适用于山路等复杂路况。只有把每种材质用在对的地方，才能减少对派送效率的干扰，确保任务按时完成。"
+    },
+    {
+     "title": "闲聊·精英快递员",
+     "text": "主要负责III级异象收容物的派送、高危任务的情报勘察与应急支援。至于爆炸、追车、空中飞行……？那些只是哈尼娅过于夸张的描述，她喜欢这些电影情节。现实情况是？只是与突发状况抢时间罢了。"
+    },
+    {
+     "title": "闲聊·颊囊",
+     "text": "有些异象收容物有相对苛刻的存放条件，哪怕只是环境温度略有波动，都有可能影响其特性。把收容物装进颊囊储存，可以维持相对稳定的状态。你可以当它是会找你讨食的小口袋，偶尔会耍点小脾气，挑食是常有的，但从不误事。"
+    },
+    {
+     "title": "大晴天",
+     "text": "收容物派送须知……没有暴晒风险，天气合适。"
+    },
+    {
+     "title": "雨天",
+     "text": "羽翼和机车在雨天行动都会受限，今日的派送日程需提前25分钟。"
+    },
+    {
+     "title": "寒冷",
+     "text": "防滑轮胎……雪链……都备齐了。"
+    },
+    {
+     "title": "炎热",
+     "text": "机车过热，稍作休息。"
+    },
+    {
+     "title": "早上问候",
+     "text": "快递派送路线已确认，准备行动。"
+    },
+    {
+     "title": "中午问候",
+     "text": "休息一下，保持专注。"
+    },
+    {
+     "title": "傍晚问候",
+     "text": "傍晚，不容懈怠。"
+    },
+    {
+     "title": "晚安",
+     "text": "睡吧，剩下的我来处理。"
+    },
+    {
+     "title": "爱好",
+     "text": "完成老师交代的任务，算是现阶段的首要偏好。"
+    },
+    {
+     "title": "烦恼",
+     "text": "从上次老师让我了解新时代年轻人的生活后，哈尼娅便时常分享这些内容。漫画和番剧倒是有不少有趣的部分，只是其中一些特殊的情节，比如「疯狂是一件很酷的事」「我的力量不受控制要涌现出来了」……诸如此类的表达方式，还是感觉有些令人困惑……不能控制好自己的力量，我并不认为是一件好事。"
+    },
+    {
+     "title": "话题·送货路线",
+     "text": "会优先考虑时效性和风险等级，其次是路径重叠度。还会综合考虑天气、路况，以及高等级异象的活动区域等因素，一并进行评估后确定最终路线。"
+    },
+    {
+     "title": "话题·公路骑行",
+     "text": "除了派送任务外，偶尔也会去山间的公路骑行，倒也没有什么特定的路线规划，只是随意走走。如果你想知道一些比较好的风景，我倒是可以提供一份路线规划……晚些时候会以文档的形式在呗果上发给你。"
+    },
+    {
+     "title": "话题·食物",
+     "text": "我对食物没有特别的偏好。对我而言，它只是维持机能的一种手段。如果非要选……三明治，热量充足、结构稳定，适合工作日。"
+    },
+    {
+     "title": "关于自己·异能",
+     "text": "在某些时候，我的异能会突然失控，并伴随意识丧失。由于肉体具备相当的破坏性，作为城市的不稳定因素理应被严格管制。老师是当时唯一能在我异能失控时稳定住我的人，因此她以自身为担保，将我带在身边……经过很长时间的训练，我对异能的控制已有所提升。但如果在任务中再次失控，而老师和哈尼娅都不能赶到的话，请在事态扩大前，立即将我处置，不要犹豫。"
+    },
+    {
+     "title": "关于自己·翅膀",
+     "text": "异能觉醒后，它出现在身后并具备正常触感。至于单翼的原因……？并非断裂或者缺失，而是尚未成熟。医生的说法是，如果持续练习对异能的掌控，或许下次见面时，它会以完整的姿态出现也说不定。"
+    },
+    {
+     "title": "关于自己·荆棘",
+     "text": "根据老师之前的记录，每次异能爆发后，荆棘都会出现蔓延的迹象。目前它仍不完全受控，而我已将外延的部分压缩至可行的最小范围了。"
+    },
+    {
+     "title": "关于简森",
+     "text": "大多数时候是个甩手掌柜，店里不见人影是常事，如果联系不上，大概是在某个酒吧闲聊。"
+    },
+    {
+     "title": "关于九原",
+     "text": "自从建立斯特利后，老师的工作越发繁重，书房的灯经常亮到深夜。我希望变得更强一些，哪怕只是从任务上替她分担一些也好。"
+    },
+    {
+     "title": "关于哈尼娅",
+     "text": "相识于一场意外，当时我难以控制自己的异能，是哈尼娅帮我稳定了下来。后来她加入了斯特利，教会了我很多年轻人的生活方式……比起师生之间的关系，她更倾向于将其定义为「同好」，最近的一次相处？大概是漫展上……她……很有精力。"
+    },
+    {
+     "title": "关于伊里卡",
+     "text": "不管做什么，总是兴致高昂，偶尔还会念叨一些奇特的台词，如果有了解他最近看过的新番，理解起来倒也不太困难。"
+    },
+    {
+     "title": "关于斯特利速递",
+     "text": "早年与我接触最多的只有老师一人。后来，老师和简森建立了斯特利。刚成立时，接到的配送任务并不算多，但对于初期的人手来说，也是相当繁重的数量。直到哈尼娅和伊里卡的加入，斯特利才逐步形成了相对完善的运作结构，也比以往……多了些生活气息。"
+    },
+    {
+     "title": "角色突破·Ⅰ",
+     "text": "不能松懈。"
+    },
+    {
+     "title": "角色突破·Ⅱ",
+     "text": "对身体的掌控程度，比以前高一些。"
+    },
+    {
+     "title": "角色突破·Ⅲ",
+     "text": "看来，努力的确有回报。"
+    },
+    {
+     "title": "收到赠礼·Ⅰ",
+     "text": "需要派送到何处……收件人是我？"
+    },
+    {
+     "title": "收到赠礼·Ⅱ",
+     "text": "我经手派送过不少人的礼物，只是轮到自己签收的时候，倒也不多见。"
+    },
+    {
+     "title": "收到赠礼·Ⅲ",
+     "text": "这种情况，按规矩是需要在店里做登记的……"
+    },
+    {
+     "title": "收到赠礼·IV",
+     "text": "我会妥善保管好的。"
+    }
+   ],
+   "battle": [
+    {
+     "title": "变轨技能·Ⅰ",
+     "text": "目标确认。"
+    },
+    {
+     "title": "变轨技能·Ⅱ",
+     "text": "抓住机会。"
+    },
+    {
+     "title": "变轨技能·Ⅲ",
+     "text": "我来处理。"
+    },
+    {
+     "title": "极轨终结·Ⅰ",
+     "text": "路径已定。"
+    },
+    {
+     "title": "极轨终结·Ⅱ",
+     "text": "回旋突破。"
+    },
+    {
+     "title": "极轨终结·Ⅲ",
+     "text": "准时清除。"
+    },
+    {
+     "title": "收容异象·Ⅰ",
+     "text": "委托完成，加急立结。"
+    },
+    {
+     "title": "收容异象·Ⅱ",
+     "text": "需要派送至何处。"
+    },
+    {
+     "title": "泯除异象·Ⅰ",
+     "text": "承蒙关照。"
+    },
+    {
+     "title": "泯除异象·Ⅱ",
+     "text": "谢谢好评。"
+    },
+    {
+     "title": "意外收获·Ⅰ",
+     "text": "值得带走。"
+    },
+    {
+     "title": "意外收获·Ⅱ",
+     "text": "干脆利落的收获。"
+    },
+    {
+     "title": "意外收获·Ⅲ",
+     "text": "这类东西，多点也无妨。"
+    },
+    {
+     "title": "意外收获·Ⅳ",
+     "text": "进展顺利。"
+    },
+    {
+     "title": "意外收获·Ⅴ",
+     "text": "偶尔偏离路径，也未必是错。"
+    },
+    {
+     "title": "意外收获·Ⅵ",
+     "text": "刚好派得上用场。"
+    },
+    {
+     "title": "生命值低·Ⅰ",
+     "text": "情况不容乐观……"
+    },
+    {
+     "title": "生命值低·Ⅱ",
+     "text": "计划需要重新评估……"
+    },
+    {
+     "title": "生命值低·Ⅲ",
+     "text": "保持冷静。"
+    },
+    {
+     "title": "恢复生命·Ⅰ",
+     "text": "来得正是时候。"
+    },
+    {
+     "title": "恢复生命·Ⅱ",
+     "text": "……我欠你一次。"
+    },
+    {
+     "title": "力竭·Ⅰ",
+     "text": "最后的交接……"
+    },
+    {
+     "title": "力竭·Ⅱ",
+     "text": "任务……未能完成。"
+    },
+    {
+     "title": "力竭·Ⅲ",
+     "text": "还是不够强……"
+    },
+    {
+     "title": "击败怪物·Ⅰ",
+     "text": "进展可控。"
+    },
+    {
+     "title": "击败怪物·Ⅱ",
+     "text": "不值一提。"
+    },
+    {
+     "title": "普通受击·Ⅰ",
+     "text": "继续。"
+    },
+    {
+     "title": "普通受击·Ⅱ",
+     "text": "只是热身。"
+    },
+    {
+     "title": "重受击·Ⅰ",
+     "text": "我不会倒下。"
+    },
+    {
+     "title": "重受击·Ⅱ",
+     "text": "小心应对。"
+    },
+    {
+     "title": "上阵·Ⅰ",
+     "text": "状态良好，开始行动。"
+    },
+    {
+     "title": "上阵·Ⅱ",
+     "text": "紧急业务，即刻处理。"
+    },
+    {
+     "title": "协同技·Ⅰ",
+     "text": "无处可逃。"
+    },
+    {
+     "title": "协同技·Ⅱ",
+     "text": "不留后患。"
+    },
+    {
+     "title": "协同技·Ⅲ",
+     "text": "就是现在。"
+    },
+    {
+     "title": "滑翔·Ⅰ",
+     "text": "周围情况正常。"
+    },
+    {
+     "title": "滑翔·Ⅱ",
+     "text": "保持平衡。"
+    },
+    {
+     "title": "切换·Ⅰ",
+     "text": "我来接应。"
+    },
+    {
+     "title": "切换·Ⅱ",
+     "text": "此段，由我代行。"
+    },
+    {
+     "title": "切换·Ⅲ",
+     "text": "照计划来。"
+    },
+    {
+     "title": "特殊切换·九原",
+     "text": "记下了。"
+    },
+    {
+     "title": "特殊切换·哈尼娅",
+     "text": "别担心，我会处理到位。"
+    },
+    {
+     "title": "队友倒下·九原",
+     "text": "嗯，我会谨慎处理。"
+    },
+    {
+     "title": "队友倒下·哈尼娅",
+     "text": "我来补位，你安心恢复。"
+    },
+    {
+     "title": "弹反·Ⅰ",
+     "text": "如预期。"
+    },
+    {
+     "title": "弹反·Ⅱ",
+     "text": "一瞬就够了。"
+    },
+    {
+     "title": "连续极限闪避成功·Ⅰ",
+     "text": "再来，也一样。"
+    },
+    {
+     "title": "连续极限闪避成功·Ⅱ",
+     "text": "机会，看准了。"
+    }
+   ]
+  },
+  "ja": {
+   "daily": [
+    {
+     "title": "初対面",
+     "text": "初めまして。私はステーリー急便のエリート配達員、ハソール。お届け物を確認したら、「受取証」にサインして。配達料のほうは、口座で即時引き落しされるから、大丈夫。"
+    },
+    {
+     "title": "雑談-ブレーキパッド",
+     "text": "セラミックブレーキパッドは高温でも安定した制御パフォーマンスが可能で、素早い切り返しが必要な緊急配達に適してる。セミメタルブレーキパッドは放熱が早く、低コスト、日常的な配達に適してる。シンタードパッドは熱に強く、長時間の高負荷ブレーキに効くから、山道などの複雑な路面状態に適してる。このように、配達効率を上げるには、場面に合った材質を使い分けることが大切だ。"
+    },
+    {
+     "title": "雑談-エリート配達員",
+     "text": "私の担当は、Ⅲ級の異象収容物の配達、危険度の高い情報収集や緊急支援がメインだ。爆発、カーチェイス、空中飛行…？あれはハニアが勝手に盛った話。あいつはああいう映画のシーンが好きだから。実際は？時間稼ぎが必要な時は、まあ。"
+    },
+    {
+     "title": "雑談-ホオブクロ",
+     "text": "異象収容物の中には、かなり厳しい保存条件を要するものもある。環境温度が少し変わっただけでも、特性に影響を及ぼしたりするから。その点、収容物をホオブクロに入れて保存しておけば、比較的安定した状態をキープできる。時々餌をねだってくるポケットだといえば、いいのかな。ちょっとわがままで、しょっちゅう好き嫌いもする。だけど、仕事はちゃんとこなす。"
+    },
+    {
+     "title": "快晴",
+     "text": "収容物の配達注意事項…日焼けリスク、なし。天気、良し。"
+    },
+    {
+     "title": "雨",
+     "text": "雨は翼とバイクの動きを鈍らせてしまう。だから今日の配達スケジュールは25分早めよう。"
+    },
+    {
+     "title": "寒い",
+     "text": "横滑り防止タイヤ…スノーチェーン…整備完了。"
+    },
+    {
+     "title": "灼熱",
+     "text": "バイクがオーバーヒートした、少し休むか。"
+    },
+    {
+     "title": "朝の挨拶",
+     "text": "配達ルートを確認、行動に移る。"
+    },
+    {
+     "title": "昼の挨拶",
+     "text": "集中力を保つために、少し休もう。"
+    },
+    {
+     "title": "夕方の挨拶",
+     "text": "夕方は油断ならない。"
+    },
+    {
+     "title": "おやすみ",
+     "text": "寝ていいよ。後は私が。"
+    },
+    {
+     "title": "趣味",
+     "text": "今のところ、先生が残した任務をこなすのが趣味になってる。"
+    },
+    {
+     "title": "悩み",
+     "text": "先生に言われて、今時の若者たちのライフスタイルをハニアに教えてもらってるけど、漫画やアニメは確かに面白いところもある。ただ「狂うことがかっこいい」、「力がもう言うことを聞かない、今にもあふれ出しそう」とか…こういうシーンはなんだか、理解できないんだ…己の力もコントロールできないなんて、どうにもいけ好かない。"
+    },
+    {
+     "title": "話題-配送ルート",
+     "text": "ルートを決めるとき、優先されるのは、時間と危険度、あとはルートの重複率や路面状態、上級異象の活動の有無、天候などが大切かな。"
+    },
+    {
+     "title": "話題-ロードバイク",
+     "text": "配達任務以外でも、たまに山で走ったりする。決まったルートはなくて、気ままな走りだ。何かいい風景を知りたければ、おすすめのルートをシェアしようか？…あとでベーグルにファイルを送る。"
+    },
+    {
+     "title": "話題-食べ物",
+     "text": "この食べ物が好き、とかはない。私にとって、あれは生命機能を維持するツールでしかないから。強いて言うなら、高カロリーで栄養バランスがいい、サンドイッチかな。仕事の日に向いてる。"
+    },
+    {
+     "title": "自分について-異能",
+     "text": "時々、異能が暴走することがある。その間の意識はなく、物理的な破壊力も高いため、街の不安定要素として監禁されるはずだった。そんな私を、当時唯一押さえられた人物が先生で、彼女は私の保証人になると買って出て、側に置いてくれた…長い訓練を経て、今は異能をコントロールできるようになったけど、リスクがないわけではない。先生もハニアも間に合わなかった時は、迷うことなく、私を処分して。"
+    },
+    {
+     "title": "自分について-翼",
+     "text": "これは異能が覚醒した時に背中に現れて、私と感覚も共有してる。片翼の理由…？医者がいうには、折れたり欠けたりしてるのではなく、「未成熟」の状態だから、とのこと。異能をもっとコントロールできれば、次は完全な姿で現れたりして。"
+    },
+    {
+     "title": "自分について-棘",
+     "text": "先生の記録によると、私が暴走するたびに、異能から発生する茨の範囲も広がってるらしい。だからその範囲を最低限に抑え込めるよう、試行錯誤してるところだ。"
+    },
+    {
+     "title": "ジェンソンについて",
+     "text": "店にはほとんど顔を出さない。特段指示も出しちゃこない。もし連絡がつかなかったら、どこかのバーで誰かと喋ってるのかも。"
+    },
+    {
+     "title": "九原について",
+     "text": "ステーリーを設立してから、先生の仕事は忙しくなる一方。書斎の明かりも深夜までついてるし、私が強くなって、少しでも負担を減らしてあげないと。"
+    },
+    {
+     "title": "ハニアについて",
+     "text": "ちょっとしたハプニングで知り合った。また異能が暴走しかけた時、ハニアが落ち着かせてくれたんだ。そのあと、彼女もステーリーに入って、色んな若者のライフスタイルについて教えてくれた…彼女は師弟関係ではなく、「同好の士」と定義してるみたい。最後に一緒に出かけたこと？多分コミケかな…あの子…とても体力あるから。"
+    },
+    {
+     "title": "イリカについて",
+     "text": "何に対しても興味津々、いきなりよく分からない奇妙なセリフをぶつぶつ言ってる。でも最近の新しいアニメを把握しておけば、そんなに分からないこともないかな。"
+    },
+    {
+     "title": "ステーリー急便について",
+     "text": "先生一人について行くつもりが、先生とジェンソンがステーリー急便を設立してから、色々変わった…思えば、任務が少なかった割には、人手不足のせいで結構ハードだったな…ハニアとイリカが入った後は、ステーリーの運営形態もだいぶ健全になったから…今のほうが「生活」らしいかな。"
+    },
+    {
+     "title": "キャラ突破Ⅰ",
+     "text": "油断しないで。"
+    },
+    {
+     "title": "キャラ突破Ⅱ",
+     "text": "前よりは、コントロールできるようになった。"
+    },
+    {
+     "title": "キャラ突破Ⅲ",
+     "text": "努力は、本当に報われるものなんだね。"
+    },
+    {
+     "title": "届けられたギフトⅠ",
+     "text": "どこに届ければいい？…受取人は…私？"
+    },
+    {
+     "title": "届けられたギフトⅡ",
+     "text": "数え切れないほどプレゼントを運んで来たけど、自分が受け取ることは、滅多にない。"
+    },
+    {
+     "title": "届けられたギフトⅢ",
+     "text": "規則では、店に届け出る必要があるけど…"
+    },
+    {
+     "title": "届けられたギフトⅣ",
+     "text": "大切に保管しておく。"
+    }
+   ],
+   "battle": [
+    {
+     "title": "バイレールスキルⅠ",
+     "text": "目標を確認。"
+    },
+    {
+     "title": "バイレールスキルⅡ",
+     "text": "チャンス。"
+    },
+    {
+     "title": "バイレールスキルⅢ",
+     "text": "私が対処する。"
+    },
+    {
+     "title": "EXレール終結Ⅰ",
+     "text": "ルート決定。"
+    },
+    {
+     "title": "EXレール終結Ⅱ",
+     "text": "ワインディング突破。"
+    },
+    {
+     "title": "EXレール終結Ⅲ",
+     "text": "排除開始。"
+    },
+    {
+     "title": "異象収容Ⅰ",
+     "text": "任務完了、すぐ上がる。"
+    },
+    {
+     "title": "異象収容Ⅱ",
+     "text": "配達先は。"
+    },
+    {
+     "title": "異象排除Ⅰ",
+     "text": "いつもどうも。"
+    },
+    {
+     "title": "異象排除Ⅱ",
+     "text": "高評価ありがとう。"
+    },
+    {
+     "title": "意外な収穫Ⅰ",
+     "text": "持ち帰る価値がある。"
+    },
+    {
+     "title": "意外な収穫Ⅱ",
+     "text": "きれいな仕上がりだ。"
+    },
+    {
+     "title": "意外な収穫Ⅲ",
+     "text": "いっぱい持っていても損はない。"
+    },
+    {
+     "title": "意外な収穫Ⅳ",
+     "text": "進捗は順調だ。"
+    },
+    {
+     "title": "意外な収穫Ⅴ",
+     "text": "たまにはルートから外れるのも、悪くない。"
+    },
+    {
+     "title": "意外な収穫Ⅵ",
+     "text": "ちょうど、使い道ができた。"
+    },
+    {
+     "title": "低HPⅠ",
+     "text": "状況が芳しくない…"
+    },
+    {
+     "title": "低HPⅡ",
+     "text": "プランを見直さないと…"
+    },
+    {
+     "title": "低HPⅢ",
+     "text": "冷静に。"
+    },
+    {
+     "title": "HP回復Ⅰ",
+     "text": "いい時に来た。"
+    },
+    {
+     "title": "HP回復Ⅱ",
+     "text": "借りが一つできた。"
+    },
+    {
+     "title": "力尽きⅠ",
+     "text": "最後の引継ぎ…"
+    },
+    {
+     "title": "力尽きⅡ",
+     "text": "任務は…完了しなかった。"
+    },
+    {
+     "title": "力尽きⅢ",
+     "text": "力不足だった…"
+    },
+    {
+     "title": "敵を撃破Ⅰ",
+     "text": "予定通り。"
+    },
+    {
+     "title": "敵を撃破Ⅱ",
+     "text": "取るに足らない。"
+    },
+    {
+     "title": "ダメージを受ける（通常）Ⅰ",
+     "text": "まだまだ。"
+    },
+    {
+     "title": "ダメージを受ける（通常）Ⅱ",
+     "text": "いい準備運動だ。"
+    },
+    {
+     "title": "大打撃Ⅰ",
+     "text": "倒れない。"
+    },
+    {
+     "title": "大打撃Ⅱ",
+     "text": "気をつけて。"
+    },
+    {
+     "title": "出撃Ⅰ",
+     "text": "状態良好、行動開始。"
+    },
+    {
+     "title": "出撃Ⅱ",
+     "text": "緊急任務、直ちに対処する。"
+    },
+    {
+     "title": "コンビスキルⅠ",
+     "text": "逃げ場はない。"
+    },
+    {
+     "title": "コンビスキルⅡ",
+     "text": "根こそぎ絶つ。"
+    },
+    {
+     "title": "コンビスキルⅢ",
+     "text": "今だ。"
+    },
+    {
+     "title": "滑空Ⅰ",
+     "text": "周囲に異常なし。"
+    },
+    {
+     "title": "滑空Ⅱ",
+     "text": "バランスを保って。"
+    },
+    {
+     "title": "切替Ⅰ",
+     "text": "引き継ぐよ。"
+    },
+    {
+     "title": "切替Ⅱ",
+     "text": "私に任せて。"
+    },
+    {
+     "title": "切替Ⅲ",
+     "text": "計画通りに。"
+    },
+    {
+     "title": "特殊切替・九原",
+     "text": "了解。"
+    },
+    {
+     "title": "特殊切替・ハニア",
+     "text": "大丈夫。うまくやるよ。"
+    },
+    {
+     "title": "仲間気絶・九原",
+     "text": "うん、慎重に対処するよ。"
+    },
+    {
+     "title": "仲間気絶・ハニア",
+     "text": "カバーするよ。ゆっくり休んで。"
+    },
+    {
+     "title": "パリィⅠ",
+     "text": "計画通り。"
+    },
+    {
+     "title": "パリィⅡ",
+     "text": "一瞬で足りる。"
+    },
+    {
+     "title": "連続極限回避成功Ⅰ",
+     "text": "何度やっても、同じだ。"
+    },
+    {
+     "title": "連続極限回避成功Ⅱ",
+     "text": "このチャンス、外さないよ。"
+    }
+   ]
+  },
+  "ko": {
+   "daily": [
+    {
+     "title": "첫 만남",
+     "text": "반갑습니다. 스테리 익스프레스 엘리트 배송원, 하토르입니다. 의뢰 내용에 따라 본인의 택배가 맞는지 확인한 뒤 「수령확인서」에 서명해 주세요. 서명 즉시 의뢰비가 차감됩니다."
+    },
+    {
+     "title": "대화·브레이크 패드",
+     "text": "세라믹 브레이크 패드는 고온에서도 안정적인 제동이 가능해 빠른 대응이 필요한 긴급 임무에 적합합니다. 세미 메탈 브레이크 패드는 열 발산이 빠르고 비용이 저렴해 일상 배송에 적합하죠. 신터링 메탈 브레이크 패드는 내열성이 뛰어나 오랜 시간 고강도 제동이 필요한 산길 등 복잡한 도로 상황에 적합합니다. 각 소재를 적재적소에 사용해야 배송 효율을 높이고 임무를 제시간에 완료할 수 있죠."
+    },
+    {
+     "title": "대화·엘리트 배송원",
+     "text": "주로 III등급의 이상 수용물 배송, 고위험 임무의 정찰 및 긴급 지원을 담당합니다. 폭발… 추격전, 공중전이요…? 하니엘이 부풀려 말한 겁니다. 그런 영화를 좋아하거든요. 현실은 어떻냐고요? 돌발 상황 속에서 시간과의 전쟁을 벌일 뿐입니다."
+    },
+    {
+     "title": "대화·볼 주머니",
+     "text": "일부 이상 수용물은 보관 조건이 까다로워 온도가 조금만 변해도 파동을 일으키고 변질될 수 있습니다. 수용물을 볼 주머니에 넣어 보관하면 비교적 안정적인 상태를 유지할 수 있죠. 먹이를 챙겨줘야 하는 작은 주머니라고 생각해도 무방합니다. 가끔 투정도 부리고 편식도 하지만 일을 망치는 법은 없죠."
+    },
+    {
+     "title": "맑은 날",
+     "text": "수용물 배송 주의 사항… 직사광선에 노출을 삼가고 적절한 온도를 유지할 것."
+    },
+    {
+     "title": "비 오는 날",
+     "text": "비가 오면 날개와 바이크에 제약이 생기므로 오늘의 배송 일정을 25분 앞당겨야 합니다."
+    },
+    {
+     "title": "추운 날",
+     "text": "윈터 타이어… 스노 체인… 확인 완료."
+    },
+    {
+     "title": "더운 날",
+     "text": "바이크가 과열됐군요. 잠시 쉬어가겠습니다."
+    },
+    {
+     "title": "아침 인사",
+     "text": "배송 경로 확인 완료, 출발합니다."
+    },
+    {
+     "title": "점심 인사",
+     "text": "잠깐의 휴식은 집중력 유지에 도움이 됩니다."
+    },
+    {
+     "title": "저녁 인사",
+     "text": "저녁이네요. 방심은 금물입니다."
+    },
+    {
+     "title": "취침 인사",
+     "text": "주무세요. 남은 일은 제가 맡죠."
+    },
+    {
+     "title": "취미",
+     "text": "지금 가장 관심 가는 일은 선생님께서 맡기신 임무를 완수하는 겁니다."
+    },
+    {
+     "title": "고민",
+     "text": "지난번 선생님께서 요즘 애들의 삶에 관심을 가져보라고 하신 이후로 종종 하니엘이 그런 내용들을 공유해 줍니다. 만화나 애니메이션은 흥미롭기도 하지만, 간혹 「미친다는 건 멋진 일이야」, 「내 안의 힘이 미쳐 날뛰어」… 같은 표현이 나오면 혼란스럽습니다… 자신의 힘을 제어하지 못한다는 건 결코 좋은 일이 아니니까요."
+    },
+    {
+     "title": "주제·배달 경로",
+     "text": "우선 시급성과 위험 등급, 그리고 겹치는 경로를 파악합니다. 그 후 날씨, 도로 상황, 상급 이상의 활동 범위 등 여러 요소를 종합적으로 판단해 최종 경로를 확정합니다."
+    },
+    {
+     "title": "주제·라이딩",
+     "text": "배송 임무가 아니더라도 가끔 산길을 따라 달립니다. 정해진 경로 없이 마음 가는 대로 달리는 편이죠. 멋진 코스가 궁금하다면 제가 추천 경로를 정리해서… 나중에 베이글에 문서 형식으로 올려 드리겠습니다."
+    },
+    {
+     "title": "주제·음식",
+     "text": "특별한 음식 취향은 없습니다. 제게 음식은 기능을 유지하기 위한 수단일 뿐입니다. 굳이 고르자면… 샌드위치가 좋겠네요. 열량도 충분하고 먹기도 편해서 일하는 날에 딱이니까요."
+    },
+    {
+     "title": "자신·이능력에 관해",
+     "text": "저는 가끔씩 이능력을 통제하지 못하고 의식을 잃기도 합니다. 제 육체는 상당한 파괴력을 가지고 있었고, 도시의 잠재적 리스크로서 엄격한 통제 대상이었죠. 선생님은 이능력이 폭주한 저를 안정시킬 수 있는 유일한 분이셨습니다. 그래서 보증인이 되어 저를 거둬주셨죠… 오랜 훈련을 거쳐 이제는 이능력을 꽤 잘 제어합니다. 하지만 혹시 임무 중에… 선생님이나 하니엘이 없는 상황에서 다시 이능력이 폭주한다면, 지체 없이 절 처리하세요."
+    },
+    {
+     "title": "자신·날개에 관해",
+     "text": "이능력을 각성한 후 등 뒤에 생겨났습니다. 다른 신체 부위처럼 감각도 느껴져요. 날개가 왜 하나뿐이냐고요…? 부러지거나 결함이 있는 게 아니라 덜 성장한 상태라고 합니다. 의사 말로는 이능력 제어 연습을 꾸준히 하다 보면 다음 검진 때는 완전한 형태의 날개가 돼 있을 수도 있다더군요."
+    },
+    {
+     "title": "자신·가시덤불에 관해",
+     "text": "선생님의 기록에 따르면, 이능력이 폭주한 뒤엔 항상 가시가 번지는 현상이 나타났다고 합니다. 지금도 완전히 통제된 상태는 아니지만 확장 부위를 최소한으로 제한하고 있습니다."
+    },
+    {
+     "title": "젠슨에 관해",
+     "text": "가게에 있는 시간이 드문 타입의 점장이죠. 연락이 안 된다면 대부분 어느 바에 앉아 수다를 떨고 있을 겁니다."
+    },
+    {
+     "title": "구원에 관해",
+     "text": "스테리를 세운 이후로 일이 더 많아지셨어요. 서재 불이 새벽까지 켜져 있는 건 예사죠. 그래서 더 강해지고 싶습니다. 임무 하나라도 덜어드릴 수 있다면 그걸로 충분해요."
+    },
+    {
+     "title": "하니엘에 관해",
+     "text": "우린 우연한 사고로 처음 만났습니다. 제 이능력이 폭주하고 있었는데 하니엘이 절 진정시켰죠. 그 후 하니엘이 스테리에 합류했고, 제게 요즘 사람들의 생활 방식을 가르쳐 주고 있죠… 하니엘은 이 관계를 사제지간보다는 「메이트」로 정의하는 것 같습니다. 최근에 같이 한 일이요? 아마도 만화 박람회였을 겁니다… 하니엘은 정말… 기운이 넘치더군요."
+    },
+    {
+     "title": "일리카에 관해",
+     "text": "뭘 하든 신나 있고 가끔은 특이한 대사를 중얼거립니다. 일리카가 최근에 본 애니메이션이 뭔지 안다면 이해하기 더 쉬울 거예요."
+    },
+    {
+     "title": "스테리 익스프레스에 관해",
+     "text": "처음에는 선생님하고만 접점이 있었어요. 나중에 선생님께서 젠슨과 함께 스테리를 설립했죠. 초반에는 의뢰 건수가 많지 않았지만 초기 인원이 소화하기에는 벅찬 물량이었습니다. 그러다가 하니엘과 일리카가 합류했고 점차 체계적인 운영 구조를 갖추게 되었죠. 예전보다… 활기가 넘칩니다."
+    },
+    {
+     "title": "캐릭터 돌파·Ⅰ",
+     "text": "방심할 순 없습니다."
+    },
+    {
+     "title": "캐릭터 돌파·Ⅱ",
+     "text": "전보다 신체 컨트롤이 수월해졌어요."
+    },
+    {
+     "title": "캐릭터 돌파·Ⅲ",
+     "text": "노력에는 보상이 따라오죠."
+    },
+    {
+     "title": "선물 수령·Ⅰ",
+     "text": "어디로 배송해 드리면… 받는 사람이, 저네요?"
+    },
+    {
+     "title": "선물 수령·Ⅱ",
+     "text": "다른 사람 선물만 배달하다 막상 제가 받으니 기분이 새롭네요."
+    },
+    {
+     "title": "선물 수령·Ⅲ",
+     "text": "이런 경우는 규정상 가게에서 등록해야 하는데…"
+    },
+    {
+     "title": "선물 수령·IV",
+     "text": "소중히 잘 보관하겠습니다."
+    }
+   ],
+   "battle": [
+    {
+     "title": "바이레일 스킬·Ⅰ",
+     "text": "목표 확인."
+    },
+    {
+     "title": "바이레일 스킬·Ⅱ",
+     "text": "지금이에요."
+    },
+    {
+     "title": "바이레일 스킬·Ⅲ",
+     "text": "제가 맡겠습니다."
+    },
+    {
+     "title": "울티메이트·Ⅰ",
+     "text": "경로 확정."
+    },
+    {
+     "title": "울티메이트·Ⅱ",
+     "text": "드리프트로 돌파합니다."
+    },
+    {
+     "title": "울티메이트·Ⅲ",
+     "text": "늦지 않게 제거하겠습니다."
+    },
+    {
+     "title": "이상 수용·Ⅰ",
+     "text": "의뢰 완료, 신속히 처리합니다."
+    },
+    {
+     "title": "이상 수용·Ⅱ",
+     "text": "어디로 배송할까요?"
+    },
+    {
+     "title": "이상 제거·Ⅰ",
+     "text": "이용해 주셔서 감사합니다."
+    },
+    {
+     "title": "이상 제거·Ⅱ",
+     "text": "긍정적인 리뷰, 감사합니다."
+    },
+    {
+     "title": "뜻밖의 수확·Ⅰ",
+     "text": "가져갈 만하네요."
+    },
+    {
+     "title": "뜻밖의 수확·Ⅱ",
+     "text": "확실한 수확이네요."
+    },
+    {
+     "title": "뜻밖의 수확·Ⅲ",
+     "text": "이런 물건은 많아도 괜찮죠."
+    },
+    {
+     "title": "뜻밖의 수확·Ⅳ",
+     "text": "모든 게 순조롭네요."
+    },
+    {
+     "title": "뜻밖의 수확·Ⅴ",
+     "text": "가끔은 경로를 벗어나는 것도 나쁘지 않네요."
+    },
+    {
+     "title": "뜻밖의 수확·Ⅵ",
+     "text": "마침 필요하던 참인데, 잘됐습니다."
+    },
+    {
+     "title": "HP 낮음·Ⅰ",
+     "text": "상황이 좋지 않습니다…"
+    },
+    {
+     "title": "HP 낮음·Ⅱ",
+     "text": "계획을 전면 수정해야겠네요…"
+    },
+    {
+     "title": "HP 낮음·Ⅲ",
+     "text": "침착해야 합니다."
+    },
+    {
+     "title": "HP 회복·Ⅰ",
+     "text": "딱 맞춰 왔네요."
+    },
+    {
+     "title": "HP 회복·Ⅱ",
+     "text": "… 신세를 졌습니다."
+    },
+    {
+     "title": "탈진·Ⅰ",
+     "text": "마지막 거래겠군요…"
+    },
+    {
+     "title": "탈진·Ⅱ",
+     "text": "임무를… 완수하지 못했습니다."
+    },
+    {
+     "title": "탈진·Ⅲ",
+     "text": "아직은 역부족이었나 봅니다…"
+    },
+    {
+     "title": "몬스터 처치·Ⅰ",
+     "text": "진행 상황, 순조롭습니다."
+    },
+    {
+     "title": "몬스터 처치·Ⅱ",
+     "text": "별 볼 일 없군요."
+    },
+    {
+     "title": "일반 피격·Ⅰ",
+     "text": "계속하죠."
+    },
+    {
+     "title": "일반 피격·Ⅱ",
+     "text": "몸풀기였을 뿐입니다."
+    },
+    {
+     "title": "심각한 피해·Ⅰ",
+     "text": "저는 쓰러지지 않습니다."
+    },
+    {
+     "title": "심각한 피해·Ⅱ",
+     "text": "신중해야겠습니다."
+    },
+    {
+     "title": "출전·Ⅰ",
+     "text": "컨디션이 좋습니다, 시작하죠."
+    },
+    {
+     "title": "출전·Ⅱ",
+     "text": "긴급 업무는 즉시 처리합니다."
+    },
+    {
+     "title": "협동기·Ⅰ",
+     "text": "도망칠 곳은 없습니다."
+    },
+    {
+     "title": "협동기·Ⅱ",
+     "text": "후환을 제거하겠습니다."
+    },
+    {
+     "title": "협동기·Ⅲ",
+     "text": "지금입니다!"
+    },
+    {
+     "title": "글라이딩·Ⅰ",
+     "text": "주변 상황, 이상 없습니다."
+    },
+    {
+     "title": "글라이딩·Ⅱ",
+     "text": "균형이 중요합니다."
+    },
+    {
+     "title": "전환·Ⅰ",
+     "text": "맡겨주세요."
+    },
+    {
+     "title": "전환·Ⅱ",
+     "text": "제가 맡겠습니다."
+    },
+    {
+     "title": "전환·Ⅲ",
+     "text": "계획대로 하시죠."
+    },
+    {
+     "title": "특수 전환·구원",
+     "text": "명심하겠습니다."
+    },
+    {
+     "title": "특수 전환·하니엘",
+     "text": "걱정 마, 내가 처리할게."
+    },
+    {
+     "title": "팀원 쓰러짐·구원",
+     "text": "음, 신중히 대처하겠습니다."
+    },
+    {
+     "title": "팀원 쓰러짐·하니엘",
+     "text": "내가 맡을 테니 회복에만 집중해."
+    },
+    {
+     "title": "패링·Ⅰ",
+     "text": "예상대로네요."
+    },
+    {
+     "title": "패링·Ⅱ",
+     "text": "1초면 충분합니다."
+    },
+    {
+     "title": "연속 극한 회피 성공·Ⅰ",
+     "text": "다시 해도 마찬가지입니다."
+    },
+    {
+     "title": "연속 극한 회피 성공·Ⅱ",
+     "text": "기회를 노려야죠."
+    }
+   ]
+  },
+  "zh-tw": {
+   "daily": [
+    {
+     "title": "初次見面",
+     "text": "初次見面，我是斯特利快遞精英快遞員——哈索爾。遵照委託，請您核對快遞，並於「簽收憑證」上簽署姓名，確定簽收後，委託費用即刻扣除。"
+    },
+    {
+     "title": "閒聊·來令",
+     "text": "陶瓷來令能在高溫下維持穩定的制動性能，適合需要快速反應的緊急任務；半金屬來令散熱快、成本低，更適合日常派送使用；燒結金屬來令耐熱性強，適應長時間、高強度制動，適用於山路等複雜路況。只有把每種材質用在對的地方，才能減少對派送效率的干擾，確保任務按時完成。"
+    },
+    {
+     "title": "閒聊·精英快遞員",
+     "text": "主要負責III級異象收容物的派送、危險任務的情報勘察與緊急支援。至於爆炸、追車、空中飛行……？那些只是哈尼婭過於誇張的描述，她喜歡這些電影情節。現實情況是？只是與突發狀況搶時間而已。"
+    },
+    {
+     "title": "閒聊·頰囊",
+     "text": "有些異象收容物有相對苛刻的存放條件，哪怕只是環境溫度略有波動，都有可能影響其特性。把收容物裝進頰囊儲存，可以維持相對穩定的狀態。你可以當它是會找你討食的小口袋，偶爾會鬧脾氣，挑食是常有的，但從不誤事。"
+    },
+    {
+     "title": "大晴天",
+     "text": "收容物派送須知……沒有曝曬風險，天氣適合。"
+    },
+    {
+     "title": "雨天",
+     "text": "羽翼和機車在雨天行動都會受限，今日的派送行程需提前25分鐘。"
+    },
+    {
+     "title": "寒冷",
+     "text": "防滑輪胎……雪鏈……都備齊了。"
+    },
+    {
+     "title": "炎熱",
+     "text": "機車過熱，休息一下。"
+    },
+    {
+     "title": "早上問候",
+     "text": "快遞派送路線已確認，準備行動。"
+    },
+    {
+     "title": "中午問候",
+     "text": "休息一下，保持專注。"
+    },
+    {
+     "title": "傍晚問候",
+     "text": "傍晚，不容懈怠。"
+    },
+    {
+     "title": "晚安",
+     "text": "睡吧，剩下的我來處理。"
+    },
+    {
+     "title": "愛好",
+     "text": "完成老師交代的任務，算是現階段的首要偏好。"
+    },
+    {
+     "title": "煩惱",
+     "text": "從上次老師讓我了解新時代年輕人的生活後，哈尼婭便時常分享這些內容。漫畫和番劇倒是有不少有趣的部分，只是其中一些特殊的情節，比如「瘋狂是一件很酷的事」「我的力量不受控制要湧現出來了」……諸如此類的表達方式，還是感覺有些令人困惑……不能控制好自己的力量，我並不認為是一件好事。"
+    },
+    {
+     "title": "話題·送貨路線",
+     "text": "會優先考慮時效性和風險等級，其次是路徑重疊度。還會綜合考慮天氣、路況，以及高等級異象的活動區域等因素，一併進行評估後確定最終路線。"
+    },
+    {
+     "title": "話題·公路騎車",
+     "text": "除了派送任務外，偶爾也會去山間的公路騎車，倒也沒有什麼特定的路線規劃，只是隨意走走。如果你想知道一些比較好的風景，我倒是可以提供一份路線規劃……晚些時候會以檔案的形式在唄果上傳給你。"
+    },
+    {
+     "title": "話題·食物",
+     "text": "我對食物沒有特別的偏好。對我而言，它只是維持機能的一種手段。如果非得要選……三明治，熱量充足、結構穩定，適合工作日。"
+    },
+    {
+     "title": "關於自己·異能",
+     "text": "在某些時候，我的異能會突然失控，並伴隨意識喪失。由於肉體具備相當的破壞性，作為城市的不穩定因素理應被嚴格管制。老師是當時唯一能在我異能失控時穩定住我的人，因此她以自身為擔保，將我帶在身邊……經過很長時間的訓練，我對異能的控制已有所提升。但如果在任務中再次失控，而老師和哈尼婭都不能趕到的話，請在事態擴大前，立即將我處置，不要猶豫。"
+    },
+    {
+     "title": "關於自己·翅膀",
+     "text": "異能覺醒後，它出現在身後並具備正常觸感。至於單翼的原因……？並非斷裂或者缺失，而是尚未成熟。醫生的說法是，如果持續練習對異能的掌控，或許下次見面時，它會以完整的姿態出現也說不定。"
+    },
+    {
+     "title": "關於自己·荊棘",
+     "text": "根據老師之前的記錄，每次異能爆發後，荊棘都會出現蔓延的跡象。目前它仍不完全受控，而我已將外延的部分壓縮至可行的最小範圍了。"
+    },
+    {
+     "title": "關於簡森",
+     "text": "大多數時候是個閒閒沒事的老闆，店裡不見人影是常事，如果聯繫不上，大概是在某個酒吧閒聊。"
+    },
+    {
+     "title": "關於九原",
+     "text": "自從建立斯特利後，老師的工作越發繁重，書房的燈經常亮到深夜。我希望變得更強一些，哪怕只是從任務上替她分擔一些也好。"
+    },
+    {
+     "title": "關於哈尼婭",
+     "text": "相識於一場意外，當時我難以控制自己的異能，是哈尼婭幫我穩定了下來。後來她加入了斯特利，教會了我很多年輕人的生活方式……比起師生之間的關係，她更傾向於將其定義為「同好」，最近的一次相處？大概是漫展上……她……很有精力。"
+    },
+    {
+     "title": "關於伊里卡",
+     "text": "不管做什麼，總是興致高昂，偶爾還會碎念一些奇特的台詞，如果有了解他最近看過的新番，理解起來倒也不太困難。"
+    },
+    {
+     "title": "關於斯德利快遞",
+     "text": "早年與我接觸最多的只有老師一人。後來，老師和簡森建立了斯特利。剛成立時，接到的配送任務並不算多，但對於初期的人手來說，也是相當繁重的數量。直到哈尼婭和伊里卡的加入，斯特利才逐步形成了相對完善的運作結構，也比以往……多了些生活氣息。"
+    },
+    {
+     "title": "角色突破·Ⅰ",
+     "text": "不能鬆懈。"
+    },
+    {
+     "title": "角色突破·Ⅱ",
+     "text": "對身體的掌控程度，比以前高一些。"
+    },
+    {
+     "title": "角色突破·Ⅲ",
+     "text": "看來，努力的確有回報。"
+    },
+    {
+     "title": "收到贈禮·Ⅰ",
+     "text": "需要派送到何處……收件人是我？"
+    },
+    {
+     "title": "收到贈禮·Ⅱ",
+     "text": "我經手派送過不少人的禮物，只是輪到自己簽收的時候，倒也不常見。"
+    },
+    {
+     "title": "收到贈禮·Ⅲ",
+     "text": "這種情況，按規矩是需要在店裡做登記的……"
+    },
+    {
+     "title": "收到贈禮·IV",
+     "text": "我會妥善保管好的。"
+    }
+   ],
+   "battle": [
+    {
+     "title": "變軌技能·Ⅰ",
+     "text": "目標確認。"
+    },
+    {
+     "title": "變軌技能·Ⅱ",
+     "text": "抓住機會。"
+    },
+    {
+     "title": "變軌技能·Ⅲ",
+     "text": "我來處理。"
+    },
+    {
+     "title": "極軌終結·Ⅰ",
+     "text": "路徑已定。"
+    },
+    {
+     "title": "極軌終結·Ⅱ",
+     "text": "迴旋突破。"
+    },
+    {
+     "title": "極軌終結·Ⅲ",
+     "text": "準時清除。"
+    },
+    {
+     "title": "收容異象·Ⅰ",
+     "text": "委託完成，急件立結。"
+    },
+    {
+     "title": "收容異象·Ⅱ",
+     "text": "需要派送至何處。"
+    },
+    {
+     "title": "泯除異象·Ⅰ",
+     "text": "承蒙關照。"
+    },
+    {
+     "title": "泯除異象·Ⅱ",
+     "text": "謝謝好評。"
+    },
+    {
+     "title": "意外收穫·Ⅰ",
+     "text": "值得帶走。"
+    },
+    {
+     "title": "意外收穫·Ⅱ",
+     "text": "乾脆俐落的收穫。"
+    },
+    {
+     "title": "意外收穫·Ⅲ",
+     "text": "這類東西，多點也沒差。"
+    },
+    {
+     "title": "意外收穫·Ⅳ",
+     "text": "進展順利。"
+    },
+    {
+     "title": "意外收穫·Ⅴ",
+     "text": "偶爾偏離路徑，也未必是錯。"
+    },
+    {
+     "title": "意外收穫·Ⅵ",
+     "text": "剛好派得上用場。"
+    },
+    {
+     "title": "生命值低·Ⅰ",
+     "text": "情況不容樂觀……"
+    },
+    {
+     "title": "生命值低·Ⅱ",
+     "text": "計畫需要重新評估……"
+    },
+    {
+     "title": "生命值低·Ⅲ",
+     "text": "保持冷靜。"
+    },
+    {
+     "title": "恢復生命·Ⅰ",
+     "text": "來得正是時候。"
+    },
+    {
+     "title": "恢復生命·Ⅱ",
+     "text": "……我欠你一次。"
+    },
+    {
+     "title": "力竭·Ⅰ",
+     "text": "最後的交接……"
+    },
+    {
+     "title": "力竭·Ⅱ",
+     "text": "任務……未能完成。"
+    },
+    {
+     "title": "力竭·Ⅲ",
+     "text": "還是不夠強……"
+    },
+    {
+     "title": "擊敗怪物·Ⅰ",
+     "text": "進展可控。"
+    },
+    {
+     "title": "擊敗怪物·Ⅱ",
+     "text": "不值一提。"
+    },
+    {
+     "title": "普通受擊·Ⅰ",
+     "text": "繼續。"
+    },
+    {
+     "title": "普通受擊·Ⅱ",
+     "text": "只是熱身。"
+    },
+    {
+     "title": "重受擊·Ⅰ",
+     "text": "我不會倒下。"
+    },
+    {
+     "title": "重受擊·Ⅱ",
+     "text": "小心應對。"
+    },
+    {
+     "title": "上陣·Ⅰ",
+     "text": "狀態良好，開始行動。"
+    },
+    {
+     "title": "上陣·Ⅱ",
+     "text": "緊急業務，即刻處理。"
+    },
+    {
+     "title": "協同技·Ⅰ",
+     "text": "無處可逃。"
+    },
+    {
+     "title": "協同技·Ⅱ",
+     "text": "不留後患。"
+    },
+    {
+     "title": "協同技·Ⅲ",
+     "text": "就是現在。"
+    },
+    {
+     "title": "滑翔·Ⅰ",
+     "text": "周圍情況正常。"
+    },
+    {
+     "title": "滑翔·Ⅱ",
+     "text": "保持平衡。"
+    },
+    {
+     "title": "切換·Ⅰ",
+     "text": "我來接應。"
+    },
+    {
+     "title": "切換·Ⅱ",
+     "text": "此段，由我代行。"
+    },
+    {
+     "title": "切換·Ⅲ",
+     "text": "照計畫來。"
+    },
+    {
+     "title": "特殊切換·九原",
+     "text": "記下了。"
+    },
+    {
+     "title": "特殊切換·哈尼婭",
+     "text": "別擔心，我會處理到位。"
+    },
+    {
+     "title": "隊友倒下·九原",
+     "text": "嗯，我會謹慎處理。"
+    },
+    {
+     "title": "隊友倒下·哈尼婭",
+     "text": "我來補位，你安心恢復。"
+    },
+    {
+     "title": "彈反·Ⅰ",
+     "text": "如預期。"
+    },
+    {
+     "title": "彈反·Ⅱ",
+     "text": "一瞬就夠了。"
+    },
+    {
+     "title": "連續極限閃避成功·Ⅰ",
+     "text": "再來，也一樣。"
+    },
+    {
+     "title": "連續極限閃避成功·Ⅱ",
+     "text": "機會，看準了。"
+    }
+   ]
+  }
+ }
+}

@@ -60,6 +60,7 @@ sources:
 | 肩書き | 骨董品屋エイボンの店主 |
 | 声優 | 中国語：杜晴晴、英語：Lindsay Sheppard、日本語：伊藤静、韓国語：이지현 |
 | アーカイブ | [潯のアーカイブ](/ja/characters/hotori/archive/) |
+| ボイス | [潯のボイス](/ja/characters/hotori/voice/) |
 
 ## 入手方法
 

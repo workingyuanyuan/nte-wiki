@@ -60,6 +60,7 @@ sources:
 | Role | Member of ETD-4 |
 | Voice actors | Chinese: 宴宁; English: Baraka May; Japanese: 長縄まりあ; Korean: 김보나 |
 | Archive | [Lacrimosa archive](/characters/lacrimosa/archive/) |
+| Voice lines | [Lacrimosa voice lines](/characters/lacrimosa/voice/) |
 
 ## How to obtain
 

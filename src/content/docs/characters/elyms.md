@@ -62,6 +62,7 @@ sources:
 | Joined | Version 1.5, 2026-11-11 |
 | Voice actors | Chinese: 陈章; English: Crystal Lee; Japanese: 雨宮天; Korean: 손선영 |
 | Archive | [Elyms archive](/characters/elyms/archive/) |
+| Voice lines | [Elyms voice lines](/characters/elyms/voice/) |
 
 ## How to obtain
 

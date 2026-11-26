@@ -70,6 +70,10 @@
 	--sl-content-width: 50rem;
 	--sl-text-h1: 24px;
 	--sl-text-h2: 24px;
+	/* Every level the pages use is set here, one step below the level above it at every width:
+	   left to Starlight, h3 was 29px bold under a 24px h2. */
+	--sl-text-h3: 18px;
+	--sl-text-h4: 16px;
 }
 
 :root[lang='en'] {

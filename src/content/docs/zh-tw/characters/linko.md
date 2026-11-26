@@ -55,6 +55,7 @@ sources:
 | 身分 | 破格收入的 E.T.D 六隊成員；異象夥伴是小貞 |
 | 配音員 | 中文：胡影佳、洪海天；英文：Emi Lo、Salli Saffioti；日文：小倉唯、村瀬迪与；韓文：김서현、김예림 |
 | 個人檔案 | [靈可個人檔案](/zh-tw/characters/linko/archive/) |
+| 語音 | [靈可語音](/zh-tw/characters/linko/voice/) |
 
 ## 取得方式
 

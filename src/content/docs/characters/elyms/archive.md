@@ -52,11 +52,11 @@ She has another curious habit: she effortlessly adjusts her way of speaking to s
 
 "You always reply so fast! I just sent you a message, and you already answered!"
 
-"Haha~ If I know what I want to say, I just go ahead and send it!"
+"Haha\~ If I know what I want to say, I just go ahead and send it!"
 
 "But you're always chatting with so many friends at once. How do you manage to reply to so many people?"
 
-"I'm a really, really fast typist! Whoosh—whoosh! Want to see? Oh, and I have more than one device. I can type with both hands flying, and there's voice input too~!"
+"I'm a really, really fast typist! Whoosh—whoosh! Want to see? Oh, and I have more than one device. I can type with both hands flying, and there's voice input too\~!"
 
 "Why do I always feel like I know you? Like we were really close a long time ago."
 
@@ -64,7 +64,7 @@ She has another curious habit: she effortlessly adjusts her way of speaking to s
 
 "Let me think… Hmm, before… where were you? What did you do?"
 
-"Well, maybe I was… someone you could vent to online? Customer support for a platform? A counselor? Something like that~" she replied with a half-joking air.
+"Well, maybe I was… someone you could vent to online? Customer support for a platform? A counselor? Something like that\~" she replied with a half-joking air.
 
 ## \#Dial-Up Internet
 
@@ -72,7 +72,7 @@ She has another curious habit: she effortlessly adjusts her way of speaking to s
 
 Elyms explains that when someone calls her, she can send a projection of herself along the established connection and materialize wherever that friend is, ready to help with whatever they need.
 
-"That's so convenient~!" "Right~?"
+"That's so convenient\~!" "Right\~?"
 
 People tend to focus on how quickly she can travel by phone and overlook the part about providing help. Few stop to wonder why that help comes in so many forms, almost as though her abilities can change to suit the person calling.
 
@@ -128,7 +128,7 @@ Blue, clear as the sky.
 
 Blue, dark as the deep sea.
 
-Today, I fished another message from a human out of the biggest reservoir in the world~
+Today, I fished another message from a human out of the biggest reservoir in the world\~
 
 When I uncork this bottle, what beautifully patterned butterfly will flutter out?
 
@@ -140,7 +140,7 @@ So take your time and pour your heart into a very, very long letter—
 
 ## Info Tech 101
 
-Hey there, friend! If you've made it this far, you must be pretty patient~
+Hey there, friend! If you've made it this far, you must be pretty patient\~
 
 I don't know when you first found out about us or read those stories, or how much outside information had been released by then. Hmm… Anyway, there's something pretty interesting I can tell you about "information."
 
@@ -154,7 +154,7 @@ Think about it. When most people hear that, they naturally assume it means "he's
 
 There wasn't even 0.01% of a lie in it, you know. They simply didn't guess what the sentence really meant.
 
-It really does save a lot of unnecessary effort. Even Exe picked up the trick and started using it himself, grumbling all the while~ Now you know.
+It really does save a lot of unnecessary effort. Even Exe picked up the trick and started using it himself, grumbling all the while\~ Now you know.
 
 Here's another example. Do you have a sense of how the order in which you receive information can affect things? Let's say you encounter it in this order: first you get to know "this me," then you see what little "Y" looks like.
 

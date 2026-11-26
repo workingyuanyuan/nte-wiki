@@ -72,6 +72,7 @@ sources:
 | 신분 | 이상 관리국 수용 타격 2팀(CSU-2) |
 | 성우 | 중국어: 陈雨; 영어: Brianna Knickerbocker; 일본어: 鬼頭明里; 한국어: 성예원 |
 | 아카이브 | [민트 아카이브](/ko/characters/mint/archive/) |
+| 보이스 | [민트 보이스](/ko/characters/mint/voice/) |
 
 ## 획득 방법
 

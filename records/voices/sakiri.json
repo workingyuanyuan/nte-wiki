@@ -1,0 +1,1847 @@
+{
+ "slug": "sakiri",
+ "id": "1003",
+ "version": "1.5.4",
+ "sources": {
+  "en": "https://static.nanoka.cc/nte/1.5.4/en/character/1003.json",
+  "zh-cn": "https://static.nanoka.cc/nte/1.5.4/zh/character/1003.json",
+  "ja": "https://static.nanoka.cc/nte/1.5.4/ja/character/1003.json",
+  "ko": "https://static.nanoka.cc/nte/1.5.4/ko/character/1003.json",
+  "zh-tw": "https://everness.info/zh-Hant/espers/1003"
+ },
+ "reads": {
+  "zh-tw": "2026-11-25"
+ },
+ "lines": {
+  "en": {
+   "daily": [
+    {
+     "title": "First Meet",
+     "text": "(Kiroumaru: Hello, I'm the ever-so-grumpy Sakiri, and this is the invincible Lord Kiroumaru—ouch!) \nSo you're the appraiser Hotori picked up? There, be careful around that ugly monster Kiroumaru, don't get too close… If something goes missing, I won't help you find it… No insurance if you get bitten on the butt either!"
+    },
+    {
+     "title": "Chat: Gluttony",
+     "text": "Kiroumaru! What's that junk you're eating? Spit it out!"
+    },
+    {
+     "title": "Chat: Nursery Rhyme",
+     "text": "Snap, snap, where did you go?\nFragile and cute, that glass doll.\nTick-tock, tick-tock, the sun's dipped low.\nSafe with the crew, fears all stowed."
+    },
+    {
+     "title": "Chat: Milk",
+     "text": "Still sleeping, eh… Glug glug glug… Ugh, I can't stand milk…"
+    },
+    {
+     "title": "Sunny",
+     "text": "Let's drag Nanally and the dummy out for some… something big!"
+    },
+    {
+     "title": "Rainy",
+     "text": "Another car splashes me, it's done for!"
+    },
+    {
+     "title": "Cold",
+     "text": "I won't dress like an ugly yarn ball… Ah, achoo!"
+    },
+    {
+     "title": "Hot",
+     "text": "Little bear popsicle? Please, that's kid stuff…"
+    },
+    {
+     "title": "Morning Greeting",
+     "text": "What took you so long?! The sun's been up for hours!"
+    },
+    {
+     "title": "Noon Greeting",
+     "text": "Hey, I've been here for you all day, maybe show some gratitude?"
+    },
+    {
+     "title": "Evening Greeting",
+     "text": "If you blink at the moment the sun goes down, you'll get—snagged by the shadow ghost!… Haha, just kidding!"
+    },
+    {
+     "title": "Good Night",
+     "text": "Off to dreamland already? You're so boring… Come earlier tomorrow, okay?"
+    },
+    {
+     "title": "Hobbies",
+     "text": "Seeing Taygedo rage is priceless! Just eat all his snacks from the fridge, or hide his precious sticker cards. After all, he always hides them in the same uncreative places! …How is this not a hobby? It's called \"bonding,\" got it?"
+    },
+    {
+     "title": "Worries",
+     "text": "Still not taller after drinking this stuff for a year… Adler's a liar…"
+    },
+    {
+     "title": "Topic: Anomalies Honest Popping Candy",
+     "text": "Snacks for me? Hmph, I'll reluctantly accept them. …Popping candy? …Who told you about the honest popping candy? Well, no use denying it! Forget it yourself, or shall I have Kiroumaru surgically remove that memory for you?"
+    },
+    {
+     "title": "Topic: Disqualified Spawn",
+     "text": "It's not a big deal. When a human and an anomaly merge, if the human overcomes the anomaly, they become a Disqualified Spawn. If the anomaly overcomes the human, they become something even more inferior, living miserably… What's with that look?… Just to make it clear, I'm not about to be bested by those bottom-rung beings! So, if you're pitying me, you might as well step back."
+    },
+    {
+     "title": "Topic: Empty Bottles",
+     "text": "W…what? Empty milk bottles?! You must be seeing things… That's Kiroumaru's weird taste, not mine, definitely."
+    },
+    {
+     "title": "About Myself: Esper Abilities",
+     "text": "How unlucky do you have to be to get stuck with someone like Kiroumaru? Always defiant and noisy! I can't count how many times I've cleaned up its mess because it eats everything! And when it gets an upset stomach, it vomits everywhere!\n(Kiroumaru: Everything's on the menu! Gluttony rules!)\nZip—it—! One day I'll sew that mouth shut!"
+    },
+    {
+     "title": "About Myself: Wish",
+     "text": "Curious, are we? Did those two meddlers say something?… Hmph. Save the guesswork. These lips are sealed."
+    },
+    {
+     "title": "About Hotori",
+     "text": "She's a lazy squanderer! Always stirring the pot and acting like a child! I was just showing my kindness to her everyday!"
+    },
+    {
+     "title": "About Adler",
+     "text": "If Adler wasn't around, Eibon would've gone bankrupt ages ago! Taking care of the flaky bunch is a full-time gig. Why not care for yourself for a change?!"
+    },
+    {
+     "title": "About Daffodill",
+     "text": "Daffodill's got moves, and I respect that. But teaming up with her? It's like a breath-holding contest with a statue. Ha… I bet she'd vibe with that dummy, Edgar!"
+    },
+    {
+     "title": "About Nanally",
+     "text": "Psst, wanna see Nanally freak out? Put on a horror film, and she'll be hugging her tail in no time. Go on, dare her—but don't say I gave you the idea!"
+    },
+    {
+     "title": "About Edgar",
+     "text": "Being a brainiac is great and all, but if he's too shy to speak up, what's the point? So yeah, I'm the one who steps up! But let me tell you, don't let that quiet act fool you. When it's go-time, he'll come out swinging and leave everyone's jaws on the floor!"
+    },
+    {
+     "title": "About the Coluccis",
+     "text": "Ah, Nanally and the dummy, what a pair! One's scatterbrained, the other's tight-lipped. What would they do without me? But guess what? I… don't hate their company…"
+    },
+    {
+     "title": "About Taygedo",
+     "text": "The dumbest oddity in the entire Bridge Crossings! Never understands the hierarchy! That dumb otter can only be my sidekick, okay? And he cries at the drop of a hat, so embarrassing! Hmm… but you know what, life would be boring without Taygedo… I guess he can stick around!"
+    },
+    {
+     "title": "About Mismo",
+     "text": "Those self-righteous, high-and-mighty guys, I should have hit 'em harder last time! But I'm all about second chances, especially when they're trying to make things right. So, I'll let bygones be bygones… for now."
+    },
+    {
+     "title": "About Eibon Antique Shop",
+     "text": "Humph, I haven't found anywhere else that feels quite satisfying. Plus, Adler's cooking? That's reason enough to stay and lend a hand…"
+    },
+    {
+     "title": "Character Ascension I",
+     "text": "It's barely passable."
+    },
+    {
+     "title": "Character Ascension II",
+     "text": "At this rate, they'll never catch up with me!"
+    },
+    {
+     "title": "Character Ascension III",
+     "text": "How is Kiroumaru's appetite growing?"
+    },
+    {
+     "title": "Gift Received I",
+     "text": "Wow, how did you…? Ahem, I'll remember you tried this hard!"
+    },
+    {
+     "title": "Gift Received II",
+     "text": "Did you want Kiroumaru to cover a mistake you made? Just name it! Kiroumaru will deal with it!"
+    },
+    {
+     "title": "Gift Received III",
+     "text": "Thanks. I'll make sure Kiroumaru doesn't eat it—Umm, at least before I sleep."
+    },
+    {
+     "title": "Gift Received IV",
+     "text": "I'll give you a surprise some day. A legit one!"
+    }
+   ],
+   "battle": [
+    {
+     "title": "Redirect Skill I",
+     "text": "Time to eat!"
+    },
+    {
+     "title": "Redirect Skill II",
+     "text": "Knock them all away!"
+    },
+    {
+     "title": "Redirect Skill III",
+     "text": "Hey yah! (Yahoo!)"
+    },
+    {
+     "title": "Ultimate I",
+     "text": "Get 'em, Kiroumaru!"
+    },
+    {
+     "title": "Ultimate II",
+     "text": "Watch out, fools!"
+    },
+    {
+     "title": "Ultimate III",
+     "text": "Watch your step… (Gotcha!)"
+    },
+    {
+     "title": "Containment I",
+     "text": "Kiroumaru! Let's get down to business!"
+    },
+    {
+     "title": "Containment II",
+     "text": "Hmph, decent work! You can have that now."
+    },
+    {
+     "title": "Nullification I",
+     "text": "Tch, thought there would be more chaos…"
+    },
+    {
+     "title": "Nullification II",
+     "text": "Is it over? Boring."
+    },
+    {
+     "title": "Unexpected Gains I",
+     "text": "Aren't you useful sometimes, Kiroumaru!"
+    },
+    {
+     "title": "Unexpected Gains II",
+     "text": "Hmm… can't figure it out, let's take it back for Nanally and the dummy."
+    },
+    {
+     "title": "Unexpected Gains III",
+     "text": "Oh! Nice find! Nanally's going to react funny!"
+    },
+    {
+     "title": "Unexpected Gains IV",
+     "text": "You're dead if you eat this! (Kiroumaru: Ugh…)"
+    },
+    {
+     "title": "Unexpected Gains V",
+     "text": "If I give this to Hotori…"
+    },
+    {
+     "title": "Unexpected Gains VI",
+     "text": "My lucky day!"
+    },
+    {
+     "title": "Low Health I",
+     "text": "Ugh… it hurts a bit…"
+    },
+    {
+     "title": "Low Health II",
+     "text": "I don't like this…"
+    },
+    {
+     "title": "Heal I",
+     "text": "I'm not going away this easily!"
+    },
+    {
+     "title": "Heal II",
+     "text": "Hmph, I'm more than this!"
+    },
+    {
+     "title": "Down I",
+     "text": "…How could it be…"
+    },
+    {
+     "title": "Down II",
+     "text": "…I see…"
+    },
+    {
+     "title": "Down III",
+     "text": "…You… dare…"
+    },
+    {
+     "title": "Takedown I",
+     "text": "Some unlucky soul got crushed!"
+    },
+    {
+     "title": "Takedown II",
+     "text": "Piece of cake!"
+    },
+    {
+     "title": "Damaged I",
+     "text": "Not bad!"
+    },
+    {
+     "title": "Damaged II",
+     "text": "Wait and see!"
+    },
+    {
+     "title": "Heavily Damaged I",
+     "text": "Ugh… I'm gonna crush you! (Eat!)"
+    },
+    {
+     "title": "Heavily Damaged II",
+     "text": "…You'll regret this!"
+    },
+    {
+     "title": "Deploy I",
+     "text": "Let's make a scene together!"
+    },
+    {
+     "title": "Deploy II",
+     "text": "Kiroumaru, now you may eat!"
+    },
+    {
+     "title": "Entry Attack I",
+     "text": "Taking off!"
+    },
+    {
+     "title": "Entry Attack II",
+     "text": "Over here!"
+    },
+    {
+     "title": "Entry Attack III",
+     "text": "Kiroumaru Overdrive!"
+    },
+    {
+     "title": "Glide I",
+     "text": "So slow…"
+    },
+    {
+     "title": "Glide II",
+     "text": "Kiroumaru, stop squirming around! I'm not helping you if you fall!"
+    },
+    {
+     "title": "Switch I",
+     "text": "Coming through!"
+    },
+    {
+     "title": "Switch II",
+     "text": "Tag, you're it!"
+    },
+    {
+     "title": "Switch III",
+     "text": "Time to eat!"
+    },
+    {
+     "title": "Special Switch - Hotori",
+     "text": "Move aside! Let the great Sakiri handle this!"
+    },
+    {
+     "title": "Special Switch - Edgar",
+     "text": "Stay back and help, dummy."
+    },
+    {
+     "title": "Special Switch - Nanally",
+     "text": "Yeah, yeah, Ichi-whatever."
+    },
+    {
+     "title": "Special Switch - Adler",
+     "text": "Stop treating me like a child."
+    },
+    {
+     "title": "Special Switch - Daffodill",
+     "text": "My turn!"
+    },
+    {
+     "title": "Special Switch - Zero",
+     "text": "Watch out, watch out! It's Kiroumaru!"
+    },
+    {
+     "title": "Teammate Down - Hotori",
+     "text": "Stay out of this if you're drunk!"
+    },
+    {
+     "title": "Teammate Down - Edgar",
+     "text": "Get back, Edgar!"
+    },
+    {
+     "title": "Teammate Down - Nanally",
+     "text": "I'm telling you… You can't just charge forward."
+    },
+    {
+     "title": "Teammate Down - Adler",
+     "text": "Don't try too hard, old man."
+    },
+    {
+     "title": "Teammate Down - Daffodill",
+     "text": "No way you made a mistake like that…"
+    },
+    {
+     "title": "Teammate Down - Zero",
+     "text": "Hey, baddies, do you think our Appraiser is a pushover?"
+    },
+    {
+     "title": "Parry I",
+     "text": "I knew it!"
+    },
+    {
+     "title": "Parry II",
+     "text": "My turn!"
+    },
+    {
+     "title": "Consecutive Critical Dodge Success I",
+     "text": "Kiroumaru is faster than this!"
+    },
+    {
+     "title": "Consecutive Critical Dodge Success II",
+     "text": "Heh, another miss?"
+    }
+   ]
+  },
+  "zh-cn": {
+   "daily": [
+    {
+     "title": "初次见面",
+     "text": "（鬼郎丸：你好，我是坏脾气的早雾，这位是无敌的鬼郎丸大人——哎哟！）\n你就是浔拐来做鉴定的家伙？喏，看到啦，记得提防这个叫鬼郎丸的丑八怪，别靠得太近……要是什么东西不见了，我可不负责帮你掏出来……屁股被咬了也没有医药费！"
+    },
+    {
+     "title": "闲聊·暴食",
+     "text": "鬼郎丸！又在乱吃东西！给我吐出来！"
+    },
+    {
+     "title": "闲聊·童谣",
+     "text": "啪嚓、啪嚓，到底在哪里呀；\n可爱又易碎的，玻璃娃娃。\n滴答、滴答，太阳已经落下；\n回到大家身边，不再害怕。"
+    },
+    {
+     "title": "闲聊·牛奶",
+     "text": "都还没起来吧……咕咕咕……呃……果然还是习惯不了牛奶的味道……"
+    },
+    {
+     "title": "大晴天",
+     "text": "叫上娜娜莉一起把呆子抓出去找乐…干大事吧！"
+    },
+    {
+     "title": "雨天",
+     "text": "再有不长眼的车敢把水溅到我头上就死定了！"
+    },
+    {
+     "title": "寒冷",
+     "text": "我才不要穿得跟毛线球一样，丑死了……阿、阿嚏！"
+    },
+    {
+     "title": "炎热",
+     "text": "小熊棒冰……哼，幼稚鬼才会喜欢的东西……"
+    },
+    {
+     "title": "早上问候",
+     "text": "怎么现在才来啊！太阳都晒屁股了！"
+    },
+    {
+     "title": "中午问候",
+     "text": "喂，看我好心陪你这么久，是不是该表示下感谢？"
+    },
+    {
+     "title": "傍晚问候",
+     "text": "在太阳落山的一瞬间眨眼——就会被影子鬼吃掉！……骗你的~"
+    },
+    {
+     "title": "晚安",
+     "text": "诶？这就准备去睡觉了？真没劲！……明天记得早点来！"
+    },
+    {
+     "title": "爱好",
+     "text": "塔吉多跳脚的样子别提多好笑啦！只要把冰箱里他的零食一口气全吃掉，或者把他收集的宝贝卡贴都藏起来，反正他放来放去，还不是那些没创意的地方！……这个怎么不能算是爱好？交流交流感情懂不懂？"
+    },
+    {
+     "title": "烦恼",
+     "text": "可恶，喝了一年了还是没有长高……阿德勒大骗子……"
+    },
+    {
+     "title": "话题·异象·诚实跳跳糖",
+     "text": "给我买了零食？哼哼，那我就勉强收下吧。……跳跳糖？……是谁告诉了你之前诚实跳跳糖的事情？好哇，想抵赖也没用！是选自己忘掉，还是我用鬼郎丸帮你做个物理失忆手术？"
+    },
+    {
+     "title": "话题·失格种",
+     "text": "不是什么了不得的事情，将人类和异象相结合，人的力量战胜异象，就成为失格种，异象的力量战胜人类，就变成更劣等的东西，好死不死地活着……这是什么眼神？……话先说在前头，我可不会输给那些低级的家伙！要是再有什么「真可怜」之类的想法，就离我远一些。"
+    },
+    {
+     "title": "话题·空瓶",
+     "text": "空瓶？什、什么牛奶空瓶！……你看错了，只有鬼郎丸才喝得下气味那么奇怪的东西。"
+    },
+    {
+     "title": "关于自己·异能",
+     "text": "是有多倒霉才能被鬼郎丸这样的家伙缠上？爱唱反调、吵得要死！记不清因为它乱吃东西收拾了多少烂摊子！每次闹肚子还吐的到处都是！\n（鬼郎丸：世事皆一口，暴食即正义~）\n闭——嘴——！总有一天我要把你这张嘴缝起来！"
+    },
+    {
+     "title": "关于自己·心愿",
+     "text": "问这个干什么？是不是那两个多管闲事的家伙又说了什么？……哼，乱猜也没用，我才不要告诉你。"
+    },
+    {
+     "title": "关于浔",
+     "text": "败家、好吃懒做的酒鬼！爱给人添麻烦，还幼稚得要死！我平时、那是都让着她，才不跟她一般见识！"
+    },
+    {
+     "title": "关于阿德勒",
+     "text": "要不是阿德勒在，伊波恩早就破产八百回了吧！每天还要费力照顾一帮不靠谱的，有这个心力，不如也多关心关心自己！"
+    },
+    {
+     "title": "关于达芙蒂尔",
+     "text": "达芙蒂尔的实力，就连我也是认可的，成年人就是要有她那样的身手才像个样子！不过跟她一起出委托可是会把人憋出问题来的，感觉搭档了一座冰雕！我看——噗……她和呆子最适合被安排在一起！"
+    },
+    {
+     "title": "关于娜娜莉",
+     "text": "悄悄告诉你，如果你想看到娜娜莉抱着自己的尾巴缩成一团的样子，一盘恐怖片就行了。只要稍微激她一下，她肯定会立刻答应一起看的！嘿嘿，还不快去试试？记住别说是我告诉你的啊！"
+    },
+    {
+     "title": "关于埃德嘉",
+     "text": "这个闷葫芦，那么聪明有什么用，有什么要说的，常常支支吾吾半天也放不出一声响……啧，果然还得靠我！不过别看他那个磨蹭的样子，一旦到了能发挥他能力的时候，没点心理准备的人可是会大吃一惊的！"
+    },
+    {
+     "title": "关于柯林斯家族",
+     "text": "娜娜莉跟呆子，一个笨蛋，一个闷葫芦，跟他们两个待在一起真的是要累死人了！要是没了我，谁知道他们两个会怎么样？不，不过，跟他们待在一起我也……不讨厌就是了……"
+    },
+    {
+     "title": "关于塔吉多",
+     "text": "全桥间地最笨的歧骸！从来认不清上下级关系！他这种笨海獭，最多只能是我的小弟好不好？还动不动就哭鼻子，真是丢脸！嗯……不过想了下，要是没了塔吉多，日子果然会很无聊呢……我还是勉为其难，让他跟在身边吧！"
+    },
+    {
+     "title": "关于弥斯墨",
+     "text": "自以为是，高高在上的家伙，上次我就该下手再重一些！不过我大人有大量，看在他们戴罪立功，认错态度良好的份上，就先不算那笔帐了。"
+    },
+    {
+     "title": "关于伊波恩古董店",
+     "text": "哼，我只是、暂时没有想到更合心意的去处，想到阿德勒做饭好吃，暂时留在这里帮忙罢了……"
+    },
+    {
+     "title": "角色突破·Ⅰ",
+     "text": "这种程度，姑且算是过关吧。"
+    },
+    {
+     "title": "角色突破·Ⅱ",
+     "text": "照这么下去，都不是我的对手~"
+    },
+    {
+     "title": "角色突破·Ⅲ",
+     "text": "鬼郎丸的胃口怎么越来越大了……"
+    },
+    {
+     "title": "收到赠礼·Ⅰ",
+     "text": "哇，你怎么知……咳咳，算你有心，我会记住的！"
+    },
+    {
+     "title": "收到赠礼·Ⅱ",
+     "text": "难道说你犯了什么事，想让鬼郎丸帮你掩护一下？尽管开口，包在它嘴里！"
+    },
+    {
+     "title": "收到赠礼·Ⅲ",
+     "text": "谢啦，我会看住鬼郎丸不让它吃下去的——呃，至少在我睡觉之前。"
+    },
+    {
+     "title": "收到赠礼·IV",
+     "text": "改天还你个惊喜，当然是正经的！"
+    }
+   ],
+   "battle": [
+    {
+     "title": "变轨技能·Ⅰ",
+     "text": "开饭咯！"
+    },
+    {
+     "title": "变轨技能·Ⅱ",
+     "text": "统统打飞！"
+    },
+    {
+     "title": "变轨技能·Ⅲ",
+     "text": "嘿咿呀！(呀吼！)"
+    },
+    {
+     "title": "极轨终结·Ⅰ",
+     "text": "抓住他们，鬼郎丸！"
+    },
+    {
+     "title": "极轨终结·Ⅱ",
+     "text": "笨蛋别被砸到咯~"
+    },
+    {
+     "title": "极轨终结·Ⅲ",
+     "text": "注意脚下~（抓到咯！）"
+    },
+    {
+     "title": "收容异象·Ⅰ",
+     "text": "鬼郎丸，干正事了！"
+    },
+    {
+     "title": "收容异象·Ⅱ",
+     "text": "姑且算你干得不错，这玩意给你了。"
+    },
+    {
+     "title": "泯除异象·Ⅰ",
+     "text": "切，还以为会闹得更大一些……"
+    },
+    {
+     "title": "泯除异象·Ⅱ",
+     "text": "这就结束了吗？没劲。"
+    },
+    {
+     "title": "意外收获·Ⅰ",
+     "text": "偶尔也能带点有用的东西回来嘛，鬼郎丸！"
+    },
+    {
+     "title": "意外收获·Ⅱ",
+     "text": "嗯……搞不懂，带回去让娜娜莉和呆子看看算了。"
+    },
+    {
+     "title": "意外收获·Ⅲ",
+     "text": "喔！好东西啊~感觉可以用这个去逗逗娜娜莉~"
+    },
+    {
+     "title": "意外收获·Ⅳ",
+     "text": "敢把这个吃掉你就死定了！（鬼郎丸：呃——）"
+    },
+    {
+     "title": "意外收获·Ⅴ",
+     "text": "把这玩意拿给浔的话……"
+    },
+    {
+     "title": "意外收获·Ⅵ",
+     "text": "今天运气不错呢！"
+    },
+    {
+     "title": "生命值低·Ⅰ",
+     "text": "呜……有点疼……"
+    },
+    {
+     "title": "生命值低·Ⅱ",
+     "text": "令人讨厌的感觉……"
+    },
+    {
+     "title": "恢复生命·Ⅰ",
+     "text": "才不会那么轻易地退场！"
+    },
+    {
+     "title": "恢复生命·Ⅱ",
+     "text": "哼，我可不止这个程度！"
+    },
+    {
+     "title": "力竭·Ⅰ",
+     "text": "……怎么会……"
+    },
+    {
+     "title": "力竭·Ⅱ",
+     "text": "……果然……"
+    },
+    {
+     "title": "力竭·Ⅲ",
+     "text": "……你……竟敢……"
+    },
+    {
+     "title": "击败怪物·Ⅰ",
+     "text": "有倒霉蛋被砸扁咯~"
+    },
+    {
+     "title": "击败怪物·Ⅱ",
+     "text": "轻轻松松~"
+    },
+    {
+     "title": "普通受击·Ⅰ",
+     "text": "有一手嘛！"
+    },
+    {
+     "title": "普通受击·Ⅱ",
+     "text": "给我等着！"
+    },
+    {
+     "title": "重受击·Ⅰ",
+     "text": "唔……我要砸扁你！（吃掉！）"
+    },
+    {
+     "title": "重受击·Ⅱ",
+     "text": "……你会后悔的！"
+    },
+    {
+     "title": "上阵·Ⅰ",
+     "text": "一起去大闹一场吧！"
+    },
+    {
+     "title": "上阵·Ⅱ",
+     "text": "鬼郎丸，这下允许你放开肚皮吃。"
+    },
+    {
+     "title": "协同技·Ⅰ",
+     "text": "起飞咯！"
+    },
+    {
+     "title": "协同技·Ⅱ",
+     "text": "看这边！"
+    },
+    {
+     "title": "协同技·Ⅲ",
+     "text": "鬼郎丸冲击~"
+    },
+    {
+     "title": "滑翔·Ⅰ",
+     "text": "慢吞吞的……"
+    },
+    {
+     "title": "滑翔·Ⅱ",
+     "text": "鬼郎丸别乱动，掉下去了我可不管！"
+    },
+    {
+     "title": "切换·Ⅰ",
+     "text": "让一让——"
+    },
+    {
+     "title": "切换·Ⅱ",
+     "text": "鬼来捉人咯！"
+    },
+    {
+     "title": "切换·Ⅲ",
+     "text": "开吃~"
+    },
+    {
+     "title": "特殊切换·浔",
+     "text": "去去，让早雾大人来！"
+    },
+    {
+     "title": "特殊切换·埃德嘉",
+     "text": "在后面做好支援就行了，呆子。"
+    },
+    {
+     "title": "特殊切换·娜娜莉",
+     "text": "好，好，一代目——"
+    },
+    {
+     "title": "特殊切换·阿德勒",
+     "text": "别总把我当小孩看。"
+    },
+    {
+     "title": "特殊切换·达芙蒂尔",
+     "text": "总算该我上了。"
+    },
+    {
+     "title": "特殊切换·零",
+     "text": "注意注意，鬼郎丸来了！"
+    },
+    {
+     "title": "队友倒下·浔",
+     "text": "昨天喝大了就别强撑着！"
+    },
+    {
+     "title": "队友倒下·埃德嘉",
+     "text": "往后站点，埃德嘉！"
+    },
+    {
+     "title": "队友倒下·娜娜莉",
+     "text": "都说了别闷着头往前……"
+    },
+    {
+     "title": "队友倒下·阿德勒",
+     "text": "老胳膊老腿了就别逞强了。"
+    },
+    {
+     "title": "队友倒下·达芙蒂尔",
+     "text": "你怎么会犯这种错……"
+    },
+    {
+     "title": "队友倒下·零",
+     "text": "坏家伙，你不会以为我们鉴定师很好欺负吧？！"
+    },
+    {
+     "title": "弹反·Ⅰ",
+     "text": "早就注意到了！"
+    },
+    {
+     "title": "弹反·Ⅱ",
+     "text": "轮到我了！"
+    },
+    {
+     "title": "连续极限闪避成功·Ⅰ",
+     "text": "还没鬼郎丸动作快。"
+    },
+    {
+     "title": "连续极限闪避成功·Ⅱ",
+     "text": "怎么打不着呢~"
+    }
+   ]
+  },
+  "ja": {
+   "daily": [
+    {
+     "title": "初対面",
+     "text": "（鬼郎丸「こんにちは。性格が悪い早霧だよ。こっちは無敵の鬼郎丸様…ぎゃあ！」）\nあんたが、潯に攫われてきたっていう鑑定士？見ての通り、この鬼郎丸っていうブサイクには近づかない方がいいよ。物がなくなっても知らないからね。あと、尻を噛まれても、医療費は払わないから！"
+    },
+    {
+     "title": "雑談-暴飲暴食",
+     "text": "鬼郎丸！まーた盗み食いを！ペッしなさい！"
+    },
+    {
+     "title": "雑談-童謡",
+     "text": "パシャ、パシャ、どこにいるの？\nかわいいガラスの人形よ。\nポタ、ポタ、日が沈んだね。\nさあ帰ろうよ。怖くない。"
+    },
+    {
+     "title": "雑談-牛乳",
+     "text": "誰も起きてないよね…ゴクゴク…うえっ…やっぱり牛乳苦手…"
+    },
+    {
+     "title": "快晴",
+     "text": "ナナリも呼んで、エドガーと一緒にあそ…仕事しに行くか！"
+    },
+    {
+     "title": "雨",
+     "text": "今度うちに水をはねてみろ。その車の目ん玉をぶっ潰してやる！"
+    },
+    {
+     "title": "寒い",
+     "text": "毛玉みたいな格好は勘弁…ダサいし、は、は、ハックション！"
+    },
+    {
+     "title": "灼熱",
+     "text": "クマさんのアイスキャンディ…ふん、こんなので喜ぶのはガキぐらいよ…"
+    },
+    {
+     "title": "朝の挨拶",
+     "text": "おっそーい！何時だと思ってんの？"
+    },
+    {
+     "title": "昼の挨拶",
+     "text": "おい、こーんなに長く付き合ってあげたのに、お礼くらいないの？"
+    },
+    {
+     "title": "夕方の挨拶",
+     "text": "太陽が沈む瞬間に瞬きをすると…影の鬼に食われちゃうぞ！…あはは、なんてね～"
+    },
+    {
+     "title": "おやすみ",
+     "text": "え、もう寝るの？つまんない！…明日は早めに来てよね！"
+    },
+    {
+     "title": "趣味",
+     "text": "タギドが地団駄踏んでぷんぷんしてるとこって本当おもろい～冷蔵庫にあったあいつのおやつを全部食べたり、あいつが大事そうに集めたカードを全部隠したり…くく、どーせいつも適当に置いてあるんだし！…こんなの趣味じゃないって？そんなことないでしょ！コミュニケーションよ、コミュニケーション！"
+    },
+    {
+     "title": "悩み",
+     "text": "もうっ、一年も飲み続けたのに1センチも伸びてないじゃん…アドレーの噓つき…"
+    },
+    {
+     "title": "話題-異象：正直ポップキャン",
+     "text": "お菓子を買ってきてくれたの？へー？別に、受け取ってあげないこともないけど？…ポップキャンディ？…正直ポップキャンのこと、誰かから聞いたのね！さあ！自分で忘れるか、鬼郎丸に殴られて忘れるか、選べ！"
+    },
+    {
+     "title": "話題-失格種",
+     "text": "大した話じゃないよ。人間と異象を組み合わせて、人間の力が勝ったら失格種に、異象の力が勝ったら、もっと劣等な生き物になって、死ぬに死ねないの…なにその目？…先に言っとくけど、うちはあんなやつらに屈しないから！「可哀想」とか思ってたら、離れて。"
+    },
+    {
+     "title": "話題-空の瓶",
+     "text": "空の瓶？ぎゅ、牛乳の瓶じゃないよ！あんな変な匂いのやつを飲むなんて、鬼郎丸しか飲まないもん！"
+    },
+    {
+     "title": "自分について-異能",
+     "text": "鬼郎丸みたいなやつに絡まれるなんて、どんだけツイてないわけ？生意気だし、うるさいし！こいつが変な物を拾い食いしてくるせいでどんだけ大変な目に遭ってきたか！しかも腹を壊せば吐き散らかすし！\n（鬼郎丸「なんでもパクっと一口、大食いは正義～」）\nだーまーれー！くそ、いつかその口を縫い合わせてやる！"
+    },
+    {
+     "title": "自分について-願い",
+     "text": "なんでそんなこと聞くの？あの二人がまた余計なことを言ったとか？…ふん、教えてやんないよ、べー！"
+    },
+    {
+     "title": "潯について",
+     "text": "ろくでなし、怠け者の酒カス！いっつも人に迷惑かけるし、幼稚すぎて呆れるよ！普段は大目に見てやってるだけ！フン！"
+    },
+    {
+     "title": "アドレーについて",
+     "text": "アドレーがいなかったら、エイボンはとっくに800回くらい潰れてるわよ！毎日毎日ろくでなしどもの世話をするくらいなら、自分に集中したらいいのに！"
+    },
+    {
+     "title": "ダフォディールについて",
+     "text": "ダフォディールの実力は、このうちでさえ認めざるをえないわ。大人はああでなくちゃ！でも彼女と依頼なんか行ったら、退屈すぎておかしくなっちゃう！まるで石像と組んだみたいだから！彼女はねー…ぷぷ、エドガーとのペアがお似合いね！"
+    },
+    {
+     "title": "ナナリについて",
+     "text": "ここだけの話…ナナリがしっぽ巻いてガタガタ震えてるとこを見たかったら、ホラー映画を見せればOK。ちょーっと挑発したらすぐに見てくれるから！ほら、やってみなっ！あ、うちが言ったってのは秘密ね？"
+    },
+    {
+     "title": "エドガーについて",
+     "text": "あのだんまり、頭はいいのに、言いたいことを言えないんじゃ意味ないじゃん…ちぇっ、結局うち頼りってわけ。でも、いつもはもじもじしてるのに、いざって時はびっくりするくらい活躍してくれるよ！"
+    },
+    {
+     "title": "コリンスファミリーについて",
+     "text": "ナナリとエドガー、バカ一匹にだんまり一匹だよ。一緒にいると本当にくたびれる！うちがいなかったら、あいつらどうなることか、考えるだけで怖いね！で、でもまー、うちは別に、二人が嫌いってわけでも…ないし…？"
+    },
+    {
+     "title": "タギドについて",
+     "text": "橋間地バカランキング1位の異骸！上下関係ってやつがわかってないんだよ。どう見ても、あいつはせいぜいうちの子分にしかなれないでしょ！その上泣き虫で、恥ずかしいったらないわ！…でも、タギドがいなかったら、毎日が退屈になっちゃうか…ふん、やっぱり傍にいさせよ。"
+    },
+    {
+     "title": "ミスモについて",
+     "text": "独りよがりで調子に乗ってるやつ。この前もう少し痛い目に遭わせたらよかった！でもま、うちは大人だから、ちゃんと謝ってくれたし、よく働いてくれたから、水に流してあげるわ。"
+    },
+    {
+     "title": "骨董品屋エイボンについて",
+     "text": "ふん、もっと気に入った場所が見つかってないだけよ。アドレーのごはんもおいしいから、しばらくここで手伝ってあげてるだけ…"
+    },
+    {
+     "title": "キャラ突破Ⅰ",
+     "text": "まぁ、合格とするか。"
+    },
+    {
+     "title": "キャラ突破Ⅱ",
+     "text": "この様子じゃ、誰もうちに敵わないね～"
+    },
+    {
+     "title": "キャラ突破Ⅲ",
+     "text": "なんか鬼郎丸、前より食欲増してない…？"
+    },
+    {
+     "title": "届けられたギフトⅠ",
+     "text": "わっ、なんで知って…コホン、気が利くじゃん。"
+    },
+    {
+     "title": "届けられたギフトⅡ",
+     "text": "なになに？何かやらかして、鬼郎丸に証拠隠滅させたいとか？あいつの胃袋に任せて！"
+    },
+    {
+     "title": "届けられたギフトⅢ",
+     "text": "鬼郎丸に食われないよう見張っとくよ…ま、うちが寝るまでは、ね。"
+    },
+    {
+     "title": "届けられたギフトⅣ",
+     "text": "今度、すごいお返ししてあげる。もちろんちゃんとしたやつ！"
+    }
+   ],
+   "battle": [
+    {
+     "title": "バイレールスキルⅠ",
+     "text": "いっただきまーす！"
+    },
+    {
+     "title": "バイレールスキルⅡ",
+     "text": "全員吹っ飛ばしてあげる！"
+    },
+    {
+     "title": "バイレールスキルⅢ",
+     "text": "そーれ！（ガア！）"
+    },
+    {
+     "title": "EXレール終結Ⅰ",
+     "text": "捕まえろ！鬼郎丸！"
+    },
+    {
+     "title": "EXレール終結Ⅱ",
+     "text": "おバカさんに避けられるかな？"
+    },
+    {
+     "title": "EXレール終結Ⅲ",
+     "text": "足元がお留守だよ（捕まえた！）"
+    },
+    {
+     "title": "異象収容Ⅰ",
+     "text": "鬼郎丸、出番だよ！"
+    },
+    {
+     "title": "異象収容Ⅱ",
+     "text": "よくやったじゃん。まあ、これあげる…"
+    },
+    {
+     "title": "異象排除Ⅰ",
+     "text": "あーあ、もっと面白いことになると思ってたのに…"
+    },
+    {
+     "title": "異象排除Ⅱ",
+     "text": "これで終わり？つまんない。"
+    },
+    {
+     "title": "意外な収穫Ⅰ",
+     "text": "たまにはいい物を拾って来るね、鬼郎丸！"
+    },
+    {
+     "title": "意外な収穫Ⅱ",
+     "text": "うーん…分からないね。ナナリとエドガーに見てもらおっと。"
+    },
+    {
+     "title": "意外な収穫Ⅲ",
+     "text": "いいねこれ！後でナナリをからかってあげよ～"
+    },
+    {
+     "title": "意外な収穫Ⅳ",
+     "text": "食べたら許さないからね！（鬼郎丸：ウッ――）"
+    },
+    {
+     "title": "意外な収穫Ⅴ",
+     "text": "これを潯に渡せば…"
+    },
+    {
+     "title": "意外な収穫Ⅵ",
+     "text": "今日ラッキーじゃん！"
+    },
+    {
+     "title": "低HPⅠ",
+     "text": "う…痛い…"
+    },
+    {
+     "title": "低HPⅡ",
+     "text": "嫌な感じ…"
+    },
+    {
+     "title": "HP回復Ⅰ",
+     "text": "うちが簡単にやられると思わないでよね！"
+    },
+    {
+     "title": "HP回復Ⅱ",
+     "text": "ふん、見くびらないでよね！"
+    },
+    {
+     "title": "力尽きⅠ",
+     "text": "…そんな…"
+    },
+    {
+     "title": "力尽きⅡ",
+     "text": "…やっぱり…"
+    },
+    {
+     "title": "力尽きⅢ",
+     "text": "…こんなことしていいと…思ってんの…"
+    },
+    {
+     "title": "敵を撃破Ⅰ",
+     "text": "あら、ぺったんこだね～"
+    },
+    {
+     "title": "敵を撃破Ⅱ",
+     "text": "簡単簡単～"
+    },
+    {
+     "title": "ダメージを受ける（通常）Ⅰ",
+     "text": "やるじゃない！"
+    },
+    {
+     "title": "ダメージを受ける（通常）Ⅱ",
+     "text": "待ってなさいよ！"
+    },
+    {
+     "title": "大打撃Ⅰ",
+     "text": "くっ…潰れちゃいなさい！（食べる！）"
+    },
+    {
+     "title": "大打撃Ⅱ",
+     "text": "…後悔するわよ！"
+    },
+    {
+     "title": "出撃Ⅰ",
+     "text": "さあ、暴れるよ！"
+    },
+    {
+     "title": "出撃Ⅱ",
+     "text": "鬼郎丸、好きなだけ食べちゃいなさい。"
+    },
+    {
+     "title": "コンビスキルⅠ",
+     "text": "飛ぶよ！"
+    },
+    {
+     "title": "コンビスキルⅡ",
+     "text": "こっち！"
+    },
+    {
+     "title": "コンビスキルⅢ",
+     "text": "鬼郎丸、大打撃～。"
+    },
+    {
+     "title": "滑空Ⅰ",
+     "text": "随分のんびりしてる……"
+    },
+    {
+     "title": "滑空Ⅱ",
+     "text": "こら鬼郎丸、暴れるな！落ちたら知らないからね！"
+    },
+    {
+     "title": "切替Ⅰ",
+     "text": "ちょっと、通しなさいよー！"
+    },
+    {
+     "title": "切替Ⅱ",
+     "text": "鬼ごっこしよ~！"
+    },
+    {
+     "title": "切替Ⅲ",
+     "text": "ムシャムシャ～"
+    },
+    {
+     "title": "特殊切替・潯",
+     "text": "ここはこの早霧さまに、任せなさい！"
+    },
+    {
+     "title": "特殊切替・エドガー",
+     "text": "ぐずぐすしてるんなら、後方支援してなさい！"
+    },
+    {
+     "title": "特殊切替・ナナリ",
+     "text": "はいはい、一代目…"
+    },
+    {
+     "title": "特殊切替・アドレー",
+     "text": "ガキ扱いしないでくれる？"
+    },
+    {
+     "title": "特殊切替・ダフォディール",
+     "text": "ようやく、うちの出番。"
+    },
+    {
+     "title": "特殊切替・零",
+     "text": "注意、注意！鬼郎丸が来たわよ！"
+    },
+    {
+     "title": "仲間気絶・潯",
+     "text": "二日酔いの人は寝てて！"
+    },
+    {
+     "title": "仲間気絶・エドガー",
+     "text": "うちの後ろに隠れてなさい、エドガー！"
+    },
+    {
+     "title": "仲間気絶・ナナリ",
+     "text": "だから前を見なさいって言ったでしょ！"
+    },
+    {
+     "title": "仲間気絶・アドレー",
+     "text": "いい歳なんだから、身体を労らないと~"
+    },
+    {
+     "title": "仲間気絶・ダフォディール",
+     "text": "しょうもないミスをしでかして……"
+    },
+    {
+     "title": "仲間気絶・零",
+     "text": "うちの鑑定士を侮るんじゃないわよ！"
+    },
+    {
+     "title": "パリィⅠ",
+     "text": "とっくに、気づいてるし！"
+    },
+    {
+     "title": "パリィⅡ",
+     "text": "うちの番だよ！"
+    },
+    {
+     "title": "連続極限回避成功Ⅰ",
+     "text": "鬼郎丸より遅いねぇ~。"
+    },
+    {
+     "title": "連続極限回避成功Ⅱ",
+     "text": "ふふん、どうせ当たらないよ～。"
+    }
+   ]
+  },
+  "ko": {
+   "daily": [
+    {
+     "title": "첫 만남",
+     "text": "(키로마루: 안녕, 난 성깔 고약한 사키리고, 이쪽은 무적의 키로마루 님… 아야!)\n네가 호토리가 데려온 감정사 녀석이냐? 자, 봤지, 키로마루라는 이 못난이를 조심해, 너무 가까이하지 않는 게 좋아… 뭐 하나 없어져도 내가 대신 찾아주는 일은 없을 테니까… 엉덩이를 물려도 약값은 없어!"
+    },
+    {
+     "title": "대화·폭식",
+     "text": "키로마루! 또 뭘 주워먹는 거야! 당장 뱉어!"
+    },
+    {
+     "title": "대화·동요",
+     "text": "쨍그랑, 쨍그랑, 어디에 있을까.\n귀엽고 잘 깨지는 유리 인형.\n똑딱, 똑딱. 해가 지고 있어.\n모두의 곁이면 두렵지 않아."
+    },
+    {
+     "title": "대화·우유",
+     "text": "다들 아직 자고 있겠지… 꿀꺽꿀꺽… 크흐… 우유 맛은 영 적응이 안 되네…"
+    },
+    {
+     "title": "맑은 날",
+     "text": "나나리랑 멍청이 데리고 놀러… 일하러 가자!"
+    },
+    {
+     "title": "비 오는 날",
+     "text": "또 어떤 겁대가리 상실한 차가 내 머리에 물벼락 튀기면, 그땐 가만 안 둘 거야!"
+    },
+    {
+     "title": "추운 날",
+     "text": "털 뭉치처럼 껴입기 싫어. 못생겼다고… 에, 에취!"
+    },
+    {
+     "title": "더운 날",
+     "text": "곰돌이 아이스바… 흥, 유치한 애들이나 좋아하지…"
+    },
+    {
+     "title": "아침 인사",
+     "text": "왜 이제 와! 해가 중천에 떴잖아!"
+    },
+    {
+     "title": "점심 인사",
+     "text": "어이, 내가 지금까지 같이 있어 줬는데, 감사 인사는 해야 하지 않겠어?"
+    },
+    {
+     "title": "저녁 인사",
+     "text": "해가 지는 순간에 눈을 깜빡이면… 그림자 귀신한테 잡아먹힐 거야…! 뻥이야~"
+    },
+    {
+     "title": "취침 인사",
+     "text": "엥? 벌써 자러 가는 거야? 재미없어…! 내일은 일찍 와!"
+    },
+    {
+     "title": "취미",
+     "text": "타기도가 발 동동 구르는 모습이 얼마나 웃긴지 알아? 냉장고에 있는 간식을 싹쓸이해 버리거나, 모아놓은 보물 스티커를 다 숨겨버리면 돼. 창의력도 없이 늘 똑같은 곳에 두거든…! 이게 왜 취미가 아니라는 거야? 이렇게 같이 놀면서 친해지는 거지~"
+    },
+    {
+     "title": "고민",
+     "text": "젠장, 1년이나 마셨는데도 키가 안 커… 아들러 이 사기꾼…"
+    },
+    {
+     "title": "주제·이상·진실의 팝핑 캔디",
+     "text": "간식을 사 왔다고? 흥, 정성이 갸륵하니 어쩔 수 없이 받아줄게… 팝핑 캔디…? 진실의 팝핑 캔디 얘기, 누구한테 들었어? 좋아, 발뺌해도 소용없어! 직접 잊어버릴래, 아니면 키로마루로 물리적 기억 상실 수술을 해줄까?"
+    },
+    {
+     "title": "주제·실격종",
+     "text": "별거 아냐, 인간과 이상을 결합했을 때 인간의 힘이 이상을 이기면 실격종이 되고, 이상의 힘이 이기면 더 열등한 존재가 돼서 죽은 것도 산 것도 아닌 상태가 돼… 그건 무슨 눈빛이야…? 미리 말해두는데, 난 절대 그런 저급한 놈들한테 안 져! 「불쌍해」 같은 생각 또 할 거면, 저리 가버려."
+    },
+    {
+     "title": "주제·빈 병",
+     "text": "빈 병? 우, 우유 빈 병이라니…! 네가 잘못 봤겠지, 그 이상한 냄새가 나는 걸 마실 수 있는 건 키로마루뿐이라고."
+    },
+    {
+     "title": "자신·이능력에 관해",
+     "text": "얼마나 재수가 없으면 키로마루 같은 녀석이 들러붙은 거지? 허구한 날 말대꾸에, 시끄럽게 쫑알쫑알! 이 녀석이 아무거나 집어먹어서 뒷수습한 게 몇 번인지 이제 기억도 안 나! 배탈 날 때마다 여기저기 토해대고!\n(키로마루: 난 세상 모든 걸 한입에 해치우지, 폭식이 곧 정의닷~)\n제발 닥쳐!! 언젠간 그 입을 꿰매버리겠어!"
+    },
+    {
+     "title": "자신·소원에 관해",
+     "text": "그런 건 왜 물어봐? 설마 그 참견쟁이 둘이 뭐라고 했어…? 흥, 엉뚱하게 짐작해 봤자 소용없어, 말해줄 생각 없으니까."
+    },
+    {
+     "title": "호토리에 관해",
+     "text": "망나니에다 게으른 술꾼! 맨날 폐만 끼치고 다니면서 철없이 굴잖아. 상대할 가치도 없어서 내가 봐주는 거야."
+    },
+    {
+     "title": "아들러에 관해",
+     "text": "아들러가 없었다면, 에이본은 800번도 넘게 파산했을 거야! 매일 성가신 녀석들 뒤치다꺼리하느라 고생하잖아. 그럴 여력 있으면 자기나 좀 돌보지!"
+    },
+    {
+     "title": "다포딜에 관해",
+     "text": "다포딜의 실력은 나도 인정해. 제대로 된 어른이라면 다포딜 정도는 돼야지! 그치만 다포딜이랑 단둘이 의뢰를 나가면 답답해서 미쳐버릴 것 같아. 꼭 얼음 조각상이랑 다니는 것 같다니까! 내 생각에는… 푸흡… 다포딜이랑 멍청이가 짝이 되면 딱이야!"
+    },
+    {
+     "title": "나나리에 관해",
+     "text": "너한테만 알려줄게. 나나리가 꼬리 껴안고 움츠리고 있는 모습을 보고 싶으면, 공포 영화 한 편이면 돼. 살짝만 도발해도 분명 바로 같이 보자고 할걸! 헤헤, 어서 가서 시도해 봐! 내가 알려줬다고 말하면 안 돼!"
+    },
+    {
+     "title": "에드가에 관해",
+     "text": "어우, 답답이. 머리만 좋으면 뭐 하냐고. 할 말 있으면 해야지, 맨날 우물쭈물 끙끙대기나 하고… 쯧, 역시 내가 있어야 돼! 근데 그렇게 느릿느릿해 보여도, 실력 발휘할 때 보면 깜짝 놀랄걸?"
+    },
+    {
+     "title": "콜린스 가문에 관해",
+     "text": "나나리랑 멍청이는 하나는 바보지, 하나는 답답이지… 같이 있으면 피곤해 죽겠어! 대체 나 없으면 어쩌려나 몰라. 그, 그렇다고 걔네랑 같이 있는 게 싫은 건 아니야…"
+    },
+    {
+     "title": "타기도에 관해",
+     "text": "브릿지 구역에서 제일 멍청한 오디티! 윗사람 아랫사람도 구분 못 해! 바보 해달은 기껏해야 내 부하가 딱이야. 눈물은 또 얼마나 많은지, 창피해서 못 살겠다니까! 음… 근데 생각해 보니까 타기도가 없으면 심심할 것 같기는 해… 어쩔 수 없지, 마음 넓은 내가 봐준다!"
+    },
+    {
+     "title": "맥스먼에 관해",
+     "text": "잘난 척 대마왕에, 우쭐대는 녀석이지. 지난번에 제대로 본때를 보여줘야 했는데! 하지만 난 관대하니까. 잘못을 인정하고 뉘우치는 모습이 기특하니 일단은 넘어가 준다."
+    },
+    {
+     "title": "에이본 골동품 가게에 관해",
+     "text": "흥, 아직 마음에 드는 다른 곳을 못 찾았을 뿐이야. 아들러가 요리를 잘하니까 잠깐 지내면서 도와주는 거라고…"
+    },
+    {
+     "title": "캐릭터 돌파·Ⅰ",
+     "text": "뭐, 이 정도면 봐줄 만하네."
+    },
+    {
+     "title": "캐릭터 돌파·Ⅱ",
+     "text": "이대로만 가면 내 적수가 없겠는걸~"
+    },
+    {
+     "title": "캐릭터 돌파·Ⅲ",
+     "text": "키로마루는 왜 갈수록 식욕이 느는 걸까…"
+    },
+    {
+     "title": "선물 수령·Ⅰ",
+     "text": "와, 내가 좋아하는 건 또 어떻게… 크흠, 센스 있네. 기억해 두겠어!"
+    },
+    {
+     "title": "선물 수령·Ⅱ",
+     "text": "혹시 사고 쳤어? 키로마루 도움이 필요해? 말만 해, 키로마루가 다 먹어줄 거야!"
+    },
+    {
+     "title": "선물 수령·Ⅲ",
+     "text": "고마워, 키로마루가 못 먹게 잘 지키고 있을게… 음, 적어도 내가 잠들기 전까지는!"
+    },
+    {
+     "title": "선물 수령·IV",
+     "text": "다음엔 나도 깜짝선물 해줄게. 물론 제대로 된 걸로!"
+    }
+   ],
+   "battle": [
+    {
+     "title": "바이레일 스킬·Ⅰ",
+     "text": "밥 먹자!"
+    },
+    {
+     "title": "바이레일 스킬·Ⅱ",
+     "text": "전부 날려버려!"
+    },
+    {
+     "title": "바이레일 스킬·Ⅲ",
+     "text": "으랏차! (야호!)"
+    },
+    {
+     "title": "울티메이트·Ⅰ",
+     "text": "잡아, 키로마루!"
+    },
+    {
+     "title": "울티메이트·Ⅱ",
+     "text": "바보야, 안 맞게 조심해~"
+    },
+    {
+     "title": "울티메이트·Ⅲ",
+     "text": "발밑 조심~ (잡았다!)"
+    },
+    {
+     "title": "이상 수용·Ⅰ",
+     "text": "키로마루, 일할 시간이야!"
+    },
+    {
+     "title": "이상 수용·Ⅱ",
+     "text": "그럭저럭 잘했어, 이건 너 줄게."
+    },
+    {
+     "title": "이상 제거·Ⅰ",
+     "text": "흥, 좀 흥미진진해지나 했더니…"
+    },
+    {
+     "title": "이상 제거·Ⅱ",
+     "text": "벌써 끝이야? 시시하네."
+    },
+    {
+     "title": "뜻밖의 수확·Ⅰ",
+     "text": "키로마루, 웬일로 쓸모 있는 물건을 가져왔네?!"
+    },
+    {
+     "title": "뜻밖의 수확·Ⅱ",
+     "text": "흠… 모르겠다, 나나리랑 멍청이한테 가져가서 보여주자."
+    },
+    {
+     "title": "뜻밖의 수확·Ⅲ",
+     "text": "오! 괜찮은데~ 이걸로 나나리 좀 놀려볼까~"
+    },
+    {
+     "title": "뜻밖의 수확·Ⅳ",
+     "text": "이거 먹기만 해, 죽는다! (키로마루: 으악…!)"
+    },
+    {
+     "title": "뜻밖의 수확·Ⅴ",
+     "text": "이걸 호토리한테 가져다주면…"
+    },
+    {
+     "title": "뜻밖의 수확·Ⅵ",
+     "text": "오늘은 운이 좋은걸!"
+    },
+    {
+     "title": "HP 낮음·Ⅰ",
+     "text": "으윽… 아프잖아…"
+    },
+    {
+     "title": "HP 낮음·Ⅱ",
+     "text": "기분 나빠…"
+    },
+    {
+     "title": "HP 회복·Ⅰ",
+     "text": "이렇게 쉽게 물러날 것 같아!"
+    },
+    {
+     "title": "HP 회복·Ⅱ",
+     "text": "흥, 내 한계는 아직 멀었어!"
+    },
+    {
+     "title": "탈진·Ⅰ",
+     "text": "… 이럴 수가…"
+    },
+    {
+     "title": "탈진·Ⅱ",
+     "text": "… 역시…"
+    },
+    {
+     "title": "탈진·Ⅲ",
+     "text": "… 감히… 네까짓 게…"
+    },
+    {
+     "title": "몬스터 처치·Ⅰ",
+     "text": "재수 없는 녀석, 납작하게 뭉개주마~"
+    },
+    {
+     "title": "몬스터 처치·Ⅱ",
+     "text": "식은 죽 먹기네~"
+    },
+    {
+     "title": "일반 피격·Ⅰ",
+     "text": "제법인데!"
+    },
+    {
+     "title": "일반 피격·Ⅱ",
+     "text": "딱 기다려!"
+    },
+    {
+     "title": "심각한 피해·Ⅰ",
+     "text": "이익… 뭉개버리겠어! (먹자!)"
+    },
+    {
+     "title": "심각한 피해·Ⅱ",
+     "text": "… 후회하게 해주겠어!"
+    },
+    {
+     "title": "출전·Ⅰ",
+     "text": "다 같이 한바탕 놀아보자고!"
+    },
+    {
+     "title": "출전·Ⅱ",
+     "text": "키로마루, 오늘은 맘껏 먹어!"
+    },
+    {
+     "title": "협동기·Ⅰ",
+     "text": "돌격!"
+    },
+    {
+     "title": "협동기·Ⅱ",
+     "text": "여기 좀 봐!"
+    },
+    {
+     "title": "협동기·Ⅲ",
+     "text": "키로마루 어택~"
+    },
+    {
+     "title": "글라이딩·Ⅰ",
+     "text": "너무 느려…"
+    },
+    {
+     "title": "글라이딩·Ⅱ",
+     "text": "키로마루, 움직이지 마. 떨어져도 난 모른다!"
+    },
+    {
+     "title": "전환·Ⅰ",
+     "text": "비켜, 비켜~"
+    },
+    {
+     "title": "전환·Ⅱ",
+     "text": "다들 꽁꽁 숨어~!"
+    },
+    {
+     "title": "전환·Ⅲ",
+     "text": "우왕~ (키로마루)"
+    },
+    {
+     "title": "특수 전환·호토리",
+     "text": "비켜, 사키리 님이 나가신다!"
+    },
+    {
+     "title": "특수 전환·에드가",
+     "text": "뒤에서 지원이나 잘하라고, 멍청아."
+    },
+    {
+     "title": "특수 전환·나나리",
+     "text": "그래, 그래, 우리 초대 가주~"
+    },
+    {
+     "title": "특수 전환·아들러",
+     "text": "자꾸 애 취급하지 마."
+    },
+    {
+     "title": "특수 전환·다포딜",
+     "text": "드디어 내 차례인가."
+    },
+    {
+     "title": "특수 전환·제로",
+     "text": "다들 조심하시지! 키로마루가 나가신다!"
+    },
+    {
+     "title": "팀원 쓰러짐·호토리",
+     "text": "술이 덜 깬 사람은 이제 뒤로 물러나셔~!"
+    },
+    {
+     "title": "팀원 쓰러짐·에드가",
+     "text": "뒤로 물러나, 에드가!"
+    },
+    {
+     "title": "팀원 쓰러짐·나나리",
+     "text": "무작정 들이받지 말라니까…"
+    },
+    {
+     "title": "팀원 쓰러짐·아들러",
+     "text": "나이 들었으면 무리하지 마."
+    },
+    {
+     "title": "팀원 쓰러짐·다포딜",
+     "text": "어떻게 다포딜이 이런 실수를…"
+    },
+    {
+     "title": "팀원 쓰러짐·제로",
+     "text": "어이, 나쁜 놈! 우리 감정사를 만만하게 본 건 아니겠지?!"
+    },
+    {
+     "title": "패링·Ⅰ",
+     "text": "진작에 눈치챘어!"
+    },
+    {
+     "title": "패링·Ⅱ",
+     "text": "내 차례다!"
+    },
+    {
+     "title": "연속 극한 회피 성공·Ⅰ",
+     "text": "키로마루보다도 느려터졌네."
+    },
+    {
+     "title": "연속 극한 회피 성공·Ⅱ",
+     "text": "좀 맞혀보라니까~"
+    }
+   ]
+  },
+  "zh-tw": {
+   "daily": [
+    {
+     "title": "初次見面",
+     "text": "（鬼郎丸：你好，我是壞脾氣的早霧，這位是無敵的鬼郎丸大人——哎喲！）\n你就是潯拐來做鑒定的傢伙？喲，看到啦，記得提防這個叫鬼郎丸的醜八怪，別靠得太近……要是什麼東西不見了，我可不負責幫你拿出來……屁股被咬了也沒有醫藥費！"
+    },
+    {
+     "title": "閒聊·暴食",
+     "text": "鬼郎丸！又在亂吃東西！給我吐出來！"
+    },
+    {
+     "title": "閒聊·童謠",
+     "text": "啪嚓、啪嚓，到底在哪裡呀；\n可愛又易碎的，玻璃娃娃。\n滴答、滴答，太陽已經落下；\n回到大家身邊，不再害怕。"
+    },
+    {
+     "title": "閒聊·牛奶",
+     "text": "都還沒起來吧……咕咕咕……呃……果然還是習慣不了牛奶的味道……"
+    },
+    {
+     "title": "大晴天",
+     "text": "叫上娜娜莉一起把呆子抓出去找樂…做點大事吧！"
+    },
+    {
+     "title": "雨天",
+     "text": "再有不長眼的車敢把水濺到我頭上就死定了！"
+    },
+    {
+     "title": "寒冷",
+     "text": "我才不要穿得跟毛線球一樣，醜死了……哈、哈啾！"
+    },
+    {
+     "title": "炎熱",
+     "text": "小熊冰棒……哼，幼稚鬼才會喜歡的東西……"
+    },
+    {
+     "title": "早上問候",
+     "text": "怎麼現在才來啊！太陽都曬屁股了！"
+    },
+    {
+     "title": "中午問候",
+     "text": "喂，看我好心陪你這麼久，是不是該表示下感謝？"
+    },
+    {
+     "title": "傍晚問候",
+     "text": "在太陽下山的一瞬間眨眼——就會被影子鬼吃掉！……騙你的~"
+    },
+    {
+     "title": "晚安",
+     "text": "誒？這就準備去睡覺了？真沒意思！……明天記得早點來！"
+    },
+    {
+     "title": "愛好",
+     "text": "塔吉多跳腳的樣子別提多好笑啦！只要把冰箱裡他的零食一口氣全吃掉，或者把他收集的寶貝卡片都藏起來，反正他放來放去，還不是那些沒創意的地方！……這個怎麼不能算是愛好？交流交流感情懂不懂？"
+    },
+    {
+     "title": "煩惱",
+     "text": "可惡，喝了一年了還是沒有長高……阿德勒大騙子……"
+    },
+    {
+     "title": "話題·異象·誠實跳跳糖",
+     "text": "幫我買了零食？嘿嘿，那我就勉強收下吧。……跳跳糖？……是誰告訴了你之前誠實跳跳糖的事情？好啊，想抵賴也沒用！是選自己忘掉，還是我用鬼郎丸幫你做個物理失憶手術？"
+    },
+    {
+     "title": "話題·失格種",
+     "text": "不是什麼了不得的事情，將人類和異象相結合，人的力量戰勝異象，就成為失格種，異象的力量戰勝人類，就變成更劣等的東西，好死不死地活著……這是什麼眼神？……話先說在前頭，我可不會輸給那些低級的傢伙！要是再有什麼「真可憐」之類的想法，就離我遠一些。"
+    },
+    {
+     "title": "話題·空瓶",
+     "text": "空瓶？什、什麼牛奶空瓶！……你看錯了，只有鬼郎丸才喝得下氣味那麼奇怪的東西。"
+    },
+    {
+     "title": "關於自己·異能",
+     "text": "是有多倒楣才能被鬼郎丸這樣的傢伙纏上？愛唱反調、吵得要死！記不清因為它亂吃東西收拾了多少爛攤子！每次肚子痛還吐的到處都是！\n（鬼郎丸：世事皆一口，暴食即正義~）\n閉——嘴——！總有一天我要把你這張嘴縫起來！"
+    },
+    {
+     "title": "關於自己·心願",
+     "text": "問這個幹什麼？是不是那兩個多管閒事的傢伙又說了什麼？……哼，亂猜也沒用，我才不要告訴你。"
+    },
+    {
+     "title": "關於潯",
+     "text": "敗家、好吃懶做的酒鬼！愛給人添麻煩，還幼稚得要死！我平時、那是都讓著她，才不跟她一般見識！"
+    },
+    {
+     "title": "關於阿德勒",
+     "text": "要不是阿德勒在，伊波恩早就破產八百次了吧！每天還要費力照顧一幫不可靠的，有這個心力，不如也多關心關心自己！"
+    },
+    {
+     "title": "關於達芙蒂爾",
+     "text": "達芙蒂爾的實力，就連我也是認可的，成年人就是要有她那樣的身手才像樣！不過跟她一起出委託可是會把人憋出問題來的，感覺搭檔了一座冰雕！我看——噗……她和呆子最適合被安排在一起！"
+    },
+    {
+     "title": "關於娜娜莉",
+     "text": "悄悄告訴你，如果你想看到娜娜莉抱著自己的尾巴縮成一團的樣子，一部恐怖片就夠了。只要稍微激她一下，她肯定會立刻答應一起看的！嘿嘿，還不快去試試？記住別說是我告訴你的啊！"
+    },
+    {
+     "title": "關於埃德嘉",
+     "text": "這個悶騷的人，那麼聰明有什麼用，有話要說，常常支支吾吾半天也講不清楚……嘖，果然還得靠我！不過別看他那個拖拖拉拉的樣子，一旦到了能發揮他能力的時候，沒點心理準備的人可是會大吃一驚的！"
+    },
+    {
+     "title": "關於柯林斯家族",
+     "text": "娜娜莉跟呆子，一個笨蛋，一個悶騷，跟他們兩個待在一起真的是要累死人了！要是沒了我，誰知道他們兩個會怎麼樣？不，不過，跟他們待在一起我也……不討厭就是了……"
+    },
+    {
+     "title": "關於塔吉多",
+     "text": "全橋間地最笨的歧骸！從來認不清上下級關係！他這種笨海獺，最多只能是我的小弟好不好？還動不動就愛哭，真是丟臉！嗯……不過想了下，要是沒了塔吉多，日子果然會很無聊呢……我還是勉為其難，讓他跟在身邊吧！"
+    },
+    {
+     "title": "關於彌斯墨",
+     "text": "自以為是，高高在上的傢伙，上次我就該下手再重一些！不過我大人有大量，看在他們戴罪立功，認錯態度良好的份上，就先不算那筆帳了。"
+    },
+    {
+     "title": "關於伊波恩古董店",
+     "text": "哼，我只是、暫時沒有想到更合心意的去處，想到阿德勒做飯好吃，暫時留在這裡幫忙而已……"
+    },
+    {
+     "title": "角色突破·Ⅰ",
+     "text": "這種程度，姑且算是過關吧。"
+    },
+    {
+     "title": "角色突破·Ⅱ",
+     "text": "照這麼下去，都不是我的對手~"
+    },
+    {
+     "title": "角色突破·Ⅲ",
+     "text": "鬼郎丸的胃口怎麼越來越大了……"
+    },
+    {
+     "title": "收到贈禮·Ⅰ",
+     "text": "哇，你怎麼知……咳咳，算你有心，我會記住的！"
+    },
+    {
+     "title": "收到贈禮·Ⅱ",
+     "text": "難道說你犯了什麼事，想讓鬼郎丸幫你掩護一下？儘管開口，包在它嘴裡！"
+    },
+    {
+     "title": "收到贈禮·Ⅲ",
+     "text": "謝啦，我會看住鬼郎丸不讓它吃下去的——呃，至少在我睡覺之前。"
+    },
+    {
+     "title": "收到贈禮·IV",
+     "text": "改天還你個驚喜，當然是正經的！"
+    }
+   ],
+   "battle": [
+    {
+     "title": "變軌技能·Ⅰ",
+     "text": "開飯囉！"
+    },
+    {
+     "title": "變軌技能·Ⅱ",
+     "text": "統統打飛！"
+    },
+    {
+     "title": "變軌技能·Ⅲ",
+     "text": "嘿咿呀！(呀吼！)"
+    },
+    {
+     "title": "極軌終結·Ⅰ",
+     "text": "抓住他們，鬼郎丸！"
+    },
+    {
+     "title": "極軌終結·Ⅱ",
+     "text": "笨蛋別被砸到囉~"
+    },
+    {
+     "title": "極軌終結·Ⅲ",
+     "text": "注意腳下~（抓到囉！）"
+    },
+    {
+     "title": "收容異象·Ⅰ",
+     "text": "鬼郎丸，幹正事了！"
+    },
+    {
+     "title": "收容異象·Ⅱ",
+     "text": "姑且算你幹得不錯，這東西給你了。"
+    },
+    {
+     "title": "泯除異象·Ⅰ",
+     "text": "呿，還以為會鬧得更大一些……"
+    },
+    {
+     "title": "泯除異象·Ⅱ",
+     "text": "這樣就結束了嗎？真無趣。"
+    },
+    {
+     "title": "意外收穫·Ⅰ",
+     "text": "偶爾也能帶點有用的東西回來嘛，鬼郎丸！"
+    },
+    {
+     "title": "意外收穫·Ⅱ",
+     "text": "嗯……搞不懂，帶回去讓娜娜莉和呆子看看算了。"
+    },
+    {
+     "title": "意外收穫·Ⅲ",
+     "text": "喔！好東西啊~感覺可以用這個去逗逗娜娜莉~"
+    },
+    {
+     "title": "意外收穫·Ⅳ",
+     "text": "敢把這個吃掉你就死定了！（鬼郎丸：呃——）"
+    },
+    {
+     "title": "意外收穫·Ⅴ",
+     "text": "把這東西拿給潯的話……"
+    },
+    {
+     "title": "意外收穫·Ⅵ",
+     "text": "今天運氣不錯呢！"
+    },
+    {
+     "title": "生命值低·Ⅰ",
+     "text": "嗚……有點痛……"
+    },
+    {
+     "title": "生命值低·Ⅱ",
+     "text": "令人討厭的感覺……"
+    },
+    {
+     "title": "恢復生命·Ⅰ",
+     "text": "才不會那麼輕易地退場！"
+    },
+    {
+     "title": "恢復生命·Ⅱ",
+     "text": "哼，我可不止這個程度！"
+    },
+    {
+     "title": "力竭·Ⅰ",
+     "text": "……怎麼會……"
+    },
+    {
+     "title": "力竭·Ⅱ",
+     "text": "……果然……"
+    },
+    {
+     "title": "力竭·Ⅲ",
+     "text": "……你……竟敢……"
+    },
+    {
+     "title": "擊敗怪物·Ⅰ",
+     "text": "有倒楣鬼被砸扁囉~"
+    },
+    {
+     "title": "擊敗怪物·Ⅱ",
+     "text": "輕輕鬆鬆~"
+    },
+    {
+     "title": "普通受擊·Ⅰ",
+     "text": "有一手嘛！"
+    },
+    {
+     "title": "普通受擊·Ⅱ",
+     "text": "給我等著！"
+    },
+    {
+     "title": "重受擊·Ⅰ",
+     "text": "唔……我要砸扁你！（吃掉！）"
+    },
+    {
+     "title": "重受擊·Ⅱ",
+     "text": "……你會後悔的！"
+    },
+    {
+     "title": "上陣·Ⅰ",
+     "text": "一起去大鬧一場吧！"
+    },
+    {
+     "title": "上陣·Ⅱ",
+     "text": "鬼郎丸，這下允許你盡情的吃。"
+    },
+    {
+     "title": "協同技·Ⅰ",
+     "text": "起飛囉！"
+    },
+    {
+     "title": "協同技·Ⅱ",
+     "text": "看這邊！"
+    },
+    {
+     "title": "協同技·Ⅲ",
+     "text": "鬼郎丸衝擊~"
+    },
+    {
+     "title": "滑翔·Ⅰ",
+     "text": "慢吞吞的……"
+    },
+    {
+     "title": "滑翔·Ⅱ",
+     "text": "鬼郎丸別亂動，掉下去了我可不管！"
+    },
+    {
+     "title": "切換·Ⅰ",
+     "text": "讓一讓——"
+    },
+    {
+     "title": "切換·Ⅱ",
+     "text": "鬼來捉人囉！"
+    },
+    {
+     "title": "切換·Ⅲ",
+     "text": "開吃~"
+    },
+    {
+     "title": "特殊切換·潯",
+     "text": "去去，讓早霧大人來！"
+    },
+    {
+     "title": "特殊切換·埃德嘉",
+     "text": "在後面做好支援就好了，呆子。"
+    },
+    {
+     "title": "特殊切換·娜娜莉",
+     "text": "好，好，一代目——"
+    },
+    {
+     "title": "特殊切換·阿德勒",
+     "text": "別總把我當小孩看。"
+    },
+    {
+     "title": "特殊切換·達芙蒂爾",
+     "text": "總算該我上了。"
+    },
+    {
+     "title": "特殊切換·零",
+     "text": "注意注意，鬼郎丸來了！"
+    },
+    {
+     "title": "隊友倒下·潯",
+     "text": "昨天喝茫了就別強撐著！"
+    },
+    {
+     "title": "隊友倒下·埃德嘉",
+     "text": "往後站點，埃德嘉！"
+    },
+    {
+     "title": "隊友倒下·娜娜莉",
+     "text": "都說了別傻傻地往前……"
+    },
+    {
+     "title": "隊友倒下·阿德勒",
+     "text": "年紀大了，就不要硬撐啦。"
+    },
+    {
+     "title": "隊友倒下·達芙蒂爾",
+     "text": "你怎麼會犯這種錯……"
+    },
+    {
+     "title": "隊友倒下·零",
+     "text": "壞傢伙，你不會以為我們鑒定師很好欺負吧？！"
+    },
+    {
+     "title": "彈反·Ⅰ",
+     "text": "早就注意到了！"
+    },
+    {
+     "title": "彈反·Ⅱ",
+     "text": "輪到我了！"
+    },
+    {
+     "title": "連續極限閃避成功·Ⅰ",
+     "text": "還沒鬼郎丸動作快。"
+    },
+    {
+     "title": "連續極限閃避成功·Ⅱ",
+     "text": "怎麼打不到呢~"
+    }
+   ]
+  }
+ }
+}

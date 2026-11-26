@@ -59,6 +59,7 @@ sources:
 | 身分 | 精英快遞員 |
 | 配音員 | 中文：洪海天；英文：Allegra Clark；日文：市ノ瀬加那；韓文：이다은 |
 | 個人檔案 | [哈索爾個人檔案](/zh-tw/characters/hathor/archive/) |
+| 語音 | [哈索爾語音](/zh-tw/characters/hathor/voice/) |
 
 ## 取得方式
 

@@ -59,6 +59,7 @@ sources:
 | 참전 | 1.2 버전, 2026-07-08 |
 | 성우 | 중국어: 唐夏芳; 영어: Anne Yatco; 일본어: 田所あずさ; 한국어: 차영희 |
 | 아카이브 | [신쿠 아카이브](/ko/characters/shinku/archive/) |
+| 보이스 | [신쿠 보이스](/ko/characters/shinku/voice/) |
 
 ## 획득 방법
 

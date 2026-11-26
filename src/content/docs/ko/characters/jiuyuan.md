@@ -57,6 +57,7 @@ sources:
 | 신분 | 스테리 정보망을 조율한다 |
 | 성우 | 중국어: 张安琪; 영어: Baraka May; 일본어: 田中理恵; 한국어: 방시우 |
 | 아카이브 | [구원 아카이브](/ko/characters/jiuyuan/archive/) |
+| 보이스 | [구원 보이스](/ko/characters/jiuyuan/voice/) |
 
 ## 획득 방법
 

@@ -72,6 +72,7 @@ sources:
 | 肩書き | 異象管理局収容2課 |
 | 声優 | 中国語：陈雨、英語：Brianna Knickerbocker、日本語：鬼頭明里、韓国語：성예원 |
 | アーカイブ | [ミントのアーカイブ](/ja/characters/mint/archive/) |
+| ボイス | [ミントのボイス](/ja/characters/mint/voice/) |
 
 ## 入手方法
 

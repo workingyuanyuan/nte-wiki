@@ -46,6 +46,7 @@ sources:
 | 身份 | 粉爪银行（新赫兰德区总部）大堂经理，员工编号 018888 |
 | 配音员 | 中文：则灵；英文：Alice Himora；日文：小原好美；韩文：권다예 |
 | 个人档案 | [小吱个人档案](/zh-cn/characters/chiz/archive/) |
+| 语音 | [小吱语音](/zh-cn/characters/chiz/voice/) |
 
 Game8 将她的技能拼为「Pink Paws Priority Principe」，Prydwen 则拼为「Pink Paws Priority Principle」。1.1 版为小吱新增了一项都市特技，可在地图上标示出所有「粉爪大劫案」藏品。
 

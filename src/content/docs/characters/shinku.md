@@ -59,6 +59,7 @@ sources:
 | Joined | Version 1.2, 2026-07-08 |
 | Voice actors | Chinese: 唐夏芳; English: Anne Yatco; Japanese: 田所あずさ; Korean: 차영희 |
 | Archive | [Shinku archive](/characters/shinku/archive/) |
+| Voice lines | [Shinku voice lines](/characters/shinku/voice/) |
 
 ## How to obtain
 

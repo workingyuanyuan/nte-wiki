@@ -60,6 +60,7 @@ sources:
 | 신분 | 에이본 골동품 가게. 이상 전투 망치 「키로마루」를 휘두른다 |
 | 성우 | 중국어: 蔡书瑾; 영어: Brianna Knickerbocker; 일본어: 伊藤美来; 한국어: 김나율 |
 | 아카이브 | [사키리 아카이브](/ko/characters/sakiri/archive/) |
+| 보이스 | [사키리 보이스](/ko/characters/sakiri/voice/) |
 
 ## 획득 방법
 

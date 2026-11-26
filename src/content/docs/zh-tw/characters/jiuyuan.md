@@ -57,6 +57,7 @@ sources:
 | 身分 | 調度斯特利的情報網絡 |
 | 配音員 | 中文：張安琪；英文：Baraka May；日文：田中理恵；韓文：방시우 |
 | 個人檔案 | [九原個人檔案](/zh-tw/characters/jiuyuan/archive/) |
+| 語音 | [九原語音](/zh-tw/characters/jiuyuan/voice/) |
 
 ## 取得方式
 

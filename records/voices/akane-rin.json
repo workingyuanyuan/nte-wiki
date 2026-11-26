@@ -1,0 +1,1667 @@
+{
+ "slug": "akane-rin",
+ "id": "1057",
+ "version": "1.5.4",
+ "sources": {
+  "en": "https://static.nanoka.cc/nte/1.5.4/en/character/1057.json",
+  "zh-cn": "https://static.nanoka.cc/nte/1.5.4/zh/character/1057.json",
+  "ja": "https://static.nanoka.cc/nte/1.5.4/ja/character/1057.json",
+  "ko": "https://static.nanoka.cc/nte/1.5.4/ko/character/1057.json",
+  "zh-tw": "https://everness.info/zh-Hant/espers/1057"
+ },
+ "reads": {
+  "zh-tw": "2026-11-25"
+ },
+ "lines": {
+  "en": {
+   "daily": [
+    {
+     "title": "First Meet",
+     "text": "Yo, Akane here. Do I even need to introduce myself? We can do everything with our band chemistry, can't we?"
+    },
+    {
+     "title": "Chat: Outfits",
+     "text": "I'm not big on fashion. I'd stick to casual wear if I didn't have to perform on stage."
+    },
+    {
+     "title": "Chat: Part-Time Work",
+     "text": "People ask all kinds of questions. Many want me to share tips for performing. Actually, there have been so many of these requests that I started asking people to buy a drink before they ask any questions. Hmm… Kiyosawa should give me a raise."
+    },
+    {
+     "title": "Chat: Headset",
+     "text": "People these days prefer wireless earphones, but I still think wired ones look and work better. Suzuha keeps making fun of me about how the headphone jack is ancient history… Is it really that bad?"
+    },
+    {
+     "title": "Sunny",
+     "text": "Nice weather. I spend too much time in StarSign. I could use some sunlight."
+    },
+    {
+     "title": "Rainy",
+     "text": "Be extra careful on rainy days. Guitar strings can rust fast."
+    },
+    {
+     "title": "Cold",
+     "text": "Brrr, so cold. Let's get hot chocolate somewhere."
+    },
+    {
+     "title": "Hot",
+     "text": "It's scorching… I'm gonna stay in a room with AC all day."
+    },
+    {
+     "title": "Morning Greeting",
+     "text": "(*Yawn*) Morning. W-What? I didn't have a secret practice session last night…!"
+    },
+    {
+     "title": "Noon Greeting",
+     "text": "I don't wanna eat at work today. Let's go grab something better. My treat."
+    },
+    {
+     "title": "Evening Greeting",
+     "text": "Ahhh, another workday has passed. Should I give myself a treat?"
+    },
+    {
+     "title": "Good Night",
+     "text": "Good night. Don't use your phone too much before you sleep."
+    },
+    {
+     "title": "Hobbies",
+     "text": "My hobbies besides music? Umm… does scrolling Bagel count? Or zoning out under the stars? Kiyosawa asked me the same thing, wants me to get other hobbies. But honestly, just listening to music and playing the guitar is enough for me."
+    },
+    {
+     "title": "Worries",
+     "text": "One day it's a cool new effects pedal, the next it's a new album. You can't save Fons being in a band. I've been living paycheck to paycheck for a long time now."
+    },
+    {
+     "title": "Topic: My First Guitar",
+     "text": "My first guitar… was from my dad when I graduated from elementary school. I keep it in good shape. It still plays. Every now and then, I take it out and run through some basic scales."
+    },
+    {
+     "title": "Topic: Off the Clock",
+     "text": "Oh, are you also into efficient living? Basically, you only do things you have to, and even for those things, keep it simple. Work wears me out every day. Where would I find the energy to go out? Way better to head home early, crank up the AC, and scroll Bagel. Kids these days just don't know how good this lifestyle is."
+    },
+    {
+     "title": "Topic: School Days",
+     "text": "My student days? Let me think… I basically put everything into the band. People these days probably would have called me a slacker of a student. Though I heard back then half the girls in school were fans of mine… no idea if that's actually true."
+    },
+    {
+     "title": "About Myself: Esper Abilities",
+     "text": "When I have strong feelings, white stars fly out from my fingertips the moment I pluck the strings. Pretty cool, right? As for how it works… I have no idea, and I don't care to find out. Anyway, think about it. I basically have built-in special effects when I'm totally into the performance. The effects are unreal."
+    },
+    {
+     "title": "About Myself: Stars",
+     "text": "I'm no astronomy geek but I love looking at stars. I like quietly watching them fill up the night sky. When my mind's a mess, I look up at the open sky… and knowing all that starlight traveled unimaginable distances just to reach us, that thought calms me down every time."
+    },
+    {
+     "title": "About Myself: \"One-Girl Band\"",
+     "text": "I'm a one-person band…? That's a stretch. You heard that from Aurelia or Suzuha, didn't you? Well, it's true that I've systematically learned all the essential band instruments. As a kid, it was because I loved how they sounded. After starting a band, it was more to understand what everyone was doing, so we could get through any rough patches together… That's how you keep a band in tune."
+    },
+    {
+     "title": "About Aurelia",
+     "text": "Aurelia's always been the thoughtful, gentle one, both in and out of the band. Without her, we'd have lost half our stuff: be it the tuner I left in the practice room or the jacket Suzuha left in the car. Back then, she handled most of the band's logistics. Now when I run into her working on Tamamochi Street, she's just as careful and just as focused. She's still the old Aurelia. Never changed a bit."
+    },
+    {
+     "title": "About \"THE WHOOTS!!!!\"",
+     "text": "\"A noisy Owly, a loud kitty; less a band, more a circus.\" That was my first thought when Haniel said she wanted to start a band. Pfft… never thought we'd actually pull it off, let alone do successful live gigs. I guess that's what a band is—a place where any dream, no matter how ridiculous, comes true."
+    },
+    {
+     "title": "Character Ascension I",
+     "text": "Scale ascending!"
+    },
+    {
+     "title": "Character Ascension II",
+     "text": "Let's keep the jam going."
+    },
+    {
+     "title": "Character Ascension III",
+     "text": "Time for a new song."
+    },
+    {
+     "title": "Gift Received I",
+     "text": "How should I return the favor…? This is tough… but I promise I'll get you something you like."
+    },
+    {
+     "title": "Gift Received II",
+     "text": "Such a precious gift. I'll keep it safe in my display case."
+    },
+    {
+     "title": "Gift Received III",
+     "text": "For me? Thanks. I like it a lot."
+    },
+    {
+     "title": "Gift Received IV",
+     "text": "Free drink on me for your next visit to StarSign."
+    }
+   ],
+   "battle": [
+    {
+     "title": "Redirect Skill I",
+     "text": "Louder!"
+    },
+    {
+     "title": "Redirect Skill II",
+     "text": "Feel the beat!"
+    },
+    {
+     "title": "Redirect Skill III",
+     "text": "Rock and roll!"
+    },
+    {
+     "title": "Ultimate I",
+     "text": "Spotlight's on me, and I'm taking it!"
+    },
+    {
+     "title": "Ultimate II",
+     "text": "The stage is ready. Let the stars shine!"
+    },
+    {
+     "title": "Ultimate III",
+     "text": "How about a show that never ends?"
+    },
+    {
+     "title": "Containment I",
+     "text": "A new fan."
+    },
+    {
+     "title": "Containment II",
+     "text": "You like music too?"
+    },
+    {
+     "title": "Nullification I",
+     "text": "Show's over. Let's pack it up!"
+    },
+    {
+     "title": "Nullification II",
+     "text": "Whew… reminds me of the old days."
+    },
+    {
+     "title": "Unexpected Gains I",
+     "text": "Sometimes lucky."
+    },
+    {
+     "title": "Unexpected Gains II",
+     "text": "Good stuff. It's mine now."
+    },
+    {
+     "title": "Unexpected Gains III",
+     "text": "It's good to go out sometimes."
+    },
+    {
+     "title": "Unexpected Gains IV",
+     "text": "I'll keep it safe."
+    },
+    {
+     "title": "Unexpected Gains V",
+     "text": "The little things in life."
+    },
+    {
+     "title": "Unexpected Gains VI",
+     "text": "Inspirations for my new album."
+    },
+    {
+     "title": "Low Health I",
+     "text": "Just a little longer…"
+    },
+    {
+     "title": "Low Health II",
+     "text": "My voice… got weaker…"
+    },
+    {
+     "title": "Low Health III",
+     "text": "Need a break…"
+    },
+    {
+     "title": "Heal I",
+     "text": "Back to the stage!"
+    },
+    {
+     "title": "Heal II",
+     "text": "Feeling better."
+    },
+    {
+     "title": "Down I",
+     "text": "My song… isn't over yet…"
+    },
+    {
+     "title": "Down II",
+     "text": "The stars dimmed…"
+    },
+    {
+     "title": "Down III",
+     "text": "Leaving the stage… again?"
+    },
+    {
+     "title": "Takedown I",
+     "text": "This song's for you."
+    },
+    {
+     "title": "Takedown II",
+     "text": "The show's over."
+    },
+    {
+     "title": "Damaged I",
+     "text": "Gotta be careful."
+    },
+    {
+     "title": "Damaged II",
+     "text": "It's not that bad."
+    },
+    {
+     "title": "Heavily Damaged I",
+     "text": "Tch, it stings."
+    },
+    {
+     "title": "Heavily Damaged II",
+     "text": "Went off-key."
+    },
+    {
+     "title": "Deploy I",
+     "text": "The show is on!"
+    },
+    {
+     "title": "Deploy II",
+     "text": "A round of applause?"
+    },
+    {
+     "title": "Entry Attack I",
+     "text": "Time for a variation!"
+    },
+    {
+     "title": "Entry Attack II",
+     "text": "Perfect cue!"
+    },
+    {
+     "title": "Entry Attack III",
+     "text": "Right on time."
+    },
+    {
+     "title": "Glide I",
+     "text": "Can I touch the stars?"
+    },
+    {
+     "title": "Glide II",
+     "text": "I can glide anywhere."
+    },
+    {
+     "title": "Switch I",
+     "text": "Here's my solo!"
+    },
+    {
+     "title": "Switch II",
+     "text": "Can't wait."
+    },
+    {
+     "title": "Switch III",
+     "text": "Let's rock!"
+    },
+    {
+     "title": "Special Switch: Aurelia",
+     "text": "Just like old times, my friend."
+    },
+    {
+     "title": "Special Switch - Nanally",
+     "text": "My solo's over. Keep the beat."
+    },
+    {
+     "title": "Special Switch - Zero",
+     "text": "Best partners!"
+    },
+    {
+     "title": "Special Switch - Haniel",
+     "text": "I'll handle this rift."
+    },
+    {
+     "title": "Teammate Down: Aurelia",
+     "text": "I won't let it happen again."
+    },
+    {
+     "title": "Teammate Down - Nanally",
+     "text": "Great performance. Take five."
+    },
+    {
+     "title": "Teammate Down - Zero",
+     "text": "Take it easy. We need every band member."
+    },
+    {
+     "title": "Teammate Down - Haniel",
+     "text": "Get some rest. I'll take over."
+    },
+    {
+     "title": "Parry I",
+     "text": "Not my tempo!"
+    },
+    {
+     "title": "Parry II",
+     "text": "Locking in!"
+    },
+    {
+     "title": "Consecutive Critical Dodge Success I",
+     "text": "Are you gonna be on my time?"
+    },
+    {
+     "title": "Consecutive Critical Dodge Success II",
+     "text": "Not quite on pitch."
+    }
+   ]
+  },
+  "zh-cn": {
+   "daily": [
+    {
+     "title": "初次见面",
+     "text": "呦~我是明音。自我介绍之类的话就不必多说了吧？以我们在乐队中的默契配合，不论做什么都不成问题。对吧？"
+    },
+    {
+     "title": "闲聊·穿搭",
+     "text": "我对穿搭没什么讲究。如果不是要上台演出的话，平时我还是喜欢休闲的衣服。"
+    },
+    {
+     "title": "闲聊·打工",
+     "text": "在这里经常会有人来打听各种各样的问题，还有向我请教演奏技巧的。由于人太多了，所以后来我就要求至少消费一杯饮料后再提问。嗯……清泽真应该给我涨工资的。"
+    },
+    {
+     "title": "闲聊·耳机",
+     "text": "虽然现在大家都用无线耳机，但我还是觉得有线的又好用又好看。只不过铃羽吐槽说手机自带的耳机线接口已经是上古时代的产物了……真的有这么夸张吗？"
+    },
+    {
+     "title": "大晴天",
+     "text": "天气真不错。一直在StarSign里待着，也该出来晒晒太阳了。"
+    },
+    {
+     "title": "雨天",
+     "text": "雨天要多加注意，琴弦是最容易生锈的。"
+    },
+    {
+     "title": "寒冷",
+     "text": "嘶~好冷。找个地方喝杯热可可吧。"
+    },
+    {
+     "title": "炎热",
+     "text": "好热……准备在空调屋里待上一整天。"
+    },
+    {
+     "title": "早上问候",
+     "text": "哈——早啊。什、什么？昨晚没有偷偷练习啊……"
+    },
+    {
+     "title": "中午问候",
+     "text": "工作餐吃腻了，出去改善改善？我请客。"
+    },
+    {
+     "title": "傍晚问候",
+     "text": "嗯啊——又是一天，下班后犒劳一下自己？"
+    },
+    {
+     "title": "晚安",
+     "text": "明天见，晚安。睡前少玩手机。"
+    },
+    {
+     "title": "爱好",
+     "text": "除了音乐之外的爱好吗？嗯……刷呗果算吗？或者在夜晚看着星星发呆？欸，之前清泽也问过这个问题，希望我能有点别的爱好。不过我确实觉得一个人听听歌、弹弹琴就挺好。"
+    },
+    {
+     "title": "烦恼",
+     "text": "今天看到一个不错的效果器，明天谁家又出了新的专辑。玩乐队一点也攒不下来钱，我已经当了很长时间的「月光族」了。"
+    },
+    {
+     "title": "话题·第一把吉他",
+     "text": "我的第一把吉他……是我爸爸在我小学毕业典礼上送的。因为保养得当，它现在还能弹呢。我偶尔会把它从柜子里拿出来，弹一弹最基础的音阶。"
+    },
+    {
+     "title": "话题·节能生活",
+     "text": "哦，你也对节能生活感兴趣吗？简单来说就是「非必要的事情不去做，必要的事情一律从简。」欸，每天上班都觉得累得不行，哪还有精力跑出去玩？不如早早回家吹着空调刷呗果。现在的年轻人就是不懂节能生活的好啊。"
+    },
+    {
+     "title": "话题·学生时代",
+     "text": "我的学生时代吗？我想想哦……大部分时间和心思都放在了乐队上面吧？以现在的眼光看，肯定会被归类为那种「不务正业」的学生。不过听说那时候全校有一半的女生都是我的粉丝……也不知道真的假的。"
+    },
+    {
+     "title": "关于自己·异能",
+     "text": "当我情绪强烈的时候，只要拨动琴弦就有白色的星星会从指尖飞出。很神奇吧？至于其中的原理嘛……搞不懂也不想懂。不过你想想看，当我在舞台上全身心投入演出的时，完全就是自带特效啊。那舞台效果，别提有多夸张了。"
+    },
+    {
+     "title": "关于自己·星星",
+     "text": "我很喜欢看星星。当然，肯定没有天文爱好者们那么专业。我只是喜欢静静地望着满天繁星在夜幕上闪烁。心烦意乱的时候，望向开阔的星空……那些星光跨越了那么遥远的距离与我们相见，一想到这，心情就会不可思议地平静下来。"
+    },
+    {
+     "title": "关于自己·「乐队全才」",
+     "text": "这说法实在是……太夸张啦。你是从海月还是铃羽那听说的吧？说我一个人能胜任乐队的所有位置什么的。的确，这些乐器我都系统地学过。小时候是出于对它们音色的喜欢，组乐队后则更是为了深入理解每个人的分工，一起克服可能会遇到的难处……这样才能协调好整个乐队吧。"
+    },
+    {
+     "title": "关于海月",
+     "text": "不论在乐队里还是生活中，海月都是一个细心又温柔的人。我丢在练习室里的调音器，铃羽落在车上的外套，没有她的话我们估计得丢不少东西。那个时候，乐队里的大部分事情也都得由她来操心。现在偶尔在玉饼街撞见她工作时的模样，还是那么细致又认真。只能说海月还是那个海月，一点都没变啊。"
+    },
+    {
+     "title": "关于「猫头音！！！！」",
+     "text": "吵闹的小鸟，聒噪的小猫，与其说是乐队，更像是不知道从哪来的马戏团。哈尼娅说要组建乐队时，我的第一反应就是这个。噗……没想到最后竟然真的成了，还成功地举办了live。所以乐队就是这样一个地方啊，不论多么不可思议的梦想都能实现的地方。"
+    },
+    {
+     "title": "角色突破·Ⅰ",
+     "text": "上行音阶！"
+    },
+    {
+     "title": "角色突破·Ⅱ",
+     "text": "继续我们的合奏吧。"
+    },
+    {
+     "title": "角色突破·Ⅲ",
+     "text": "该写一首新曲子了。"
+    },
+    {
+     "title": "收到赠礼·Ⅰ",
+     "text": "让我好好考虑回礼……！遇上难题了呀……但我保证你一定会喜欢的。"
+    },
+    {
+     "title": "收到赠礼·Ⅱ",
+     "text": "这么珍贵的礼物，会放到我的陈列柜里好好保管的。"
+    },
+    {
+     "title": "收到赠礼·Ⅲ",
+     "text": "给我的？谢谢。我很喜欢。"
+    },
+    {
+     "title": "收到赠礼·IV",
+     "text": "下次去StarSign的时候，请你喝一杯。"
+    }
+   ],
+   "battle": [
+    {
+     "title": "变轨技能·Ⅰ",
+     "text": "再响亮些！"
+    },
+    {
+     "title": "变轨技能·Ⅱ",
+     "text": "感受音乐的律动！"
+    },
+    {
+     "title": "变轨技能·Ⅲ",
+     "text": "Rock and Roll！"
+    },
+    {
+     "title": "极轨终结·Ⅰ",
+     "text": "绝佳的演出机会，可不能浪费了啊！"
+    },
+    {
+     "title": "极轨终结·Ⅱ",
+     "text": "舞台搭建完毕，让星星们闪耀起来吧！"
+    },
+    {
+     "title": "极轨终结·Ⅲ",
+     "text": "来一场永不停歇的演出，如何？"
+    },
+    {
+     "title": "收容异象·Ⅰ",
+     "text": "新的听众。"
+    },
+    {
+     "title": "收容异象·Ⅱ",
+     "text": "你也喜欢音乐吗？"
+    },
+    {
+     "title": "泯除异象·Ⅰ",
+     "text": "演出结束，收工！"
+    },
+    {
+     "title": "泯除异象·Ⅱ",
+     "text": "呼……想起以前的日子了。"
+    },
+    {
+     "title": "意外收获·Ⅰ",
+     "text": "运气不错嘛。"
+    },
+    {
+     "title": "意外收获·Ⅱ",
+     "text": "好东西，收起来吧。"
+    },
+    {
+     "title": "意外收获·Ⅲ",
+     "text": "出来转转还是有收获的。"
+    },
+    {
+     "title": "意外收获·Ⅳ",
+     "text": "会妥善保管的。"
+    },
+    {
+     "title": "意外收获·Ⅴ",
+     "text": "生活中的小惊喜。"
+    },
+    {
+     "title": "意外收获·Ⅵ",
+     "text": "新专辑，有指望了。"
+    },
+    {
+     "title": "生命值低·Ⅰ",
+     "text": "再坚持一会……"
+    },
+    {
+     "title": "生命值低·Ⅱ",
+     "text": "声音……变弱了。"
+    },
+    {
+     "title": "生命值低·Ⅲ",
+     "text": "需要休整……"
+    },
+    {
+     "title": "恢复生命·Ⅰ",
+     "text": "重返舞台！"
+    },
+    {
+     "title": "恢复生命·Ⅱ",
+     "text": "状态回来了。"
+    },
+    {
+     "title": "力竭·Ⅰ",
+     "text": "曲子……还没演完……"
+    },
+    {
+     "title": "力竭·Ⅱ",
+     "text": "星星黯淡了……"
+    },
+    {
+     "title": "力竭·Ⅲ",
+     "text": "就这样……离开舞台吗？"
+    },
+    {
+     "title": "击败怪物·Ⅰ",
+     "text": "这首送你了。"
+    },
+    {
+     "title": "击败怪物·Ⅱ",
+     "text": "该散场了。"
+    },
+    {
+     "title": "普通受击·Ⅰ",
+     "text": "要小心些了。"
+    },
+    {
+     "title": "普通受击·Ⅱ",
+     "text": "还好还好。"
+    },
+    {
+     "title": "重受击·Ⅰ",
+     "text": "嘶~有点痛。"
+    },
+    {
+     "title": "重受击·Ⅱ",
+     "text": "走音了呀。"
+    },
+    {
+     "title": "上阵·Ⅰ",
+     "text": "演出开始！"
+    },
+    {
+     "title": "上阵·Ⅱ",
+     "text": "来点掌声吧？"
+    },
+    {
+     "title": "协同技·Ⅰ",
+     "text": "该变奏了！"
+    },
+    {
+     "title": "协同技·Ⅱ",
+     "text": "完美的切入！"
+    },
+    {
+     "title": "协同技·Ⅲ",
+     "text": "时机正好。"
+    },
+    {
+     "title": "滑翔·Ⅰ",
+     "text": "能摸到星星吗？"
+    },
+    {
+     "title": "滑翔·Ⅱ",
+     "text": "好像可以飞到任何地方。"
+    },
+    {
+     "title": "切换·Ⅰ",
+     "text": "solo时间！"
+    },
+    {
+     "title": "切换·Ⅱ",
+     "text": "等不及上场了。"
+    },
+    {
+     "title": "切换·Ⅲ",
+     "text": "一起摇滚！"
+    },
+    {
+     "title": "特殊切换·海月",
+     "text": "就像过去那样，海月。"
+    },
+    {
+     "title": "特殊切换·娜娜莉",
+     "text": "独奏结束，保持好节奏。"
+    },
+    {
+     "title": "特殊切换·零",
+     "text": "最佳拍档！"
+    },
+    {
+     "title": "特殊切换·哈尼娅",
+     "text": "这段高难度的就让我来吧。"
+    },
+    {
+     "title": "队友倒下·海月",
+     "text": "不会重蹈覆辙了。"
+    },
+    {
+     "title": "队友倒下·娜娜莉",
+     "text": "演出辛苦了，休息一下吧。"
+    },
+    {
+     "title": "队友倒下·零",
+     "text": "别硬撑，我们乐队可一个人也不能少。"
+    },
+    {
+     "title": "队友倒下·哈尼娅",
+     "text": "先去休息，换你明音姐来。"
+    },
+    {
+     "title": "弹反·Ⅰ",
+     "text": "跟紧节拍！"
+    },
+    {
+     "title": "弹反·Ⅱ",
+     "text": "找准鼓点！"
+    },
+    {
+     "title": "连续极限闪避成功·Ⅰ",
+     "text": "跟得上我的节奏吗？"
+    },
+    {
+     "title": "连续极限闪避成功·Ⅱ",
+     "text": "音感不是很准呢。"
+    }
+   ]
+  },
+  "ja": {
+   "daily": [
+    {
+     "title": "初対面",
+     "text": "どうも、明音です…いまさら自己紹介とか、いらないよね？うちらの息ピッタリなセッションがあれば…どんなトラブルも、余裕でしょ。"
+    },
+    {
+     "title": "雑談-着こなし",
+     "text": "洋服とか、特にこだわりはないよ。ステージ衣装じゃない時は…とりあえず、ラフで動きやすいのが一番ね。"
+    },
+    {
+     "title": "雑談-バイト",
+     "text": "ここで働いてると、演奏のコツとかめっちゃ聞かれるの。めんどくさいから、「質問はドリンク一杯頼んでから」ってルールにした。\n…マジで、清沢は私の給料上げるべきだよね。"
+    },
+    {
+     "title": "雑談-イヤホン",
+     "text": "最近はみんなワイヤレスだけど、私は断然「有線」派。だって使いやすいし、見た目もいいし…でもこないだ、鈴羽に「イヤホンジャックとか太古の遺物じゃん」って笑われてさ…そこまで言う？"
+    },
+    {
+     "title": "快晴",
+     "text": "いい天気…たまにはスターサイン以外のとこ行って、ちょっとは光合成しないとね。"
+    },
+    {
+     "title": "雨",
+     "text": "…雨か。ちゃんと手入れしないと、すぐ弦がサビちゃうんだよね。"
+    },
+    {
+     "title": "寒い",
+     "text": "さむっ…ねえ、どっか入って温かいココアでも飲む？"
+    },
+    {
+     "title": "灼熱",
+     "text": "暑い…今日はもう、部屋から一歩も動かないから。"
+    },
+    {
+     "title": "朝の挨拶",
+     "text": "ふぁぁ…おはよ…な、なに？昨日の夜こっそり練習とか…してないから。"
+    },
+    {
+     "title": "昼の挨拶",
+     "text": "お店のまかないも飽きたし…どっか美味しいものでも食べ行かない？おごるよ。"
+    },
+    {
+     "title": "夕方の挨拶",
+     "text": "んーっ…今日もお疲れさま。自分に、なんかご褒美でも買って帰る？"
+    },
+    {
+     "title": "おやすみ",
+     "text": "また明日、おやすみ…寝る前のスマホ、ほどほどにしなよ。"
+    },
+    {
+     "title": "趣味",
+     "text": "音楽以外の趣味って、うーん…「ベーグル」とかアリ？あとは…ぼーっと星空眺めることとか。清沢にも「もっと別の趣味持てば？」って言われたけどさ。私、一人で音楽聴いて、ギター弾いてるだけで…十分満足なんだよね。"
+    },
+    {
+     "title": "悩み",
+     "text": "今日、良さげなエフェクター見つけたと思ったら、明日は誰かの新譜が出て…マジで、バンドやってると全然お金貯まんないのよね。もう「万年金欠」状態だよ。"
+    },
+    {
+     "title": "話題-最初のギター",
+     "text": "私の最初のギター…小学校の卒業式で、父さんがくれたやつなんだ。ちゃんと手入れしてるから、今でも現役で弾けるよ。たまにケースから出して、基本のスケールとか弾いてるし。"
+    },
+    {
+     "title": "話題-省エネ",
+     "text": "へぇ、あなたも「省エネ生活」に興味あるの？…まあ基本は、「無駄な体力は使わない、必要なことだけ手短に」だよ。休みの日は、クーラー効かせた部屋で、ダラダラ過ごすのが一番なの…だってさ、ただでさえ仕事でクタクタなのに、外で体力使うなんてコスパ悪すぎでしょ？ホント…今の若者は元気だよねぇ。"
+    },
+    {
+     "title": "話題-学生時代",
+     "text": "私の学生時代？うーん…青春のほぼ全部バンドに注いでたからな…普通に「落ちこぼれ」だったよ？でも噂じゃ、女子生徒の半分が私のファンだったらしい…ホントかどうかは知らないけど。"
+    },
+    {
+     "title": "自分について-異能",
+     "text": "私ね、テンション上がると、弦を鳴らすだけで、指先から「白い星」が弾けるんだ…理屈とかは、どうでもいいの。ただ、ステージでバチバチに演奏入り込んでる時、自分からエフェクト出せるってヤバくない？あれ、最高のステージ演出になるんだよね。"
+    },
+    {
+     "title": "自分について-星々",
+     "text": "私、星を見るのが大好きなんだ。星座に詳しいとかじゃなくて、ただボーッと夜空を眺めてるのが好き。気分が沈んだ時、満天の星を見上げて…「何光年も旅してきた光が、今やっと見えてるんだな」って考えるとさ…なんか不思議と、心が落ち着くんだよね"
+    },
+    {
+     "title": "自分について-「マルチプレイヤー」",
+     "text": "いくらなんでも、大袈裟だっての。海月か鈴羽から聞いたんでしょ？私が全パートこなせるって話…まあ、ひと通り鳴らせるのは本当だよ。全ポジションの気持ち、ちゃんと分かっておきたかったの。じゃないと、バンドなんて上手くまとまんないからさ。"
+    },
+    {
+     "title": "海月について",
+     "text": "海月ってさ…ほんと、気が利くっていうか、お人好しっていうか。私がスタジオに忘れたチューナーとか、鈴羽が車に脱ぎ捨てた上着とか…いつも文句ひとつ言わずに回収してくれてさ。あの頃からずっと、バンドの面倒事、ほとんどあの子が被ってくれてたんだよね…"
+    },
+    {
+     "title": "「ネコトリ！！！！」について",
+     "text": "騒がしい小鳥に、物騒な子猫…バンドっていうか、もはやサーカス団。ハニアが「バンド組もう！」って言い出した時、マジでそう思ったよ…ぷっ。まさか、本当に形になって…ライブまで成功させちゃうなんてね。でも…バンドって、そういう場所なんだよ。どんなにあり得ない夢でも…絶対に叶うって、信じられる場所なんだ。"
+    },
+    {
+     "title": "キャラ突破Ⅰ",
+     "text": "上昇スケールだ！"
+    },
+    {
+     "title": "キャラ突破Ⅱ",
+     "text": "私たちのステージ、続けよっか。"
+    },
+    {
+     "title": "キャラ突破Ⅲ",
+     "text": "…うん、いい曲書けそう。"
+    },
+    {
+     "title": "届けられたギフトⅠ",
+     "text": "お返し、どうしよっか…けっこう難題。でも…絶対気に入るやつ、選ぶからね。"
+    },
+    {
+     "title": "届けられたギフトⅡ",
+     "text": "素敵なプレゼントだね。ありがとう、大事にコレクションしとく。"
+    },
+    {
+     "title": "届けられたギフトⅢ",
+     "text": "私に？…ありがと。けっこう好きだよ、こういうの。"
+    },
+    {
+     "title": "届けられたギフトⅣ",
+     "text": "今度スターサインに来たとき、一杯おごるね。"
+    }
+   ],
+   "battle": [
+    {
+     "title": "バイレールスキルⅠ",
+     "text": "もっと響かせて！"
+    },
+    {
+     "title": "バイレールスキルⅡ",
+     "text": "ビートを感じて！"
+    },
+    {
+     "title": "バイレールスキルⅢ",
+     "text": "ロックンロール！"
+    },
+    {
+     "title": "EXレール終結Ⅰ",
+     "text": "チャンス！最高のライブにするよ！"
+    },
+    {
+     "title": "EXレール終結Ⅱ",
+     "text": "星たちを、最高に輝かせよ！"
+    },
+    {
+     "title": "EXレール終結Ⅲ",
+     "text": "終わりのないライブなんて、どう？"
+    },
+    {
+     "title": "異象収容Ⅰ",
+     "text": "新規ファン獲得~。"
+    },
+    {
+     "title": "異象収容Ⅱ",
+     "text": "あなたも、音楽好きなの？"
+    },
+    {
+     "title": "異象排除Ⅰ",
+     "text": "はい、終演。お疲れさま！"
+    },
+    {
+     "title": "異象排除Ⅱ",
+     "text": "…なんか、昔のこと思い出しちゃった。"
+    },
+    {
+     "title": "意外な収穫Ⅰ",
+     "text": "…うん。ツイてるね。"
+    },
+    {
+     "title": "意外な収穫Ⅱ",
+     "text": "けっこうイイモノじゃない？"
+    },
+    {
+     "title": "意外な収穫Ⅲ",
+     "text": "たまには散歩してみるもんだね。"
+    },
+    {
+     "title": "意外な収穫Ⅳ",
+     "text": "大事に取っておくね。"
+    },
+    {
+     "title": "意外な収穫Ⅴ",
+     "text": "サプライズの気分。"
+    },
+    {
+     "title": "意外な収穫Ⅵ",
+     "text": "新アルバムの軍資金にしよ。"
+    },
+    {
+     "title": "低HPⅠ",
+     "text": "…まだ、イケる…！"
+    },
+    {
+     "title": "低HPⅡ",
+     "text": "音が…聞こえない…"
+    },
+    {
+     "title": "低HPⅢ",
+     "text": "立て直さないと…"
+    },
+    {
+     "title": "HP回復Ⅰ",
+     "text": "アンコール、ありがと！"
+    },
+    {
+     "title": "HP回復Ⅱ",
+     "text": "調子戻ってきた。"
+    },
+    {
+     "title": "力尽きⅠ",
+     "text": "まだ…曲が、終わってないのに…"
+    },
+    {
+     "title": "力尽きⅡ",
+     "text": "星が…見えない…"
+    },
+    {
+     "title": "力尽きⅢ",
+     "text": "このまま…ステージ、降りるの…？"
+    },
+    {
+     "title": "敵を撃破Ⅰ",
+     "text": "この曲、あなたに捧げる！"
+    },
+    {
+     "title": "敵を撃破Ⅱ",
+     "text": "さあ…終演の時間だよ！"
+    },
+    {
+     "title": "ダメージを受ける（通常）Ⅰ",
+     "text": "…っと、気をつけないとね。"
+    },
+    {
+     "title": "ダメージを受ける（通常）Ⅱ",
+     "text": "っ…あぶなっ。"
+    },
+    {
+     "title": "大打撃Ⅰ",
+     "text": "くっ…痛い…！"
+    },
+    {
+     "title": "大打撃Ⅱ",
+     "text": "っ…音、外しちゃった。"
+    },
+    {
+     "title": "出撃Ⅰ",
+     "text": "ワン、ツー！"
+    },
+    {
+     "title": "出撃Ⅱ",
+     "text": "もっと拍手！"
+    },
+    {
+     "title": "コンビスキルⅠ",
+     "text": "転調するよ！"
+    },
+    {
+     "title": "コンビスキルⅡ",
+     "text": "パーフェクト！"
+    },
+    {
+     "title": "コンビスキルⅢ",
+     "text": "ナイスタイミング！"
+    },
+    {
+     "title": "滑空Ⅰ",
+     "text": "…星に、届くかな。"
+    },
+    {
+     "title": "滑空Ⅱ",
+     "text": "どこへでも飛んでいけそう。"
+    },
+    {
+     "title": "切替Ⅰ",
+     "text": "ここから私のソロ！"
+    },
+    {
+     "title": "切替Ⅱ",
+     "text": "もう、待ちきれないよ。"
+    },
+    {
+     "title": "切替Ⅲ",
+     "text": "…最高にロックにいくよ！"
+    },
+    {
+     "title": "特殊切替・海月",
+     "text": "昔みたいにね、海月！"
+    },
+    {
+     "title": "特殊切替・ナナリ",
+     "text": "ソロ終わり、あとはリズムよろしく。"
+    },
+    {
+     "title": "特殊切替・零",
+     "text": "さすが、最高の相棒！"
+    },
+    {
+     "title": "特殊切替・ハニア",
+     "text": "難しいパートは、私に任せて。"
+    },
+    {
+     "title": "仲間気絶・海月",
+     "text": "同じ失敗は…もうしない。"
+    },
+    {
+     "title": "仲間気絶・ナナリ",
+     "text": "お疲れさま。少し、休んでて。"
+    },
+    {
+     "title": "仲間気絶・零",
+     "text": "うちのバンド、一人でも欠けたらダメなんだからね。"
+    },
+    {
+     "title": "仲間気絶・ハニア",
+     "text": "ここは、アカ姉に任せなさい。"
+    },
+    {
+     "title": "パリィⅠ",
+     "text": "テンポ、ついてきて！"
+    },
+    {
+     "title": "パリィⅡ",
+     "text": "ビート合わせて！"
+    },
+    {
+     "title": "連続極限回避成功Ⅰ",
+     "text": "…私のリズムに、ついてこられる？"
+    },
+    {
+     "title": "連続極限回避成功Ⅱ",
+     "text": "…ピッチが甘いよ。"
+    }
+   ]
+  },
+  "ko": {
+   "daily": [
+    {
+     "title": "첫 만남",
+     "text": "반가워~ 아카네야. 자기소개는 이 정도로 충분하지? 밴드할 때도 호흡이 잘 맞았으니까, 이제 뭘 하든 잘 맞을 거야. 안 그래?"
+    },
+    {
+     "title": "대화·옷차림",
+     "text": "옷에는 별로 신경 쓰는 편이 아니야. 공연할 때가 아니면 평소엔 편하게 입는 걸 좋아해."
+    },
+    {
+     "title": "대화·아르바이트",
+     "text": "여긴 이것저것 물어보러 오는 사람이 너무 많아. 심지어 연주 팁도 물어본다니까. 사람이 너무 몰려서 음료라도 주문하고 물어보라고 한 적도 있어. 하아… 기요사와는 나한테 돈 더 줘야 해."
+    },
+    {
+     "title": "대화·이어폰",
+     "text": "요즘은 다 무선 이어폰을 쓰지만 나는 아직 유선 이어폰이 편하고 예쁜 것 같아. 근데 스즈하가 핸드폰 이어폰 단자는 이제 구닥다리 유물이라고 하더라… 정말 그 정도야?"
+    },
+    {
+     "title": "맑은 날",
+     "text": "날씨 좋다. 계속 StarSign 안에만 있었으니 밖에 나가서 햇볕도 좀 쫴야지."
+    },
+    {
+     "title": "비 오는 날",
+     "text": "비 오는 날엔 더 조심해야 돼. 기타 줄이 녹슬기 쉽거든."
+    },
+    {
+     "title": "추운 날",
+     "text": "씁~ 너무 추운데? 핫초코나 마시러 가자."
+    },
+    {
+     "title": "더운 날",
+     "text": "너무 더운데… 에어컨 있는 방에 하루 종일 틀어박혀 있어야지."
+    },
+    {
+     "title": "아침 인사",
+     "text": "하암~ 좋은 아침. 무, 무슨 소리야? 어제 몰래 연습 안 했어…"
+    },
+    {
+     "title": "점심 인사",
+     "text": "직원식은 이제 질렸어. 외식 갈래? 내가 살게."
+    },
+    {
+     "title": "저녁 인사",
+     "text": "후암~ 오늘 하루도 끝이다. 퇴근했으니 맛있는 거라도 먹을까?"
+    },
+    {
+     "title": "취침 인사",
+     "text": "내일 보자. 잘 자. 자기 전에 휴대폰은 자제하고."
+    },
+    {
+     "title": "취미",
+     "text": "음악 외의 취미? 흠… 베이글 보기도 되나? 아니면 밤에 별 보면서 멍때리기? 아, 전에 기요사와도 물어본 적 있어. 나한테 다른 취미도 만들어보래. 그래도 난 혼자 노래 듣고, 연주하는 게 제일 좋아."
+    },
+    {
+     "title": "고민",
+     "text": "오늘은 꽤 괜찮은 이펙터가 눈에 들어오고, 내일은 또 새 앨범이 나오고. 밴드 하다 보면 돈을 모을 수가 없다니까. 「월급 보릿고개」를 겪은 게 한두 번이 아니야."
+    },
+    {
+     "title": "주제·첫 기타",
+     "text": "내 첫 번째 기타는… 아빠가 초등학교 졸업 선물로 사준 거야. 관리를 잘해둬서 지금도 연주할 수 있어. 가끔 꺼내서 기본 스케일을 쳐보곤 해."
+    },
+    {
+     "title": "주제·에너지 절약",
+     "text": "오? 너도 에너지 절약에 관심 있어? 간단히 말하면 「쓸데없는 일은 하지 않고, 해야 할 일도 최대한 간단하게 처리한다」는 거야. 에휴, 매일 출근하는 것만으로도 피곤해 죽겠는데, 나가서 놀기는 무슨. 일찍 집에 가서 에어컨 바람 쐬면서 베이글이나 보는 게 낫지. 요즘 젊은 사람들은 에너지 절약의 좋은 점을 모른다니까."
+    },
+    {
+     "title": "주제·학창 시절",
+     "text": "내 학창 시절? 어디 보자… 거의 모든 시간과 에너지를 밴드에 쏟았던 것 같은데? 지금 생각해 보면 분명 「공부는 뒷전」인 학생이었지. 그래도 그때는 학교 여학생 절반이 내 팬이었다는데… 뭐, 진짜인지는 모르겠지만."
+    },
+    {
+     "title": "자신·이능력에 관해",
+     "text": "감정이 벅차오를 때 줄을 튕기면, 손끝에서 흰 별이 튀어나와. 신기하지? 원리는… 나도 잘 모르고, 굳이 알고 싶지도 않아. 그래도 생각해 봐. 무대 위에서 완전히 몰입해서 연주하면 이런 특수효과가 나온다니! 무대 효과로는 이만한 게 없지."
+    },
+    {
+     "title": "자신에 관해·별",
+     "text": "나는 별 보는 걸 좋아해. 물론 천문학 매니아처럼 본격적이진 않아. 그냥 밤하늘에 가득한 반짝이는 별을 조용히 바라보는 게 좋아. 마음이 복잡할 때 넓은 하늘을 바라보면… 저 별들이 그렇게 먼 거리를 건너 우릴 만나러 왔다는 생각이 들거든? 그 순간 이상하리만큼 마음이 편안해져."
+    },
+    {
+     "title": "자신에 관해·「만능 밴드맨」",
+     "text": "그 말은 좀… 과장됐는데… 우미츠키나 스즈하한테 들은 거지? 내가 혼자서 밴드의 모든 역할을 다 맡을 수 있다는 그 얘기 말이야. 그래, 악기들을 이것저것 다 배워보긴 했지. 어렸을 때는 악기 소리가 좋아서 배웠고, 밴드를 결성한 후에는 팀원들이 맡은 역할을 더 잘 이해하고 싶어서 배운 거야. 그래야 어려운 일이 생겨도 같이 해결할 수 있고… 더 좋은 밴드를 만들 수 있을 것 같았거든."
+    },
+    {
+     "title": "우미츠키에 관해",
+     "text": "밴드 활동을 할 때나 평소에나 우미츠키는 세심하고 다정한 애야. 내가 연습실에 두고 온 튜너나 스즈하가 차에 두고 내린 재킷도 다 챙겨줬어. 우미츠키가 없었으면 잃어버린 게 한두 개가 아니었을 거야. 그때도 밴드 일은 웬만하면 다 우미츠키가 챙겼어. 요즘도 비취 거리에서 일하는 우미츠키를 가끔 마주치는데 여전히 꼼꼼하고 성실하더라. 역시 우미츠키야, 하나도 안 변했어."
+    },
+    {
+     "title": "「냥만 부엉이!!!!」에 관해",
+     "text": "시끄러운 짹짹이랑 야옹이까지… 밴드라기보단 무슨 브레멘 음악대에 가깝지 않나? 이게 하니엘이 밴드를 만들자고 했을 때 제일 먼저 든 생각이었어. 풉… 그런데 진짜로 밴드가 결성되고 라이브 공연까지 성공적으로 해낼 줄이야. 역시 밴드란 그런 곳인가 봐. 아무리 터무니없는 꿈이라도, 함께라면 현실로 만들 수 있는 곳."
+    },
+    {
+     "title": "캐릭터 돌파·Ⅰ",
+     "text": "상행 스케일이네!"
+    },
+    {
+     "title": "캐릭터 돌파·Ⅱ",
+     "text": "합주를 이어가자고."
+    },
+    {
+     "title": "캐릭터 돌파·Ⅲ",
+     "text": "새로운 곡을 써야겠어."
+    },
+    {
+     "title": "선물 수령·Ⅰ",
+     "text": "답례는 좀 고민해 볼게…! 쉽지 않겠지만… 그래도 네가 분명 마음에 들어 할 거야."
+    },
+    {
+     "title": "선물 수령·Ⅱ",
+     "text": "이런 귀한 선물은 내 진열장에 고이 모셔둘게."
+    },
+    {
+     "title": "선물 수령·Ⅲ",
+     "text": "나한테 주는 거야? 고마워. 마음에 들어."
+    },
+    {
+     "title": "선물 수령·IV",
+     "text": "다음에 StarSign에 가면 내가 한잔 살게."
+    }
+   ],
+   "battle": [
+    {
+     "title": "바이레일 스킬·Ⅰ",
+     "text": "더 크게 질러!"
+    },
+    {
+     "title": "바이레일 스킬·Ⅱ",
+     "text": "그루브를 느껴봐!"
+    },
+    {
+     "title": "바이레일 스킬·Ⅲ",
+     "text": "Rock and Roll!"
+    },
+    {
+     "title": "울티메이트·Ⅰ",
+     "text": "이런 끝내주는 무대를 놓칠 순 없지!"
+    },
+    {
+     "title": "울티메이트·Ⅱ",
+     "text": "세팅 완료! 별빛처럼 화려하게 가보자!"
+    },
+    {
+     "title": "울티메이트·Ⅲ",
+     "text": "영원히 끝나지 않는 논스톱 라이브는 어때?"
+    },
+    {
+     "title": "이상 수용·Ⅰ",
+     "text": "새로운 관객이네."
+    },
+    {
+     "title": "이상 수용·Ⅱ",
+     "text": "너도 음악 좋아해?"
+    },
+    {
+     "title": "이상 제거·Ⅰ",
+     "text": "공연 끝, 퇴근이다!"
+    },
+    {
+     "title": "이상 제거·Ⅱ",
+     "text": "후… 예전 생각 나네."
+    },
+    {
+     "title": "뜻밖의 수확·Ⅰ",
+     "text": "운이 좋네."
+    },
+    {
+     "title": "뜻밖의 수확·Ⅱ",
+     "text": "좋은데? 잘 챙겨두자."
+    },
+    {
+     "title": "뜻밖의 수확·Ⅲ",
+     "text": "나와서 돌아다닌 보람이 있네."
+    },
+    {
+     "title": "뜻밖의 수확·Ⅳ",
+     "text": "소중히 잘 보관할게."
+    },
+    {
+     "title": "뜻밖의 수확·Ⅴ",
+     "text": "이런 게 일상의 소소한 즐거움이지."
+    },
+    {
+     "title": "뜻밖의 수확·Ⅵ",
+     "text": "새 앨범 말이야. 살 수 있겠네."
+    },
+    {
+     "title": "HP 낮음·Ⅰ",
+     "text": "조금만 더 버티자…"
+    },
+    {
+     "title": "HP 낮음·Ⅱ",
+     "text": "음악 소리가… 작아졌네."
+    },
+    {
+     "title": "HP 낮음·Ⅲ",
+     "text": "재정비가 필요해…"
+    },
+    {
+     "title": "HP 회복·Ⅰ",
+     "text": "무대로 컴백!"
+    },
+    {
+     "title": "HP 회복·Ⅱ",
+     "text": "컨디션 회복됐다."
+    },
+    {
+     "title": "탈진·Ⅰ",
+     "text": "곡이… 아직 안 끝났는데…"
+    },
+    {
+     "title": "탈진·Ⅱ",
+     "text": "별이 흐려졌어…"
+    },
+    {
+     "title": "탈진·Ⅲ",
+     "text": "이렇게… 무대를 떠나야 한다고?"
+    },
+    {
+     "title": "몬스터 처치·Ⅰ",
+     "text": "이건 너를 위한 곡이야."
+    },
+    {
+     "title": "몬스터 처치·Ⅱ",
+     "text": "공연은 끝났어."
+    },
+    {
+     "title": "일반 피격·Ⅰ",
+     "text": "이제 좀 조심해야겠어."
+    },
+    {
+     "title": "일반 피격·Ⅱ",
+     "text": "윽, 별거 아냐."
+    },
+    {
+     "title": "심각한 피해·Ⅰ",
+     "text": "씁~ 아픈데?"
+    },
+    {
+     "title": "심각한 피해·Ⅱ",
+     "text": "삑사리 났잖아."
+    },
+    {
+     "title": "출전·Ⅰ",
+     "text": "공연 시작!"
+    },
+    {
+     "title": "출전·Ⅱ",
+     "text": "박수 좀 쳐줄래?"
+    },
+    {
+     "title": "협동기·Ⅰ",
+     "text": "비트 체인지!"
+    },
+    {
+     "title": "협동기·Ⅱ",
+     "text": "나이스 타이밍!"
+    },
+    {
+     "title": "협동기·Ⅲ",
+     "text": "바로 지금이야."
+    },
+    {
+     "title": "글라이딩·Ⅰ",
+     "text": "별에 닿을 수 있을까?"
+    },
+    {
+     "title": "글라이딩·Ⅱ",
+     "text": "어디든 날아갈 수 있을 것 같아."
+    },
+    {
+     "title": "전환·Ⅰ",
+     "text": "솔로 타임!"
+    },
+    {
+     "title": "전환·Ⅱ",
+     "text": "빨리 무대에 서고 싶어."
+    },
+    {
+     "title": "전환·Ⅲ",
+     "text": "이게 록이지!"
+    },
+    {
+     "title": "특수 전환·우미츠키",
+     "text": "예전처럼 연주하자, 우미츠키."
+    },
+    {
+     "title": "특수 전환·나나리",
+     "text": "솔로 끝, 박자 놓치지 마."
+    },
+    {
+     "title": "특수 전환·제로",
+     "text": "역시 환상의 콤비야!"
+    },
+    {
+     "title": "특수 전환·하니엘",
+     "text": "어려운 파트는 내가 할게."
+    },
+    {
+     "title": "팀원 쓰러짐·우미츠키",
+     "text": "같은 실수를 반복하지 않을 거야."
+    },
+    {
+     "title": "팀원 쓰러짐·나나리",
+     "text": "공연 수고했어. 잠시 쉬고 있어."
+    },
+    {
+     "title": "팀원 쓰러짐·제로",
+     "text": "무리하지 마. 우리 밴드는 한 명도 빠지면 안 돼."
+    },
+    {
+     "title": "팀원 쓰러짐·하니엘",
+     "text": "이 아카네 언니한테 맡기고 먼저 쉬어."
+    },
+    {
+     "title": "패링·Ⅰ",
+     "text": "박자 놓치지 마!"
+    },
+    {
+     "title": "패링·Ⅱ",
+     "text": "바로 이 비트야!"
+    },
+    {
+     "title": "연속 극한 회피 성공·Ⅰ",
+     "text": "내 리듬을 따라올 수 있겠어?"
+    },
+    {
+     "title": "연속 극한 회피 성공·Ⅱ",
+     "text": "음감이 좀 별론데."
+    }
+   ]
+  },
+  "zh-tw": {
+   "daily": [
+    {
+     "title": "初次見面",
+     "text": "喲~我是明音。自我介紹之類的話就不必多說了吧？以我們在樂隊中的默契配合，不論做什麼都不成問題。對吧？"
+    },
+    {
+     "title": "閒聊·穿搭",
+     "text": "我對穿搭沒什麼講究。如果不是要上台演出的話，平時我還是喜歡休閒的衣服。"
+    },
+    {
+     "title": "閒聊·打工",
+     "text": "在這裡經常會有人來打聽各式各樣的問題，還有向我請教演奏技巧的。由於人太多了，所以後來我就要求至少消費一杯飲料後再提問。嗯……清澤真應該給我加薪的。"
+    },
+    {
+     "title": "閒聊·耳機",
+     "text": "雖然現在大家都用無線耳機，但我還是覺得有線的又好用又好看。只不過鈴羽吐槽說手機自帶的耳機線介面已經是上古時代的產物了……真的有這麼誇張嗎？"
+    },
+    {
+     "title": "大晴天",
+     "text": "天氣真不錯。一直在StarSign裡待著，也該出來曬曬太陽了。"
+    },
+    {
+     "title": "雨天",
+     "text": "雨天要多加注意，琴弦是最容易生銹的。"
+    },
+    {
+     "title": "寒冷",
+     "text": "嘶~好冷。找個地方喝杯熱可可吧。"
+    },
+    {
+     "title": "炎熱",
+     "text": "好熱……準備在冷氣房裡待上一整天。"
+    },
+    {
+     "title": "早上問候",
+     "text": "哈——早啊。什、什麼？昨晚沒有偷偷練習啊……"
+    },
+    {
+     "title": "中午問候",
+     "text": "工作餐吃膩了，出去換換口味？我請客。"
+    },
+    {
+     "title": "傍晚問候",
+     "text": "嗯啊——又是一天，下班後犒賞一下自己？"
+    },
+    {
+     "title": "晚安",
+     "text": "明天見，晚安。睡前少玩手機。"
+    },
+    {
+     "title": "愛好",
+     "text": "除了音樂之外的愛好嗎？嗯……刷唄果算嗎？或者在夜晚看著星星發呆？欸，之前清澤也問過這個問題，希望我能有點別的愛好。不過我確實覺得一個人聽聽歌、彈彈琴就挺好。"
+    },
+    {
+     "title": "煩惱",
+     "text": "今天看到一個不錯的效果器，明天誰家又出了新的專輯。玩樂隊一點也存不下來錢，我已經當了很長時間的「月光族」了。"
+    },
+    {
+     "title": "話題·第一把吉他",
+     "text": "我的第一把吉他……是我爸爸在我小學畢業典禮上送的。因為保養得當，它現在還能彈呢。我偶爾會把它從櫃子裡拿出來，彈一彈最基礎的音階。"
+    },
+    {
+     "title": "話題·節能生活",
+     "text": "哦，你也對節能生活感興趣嗎？簡單來說就是「非必要的事情不去做，必要的事情一律從簡。」欸，每天上班都覺得累得不行，哪還有精力跑出去玩？不如早早回家吹著冷氣刷唄果。現在的年輕人就是不懂節能生活的好啊。"
+    },
+    {
+     "title": "話題·學生時代",
+     "text": "我的學生時代嗎？我想想哦……大部分時間和心思都放在了樂隊上面吧？以現在的眼光看，肯定會被歸類為那種「不務正業」的學生。不過聽說那時候全校有一半的女生都是我的粉絲……也不知道真的假的。"
+    },
+    {
+     "title": "關於自己·異能",
+     "text": "當我情緒強烈的時候，只要撥動琴弦就有白色的星星會從指尖飛出。很神奇吧？至於其中的原理嘛……搞不懂也不想懂。不過你想想看，當我在舞台上全身心投入演出的時，完全就是自帶特效啊。那舞台效果，別提有多誇張了。"
+    },
+    {
+     "title": "關於自己·星星",
+     "text": "我很喜歡看星星。當然，肯定沒有天文愛好者們那麼專業。我只是喜歡靜靜地望著滿天繁星在夜幕上閃爍。心煩意亂的時候，望向開闊的星空……那些星光跨越了那麼遙遠的距離與我們相見，一想到這，心情就會不可思議地平靜下來。"
+    },
+    {
+     "title": "關於自己·「樂隊全才」",
+     "text": "這說法實在是……太誇張啦。你是從海月還是鈴羽那聽說的吧？說我一個人能勝任樂隊的所有位置什麼的。的確，這些樂器我都系統地學過。小時候是出於對它們音色的喜歡，組樂隊後則更是為了深入理解每個人的分工，一起克服可能會遇到的難處……這樣才能協調好整個樂隊吧。"
+    },
+    {
+     "title": "關於海月",
+     "text": "不論在樂隊裡還是生活中，海月都是一個細心又溫柔的人。我丟在練習室裡的調音器，鈴羽落在車上的外套，沒有她的話我們估計得丟不少東西。那個時候，樂隊裡的大部分事情也都得由她來操心。現在偶爾在玉餅街撞見她工作時的模樣，還是那麼細緻又認真。只能說海月還是那個海月，一點都沒變啊。"
+    },
+    {
+     "title": "關於「貓頭音！！！！」",
+     "text": "吵鬧的小鳥，聒噪的小貓，與其說是樂隊，更像是不知道從哪來的馬戲團。哈尼婭說要組建樂隊時，我的第一反應就是這個。噗……沒想到最後竟然真的成了，還成功地舉辦了live。所以樂隊就是這樣一個地方啊，不論多麼不可思議的夢想都能實現的地方。"
+    },
+    {
+     "title": "角色突破·Ⅰ",
+     "text": "上行音階！"
+    },
+    {
+     "title": "角色突破·Ⅱ",
+     "text": "繼續我們的合奏吧。"
+    },
+    {
+     "title": "角色突破·Ⅲ",
+     "text": "該寫一首新曲子了。"
+    },
+    {
+     "title": "收到贈禮·Ⅰ",
+     "text": "讓我好好考慮回禮……！遇上難題了呀……但我保證你一定會喜歡的。"
+    },
+    {
+     "title": "收到贈禮·Ⅱ",
+     "text": "這麼珍貴的禮物，會放到我的陳列櫃裡好好保管的。"
+    },
+    {
+     "title": "收到贈禮·Ⅲ",
+     "text": "給我的？謝謝。我很喜歡。"
+    },
+    {
+     "title": "收到贈禮·IV",
+     "text": "下次去StarSign的時候，請你喝一杯。"
+    }
+   ],
+   "battle": [
+    {
+     "title": "變軌技能·Ⅰ",
+     "text": "再響亮些！"
+    },
+    {
+     "title": "變軌技能·Ⅱ",
+     "text": "感受音樂的律動！"
+    },
+    {
+     "title": "變軌技能·Ⅲ",
+     "text": "Rock and Roll！"
+    },
+    {
+     "title": "極軌終結·Ⅰ",
+     "text": "絕佳的演出機會，可不能浪費了啊！"
+    },
+    {
+     "title": "極軌終結·Ⅱ",
+     "text": "舞台搭建完畢，讓星星們閃耀起來吧！"
+    },
+    {
+     "title": "極軌終結·Ⅲ",
+     "text": "來一場永不停歇的演出，如何？"
+    },
+    {
+     "title": "收容異象·Ⅰ",
+     "text": "新的聽眾。"
+    },
+    {
+     "title": "收容異象·Ⅱ",
+     "text": "你也喜歡音樂嗎？"
+    },
+    {
+     "title": "泯除異象·Ⅰ",
+     "text": "演出結束，收工！"
+    },
+    {
+     "title": "泯除異象·Ⅱ",
+     "text": "呼……想起以前的日子了。"
+    },
+    {
+     "title": "意外收穫·Ⅰ",
+     "text": "運氣不錯嘛。"
+    },
+    {
+     "title": "意外收穫·Ⅱ",
+     "text": "好東西，收起來吧。"
+    },
+    {
+     "title": "意外收穫·Ⅲ",
+     "text": "出來繞繞還是有收穫的。"
+    },
+    {
+     "title": "意外收穫·Ⅳ",
+     "text": "會妥善保管的。"
+    },
+    {
+     "title": "意外收穫·Ⅴ",
+     "text": "生活中的小驚喜。"
+    },
+    {
+     "title": "意外收穫·Ⅵ",
+     "text": "新專輯，有指望了。"
+    },
+    {
+     "title": "生命值低·Ⅰ",
+     "text": "再堅持一下……"
+    },
+    {
+     "title": "生命值低·Ⅱ",
+     "text": "聲音……變弱了。"
+    },
+    {
+     "title": "生命值低·Ⅲ",
+     "text": "需要休息……"
+    },
+    {
+     "title": "恢復生命·Ⅰ",
+     "text": "重返舞台！"
+    },
+    {
+     "title": "恢復生命·Ⅱ",
+     "text": "狀態回來了。"
+    },
+    {
+     "title": "力竭·Ⅰ",
+     "text": "曲子……還沒演完……"
+    },
+    {
+     "title": "力竭·Ⅱ",
+     "text": "星星黯淡了……"
+    },
+    {
+     "title": "力竭·Ⅲ",
+     "text": "就這樣……離開舞台嗎？"
+    },
+    {
+     "title": "擊敗怪物·Ⅰ",
+     "text": "這首送你了。"
+    },
+    {
+     "title": "擊敗怪物·Ⅱ",
+     "text": "該散場了。"
+    },
+    {
+     "title": "普通受擊·Ⅰ",
+     "text": "要小心點了。"
+    },
+    {
+     "title": "普通受擊·Ⅱ",
+     "text": "還好還好。"
+    },
+    {
+     "title": "重受擊·Ⅰ",
+     "text": "嘶~有點痛。"
+    },
+    {
+     "title": "重受擊·Ⅱ",
+     "text": "走音了呀。"
+    },
+    {
+     "title": "上陣·Ⅰ",
+     "text": "演出開始！"
+    },
+    {
+     "title": "上陣·Ⅱ",
+     "text": "來點掌聲吧？"
+    },
+    {
+     "title": "協同技·Ⅰ",
+     "text": "該變奏了！"
+    },
+    {
+     "title": "協同技·Ⅱ",
+     "text": "完美的切入！"
+    },
+    {
+     "title": "協同技·Ⅲ",
+     "text": "時機正好。"
+    },
+    {
+     "title": "滑翔·Ⅰ",
+     "text": "能摸到星星嗎？"
+    },
+    {
+     "title": "滑翔·Ⅱ",
+     "text": "好像可以飛到任何地方。"
+    },
+    {
+     "title": "切換·Ⅰ",
+     "text": "solo時間！"
+    },
+    {
+     "title": "切換·Ⅱ",
+     "text": "等不及上場了。"
+    },
+    {
+     "title": "切換·Ⅲ",
+     "text": "一起搖滾！"
+    },
+    {
+     "title": "特殊切換·海月",
+     "text": "就像過去那樣，海月。"
+    },
+    {
+     "title": "特殊切換·娜娜莉",
+     "text": "獨奏結束，保持好節奏。"
+    },
+    {
+     "title": "特殊切換·零",
+     "text": "最佳拍檔！"
+    },
+    {
+     "title": "特殊切換·哈尼婭",
+     "text": "這段高難度的就讓我來吧。"
+    },
+    {
+     "title": "隊友倒下·海月",
+     "text": "不會重蹈覆轍了。"
+    },
+    {
+     "title": "隊友倒下·娜娜莉",
+     "text": "演出辛苦了，休息一下吧。"
+    },
+    {
+     "title": "隊友倒下·零",
+     "text": "別硬撐，我們樂隊可一個人也不能少。"
+    },
+    {
+     "title": "隊友倒下·哈尼婭",
+     "text": "先去休息，換你明音姐來。"
+    },
+    {
+     "title": "彈反·Ⅰ",
+     "text": "跟緊節拍！"
+    },
+    {
+     "title": "彈反·Ⅱ",
+     "text": "找准鼓點！"
+    },
+    {
+     "title": "連續極限閃避成功·Ⅰ",
+     "text": "跟得上我的節奏嗎？"
+    },
+    {
+     "title": "連續極限閃避成功·Ⅱ",
+     "text": "音感不是很準呢。"
+    }
+   ]
+  }
+ }
+}

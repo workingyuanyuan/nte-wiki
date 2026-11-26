@@ -45,6 +45,7 @@ sources:
 | 참전 | 1.0 버전 |
 | 성우 | 중국어: 葛子瑞; 영어: Kira Buckland; 일본어: 高橋花林; 한국어: 정해은 |
 | 아카이브 | [우미츠키 아카이브](/ko/characters/aurelia/archive/) |
+| 보이스 | [우미츠키 보이스](/ko/characters/aurelia/voice/) |
 
 Game8은 두 스킬을 "Capella", "Canon Chorus"로, Prydwen은 "Cappella", "Canzon Chorus"로 표기한다. 우미츠키의 인연 레벨 상한은 2026-10-21에 10으로 올랐다.
 

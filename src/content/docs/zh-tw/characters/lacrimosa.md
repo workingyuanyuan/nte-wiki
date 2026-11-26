@@ -60,6 +60,7 @@ sources:
 | 身分 | E.T.D 四隊成員 |
 | 配音員 | 中文：宴寧；英文：Baraka May；日文：長縄まりあ；韓文：김보나 |
 | 個人檔案 | [安魂曲個人檔案](/zh-tw/characters/lacrimosa/archive/) |
+| 語音 | [安魂曲語音](/zh-tw/characters/lacrimosa/voice/) |
 
 ## 取得方式
 

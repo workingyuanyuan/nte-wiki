@@ -59,6 +59,7 @@ sources:
 | 加入版本 | 1.2 版，2026-07-08 |
 | 配音員 | 中文：唐夏芳；英文：Anne Yatco；日文：田所あずさ；韓文：차영희 |
 | 個人檔案 | [真紅個人檔案](/zh-tw/characters/shinku/archive/) |
+| 語音 | [真紅語音](/zh-tw/characters/shinku/voice/) |
 
 ## 取得方式
 

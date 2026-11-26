@@ -54,6 +54,7 @@ sources:
 | 신분 | 이난나의 양녀이자 경호원, 「주홍글씨」의 암살자. 이능력은 「혹란의 눈」 |
 | 성우 | 중국어: 陈婷婷; 영어: Stephanie Wong; 일본어: 井上喜久子; 한국어: 허예은 |
 | 아카이브 | [잔홍 아카이브](/ko/characters/zankou/archive/) |
+| 보이스 | [잔홍 보이스](/ko/characters/zankou/voice/) |
 
 ## 획득 방법
 

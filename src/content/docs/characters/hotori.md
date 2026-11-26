@@ -60,6 +60,7 @@ sources:
 | Role | Owner of the Eibon Antique Shop |
 | Voice actors | Chinese: 杜晴晴; English: Lindsay Sheppard; Japanese: 伊藤静; Korean: 이지현 |
 | Archive | [Hotori archive](/characters/hotori/archive/) |
+| Voice lines | [Hotori voice lines](/characters/hotori/voice/) |
 
 ## How to obtain
 

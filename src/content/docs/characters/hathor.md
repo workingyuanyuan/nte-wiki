@@ -59,6 +59,7 @@ sources:
 | Role | Elite courier |
 | Voice actors | Chinese: 洪海天; English: Allegra Clark; Japanese: 市ノ瀬加那; Korean: 이다은 |
 | Archive | [Hathor archive](/characters/hathor/archive/) |
+| Voice lines | [Hathor voice lines](/characters/hathor/voice/) |
 
 ## How to obtain
 

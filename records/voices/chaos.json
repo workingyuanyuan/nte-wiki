@@ -1,0 +1,1747 @@
+{
+ "slug": "chaos",
+ "id": "1071",
+ "version": "1.5.4",
+ "sources": {
+  "en": "https://static.nanoka.cc/nte/1.5.4/en/character/1071.json",
+  "zh-cn": "https://static.nanoka.cc/nte/1.5.4/zh/character/1071.json",
+  "ja": "https://static.nanoka.cc/nte/1.5.4/ja/character/1071.json",
+  "ko": "https://static.nanoka.cc/nte/1.5.4/ko/character/1071.json",
+  "zh-tw": "https://everness.info/zh-Hant/espers/1071"
+ },
+ "reads": {
+  "zh-tw": "2026-11-25"
+ },
+ "lines": {
+  "en": {
+   "daily": [
+    {
+     "title": "First Meet",
+     "text": "Greetings. This is Chaos from ETD-6. Pleasure to meet you. I'm looking forward to… Hey, I'm just trying to be formal, stop laughing!"
+    },
+    {
+     "title": "Chat: Mask",
+     "text": "Why am I wearing a mask? I tell people I want to be more efficient in combat. But the real reason… are you sure you want to know? Well, I think it looks cool. Okay, stop staring at me like that. I really think it's cool…"
+    },
+    {
+     "title": "Chat: Troubling thing",
+     "text": "Is the mission a lot of trouble? No need to be concerned. As long as you sort things out one at a time, you'll be able to succeed. This belief helped me do many things that seemed impossible at first, except for… well, never mind."
+    },
+    {
+     "title": "Chat: Hound",
+     "text": "I don't have a pet dog, but if you mean a \"hound,\" then that's my Esper Ability. Hmm, maybe having a real dog as a pet would be nice…"
+    },
+    {
+     "title": "Sunny",
+     "text": "My mood is as sunny as the sunshine!"
+    },
+    {
+     "title": "Rainy",
+     "text": "Got an umbrella? Do you need my coat?"
+    },
+    {
+     "title": "Cold",
+     "text": "Is it cold? You're shaking."
+    },
+    {
+     "title": "Hot",
+     "text": "I'm evaporating!"
+    },
+    {
+     "title": "Morning Greeting",
+     "text": "Good morning! A brand new day begins!"
+    },
+    {
+     "title": "Noon Greeting",
+     "text": "It's time for a decision. What should I get for lunch?"
+    },
+    {
+     "title": "Evening Greeting",
+     "text": "(Yawn)… I'm sleepy."
+    },
+    {
+     "title": "Good Night",
+     "text": "Good night. Sleep early, grow taller."
+    },
+    {
+     "title": "Hobbies",
+     "text": "Tetrominoes is so fun! I love it when the lines all vanish!"
+    },
+    {
+     "title": "Worries",
+     "text": "Phones these days are too complicated. I just need a phone that can call, text, and… oh, play Tetrominoes!"
+    },
+    {
+     "title": "Topic: Scar",
+     "text": "The body's self-healing powers are limited. It won't heal when it suffers too much damage. Such a shame."
+    },
+    {
+     "title": "Topic: Weapon",
+     "text": "I can use my abilities to create weapons with simple structures like swords and blades, but guns are tricky. It's not like I can't, but I'll have to remember all the components… Fine, I can't."
+    },
+    {
+     "title": "Topic: Fortelling",
+     "text": "I spent a few years in a place far from the city, where people lived by the \"will of God.\" The will of God was always right, because people could always find a way to interpret it as right. Prophecies are much the same. If you find a good interpretation, then believe in it."
+    },
+    {
+     "title": "About Myself: Esper Abilities",
+     "text": "My ability? It's shaping a mass of smoke from who knows where into all kinds of forms. Pretty pathetic compared to those that can change the course of nature, right? But because of that, I learned to rely on myself to get things done. That's not so bad!"
+    },
+    {
+     "title": "About Myself: Origins",
+     "text": "In a small seaside town far away, a baby was born. He didn't know it then, but 27 years later, he'd grow into a 27-year-old fellow… What? I didn't say anything wrong, did I?"
+    },
+    {
+     "title": "About Myself: Farewell",
+     "text": "Not to brag, but I've probably said my goodbyes more times than you've said good morning. Drifting out at sea, I'd always think the world has no real limits, so maybe the people I said goodbye to… I'll meet again."
+    },
+    {
+     "title": "About Exe",
+     "text": "The Captain only appears to be gloomy. He's actually a really good guy. When I first arrived, I didn't know how to use a smartphone. He walked me through it step by step. If he hadn't checked for me, I'd have woken up to 100 alarms on the next day. Just thinking about it gives me the chills!"
+    },
+    {
+     "title": "About Elyms",
+     "text": "I've always had the feeling that he… was somebody that I used to know. I just couldn't figure out who he was. I asked him once whether he'd ever gone out to sea with me a few years ago. All he said was: \"Have I?\" I was dumbfounded. How can anyone forget that?"
+    },
+    {
+     "title": "About Linko",
+     "text": "I don't know what's going on in Linko's brain. Well, that's not important. If you're looking for a person or an anomaly, you can simply trust her intuitions. The only problem is, she often finds herself in strange places. It's the same problem a little friend of mine had. Though frankly speaking, my friend is not as bright as Linko…"
+    },
+    {
+     "title": "About Daffodill",
+     "text": "Daffodill blames herself too much, even for things out of her own control… She's impressive. She grew up in a less-than-ideal environment, but managed to stay kindhearted. The owner of Eibon… must be a great influence for her."
+    },
+    {
+     "title": "About Zankou",
+     "text": "She's strange. Almost as strange as criminals on Ghroth Island. To be precise, she belongs there."
+    },
+    {
+     "title": "About Ghroth Island",
+     "text": "At Ghroth Island… I worked, trained, honed my intuition into a technique, and learned how to tell good from evil. I appreciate them letting me stay there. Other than that, I don't have much personal feelings."
+    },
+    {
+     "title": "About ETD-6",
+     "text": "I can feel that ETD-6 isn't that unified of a team. Everyone has their own issues. Well, this isn't something I can ask of them. I just need them to do their jobs."
+    },
+    {
+     "title": "Character Ascension I",
+     "text": "Aha! My body is feeling stronger!"
+    },
+    {
+     "title": "Character Ascension II",
+     "text": "My spirits are high! Well, I can do even better."
+    },
+    {
+     "title": "Character Ascension III",
+     "text": "Haha, I can finally give it my all!"
+    },
+    {
+     "title": "Gift Received I",
+     "text": "Woah, this is for me? Are you sure? You're too kind!"
+    },
+    {
+     "title": "Gift Received II",
+     "text": "Oooh! I've always wanted this. Thanks a bunch!"
+    },
+    {
+     "title": "Gift Received III",
+     "text": "Thanks a lot!"
+    },
+    {
+     "title": "Gift Received IV",
+     "text": "Is this for me? Thanks!"
+    }
+   ],
+   "battle": [
+    {
+     "title": "Redirect Skill I",
+     "text": "Give up already!"
+    },
+    {
+     "title": "Redirect Skill II",
+     "text": "Tindalos!"
+    },
+    {
+     "title": "Redirect Skill III",
+     "text": "Target confirmed."
+    },
+    {
+     "title": "Ultimate I",
+     "text": "Evil must be ended…!"
+    },
+    {
+     "title": "Ultimate II",
+     "text": "I'll cleanse it all!"
+    },
+    {
+     "title": "Ultimate III",
+     "text": "I'll… take care of the damage done."
+    },
+    {
+     "title": "Containment I",
+     "text": "Stay here. Don't run around."
+    },
+    {
+     "title": "Containment II",
+     "text": "Haha, gotcha!"
+    },
+    {
+     "title": "Nullification I",
+     "text": "Goodbye…"
+    },
+    {
+     "title": "Nullification II",
+     "text": "Clocking out."
+    },
+    {
+     "title": "Unexpected Gains I",
+     "text": "What's this? It seems rare."
+    },
+    {
+     "title": "Unexpected Gains II",
+     "text": "Oho, nice stuff!"
+    },
+    {
+     "title": "Unexpected Gains III",
+     "text": "Oooh, and what's this?"
+    },
+    {
+     "title": "Unexpected Gains IV",
+     "text": "Find something good."
+    },
+    {
+     "title": "Unexpected Gains V",
+     "text": "Let's take it away!"
+    },
+    {
+     "title": "Unexpected Gains VI",
+     "text": "This can be useful, right?"
+    },
+    {
+     "title": "Low Health I",
+     "text": "Hmm… this is harder than I expected."
+    },
+    {
+     "title": "Low Health II",
+     "text": "Damn, this is tough."
+    },
+    {
+     "title": "Low Health III",
+     "text": "Huff… huff…"
+    },
+    {
+     "title": "Heal I",
+     "text": "Woah, feeling better."
+    },
+    {
+     "title": "Heal II",
+     "text": "Thanks, that helped!"
+    },
+    {
+     "title": "Down I",
+     "text": "Farewell…"
+    },
+    {
+     "title": "Down II",
+     "text": "Is this the end of the journey…?"
+    },
+    {
+     "title": "Down III",
+     "text": "I'll be on my way."
+    },
+    {
+     "title": "Takedown I",
+     "text": "Take a good nap."
+    },
+    {
+     "title": "Takedown II",
+     "text": "Stop being a bad guy."
+    },
+    {
+     "title": "Damaged I",
+     "text": "That hurts."
+    },
+    {
+     "title": "Damaged II",
+     "text": "Interesting."
+    },
+    {
+     "title": "Heavily Damaged I",
+     "text": "I can't get hit for nothing…"
+    },
+    {
+     "title": "Heavily Damaged II",
+     "text": "Ugh…"
+    },
+    {
+     "title": "Deploy I",
+     "text": "My opponents usually don't end up well."
+    },
+    {
+     "title": "Deploy II",
+     "text": "Another fight. C'mon!"
+    },
+    {
+     "title": "Entry Attack I",
+     "text": "Gotcha!"
+    },
+    {
+     "title": "Entry Attack II",
+     "text": "Don't you run!"
+    },
+    {
+     "title": "Entry Attack III",
+     "text": "You're under arrest!"
+    },
+    {
+     "title": "Glide I",
+     "text": "Woohoo!"
+    },
+    {
+     "title": "Glide II",
+     "text": "Let's go!"
+    },
+    {
+     "title": "Switch I",
+     "text": "Here I am!"
+    },
+    {
+     "title": "Switch II",
+     "text": "Don't worry. It's me!"
+    },
+    {
+     "title": "Switch III",
+     "text": "Take this!"
+    },
+    {
+     "title": "Special Switch - Zero",
+     "text": "Appraiser, do you need help?"
+    },
+    {
+     "title": "Special Switch - Exe",
+     "text": "Captain, when did you come here?"
+    },
+    {
+     "title": "Special Switch - Elyms",
+     "text": "Hey, don't leave me this mess!"
+    },
+    {
+     "title": "Special Switch - Linko",
+     "text": "Little one, you can rely on others a little!"
+    },
+    {
+     "title": "Teammate Down - Exe",
+     "text": "Alright, I'll handle this."
+    },
+    {
+     "title": "Teammate Down - Elyms",
+     "text": "Is this another goodbye?"
+    },
+    {
+     "title": "Teammate Down - Linko",
+     "text": "Is this another goodbye?"
+    },
+    {
+     "title": "Parry I",
+     "text": "Let's see who's stronger!"
+    },
+    {
+     "title": "Parry II",
+     "text": "Heh, a simple attack."
+    },
+    {
+     "title": "Consecutive Critical Dodge Success I",
+     "text": "Ha, I'm feeling good."
+    },
+    {
+     "title": "Consecutive Critical Dodge Success II",
+     "text": "Hey hey, aim before you move!"
+    }
+   ]
+  },
+  "zh-cn": {
+   "daily": [
+    {
+     "title": "初次见面",
+     "text": "你好，我是E.T.D六队的卡厄斯。很高兴认识你，希望我们合作愉快……喂喂，我只是按部就班说点场面话而已，没那么好笑吧！"
+    },
+    {
+     "title": "闲聊·面罩",
+     "text": "为什么要戴面罩？呃，我对外的解释是「提高作战效率」。真正的理由？你确定要听吗？好吧……因为这样很帅。这么看着我干嘛！真的很帅啊！你不觉得吗？"
+    },
+    {
+     "title": "闲聊·麻烦事",
+     "text": "任务很麻烦？别害怕，只要一点一点地缕清头绪，事情就一定能办成。就是因为这种信念，我做成了很多看似不可能的事。唯独……算了，不提。"
+    },
+    {
+     "title": "闲聊·猎犬",
+     "text": "我没有养狗啊。如果你指的是「猎犬」，那是我的异能。不过，养条真正的狗好像也不错呢……"
+    },
+    {
+     "title": "大晴天",
+     "text": "我的心情，和阳光一样明媚！"
+    },
+    {
+     "title": "雨天",
+     "text": "带伞了吗？要不要把外套借你？"
+    },
+    {
+     "title": "寒冷",
+     "text": "怎么都在发抖？很冷吗？"
+    },
+    {
+     "title": "炎热",
+     "text": "要蒸发了！"
+    },
+    {
+     "title": "早上问候",
+     "text": "早上好！新的一天开始咯。"
+    },
+    {
+     "title": "中午问候",
+     "text": "该做决定了——午饭到底吃什么！"
+    },
+    {
+     "title": "傍晚问候",
+     "text": "哈欠……困了困了。"
+    },
+    {
+     "title": "晚安",
+     "text": "晚安，早睡早起能长高哦。"
+    },
+    {
+     "title": "爱好",
+     "text": "「泯除方块」太好玩了！看着一屏幕方块噼噼啪啪消失，心情就会变好啊~"
+    },
+    {
+     "title": "烦恼",
+     "text": "现在的手机设计得也太复杂了吧！要我说，手机只要能打电话、发短信……哦对，再加一个「泯除方块」，有这三个功能就够了！"
+    },
+    {
+     "title": "话题·伤疤",
+     "text": "身体的自愈能力是有限的，一旦超出限度，就没法恢复原样了。真遗憾啊。"
+    },
+    {
+     "title": "话题·武器",
+     "text": "我可以用异能造出刀剑之类结构简单的武器，但枪械就很难了。也不是完全没可能，只要我能记住每个部件的结构……不行，完全没可能。"
+    },
+    {
+     "title": "话题·预言",
+     "text": "我在一个远离都市的地方待过几年，在那儿，人们依靠「神的旨意」生活。神的旨意总是对的，因为人们总能想出办法把它解读成对的。预言也差不多，假如你找到了一个「好」的解读，那就相信它吧。"
+    },
+    {
+     "title": "关于自己·异能",
+     "text": "我的异能呢，就是把一团不知道哪儿来的烟雾捏成各种样子。跟那些呼风唤雨的异能比起来弱得离谱，是吧？但因为这个，我学会了靠「自己」做成更多事。也是件好事啊~"
+    },
+    {
+     "title": "关于自己·出身",
+     "text": "在一座遥远的海边小城里，一个婴儿出生了。那时他还不知道，27年后自己会成为一个27岁的青年……怎么啦，这话也挑不出毛病吧？"
+    },
+    {
+     "title": "关于自己·告别",
+     "text": "不是我吹牛啊，我告别的次数恐怕比你说「早上好」的次数还多。在海上漂来漂去的时候我总会想，天地没有真正的边界，那些已经说过再见的人，兴许还能再见。"
+    },
+    {
+     "title": "关于Exe",
+     "text": "队长只是看起来阴沉而已，其实是个很不错的家伙。我刚来的时候不太会用智能手机，全靠他一步步教我。要是没他检查，我拿到手机的第二天就要被自己设置的100个闹钟吵醒，想想就后怕啊！"
+    },
+    {
+     "title": "关于曳尔沐",
+     "text": "他……总感觉他应该是我的熟人啊，可我就是说不出他到底是谁。我有问过他，是不是在几年前跟我一起出过海，结果他就回我一句：「有没有过呢？」，搞得云里雾里的，连这种事都能记不清吗？"
+    },
+    {
+     "title": "关于灵可",
+     "text": "我搞不懂灵可的脑袋里到底在想什么。但这不重要，在找人和异象的时候，相信她的直觉准没错。稍微有点麻烦的是，她总是一不留神就跑到奇怪的地方去，像我以前另一个小不点朋友。不过，我那朋友可比她笨多了……"
+    },
+    {
+     "title": "关于达芙蒂尔",
+     "text": "达芙蒂尔对自己苛责太多，明明很多事不是她能左右的……我挺佩服她，成长在那种环境里，还能保持正直善良……那位掌柜的，想必对她影响很大吧。"
+    },
+    {
+     "title": "关于残虹",
+     "text": "难以理解的怪人……和格赫罗斯岛的一些罪犯不相上下。不如说，她本就该属于那儿。"
+    },
+    {
+     "title": "关于格赫罗斯岛",
+     "text": "格赫罗斯岛……我在那儿工作、锻炼，学会了把直觉变成技巧，也学会了分辨善恶。我很感谢他们的收留，除此之外，对那儿倒也没什么特别的感受。"
+    },
+    {
+     "title": "关于E.T.D六队",
+     "text": "我能感觉到，六队并不像一个真正的团队那样团结一心，每个人都有自己的心事。唉，这也没法强求，只要不影响执行任务就行了。"
+    },
+    {
+     "title": "角色突破·Ⅰ",
+     "text": "哦哦，身体更有劲了！"
+    },
+    {
+     "title": "角色突破·Ⅱ",
+     "text": "精神焕发！不过，感觉还有提升空间啊~"
+    },
+    {
+     "title": "角色突破·Ⅲ",
+     "text": "哈哈，终于可以使出全力了！"
+    },
+    {
+     "title": "收到赠礼·Ⅰ",
+     "text": "哇，这个给我，你确定？太好了吧！"
+    },
+    {
+     "title": "收到赠礼·Ⅱ",
+     "text": "哦哦，我一直想要这个！多谢你了！"
+    },
+    {
+     "title": "收到赠礼·Ⅲ",
+     "text": "多谢你咯！"
+    },
+    {
+     "title": "收到赠礼·IV",
+     "text": "给我的吗？谢啦！"
+    }
+   ],
+   "battle": [
+    {
+     "title": "变轨技能·Ⅰ",
+     "text": "别挣扎了！"
+    },
+    {
+     "title": "变轨技能·Ⅱ",
+     "text": "廷达罗斯！"
+    },
+    {
+     "title": "变轨技能·Ⅲ",
+     "text": "目标确认。"
+    },
+    {
+     "title": "极轨终结·Ⅰ",
+     "text": "罪恶必须终结……！"
+    },
+    {
+     "title": "极轨终结·Ⅱ",
+     "text": "由我来扫清……！"
+    },
+    {
+     "title": "极轨终结·Ⅲ",
+     "text": "后果……我来承担。"
+    },
+    {
+     "title": "收容异象·Ⅰ",
+     "text": "乖乖在这儿待着，别乱跑。"
+    },
+    {
+     "title": "收容异象·Ⅱ",
+     "text": "哈哈，抓到你了。"
+    },
+    {
+     "title": "泯除异象·Ⅰ",
+     "text": "……再见。"
+    },
+    {
+     "title": "泯除异象·Ⅱ",
+     "text": "收工。"
+    },
+    {
+     "title": "意外收获·Ⅰ",
+     "text": "这是什么？看着还挺少见的？"
+    },
+    {
+     "title": "意外收获·Ⅱ",
+     "text": "嚯，好东西。"
+    },
+    {
+     "title": "意外收获·Ⅲ",
+     "text": "哦哦，这又是什么？"
+    },
+    {
+     "title": "意外收获·Ⅳ",
+     "text": "捡到宝咯。"
+    },
+    {
+     "title": "意外收获·Ⅴ",
+     "text": "打包带走！"
+    },
+    {
+     "title": "意外收获·Ⅵ",
+     "text": "这东西能派上用场吧？"
+    },
+    {
+     "title": "生命值低·Ⅰ",
+     "text": "稍微……有点吃力啊。"
+    },
+    {
+     "title": "生命值低·Ⅱ",
+     "text": "该死，使不上力。"
+    },
+    {
+     "title": "生命值低·Ⅲ",
+     "text": "呼……呼……"
+    },
+    {
+     "title": "恢复生命·Ⅰ",
+     "text": "哦哦，感觉好多了！"
+    },
+    {
+     "title": "恢复生命·Ⅱ",
+     "text": "有精神了，谢啦！"
+    },
+    {
+     "title": "力竭·Ⅰ",
+     "text": "再见……"
+    },
+    {
+     "title": "力竭·Ⅱ",
+     "text": "旅途结束了吗……"
+    },
+    {
+     "title": "力竭·Ⅲ",
+     "text": "不用跟我道别。"
+    },
+    {
+     "title": "击败怪物·Ⅰ",
+     "text": "好好睡个觉。"
+    },
+    {
+     "title": "击败怪物·Ⅱ",
+     "text": "别再作恶了。"
+    },
+    {
+     "title": "普通受击·Ⅰ",
+     "text": "真疼啊~"
+    },
+    {
+     "title": "普通受击·Ⅱ",
+     "text": "有意思。"
+    },
+    {
+     "title": "重受击·Ⅰ",
+     "text": "这一下可不能白挨啊……"
+    },
+    {
+     "title": "重受击·Ⅱ",
+     "text": "呃。"
+    },
+    {
+     "title": "上阵·Ⅰ",
+     "text": "我的对手，下场一般都不太好。"
+    },
+    {
+     "title": "上阵·Ⅱ",
+     "text": "又要战斗了啊……来吧！"
+    },
+    {
+     "title": "协同技·Ⅰ",
+     "text": "找到你了！"
+    },
+    {
+     "title": "协同技·Ⅱ",
+     "text": "别想逃！"
+    },
+    {
+     "title": "协同技·Ⅲ",
+     "text": "束手就擒吧！"
+    },
+    {
+     "title": "滑翔·Ⅰ",
+     "text": "呜呼~"
+    },
+    {
+     "title": "滑翔·Ⅱ",
+     "text": "起航咯！"
+    },
+    {
+     "title": "切换·Ⅰ",
+     "text": "来了来了！"
+    },
+    {
+     "title": "切换·Ⅱ",
+     "text": "别担心，有我在！"
+    },
+    {
+     "title": "切换·Ⅲ",
+     "text": "接我一招！"
+    },
+    {
+     "title": "特殊切换·零",
+     "text": "鉴定师，需要帮忙吗？"
+    },
+    {
+     "title": "特殊切换·Exe",
+     "text": "队长，你什么时候来的？"
+    },
+    {
+     "title": "特殊切换·曳尔沐",
+     "text": "喂，别把麻烦丢给我啊！"
+    },
+    {
+     "title": "特殊切换·灵可",
+     "text": "小不点，记得别逞强！"
+    },
+    {
+     "title": "队友倒下·EXE",
+     "text": "好吧！帮你善后。"
+    },
+    {
+     "title": "队友倒下·曳尔沐",
+     "text": "又要说再见了？"
+    },
+    {
+     "title": "队友倒下·灵可",
+     "text": "又要说再见了？"
+    },
+    {
+     "title": "弹反·Ⅰ",
+     "text": "来比比谁的劲大！"
+    },
+    {
+     "title": "弹反·Ⅱ",
+     "text": "呵，呆板的进攻。"
+    },
+    {
+     "title": "连续极限闪避成功·Ⅰ",
+     "text": "哈，今天状态不错。"
+    },
+    {
+     "title": "连续极限闪避成功·Ⅱ",
+     "text": "喂喂，看清楚再打啊！"
+    }
+   ]
+  },
+  "ja": {
+   "daily": [
+    {
+     "title": "初対面",
+     "text": "どうも。私はE.T.D.第６小隊のカオス。よろしく頼む…っておい、マニュアル通りに挨拶しただけだろ、笑うとこじゃねえぞ！"
+    },
+    {
+     "title": "雑談-マスク",
+     "text": "このマスクか？まあ、表向きは「作戦遂行時の効率向上のため」ってことになっていて…本当の理由？マジで知りたいのか？…カッコいいからだ。おい、なんだその目は！マジでイケてんだろ！"
+    },
+    {
+     "title": "雑談-厄介事",
+     "text": "任務が面倒だと？心配すんな。手がかりを一つずつ整理すりゃ、なんとかなるもんだ。俺はそうやって、無理難題を片付けてきたからな…ただ一つ、例外を除いてな…いや、この話はやめとこう。"
+    },
+    {
+     "title": "雑談-猟犬",
+     "text": "犬は飼ってねぇよ。「猟犬」ってのは俺の異能のことだ…けどまぁ、本物の犬を飼うのも悪くねぇかもな。"
+    },
+    {
+     "title": "快晴",
+     "text": "俺の心は、この空みたいに澄み切ってるぜ！"
+    },
+    {
+     "title": "雨",
+     "text": "傘ないのか？俺の上着でもかしてやろうか。"
+    },
+    {
+     "title": "寒い",
+     "text": "なんでみんな震えてんだ？寒いのか？"
+    },
+    {
+     "title": "灼熱",
+     "text": "暑くて融けちまいそうだ。"
+    },
+    {
+     "title": "朝の挨拶",
+     "text": "おはよう！新しい1日が始まったな。"
+    },
+    {
+     "title": "昼の挨拶",
+     "text": "決断の時が来たようだな。今日の昼飯だ。何を食う？"
+    },
+    {
+     "title": "夕方の挨拶",
+     "text": "あー、ねみい。"
+    },
+    {
+     "title": "おやすみ",
+     "text": "おやすみ。「寝る子は育つ」って言うだろ。"
+    },
+    {
+     "title": "趣味",
+     "text": "「排除パズル」ってマジ最高だよ。画面いっぱいブロックがガガガッと一気に消える瞬間…あれがほんとたまんねえ。"
+    },
+    {
+     "title": "悩み",
+     "text": "今どきのスマホは余計な機能が多すぎる！俺に言わせりゃ、電話とメール…ああ、あと「排除パズル」。この三つがありゃ十分だろ！"
+    },
+    {
+     "title": "話題-傷跡",
+     "text": "いくら高い治癒力があっても限界ってもんがある。それを超えちまったら、もう元には戻らねえ…残念だが、そういうもんだ。"
+    },
+    {
+     "title": "話題-武器",
+     "text": "俺の異能なら、剣みたいな単純な武器は作れるが、銃は厳しいな。不可能ってわけじゃねぇぞ？全パーツの構造さえ暗記できりゃ…いやダメだ、やっぱ無理だわ。"
+    },
+    {
+     "title": "話題-予言",
+     "text": "俺は昔、都会から遠く離れた場所にいたことがあった。そこじゃみんな「神の意志」にすがって生きていた。「神の意志」ってもんはいつだって正しい、人間が都合良く解釈しちまうからな。予言も似たようなもんだ。「いい」解釈ができたなら、それを信じときゃいいんだよ。"
+    },
+    {
+     "title": "自分について-異能",
+     "text": "俺の異能は、湧いてくる煙をいろなに形にこねるだけだ。嵐を呼ぶようなデカい異能と比べりゃ、お話にならねえくらいだろ？でもそのおかげで、「自分」の力だけで、いろいろできるようになったってわけだ。ま、結果オーライって奴だよな。"
+    },
+    {
+     "title": "自分について-出身",
+     "text": "遠い海辺の小さな町で、赤ん坊が生まれた。その子はまだ知らなかった…27年後に自分が、27歳になることを…あ？どうした、俺なんか間違ったこと言ったか？"
+    },
+    {
+     "title": "自分について-別れ",
+     "text": "俺が見送ってきた背中の数は、お前が今まで挨拶してきた数より多いんだぞ。だが、こうして海のど真ん中にいると、空と海がひと続きになって見えるみたいに、ある考えにとらわれてくるんだ。別れた連中と、いつかまたどこかで、出会っちまう日がくるんじゃないかってな。"
+    },
+    {
+     "title": "Exeについて",
+     "text": "隊長は無口に見えるが、すげえいい人だ。俺がここに来たばっかの頃だ、スマホの使い方がサッパリでよ、適当にいじってたら、うっかりアラームを100個もセットしちまったんだ。あの人がじっくり使い方を教えてくれたから直せたんだけど、そうでなかったら…想像しただけでゾッとするよ。"
+    },
+    {
+     "title": "イェルムについて",
+     "text": "あいつ…どうも知り合いみたいな気がするんだが、どうしても思い出せねぇ。本人に聞いたことだってある。「何年か前に、俺と一緒に海に出たことねぇか？」ってな。そしたら「あったかな？」だとよ。わけがわかんねえよ…まさか、そんなことまで忘れちまったのか？"
+    },
+    {
+     "title": "リンコについて",
+     "text": "リンコの頭ん中がどうなってるかは、サッパリ分からん。だがそんなこたぁどうでもいい。人探しや異象探しの時は、あいつの勘を信じりゃ間違いねぇからな。ただ厄介なのは、目を離すとすぐどっか行っちまうことだ。昔いた、俺のちっこいダチみたいに…ま、そいつはリンコよりもっとバカだったが。"
+    },
+    {
+     "title": "ダフォディールについて",
+     "text": "ダフォディールは自分に厳しすぎる。あいつにだって、どうすることもできねぇことも多いのにな…ただ、俺はあいつに一目置いてるんだ。あんな環境で育って、それでも真っ直ぐで善良でいられるなんてよ…あの店主の影響がデカいんだろうな。"
+    },
+    {
+     "title": "残虹について",
+     "text": "ワケの分からねぇ変人だ…グーへロス島の犯罪者連中といい勝負だぜ。いやむしろ、あいつこそあそこがお似合いだろ。"
+    },
+    {
+     "title": "グーへロス島について",
+     "text": "グーへロス島か…俺はあそこで働きながらしごかれて、戦うための「技術」と、何が善で何が悪かを見分ける目を叩き込まれた。俺を拾ってくれたことには感謝してる。だが、それ以上に特別な思い入れはねぇな。"
+    },
+    {
+     "title": "E.T.D第6小隊について",
+     "text": "薄々感じてたことなんだが、第６小隊ってのは、本当のチームみたいに心が一つになってるわけじゃねぇし、１人１人それぞれが何か抱え込んでて…ま、無理強いはできねぇし、任務に支障が出なきゃそれでいいさ。"
+    },
+    {
+     "title": "キャラ突破Ⅰ",
+     "text": "おーっ、体に力がみなぎってきたーっ！"
+    },
+    {
+     "title": "キャラ突破Ⅱ",
+     "text": "気分爽快っ！だが、まだ伸びしろがたっぷりある感じだ。"
+    },
+    {
+     "title": "キャラ突破Ⅲ",
+     "text": "ははっ、やっと全力が出せる！"
+    },
+    {
+     "title": "届けられたギフトⅠ",
+     "text": "おいおい、これ俺にくれるのか、マジかよ、最高だな！"
+    },
+    {
+     "title": "届けられたギフトⅡ",
+     "text": "おお、ずっとこれが欲しかったんだ！ありがとな！"
+    },
+    {
+     "title": "届けられたギフトⅢ",
+     "text": "サンキューな！"
+    },
+    {
+     "title": "届けられたギフトⅣ",
+     "text": "俺に？サンキュー！"
+    }
+   ],
+   "battle": [
+    {
+     "title": "バイレールスキルⅠ",
+     "text": "悪あがきはやめろ！"
+    },
+    {
+     "title": "バイレールスキルⅡ",
+     "text": "ティンダロス！"
+    },
+    {
+     "title": "バイレールスキルⅢ",
+     "text": "ターゲット捕捉。"
+    },
+    {
+     "title": "EXレール終結Ⅰ",
+     "text": "この罪に…トドメを！"
+    },
+    {
+     "title": "EXレール終結Ⅱ",
+     "text": "まとめてぶっ飛ばす…！"
+    },
+    {
+     "title": "EXレール終結Ⅲ",
+     "text": "ここの後始末は…俺がやる。"
+    },
+    {
+     "title": "異象収容Ⅰ",
+     "text": "ここで大人しくしてろ。勝手に動くんじゃねぇぞ。"
+    },
+    {
+     "title": "異象収容Ⅱ",
+     "text": "ははっ、捕まえた。"
+    },
+    {
+     "title": "異象排除Ⅰ",
+     "text": "…じゃあな。"
+    },
+    {
+     "title": "異象排除Ⅱ",
+     "text": "お疲れ。"
+    },
+    {
+     "title": "意外な収穫Ⅰ",
+     "text": "なんだこれ？珍しいもんじゃねぇか？"
+    },
+    {
+     "title": "意外な収穫Ⅱ",
+     "text": "へぇ、悪くねぇな。"
+    },
+    {
+     "title": "意外な収穫Ⅲ",
+     "text": "おおっ、こりゃまたなんだ？"
+    },
+    {
+     "title": "意外な収穫Ⅳ",
+     "text": "お宝発見だぜ。"
+    },
+    {
+     "title": "意外な収穫Ⅴ",
+     "text": "こいつはいただきだぜ！"
+    },
+    {
+     "title": "意外な収穫Ⅵ",
+     "text": "こいつは役に立つか？"
+    },
+    {
+     "title": "低HPⅠ",
+     "text": "ちと…きついかな。"
+    },
+    {
+     "title": "低HPⅡ",
+     "text": "クソッ、力が入らねぇ。"
+    },
+    {
+     "title": "低HPⅢ",
+     "text": "はぁ…はぁ…"
+    },
+    {
+     "title": "HP回復Ⅰ",
+     "text": "おお、だいぶマシになった！"
+    },
+    {
+     "title": "HP回復Ⅱ",
+     "text": "元気出たぜ、サンキュー！"
+    },
+    {
+     "title": "力尽きⅠ",
+     "text": "じゃあな…"
+    },
+    {
+     "title": "力尽きⅡ",
+     "text": "旅は終わりか…"
+    },
+    {
+     "title": "力尽きⅢ",
+     "text": "別れの言葉はいらねぇよ。"
+    },
+    {
+     "title": "敵を撃破Ⅰ",
+     "text": "ゆっくり寝かせてもらうぜ。"
+    },
+    {
+     "title": "敵を撃破Ⅱ",
+     "text": "もう悪さすんじゃねぇぞ。"
+    },
+    {
+     "title": "ダメージを受ける（通常）Ⅰ",
+     "text": "いってぇな～"
+    },
+    {
+     "title": "ダメージを受ける（通常）Ⅱ",
+     "text": "おもしれぇ。"
+    },
+    {
+     "title": "大打撃Ⅰ",
+     "text": "タダじゃ済まさねぇぞ…！"
+    },
+    {
+     "title": "大打撃Ⅱ",
+     "text": "うっ。"
+    },
+    {
+     "title": "出撃Ⅰ",
+     "text": "俺を相手にしたこと、後悔させてやるぜ。"
+    },
+    {
+     "title": "出撃Ⅱ",
+     "text": "また戦闘か…来いよ！"
+    },
+    {
+     "title": "コンビスキルⅠ",
+     "text": "見つけたぜ！"
+    },
+    {
+     "title": "コンビスキルⅡ",
+     "text": "逃がさねぇ！"
+    },
+    {
+     "title": "コンビスキルⅢ",
+     "text": "おとなしく縛につきな！"
+    },
+    {
+     "title": "滑空Ⅰ",
+     "text": "ヒューッ！"
+    },
+    {
+     "title": "滑空Ⅱ",
+     "text": "出港だっ！"
+    },
+    {
+     "title": "切替Ⅰ",
+     "text": "来た来たぁ！"
+    },
+    {
+     "title": "切替Ⅱ",
+     "text": "心配すんな、俺がいるぜ！"
+    },
+    {
+     "title": "切替Ⅲ",
+     "text": "これを食らいな！"
+    },
+    {
+     "title": "特殊切替・零",
+     "text": "鑑定士、手伝おうか？"
+    },
+    {
+     "title": "特殊切替・Exe",
+     "text": "隊長、いつ来たんだ？"
+    },
+    {
+     "title": "特殊切替・イェルム",
+     "text": "おい、面倒事を俺に押し付けるなよ！"
+    },
+    {
+     "title": "特殊切替・リンコ",
+     "text": "ほら、無理すんなよ！"
+    },
+    {
+     "title": "仲間気絶・EXE",
+     "text": "しゃあねぇ！後始末してやるよ。"
+    },
+    {
+     "title": "仲間気絶・イェルム",
+     "text": "また、お別れか？"
+    },
+    {
+     "title": "仲間気絶・リンコ",
+     "text": "また、お別れか？"
+    },
+    {
+     "title": "パリィⅠ",
+     "text": "力比べといこうじゃねぇか！"
+    },
+    {
+     "title": "パリィⅡ",
+     "text": "フン、単調な攻撃だな。"
+    },
+    {
+     "title": "連続極限回避成功Ⅰ",
+     "text": "ハッ、今日は調子がいいぜ。"
+    },
+    {
+     "title": "連続極限回避成功Ⅱ",
+     "text": "おいおい、よく見て撃てよ！"
+    }
+   ]
+  },
+  "ko": {
+   "daily": [
+    {
+     "title": "첫 만남",
+     "text": "안녕, 난 E.T.D 6팀 카오스라고 해. 만나서 반가워. 앞으로 잘 부탁해… 어이, 그냥 매뉴얼대로 인사했을 뿐인데, 이게 그렇게 웃길 일이야?"
+    },
+    {
+     "title": "대화·가면",
+     "text": "왜 가면을 쓰냐고? 음, 보통은 「작전 효율을 높이기 위해서」라고 둘러대는데. 진짜 이유가 궁금해? 하아… 그야 가면을 쓰면 멋있으니까. 왜 그렇게 쳐다봐! 멋있잖아! 멋있지 않아?"
+    },
+    {
+     "title": "대화·걱정",
+     "text": "임무가 까다롭다고? 걱정 마. 차근차근 풀어나가면 엉킨 실타래도 결국 풀리기 마련이니까. 난 이 신념 하나로 불가능해 보이던 일들을 결국 해냈어. 딱 하나… 됐다, 이 얘긴 관두자."
+    },
+    {
+     "title": "대화·사냥개",
+     "text": "난 개 안 키워. 「사냥개」를 말하는 거라면 그건 내 이능력이야. 그치만… 진짜 개를 키워보는 것도 나쁘지 않을지도…"
+    },
+    {
+     "title": "맑은 날",
+     "text": "기분 끝내주네, 저 햇살처럼 말이야!"
+    },
+    {
+     "title": "비 오는 날",
+     "text": "우산 챙겼어? 재킷이라도 빌려줄까?"
+    },
+    {
+     "title": "추운 날",
+     "text": "왜 다들 떨고 있어? 많이 추운가?"
+    },
+    {
+     "title": "더운 날",
+     "text": "이러다 증발해 버릴 것 같아!"
+    },
+    {
+     "title": "아침 인사",
+     "text": "굿모닝, 새로운 하루의 시작이야!"
+    },
+    {
+     "title": "점심 인사",
+     "text": "이젠 진짜 정해야 돼… 오늘 점심 뭐 먹을까?"
+    },
+    {
+     "title": "저녁 인사",
+     "text": "하암… 졸려."
+    },
+    {
+     "title": "취침 인사",
+     "text": "잘 자. 일찍 자고 일찍 일어나야 키 크지~"
+    },
+    {
+     "title": "취미",
+     "text": "「테트로미노」 진짜 재밌더라! 화면 가득하던 블록이 팡팡 터져서 사라지는 걸 보면 기분이 좋아진다니까~"
+    },
+    {
+     "title": "고민",
+     "text": "요즘 휴대폰은 기능이 너무 복잡해! 내 생각엔 말이야, 통화랑 문자… 아 맞다, 거기에 「테트로미노」 게임까지! 딱 이 세 가지만 있으면 충분해!"
+    },
+    {
+     "title": "주제·흉터",
+     "text": "몸의 자가 치유 능력에는 한계가 있어. 그 한계를 넘어서면 다시 예전으로 돌아갈 수 없지, 안타깝지만."
+    },
+    {
+     "title": "주제·무기",
+     "text": "칼이나 검처럼 단순한 무기는 내 이능력으로 만들 수 있는데, 총기류는 어려워. 그렇다고 아예 불가능한 건 아니야. 부품의 구조를 다 외우면… 안 되겠다, 불가능해."
+    },
+    {
+     "title": "주제·예언",
+     "text": "도시와 멀리 떨어진 곳에서 몇 년 지낸 적이 있는데, 거기 사람들은 「신의 뜻」에 의지해 살더라고. 신의 뜻은 언제나 옳거든. 사람들이 어떻게든 옳게 해석해 버리니까. 예언도 같은 맥락이야. 네가 「좋은」 쪽으로 해석할 수 있다면, 믿어보는 것도 좋겠지."
+    },
+    {
+     "title": "자신에 관해·이능력",
+     "text": "내 이능력은 말이야, 출처불명의 연기를 뭉쳐서 다양한 모양으로 빚는 거야. 비바람을 부리는 대단한 능력들에 비하면야, 보잘것없지? 하지만 덕분에 「내 힘」으로 더 많은 걸 해낼 줄 알게 됐어. 나름 괜찮은 능력이지~"
+    },
+    {
+     "title": "자신에 관해·출신",
+     "text": "어느 머나먼 갯마을에서 아기가 태어났어. 그 아기는 몰랐지, 27년 뒤에 자기가 스물일곱 살이 될 줄은… 왜? 맞는 말이잖아?"
+    },
+    {
+     "title": "자신에 관해·헤어짐",
+     "text": "허풍 떠는 게 아니라, 네가 「굿모닝」이라고 한 횟수보다 내가 작별 인사를 고한 횟수가 더 많을걸. 바다를 떠돌 때 그런 생각을 많이 했어. 세상에 끝이란 건 없다고. 그러니 작별을 고했던 사람들도 어쩌면 다시 만날 수 있을 거라고."
+    },
+    {
+     "title": "Exe에 관해",
+     "text": "대장이 겉보기엔 좀 어두워 보이는데, 사실 정말 괜찮은 사람이야. 팀에 처음 합류해서 스마트폰도 잘 쓸 줄 몰랐을 때도 대장이 하나하나 다 가르쳐줬어. 대장 아니었으면, 휴대폰 받은 다음 날 아침에 직접 맞춰둔 알람 100개가 날 깨웠을 거야. 생각만 해도 아찔해!"
+    },
+    {
+     "title": "엘림에 관해",
+     "text": "저 남자… 낯이 익긴 한데 도무지 누군지 모르겠어. 몇 년 전에 나랑 같이 배 타고 나간 적 없냐고 물어봤는데, 「글쎄, 나간 적 있나?」라고 애매하게 대답하더라고. 어떻게 그런 걸 기억 못 할 수가 있지?"
+    },
+    {
+     "title": "링코에 관해",
+     "text": "링코는 머릿속에 대체 뭐가 들었는지 모르겠어. 하지만 중요한 건 사람이나 이상을 찾을 땐 걔 직감이 정확하다는 거야. 굳이 단점을 찾자면 잠깐 한눈판 사이 자꾸 이상한 데로 사라진다는 거? 꼭 예전 내 꼬맹이 친구를 보는 기분이야. 뭐, 내 친구가 훨씬 멍청하긴 했지만…"
+    },
+    {
+     "title": "다포딜에 관해",
+     "text": "다포딜은 자기 자신한테 너무 엄격해. 세상엔 내 마음대로 안 되는 일이 훨씬 많은데 말이지… 그래도 대단하다고 생각해. 그런 환경에서 자라고도 여전히 곧고 선한 마음을 가질 수 있다니… 아마 에이본 점장한테 영향을 많이 받았겠지."
+    },
+    {
+     "title": "잔홍에 관해",
+     "text": "괴짜야, 도저히 이해할 수 없어… 게흐로스 섬의 범죄자와 다를 게 없다니까. 흥 차라리 그쪽 태생이라고 하는 게 더 어울릴 거야."
+    },
+    {
+     "title": "게흐로스 섬에 관해",
+     "text": "게흐로스 섬이라… 거기서 일하고 훈련하면서 직감을 내 기술로 만들고, 선악을 구분하는 법도 배웠어. 날 받아준 건 고맙게 생각하지만, 그뿐이야. 딱히 특별한 감정은 없어."
+    },
+    {
+     "title": "E.T.D 6팀에 관해",
+     "text": "우리 6팀은 서로 똘똘 뭉친 느낌은 아니야. 각자 저마다의 속사정이 있는 것 같달까. 에휴, 그렇다고 단합을 강요할 수도 없는 노릇이지. 작전 수행에 방해만 안 된다면 그걸로 됐어."
+    },
+    {
+     "title": "캐릭터 돌파·Ⅰ",
+     "text": "오오, 기운이 넘치는걸!"
+    },
+    {
+     "title": "캐릭터 돌파·Ⅱ",
+     "text": "컨디션 최상이야! 더 끌어올릴 수도 있을 것 같아~"
+    },
+    {
+     "title": "캐릭터 돌파·Ⅲ",
+     "text": "하, 드디어 전력을 다할 수 있겠군!"
+    },
+    {
+     "title": "선물 수령·Ⅰ",
+     "text": "와, 이걸 나한테 준다고? 진짜로? 마음에 들어!"
+    },
+    {
+     "title": "선물 수령·Ⅱ",
+     "text": "오오, 예전부터 갖고 싶었던 거야! 고마워!"
+    },
+    {
+     "title": "선물 수령·Ⅲ",
+     "text": "정말 고마워!"
+    },
+    {
+     "title": "선물 수령·IV",
+     "text": "나 주는 거야? 고마워!"
+    }
+   ],
+   "battle": [
+    {
+     "title": "바이레일 스킬·Ⅰ",
+     "text": "발버둥쳐도 소용없어!"
+    },
+    {
+     "title": "바이레일 스킬·Ⅱ",
+     "text": "틴달로스!"
+    },
+    {
+     "title": "바이레일 스킬·Ⅲ",
+     "text": "목표를 확인했다."
+    },
+    {
+     "title": "울티메이트·Ⅰ",
+     "text": "죄악을 척결하겠다…"
+    },
+    {
+     "title": "울티메이트·Ⅱ",
+     "text": "전부 쓸어버리겠어…!"
+    },
+    {
+     "title": "울티메이트·Ⅲ",
+     "text": "뒷감당은 내가 할게."
+    },
+    {
+     "title": "이상 수용·Ⅰ",
+     "text": "착하지~ 어디 가지 말고 여기 얌전히 있어."
+    },
+    {
+     "title": "이상 수용·Ⅱ",
+     "text": "하하, 잡았다!"
+    },
+    {
+     "title": "이상 제거·Ⅰ",
+     "text": "… 잘 가."
+    },
+    {
+     "title": "이상 제거·Ⅱ",
+     "text": "퇴근이다."
+    },
+    {
+     "title": "뜻밖의 수확·Ⅰ",
+     "text": "이건 뭐지? 자주 못 보던 거네?"
+    },
+    {
+     "title": "뜻밖의 수확·Ⅱ",
+     "text": "이야, 좋은 물건이네."
+    },
+    {
+     "title": "뜻밖의 수확·Ⅲ",
+     "text": "오오, 이건 또 뭐야?"
+    },
+    {
+     "title": "뜻밖의 수확·Ⅳ",
+     "text": "보물을 주웠어."
+    },
+    {
+     "title": "뜻밖의 수확·Ⅴ",
+     "text": "가져가야지!"
+    },
+    {
+     "title": "뜻밖의 수확·Ⅵ",
+     "text": "이것도 어딘가 쓸데가 있겠지?"
+    },
+    {
+     "title": "HP 낮음·Ⅰ",
+     "text": "좀… 힘에 부치네."
+    },
+    {
+     "title": "HP 낮음·Ⅱ",
+     "text": "젠장, 힘이 안 들어가."
+    },
+    {
+     "title": "HP 낮음·Ⅲ",
+     "text": "후우… 후우…"
+    },
+    {
+     "title": "HP 회복·Ⅰ",
+     "text": "캬아, 이제 좀 살 것 같네!"
+    },
+    {
+     "title": "HP 회복·Ⅱ",
+     "text": "이제 정신이 들어, 고마워!"
+    },
+    {
+     "title": "탈진·Ⅰ",
+     "text": "잘 가…"
+    },
+    {
+     "title": "탈진·Ⅱ",
+     "text": "여행이 끝난 건가…"
+    },
+    {
+     "title": "탈진·Ⅲ",
+     "text": "작별 인사는 넣어둬."
+    },
+    {
+     "title": "몬스터 처치·Ⅰ",
+     "text": "푹 자도록 해."
+    },
+    {
+     "title": "몬스터 처치·Ⅱ",
+     "text": "이젠 나쁜 짓 그만하자."
+    },
+    {
+     "title": "일반 피격·Ⅰ",
+     "text": "진짜 아프네~"
+    },
+    {
+     "title": "일반 피격·Ⅱ",
+     "text": "재밌네."
+    },
+    {
+     "title": "심각한 피해·Ⅰ",
+     "text": "맞은 건 그냥 못 넘어가지…"
+    },
+    {
+     "title": "심각한 피해·Ⅱ",
+     "text": "으윽."
+    },
+    {
+     "title": "출전·Ⅰ",
+     "text": "내 상대는 대체로 끝이 안 좋았지."
+    },
+    {
+     "title": "출전·Ⅱ",
+     "text": "또 싸워? 오냐… 들어와!"
+    },
+    {
+     "title": "협동기·Ⅰ",
+     "text": "찾았다!"
+    },
+    {
+     "title": "협동기·Ⅱ",
+     "text": "도망치지 마!"
+    },
+    {
+     "title": "협동기·Ⅲ",
+     "text": "순순히 항복해!"
+    },
+    {
+     "title": "글라이딩·Ⅰ",
+     "text": "우후~"
+    },
+    {
+     "title": "글라이딩·Ⅱ",
+     "text": "출항이다!"
+    },
+    {
+     "title": "전환·Ⅰ",
+     "text": "나 왔어!"
+    },
+    {
+     "title": "전환·Ⅱ",
+     "text": "걱정 마, 내가 있잖아!"
+    },
+    {
+     "title": "전환·Ⅲ",
+     "text": "받아라!"
+    },
+    {
+     "title": "특수 전환·제로",
+     "text": "감정사, 내가 도와줄까?"
+    },
+    {
+     "title": "특수 전환·Exe",
+     "text": "대장, 언제 왔어?"
+    },
+    {
+     "title": "특수 전환·엘림",
+     "text": "나한테 귀찮은 일 떠넘기지 마!"
+    },
+    {
+     "title": "특수 전환·링코",
+     "text": "꼬맹아, 무리하지 마!"
+    },
+    {
+     "title": "팀원 쓰러짐·Exe",
+     "text": "어쩔 수 없지! 뒤처리는 내가 할게."
+    },
+    {
+     "title": "팀원 쓰러짐·엘림",
+     "text": "또 작별 인사를 해야 하나?"
+    },
+    {
+     "title": "팀원 쓰러짐·링코",
+     "text": "또 작별 인사를 해야 하나?"
+    },
+    {
+     "title": "패링·Ⅰ",
+     "text": "누가 더 센지 겨뤄보자고!"
+    },
+    {
+     "title": "패링·Ⅱ",
+     "text": "훗, 공격이 뻔히 읽히잖아."
+    },
+    {
+     "title": "연속 극한 회피 성공·Ⅰ",
+     "text": "하핫, 오늘은 컨디션 괜찮네."
+    },
+    {
+     "title": "연속 극한 회피 성공·Ⅱ",
+     "text": "어이, 제대로 좀 보고 공격하지?!"
+    }
+   ]
+  },
+  "zh-tw": {
+   "daily": [
+    {
+     "title": "初次見面",
+     "text": "你好，我是E.T.D六隊的卡厄斯。很高興認識你，希望我們合作愉快……喂喂，我只是按部就班說點場面話而已，沒那麼好笑吧！"
+    },
+    {
+     "title": "閒聊·面罩",
+     "text": "為什麼要戴面罩？呃，我對外的解釋是「提高作戰效率」。真正的理由？你確定要聽嗎？好吧……因為這樣很帥。這麼看著我幹嘛！真的很帥啊！你不覺得嗎？"
+    },
+    {
+     "title": "閒聊·麻煩事",
+     "text": "任務很麻煩？別害怕，只要一點一點地理出頭緒，事情就一定能辦成。就是因為這種信念，我做成了很多看似不可能的事。唯獨……算了，不提。"
+    },
+    {
+     "title": "閒聊·獵犬",
+     "text": "我沒有養狗啊。如果你指的是「獵犬」，那是我的異能。不過，養條真正的狗好像也不錯呢……"
+    },
+    {
+     "title": "大晴天",
+     "text": "我的心情，和陽光一樣明媚！"
+    },
+    {
+     "title": "雨天",
+     "text": "帶傘了嗎？要不要把外套借你？"
+    },
+    {
+     "title": "寒冷",
+     "text": "怎麼都在發抖？很冷嗎？"
+    },
+    {
+     "title": "炎熱",
+     "text": "要蒸發了！"
+    },
+    {
+     "title": "早上問候",
+     "text": "早上好！新的一天開始囉。"
+    },
+    {
+     "title": "中午問候",
+     "text": "該做決定了——午飯到底吃什麼！"
+    },
+    {
+     "title": "傍晚問候",
+     "text": "哈欠……睏了睏了。"
+    },
+    {
+     "title": "晚安",
+     "text": "晚安，早睡早起能長高哦。"
+    },
+    {
+     "title": "愛好",
+     "text": "「泯除方塊」太好玩了！看著一螢幕方塊劈劈啪啪消失，心情就會變好啊~"
+    },
+    {
+     "title": "煩惱",
+     "text": "現在的手機設計得也太複雜了吧！要我說，手機只要能打電話、發簡訊……哦對，再加一個「泯除方塊」，有這三個功能就夠了！"
+    },
+    {
+     "title": "話題·傷疤",
+     "text": "身體的自癒能力是有限的，一旦超出限度，就沒辦法恢復原狀了。真遺憾啊。"
+    },
+    {
+     "title": "話題·武器",
+     "text": "我可以用異能造出刀劍之類結構簡單的武器，但槍械就很難了。也不是完全沒可能，只要我能記住每個部件的結構……不行，完全沒可能。"
+    },
+    {
+     "title": "話題·預言",
+     "text": "我在一個遠離都市的地方待過幾年，在那裡，人們依靠「神的旨意」生活。神的旨意總是對的，因為人們總能想出辦法把它解讀成對的。預言也差不多，假如你找到了一個「好」的解讀，那就相信它吧。"
+    },
+    {
+     "title": "關於自己·異能",
+     "text": "我的異能呢，就是把一團不知道哪來的煙霧捏成各種樣子。跟那些呼風喚雨的異能比起來弱得離譜，是吧？但因為這個，我學會了靠「自己」做成更多事。也是件好事啊～"
+    },
+    {
+     "title": "關於自己·出身",
+     "text": "在一座遙遠的海邊小城裡，一個嬰兒出生了。那時他還不知道，27年後自己會成為一個27歲的青年……怎麼啦，這話也挑不出毛病吧？"
+    },
+    {
+     "title": "關於自己·告別",
+     "text": "不是我吹牛啊，我告別的次數恐怕比你說「早上好」的次數還多。在海上漂來漂去的時候我總會想，天地沒有真正的邊界，那些已經說過再見的人，也許還能再見。"
+    },
+    {
+     "title": "關於Exe",
+     "text": "隊長只是看起來陰沉而已，其實是個很不錯的傢伙。我剛來的時候不太會用智慧手機，全靠他一步步教我。要是沒他檢查，我拿到手機的第二天就要被自己設置的100個鬧鐘吵醒，想想就後怕啊！"
+    },
+    {
+     "title": "關於曳爾沐",
+     "text": "他……總感覺他應該是我的熟人啊，可我就是說不出他到底是誰。我有問過他，是不是在幾年前跟我一起出過海，結果他就回我一句：「有沒有過呢？」，搞得我一頭霧水，連這種事都能記不清嗎？"
+    },
+    {
+     "title": "關於靈可",
+     "text": "我搞不懂靈可的腦袋裡到底在想什麼。但這不重要，在找人和異象的時候，相信她的直覺準沒錯。稍微有點麻煩的是，她總是一不注意就跑到奇怪的地方去，像我以前另一個小不點朋友。不過，我那朋友可比她笨多了……"
+    },
+    {
+     "title": "關於達芙蒂爾",
+     "text": "達芙蒂爾對自己苛責太多，明明很多事不是她能左右的……我挺佩服她，成長在那種環境裡，還能保持正直善良……那位掌櫃的，想必對她影響很大吧。"
+    },
+    {
+     "title": "關於殘虹",
+     "text": "難以理解的怪人……和格赫羅斯島的一些罪犯不相上下。不如說，她本就該屬於那。"
+    },
+    {
+     "title": "關於格赫羅斯島",
+     "text": "格赫羅斯島……我在那工作、鍛煉，學會了把直覺變成技巧，也學會了分辨善惡。我很感謝他們的收留，除此之外，對那倒也沒什麼特別的感受。"
+    },
+    {
+     "title": "關於E.T.D六隊",
+     "text": "我能感覺到，六隊並不像一個真正的團隊那樣團結一心，每個人都有自己的心事。唉，這也沒辦法強求，只要不影響執行任務就行了。"
+    },
+    {
+     "title": "角色突破·Ⅰ",
+     "text": "哦哦，身體更有勁了！"
+    },
+    {
+     "title": "角色突破·Ⅱ",
+     "text": "精神煥發！不過，感覺還有提升空間啊～"
+    },
+    {
+     "title": "角色突破·Ⅲ",
+     "text": "哈哈，終於可以使出全力了！"
+    },
+    {
+     "title": "收到贈禮·Ⅰ",
+     "text": "哇，這個給我，你確定？太好了吧！"
+    },
+    {
+     "title": "收到贈禮·Ⅱ",
+     "text": "哦哦，我一直想要這個！多謝你了！"
+    },
+    {
+     "title": "收到贈禮·Ⅲ",
+     "text": "多謝你囉！"
+    },
+    {
+     "title": "收到贈禮·IV",
+     "text": "給我的嗎？謝啦！"
+    }
+   ],
+   "battle": [
+    {
+     "title": "變軌技能·Ⅰ",
+     "text": "別掙扎了！"
+    },
+    {
+     "title": "變軌技能·Ⅱ",
+     "text": "廷達羅斯！"
+    },
+    {
+     "title": "變軌技能·Ⅲ",
+     "text": "目標確認。"
+    },
+    {
+     "title": "極軌終結·Ⅰ",
+     "text": "罪惡必須終結……！"
+    },
+    {
+     "title": "極軌終結·Ⅱ",
+     "text": "由我來掃清……！"
+    },
+    {
+     "title": "極軌終結·Ⅲ",
+     "text": "後果……我來承擔。"
+    },
+    {
+     "title": "收容異象·Ⅰ",
+     "text": "乖乖在這待著，別亂跑。"
+    },
+    {
+     "title": "收容異象·Ⅱ",
+     "text": "哈哈，抓到你了。"
+    },
+    {
+     "title": "泯除異象·Ⅰ",
+     "text": "……再見。"
+    },
+    {
+     "title": "泯除異象·Ⅱ",
+     "text": "收工。"
+    },
+    {
+     "title": "意外收穫·Ⅰ",
+     "text": "這是什麼？看著還挺少見的？"
+    },
+    {
+     "title": "意外收穫·Ⅱ",
+     "text": "哇，好東西。"
+    },
+    {
+     "title": "意外收穫·Ⅲ",
+     "text": "哦哦，這又是什麼？"
+    },
+    {
+     "title": "意外收穫·Ⅳ",
+     "text": "撿到寶囉。"
+    },
+    {
+     "title": "意外收穫·Ⅴ",
+     "text": "打包帶走！"
+    },
+    {
+     "title": "意外收穫·Ⅵ",
+     "text": "這東西能派上用場吧？"
+    },
+    {
+     "title": "生命值低·Ⅰ",
+     "text": "稍微……有點吃力啊。"
+    },
+    {
+     "title": "生命值低·Ⅱ",
+     "text": "該死，使不上力。"
+    },
+    {
+     "title": "生命值低·Ⅲ",
+     "text": "呼……呼……"
+    },
+    {
+     "title": "恢復生命·Ⅰ",
+     "text": "哦哦，感覺好多了！"
+    },
+    {
+     "title": "恢復生命·Ⅱ",
+     "text": "有精神了，謝啦！"
+    },
+    {
+     "title": "力竭·Ⅰ",
+     "text": "再見……"
+    },
+    {
+     "title": "力竭·Ⅱ",
+     "text": "旅途結束了嗎……"
+    },
+    {
+     "title": "力竭·Ⅲ",
+     "text": "不用跟我道別。"
+    },
+    {
+     "title": "擊敗怪物·Ⅰ",
+     "text": "好好睡個覺。"
+    },
+    {
+     "title": "擊敗怪物·Ⅱ",
+     "text": "別再作惡了。"
+    },
+    {
+     "title": "普通受擊·Ⅰ",
+     "text": "真痛啊～"
+    },
+    {
+     "title": "普通受擊·Ⅱ",
+     "text": "有意思。"
+    },
+    {
+     "title": "重受擊·Ⅰ",
+     "text": "這一下可不能白挨啊……"
+    },
+    {
+     "title": "重受擊·Ⅱ",
+     "text": "呃。"
+    },
+    {
+     "title": "上陣·Ⅰ",
+     "text": "我的對手，下場一般都不太好。"
+    },
+    {
+     "title": "上陣·Ⅱ",
+     "text": "又要戰鬥了啊……來吧！"
+    },
+    {
+     "title": "協同技·Ⅰ",
+     "text": "找到你了！"
+    },
+    {
+     "title": "協同技·Ⅱ",
+     "text": "別想逃！"
+    },
+    {
+     "title": "協同技·Ⅲ",
+     "text": "束手就擒吧！"
+    },
+    {
+     "title": "滑翔·Ⅰ",
+     "text": "嗚呼～"
+    },
+    {
+     "title": "滑翔·Ⅱ",
+     "text": "起航囉！"
+    },
+    {
+     "title": "切換·Ⅰ",
+     "text": "來了來了！"
+    },
+    {
+     "title": "切換·Ⅱ",
+     "text": "別擔心，有我在！"
+    },
+    {
+     "title": "切換·Ⅲ",
+     "text": "接我一招！"
+    },
+    {
+     "title": "特殊切換·零",
+     "text": "鑒定師，需要幫忙嗎？"
+    },
+    {
+     "title": "特殊切換·Exe",
+     "text": "隊長，你什麼時候來的？"
+    },
+    {
+     "title": "特殊切換·曳爾沐",
+     "text": "喂，別把麻煩丟給我啊！"
+    },
+    {
+     "title": "特殊切換·靈可",
+     "text": "小不點，記得別逞強！"
+    },
+    {
+     "title": "隊友倒下·EXE",
+     "text": "好吧！幫你善後。"
+    },
+    {
+     "title": "隊友倒下·曳爾沐",
+     "text": "又要說再見了？"
+    },
+    {
+     "title": "隊友倒下·靈可",
+     "text": "好好休息，接下來的事交給我……"
+    },
+    {
+     "title": "彈反·Ⅰ",
+     "text": "來比比誰的力氣大！"
+    },
+    {
+     "title": "彈反·Ⅱ",
+     "text": "呵，呆板的進攻。"
+    },
+    {
+     "title": "連續極限閃避成功·Ⅰ",
+     "text": "哈，今天狀態不錯。"
+    },
+    {
+     "title": "連續極限閃避成功·Ⅱ",
+     "text": "喂喂，看清楚再打啊！"
+    }
+   ]
+  }
+ }
+}

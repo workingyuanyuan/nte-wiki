@@ -46,6 +46,7 @@ sources:
 | Joined | Version 1.0 |
 | Voice actors | Chinese: 王宇航; English: Jacob Craner; Japanese: 森川智之; Korean: 심규혁 |
 | Archive | [Adler archive](/characters/adler/archive/) |
+| Voice lines | [Adler voice lines](/characters/adler/voice/) |
 
 ## How to obtain
 

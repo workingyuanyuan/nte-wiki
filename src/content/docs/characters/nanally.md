@@ -60,6 +60,7 @@ sources:
 | Role | Eibon Antique Shop; calls herself the "Ichi-daime" of the Colucci family |
 | Voice actors | Chinese: 宋媛媛; English: Brittany Lauda; Japanese: 竹達彩奈; Korean: 강새봄 |
 | Archive | [Nanally archive](/characters/nanally/archive/) |
+| Voice lines | [Nanally voice lines](/characters/nanally/voice/) |
 
 ## How to obtain
 

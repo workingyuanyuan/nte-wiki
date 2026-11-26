@@ -64,6 +64,7 @@ sources:
 | 신분 | E.T.D 6팀 소속 |
 | 성우 | 중국어: 淦子齐; 영어: Rick Kumazawa; 일본어: 小西克幸; 한국어: 원종준 |
 | 아카이브 | [카오스 아카이브](/ko/characters/chaos/archive/) |
+| 보이스 | [카오스 보이스](/ko/characters/chaos/voice/) |
 
 Chaos는 영어판에서 암속성의 이름이기도 하다.
 

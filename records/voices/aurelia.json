@@ -1,0 +1,1547 @@
+{
+ "slug": "aurelia",
+ "id": "1070",
+ "version": "1.5.4",
+ "sources": {
+  "en": "https://static.nanoka.cc/nte/1.5.4/en/character/1070.json",
+  "zh-cn": "https://static.nanoka.cc/nte/1.5.4/zh/character/1070.json",
+  "ja": "https://static.nanoka.cc/nte/1.5.4/ja/character/1070.json",
+  "ko": "https://static.nanoka.cc/nte/1.5.4/ko/character/1070.json",
+  "zh-tw": "https://everness.info/zh-Hant/espers/1070"
+ },
+ "reads": {
+  "zh-tw": "2026-11-25"
+ },
+ "lines": {
+  "en": {
+   "daily": [
+    {
+     "title": "First Meet",
+     "text": "Hi, my name is Aurelia… Oh, is this one scaring you? Sorry, it gets excited when it meets a new friend… I hope you don't mind. Hmm? You're not scared? Great!"
+    },
+    {
+     "title": "Chat: Advice",
+     "text": "When playing the drums, never wear wide-leg pants! If you hit the pedal too hard, the pants can easily get caught in the bass drum beater…"
+    },
+    {
+     "title": "Chat: Night Out",
+     "text": "I like going out at night. There aren't a lot of people on the streets, so I don't have to worry about bumping into anyone. Though if they saw me floating on the road that late, they might get spooked…"
+    },
+    {
+     "title": "Chat: Music",
+     "text": "Every music genre has its own charm, and every song carries the unique emotions of its creator. But if you're asking for my top band… I can't pick just one. Let me put together a playlist instead!"
+    },
+    {
+     "title": "Sunny",
+     "text": "Another good day! The sun is bright and I'm feeling bright too!"
+    },
+    {
+     "title": "Rainy",
+     "text": "The rain drops are like thin threads. How cozy."
+    },
+    {
+     "title": "Cold",
+     "text": "It's so cold… Should I take a detour to Crazy Cat for a hot drink…?"
+    },
+    {
+     "title": "Hot",
+     "text": "It's so warm… my jellyfish are feeling tepid. Let's rest in the shade."
+    },
+    {
+     "title": "Morning Greeting",
+     "text": "Good morning. Did you have a good night's sleep?"
+    },
+    {
+     "title": "Noon Greeting",
+     "text": "Hehe, I made this cake! Isn't it cute? Lemme give you a slice!"
+    },
+    {
+     "title": "Evening Greeting",
+     "text": "The sunset is mesmerizing. Should I go to the coast before the sun sets?"
+    },
+    {
+     "title": "Good Night",
+     "text": "A good day needs a good night's sleep. Sleep early. I'll see you tomorrow."
+    },
+    {
+     "title": "Hobbies",
+     "text": "Oh, there's a lot! I love trying all sorts of new things, though I tend to lose interest quickly… If there's one thing that's stayed with me, it would have to be gazing at the sea. The distant line where the sky meets the water and the gentle rhythm of the waves… puts my heart at ease, as if I'm a tiny note in a grand and eternal choir… All my worries fade away when I gaze at the sea."
+    },
+    {
+     "title": "Worries",
+     "text": "My go-to navigation app has been updating lately and keeps glitching out. Now, I get lost all the time. I've shown up late to my part-time job many times this week… My kind boss hasn't docked my pay, but I still feel bad about it… I might just get a paper map until the app gets fixed."
+    },
+    {
+     "title": "Topic: Jellyfish",
+     "text": "Every now and then, you'll find jellyfish washed up on the shore, left behind by the retreating tide. Perhaps they've lost their way too… If you ever come across a jellyfish on the beach, please don't touch it. They may look soft and harmless, but many of them are venomous. Oh, the ones around me are completely harmless though, so don't worry!"
+    },
+    {
+     "title": "Topic: Dangerous Driving",
+     "text": "This one is just too large to fit on most forms of transportation. Fortunately, it's fast, so even when there's something urgent, not being able to board a vehicle isn't an issue… Hm? You're asking how fast? W-Well, let's just say, not fast enough to get lectured by Officer Whiskers for speeding through the city on a jellyfish."
+    },
+    {
+     "title": "Topic: Anomaly",
+     "text": "If I hadn't taken on the mission to nullify Swallowtail that day, perhaps none of this would have happened. That anomaly was just as dangerous as it was beautiful… I know you're a very capable Anomaly Hunter, but please take good care of yourself. Not just for your own sake, but for the people who care about you and love you."
+    },
+    {
+     "title": "About Myself: Esper Abilities",
+     "text": "My ability is rather weak. I can only control jellyfish. But thanks to these little ones, I was able to return to a normal life. When I'm all by myself, they keep me company, so I never feel lonely. That's why I'm truly grateful to have an ability like this. It's just like they say, \"What suits you is what's best for you.\" It's that simple."
+    },
+    {
+     "title": "About Myself: Rehabilitation",
+     "text": "The doctor said I'll likely never make a full recovery. But if I keep up with rehab and get medical treatment, one day I might be able to stand again. You might think it's nothing more than a fleeting wish, and that I'm foolish for holding on to it… but I believe that before life reaches its end, anything is possible. If a miracle were to come, and I wasn't ready for it, wouldn't that be a shame?"
+    },
+    {
+     "title": "About Myself: Delicacies",
+     "text": "There are many great eateries along Tamamochi Street where I work. The roast duck at Din's is always crispy on the outside and tender on the inside; Nekomaru Ramen is wonderful, but you need to watch out for the hot broth. My favorite is the custard buns from Bigmouth Baozi. I love holding one in my hands on cold days, then taking a bite to to warm, fragrant sweetness… it's pure bliss. Though if I eat too many and put on weight, I might burden this little one… I suppose I'll have to control myself."
+    },
+    {
+     "title": "About Akane",
+     "text": "Thank you for supporting Akane's return to the stage. It means a great deal to me as well. You're a drummer, too. I'm sure you understand. Akane is always so shiny on stage when I look from behind. It's as if she was born to perform… From now on, I'll keep on cheering for The Whoots!!!! Don't forget I've been your number one fan since your very first gig!"
+    },
+    {
+     "title": "About LINES",
+     "text": "The truth is, LINES wasn't born out of a desire to start a band. I wanted to find a reason for the three of us to stay together after we graduated. Perhaps that's why, when I could no longer play, LINES just fell apart… But the connections between people aren't just straight lines; even when one intersection is lost, there's always a chance to meet again. I wish I understood that sooner… but it's not too late, even now."
+    },
+    {
+     "title": "Character Ascension I",
+     "text": "As refreshing as the breeze!"
+    },
+    {
+     "title": "Character Ascension II",
+     "text": "Hmm, I can do better!"
+    },
+    {
+     "title": "Character Ascension III",
+     "text": "Hehe, the jellyfish are dancing."
+    },
+    {
+     "title": "Gift Received I",
+     "text": "What a thoughtful gift! Does that mean… we're already good friends?"
+    },
+    {
+     "title": "Gift Received II",
+     "text": "Oh, I wanted this! Are you a fairy that makes my wishes come true?"
+    },
+    {
+     "title": "Gift Received III",
+     "text": "Thank you! I'll prepare a gift for you too. It's going to be good!"
+    },
+    {
+     "title": "Gift Received IV",
+     "text": "What a special gift…! Is today a special day?"
+    }
+   ],
+   "battle": [
+    {
+     "title": "Redirect Skill I",
+     "text": "It's show time!"
+    },
+    {
+     "title": "Redirect Skill II",
+     "text": "Let the ocean's anthem ring."
+    },
+    {
+     "title": "Redirect Skill III",
+     "text": "Hear the song that we must sing."
+    },
+    {
+     "title": "Ultimate I",
+     "text": "Turn with galaxies in flight."
+    },
+    {
+     "title": "Ultimate II",
+     "text": "Draw the tides into the night."
+    },
+    {
+     "title": "Ultimate III",
+     "text": "And let the melody take wing."
+    },
+    {
+     "title": "Containment I",
+     "text": "Hehe, gotcha!"
+    },
+    {
+     "title": "Containment II",
+     "text": "Stay put in the container."
+    },
+    {
+     "title": "Nullification I",
+     "text": "I hope the next one is just as easy."
+    },
+    {
+     "title": "Nullification II",
+     "text": "Mission accomplished. Thanks for helping!"
+    },
+    {
+     "title": "Unexpected Gains I",
+     "text": "Not bad at all."
+    },
+    {
+     "title": "Unexpected Gains II",
+     "text": "Don't forget to take it!"
+    },
+    {
+     "title": "Unexpected Gains III",
+     "text": "Looks like good stuff."
+    },
+    {
+     "title": "Unexpected Gains IV",
+     "text": "Mhm, I'll keep it safe."
+    },
+    {
+     "title": "Unexpected Gains V",
+     "text": "Feeling lucky. Will I get another free Refresh if I buy one?"
+    },
+    {
+     "title": "Unexpected Gains VI",
+     "text": "A token for today."
+    },
+    {
+     "title": "Low Health I",
+     "text": "I can… do this."
+    },
+    {
+     "title": "Low Health II",
+     "text": "Getting dizzy…"
+    },
+    {
+     "title": "Low Health III",
+     "text": "Ugh… must not… lose."
+    },
+    {
+     "title": "Heal I",
+     "text": "Time for a bonus song!"
+    },
+    {
+     "title": "Heal II",
+     "text": "Phew, much better."
+    },
+    {
+     "title": "Down I",
+     "text": "Must be… on stage… again…"
+    },
+    {
+     "title": "Down II",
+     "text": "I haven't… learned…"
+    },
+    {
+     "title": "Down III",
+     "text": "Not like this…"
+    },
+    {
+     "title": "Takedown I",
+     "text": "Phew, dealt with!"
+    },
+    {
+     "title": "Takedown II",
+     "text": "Don't underestimate me!"
+    },
+    {
+     "title": "Damaged I",
+     "text": "I'm alright."
+    },
+    {
+     "title": "Damaged II",
+     "text": "It's just a scratch."
+    },
+    {
+     "title": "Heavily Damaged I",
+     "text": "I'm okay… it doesn't hurt."
+    },
+    {
+     "title": "Heavily Damaged II",
+     "text": "Can't be careless…"
+    },
+    {
+     "title": "Deploy I",
+     "text": "When you're ready."
+    },
+    {
+     "title": "Deploy II",
+     "text": "I'll give you a hand."
+    },
+    {
+     "title": "Entry Attack I",
+     "text": "Enter on the downbeat!"
+    },
+    {
+     "title": "Entry Attack II",
+     "text": "At your positions!"
+    },
+    {
+     "title": "Entry Attack III",
+     "text": "Everybody in sync!"
+    },
+    {
+     "title": "Glide I",
+     "text": "Just like a bird."
+    },
+    {
+     "title": "Glide II",
+     "text": "Gotta land safe."
+    },
+    {
+     "title": "Switch I",
+     "text": "Safety first. Get some rest."
+    },
+    {
+     "title": "Switch II",
+     "text": "Time for the next set!"
+    },
+    {
+     "title": "Switch III",
+     "text": "We'll take care of this."
+    },
+    {
+     "title": "Special Switch: Akane",
+     "text": "Akane, it's intermission!"
+    },
+    {
+     "title": "Teammate Down - Akane",
+     "text": "You don't have to do this alone. Let me help."
+    },
+    {
+     "title": "Parry I",
+     "text": "Ow, that was close!"
+    },
+    {
+     "title": "Parry II",
+     "text": "Just on beat!"
+    },
+    {
+     "title": "Consecutive Critical Dodge Success I",
+     "text": "We're fast, you know!"
+    },
+    {
+     "title": "Consecutive Critical Dodge Success II",
+     "text": "Perfect rhythm!"
+    }
+   ]
+  },
+  "zh-cn": {
+   "daily": [
+    {
+     "title": "初次见面",
+     "text": "你好，我叫海月……啊，这孩子是不是吓到你了？不好意思，它一见到新朋友就有点兴奋，希望你别介意……嗯？你不害怕它吗？那太好了！"
+    },
+    {
+     "title": "闲聊·建议",
+     "text": "打鼓的时候，千万不要穿阔腿裤！要是踏板踩得太起劲，裤管很容易把底鼓的鼓槌装进去……"
+    },
+    {
+     "title": "闲聊·夜游",
+     "text": "我很喜欢夜里出门，那时候街上人很少，不用担心会撞到别人。不过，在深夜里见到我这样飘在路上，可能也会吓到路人吧……"
+    },
+    {
+     "title": "闲聊·音乐",
+     "text": "每种音乐风格都有独特的魅力，每首歌都承载着创作者独一无二的感情。不过，要说我个人最推荐的乐队……完全选不出来呢，还是让我拉个歌单吧！"
+    },
+    {
+     "title": "大晴天",
+     "text": "今天又是好天气！阳光这么好，心情也明亮起来了。"
+    },
+    {
+     "title": "雨天",
+     "text": "雨滴凉丝丝的，真惬意啊。"
+    },
+    {
+     "title": "寒冷",
+     "text": "好冷好冷……要不要绕路去抽风猫买杯热饮呢……"
+    },
+    {
+     "title": "炎热",
+     "text": "好热啊……水母们也没精神了，还是去阴凉处休息一下吧。"
+    },
+    {
+     "title": "早上问候",
+     "text": "早上好，昨晚睡得好吗？"
+    },
+    {
+     "title": "中午问候",
+     "text": "锵锵，我做的蛋糕！是不是很可爱？等下哦，我切一块给你！"
+    },
+    {
+     "title": "傍晚问候",
+     "text": "夕阳真漂亮啊。要不要趁太阳落山前，去海边转转呢？"
+    },
+    {
+     "title": "晚安",
+     "text": "美好的一天可离不开充足的睡眠。你要早点休息哦，我们明天见。"
+    },
+    {
+     "title": "爱好",
+     "text": "有很多哦！我喜欢尝试各种没做过的事，不过总是三分钟热度……要说有什么爱好持续了很久，可能就是看海了。只要望着遥远的海天线，听着涛声的韵律……心情就会平静下来。仿佛我也是一个细小的音符，是这场盛大、永恒的合唱的一部分……在大海面前，好像一切烦恼都不再重要。"
+    },
+    {
+     "title": "烦恼",
+     "text": "最近常用的导航软件在升级，总是出各种小问题，害我天天迷路。这周打工已经迟到好多次了……虽然会长人好，没有扣我工资，但我还是很过意不去……在软件恢复正常之前，还是先用回纸质地图好了。"
+    },
+    {
+     "title": "话题·水母",
+     "text": "沙滩上偶尔会出现一些搁浅的水母。会被褪去的潮水留在这里，它们可能也迷路了吧。……如果你在海滩上看到水母，可不要触碰哦。它们虽然看着柔弱无害，其实很多都有毒。啊，我身边这些孩子是无毒的哦，不用担心！"
+    },
+    {
+     "title": "话题·危险驾驶",
+     "text": "这孩子体型太大了，很多交通工具都坐不了。好在它本身速度够快，有急事的时候，就算坐不了车也没问题。……嗯？你问能有多快？总、总之没到被巡哨鼠鼠教育、禁止在市区内超速驾驶水母的地步啦。"
+    },
+    {
+     "title": "话题·异象",
+     "text": "如果那天没有接下泯除「斑蝶」的任务，或许一切都不会发生吧。那种异象有多斑斓美丽，就有多凶险。……我知道你是个很强大的异象猎人，但你也一定要多加小心，好好保护自己。不仅是为了你自己，也是为了那些关心你、爱你的人。"
+    },
+    {
+     "title": "关于自己·异能",
+     "text": "我的异能很弱，只能操控水母。不过，多亏了这些孩子，我才能恢复正常的生活。一个人的时候，也是它们陪着我，才不觉得孤单。所以，我很感谢能拥有这样的异能。「适合自己的就是最好的」，或许就是这么简单的道理呢。"
+    },
+    {
+     "title": "关于自己·复健",
+     "text": "医生说，我大概永远无法彻底康复。但如果认真做复健，配合医疗或器械帮助，或许有一天，我还能再次站起来。也许你会觉得，这不过是个缥缈的愿望，一直坚持相信的我太愚蠢……但我觉得，在生命走到尽头前，什么都有可能发生。如果奇迹降临了，我却没准备好，不是太遗憾了吗？"
+    },
+    {
+     "title": "关于自己·美食",
+     "text": "我打工的玉饼街上有好多美味的店呢。鼎记的烤鸭总是外酥里嫩；猫丸拉面虽然好吃，但要小心烫嘴。我最喜欢的还是巨嘴包子的奶黄包，尤其是天冷的时候，捧在手里暖暖的，咬一口热气腾腾，又香又甜，太幸福了……不过，如果吃太多导致体重增加的话，可能会为这孩子带来负担……还是得克制一些。"
+    },
+    {
+     "title": "关于明音",
+     "text": "谢谢你们支持明音重新回到舞台，这对我而言也意义非凡。相信同为鼓手，你一定也明白吧？舞台上，明音的背影总是那么耀眼。好像生来就属于那里一样……今后，我也会一直一直关注「猫头音！！！！」的。别忘了，我可是从首演就开始推你们的头号粉丝呢！"
+    },
+    {
+     "title": "关于「平行线」",
+     "text": "其实平行线的诞生，并不是单纯因为「想组乐队」，而是我想为我们三人找到一个毕业后、长大后也能一直在一起的理由。或许正因为这样，当我无法继续演奏之后，平行线才会直接分崩离析吧……但是，人与人的联系并不是孤零零的直线。即使少了一个交点，也总有机会再次相连。要是我能早点明白这个道理就好了……不过，现在也不晚呢。"
+    },
+    {
+     "title": "角色突破·Ⅰ",
+     "text": "像海风一样清爽！"
+    },
+    {
+     "title": "角色突破·Ⅱ",
+     "text": "嗯，我还可以做得更好。"
+    },
+    {
+     "title": "角色突破·Ⅲ",
+     "text": "呵呵，水母们都跳起舞来了。"
+    },
+    {
+     "title": "收到赠礼·Ⅰ",
+     "text": "这么用心的礼物，是不是说明……我们已经是很好很好的朋友了？"
+    },
+    {
+     "title": "收到赠礼·Ⅱ",
+     "text": "欸，我正想要这个呢！你是专门来实现我愿望的小精灵吗？"
+    },
+    {
+     "title": "收到赠礼·Ⅲ",
+     "text": "谢谢你！我会好好准备回礼的，你可以期待一下哦。"
+    },
+    {
+     "title": "收到赠礼·IV",
+     "text": "好特别的礼物啊……今天是什么节日吗？"
+    }
+   ],
+   "battle": [
+    {
+     "title": "变轨技能·Ⅰ",
+     "text": "登台时间到！"
+    },
+    {
+     "title": "变轨技能·Ⅱ",
+     "text": "奏响海的乐章吧。"
+    },
+    {
+     "title": "变轨技能·Ⅲ",
+     "text": "聆听我们的歌吧。"
+    },
+    {
+     "title": "极轨终结·Ⅰ",
+     "text": "同银河一起流转。"
+    },
+    {
+     "title": "极轨终结·Ⅱ",
+     "text": "将浪潮牵引而来。"
+    },
+    {
+     "title": "极轨终结·Ⅲ",
+     "text": "让旋律在此收拢。"
+    },
+    {
+     "title": "收容异象·Ⅰ",
+     "text": "嘿嘿，抓到你啦。"
+    },
+    {
+     "title": "收容异象·Ⅱ",
+     "text": "要在收容体里乖乖待着哦。"
+    },
+    {
+     "title": "泯除异象·Ⅰ",
+     "text": "希望下一次也能这么顺利。"
+    },
+    {
+     "title": "泯除异象·Ⅱ",
+     "text": "任务完成，大家都辛苦啦~"
+    },
+    {
+     "title": "意外收获·Ⅰ",
+     "text": "不错的收获呢。"
+    },
+    {
+     "title": "意外收获·Ⅱ",
+     "text": "可千万不要忘拿。"
+    },
+    {
+     "title": "意外收获·Ⅲ",
+     "text": "看上去是好东西呢。"
+    },
+    {
+     "title": "意外收获·Ⅳ",
+     "text": "嗯，我已经保管好啦。"
+    },
+    {
+     "title": "意外收获·Ⅴ",
+     "text": "运气真好。今天买畅爽能开到「再来一瓶」吗？"
+    },
+    {
+     "title": "意外收获·Ⅵ",
+     "text": "就当做是今天的纪念吧。"
+    },
+    {
+     "title": "生命值低·Ⅰ",
+     "text": "应该……还能坚持。"
+    },
+    {
+     "title": "生命值低·Ⅱ",
+     "text": "眼前有点模糊了……"
+    },
+    {
+     "title": "生命值低·Ⅲ",
+     "text": "唔……不能认输……"
+    },
+    {
+     "title": "恢复生命·Ⅰ",
+     "text": "接下来是安可时间！"
+    },
+    {
+     "title": "恢复生命·Ⅱ",
+     "text": "呼，这样好多了。"
+    },
+    {
+     "title": "力竭·Ⅰ",
+     "text": "还想……再站上舞台……"
+    },
+    {
+     "title": "力竭·Ⅱ",
+     "text": "真是……没有长进……"
+    },
+    {
+     "title": "力竭·Ⅲ",
+     "text": "不甘心……"
+    },
+    {
+     "title": "击败怪物·Ⅰ",
+     "text": "呼，平安解决~"
+    },
+    {
+     "title": "击败怪物·Ⅱ",
+     "text": "小看我可是会吃亏的哦。"
+    },
+    {
+     "title": "普通受击·Ⅰ",
+     "text": "这种程度，不碍事。"
+    },
+    {
+     "title": "普通受击·Ⅱ",
+     "text": "呼，小伤而已。"
+    },
+    {
+     "title": "重受击·Ⅰ",
+     "text": "……没关系，我不疼。"
+    },
+    {
+     "title": "重受击·Ⅱ",
+     "text": "不能再大意了……"
+    },
+    {
+     "title": "上阵·Ⅰ",
+     "text": "随时都可以出发哦。"
+    },
+    {
+     "title": "上阵·Ⅱ",
+     "text": "让我帮忙吧。"
+    },
+    {
+     "title": "协同技·Ⅰ",
+     "text": "重拍入场！"
+    },
+    {
+     "title": "协同技·Ⅱ",
+     "text": "各就各位！"
+    },
+    {
+     "title": "协同技·Ⅲ",
+     "text": "全员合拍！"
+    },
+    {
+     "title": "滑翔·Ⅰ",
+     "text": "像变成了鸟儿一样。"
+    },
+    {
+     "title": "滑翔·Ⅱ",
+     "text": "落地时要稳一些。"
+    },
+    {
+     "title": "切换·Ⅰ",
+     "text": "安全第一，快去休息。"
+    },
+    {
+     "title": "切换·Ⅱ",
+     "text": "该换场了！"
+    },
+    {
+     "title": "切换·Ⅲ",
+     "text": "放心，有我们在。"
+    },
+    {
+     "title": "特殊切换·明音",
+     "text": "明音，中场休息！"
+    },
+    {
+     "title": "队友倒下·明音",
+     "text": "不要一个人硬撑，交给我吧。"
+    },
+    {
+     "title": "弹反·Ⅰ",
+     "text": "哎呀，好险。"
+    },
+    {
+     "title": "弹反·Ⅱ",
+     "text": "节奏刚好！"
+    },
+    {
+     "title": "连续极限闪避成功·Ⅰ",
+     "text": "速度可是我们的特长！"
+    },
+    {
+     "title": "连续极限闪避成功·Ⅱ",
+     "text": "完美的节拍！"
+    }
+   ]
+  },
+  "ja": {
+   "daily": [
+    {
+     "title": "初対面",
+     "text": "こんにちは、私、海月っていうの…あっ、この子がびっくりさせちゃったかな。ごめんね、新しいお友達に会うとちょっと興奮しちゃうみたいで…えっ？この子、怖くないの？よかった~！"
+    },
+    {
+     "title": "雑談-アドバイス",
+     "text": "ドラムを叩く時は、絶対にワイドパンツはNGだよ！ペダルを踏んでいるうちに、裾がビーターに巻き込まれちゃうからね…"
+    },
+    {
+     "title": "雑談-夜遊び",
+     "text": "夜のお散歩が好きなんだ。人通りが少なくて、誰かとぶつかることもないし。でも、夜遅くに私がこんな風にフワフワ宙に浮いてたら、ちょっと怖いかも…"
+    },
+    {
+     "title": "雑談-音楽",
+     "text": "音楽ってどのジャンルも魅力的だし、曲ごとに作った人の想いが詰まってるからね。一番おすすめのバンド…？うーん、一つになんか絞れないよ。代わりに、君専用の「とっておきプレイリスト」を作ってあげる。"
+    },
+    {
+     "title": "快晴",
+     "text": "今日もいい天気！お日様さんさん、心もパッと明るくなるね。"
+    },
+    {
+     "title": "雨",
+     "text": "雨が涼しげで、なんだか気持ちいいね。"
+    },
+    {
+     "title": "寒い",
+     "text": "うぅ~さむーい…ちょっと遠回りして、ネコウチャで温かい飲み物でも買って行こうかな…"
+    },
+    {
+     "title": "灼熱",
+     "text": "あっつーい…クラゲたちもへばっちゃってるみたいだし、日陰でちょっと休もうかな。"
+    },
+    {
+     "title": "朝の挨拶",
+     "text": "おはよー、昨日はよく眠れた？"
+    },
+    {
+     "title": "昼の挨拶",
+     "text": "ジャーン！ケーキ作ったんだ。可愛いかな？今切り分けるから、ちょっと待ってて。"
+    },
+    {
+     "title": "夕方の挨拶",
+     "text": "綺麗な夕陽…日が沈む前に、一緒に海辺まで行ってみない？"
+    },
+    {
+     "title": "おやすみ",
+     "text": "素敵な1日は、十分な睡眠から始まるんだよ。早く休んでね、また明日。"
+    },
+    {
+     "title": "趣味",
+     "text": "たくさんあるよ！新しいことに挑戦するのは大好き…まあいつも三日坊主で終わっちゃうけどね。ずっと続いてる趣味っていえば、やっぱり「海を見ること」かな。水平線の彼方を眺めながら、波の音を聴いてると…すごく心が落ち着く。なんだか自分が小さな音符になって、海が奏でる終わらないハーモニーに溶け込んでいくみたいで…"
+    },
+    {
+     "title": "悩み",
+     "text": "最近、いつも使ってるナビアプリの調子が悪くて。もう毎日迷子になっちゃって、本当に大変。今週なんて、バイトに何回遅刻したか…会長が優しいから給料は大丈夫だったけど、申し訳なさすぎて…アプリが直るまで、私も紙の地図に頼ろうかな…"
+    },
+    {
+     "title": "話題-クラゲ",
+     "text": "砂浜を歩いてると、たまに打ち上げられたクラゲがいるでしょ？あれって、潮が引く時に海に帰りそびれちゃった「迷子」なの。でも、可哀想だからって触るのは絶対にダメ！弱ってるし危なくなさそうに見えても、毒を持ってる子が多いから…あ、もちろんウチの子たちは例外。この子たちは毒がないから、安心して触っていいよ。"
+    },
+    {
+     "title": "話題-危険運転",
+     "text": "この子ね、体が大きすぎるから電車とかバスには乗れないんだ。でも、すーっごく足が速いから、移動はいつもこの子にお任せなの。えっ？どれくらい速いかって？ま、「クラゲのスピード違反」を取られないギリギリのライン、ってとこかな。"
+    },
+    {
+     "title": "話題-異象",
+     "text": "あの日…「斑蝶」の排除任務なんて引き受けていなければ…今の私は違っていたのかな。鮮やかで綺麗なヤツほど、本当に凶暴だから。君がすっごく強いハンターだってことは知ってる。でも、無茶なことだけは絶対禁止だからね。君に何かあったら…悲しむ人が、たくさんいるんだから。"
+    },
+    {
+     "title": "自分について-異能",
+     "text": "私の異能って、ただクラゲを操るだけで…正直、すっごく地味だよね。でもね、この子たちが足になってくれたおかげで、私はまた自由に外に出られるようになったの。一人の時もずっとそばにいてくれるし…今では、この異能ですっごく良かったって感謝してるんだ。ほら、「自分に合ったものが一番」って言うでしょ。"
+    },
+    {
+     "title": "自分について-リハビリ",
+     "text": "お医者さんからはね、「もう完全には元に戻らないだろう」って言われちゃった。でも、諦めずにリハビリを続けていけば…いつかまた、自分の足で立てる日が来るかもしれない…こんなこと信じてるなんて、バカみたいかな？でもね、私…生きてる限り「絶対」はないって信じてるの。だって、せっかく奇跡が起きようとしてるのに、その前で諦めちゃったら…すっごく、もったいないでしょ？"
+    },
+    {
+     "title": "自分について-グルメ",
+     "text": "私がバイトしてる玉餅商店街には、美味しいお店がたくさんあるんだよ。「鼎記」のローストダックは外はカリカリ、中はジューシーだし、「猫丸ラーメン」はすっごく美味しいけど火傷に注意かな。私の一番のお気に入りは、「ビッグチ点心」のカスタードまん！寒い日は、手からじんわり温めてくれるし、一口かじると湯気がフワッて立って……甘くて美味しくって、最高に幸せな気分になれる。でも、食べ過ぎて体重にまで影響したら、この子の負担になっちゃうし…やっぱりほどほどにしないとね。"
+    },
+    {
+     "title": "明音について",
+     "text": "明音のステージ復帰を応援してくれて、本当にありがとう！私にとっても、すっごく大切なことだったんだ。同じドラマーなら、分かるでしょ？ステージに立つ明音って、そこで輝くために生まれてきたみたいで眩しくって…これからもずっと「ネコトリ！！！！」を応援していくからね。言っとくけど、私、初ライブから見てる「最古参ファン」なんだよね。"
+    },
+    {
+     "title": "「LINES」について",
+     "text": "実は「LINES」を結成したのって、「バンドをやりたい！」ってことだけじゃなくて、大人になっても、私たち3人が一緒にいるための「理由」を作りたかったから。だから、私が演奏できなくなった後、あっけなくバラバラになっちゃったのかもね…だけど、人と人を繋ぐ糸は、決して1本だけじゃない。たとえ一度、途切れてしまっても、どこかでまた繋がってくることがある。もっと早く気づければよかったな…きっと、今からだって絶対遅くないよね？"
+    },
+    {
+     "title": "キャラ突破Ⅰ",
+     "text": "潮風みたいに爽やかだね！"
+    },
+    {
+     "title": "キャラ突破Ⅱ",
+     "text": "うん、私はまだやれるよ。"
+    },
+    {
+     "title": "キャラ突破Ⅲ",
+     "text": "えへへ、クラゲたちも踊りだしたね！"
+    },
+    {
+     "title": "届けられたギフトⅠ",
+     "text": "こんなに心のこもったプレゼントなんて…私たち、もう親友ってことなのかな？"
+    },
+    {
+     "title": "届けられたギフトⅡ",
+     "text": "あっ、ちょうどこれが欲しかったんだ！君は私の願いを叶えてくれる妖精さんなの？"
+    },
+    {
+     "title": "届けられたギフトⅢ",
+     "text": "ありがとう！ちゃんとお返しを用意するから、期待しててね。"
+    },
+    {
+     "title": "届けられたギフトⅣ",
+     "text": "珍しいプレゼントだね…今日は何かのお祝いかな？"
+    }
+   ],
+   "battle": [
+    {
+     "title": "バイレールスキルⅠ",
+     "text": "ステージの始まりだよ！"
+    },
+    {
+     "title": "バイレールスキルⅡ",
+     "text": "海のメロディを奏でよう。"
+    },
+    {
+     "title": "バイレールスキルⅢ",
+     "text": "私たちの歌、聴いてね！"
+    },
+    {
+     "title": "EXレール終結Ⅰ",
+     "text": "銀河と共に巡るよ！"
+    },
+    {
+     "title": "EXレール終結Ⅱ",
+     "text": "波を呼び寄せるよ！"
+    },
+    {
+     "title": "EXレール終結Ⅲ",
+     "text": "メロディー、ここで響かせるね！"
+    },
+    {
+     "title": "異象収容Ⅰ",
+     "text": "えへへ、捕まえたよ！"
+    },
+    {
+     "title": "異象収容Ⅱ",
+     "text": "収容体の中でいい子にしててね。"
+    },
+    {
+     "title": "異象排除Ⅰ",
+     "text": "次もこんな風にスムーズだといいな。"
+    },
+    {
+     "title": "異象排除Ⅱ",
+     "text": "任務完了、みんなお疲れ様～"
+    },
+    {
+     "title": "意外な収穫Ⅰ",
+     "text": "わぁ、なかなかの収穫だね！"
+    },
+    {
+     "title": "意外な収穫Ⅱ",
+     "text": "忘れずに持って帰ろうね。"
+    },
+    {
+     "title": "意外な収穫Ⅲ",
+     "text": "いいものみたいだね。"
+    },
+    {
+     "title": "意外な収穫Ⅳ",
+     "text": "うん、ちゃんとしまっておいたよ。"
+    },
+    {
+     "title": "意外な収穫Ⅴ",
+     "text": "ツイてるね。今日「スカッと」を買ったら「もう一本」が出るかな？"
+    },
+    {
+     "title": "意外な収穫Ⅵ",
+     "text": "今日の記念にしようよ。"
+    },
+    {
+     "title": "低HPⅠ",
+     "text": "まだ…頑張れるはずだよ。"
+    },
+    {
+     "title": "低HPⅡ",
+     "text": "目の前が霞んで…"
+    },
+    {
+     "title": "低HPⅢ",
+     "text": "うぅ…負けられない…"
+    },
+    {
+     "title": "HP回復Ⅰ",
+     "text": "さあアンコールの時間だよ！"
+    },
+    {
+     "title": "HP回復Ⅱ",
+     "text": "ふぅ、これでだいぶ楽になったよ。"
+    },
+    {
+     "title": "力尽きⅠ",
+     "text": "また…ステージに立ちたい…"
+    },
+    {
+     "title": "力尽きⅡ",
+     "text": "あの時から…変わってない…"
+    },
+    {
+     "title": "力尽きⅢ",
+     "text": "悔しい…"
+    },
+    {
+     "title": "敵を撃破Ⅰ",
+     "text": "ふぅ、無事に解決～。"
+    },
+    {
+     "title": "敵を撃破Ⅱ",
+     "text": "この私を見くびったら、痛い目に遭うよ。"
+    },
+    {
+     "title": "ダメージを受ける（通常）Ⅰ",
+     "text": "この程度、平気だよ。"
+    },
+    {
+     "title": "ダメージを受ける（通常）Ⅱ",
+     "text": "ふぅ、かすり傷だよ！"
+    },
+    {
+     "title": "大打撃Ⅰ",
+     "text": "…大丈夫、痛くないよ。"
+    },
+    {
+     "title": "大打撃Ⅱ",
+     "text": "もう油断できないね…"
+    },
+    {
+     "title": "出撃Ⅰ",
+     "text": "いつでも出発できるよ。"
+    },
+    {
+     "title": "出撃Ⅱ",
+     "text": "私も手伝うね！"
+    },
+    {
+     "title": "コンビスキルⅠ",
+     "text": "ダウンビートで入るよ！"
+    },
+    {
+     "title": "コンビスキルⅡ",
+     "text": "さぁ、みんな！"
+    },
+    {
+     "title": "コンビスキルⅢ",
+     "text": "一緒に合わせようね！"
+    },
+    {
+     "title": "滑空Ⅰ",
+     "text": "まるで鳥になった気分。"
+    },
+    {
+     "title": "滑空Ⅱ",
+     "text": "着地の時は気をつけなきゃね。"
+    },
+    {
+     "title": "切替Ⅰ",
+     "text": "安全第一だよ、早く休もう。"
+    },
+    {
+     "title": "切替Ⅱ",
+     "text": "転換の時間だよ！"
+    },
+    {
+     "title": "切替Ⅲ",
+     "text": "安心して、私たちがいるから。"
+    },
+    {
+     "title": "特殊切替・明音",
+     "text": "明音、休憩だよ！"
+    },
+    {
+     "title": "仲間気絶・明音",
+     "text": "1人で無理しないで、私に任せて。"
+    },
+    {
+     "title": "パリィⅠ",
+     "text": "おっと、危ない危ない！"
+    },
+    {
+     "title": "パリィⅡ",
+     "text": "リズムバッチリ！"
+    },
+    {
+     "title": "連続極限回避成功Ⅰ",
+     "text": "スピードは私たちの得意分野！"
+    },
+    {
+     "title": "連続極限回避成功Ⅱ",
+     "text": "完璧なビートだね！"
+    }
+   ]
+  },
+  "ko": {
+   "daily": [
+    {
+     "title": "첫 만남",
+     "text": "안녕하세요, 우미츠키라고 해요… 아, 이 아이 때문에 놀랐죠? 죄송해요, 얘가 새 친구만 보면 흥분해서. 기분 나쁘게 생각하지 않았으면 좋겠어요… 네? 당신은 이 아이가 안 무섭나요? 정말 다행이에요!"
+    },
+    {
+     "title": "대화·조언",
+     "text": "드럼 칠 땐 절대 와이드 팬츠 입지 마요! 신나게 페달을 밟다가 바짓단이 비터에 낄 수도 있거든요…"
+    },
+    {
+     "title": "대화·야간 산책",
+     "text": "전 밤에 외출하는 걸 좋아해요. 그땐 거리가 한적해서 사람들과 부딪칠 걱정을 안 해도 되거든요. 근데… 한밤중에 이렇게 길 위를 떠다니면 사람들이 놀랄 수도 있겠네요…"
+    },
+    {
+     "title": "대화·음악",
+     "text": "음악은 장르마다 매력이 달라요. 모든 노래에는 작곡가의 고유한 감정이 담겨 있죠. 가장 추천하는 밴드를 꼽으라면… 도저히 못 고르겠어요! 차라리 플레이리스트를 하나 짜줄게요!"
+    },
+    {
+     "title": "맑은 날",
+     "text": "오늘도 날씨가 정말 좋네요! 햇살이 좋으니 기분도 상쾌해졌어요."
+    },
+    {
+     "title": "비 오는 날",
+     "text": "차가운 비가 보슬보슬 내리고 있어요. 운치 있네요."
+    },
+    {
+     "title": "추운 날",
+     "text": "으으, 추워… 크레이지 캣에 들러서 따뜻한 음료 한 잔 마실래요…?"
+    },
+    {
+     "title": "더운 날",
+     "text": "아유, 더워… 해파리들도 기운을 못 차리네요. 그늘로 가서 쉬어야겠어요."
+    },
+    {
+     "title": "아침 인사",
+     "text": "굿모닝. 밤엔 잘 잤어요?"
+    },
+    {
+     "title": "점심 인사",
+     "text": "짠! 제가 만든 케이크예요! 귀엽죠? 기다려봐요, 한 조각 잘라줄게요!"
+    },
+    {
+     "title": "저녁 인사",
+     "text": "노을이 정말 예쁘네요. 해 지기 전에 바닷가 산책이나 할까요?"
+    },
+    {
+     "title": "취침 인사",
+     "text": "좋은 하루를 보내려면 잠을 충분히 자야 해요. 오늘은 일찍 쉬고, 내일 봐요."
+    },
+    {
+     "title": "취미",
+     "text": "정말 많아요! 금방 싫증을 내긴 하지만… 이것저것 도전하는 걸 좋아하거든요. 그나마 꾸준히 해온 취미라면 아마… 바다 보는 거? 끝없는 수평선을 바라보면서 규칙적인 파도 소리를 듣고 있으면… 마음이 편안해져요. 거대한 자연의 울림 속에 나라는 작은 음표 하나가 섞여 드는 기분이랄까… 바다 앞에서는 그 어떤 고민도 별거 아닌 것처럼 느껴지죠."
+    },
+    {
+     "title": "고민",
+     "text": "자주 쓰는 내비게이션 앱이 업데이트 중이라 자꾸 잔오류가 생기더라고요. 그래서 매일 길을 헤매고 있어요. 이번 주만 해도 벌써 몇 번이나 아르바이트에 지각했어요… 협회장님이 좋은 분이라 월급을 깎진 않았지만, 그래도 미안하더라고요… 앱이 다시 멀쩡해지기 전까지는 종이 지도를 쓰는 게 낫겠어요."
+    },
+    {
+     "title": "주제·해파리",
+     "text": "해변에 가면 간혹 길 잃은 해파리를 볼 수 있어요. 아마 밀물에 휩쓸려 온 거겠죠… 혹시 해변에서 해파리를 보더라도 절대 만지면 안 돼요! 겉보기엔 연약하고 무해해 보여도 사실 대부분 독이 있거든요. 아, 제 옆에 있는 이 애들은 독이 없으니까 걱정 말아요!"
+    },
+    {
+     "title": "주제·위험한 운전",
+     "text": "이 아이 덩치가 워낙 커서 웬만한 교통수단은 이용하기 어려워요. 다행히 속도가 빨라서 급할 때 차를 못 타도 문제는 없지만요. 네…? 빨라봤자 얼마나 빠르겠냐고요? 아, 아무튼 순찰쥐한테 교육을 받거나, 시내에서 해파리 과속 주행 금지 처분을 받을 정도는 아니에요."
+    },
+    {
+     "title": "주제·이상",
+     "text": "만약 그날 「왕나비」 제거 임무를 맡지 않았다면 아무 일도 일어나지 않았을 거예요. 화려한 만큼 위험한 이상이었죠… 당신이 실력 있는 「이상 헌터」라는 건 알지만 그래도 조심해요. 자기 몸은 자기가 지켜야죠. 이건 당신을 위해서이기도 하지만, 당신을 사랑하고 걱정하는 사람들을 위해서이기도 해요."
+    },
+    {
+     "title": "자신·이능력에 관해",
+     "text": "제 이능력은 정말 보잘것없어요. 해파리를 조종하는 게 고작이죠. 하지만 이 아이들 덕분에 다시 평범한 인생을 살고 있어요. 혼자 있을 때도 이 아이들이 곁에 있기에 외롭지 않아요. 이런 이능력을 갖게 돼서 정말 감사해요. 「나에게 맞는 게 가장 좋은 것이다」라는 말이 어쩌면 바로 이런 뜻 아닐까요."
+    },
+    {
+     "title": "자신·회복에 관해",
+     "text": "의사 선생님은 완전히 회복하긴 어려울 거라고 하셨어요. 하지만 재활 치료도 열심히 하고, 의료 기기의 도움도 받으면, 언젠가 다시 일어설 수 있을지도 몰라요. 막연한 희망을 붙잡고 있는 제가 어리석어 보일 수도 있겠지만… 그래도 전 삶이 끝나기 전까진 무슨 일이든 일어날 수 있다고 생각해요. 만약 기적이 찾아왔는데 제가 준비 안 되어 있다면, 그건 너무 안타까운 일이잖아요."
+    },
+    {
+     "title": "자신·미식에 관해",
+     "text": "제가 일하는 비취 거리에는 맛집이 정말 많아요. 딘스 오리구이는 겉바속촉의 정석이고, 네코마루 라멘도 정말 맛있어요. 먹을 때 입천장 데지 않게 조심만 한다면요. 그치만 제 최애는 빅마우스 만두의 슈크림찐빵이에요. 특히 추운 날 손에 들고 한입 베어 물면, 김이 모락모락 나면서 달콤함 고소함이 입안 가득 퍼지죠. 그때의 행복이란… 하지만 너무 많이 먹어서 살찌면 이 아이에게 부담이 될 수 있으니… 조금은 자제해야겠죠."
+    },
+    {
+     "title": "아카네에 관해",
+     "text": "아카네가 다시 무대로 돌아올 수 있게 도와줘서 고마워요. 저한텐 정말 의미가 남다르거든요. 당신도 드러머니까 이해하죠? 무대에 오른 아카네의 뒷모습은 언제나 눈부셔요. 마치 처음부터 무대가 자기 자리인 것처럼… 앞으로도 계속 「냥만 부엉이!!!!」를 응원할게요. 잊지 마요, 제가 첫 공연부터 함께한 1호 팬이라는 거!"
+    },
+    {
+     "title": "「평행선」에 관해",
+     "text": "사실 「단순히 음악이 하고 싶어서」 평행선 밴드를 만든 건 아니었어요. 졸업하고 어른이 된 후에도 셋이 계속 함께할 이유를 만들고 싶었죠. 그래서 제가 더 이상 연주를 못 하게 됐을 때 평행선이 무너져버렸는지도 몰라요… 하지만 인연이라는 게 항상 곧게 뻗은 직선뿐인 건 아니잖아요. 접점이 줄더라도 다시 만날 기회는 오기 마련이에요. 이걸 좀 더 일찍 깨달았으면 좋았을 텐데… 근데 지금도 아직 안 늦었어요."
+    },
+    {
+     "title": "캐릭터 돌파·Ⅰ",
+     "text": "바닷바람처럼 상쾌해요!"
+    },
+    {
+     "title": "캐릭터 돌파·Ⅱ",
+     "text": "더 잘할 수 있어요."
+    },
+    {
+     "title": "캐릭터 돌파·Ⅲ",
+     "text": "하하, 해파리들이 춤을 추네요."
+    },
+    {
+     "title": "선물 수령·Ⅰ",
+     "text": "이렇게 정성 가득한 선물을 준비했다는 건… 우리가 그만큼 친하다는 거죠?"
+    },
+    {
+     "title": "선물 수령·Ⅱ",
+     "text": "와, 마침 갖고 싶었던 건데! 혹시 제 소원을 들어주러 오신 요정님인가요?"
+    },
+    {
+     "title": "선물 수령·Ⅲ",
+     "text": "고마워요! 조만간 답례할 테니 기대해요."
+    },
+    {
+     "title": "선물 수령·IV",
+     "text": "이런 특별한 선물을… 오늘 무슨 날인가요?"
+    }
+   ],
+   "battle": [
+    {
+     "title": "바이레일 스킬·Ⅰ",
+     "text": "무대에 오를 시간이네요!"
+    },
+    {
+     "title": "바이레일 스킬·Ⅱ",
+     "text": "바다의 악장을 연주해 보죠."
+    },
+    {
+     "title": "바이레일 스킬·Ⅲ",
+     "text": "우리의 노래를 들어줘요."
+    },
+    {
+     "title": "울티메이트·Ⅰ",
+     "text": "은하와 함께 흐르리…"
+    },
+    {
+     "title": "울티메이트·Ⅱ",
+     "text": "파도를 불러올게요."
+    },
+    {
+     "title": "울티메이트·Ⅲ",
+     "text": "선율이여, 이곳으로."
+    },
+    {
+     "title": "이상 수용·Ⅰ",
+     "text": "후후, 잡았다!"
+    },
+    {
+     "title": "이상 수용·Ⅱ",
+     "text": "수용체 안에 얌전히 있으렴."
+    },
+    {
+     "title": "이상 제거·Ⅰ",
+     "text": "다음에도 이렇게 순조로워야 할 텐데."
+    },
+    {
+     "title": "이상 제거·Ⅱ",
+     "text": "임무 완료. 다들 수고 많았어~"
+    },
+    {
+     "title": "뜻밖의 수확·Ⅰ",
+     "text": "나쁘지 않은 수확이네요."
+    },
+    {
+     "title": "뜻밖의 수확·Ⅱ",
+     "text": "이건 절대 놓고 가면 안 돼요."
+    },
+    {
+     "title": "뜻밖의 수확·Ⅲ",
+     "text": "꽤 좋아 보이네요."
+    },
+    {
+     "title": "뜻밖의 수확·Ⅳ",
+     "text": "네, 잘 챙겨뒀어요."
+    },
+    {
+     "title": "뜻밖의 수확·Ⅴ",
+     "text": "오늘은 운이 좋네요. 리프레시 사면 「한 병 더」가 당첨되려나요?"
+    },
+    {
+     "title": "뜻밖의 수확·Ⅵ",
+     "text": "오늘의 기념 선물로 삼을래요."
+    },
+    {
+     "title": "HP 낮음·Ⅰ",
+     "text": "아직… 버틸 수 있어요."
+    },
+    {
+     "title": "HP 낮음·Ⅱ",
+     "text": "눈앞이 흐릿해졌어요…"
+    },
+    {
+     "title": "HP 낮음·Ⅲ",
+     "text": "이대로… 질 수 없어…"
+    },
+    {
+     "title": "HP 회복·Ⅰ",
+     "text": "이제부터 앵콜 타임!"
+    },
+    {
+     "title": "HP 회복·Ⅱ",
+     "text": "후우… 훨씬 좋아졌어요."
+    },
+    {
+     "title": "탈진·Ⅰ",
+     "text": "다시… 무대에 서고 싶어요…"
+    },
+    {
+     "title": "탈진·Ⅱ",
+     "text": "나아진 게… 하나도 없잖아…"
+    },
+    {
+     "title": "탈진·Ⅲ",
+     "text": "너무… 억울해…"
+    },
+    {
+     "title": "몬스터 처치·Ⅰ",
+     "text": "휴… 무사히 해결~"
+    },
+    {
+     "title": "몬스터 처치·Ⅱ",
+     "text": "날 얕봤다간 큰코다치지."
+    },
+    {
+     "title": "일반 피격·Ⅰ",
+     "text": "이 정도쯤이야."
+    },
+    {
+     "title": "일반 피격·Ⅱ",
+     "text": "후, 살짝 스친 것뿐이에요."
+    },
+    {
+     "title": "심각한 피해·Ⅰ",
+     "text": "… 괜찮아요, 안 아파요."
+    },
+    {
+     "title": "심각한 피해·Ⅱ",
+     "text": "더 이상 방심하면 안 돼요…"
+    },
+    {
+     "title": "출전·Ⅰ",
+     "text": "언제든 출발할 수 있어요."
+    },
+    {
+     "title": "출전·Ⅱ",
+     "text": "제가 도울게요."
+    },
+    {
+     "title": "협동기·Ⅰ",
+     "text": "타이밍 맞춰 입장!"
+    },
+    {
+     "title": "협동기·Ⅱ",
+     "text": "각자 위치로!"
+    },
+    {
+     "title": "협동기·Ⅲ",
+     "text": "모두 박자에 맞춰서!"
+    },
+    {
+     "title": "글라이딩·Ⅰ",
+     "text": "새가 된 것 같아요."
+    },
+    {
+     "title": "글라이딩·Ⅱ",
+     "text": "착지는 안정적으로 해요."
+    },
+    {
+     "title": "전환·Ⅰ",
+     "text": "안전이 제일이에요, 얼른 가서 쉬어요."
+    },
+    {
+     "title": "전환·Ⅱ",
+     "text": "교대할 시간이에요!"
+    },
+    {
+     "title": "전환·Ⅲ",
+     "text": "걱정 말고, 우리만 믿어요."
+    },
+    {
+     "title": "특수 전환·아카네",
+     "text": "아카네, 중간 휴식 시간이야!"
+    },
+    {
+     "title": "팀원 쓰러짐·아카네",
+     "text": "혼자 무리하지 말고, 제게 맡겨요."
+    },
+    {
+     "title": "패링·Ⅰ",
+     "text": "휴우, 방금은 위험했어."
+    },
+    {
+     "title": "패링·Ⅱ",
+     "text": "템포 좋고!"
+    },
+    {
+     "title": "연속 극한 회피 성공·Ⅰ",
+     "text": "속도는 우리 특기죠!"
+    },
+    {
+     "title": "연속 극한 회피 성공·Ⅱ",
+     "text": "완벽한 타이밍이야!"
+    }
+   ]
+  },
+  "zh-tw": {
+   "daily": [
+    {
+     "title": "初次見面",
+     "text": "你好，我叫海月……啊，這孩子是不是嚇到你了？不好意思，它一見到新朋友就有點興奮，希望你別介意……嗯？你不害怕它嗎？那太好了！"
+    },
+    {
+     "title": "閒聊·建議",
+     "text": "打鼓的時候，千萬不要穿寬褲！要是踏板踩得太起勁，褲管很容易把底鼓的鼓槌裝進去……"
+    },
+    {
+     "title": "閒聊·夜遊",
+     "text": "我很喜歡夜裡出門，那時候街上人很少，不用擔心會撞到別人。不過，在深夜裡見到我這樣飄在路上，可能也會嚇到路人吧……"
+    },
+    {
+     "title": "閒聊·音樂",
+     "text": "每種音樂風格都有獨特的魅力，每首歌都承載著創作者獨一無二的感情。不過，要說我個人最推薦的樂隊……完全選不出來呢，還是讓我拉個歌單吧！"
+    },
+    {
+     "title": "大晴天",
+     "text": "今天又是好天氣！陽光這麼好，心情也明亮起來了。"
+    },
+    {
+     "title": "雨天",
+     "text": "雨滴涼涼的，真愜意啊。"
+    },
+    {
+     "title": "寒冷",
+     "text": "好冷好冷……要不要繞路去激動貓買杯熱飲呢……"
+    },
+    {
+     "title": "炎熱",
+     "text": "好熱啊……水母們也沒精神了，還是去陰涼處休息一下吧。"
+    },
+    {
+     "title": "早上問候",
+     "text": "早上好，昨晚睡得好嗎？"
+    },
+    {
+     "title": "中午問候",
+     "text": "鏘鏘，我做的蛋糕！是不是很可愛？等下哦，我切一塊給你！"
+    },
+    {
+     "title": "傍晚問候",
+     "text": "夕陽真漂亮啊。要不要趁太陽下山前，去海邊晃晃呢？"
+    },
+    {
+     "title": "晚安",
+     "text": "美好的一天可離不開充足的睡眠。你要早點休息哦，我們明天見。"
+    },
+    {
+     "title": "愛好",
+     "text": "有很多哦！我喜歡嘗試各種沒做過的事，不過總是三分鐘熱度……要說有什麼愛好持續了很久，可能就是看海了。只要望著遙遠的海天線，聽著海潮聲的旋律……心情就會平靜下來。彷彿我也是一個細小的音符，是這場盛大、永恆的合唱的一部分……在大海面前，好像一切煩惱都不再重要。"
+    },
+    {
+     "title": "煩惱",
+     "text": "最近常用的導航軟體在升級，總是出各種小問題，害我天天迷路。這週打工已經遲到好多次了……雖然會長人好，沒有扣我薪水，但我還是很過意不去……在軟體恢復正常之前，還是先用回紙本地圖好了。"
+    },
+    {
+     "title": "話題·水母",
+     "text": "沙灘上偶爾會出現一些擱淺的水母。會被褪去的潮水留在這裡，它們可能也迷路了吧。……如果你在海灘上看到水母，可不要觸碰哦。它們雖然看著柔弱無害，其實很多都有毒。啊，我身邊這些孩子是無毒的哦，不用擔心！"
+    },
+    {
+     "title": "話題·危險駕駛",
+     "text": "這孩子體型太大了，很多交通工具都坐不了。好在它本身速度夠快，有急事的時候，就算坐不了車也沒問題。……嗯？你問能有多快？總、總之沒到被巡哨鼠鼠教育、禁止在市區內超速駕駛水母的地步啦。"
+    },
+    {
+     "title": "話題·異象",
+     "text": "如果那天沒有接下泯除「斑蝶」的任務，或許一切都不會發生吧。那種異象有多斑斕美麗，就有多兇險。……我知道你是個很強大的異象獵人，但你也一定要多加小心，好好保護自己。不僅是為了你自己，也是為了那些關心你、愛你的人。"
+    },
+    {
+     "title": "關於自己·異能",
+     "text": "我的異能很弱，只能操控水母。不過，多虧了這些孩子，我才能恢復正常的生活。一個人的時候，也是它們陪著我，才不覺得孤單。所以，我很感謝能擁有這樣的異能。「適合自己的就是最好的」，或許就是這麼簡單的道理呢。"
+    },
+    {
+     "title": "關於自己·復健",
+     "text": "醫生說，我大概永遠無法徹底康復。但如果認真做復健，配合醫療或器械幫助，或許有一天，我還能再次站起來。也許你會覺得，這不過是個縹緲的願望，一直堅持相信的我太愚蠢……但我覺得，在生命走到盡頭前，什麼都有可能發生。如果奇蹟降臨了，我卻沒準備好，不是太遺憾了嗎？"
+    },
+    {
+     "title": "關於自己·美食",
+     "text": "我打工的玉餅街上有好多美味的店呢。鼎記的烤鴨總是外酥裡嫩；貓丸拉麵雖然好吃，但要小心燙舌頭。我最喜歡的還是巨嘴包子的奶黃包，尤其是天冷的時候，捧在手裡暖暖的，咬一口熱氣騰騰，又香又甜，太幸福了……不過，如果吃太多導致體重增加的話，可能會為這孩子帶來負擔……還是得克制一些。"
+    },
+    {
+     "title": "關於明音",
+     "text": "謝謝你們支持明音重新回到舞台，這對我而言也意義非凡。相信同為鼓手，你一定也明白吧？舞台上，明音的背影總是那麼耀眼。好像生來就屬於那裡一樣……今後，我也會一直一直支持「貓頭音！！！！」的。別忘了，我可是從首演就開始推你們的頭號粉絲呢！"
+    },
+    {
+     "title": "關於「平行線」",
+     "text": "其實平行線的誕生，並不是單純因為「想組樂隊」，而是我想為我們三人找到一個畢業後、長大後也能一直在一起的理由。或許正因為這樣，當我無法繼續演奏之後，平行線才會直接分崩離析吧……但是，人與人的聯繫並不是孤零零的直線。即使少了一個交叉點，也總有機會再次相連。要是我能早點明白這個道理就好了……不過，現在也不晚呢。"
+    },
+    {
+     "title": "角色突破·Ⅰ",
+     "text": "像海風一樣清爽！"
+    },
+    {
+     "title": "角色突破·Ⅱ",
+     "text": "嗯，我還可以做得更好。"
+    },
+    {
+     "title": "角色突破·Ⅲ",
+     "text": "呵呵，水母們都跳起舞來了。"
+    },
+    {
+     "title": "收到贈禮·Ⅰ",
+     "text": "這麼用心的禮物，是不是說明……我們已經是很好很好的朋友了？"
+    },
+    {
+     "title": "收到贈禮·Ⅱ",
+     "text": "欸，我正想要這個呢！你是專門來實現我願望的小精靈嗎？"
+    },
+    {
+     "title": "收到贈禮·Ⅲ",
+     "text": "謝謝你！我會好好準備回禮的，你可以期待一下哦。"
+    },
+    {
+     "title": "收到贈禮·IV",
+     "text": "好特別的禮物啊……今天是什麼節日嗎？"
+    }
+   ],
+   "battle": [
+    {
+     "title": "變軌技能·Ⅰ",
+     "text": "登台時間到！"
+    },
+    {
+     "title": "變軌技能·Ⅱ",
+     "text": "奏響海的樂章吧。"
+    },
+    {
+     "title": "變軌技能·Ⅲ",
+     "text": "聆聽我們的歌吧。"
+    },
+    {
+     "title": "極軌終結·Ⅰ",
+     "text": "同銀河一起流轉。"
+    },
+    {
+     "title": "極軌終結·Ⅱ",
+     "text": "將浪潮牽引而來。"
+    },
+    {
+     "title": "極軌終結·Ⅲ",
+     "text": "讓旋律在此收攏。"
+    },
+    {
+     "title": "收容異象·Ⅰ",
+     "text": "嘿嘿，抓到你啦。"
+    },
+    {
+     "title": "收容異象·Ⅱ",
+     "text": "要在收容體裡乖乖待著哦。"
+    },
+    {
+     "title": "泯除異象·Ⅰ",
+     "text": "希望下一次也能這麼順利。"
+    },
+    {
+     "title": "泯除異象·Ⅱ",
+     "text": "任務完成，大家都辛苦啦～"
+    },
+    {
+     "title": "意外收穫·Ⅰ",
+     "text": "不錯的收穫呢。"
+    },
+    {
+     "title": "意外收穫·Ⅱ",
+     "text": "可千萬不要忘了拿。"
+    },
+    {
+     "title": "意外收穫·Ⅲ",
+     "text": "看上去是好東西呢。"
+    },
+    {
+     "title": "意外收穫·Ⅳ",
+     "text": "嗯，我已經保管好啦。"
+    },
+    {
+     "title": "意外收穫·Ⅴ",
+     "text": "運氣真好。今天買暢爽能開到「再來一瓶」嗎？"
+    },
+    {
+     "title": "意外收穫·Ⅵ",
+     "text": "就當做是今天的紀念吧。"
+    },
+    {
+     "title": "生命值低·Ⅰ",
+     "text": "應該……還能堅持。"
+    },
+    {
+     "title": "生命值低·Ⅱ",
+     "text": "眼前有點模糊了……"
+    },
+    {
+     "title": "生命值低·Ⅲ",
+     "text": "唔……不能認輸……"
+    },
+    {
+     "title": "恢復生命·Ⅰ",
+     "text": "接下來是安可時間！"
+    },
+    {
+     "title": "恢復生命·Ⅱ",
+     "text": "呼，這樣好多了。"
+    },
+    {
+     "title": "力竭·Ⅰ",
+     "text": "還想……再站上舞台……"
+    },
+    {
+     "title": "力竭·Ⅱ",
+     "text": "真是……沒有長進……"
+    },
+    {
+     "title": "力竭·Ⅲ",
+     "text": "不甘心……"
+    },
+    {
+     "title": "擊敗怪物·Ⅰ",
+     "text": "呼，平安解決~"
+    },
+    {
+     "title": "擊敗怪物·Ⅱ",
+     "text": "小看我可是會吃虧的哦。"
+    },
+    {
+     "title": "普通受擊·Ⅰ",
+     "text": "這種程度，不礙事。"
+    },
+    {
+     "title": "普通受擊·Ⅱ",
+     "text": "呼，小傷而已。"
+    },
+    {
+     "title": "重受擊·Ⅰ",
+     "text": "……沒關係，我不痛。"
+    },
+    {
+     "title": "重受擊·Ⅱ",
+     "text": "不能再大意了……"
+    },
+    {
+     "title": "上陣·Ⅰ",
+     "text": "隨時都可以出發哦。"
+    },
+    {
+     "title": "上陣·Ⅱ",
+     "text": "讓我幫忙吧。"
+    },
+    {
+     "title": "協同技·Ⅰ",
+     "text": "重拍入場！"
+    },
+    {
+     "title": "協同技·Ⅱ",
+     "text": "各就各位！"
+    },
+    {
+     "title": "協同技·Ⅲ",
+     "text": "全員合拍！"
+    },
+    {
+     "title": "滑翔·Ⅰ",
+     "text": "像變成了鳥兒一樣。"
+    },
+    {
+     "title": "滑翔·Ⅱ",
+     "text": "落地時要穩一點。"
+    },
+    {
+     "title": "切換·Ⅰ",
+     "text": "安全第一，快去休息。"
+    },
+    {
+     "title": "切換·Ⅱ",
+     "text": "該換場了！"
+    },
+    {
+     "title": "切換·Ⅲ",
+     "text": "放心，有我們在。"
+    },
+    {
+     "title": "特殊切換·明音",
+     "text": "明音，中場休息！"
+    },
+    {
+     "title": "隊友倒下·明音",
+     "text": "不要一個人硬撐，交給我吧。"
+    },
+    {
+     "title": "彈反·Ⅰ",
+     "text": "哎呀，好險。"
+    },
+    {
+     "title": "彈反·Ⅱ",
+     "text": "節奏剛好！"
+    },
+    {
+     "title": "連續極限閃避成功·Ⅰ",
+     "text": "速度可是我們的特長！"
+    },
+    {
+     "title": "連續極限閃避成功·Ⅱ",
+     "text": "完美的節拍！"
+    }
+   ]
+  }
+ }
+}

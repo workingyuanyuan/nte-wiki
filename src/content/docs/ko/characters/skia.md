@@ -45,6 +45,7 @@ sources:
 | 참전 | 1.0 버전 |
 | 성우 | 중국어: 刘雨轩; 영어: Bill Butts; 일본어: 杉田智和; 한국어: 이동훈 |
 | 아카이브 | [스키아 아카이브](/ko/characters/skia/archive/) |
+| 보이스 | [스키아 보이스](/ko/characters/skia/voice/) |
 
 ## 획득 방법
 

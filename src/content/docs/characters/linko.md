@@ -55,6 +55,7 @@ sources:
 | Role | Member of ETD-6, recruited as a special exception; her anomaly companion is Xiaozhen |
 | Voice actors | Chinese: 胡影佳 and 洪海天; English: Emi Lo and Salli Saffioti; Japanese: 小倉唯 and 村瀬迪与; Korean: 김서현 and 김예림 |
 | Archive | [Linko archive](/characters/linko/archive/) |
+| Voice lines | [Linko voice lines](/characters/linko/voice/) |
 
 ## How to obtain
 

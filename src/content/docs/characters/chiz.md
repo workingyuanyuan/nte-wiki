@@ -46,6 +46,7 @@ sources:
 | Role | Lobby Manager of Pink Paws Bank (New Herland District HQ), employee ID 018888 |
 | Voice actors | Chinese: 则灵; English: Alice Himora; Japanese: 小原好美; Korean: 권다예 |
 | Archive | [Chiz archive](/characters/chiz/archive/) |
+| Voice lines | [Chiz voice lines](/characters/chiz/voice/) |
 
 Game8 spells her Skill "Pink Paws Priority Principe"; Prydwen spells it "Pink Paws Priority Principle". Version 1.1 gave Chiz a Life Skill that highlights all "Pink Paws Heist" collectibles on the map.
 

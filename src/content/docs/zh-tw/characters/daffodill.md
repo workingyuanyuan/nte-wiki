@@ -60,6 +60,7 @@ sources:
 | 身分 | 伊波恩古董店 |
 | 配音員 | 中文：陳彥亦；英文：Natalie Van Sistine；日文：大原さやか；韓文：이명호 |
 | 個人檔案 | [達芙蒂爾個人檔案](/zh-tw/characters/daffodill/archive/) |
+| 語音 | [達芙蒂爾語音](/zh-tw/characters/daffodill/voice/) |
 
 Prydwen 與 Game8 將英文名字拼為 Daffodil。
 

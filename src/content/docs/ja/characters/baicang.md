@@ -60,6 +60,7 @@ sources:
 | 肩書き | 異象管理局E.T.D第4小隊の隊長 |
 | 声優 | 中国語：桑毓泽、英語：Griffin Burns、日本語：中村悠一、韓国語：심규혁 |
 | アーカイブ | [白蔵のアーカイブ](/ja/characters/baicang/archive/) |
+| ボイス | [白蔵のボイス](/ja/characters/baicang/voice/) |
 
 ## 入手方法
 

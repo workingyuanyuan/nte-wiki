@@ -72,6 +72,7 @@ sources:
 | Role | Containment Strike Unit 2 (CSU-2), Bureau of Anomaly Control |
 | Voice actors | Chinese: 陈雨; English: Brianna Knickerbocker; Japanese: 鬼頭明里; Korean: 성예원 |
 | Archive | [Mint archive](/characters/mint/archive/) |
+| Voice lines | [Mint voice lines](/characters/mint/voice/) |
 
 ## How to obtain
 

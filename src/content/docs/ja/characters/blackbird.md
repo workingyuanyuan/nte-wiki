@@ -54,6 +54,7 @@ sources:
 | 肩書き | 森の奥の「魔女の家」に住み、地元の人々からは「魔女」と呼ばれる |
 | 声優 | 中国語：井琉、英語：Xanthe Huynh、日本語：能登麻美子、韓国語：문유정 |
 | アーカイブ | [クロバネのアーカイブ](/ja/characters/blackbird/archive/) |
+| ボイス | [クロバネのボイス](/ja/characters/blackbird/voice/) |
 
 ## 入手方法
 

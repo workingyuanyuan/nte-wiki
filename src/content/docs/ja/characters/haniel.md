@@ -61,6 +61,7 @@ sources:
 | 実装 | バージョン1.0 |
 | 声優 | 中国語：苏子芜、英語：Alexis Tipton、日本語：石見舞菜香、韓国語：김가령 |
 | アーカイブ | [ハニアのアーカイブ](/ja/characters/haniel/archive/) |
+| ボイス | [ハニアのボイス](/ja/characters/haniel/voice/) |
 
 Game8は彼女の通常攻撃を「ガイロセクト術法」、Prydwenは「超異能課登場」と呼んでいる。
 

@@ -1,0 +1,1767 @@
+{
+ "slug": "skia",
+ "id": "1008",
+ "version": "1.5.4",
+ "sources": {
+  "en": "https://static.nanoka.cc/nte/1.5.4/en/character/1008.json",
+  "zh-cn": "https://static.nanoka.cc/nte/1.5.4/zh/character/1008.json",
+  "ja": "https://static.nanoka.cc/nte/1.5.4/ja/character/1008.json",
+  "ko": "https://static.nanoka.cc/nte/1.5.4/ko/character/1008.json",
+  "zh-tw": "https://everness.info/zh-Hant/espers/1008"
+ },
+ "reads": {
+  "zh-tw": "2026-11-25"
+ },
+ "lines": {
+  "en": {
+   "daily": [
+    {
+     "title": "First Meet",
+     "text": "Lieutenant Skia, Squad 4, Enforcement Tactical Division. Perhaps we might meet at work again in the future."
+    },
+    {
+     "title": "Chat: Work Environment",
+     "text": "Whether in studies or work, everyone is deeply influenced by their environment and unconsciously becomes part of it—it goes both ways."
+    },
+    {
+     "title": "Chat: Pace of Life",
+     "text": "You came to this city without any prior knowledge or preparation, so I imagine Eibon will shape your life here. What do you think? Is this life for you?"
+    },
+    {
+     "title": "Chat: Meeting",
+     "text": "If you see Baicang, could you please ask him to reply to my message as soon as possible? I've organized the meeting minutes he missed and sent them to his phone. We need him to GO THROUGH them by today."
+    },
+    {
+     "title": "Sunny",
+     "text": "When the sun is directly overhead, it's harder for my shadow to spread from beneath my feet. However… within short distances, the condensed and distinct shadow packs a way stronger punch."
+    },
+    {
+     "title": "Rainy",
+     "text": "The humid weather will significantly impact outdoor operations, and it's not just about slippery surfaces. Make sure to watch out for anomalies that adapt their patterns based on weather changes."
+    },
+    {
+     "title": "Cold",
+     "text": "I'm not cold… but don't count on me as a heat source."
+    },
+    {
+     "title": "Hot",
+     "text": "This weather makes me irritable, but I'm not a dog—you won't catch me panting to cool down!"
+    },
+    {
+     "title": "Morning Greeting",
+     "text": "Good morning. Where should we start today?"
+    },
+    {
+     "title": "Noon Greeting",
+     "text": "The food at the Bureau's cafeteria is neither good nor bad. The orderly queuing and dining system is certainly efficient, but it's only natural to get tired of eating there every day."
+    },
+    {
+     "title": "Evening Greeting",
+     "text": "ETD doesn't have fixed off-duty hours—we're expected to be ready for deployment at any time. Don't hesitate to call me whenever something comes up."
+    },
+    {
+     "title": "Good Night",
+     "text": "You've worked hard today. Get some rest."
+    },
+    {
+     "title": "Hobbies",
+     "text": "It's hard to say I have any particular hobbies. If I had to choose, I suppose I prefer… the feeling of seeing all my tasks progressing steadily toward completion."
+    },
+    {
+     "title": "Worries",
+     "text": "Troubles? …With Baicang or Fadia? …Well, it's understandable that Lacrimosa acts out sometimes and causes minor disturbances… But those two are adults slacking off and causing problems. It's hard not to get a headache from it."
+    },
+    {
+     "title": "Topic: Anomaly - Ms. Fei",
+     "text": "Ms. Fei's coffee has… a unique flavor, but it keeps you alert. I don't mind it. She gets upset if we brew tea at our desks, so we have to go outside for that."
+    },
+    {
+     "title": "Topic: Anomaly - Agent.LUCK",
+     "text": "Agent.LUCK handles all the paperwork nobody else at the Bureau wants to do. Tedious and endless as it may be. It persists in the belief that its master will return home once everything is complete… Watching it work diligently reminds me of that staff member who vanished into the lights and remains missing to this day, and of all the unresolved cases we still haven't found a way to tackle…"
+    },
+    {
+     "title": "Topic: Resume",
+     "text": "Yes, I worked for quite a while at a company… one you might have heard of. Then I spent some time working with some outlaws, and now I serve in a public institution. Some say my resume is rather unusual, but looking back, perhaps it was all just trial and error in search of where I belong."
+    },
+    {
+     "title": "About Myself: Esper Abilities",
+     "text": "Are you wondering why my shadow seems to have a different temperament from me, even though I'm the one controlling it…? It might be a bit abstract to explain. Let's just say that after awakening my Esper Ability, and as I gained a deeper understanding of my role, I realized I didn't need to maintain a tense facade all the time. That's when my shadow started appearing more energetic than before."
+    },
+    {
+     "title": "About Myself: Animorphic",
+     "text": "It's quite common for Esper ability awakenings to come with transfer characteristics, but as you can see, my physical transformation is far more severe than most. That day, I tried my best to stay calm, attempting to maintain my usual routine with rationality and courtesy. But inevitably, I lost my place among the usual \"elites\"… I suppose that was the \"price\" I had to pay."
+    },
+    {
+     "title": "About Myself: \"Elite\"",
+     "text": "After that, I did go through a period where it felt like the foundation I'd built my life on had crumbled… But it's fine now—I've long since stopped caring about that job and the standards it set for me."
+    },
+    {
+     "title": "About Alphard",
+     "text": "The director is a leader of great resolve. However, she doesn't particularly mind how her subordinates conduct themselves, rather focusing solely on results… Perhaps that's why the ETD can afford to be so lenient with its many free spirits…"
+    },
+    {
+     "title": "About Baicang",
+     "text": "When Baicang says he's \"exhausted\", \"done for\", or \"gravely injured\"… don't waste your energy on him… If he speaks, he's alive enough. Talking from experience."
+    },
+    {
+     "title": "About Fadia",
+     "text": "One time… field duty with Fadia… I ran into an old acquaintance from the past. We chatted for a bit… the guy asked me if \"I am working an honest job or not\"… Thinking about how colleagues' public image can greatly influence others' perception of the workplace and the job… I'm tired of this…"
+    },
+    {
+     "title": "About Lacrimosa",
+     "text": "If I don't pick up Lacrimosa or meet her early… she might not even be allowed on site because she doesn't have her ID. Compared to that, oversleeping or getting lost are very minor concerns."
+    },
+    {
+     "title": "About Bureau of Anomaly Control",
+     "text": "I used to think the ideal path for me was a stable management position in a large corporation, living a perfectly ordered life. I never imagined I'd get involved with an organization like the bureau that handles emergencies. Life is unpredictable—a series of unexpected turns brought me here, and now this daily routine of handling the unexpected has gradually become my new sense of order…"
+    },
+    {
+     "title": "About ETD",
+     "text": "In the past, I would have had little tolerance for subordinates who lacked team spirit or were too much of an individual. But now, here… those who can't accept working with such spirits are probably the ones who don't fit in."
+    },
+    {
+     "title": "Character Ascension I",
+     "text": "Feeling smooth."
+    },
+    {
+     "title": "Character Ascension II",
+     "text": "Steady and methodical."
+    },
+    {
+     "title": "Character Ascension III",
+     "text": "You can always learn something new on the job."
+    },
+    {
+     "title": "Gift Received I",
+     "text": "A practical, appropriate, and thoughtful gift. Thank you, Appraiser."
+    },
+    {
+     "title": "Gift Received II",
+     "text": "I've been too busy from work to buy this. I didn't expect you to get it for me…"
+    },
+    {
+     "title": "Gift Received III",
+     "text": "I understand. This is all part of maintaining good relationships. Thanks."
+    },
+    {
+     "title": "Gift Received IV",
+     "text": "I'll remember your gift and repay in kind."
+    }
+   ],
+   "battle": [
+    {
+     "title": "Redirect Skill I",
+     "text": "Stand down!"
+    },
+    {
+     "title": "Redirect Skill II",
+     "text": "Take this!"
+    },
+    {
+     "title": "Redirect Skill III",
+     "text": "Stay out of trouble!"
+    },
+    {
+     "title": "Ultimate I",
+     "text": "Suppress the target!"
+    },
+    {
+     "title": "Ultimate II",
+     "text": "All in a day's work!"
+    },
+    {
+     "title": "Ultimate III",
+     "text": "Time to take a harder approach."
+    },
+    {
+     "title": "Containment I",
+     "text": "All done. The CSU will take it from here."
+    },
+    {
+     "title": "Containment II",
+     "text": "I'll help with the clean-up."
+    },
+    {
+     "title": "Nullification I",
+     "text": "Hmph, not the easiest pill to swallow."
+    },
+    {
+     "title": "Nullification II",
+     "text": "Target neutralized."
+    },
+    {
+     "title": "Unexpected Gains I",
+     "text": "An unexpected discovery."
+    },
+    {
+     "title": "Unexpected Gains II",
+     "text": "Let logistics handle this."
+    },
+    {
+     "title": "Unexpected Gains III",
+     "text": "Let's check if it's safe first."
+    },
+    {
+     "title": "Unexpected Gains IV",
+     "text": "…Worth the effort."
+    },
+    {
+     "title": "Unexpected Gains V",
+     "text": "I'll hold onto this for now."
+    },
+    {
+     "title": "Unexpected Gains VI",
+     "text": "An unexpected gain."
+    },
+    {
+     "title": "Low Health I",
+     "text": "This is getting outta hand…"
+    },
+    {
+     "title": "Low Health II",
+     "text": "Where's our backup?!"
+    },
+    {
+     "title": "Low Health III",
+     "text": "…Stay calm. There's still a chance."
+    },
+    {
+     "title": "Heal I",
+     "text": "Just in time."
+    },
+    {
+     "title": "Heal II",
+     "text": "Thanks for the help."
+    },
+    {
+     "title": "Down I",
+     "text": "Ugh… I'm sorry."
+    },
+    {
+     "title": "Down II",
+     "text": "Beyond my capabilities…"
+    },
+    {
+     "title": "Down III",
+     "text": "Team… fall back…"
+    },
+    {
+     "title": "Takedown I",
+     "text": "I'll help with the clean-up."
+    },
+    {
+     "title": "Takedown II",
+     "text": "Slow and steady."
+    },
+    {
+     "title": "Damaged I",
+     "text": "Just a graze."
+    },
+    {
+     "title": "Damaged II",
+     "text": "Nothing worth mentioning."
+    },
+    {
+     "title": "Heavily Damaged I",
+     "text": "Can't let your guard down."
+    },
+    {
+     "title": "Heavily Damaged II",
+     "text": "Enemies at the gates…"
+    },
+    {
+     "title": "Deploy I",
+     "text": "ETD-4 on scene."
+    },
+    {
+     "title": "Deploy II",
+     "text": "Let's get our hands on."
+    },
+    {
+     "title": "Entry Attack I",
+     "text": "Fass."
+    },
+    {
+     "title": "Entry Attack II",
+     "text": "…Like a shadow."
+    },
+    {
+     "title": "Entry Attack III",
+     "text": "I'll cover you!"
+    },
+    {
+     "title": "Glide I",
+     "text": "I'll take this chance to look around…"
+    },
+    {
+     "title": "Glide II",
+     "text": "Hmm… good vision here."
+    },
+    {
+     "title": "Switch I",
+     "text": "I'll take point."
+    },
+    {
+     "title": "Switch II",
+     "text": "Providing backup."
+    },
+    {
+     "title": "Switch III",
+     "text": "Engage!"
+    },
+    {
+     "title": "Special Switch I - Baicang",
+     "text": "ETD-4 is now on scene."
+    },
+    {
+     "title": "Special Switch II - Baicang",
+     "text": "Baicang, stay sharp."
+    },
+    {
+     "title": "Special Switch I - Fadia",
+     "text": "ETD-4 is now on scene."
+    },
+    {
+     "title": "Special Switch II - Fadia",
+     "text": "Fadia, don't overextend."
+    },
+    {
+     "title": "Special Switch I - Lacrimosa",
+     "text": "Protecting my team is my responsibility."
+    },
+    {
+     "title": "Special Switch II - Lacrimosa",
+     "text": "Lacrimosa, go get some rest."
+    },
+    {
+     "title": "Teammate Down - Baicang",
+     "text": "You've done well, Captain… I'll take over from here."
+    },
+    {
+     "title": "Teammate Down - Fadia",
+     "text": "Fadia, don't push yourself. I got your back."
+    },
+    {
+     "title": "Teammate Down - Lacrimosa",
+     "text": "Lacrimosa, go get some sleep. I'll handle the rest."
+    },
+    {
+     "title": "Parry I",
+     "text": "Never!"
+    },
+    {
+     "title": "Parry II",
+     "text": "Surrender now!"
+    },
+    {
+     "title": "Consecutive Critical Dodge Success I",
+     "text": "You're nothing special."
+    },
+    {
+     "title": "Consecutive Critical Dodge Success II",
+     "text": "You can't catch a shadow."
+    }
+   ]
+  },
+  "zh-cn": {
+   "daily": [
+    {
+     "title": "初次见面",
+     "text": "隶属于异象管理局禁制机动队——担任四队副队长职务的翳。今后的工作中，兴许还会有更多需要寻求协作的情况。"
+    },
+    {
+     "title": "闲聊·工作环境",
+     "text": "不论学习还是工作，每个人都深受其所处环境的影响，并在无形中成为该环境的一部分——环境的选择是双向的。"
+    },
+    {
+     "title": "闲聊·生活节奏",
+     "text": "你是在对这个城市一无所知也没有做过任何准备的前提下过来的，所以「伊波恩」的节奏也会塑造你在此处的生活节奏吧。你觉得怎么样？是适合自己的吗？"
+    },
+    {
+     "title": "闲聊·会议",
+     "text": "见到白藏的话能麻烦督促他立即回我消息吗？我把他翘掉的会议记录整理好发他手机上了，他今天之内必·须过目。"
+    },
+    {
+     "title": "大晴天",
+     "text": "阳光在头顶直射的时段，我的影子将很难从脚下扩散出去，不过相对的……浓缩、鲜明的影子在短距离下，力道会更为强劲。"
+    },
+    {
+     "title": "雨天",
+     "text": "天气潮湿，户外工作会受到不小的影响，并不只有地面打滑这一方面而已。务必要留意那些会因为天气变化而改变行为模式的异象。"
+    },
+    {
+     "title": "寒冷",
+     "text": "我不冷……但指望靠我取暖不是个好主意。"
+    },
+    {
+     "title": "炎热",
+     "text": "这种天气下我多少也会心情烦躁，不过，没有必要一直盯着看，我并非真正的犬类，你想象中的那种散热行为……是不会做的！"
+    },
+    {
+     "title": "早上问候",
+     "text": "早上好。今天打算先处理哪项工作？"
+    },
+    {
+     "title": "中午问候",
+     "text": "局里食堂饭菜的口味，无功无过吧。秩序井然地排队领餐、用餐，确实很有效率……但每天吃会厌倦，也很正常。"
+    },
+    {
+     "title": "傍晚问候",
+     "text": "在E.T.D没有确切的下班时间，而是要求随时保持待命的心态。不用顾忌什么，有事随时叫我吧。"
+    },
+    {
+     "title": "晚安",
+     "text": "一天下来辛苦了，早些休息。"
+    },
+    {
+     "title": "爱好",
+     "text": "很难说我个人有什么特别喜欢做的事。非要说的话，我比较喜欢那种……让自己待处理的各项事务，都保持在稳步推进之下的感觉。"
+    },
+    {
+     "title": "烦恼",
+     "text": "烦恼吗？……是指有关白藏还是法帝娅的？……安魂曲心智还不成熟，偶尔做出一些出格的举动，惹出一些小骚乱，也在情理之中……那两个成年人也一天到晚不务正业到处惹麻烦，实在很难不让人头疼。"
+    },
+    {
+     "title": "话题·异象·菲女士",
+     "text": "「菲女士」的咖啡……味道十分独特，但提神效果很好，我并不讨厌。况且也没有其他选择，在工位泡茶的话她会生气的，所以想喝茶得去外头。"
+    },
+    {
+     "title": "话题·异象·Agent.LUCK",
+     "text": "「Agent.LUCK」几乎承担了局里所有没人愿意做的文书工作——枯燥乏味，而又漫无止境。只因坚信全部做完主人就会回家……每当看到它努力的模样，我就会想到那个失踪在彩光中至今仍无下落的职员，想到我们也无从下手的、悬而未决的事件，仍有那么多……"
+    },
+    {
+     "title": "话题·简历",
+     "text": "嗯，我在一个……你兴许听过名字的企业干了很久，后来混过道上，而如今供职于公权机构。有人说我的简历挺不同寻常的，不过回头看来，又好像都是在摸索适合自己的「寻常」，为此不断试错。"
+    },
+    {
+     "title": "关于自己·异能",
+     "text": "你是在疑惑为什么我明明操控的是自己的影子，影子的性情却看起来和我本人不太一样吗……？这解释起来可能会有些抽象。只能说，觉醒异能后，随着我对自己应处定位的理解加深，也认识到无需在表面功夫上时时刻刻保持紧绷，它看上去就变得比最初更富有活力了。"
+    },
+    {
+     "title": "关于自己·兽化的外形",
+     "text": "在觉醒异能的同时拥有了兽化特征是非常普遍的情况，但你也看得出来，我身体的兽化程度比其他人严重得多。那天，我也极力保持冷静，试图以往常的理智与礼貌去维护原有的生活节奏，但似乎不可避免地，还是失去了融入周遭「精英」们的资格……恐怕是「代价」吧。"
+    },
+    {
+     "title": "关于自己·「精英」",
+     "text": "自那之后确实有过一段时间觉得，就像是习以为常的立身之所崩塌了一般……不过没关系，现在我早已并不在乎那份工作，和那个地方所制定的标准了。"
+    },
+    {
+     "title": "关于艾尔菲德",
+     "text": "局长是一位有魄力的领导者。不过，她并不太在意下属各自的行事作风如何，而是只着眼于成效……这一点，可能也是E.T.D中这么多自由生长的个性派都能得到纵容的原因吧……"
+    },
+    {
+     "title": "关于白藏",
+     "text": "白藏说自己「很累」「干不下去了」「受了好重的伤」……类似这些话的时候，不用真的去费心迁就他。还有闲心说废话，就表明没什么大碍，这是相处下来的经验之谈。"
+    },
+    {
+     "title": "关于法帝娅",
+     "text": "有次和法帝娅一起出外勤，撞见了以前道上的熟人，迫于当时情势……聊了一会。后来他竟然又私下追问我「现在做的工作到底正不正经」……一想到，同事在外头的形象真的会很大程度影响到他人对你的职场，乃至于你个人的印象，我就心生疲惫……"
+    },
+    {
+     "title": "关于安魂曲",
+     "text": "如果我不去接安魂曲或者提前和她汇合的话……她甚至很有可能，会因为弄丢自己的证件而不被允许进入现场，相比较而言，睡过头迟到和迷路可能都是小事了。"
+    },
+    {
+     "title": "关于异象管理局",
+     "text": "过去我认为，在一个大规模的企业中做一份中层的稳定工作、精准「有序」地生活，便是最好也最适合自己的。未曾想过会和管理局这种专门负责处理「意外」的组织扯上什么关联……世事难料，重重「意外」将我推到了这个位置，而这种每天都需要处理「意外」的生活，渐渐成为了对我而言的「有序」……"
+    },
+    {
+     "title": "关于E.T.D",
+     "text": "放在以前我多少难以容忍手下部门中存在欠缺团队协调能力、过于我行我素的家伙。现在在这里……恐怕不能接受与这类同僚共事的人，才是不适应者。"
+    },
+    {
+     "title": "角色突破·Ⅰ",
+     "text": "现在的状态很不错。"
+    },
+    {
+     "title": "角色突破·Ⅱ",
+     "text": "稳扎稳打。"
+    },
+    {
+     "title": "角色突破·Ⅲ",
+     "text": "工作中也能学到新东西。"
+    },
+    {
+     "title": "收到赠礼·Ⅰ",
+     "text": "实在、妥当、富有诚意的礼物。多谢你，鉴定师。"
+    },
+    {
+     "title": "收到赠礼·Ⅱ",
+     "text": "因为工作太忙一直没空去买，没想到是从你这里收到了……"
+    },
+    {
+     "title": "收到赠礼·Ⅲ",
+     "text": "我明白，这是维护合作关系的重要一部分，谢谢。"
+    },
+    {
+     "title": "收到赠礼·IV",
+     "text": "礼尚往来，我不会怠慢。"
+    }
+   ],
+   "battle": [
+    {
+     "title": "变轨技能·Ⅰ",
+     "text": "老实点！"
+    },
+    {
+     "title": "变轨技能·Ⅱ",
+     "text": "吃下这招！"
+    },
+    {
+     "title": "变轨技能·Ⅲ",
+     "text": "少惹麻烦！"
+    },
+    {
+     "title": "极轨终结·Ⅰ",
+     "text": "压制目标！"
+    },
+    {
+     "title": "极轨终结·Ⅱ",
+     "text": "职责所在！"
+    },
+    {
+     "title": "极轨终结·Ⅲ",
+     "text": "该用强硬手段处理了。"
+    },
+    {
+     "title": "收容异象·Ⅰ",
+     "text": "搞定了。剩下就由收容组的同事们接手。"
+    },
+    {
+     "title": "收容异象·Ⅱ",
+     "text": "我来协助善后。"
+    },
+    {
+     "title": "泯除异象·Ⅰ",
+     "text": "哼，是块不好啃的骨头。"
+    },
+    {
+     "title": "泯除异象·Ⅱ",
+     "text": "任务目标已经处理完毕。"
+    },
+    {
+     "title": "意外收获·Ⅰ",
+     "text": "意料之外的发现。"
+    },
+    {
+     "title": "意外收获·Ⅱ",
+     "text": "交给后勤人员处置吧。"
+    },
+    {
+     "title": "意外收获·Ⅲ",
+     "text": "先确认一下是否安全。"
+    },
+    {
+     "title": "意外收获·Ⅳ",
+     "text": "……不虚此行。"
+    },
+    {
+     "title": "意外收获·Ⅴ",
+     "text": "先暂为保管吧。"
+    },
+    {
+     "title": "意外收获·Ⅵ",
+     "text": "意外的收获。"
+    },
+    {
+     "title": "生命值低·Ⅰ",
+     "text": "形势有些不妙……"
+    },
+    {
+     "title": "生命值低·Ⅱ",
+     "text": "后援还没有到吗！"
+    },
+    {
+     "title": "生命值低·Ⅲ",
+     "text": "……保持冷静，还有机会。"
+    },
+    {
+     "title": "恢复生命·Ⅰ",
+     "text": "支援很及时。"
+    },
+    {
+     "title": "恢复生命·Ⅱ",
+     "text": "帮大忙了。"
+    },
+    {
+     "title": "力竭·Ⅰ",
+     "text": "呃……惭愧！"
+    },
+    {
+     "title": "力竭·Ⅱ",
+     "text": "力有未逮……"
+    },
+    {
+     "title": "力竭·Ⅲ",
+     "text": "其他队员……立即撤退……！"
+    },
+    {
+     "title": "击败怪物·Ⅰ",
+     "text": "我会协助善后的。"
+    },
+    {
+     "title": "击败怪物·Ⅱ",
+     "text": "进展顺利。"
+    },
+    {
+     "title": "普通受击·Ⅰ",
+     "text": "擦伤。"
+    },
+    {
+     "title": "普通受击·Ⅱ",
+     "text": "无足挂齿。"
+    },
+    {
+     "title": "重受击·Ⅰ",
+     "text": "不可掉以轻心……"
+    },
+    {
+     "title": "重受击·Ⅱ",
+     "text": "来者不善……"
+    },
+    {
+     "title": "上阵·Ⅰ",
+     "text": "E.T.D四队，介入现场。"
+    },
+    {
+     "title": "上阵·Ⅱ",
+     "text": "立即着手处理本次的任务吧。"
+    },
+    {
+     "title": "协同技·Ⅰ",
+     "text": "Fass."
+    },
+    {
+     "title": "协同技·Ⅱ",
+     "text": "……如影随形。"
+    },
+    {
+     "title": "协同技·Ⅲ",
+     "text": "我来策应！"
+    },
+    {
+     "title": "滑翔·Ⅰ",
+     "text": "正好侦察一下四周……"
+    },
+    {
+     "title": "滑翔·Ⅱ",
+     "text": "嗯……视野很开阔。"
+    },
+    {
+     "title": "切换·Ⅰ",
+     "text": "正面交给我。"
+    },
+    {
+     "title": "切换·Ⅱ",
+     "text": "我来支援。"
+    },
+    {
+     "title": "切换·Ⅲ",
+     "text": "开始交战！"
+    },
+    {
+     "title": "特殊切换Ⅰ·白藏",
+     "text": "E.T.D四队已接管战场。"
+    },
+    {
+     "title": "特殊切换Ⅱ·白藏",
+     "text": "白藏，不要松懈。"
+    },
+    {
+     "title": "特殊切换Ⅰ·法帝娅",
+     "text": "E.T.D四队已接管战场。"
+    },
+    {
+     "title": "特殊切换Ⅱ·法帝娅",
+     "text": "法帝娅，不要恋战。"
+    },
+    {
+     "title": "特殊切换Ⅰ·安魂曲",
+     "text": "保护队员是我的责任。"
+    },
+    {
+     "title": "特殊切换Ⅱ·安魂曲",
+     "text": "安魂曲，去休息一下。"
+    },
+    {
+     "title": "队友倒下·白藏",
+     "text": "辛苦你了，队长……接下来由我代为指挥。"
+    },
+    {
+     "title": "队友倒下·法帝娅",
+     "text": "法帝娅，不要勉强，还有我在。"
+    },
+    {
+     "title": "队友倒下·安魂曲",
+     "text": "先睡一会儿吧，安魂曲……剩下的交给我。"
+    },
+    {
+     "title": "弹反·Ⅰ",
+     "text": "休想！"
+    },
+    {
+     "title": "弹反·Ⅱ",
+     "text": "束手就擒！"
+    },
+    {
+     "title": "连续极限闪避成功·Ⅰ",
+     "text": "你不过如此。"
+    },
+    {
+     "title": "连续极限闪避成功·Ⅱ",
+     "text": "你捉不住影子的。"
+    }
+   ]
+  },
+  "ja": {
+   "daily": [
+    {
+     "title": "初対面",
+     "text": "異象管理局のE.T.D第4小隊、副隊長の翳だ。これからも仕事で何かと付き合いがあるだろう。よろしく。"
+    },
+    {
+     "title": "雑談-仕事環境",
+     "text": "勉強も仕事も同じだが、置かれている環境に大きな影響を受け、知らずに環境の一部となる。つまり、環境と自身とは双方向な関係なのだ。"
+    },
+    {
+     "title": "雑談-生活リズム",
+     "text": "この街に何の下準備もなく来た割には、すっかり「エイボン」のリズムに慣れたようだな。住み心地はどうだ？自分に合っていると思うか？"
+    },
+    {
+     "title": "雑談-会議",
+     "text": "白蔵に会ったら、すぐに連絡を寄越すよう言ってくれないか？サボった会議の議事録を携帯に送ったが、本日中に目を通してもらわないと、困る。"
+    },
+    {
+     "title": "快晴",
+     "text": "太陽が真上に来る時間帯は、影の可動域も狭くなる。だがその分…濃く、くっきりとした影はパワーが強く、近距離戦には打って付けだ。"
+    },
+    {
+     "title": "雨",
+     "text": "じめじめした天気が与える影響は多岐にわたる。足元も悪くなるが、天気によって行動パターンを変える異象もいるから、外勤任務中は気をつけろ。"
+    },
+    {
+     "title": "寒い",
+     "text": "寒くはないが…俺で暖を取るつもりなら勘弁してくれ。"
+    },
+    {
+     "title": "灼熱",
+     "text": "こういう天気だと確かに少しイライラしてくる。もしあの行動を期待してるなら、言っておくが、俺は本物の犬じゃない…"
+    },
+    {
+     "title": "朝の挨拶",
+     "text": "おはよう。どの仕事から片付けるかな。"
+    },
+    {
+     "title": "昼の挨拶",
+     "text": "管理局の食堂は可も不可もないさ。整然と並んで食事を受け取って食べる…確かに効率的だが、毎日となると流石に嫌気も差してくる。"
+    },
+    {
+     "title": "夕方の挨拶",
+     "text": "E.T.Dには決まった退勤時間はなく、常に待機の姿勢が求められている。だから遠慮せず、何かあったらいつでも呼んでくれ。"
+    },
+    {
+     "title": "おやすみ",
+     "text": "今日は疲れただろ。早く休むんだな。"
+    },
+    {
+     "title": "趣味",
+     "text": "特に好きなことというのはないな。強いて言うなら、やるべきことをコツコツとこなしていく感覚は好きだ。"
+    },
+    {
+     "title": "悩み",
+     "text": "悩み？…それは白蔵やファルディーヤのことを指してるのか？…レクイエムの常軌を逸した振る舞いは幼さゆえで、まあ仕方ないさ…それに引き換えあの2人は、仕事もせずに四方八方を巻き込んでは騒ぎを起こしてばかり。頭が痛くなる。"
+    },
+    {
+     "title": "話題-異象：Ms.フェイ",
+     "text": "「Ms.フェイ」が入れたコーヒーは…眠気覚ましに抜群な…独特な味わいだ。俺は嫌いじゃないぞ。それに他に選択肢もないしな。職場で茶を淹れようものなら、大ひんしゅくを買ってしまうから、あとは外に行くしかない。"
+    },
+    {
+     "title": "話題-異象：Agent.LUCK",
+     "text": "「Agent.LUCK」は局の人間が誰もやりたがらないような、退屈な事務ワークを延々とこなしてくれている。主人が帰ってくるのを信じてな…その懸命な姿を見るたびに、光の中に消えていった行方不明の職員を思い出す。まだ着手さえされていない未解決の事件の多さよ…"
+    },
+    {
+     "title": "話題-プロフィール",
+     "text": "えぇと、俺は…君も耳にしたことがあるだろう会社で長いこと勤めてたんだ。その後どういう訳か、今はしがない公僕さ。そんな経歴を見て、普通じゃないと言われることもあるが、俺にしてみれば、自分に合った「普通」を求めて試行錯誤しただけだがな。"
+    },
+    {
+     "title": "自分について-異能",
+     "text": "俺が操っている自分の影が、俺本人とは性質が違うってことが疑問なのか？…具体的には説明できないが、まあ、異能に目覚めた後、自身を定位できるようになり、こわばっていた表面が解かれた、というイメージだ。今の方がずっと生き生きとしているさ。"
+    },
+    {
+     "title": "自分について-獣化した見た目",
+     "text": "異能に目覚めると同時に獣化特性が発現するのはよくあることだが、俺の獣化レベルは尋常じゃないことが分かるだろう。あの日、俺はできるだけ冷静に、それまで通りの理性と礼儀を保とうとした…だが、周りの「エリート」たちに溶け込む資格はすでに失われていたようで…恐らくこれが「代償」なのだろう。"
+    },
+    {
+     "title": "自分について-「エリート」",
+     "text": "自分の中の当たり前や居場所が崩れ去っていく、そんな感覚もあったさ…だが、もう過ぎたことだ。あの仕事もあの場所も、そこの価値基準も、今の俺には響かない。"
+    },
+    {
+     "title": "アルフェードについて",
+     "text": "局長は指導者たる素質を持っている。ただ、成果第一主義なところがあって、部下がどんなやり方をしようと構わない…まぁ、個性派集団のE.T.Dが、成り立っているのも、そういうわけだが…"
+    },
+    {
+     "title": "白蔵について",
+     "text": "白蔵が「疲れた」「もう無理」「もう死ぬ」…なんて言っても、真に受ける必要はまったくない。無駄口を叩くだけの余裕があるってことだからな。今までも実際、大したことはなかった。"
+    },
+    {
+     "title": "ファルディーヤについて",
+     "text": "前にファルディーヤとの外周り中に、とある筋の知り合いにばったり会って…少し話をする空気になったんだ。そうしたら、「今の仕事は堅気なのか」と後でコッソリ聞かれたよ。同僚の振るまいの如何が、職場や自身のイメージを決めるとは…はぁ、気が重い…"
+    },
+    {
+     "title": "レクイエムについて",
+     "text": "直接迎えに行くか、あらかじめ待ち合わせをしておかないと…あの子なら身分証明書をなくして現場を締め出されかねん。そう考えると、寝坊や迷子なんて些細なものだ。"
+    },
+    {
+     "title": "異象管理局について",
+     "text": "昔は大企業の中堅クラスになれば安泰で、「規律ある」生活を送ることが一番だと思っていた。なのにまさか、管理局みたいな「突発事象」を専門に扱う組織に属するとはな…世の中は予測不能なことばかりだ。数々の「突発事象」に対処してきたことで、この立場にのし上がり、今じゃあその「突発事象」が俺の「規律」の一部になってきている…"
+    },
+    {
+     "title": "E.T.Dについて",
+     "text": "チームワークに欠け、マイペースを貫く…昔はそんな部下がいたら我慢ならなかったが…今思えば、この手の同僚とうまくやれない奴こそ、不適合者なのかもな。"
+    },
+    {
+     "title": "キャラ突破Ⅰ",
+     "text": "今のこの状態も悪くない。"
+    },
+    {
+     "title": "キャラ突破Ⅱ",
+     "text": "地道に行こう。"
+    },
+    {
+     "title": "キャラ突破Ⅲ",
+     "text": "仕事から学ぶこともある。"
+    },
+    {
+     "title": "届けられたギフトⅠ",
+     "text": "実用的で、理に適っている…感謝する、鑑定士。"
+    },
+    {
+     "title": "届けられたギフトⅡ",
+     "text": "仕事に忙殺されて買いに行く暇もなかったんだが…君から受け取ることになるとはな。"
+    },
+    {
+     "title": "届けられたギフトⅢ",
+     "text": "これは協力関係を維持するための、重要なプロセス…というわけか。礼を言う。"
+    },
+    {
+     "title": "届けられたギフトⅣ",
+     "text": "礼には礼を尽くそう。"
+    }
+   ],
+   "battle": [
+    {
+     "title": "バイレールスキルⅠ",
+     "text": "大人しくしろ！"
+    },
+    {
+     "title": "バイレールスキルⅡ",
+     "text": "これでも喰らえ！"
+    },
+    {
+     "title": "バイレールスキルⅢ",
+     "text": "いい加減にしろ！"
+    },
+    {
+     "title": "EXレール終結Ⅰ",
+     "text": "ターゲットを制圧しろ！"
+    },
+    {
+     "title": "EXレール終結Ⅱ",
+     "text": "職務を果たすまで。"
+    },
+    {
+     "title": "EXレール終結Ⅲ",
+     "text": "そろそろ強硬手段を取るぞ。"
+    },
+    {
+     "title": "異象収容Ⅰ",
+     "text": "よくやった。残りは収容部が引き継ぐ。"
+    },
+    {
+     "title": "異象収容Ⅱ",
+     "text": "あとは俺が片付ける。"
+    },
+    {
+     "title": "異象排除Ⅰ",
+     "text": "ふん、噛みづらい骨だな。"
+    },
+    {
+     "title": "異象排除Ⅱ",
+     "text": "ターゲット、対処完了。"
+    },
+    {
+     "title": "意外な収穫Ⅰ",
+     "text": "予想外の発見だ。"
+    },
+    {
+     "title": "意外な収穫Ⅱ",
+     "text": "後方支援に任せよう。"
+    },
+    {
+     "title": "意外な収穫Ⅲ",
+     "text": "まず安全を確認しよう。"
+    },
+    {
+     "title": "意外な収穫Ⅳ",
+     "text": "…ここまで来た甲斐があったな。"
+    },
+    {
+     "title": "意外な収穫Ⅴ",
+     "text": "しばらくこちらで保管しよう。"
+    },
+    {
+     "title": "意外な収穫Ⅵ",
+     "text": "意外な収穫だ。"
+    },
+    {
+     "title": "低HPⅠ",
+     "text": "ちょっと雲行きが怪しいな…"
+    },
+    {
+     "title": "低HPⅡ",
+     "text": "援軍はまだか！"
+    },
+    {
+     "title": "低HPⅢ",
+     "text": "…落ち着け。まだチャンスはある。"
+    },
+    {
+     "title": "HP回復Ⅰ",
+     "text": "いい時に来た。"
+    },
+    {
+     "title": "HP回復Ⅱ",
+     "text": "大助かりだ。"
+    },
+    {
+     "title": "力尽きⅠ",
+     "text": "くっ…何たる醜態！"
+    },
+    {
+     "title": "力尽きⅡ",
+     "text": "まだまだだな…"
+    },
+    {
+     "title": "力尽きⅢ",
+     "text": "他の隊員は…速やかに撤退しろ…！"
+    },
+    {
+     "title": "敵を撃破Ⅰ",
+     "text": "後始末は俺がサポートする。"
+    },
+    {
+     "title": "敵を撃破Ⅱ",
+     "text": "進捗は順調だ。"
+    },
+    {
+     "title": "ダメージを受ける（通常）Ⅰ",
+     "text": "擦り傷だ。"
+    },
+    {
+     "title": "ダメージを受ける（通常）Ⅱ",
+     "text": "取るに足らん。"
+    },
+    {
+     "title": "大打撃Ⅰ",
+     "text": "油断は禁物だ…"
+    },
+    {
+     "title": "大打撃Ⅱ",
+     "text": "敵が来る、気をつけろ…"
+    },
+    {
+     "title": "出撃Ⅰ",
+     "text": "E.T.D第4小隊、現場に突入する。"
+    },
+    {
+     "title": "出撃Ⅱ",
+     "text": "速やかに任務を開始しろ。"
+    },
+    {
+     "title": "コンビスキルⅠ",
+     "text": "Fass."
+    },
+    {
+     "title": "コンビスキルⅡ",
+     "text": "…影のごとく。"
+    },
+    {
+     "title": "コンビスキルⅢ",
+     "text": "対処する！"
+    },
+    {
+     "title": "滑空Ⅰ",
+     "text": "ついでに、周囲の様子を確かめておこう…"
+    },
+    {
+     "title": "滑空Ⅱ",
+     "text": "うん…遠くまでよく見える。"
+    },
+    {
+     "title": "切替Ⅰ",
+     "text": "正面は俺がやる。"
+    },
+    {
+     "title": "切替Ⅱ",
+     "text": "援護する。"
+    },
+    {
+     "title": "切替Ⅲ",
+     "text": "戦闘開始だ！"
+    },
+    {
+     "title": "特殊切替Ⅰ・白蔵",
+     "text": "この戦い、E.T.D第4小隊が引き受けた。"
+    },
+    {
+     "title": "特殊切替Ⅱ・白蔵",
+     "text": "気を抜くなよ、白藏。"
+    },
+    {
+     "title": "特殊切替Ⅰ・ファルディーヤ",
+     "text": "この戦い、E.T.D第4小隊が引き受けた。"
+    },
+    {
+     "title": "特殊切替Ⅱ・ファルディーヤ",
+     "text": "ファルディーヤ、ほどほどにしろ。"
+    },
+    {
+     "title": "特殊切替Ⅰ・レクイエム",
+     "text": "隊員を守るのが、俺の務めだ。"
+    },
+    {
+     "title": "特殊切替Ⅱ・レクイエム",
+     "text": "レクイエム、少し休め。"
+    },
+    {
+     "title": "仲間気絶・白蔵",
+     "text": "ご苦労だった、隊長。ここからは、俺が代わりに仕切るよ。"
+    },
+    {
+     "title": "仲間気絶・ファルディーヤ",
+     "text": "ファルディーヤ、俺もいるし、無理はするな。"
+    },
+    {
+     "title": "仲間気絶・レクイエム",
+     "text": "少し寝ていいぞ、レクイエム。あとは俺に任せろ。"
+    },
+    {
+     "title": "パリィⅠ",
+     "text": "させん！"
+    },
+    {
+     "title": "パリィⅡ",
+     "text": "大人しくしろ！"
+    },
+    {
+     "title": "連続極限回避成功Ⅰ",
+     "text": "こんなものか。"
+    },
+    {
+     "title": "連続極限回避成功Ⅱ",
+     "text": "影は捕まらない。"
+    }
+   ]
+  },
+  "ko": {
+   "daily": [
+    {
+     "title": "첫 만남",
+     "text": "이상 관리국 E.T.D 4팀 부대장 스키아야. 앞으로 협력할 일이 더 많아질 수도 있겠군. 잘 부탁하지."
+    },
+    {
+     "title": "대화·근무 환경",
+     "text": "공부든 일이든, 사람은 환경의 영향을 받을 수밖에 없어. 그리고 어느새 그 환경의 일부가 되어… 서로 영향을 주고받지."
+    },
+    {
+     "title": "대화·생활 리듬",
+     "text": "이 도시에 대해 아무것도 모른 채로, 아무런 준비도 없이 왔으니, 「에이본」의 리듬에 맞게 네 생활 리듬도 바뀌겠군. 어때? 네게 맞는 환경 같아?"
+    },
+    {
+     "title": "대화·회의",
+     "text": "백장을 만나면 즉시 답장하라고 전해주겠어? 불참한 회의 기록을 정리해서 보냈거든. 오늘 안으로 반. 드. 시. 검토해야 한다고 전해줘."
+    },
+    {
+     "title": "맑은 날",
+     "text": "태양이 머리 위에 내리쬘 때는 그림자가 그다지 크지 않지만… 그만큼 진하고 선명해서 근거리에선 더 강력한 힘을 발휘하지."
+    },
+    {
+     "title": "비 오는 날",
+     "text": "습한 날씨는 야외 업무에도 많은 영향을 주지. 바닥도 미끄러워질뿐더러, 날씨에 따라 행동 패턴이 바뀌는 이상에 주의를 기울여야 해."
+    },
+    {
+     "title": "추운 날",
+     "text": "추운 건 아니지만… 내 온기를 나눠가려는 건 좋은 생각이 아니야."
+    },
+    {
+     "title": "더운 날",
+     "text": "이런 날씨에 짜증이 느는 건 사실이지만, 계속 쳐다볼 필요는 없어. 난 진짜 개가 아니니까. 네가 상상하는 그런 방식으로… 체온을 발산하진 않아!"
+    },
+    {
+     "title": "아침 인사",
+     "text": "좋은 아침. 오늘은 어떤 업무부터 처리할 계획이지?"
+    },
+    {
+     "title": "점심 인사",
+     "text": "관리국 식당 맛이라, 그저 그래. 나란히 줄 서서 배식받고 식사하는 시스템은 효율적이지… 하지만 매일 먹다 보면 질리는 것도 당연해."
+    },
+    {
+     "title": "저녁 인사",
+     "text": "E.T.D는 정해진 퇴근 시간이 없어. 언제든 대기 상태를 유지해야 하지. 신경 쓰지 말고, 필요하면 언제든 불러."
+    },
+    {
+     "title": "취침 인사",
+     "text": "하루 종일 고생했어. 일찍 쉬도록 해."
+    },
+    {
+     "title": "취미",
+     "text": "특별히 좋아하는 일이라… 쉽지 않네. 굳이 말하자면, 처리해야 할 일들이 차례대로 진행되고 있는… 그런 상태를 좋아해."
+    },
+    {
+     "title": "고민",
+     "text": "고민…? 백장과 파디아에 관해 묻는 건가…? 라크리모사는 아직 미성숙해서 가끔 선을 넘고 소란을 일으키기도 하지만, 이해 가능한 범위야… 두 어른 놈은 하루 종일 일은 안 하고 여기저기서 말썽만 일으키니, 생각만 해도 머리가 지끈거리는군."
+    },
+    {
+     "title": "주제·이상·페이 여사",
+     "text": "「페이 여사」의 커피 맛은 아주 독특하지만, 각성 효과가 뛰어나서 싫지는 않아. 어차피 다른 선택지도 없고. 차를 우리면 화를 내서 차를 마시려면 밖으로 나가야 하거든."
+    },
+    {
+     "title": "주제·이상·Agent.LUCK",
+     "text": "「Agent.LUCK」은 관리국의 대다수가 기피하는 문서 작업을 도맡아서 하고 있어… 지루하고 끝이 없는 일이지만, 다 끝내면 주인이 돌아올 거라고 믿기 때문이야… 열심히 일하는 모습을 볼 때마다, 빛 속에서 사라져 지금까지도 행방불명인 그 직원을 떠올리게 돼. 우리가 손도 대지 못한 미해결 사건이 아직도 많다는 사실을 실감하게 되지…"
+    },
+    {
+     "title": "주제·이력",
+     "text": "흠, 나는… 이름 들어봤을 법한 대기업에서 오래 일하다가 중간에 잠깐 뒷세계에도 발을 담갔지만, 어쨌든 지금은 공공기관에서 일하고 있어. 내 이력이 평범하지 않다고 하는 사람도 있지만, 돌이켜 보면 모두 내게 맞는 「평범함」을 찾아가는 과정이었어. 많은 시행착오가 있었지."
+    },
+    {
+     "title": "자신·이능력에 관해",
+     "text": "난 내 그림자를 조종해. 그림자의 성격이 나와 달라 보이는 이유가 궁금하다고…? 다소 추상적일 수 있지만, 이능력을 각성한 뒤에야 내가 있어야 할 곳이 어딘지 깨달았거든. 늘 딱딱한 겉모습을 유지할 필요가 없다는 걸 깨달았고, 그래서 그림자가 처음보다 더 활기차진 것 같아."
+    },
+    {
+     "title": "자신·괴수화된 모습에 관해",
+     "text": "이능력을 각성하고 괴수화되는 건 흔한 일이지만, 보다시피 내 괴수화는 다른 사람들보다 훨씬 심해. 그날 난 최대한 침착하게, 평소처럼 이성적이고 예의 바르게 원래의 생활을 유지하려 했지만, 결국 주변 「엘리트」들과는 어울리지 못하게 됐지… 어쩌면 「대가」를 치른 걸지도."
+    },
+    {
+     "title": "자신·「엘리트」에 관해",
+     "text": "한동안은 익숙했던 세상이 무너진 것 같았어… 하지만 괜찮아. 이제는 그 직업도, 그들이 정한 기준도 신경 쓰지 않게 되었으니까."
+    },
+    {
+     "title": "알파드에 관해",
+     "text": "국장은 카리스마 있는 리더지. 성과만 좋다면 부하들의 사적인 영역에는 크게 신경 쓰지 않고… E.T.D에 자유분방하고 개성 강한 사람들이 넘쳐나는 이유도 그래서가 아닐까…"
+    },
+    {
+     "title": "백장에 관해",
+     "text": "백장이 「너무 지쳤어」, 「더는 못 해」, 「이러다 죽겠어」 같은 말을 할 때는 굳이 신경 쓸 필요 없어. 아직 투덜거릴 여유가 있다면 멀쩡하다는 뜻이니까. 함께 지내면서 얻은 노하우야."
+    },
+    {
+     "title": "파디아에 관해",
+     "text": "한번은 파디아랑 외근을 나갔다가 뒷세계에서 알던 지인을 만났는데, 당시 상황이 상황이었던지라… 짧게 인사만 했어. 근데 나중에 연락이 와서 「지금 하는 일이 제대로 된 일이 맞냐」고 묻더군… 동료의 이미지가 내 직장, 내 평판에까지 영향을 준다고 생각하니까… 피곤해졌어."
+    },
+    {
+     "title": "라크리모사에 관해",
+     "text": "라크리모사를 데리러 가지 않았거나 미리 만나지 않았다면… 사원증을 잃어버려서 현장에 못 들어가고 있을 거야. 그에 비하면 늦잠 자서 지각하거나 길을 잃어버리는 건 사소한 문제지."
+    },
+    {
+     "title": "이상 관리국에 관해",
+     "text": "예전에는 안정적인 대기업에서 중간 관리직으로 일하는 명확하고 「질서」 있는 삶이 나한테 가장 잘 어울린다고 생각했어. 관리국 같은 「돌발 상황」을 처리하는 조직에 몸담을 거라고는 상상도 못 했지… 세상일은 정말 모르는 거야. 「돌발 상황」에 등 떠밀려 이 자리까지 오게 되고, 매일 「돌발 상황」을 처리하는 이런 생활이 나의 「질서」가 될 줄이야…"
+    },
+    {
+     "title": "E.T.D에 관해",
+     "text": "예전엔 협동 능력이 부족하고 제멋대로인 사람들을 용납하지 못했어. 지금 여기서는… 그런 동료들을 받아들이지 못하는 사람이 오히려 부적응자 취급을 받지."
+    },
+    {
+     "title": "캐릭터 돌파·Ⅰ",
+     "text": "지금 상태, 꽤 마음에 들어."
+    },
+    {
+     "title": "캐릭터 돌파·Ⅱ",
+     "text": "착실하게 성장하고 있군."
+    },
+    {
+     "title": "캐릭터 돌파·Ⅲ",
+     "text": "임무 중에도 새로운 걸 배울 수 있어."
+    },
+    {
+     "title": "선물 수령·Ⅰ",
+     "text": "정성이 가득 담긴 선물이군. 세심하게 고른 티가 나네. 고마워, 감정사."
+    },
+    {
+     "title": "선물 수령·Ⅱ",
+     "text": "일 때문에 사러 갈 틈이 없었는데, 이렇게 받게 될 줄이야…"
+    },
+    {
+     "title": "선물 수령·Ⅲ",
+     "text": "협력 관계를 유지하는 데 있어 선물은 중요한 역할을 하지. 고맙군."
+    },
+    {
+     "title": "선물 수령·IV",
+     "text": "선물을 받았으니, 나 또한 소홀함 없이 보답하지."
+    }
+   ],
+   "battle": [
+    {
+     "title": "바이레일 스킬·Ⅰ",
+     "text": "얌전히 있어!"
+    },
+    {
+     "title": "바이레일 스킬·Ⅱ",
+     "text": "받아라!"
+    },
+    {
+     "title": "바이레일 스킬·Ⅲ",
+     "text": "말썽 피우지 마!"
+    },
+    {
+     "title": "울티메이트·Ⅰ",
+     "text": "목표를 제압한다!"
+    },
+    {
+     "title": "울티메이트·Ⅱ",
+     "text": "소임을 다할 뿐!"
+    },
+    {
+     "title": "울티메이트·Ⅲ",
+     "text": "강경책을 써야겠군."
+    },
+    {
+     "title": "이상 수용·Ⅰ",
+     "text": "처리 완료. 나머지는 수용팀에 맡기지."
+    },
+    {
+     "title": "이상 수용·Ⅱ",
+     "text": "뒤처리는 내가 도울게."
+    },
+    {
+     "title": "이상 제거·Ⅰ",
+     "text": "흠, 까다로운 녀석이야."
+    },
+    {
+     "title": "이상 제거·Ⅱ",
+     "text": "타켓 처리를 완료했습니다."
+    },
+    {
+     "title": "뜻밖의 수확·Ⅰ",
+     "text": "예상 밖의 수확이군."
+    },
+    {
+     "title": "뜻밖의 수확·Ⅱ",
+     "text": "후방 지원팀에 넘겨야겠어."
+    },
+    {
+     "title": "뜻밖의 수확·Ⅲ",
+     "text": "먼저 안전한지 확인하고."
+    },
+    {
+     "title": "뜻밖의 수확·Ⅳ",
+     "text": "… 여기까지 온 보람이 있네."
+    },
+    {
+     "title": "뜻밖의 수확·Ⅴ",
+     "text": "잠시 맡아두는 거야."
+    },
+    {
+     "title": "뜻밖의 수확·Ⅵ",
+     "text": "뜻밖의 수확이군."
+    },
+    {
+     "title": "HP 낮음·Ⅰ",
+     "text": "상황이 좋지 않아…"
+    },
+    {
+     "title": "HP 낮음·Ⅱ",
+     "text": "지원은 아직인가?"
+    },
+    {
+     "title": "HP 낮음·Ⅲ",
+     "text": "… 침착하자, 아직 기회는 있어."
+    },
+    {
+     "title": "HP 회복·Ⅰ",
+     "text": "적절한 지원이었어."
+    },
+    {
+     "title": "HP 회복·Ⅱ",
+     "text": "큰 도움이 됐어."
+    },
+    {
+     "title": "탈진·Ⅰ",
+     "text": "윽… 면목없군!"
+    },
+    {
+     "title": "탈진·Ⅱ",
+     "text": "역부족이었나…"
+    },
+    {
+     "title": "탈진·Ⅲ",
+     "text": "다른 대원들을… 철수시켜…!"
+    },
+    {
+     "title": "몬스터 처치·Ⅰ",
+     "text": "뒷수습은 내가 맡지."
+    },
+    {
+     "title": "몬스터 처치·Ⅱ",
+     "text": "아주 순조로워."
+    },
+    {
+     "title": "일반 피격·Ⅰ",
+     "text": "긁힌 정도야."
+    },
+    {
+     "title": "일반 피격·Ⅱ",
+     "text": "별거 아니야."
+    },
+    {
+     "title": "심각한 피해·Ⅰ",
+     "text": "방심해선 안 되겠어…"
+    },
+    {
+     "title": "심각한 피해·Ⅱ",
+     "text": "만만치 않군…"
+    },
+    {
+     "title": "출전·Ⅰ",
+     "text": "E.T.D 4팀, 현장 투입."
+    },
+    {
+     "title": "출전·Ⅱ",
+     "text": "즉시 작전에 착수한다."
+    },
+    {
+     "title": "협동기·Ⅰ",
+     "text": "Fass."
+    },
+    {
+     "title": "협동기·Ⅱ",
+     "text": "… 그림자 밟기."
+    },
+    {
+     "title": "협동기·Ⅲ",
+     "text": "내가 처리하지!"
+    },
+    {
+     "title": "글라이딩·Ⅰ",
+     "text": "이참에 주변을 정찰해야겠어…"
+    },
+    {
+     "title": "글라이딩·Ⅱ",
+     "text": "음… 시야가 탁 트였군."
+    },
+    {
+     "title": "전환·Ⅰ",
+     "text": "전방은 나한테 맡겨."
+    },
+    {
+     "title": "전환·Ⅱ",
+     "text": "도우러 왔어."
+    },
+    {
+     "title": "전환·Ⅲ",
+     "text": "작전 개시!"
+    },
+    {
+     "title": "특수 전환Ⅰ·백장",
+     "text": "이제부터 현장은 E.T.D 4팀이 지휘한다!"
+    },
+    {
+     "title": "특수 전환Ⅱ·백장",
+     "text": "백장 대장, 방심하지 마."
+    },
+    {
+     "title": "특수 전환Ⅰ·파디아",
+     "text": "이제부터 현장은 E.T.D 4팀이 지휘한다!"
+    },
+    {
+     "title": "특수 전환Ⅱ·파디아",
+     "text": "파디아, 적당히 하고 가지."
+    },
+    {
+     "title": "특수 전환Ⅰ·라크리모사",
+     "text": "대원들을 보호하는 게 내 책임이지."
+    },
+    {
+     "title": "특수 전환Ⅱ·라크리모사",
+     "text": "라크리모사, 가서 쉬어."
+    },
+    {
+     "title": "팀원 쓰러짐·백장",
+     "text": "고생했어, 대장… 남은 현장은 내가 지휘하지."
+    },
+    {
+     "title": "팀원 쓰러짐·파디아",
+     "text": "파디아, 내가 있으니 무리하지 마."
+    },
+    {
+     "title": "팀원 쓰러짐·라크리모사",
+     "text": "라크리모사, 잠시 눈 좀 붙여… 나머지는 내가 해결할게."
+    },
+    {
+     "title": "패링·Ⅰ",
+     "text": "어딜!"
+    },
+    {
+     "title": "패링·Ⅱ",
+     "text": "순순히 항복해!"
+    },
+    {
+     "title": "연속 극한 회피 성공·Ⅰ",
+     "text": "겨우 그 정도인가."
+    },
+    {
+     "title": "연속 극한 회피 성공·Ⅱ",
+     "text": "내 그림자의 발끝도 못 스쳐."
+    }
+   ]
+  },
+  "zh-tw": {
+   "daily": [
+    {
+     "title": "初次見面",
+     "text": "隸屬於異象管理局禁制機動隊——擔任四隊副隊長職務的翳。今後的工作中，也許還會有更多需要尋求協作的情況。"
+    },
+    {
+     "title": "閒聊·工作環境",
+     "text": "不論學習還是工作，每個人都深受其所處環境的影響，並在無形中成為該環境的一部分——環境的選擇是雙向的。"
+    },
+    {
+     "title": "閒聊·生活節奏",
+     "text": "你是在對這個城市一無所知也沒有做過任何準備的前提下過來的，所以「伊波恩」的節奏也會塑造你在此處的生活節奏吧。你覺得怎麼樣？是適合自己的嗎？"
+    },
+    {
+     "title": "閒聊·會議",
+     "text": "見到白藏的話能麻煩督促他立即回我消息嗎？我把他翹掉的會議記錄整理好發他手機上了，他今天之內必·須過目。"
+    },
+    {
+     "title": "大晴天",
+     "text": "陽光在頭頂直射的時段，我的影子將很難從腳下擴散出去，不過相對的……濃縮、鮮明的影子在短距離下，力道會更為強勁。"
+    },
+    {
+     "title": "雨天",
+     "text": "天氣潮濕，戶外工作會受到不小的影響，並不只有地面打滑這一方面而已。務必要留意那些會因為天氣變化而改變行為模式的異象。"
+    },
+    {
+     "title": "寒冷",
+     "text": "我不冷……但指望靠我取暖不是個好主意。"
+    },
+    {
+     "title": "炎熱",
+     "text": "這種天氣下我多少也會心情煩躁，不過，沒有必要一直盯著看，我並非真正的犬類，你想像中的那種散熱行為……是不會做的！"
+    },
+    {
+     "title": "早上問候",
+     "text": "早上好。今天打算先處理哪項工作？"
+    },
+    {
+     "title": "中午問候",
+     "text": "局裡食堂飯菜的口味，無功無過吧。井然有序地排隊領餐、用餐，確實很有效率……但每天吃會厭倦，也很正常。"
+    },
+    {
+     "title": "傍晚問候",
+     "text": "在E.T.D沒有確切的下班時間，而是要求隨時保持待命的心態。不用顧忌什麼，有事隨時叫我吧。"
+    },
+    {
+     "title": "晚安",
+     "text": "一天下來辛苦了，早點休息。"
+    },
+    {
+     "title": "愛好",
+     "text": "很難說我個人有什麼特別喜歡做的事。非得要說的話，我比較喜歡那種……讓自己待處理的各項事務，都保持在穩步推進之下的感覺。"
+    },
+    {
+     "title": "煩惱",
+     "text": "煩惱嗎？……是指有關白藏還是法帝婭的？……安魂曲心智還不成熟，偶爾做出一些出格的舉動，惹出一些小騷亂，也在情理之中……那兩個成年人也一天到晚不務正業到處惹麻煩，實在很難不讓人頭痛。"
+    },
+    {
+     "title": "話題·異象·菲女士",
+     "text": "「菲女士」的咖啡……味道十分獨特，但提神效果很好，我並不討厭。況且也沒有其他選擇，在座位泡茶的話她會生氣的，所以想喝茶得去外頭。"
+    },
+    {
+     "title": "話題·異象·Agent.LUCK",
+     "text": "「Agent.LUCK」幾乎承擔了局裡所有沒人願意做的文書工作——枯燥乏味，而又漫無止境。只因堅信全部做完主人就會回家……每當看到它努力的模樣，我就會想到那個失蹤在彩光中至今仍無下落的職員，想到我們也無從下手的、懸而未決的事件，仍有那麼多……"
+    },
+    {
+     "title": "話題·經歷",
+     "text": "嗯，我在一個……你搞不好聽過名字的企業做了很久，後來混過道上，而如今供職於公權機構。有人說我的經歷挺不同尋常的，不過回頭看來，又好像都是在摸索適合自己的「尋常」，為此不斷嘗試錯誤。"
+    },
+    {
+     "title": "關於自己·異能",
+     "text": "你是在疑惑為什麼我明明操控的是自己的影子，影子的性情卻看起來和我本人不太一樣嗎……？這解釋起來可能會有些抽象。只能說，覺醒異能後，隨著我對自己應處定位的理解加深，也認識到無需在表面功夫上時時刻刻保持緊繃，它看上去就變得比最初更富有活力了。"
+    },
+    {
+     "title": "關於自己·獸化的外形",
+     "text": "在覺醒異能的同時擁有了獸化特徵是非常普遍的情況，但你也看得出來，我身體的獸化程度比其他人嚴重得多。那天，我也極力保持冷靜，試圖以往常的理智與禮貌去維護原有的生活節奏，但似乎不可避免地，還是失去了融入周遭「精英」們的資格……恐怕是「代價」吧。"
+    },
+    {
+     "title": "關於自己·「精英」",
+     "text": "自那之後確實有過一段時間覺得，就像是習以為常的立身之所崩塌了一般……不過沒關係，現在我早已並不在乎那份工作，和那個地方所制定的標準了。"
+    },
+    {
+     "title": "關於艾爾菲德",
+     "text": "局長是一位有魄力的領導者。不過，她並不太在意下屬各自的行事作風如何，而是只著眼於成效……這一點，可能也是E.T.D中這麼多自由生長的個性派都能得到縱容的原因吧……"
+    },
+    {
+     "title": "關於白藏",
+     "text": "白藏說自己「很累」「做不下去了」「受了好重的傷」……類似這些話的時候，不用真的去費心遷就他。還有閒情逸致講幹話，就表明沒什麼大礙，這是相處下來的經驗之談。"
+    },
+    {
+     "title": "關於法帝婭",
+     "text": "有次和法帝婭一起出外勤，遇見了以前道上的熟人，迫於當時情勢……聊了一會。後來他竟然又私下追問我「現在做的工作到底正不正經」……一想到，同事在外頭的形象真的會很大程度影響到他人對你的職場，乃至於你個人的印象，我就心生疲憊……"
+    },
+    {
+     "title": "關於安魂曲",
+     "text": "如果我不去接安魂曲或者提前和她會合的話……她甚至很有可能，會因為弄丟自己的證件而不被允許進入現場，相較之下，睡過頭遲到和迷路可能都是小事了。"
+    },
+    {
+     "title": "關於異象管理局",
+     "text": "過去我認為，在一個大規模的企業中做一份中層的穩定工作、精準「有序」地生活，便是最好也最適合自己的。未曾想過會和管理局這種專門負責處理「意外」的組織扯上什麼關聯……世事難料，重重「意外」將我推到了這個位置，而這種每天都需要處理「意外」的生活，漸漸成為了對我而言的「有序」……"
+    },
+    {
+     "title": "關於E.T.D",
+     "text": "放在以前我多少難以容忍手下部門中存在欠缺團隊協調能力、過於我行我素的傢伙。現在在這裡……恐怕不能接受與這類同僚共事的人，才是不適應者。"
+    },
+    {
+     "title": "角色突破·Ⅰ",
+     "text": "現在的狀態很不錯。"
+    },
+    {
+     "title": "角色突破·Ⅱ",
+     "text": "穩紮穩打。"
+    },
+    {
+     "title": "角色突破·Ⅲ",
+     "text": "工作中也能學到新東西。"
+    },
+    {
+     "title": "收到贈禮·Ⅰ",
+     "text": "實在、妥當、富有誠意的禮物。多謝你，鑒定師。"
+    },
+    {
+     "title": "收到贈禮·Ⅱ",
+     "text": "因為工作太忙一直沒空去買，沒想到是從你這裡收到了……"
+    },
+    {
+     "title": "收到贈禮·Ⅲ",
+     "text": "我明白，這是維護合作關係的重要一部分，謝謝。"
+    },
+    {
+     "title": "收到贈禮·IV",
+     "text": "禮尚往來，我不會怠慢。"
+    }
+   ],
+   "battle": [
+    {
+     "title": "變軌技能·Ⅰ",
+     "text": "老實點！"
+    },
+    {
+     "title": "變軌技能·Ⅱ",
+     "text": "吃下這招！"
+    },
+    {
+     "title": "變軌技能·Ⅲ",
+     "text": "少惹麻煩！"
+    },
+    {
+     "title": "極軌終結·Ⅰ",
+     "text": "壓制目標！"
+    },
+    {
+     "title": "極軌終結·Ⅱ",
+     "text": "職責所在！"
+    },
+    {
+     "title": "極軌終結·Ⅲ",
+     "text": "該用強硬手段處理了。"
+    },
+    {
+     "title": "收容異象·Ⅰ",
+     "text": "搞定了。剩下就由收容組的同事們接手。"
+    },
+    {
+     "title": "收容異象·Ⅱ",
+     "text": "我來協助善後。"
+    },
+    {
+     "title": "泯除異象·Ⅰ",
+     "text": "哼，是塊不好啃的骨頭。"
+    },
+    {
+     "title": "泯除異象·Ⅱ",
+     "text": "任務目標已經處理完畢。"
+    },
+    {
+     "title": "意外收穫·Ⅰ",
+     "text": "意料之外的發現。"
+    },
+    {
+     "title": "意外收穫·Ⅱ",
+     "text": "交給後勤人員處置吧。"
+    },
+    {
+     "title": "意外收穫·Ⅲ",
+     "text": "先確認一下是否安全。"
+    },
+    {
+     "title": "意外收穫·Ⅳ",
+     "text": "……不虛此行。"
+    },
+    {
+     "title": "意外收穫·Ⅴ",
+     "text": "先暫為保管吧。"
+    },
+    {
+     "title": "意外收穫·Ⅵ",
+     "text": "意外的收穫。"
+    },
+    {
+     "title": "生命值低·Ⅰ",
+     "text": "形勢有些不妙……"
+    },
+    {
+     "title": "生命值低·Ⅱ",
+     "text": "後援還沒有到嗎！"
+    },
+    {
+     "title": "生命值低·Ⅲ",
+     "text": "……保持冷靜，還有機會。"
+    },
+    {
+     "title": "恢復生命·Ⅰ",
+     "text": "支援很及時。"
+    },
+    {
+     "title": "恢復生命·Ⅱ",
+     "text": "幫大忙了。"
+    },
+    {
+     "title": "力竭·Ⅰ",
+     "text": "呃……慚愧！"
+    },
+    {
+     "title": "力竭·Ⅱ",
+     "text": "力有未逮……"
+    },
+    {
+     "title": "力竭·Ⅲ",
+     "text": "其他隊員……立即撤退……！"
+    },
+    {
+     "title": "擊敗怪物·Ⅰ",
+     "text": "我會協助善後的。"
+    },
+    {
+     "title": "擊敗怪物·Ⅱ",
+     "text": "進展順利。"
+    },
+    {
+     "title": "普通受擊·Ⅰ",
+     "text": "擦傷。"
+    },
+    {
+     "title": "普通受擊·Ⅱ",
+     "text": "無足掛齒。"
+    },
+    {
+     "title": "重受擊·Ⅰ",
+     "text": "不可掉以輕心……"
+    },
+    {
+     "title": "重受擊·Ⅱ",
+     "text": "來者不善……"
+    },
+    {
+     "title": "上陣·Ⅰ",
+     "text": "E.T.D四隊，介入現場。"
+    },
+    {
+     "title": "上陣·Ⅱ",
+     "text": "立即著手處理本次的任務吧。"
+    },
+    {
+     "title": "協同技·Ⅰ",
+     "text": "Fass."
+    },
+    {
+     "title": "協同技·Ⅱ",
+     "text": "……如影隨形。"
+    },
+    {
+     "title": "協同技·Ⅲ",
+     "text": "我來策應！"
+    },
+    {
+     "title": "滑翔·Ⅰ",
+     "text": "正好偵察一下四周……"
+    },
+    {
+     "title": "滑翔·Ⅱ",
+     "text": "嗯……視野很開闊。"
+    },
+    {
+     "title": "切換·Ⅰ",
+     "text": "正面交給我。"
+    },
+    {
+     "title": "切換·Ⅱ",
+     "text": "我來支援。"
+    },
+    {
+     "title": "切換·Ⅲ",
+     "text": "開始交戰！"
+    },
+    {
+     "title": "特殊切換Ⅰ·白藏",
+     "text": "E.T.D四隊已接管戰場。"
+    },
+    {
+     "title": "特殊切換Ⅱ·白藏",
+     "text": "白藏，不要鬆懈。"
+    },
+    {
+     "title": "特殊切換Ⅰ·法帝婭",
+     "text": "E.T.D四隊已接管戰場。"
+    },
+    {
+     "title": "特殊切換Ⅱ·法帝婭",
+     "text": "法帝婭，不要戀戰。"
+    },
+    {
+     "title": "特殊切換Ⅰ·安魂曲",
+     "text": "保護隊員是我的責任。"
+    },
+    {
+     "title": "特殊切換Ⅱ·安魂曲",
+     "text": "安魂曲，去休息一下。"
+    },
+    {
+     "title": "隊友倒下·白藏",
+     "text": "辛苦你了，隊長……接下來由我代為指揮。"
+    },
+    {
+     "title": "隊友倒下·法帝婭",
+     "text": "法帝婭，不要勉強，還有我在。"
+    },
+    {
+     "title": "隊友倒下·安魂曲",
+     "text": "先睡一下吧，安魂曲……剩下的交給我。"
+    },
+    {
+     "title": "彈反·Ⅰ",
+     "text": "休想！"
+    },
+    {
+     "title": "彈反·Ⅱ",
+     "text": "束手就擒！"
+    },
+    {
+     "title": "連續極限閃避成功·Ⅰ",
+     "text": "你不過如此。"
+    },
+    {
+     "title": "連續極限閃避成功·Ⅱ",
+     "text": "你捉不住影子的。"
+    }
+   ]
+  }
+ }
+}

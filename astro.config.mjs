@@ -40,6 +40,16 @@ export default defineConfig({
 					items: [{ autogenerate: { directory: 'characters' } }],
 				},
 				{
+					label: 'Anomalies',
+					translations: { 'zh-TW': '異象', 'zh-CN': '异象', ja: '異象', ko: '이상' },
+					items: [{ autogenerate: { directory: 'anomalies' } }],
+				},
+				{
+					label: 'Items and achievements',
+					translations: { 'zh-TW': '道具與成就', 'zh-CN': '道具与成就', ja: 'アイテムと実績', ko: '아이템과 업적' },
+					items: [{ autogenerate: { directory: 'items' } }],
+				},
+				{
 					label: 'Systems and names',
 					translations: { 'zh-TW': '系統與名稱', 'zh-CN': '系统与名称', ja: 'システムと名前', ko: '시스템과 이름' },
 					items: [

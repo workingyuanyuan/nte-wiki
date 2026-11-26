@@ -1,0 +1,2007 @@
+{
+ "slug": "elyms",
+ "id": "1090",
+ "version": "1.5.4",
+ "sources": {
+  "en": "https://static.nanoka.cc/nte/1.5.4/en/character/1090.json",
+  "zh-cn": "https://static.nanoka.cc/nte/1.5.4/zh/character/1090.json",
+  "ja": "https://static.nanoka.cc/nte/1.5.4/ja/character/1090.json",
+  "ko": "https://static.nanoka.cc/nte/1.5.4/ko/character/1090.json",
+  "zh-tw": "https://everness.info/zh-Hant/espers/1090"
+ },
+ "reads": {
+  "zh-tw": "2026-11-25"
+ },
+ "lines": {
+  "en": {
+   "daily": [
+    {
+     "title": "First Meet",
+     "text": "Hey, hey, it's-a me! Long time no see, huh? How've you been…? Me? I'm currently the lieutenant of ETD Squad 6 at the BAC. Haha, betcha didn't see that coming! My name…? What, don't tell me you can't remember my name!"
+    },
+    {
+     "title": "Chat: You Around?",
+     "text": "A lot of people can't stand getting a \"u there?\" before the other person even says what they want. And honestly, whether you're there or not depends on what others are about to say. If it's something you'd rather avoid, part of you wishes you could just not be there. Funny how people's minds work, right?"
+    },
+    {
+     "title": "Chat: Start a Conversation",
+     "text": "When it comes to kicking off a chat, I figure the safest bet is to cut to the chase and say whatever you want, I guess? Take me, for example, hah, I'm here to check in on you! Anything happened lately you feel like sharing with a friend? Happy things, worrying things, anything goes!"
+    },
+    {
+     "title": "Chat: Continue Chatting",
+     "text": "Some people are so scared of awkward silence that they won't even start a conversation. It's a bit backwards, but it's understandable. When that happens, you just have to read the room to figure out where to take things. Your safest pivot is something like the weather or current events. Though those can backfire too… Sometimes you're just not lucky…"
+    },
+    {
+     "title": "Sunny",
+     "text": "With great weather like this, you gotta head out and pack a full schedule, right?"
+    },
+    {
+     "title": "Rainy",
+     "text": "Aren't raindrops… like phone cables between the sky and the land?"
+    },
+    {
+     "title": "Cold",
+     "text": "Here, hold this. Just grabbed it from the hot drinks section at the store. It's perfect for warming hands."
+    },
+    {
+     "title": "Hot",
+     "text": "I grabbed some ice cream on my way here. Here! Isn't this your favorite flavor?"
+    },
+    {
+     "title": "Morning Greeting",
+     "text": "\"Morning, mornin', rise and shine, wakey wakey, wake up\"… There's so much nuance between them. How fun…"
+    },
+    {
+     "title": "Noon Greeting",
+     "text": "Dreams from siestas tend to be nicer than dreams at night. Is it because they're \"daydreams\"?"
+    },
+    {
+     "title": "Evening Greeting",
+     "text": "The setting sun… always makes me feel it's time to say goodbye to a friend. The whole vibe is bittersweet."
+    },
+    {
+     "title": "Good Night",
+     "text": "Rest is necessary for the human body. But once you fall asleep, your mind lets its guard down and whatever's buried in your subconscious emerges to the surface, so you can't really just relax. It's tough."
+    },
+    {
+     "title": "Hobbies",
+     "text": "Spending hours with friends on the phone, sending emails back and forth, sending voice messages, video calls, or just tap-tap-typing away… These activities all have unique flavors, and I love every one of these ways to keep in touch! Besides that, I've actually got a whole bunch of random hobbies… Umm… oh, and I love video games!"
+    },
+    {
+     "title": "Worries",
+     "text": "If something bothers me, I'd say it's work. Not the job itself, but work relationships… Don't worry about me, though. It's serious, don't get me wrong, it's just that… there's probably no way to fix it, so there's no point worrying at all."
+    },
+    {
+     "title": "Topic: Contact Name",
+     "text": "It's super easy to change names. If you ask me, I could easily give you a new one. That's why I say it's about the same as setting a nickname for a contact on social media. Besides, a contact's nickname can sometimes matter more than their real name. Would you prefer I give you one of those special nicknames, like \"Coco\" or \"Precious\"?"
+    },
+    {
+     "title": "Topic: Casework",
+     "text": "I could take a page from Exe's playbook and work the dark side of the net where no one notices… But tapping the open social web is a different story. I'm the only one who can easily chat with people for intel that pushes investigations forward. Having friends in all walks of life makes things easier. And if I need a friend, I'll just make one on the spot, hah. Of course, people aren't always reliable. That's where Linko comes in. She picks up important emotional cues. Once we lock onto a target, Chaos enters the picture. He usually carries out orders without further issues. If things go sideways, I port in to help… Oh, assuming he remembers to call."
+    },
+    {
+     "title": "Topic: Contact",
+     "text": "All forms of connection come to an end. Day after day, people take such connections for granted and lose sight of the fact that they can end at all. Picture every relationship as a data cable around your finger. If you could clearly watch each one go slack, coil, spring back, pull taut, fray, split open, right up until it snaps… wouldn't people be more willing to send that extra message and make that extra call to pour their heart out to people they care about?"
+    },
+    {
+     "title": "About Myself: Work",
+     "text": "For Exe, I check his write-ups and fix all the parts that don't read like human speech. Sometimes I log into his account to be his mouthpiece, or smooth over the department relationships he single-handedly, unintentionally, managed to sour. For Chaos, I sync mission intel during ops. I also stand ready to run keyword analysis whenever his messages mention some modern thing he obviously can't name. For Linko, I stay on the line so I can back her up the second she's isolated. I make surprise calls to make sure she sleeps early, wakes early, heads home, and pulls no all-nighters. And I check in with her parents about her work, then join them in praising their daughter…"
+    },
+    {
+     "title": "About Myself: Communications",
+     "text": "Our squad's private comms isn't set up by Chuppa, but by my own special build. I base the system on \"humans with social ties.\" The upside is it can transmit more than voice data and generate objects straight to the scene, including my avatars or tools exported by Exe. The downside is it barely works out in the uninhabited zones far from the city, or inside anomalous realms cut off from the network. Oh, if you absolutely have to reach me somewhere like that, there's a more bothersome way: you'd have to sink yourself into your subconscious for a bit…"
+    },
+    {
+     "title": "About Myself: Existence",
+     "text": "Do I exist? You see the character model, interfaces, text, you hear this voice clip, and you know that it's all just ones and zeros—illusions put together from numbers and signals. So I guess that for you, the moment all this stops meaning anything, I might as well have never existed! As for meaning, that has to come from \"why\" you exist—the question of \"why (Y).\" Funny thing, from the very moment I came into this world, I already had my \"Y.\" So here's the response to your question: \"Yes. To me, I exist.\""
+    },
+    {
+     "title": "About Exe",
+     "text": "Let me think… \"1. With Exe, work is divided efficiently, yielding outstanding results; 2. Our daily communication is sincere and direct, with both parties comfortable raising whatever needs to be said; 3. Each party has developed a thorough understanding of the other's working style, habits, and pain points; Additional note: both parties confirm there has been no internal conflict over work matters to date, and none is anticipated going forward.\" …Hmm, good, I'll go with that. All truth, no lies."
+    },
+    {
+     "title": "About Chaos",
+     "text": "Picking a ringtone for Chaos is a bit of a headache. To keep comms reaching the frontline, I need him to pick up the second he hears the ring. If the tone's too mellow, he'll tune it out when he's lost in a fight or hot on a target's trail. But if it's too loud, he'll complain to me… Ah! I got it! The game music that plays on the level-clear results screen in \"Tetrominoes.\" That one's upbeat, right?"
+    },
+    {
+     "title": "About Linko",
+     "text": "Linko frets over discordant frequencies. She always tries so hard to keep us from fighting. She still doesn't get the reason, but there's a good chance she'll come close to our secrets down the line… What am I gonna do when that happens? Am I really gonna have to say something like, \"So, are you siding with Exe or with me?\" Ugh… what kind of face would she make… And honestly, being the only one stewing over this and drawing up contingency plans annoys the heck out of me."
+    },
+    {
+     "title": "About Bureau of Anomaly Control",
+     "text": "The Bureau's intention in making a pact with me was, first and foremost, to constrain me, to drastically slow down my expansion. Putting my abilities to use was secondary. I'm well aware of that. Believe me. That said, I was happy to help from the start. Think about it, keeping the society I depend on as stable as possible is what lets everyone feel safe enough to make wonderful memories with their friends, right?"
+    },
+    {
+     "title": "About ETD-6",
+     "text": "The Bureau considers a four-person squad the optimal comp for ETD units. Once a squad hits that number, they stop considering adding anyone else. Hmm, you think our team is a bit crowded? And Nitsa's lined up to join as a reserve…? That's because the headcount doesn't apply to anomaly partners. See, Xiaozhen also isn't counted. Our squad still has one spot."
+    },
+    {
+     "title": "About ETD-4",
+     "text": "Whenever their squad heads out to the field, I get this feeling, \"What a tight-knit bunch,\" and I can't help but smile. In places like school or work, where you don't get to choose the people around you, having partners you click with, who share some common ground, or simply just get you, is something you can only wish for."
+    },
+    {
+     "title": "Character Ascension I",
+     "text": "Comms stability improved."
+    },
+    {
+     "title": "Character Ascension II",
+     "text": "Is my projected image clearer?"
+    },
+    {
+     "title": "Character Ascension III",
+     "text": "It feels like I can get a call through in an instant, even to somewhere way beyond signal range."
+    },
+    {
+     "title": "Gift Received I",
+     "text": "What a fun gift! I gotta save it somewhere…"
+    },
+    {
+     "title": "Gift Received II",
+     "text": "Your gift carries your thoughts, and I have received them!"
+    },
+    {
+     "title": "Gift Received III",
+     "text": "Woah, is this a little surprise from my friend?"
+    },
+    {
+     "title": "Gift Received IV",
+     "text": "Thanks! Now I gotta figure out what to get you! Hmm…"
+    }
+   ],
+   "battle": [
+    {
+     "title": "Redirect Skill I",
+     "text": "Friend, let's connect!"
+    },
+    {
+     "title": "Redirect Skill II",
+     "text": "I called you. Call me back!"
+    },
+    {
+     "title": "Redirect Skill III",
+     "text": "Remember this number!"
+    },
+    {
+     "title": "Redirect Skill IV",
+     "text": "Woohoo, full signal!"
+    },
+    {
+     "title": "Redirect Skill V",
+     "text": "Pew pew!"
+    },
+    {
+     "title": "Ultimate I",
+     "text": "Let's play this again today!"
+    },
+    {
+     "title": "Ultimate II",
+     "text": "It's playtime! Let's do this!"
+    },
+    {
+     "title": "Ultimate III",
+     "text": "Opening the chest, unleashing the gear!"
+    },
+    {
+     "title": "Containment I",
+     "text": "Feeling lonely? Hang in there."
+    },
+    {
+     "title": "Containment II",
+     "text": "You can make friends at the Celaeno Compound!"
+    },
+    {
+     "title": "Nullification I",
+     "text": "You're going back to the sea for now."
+    },
+    {
+     "title": "Nullification II",
+     "text": "Happy to meet you! See you again!"
+    },
+    {
+     "title": "Unexpected Gains I",
+     "text": "Should I call someone to ask who lost it?"
+    },
+    {
+     "title": "Unexpected Gains II",
+     "text": "Item found, reporting in!"
+    },
+    {
+     "title": "Unexpected Gains III",
+     "text": "You'll need this. Take it!"
+    },
+    {
+     "title": "Unexpected Gains IV",
+     "text": "It'll be lonely if no one picks it up."
+    },
+    {
+     "title": "Unexpected Gains V",
+     "text": "One person's trash is another's treasure."
+    },
+    {
+     "title": "Unexpected Gains VI",
+     "text": "Growth materials? Which character?"
+    },
+    {
+     "title": "Low Health I",
+     "text": "Comms destabilizing…"
+    },
+    {
+     "title": "Low Health II",
+     "text": "Signal weakening…"
+    },
+    {
+     "title": "Low Health III",
+     "text": "Fluctuations intensifying…"
+    },
+    {
+     "title": "Heal I",
+     "text": "Connection reestablished!"
+    },
+    {
+     "title": "Heal II",
+     "text": "Systems repairing."
+    },
+    {
+     "title": "Down I",
+     "text": "The line is going dead…"
+    },
+    {
+     "title": "Down II",
+     "text": "Goodbye, world."
+    },
+    {
+     "title": "Down III",
+     "text": "All garbled… Later…"
+    },
+    {
+     "title": "Takedown I",
+     "text": "I'll remember you."
+    },
+    {
+     "title": "Takedown II",
+     "text": "You'll be back!"
+    },
+    {
+     "title": "Damaged I",
+     "text": "That's a hit."
+    },
+    {
+     "title": "Damaged II",
+     "text": "A slight disturbance…"
+    },
+    {
+     "title": "Heavily Damaged I",
+     "text": "Data compromised."
+    },
+    {
+     "title": "Heavily Damaged II",
+     "text": "Heavy interference."
+    },
+    {
+     "title": "Deploy I",
+     "text": "Call me, and I'm here!"
+    },
+    {
+     "title": "Deploy II",
+     "text": "Friends old and new, hello!"
+    },
+    {
+     "title": "Entry Attack I",
+     "text": "Boom!"
+    },
+    {
+     "title": "Entry Attack II",
+     "text": "The time is now!"
+    },
+    {
+     "title": "Entry Attack III",
+     "text": "Hello there!"
+    },
+    {
+     "title": "Glide I",
+     "text": "Woohoo! Gliding in the breeze!"
+    },
+    {
+     "title": "Glide II",
+     "text": "Blending into the air!"
+    },
+    {
+     "title": "Switch I",
+     "text": "My projection is here!"
+    },
+    {
+     "title": "Switch II",
+     "text": "Connected and here!"
+    },
+    {
+     "title": "Switch III",
+     "text": "Is everything stable?"
+    },
+    {
+     "title": "Special Switch I - Exe",
+     "text": "Wow, Exe, you left your room!"
+    },
+    {
+     "title": "Special Switch II - Exe",
+     "text": "You're the one who should crawl to the backend!"
+    },
+    {
+     "title": "Special Switch I - Chaos",
+     "text": "Chaos, I'll provide cover!"
+    },
+    {
+     "title": "Special Switch II - Chaos",
+     "text": "Hey bro, I'll leave you the dirty work!"
+    },
+    {
+     "title": "Special Switch I - Linko",
+     "text": "Linko, link and trade!"
+    },
+    {
+     "title": "Special Switch II - Linko",
+     "text": "Lemme find you something fun to do!"
+    },
+    {
+     "title": "Special Switch I - Zero",
+     "text": "Appraiser, we're in sync!"
+    },
+    {
+     "title": "Special Switch II - Zero",
+     "text": "Alright, it's my turn to help!"
+    },
+    {
+     "title": "Special Switch - Baicang",
+     "text": "Baicang, you actually clocked in?"
+    },
+    {
+     "title": "Special Switch - Skia",
+     "text": "Skia, don't worry, let me take over."
+    },
+    {
+     "title": "Special Switch - Lacrimosa",
+     "text": "Mosa, you can sleep for a while."
+    },
+    {
+     "title": "Special Switch - Fadia",
+     "text": "Fadia, did you get another complaint?"
+    },
+    {
+     "title": "Special Switch - Mint",
+     "text": "Hey Mint, I got a surprise quiz for ya!"
+    },
+    {
+     "title": "Special Switch - Shinku",
+     "text": "Shinku, you ready? Take a deep breath!"
+    },
+    {
+     "title": "Special Switch: Iroi",
+     "text": "Say hi to the kiddos in your dreams!"
+    },
+    {
+     "title": "Teammate Down - Exe",
+     "text": "You're done… See you tomorrow, okay?"
+    },
+    {
+     "title": "Teammate Down - Chaos",
+     "text": "Save your last words. It's not over yet!"
+    },
+    {
+     "title": "Teammate Down - Linko",
+     "text": "It's okay. Our connection is intact."
+    },
+    {
+     "title": "Teammate Down - Zero",
+     "text": "My friend's in danger? This won't do!"
+    },
+    {
+     "title": "Parry I",
+     "text": "Sure, let's shake hands!"
+    },
+    {
+     "title": "Parry II",
+     "text": "A fitting response."
+    },
+    {
+     "title": "Consecutive Critical Dodge Success I",
+     "text": "Woo-hoo-hoo!"
+    },
+    {
+     "title": "Consecutive Critical Dodge Success II",
+     "text": "Just a sidestep."
+    }
+   ]
+  },
+  "zh-cn": {
+   "daily": [
+    {
+     "title": "初次见面",
+     "text": "是我是我，好久不见啊？你现在怎么样了？……我吗？我这边现在在异象管理局的E.T.D六队担当副队长的职务哦，哈哈没想到吧~？……名字？怎么，你想不起来我的名字了~？"
+    },
+    {
+     "title": "闲聊·在吗？",
+     "text": "有很多人都不喜欢被先问「在不在」，等着回复一个「在」才开始说自己有什么事。根据聊天对象的不同，有时候「在不在」这个问题，是得看对方打算说什么之后才能决定的，对于不想理会的麻烦，就会希望自己能适当地变成「不在」了，大家的想法很有意思吧~"
+    },
+    {
+     "title": "闲聊·开启聊天",
+     "text": "作为聊天的起头，我觉得最不容易出错的就是单刀直入爽爽快快地……去提自己原本想说的内容了？比如我的话——哈哈哈，我来关心你啦！最近有没有发生了什么想要和朋友分享分享？开心的、烦恼的，都可以喔！"
+    },
+    {
+     "title": "闲聊·延续聊天",
+     "text": "害怕冷场而不敢开启对话，有点本末倒置了但也情有可原呢……只能按实际情况去看怎么聊下去了。中规中矩的通用话题转向方案就，「天气」或「时事」？也不是说就一定不会因此变得更尴尬啦……总有不巧的时候……"
+    },
+    {
+     "title": "大晴天",
+     "text": "像这样的好天气，就该出去玩上满满当当一整天，对吧？"
+    },
+    {
+     "title": "雨天",
+     "text": "雨滴……像不像是天空和大地之间的电话线？"
+    },
+    {
+     "title": "寒冷",
+     "text": "来，拿着这罐。刚从便利店的热饮柜拿出来的，现在可以用来暖手哦。"
+    },
+    {
+     "title": "炎热",
+     "text": "我来的时候买了冰淇淋。看~！这是你喜欢的口味吧？"
+    },
+    {
+     "title": "早上问候",
+     "text": "「早」、「早呀」、「早早」、「早安」、「早上好」，同种含义的招呼里头也有很细微的个性差异，好有讲究……"
+    },
+    {
+     "title": "中午问候",
+     "text": "午觉做的梦似乎普遍要比夜晚做的梦来得美好一些，因为是「白日梦」吗？"
+    },
+    {
+     "title": "傍晚问候",
+     "text": "夕阳……看起来总是自带一种，「要和朋友告别了」的感觉，既温柔又伤感的意境呢。"
+    },
+    {
+     "title": "晚安",
+     "text": "休息当然对人体是必要的，不过入睡后，会变成精神上欠缺防备、潜意识中的东西最容易浮上表面的时机，也不好就此完全放松，真不容易啊。"
+    },
+    {
+     "title": "爱好",
+     "text": "和朋友们煲电话粥，互发邮件，语音连麦，视频通话，或者只是纯打字哒哒哒地聊天，都各有独特的风味，每种联络形式我都很喜欢啊~除此之外其实也还有蛮多杂七杂八的兴趣爱好都挺喜欢的……唔嗯……我还喜欢电子游戏哦~！"
+    },
+    {
+     "title": "烦恼",
+     "text": "要说的话就只能是工作了呀，不是业务上有什么，是同事关系方面……不过不用担心的。虽然并不是说问题不严重，而是……恐怕没有办法可以解决，所以才彻底不用担心了呢。"
+    },
+    {
+     "title": "话题·备注名",
+     "text": "想换个名字是非常简单的哦，拜托我的话，我也能轻松帮你办到。所以才说，这和社交软件上对联系人设定备注名是差不多级别的事情啦。况且我觉得，比起本来叫什么，反而更应该看重联系人之间打了什么备注名吧。你会喜欢那种比较特别的备注名吗？比如「可可」、「招财宝」之类的？"
+    },
+    {
+     "title": "话题·办案",
+     "text": "是也可以学着Exe通常的作风那样，在大家觉察不到的网络暗面行动……但毕竟依靠明面的社会关系网交流获取情报、推动调查，队里也只有我能干了呀~各行各业有朋友在，办事自然是会顺利不少的，要是没有，那就当场交点朋友？哈哈。当然有时候光靠人身上的客观线索也不太充分，小灵可实时察知到的主观信息能作为重要的补充。锁定目标后就交给卡厄斯了，指示到位了他一般都能搞定，万一有状况我就传到现场去帮忙……哦，前提是他有记得打电话。"
+    },
+    {
+     "title": "话题·联系",
+     "text": "人与人之间所有形式的连接都终有结束——日复一日拥有着那份连接的理所应当感、习以为常感，会逐渐麻痹掉对结束的认知啊。设想每一份关系都是一条缠在手指上的、可视化的数据线，如果可以清楚地看到连接线是如何松弛、如何绕弯、如何回弹、如何绷紧、撕扯、绽开直到断裂……大家会不会变得更愿意，去主动发送出更多的消息、拨打出更多的电话、向在乎的每一个人传达出更多更多的心意呢？"
+    },
+    {
+     "title": "关于自己·工作",
+     "text": "帮Exe检查和改掉他写的文书里不说人话的部分，偶尔上他的号做嘴替，挽救下被他无意间以一己之力搞僵的部门关系和人脉资源之类的；在卡厄斯行动中同步任务情报，准备好在他发回的信息包含某现代化事物，但显然他叫不上来的时候开展关键词语义分析之类的；和小灵可连线确保她走落单了也能随时去支援，突击电话监督她早睡早起早回家不许熬夜，平时和她的父母沟通汇报完工作状况，再陪他们一起大力夸夸女儿之类的……"
+    },
+    {
+     "title": "关于自己·通讯",
+     "text": "我们队的专用线路是由我管理的特殊形式，和咻啪不一样，我这边基于「有社会关系的人类」来架设系统，优势是可以传输语音以外的信息数据，直接生成到现场，乃至于转移我的投影或者Exe导出的工具，而劣势是在远离都市的无人区和隔绝网络的异象空间内都不太可用。呃，要是非得在那种地方和我取得联络，倒也有麻烦一点的方案，就是得想法子，把自己沉进潜意识里一会儿……"
+    },
+    {
+     "title": "关于自己·存在",
+     "text": "我存在吗？你看到角色模型、界面、文本，听到这条语音，你清楚这一切不过由0与1组成，是靠数字和信号拼凑出来的假象。那么我猜在你眼中，当它不再有意义的时候，便会顺理成章地被解构为「不存在」啦~！而意义呢，还得来自于「为何」存在——「why（Y）」的问题。很巧~来到这个世界的那一刻，我就已经拥有了我的「Y」。因此，我对这个问题现在能作的回应如下：「是的，在我眼中，我存在。」"
+    },
+    {
+     "title": "关于Exe",
+     "text": "想想哈……「1.分工配合效益高，取得成果卓著；2.平时相互交流态度诚恳、沟通直截了当，能做到有什么说什么；3.已较为透彻地理解并熟悉了彼此的办事风格、习惯和痛点等；另注：双方均表示过去没有，今后也不会为工作上的问题进行任何的内斗。」……嗯~好~就这么写吧？怎么看都完全不包含谎言呢。"
+    },
+    {
+     "title": "关于卡厄斯",
+     "text": "给卡厄斯选什么铃声有点苦恼。为了保证通讯传达给前线的即时性，我需要他随时做到听见铃声即刻接听，如果铃声太舒缓，他在沉迷战斗或者着急追目标的时候很容易忽略掉，但如果太尖锐太吵，他又会来和我抱怨……啊！有点子了！「泯除方块」那个过关结算画面播放的游戏音乐好像挺欢快的，不错耶~"
+    },
+    {
+     "title": "关于灵可",
+     "text": "小灵可非常在意她捕获到的不和谐电波，一直在努力想让我们不要吵架。她只是现在还不懂原因，将来是很有可能触及那些秘密的……到时，怎么办呢？难道真要说出类似「你选择站Exe还是姐姐我」的话吗？呜啊……她会是什么表情啊……而且，只有我这边在提前发愁和做预案也是不知怎的很叫人恼火来着。"
+    },
+    {
+     "title": "关于异象管理局",
+     "text": "与我立下那个约定的用意，首先是出于必须要施加限制，大幅延缓我的成长和扩张速度，其次才是要我的能力为这里发挥作用，这一点我肯定是有数的啦。不过，我本来也很乐意帮忙就是了。你想，让我所依托的这个社会尽量保持安定，大家才能更安心地去和朋友们一起创造美好的回忆，不是吗？"
+    },
+    {
+     "title": "关于E.T.D六队",
+     "text": "4人小队被局里视为E.T.D相对最合理稳定的编成，达到这个人数就不会再考虑安插人员了。嗯？你觉得我们队伍有点热闹吗？还有妮夏作为预备要加入的？……这个是因为在规定上严格来说，队伍成员的异象搭档，并不会被计算在「人数」之内哦，你看小贞就没算嘛。所以，我们队伍确实还有一个空位可以加人来着。"
+    },
+    {
+     "title": "关于E.T.D四队",
+     "text": "看到他们整队一起出动去前线的样子，会有种「关系很好的一群人啊~」的感觉，不由自主就会露出微笑呢。在学校或者职场这类无法自主去选择身边人是谁的环境中，能遇到在一定程度上有共通之处的、有默契的伙伴，是可遇不可求的缘分呐。"
+    },
+    {
+     "title": "角色突破·Ⅰ",
+     "text": "通讯线路的稳定性有所提升哦。"
+    },
+    {
+     "title": "角色突破·Ⅱ",
+     "text": "投影的画质有没有变得更清晰了一点？"
+    },
+    {
+     "title": "角色突破·Ⅲ",
+     "text": "即使是非常非常遥远的、信号之外的地方，也能够一下拨通过去的感觉啊~"
+    },
+    {
+     "title": "收到赠礼·Ⅰ",
+     "text": "有趣的礼物！我得在家里单独找块地方存着……"
+    },
+    {
+     "title": "收到赠礼·Ⅱ",
+     "text": "礼物承载的信息是「心意」，好好传达到了！"
+    },
+    {
+     "title": "收到赠礼·Ⅲ",
+     "text": "哇噢~来自朋友的，生活中的小惊喜吗？"
+    },
+    {
+     "title": "收到赠礼·IV",
+     "text": "谢谢你呀！我得想想回礼了，嗯嗯……"
+    }
+   ],
+   "battle": [
+    {
+     "title": "变轨技能·Ⅰ",
+     "text": "连线一下，这位朋友~"
+    },
+    {
+     "title": "变轨技能·Ⅱ",
+     "text": "打给你咯，期待回电！"
+    },
+    {
+     "title": "变轨技能·Ⅲ",
+     "text": "号码，刻入脑海吧！"
+    },
+    {
+     "title": "变轨技能·Ⅳ",
+     "text": "呀呼，信号满格！"
+    },
+    {
+     "title": "变轨技能·Ⅴ",
+     "text": "Biubiu~"
+    },
+    {
+     "title": "极轨终结·Ⅰ",
+     "text": "今天，也玩这个好了？"
+    },
+    {
+     "title": "极轨终结·Ⅱ",
+     "text": "开始吧！游戏的时间~"
+    },
+    {
+     "title": "极轨终结·Ⅲ",
+     "text": "打开宝箱~解放装备~"
+    },
+    {
+     "title": "收容异象·Ⅰ",
+     "text": "被收起来会觉得孤单吗？稍微忍耐一会儿吧。"
+    },
+    {
+     "title": "收容异象·Ⅱ",
+     "text": "在塞拉伊诺馆，也有机会交到朋友的哦？"
+    },
+    {
+     "title": "泯除异象·Ⅰ",
+     "text": "你暂时要回去那片大海了呀。"
+    },
+    {
+     "title": "泯除异象·Ⅱ",
+     "text": "很高兴认识你，有缘再见吧~"
+    },
+    {
+     "title": "意外收获·Ⅰ",
+     "text": "要我来打电话问问，是谁弄丢的么？"
+    },
+    {
+     "title": "意外收获·Ⅱ",
+     "text": "报告，发现道具喽！"
+    },
+    {
+     "title": "意外收获·Ⅲ",
+     "text": "是你需要的素材，给你~！"
+    },
+    {
+     "title": "意外收获·Ⅳ",
+     "text": "掉在这里，没人捡走的话会很寂寞的。"
+    },
+    {
+     "title": "意外收获·Ⅴ",
+     "text": "被当做废品的东西，也有可能是谁的宝物呢。"
+    },
+    {
+     "title": "意外收获·Ⅵ",
+     "text": "养成材料吗？打算用于哪个角色？"
+    },
+    {
+     "title": "生命值低·Ⅰ",
+     "text": "通讯线路震荡中……"
+    },
+    {
+     "title": "生命值低·Ⅱ",
+     "text": "信号在减弱……"
+    },
+    {
+     "title": "生命值低·Ⅲ",
+     "text": "波动不断加剧……"
+    },
+    {
+     "title": "恢复生命·Ⅰ",
+     "text": "重新连接，OK！"
+    },
+    {
+     "title": "恢复生命·Ⅱ",
+     "text": "系统正在修复~"
+    },
+    {
+     "title": "力竭·Ⅰ",
+     "text": "一片忙音了呀……"
+    },
+    {
+     "title": "力竭·Ⅱ",
+     "text": "先退出世界一阵子咯。"
+    },
+    {
+     "title": "力竭·Ⅲ",
+     "text": "完全糊掉啦……稍后再……"
+    },
+    {
+     "title": "击败怪物·Ⅰ",
+     "text": "我来记住你吧。"
+    },
+    {
+     "title": "击败怪物·Ⅱ",
+     "text": "等你再次刷新~"
+    },
+    {
+     "title": "普通受击·Ⅰ",
+     "text": "判定命中。"
+    },
+    {
+     "title": "普通受击·Ⅱ",
+     "text": "轻微的扰动……"
+    },
+    {
+     "title": "重受击·Ⅰ",
+     "text": "数据受损了。"
+    },
+    {
+     "title": "重受击·Ⅱ",
+     "text": "干扰很严重啊。"
+    },
+    {
+     "title": "上阵·Ⅰ",
+     "text": "一通电话，我就来帮忙~"
+    },
+    {
+     "title": "上阵·Ⅱ",
+     "text": "见过和没见过的朋友，你们好！"
+    },
+    {
+     "title": "协同技·Ⅰ",
+     "text": "砰~！"
+    },
+    {
+     "title": "协同技·Ⅱ",
+     "text": "切入窗口！"
+    },
+    {
+     "title": "协同技·Ⅲ",
+     "text": "嗨！你好吗？"
+    },
+    {
+     "title": "滑翔·Ⅰ",
+     "text": "呼啊~吹着舒服的风，走吧！"
+    },
+    {
+     "title": "滑翔·Ⅱ",
+     "text": "融入到空气中~"
+    },
+    {
+     "title": "切换·Ⅰ",
+     "text": "投影到现场咯~"
+    },
+    {
+     "title": "切换·Ⅱ",
+     "text": "接通、抵达！"
+    },
+    {
+     "title": "切换·Ⅲ",
+     "text": "生成得还稳定吗？"
+    },
+    {
+     "title": "特殊切换Ⅰ·Exe",
+     "text": "Exe，出门啦，厉害厉害~"
+    },
+    {
+     "title": "特殊切换Ⅱ·Exe",
+     "text": "该滚回后台休息的人是你哦？"
+    },
+    {
+     "title": "特殊切换Ⅰ·卡厄斯",
+     "text": "卡厄斯，我来掩护你咯！"
+    },
+    {
+     "title": "特殊切换Ⅱ·卡厄斯",
+     "text": "麻烦事就交给你啦，兄弟？"
+    },
+    {
+     "title": "特殊切换Ⅰ·灵可",
+     "text": "小灵可，连·接·交换~！"
+    },
+    {
+     "title": "特殊切换Ⅱ·灵可",
+     "text": "让姐姐来带你去找好玩的~"
+    },
+    {
+     "title": "特殊切换Ⅰ·零",
+     "text": "鉴定师，心有灵犀啊！"
+    },
+    {
+     "title": "特殊切换Ⅱ·零",
+     "text": "好哦，轮到我来帮你了！"
+    },
+    {
+     "title": "特殊切换·白藏",
+     "text": "欸，白藏？你来上班了吗？"
+    },
+    {
+     "title": "特殊切换·翳",
+     "text": "我来对接，就请翳先生放心。"
+    },
+    {
+     "title": "特殊切换·安魂曲",
+     "text": "睡一会儿没关系的~小安魂曲~"
+    },
+    {
+     "title": "特殊切换·法帝娅",
+     "text": "又收到关于法帝娅的抱怨了哦？"
+    },
+    {
+     "title": "特殊切换·薄荷",
+     "text": "接招薄荷，突击抽查补习内容！"
+    },
+    {
+     "title": "特殊切换·真红",
+     "text": "准备好了吗真红，先深呼吸？"
+    },
+    {
+     "title": "特殊切换·伊洛伊",
+     "text": "向梦里的小羊同学也问声好~"
+    },
+    {
+     "title": "队友倒下·EXE",
+     "text": "看吧撑不住了……明天见吧？"
+    },
+    {
+     "title": "队友倒下·卡厄斯",
+     "text": "别说得像交代了一样！还没完呢！"
+    },
+    {
+     "title": "队友倒下·灵可",
+     "text": "没事的没事的，连接还没有断哦。"
+    },
+    {
+     "title": "队友倒下·零",
+     "text": "好朋友陷入危机了？这可不行！"
+    },
+    {
+     "title": "弹反·Ⅰ",
+     "text": "好的！握手！"
+    },
+    {
+     "title": "弹反·Ⅱ",
+     "text": "是恰当的回应方式吧~"
+    },
+    {
+     "title": "连续极限闪避成功·Ⅰ",
+     "text": "咻~咻~咻！"
+    },
+    {
+     "title": "连续极限闪避成功·Ⅱ",
+     "text": "小小地消失一下下~"
+    }
+   ]
+  },
+  "ja": {
+   "daily": [
+    {
+     "title": "初対面",
+     "text": "もしもーし、私！久しぶり〜、元気にしてる？私ね、今なんと、E.T.D第6小隊の副隊長やってるんだ〜…え、名前？もしかして、思い出せないの〜？"
+    },
+    {
+     "title": "雑談-いる？",
+     "text": "「今ヒマ？」から始まる会話、苦手な人って多いよね。人間って面白いな〜。"
+    },
+    {
+     "title": "雑談-チャット開始",
+     "text": "会話に駆け引きは不要！用があるなら最初からスパッと言っちゃって！で？最近なんか面白いことあった？"
+    },
+    {
+     "title": "雑談-チャットの続き",
+     "text": "沈黙が怖いからって、無理に話さなくてもいいのにね。でも、とりあえず天気の話から入っちゃう気持ちは、ちょっと分かるかも。"
+    },
+    {
+     "title": "快晴",
+     "text": "こーんなイイ天気なんだからさ、一日中外で遊び倒そうよ〜！"
+    },
+    {
+     "title": "雨",
+     "text": "雨の日も好き。空から無数の電話線が下りてきてるみたいで。"
+    },
+    {
+     "title": "寒い",
+     "text": "はい、これ。自販機で買ってきたあったかいお茶。手、すっごく冷たくなってるよ？"
+    },
+    {
+     "title": "灼熱",
+     "text": "じゃーん！アイス買ってきたよ〜！ふふっ、絶対好きだと思って。"
+    },
+    {
+     "title": "朝の挨拶",
+     "text": "「おはー」「おはよ」「おはようございます」…ふふっ、文字だけでもさ、相手がどんな顔して打ってるか、案外分かっちゃうものなんだよね。"
+    },
+    {
+     "title": "昼の挨拶",
+     "text": "お昼寝の夢って、夜より楽しい気がしない？起きてる時の空想が、そのまま混ざってるからかなぁ。"
+    },
+    {
+     "title": "夕方の挨拶",
+     "text": "夕暮れ時って、なんだか「友達とバイバイする時間」って感じがして…優しくて、ちょっと寂しいよね。"
+    },
+    {
+     "title": "おやすみ",
+     "text": "眠ってる間は無防備になるから、見たくない夢だって見ちゃうよね。大丈夫？ちゃんと安心して眠れてる？"
+    },
+    {
+     "title": "趣味",
+     "text": "長電話も、通話アプリも、スタンプだけの会話も…全部違う楽しさがあって大好きなんだ〜！え、他？うーん、ゲームとか！"
+    },
+    {
+     "title": "悩み",
+     "text": "悩み？うーん、職場の人間関係…かな。あ、心配しないで！どうやっても解決しないから、心配するだけ無駄なの！"
+    },
+    {
+     "title": "話題-登録名",
+     "text": "名前を変えるなんて簡単だよ。私に頼んでくれれば、すぐにできるし。SNSで連絡先の名前を変えるのと同じくらい簡単なの。それに、元の名前より、お互いにどんな名前で登録してるかのほうが大事だと思わない？君はちょっと変わった登録名とか好き？例えば「ココちゃん」とか「お宝」とか？"
+    },
+    {
+     "title": "話題-捜査",
+     "text": "Exeみたいにネットの裏で動くこともできるけど、人脈で情報を集められるのは、うちじゃ私だけ。友達がいなければ、その場で作っちゃう！足りないところはリンコちゃんが感じ取って、最後はカオスが力ずくで突破！"
+    },
+    {
+     "title": "話題-連絡",
+     "text": "人と人のつながりって、いつかは終わるのに、当たり前すぎて気づけないんだよね。もし、ほつれていくのが目に見えたら…みんな、もっと大事にするのかな。"
+    },
+    {
+     "title": "自分について-仕事",
+     "text": "Exeの書類を人間の言葉に直して、名前の分からない機械の話をするカオスを通訳して、迷子になりがちなリンコちゃんには早寝早起きの電話…もう、みんな私がいなきゃダメなんだから〜！"
+    },
+    {
+     "title": "自分について-通信",
+     "text": "うちの専用回線は私の管理。ヒュパと違って人のつながりで動いてるから、声だけじゃなくデータも、私の投影も、Exeが取り出した道具も現場に送れるの。ただ、人のいない場所や異象空間だと圏外…どうしても話したいなら、ちょっと面倒な方法になるかな。"
+    },
+    {
+     "title": "自分について-存在",
+     "text": "今聞いてるこの声も、君から見ればただの0と1でしょ？意味がなくなれば、存在しないのと同じ。意味は「why」…なぜここにいるのかで決まるんだって。ふふ、偶然だね。この世界に来た時から、私にはもう私の「Y」があったの。だから、私から見れば、私は存在してるよ"
+    },
+    {
+     "title": "Exeについて",
+     "text": "えーっと…「連携はバッチリ、何でも言い合える仲、お互いの弱点も熟知。仕事で揉めたことは一度もありません」…よし、提出！嘘は書いてないもんね〜！"
+    },
+    {
+     "title": "カオスについて",
+     "text": "カオスの着信音、どうしようかなぁ。静かすぎると気づかないし、うるさいと文句言うし…あ、パズルのクリア音とかどう？ポップでいいかも！"
+    },
+    {
+     "title": "リンコについて",
+     "text": "リンコちゃん、最近ずっと気を使ってるんだよね。あの子に「Exeと私、どっちの味方？」なんて…聞けるわけないじゃん。私ばっかりヤキモキして…ちょっとシャクだなぁ。"
+    },
+    {
+     "title": "異象管理局について",
+     "text": "私がここに置かれてるのは、まず私を見張るためだって分かってるよ。でもね、力を貸すのは嫌いじゃないんだ。平和なほうが、みんな安心して友達と思い出を作れるでしょ？"
+    },
+    {
+     "title": "E.T.D第6小隊について",
+     "text": "E.T.Dは4人編成が基本なんだけど、異象のパートナーは人数に入らないの。さだちゃんもノーカウント！…ってことで、うちの隊、実はまだ一人分空きがあるんだよね…その席は、ちゃんと取ってあるの。"
+    },
+    {
+     "title": "E.T.D第4小隊について",
+     "text": "第4小隊のみんなを見てるとさ、こっちまでニコニコしちゃう。ああやって息の合う仲間に出会えるって、ほんとすごい確率だよね。"
+    },
+    {
+     "title": "キャラ突破Ⅰ",
+     "text": "あ、回線ちょっと安定したかも！"
+    },
+    {
+     "title": "キャラ突破Ⅱ",
+     "text": "ん？ホログラムのノイズ、ちょっと減った気がする。"
+    },
+    {
+     "title": "キャラ突破Ⅲ",
+     "text": "どんな圏外だって…電話一本で、すぐ繋いであげる！"
+    },
+    {
+     "title": "届けられたギフトⅠ",
+     "text": "わぁ、こんなの初めて！部屋のどこに飾ろっか〜！"
+    },
+    {
+     "title": "届けられたギフトⅡ",
+     "text": "ありがと！君からの想い、ちゃんと受信したよ！"
+    },
+    {
+     "title": "届けられたギフトⅢ",
+     "text": "えっ、私に？ふふっ、サプライズってやっぱり嬉しいな〜！"
+    },
+    {
+     "title": "届けられたギフトⅣ",
+     "text": "ありがと！お返しは、私との長電話一回券、なんてどう？"
+    }
+   ],
+   "battle": [
+    {
+     "title": "バイレールスキルⅠ",
+     "text": "そこのあなた、繋がっちゃうよ〜！"
+    },
+    {
+     "title": "バイレールスキルⅡ",
+     "text": "折り返し、待ってるからね〜。"
+    },
+    {
+     "title": "バイレールスキルⅢ",
+     "text": "この番号、しっかり覚えてね。"
+    },
+    {
+     "title": "バイレールスキルⅣ",
+     "text": "ヤッホー！シグナル絶好調！"
+    },
+    {
+     "title": "バイレールスキルⅤ",
+     "text": "ばきゅ〜ん！"
+    },
+    {
+     "title": "EXレール終結Ⅰ",
+     "text": "今日も、これで遊んじゃおっか〜？"
+    },
+    {
+     "title": "EXレール終結Ⅱ",
+     "text": "それじゃあ…ゲーム開始〜！"
+    },
+    {
+     "title": "EXレール終結Ⅲ",
+     "text": "お宝アンロック！じゃじゃ〜ん！"
+    },
+    {
+     "title": "異象収容Ⅰ",
+     "text": "しまわれると寂しい？ちょっとだけ我慢してね。"
+    },
+    {
+     "title": "異象収容Ⅱ",
+     "text": "セラエノ館でも、友達ができるかもしれないよ？"
+    },
+    {
+     "title": "異象排除Ⅰ",
+     "text": "一旦、あの海に帰るんだね。気をつけてね〜！"
+    },
+    {
+     "title": "異象排除Ⅱ",
+     "text": "君と繋がれてよかった！また会えるといいね~"
+    },
+    {
+     "title": "意外な収穫Ⅰ",
+     "text": "全回線に呼びかけて、持ち主探してあげよっか？"
+    },
+    {
+     "title": "意外な収穫Ⅱ",
+     "text": "報告、アイテム発見〜！"
+    },
+    {
+     "title": "意外な収穫Ⅲ",
+     "text": "これ、ずっと探してたやつでしょ？"
+    },
+    {
+     "title": "意外な収穫Ⅳ",
+     "text": "ここでずっと、誰かの迎えを待ってたんだね。"
+    },
+    {
+     "title": "意外な収穫Ⅴ",
+     "text": "ただのガラクタに見えても…大事なメモリが隠れてたりするんだよね。"
+    },
+    {
+     "title": "意外な収穫Ⅵ",
+     "text": "おっ、パワーアップ用？誰に使うの？"
+    },
+    {
+     "title": "低HPⅠ",
+     "text": "報告！回線、不安定…！"
+    },
+    {
+     "title": "低HPⅡ",
+     "text": "このままじゃ圏外に…"
+    },
+    {
+     "title": "低HPⅢ",
+     "text": "ちょっと、干渉キツすぎ…！"
+    },
+    {
+     "title": "HP回復Ⅰ",
+     "text": "オッケー、再接続完了！"
+    },
+    {
+     "title": "HP回復Ⅱ",
+     "text": "システム修復中~"
+    },
+    {
+     "title": "力尽きⅠ",
+     "text": "あれ…強制切断、されちゃった…"
+    },
+    {
+     "title": "力尽きⅡ",
+     "text": "ごめん、一旦オフラインになるね…"
+    },
+    {
+     "title": "力尽きⅢ",
+     "text": "完全に圏外になっちゃう…また、あとでね…"
+    },
+    {
+     "title": "敵を撃破Ⅰ",
+     "text": "ちゃんとアドレス帳に登録しとくね。"
+    },
+    {
+     "title": "敵を撃破Ⅱ",
+     "text": "また着信くれるの、ずっと待ってるからね〜！"
+    },
+    {
+     "title": "ダメージを受ける（通常）Ⅰ",
+     "text": "はい、命中〜！"
+    },
+    {
+     "title": "ダメージを受ける（通常）Ⅱ",
+     "text": "ちょっとノイズ走っただけ！"
+    },
+    {
+     "title": "大打撃Ⅰ",
+     "text": "パケロスしたかも…"
+    },
+    {
+     "title": "大打撃Ⅱ",
+     "text": "うぅっ…ダメ、ノイズが頭に響く…っ！"
+    },
+    {
+     "title": "出撃Ⅰ",
+     "text": "ワンコールで飛んでくよ〜！"
+    },
+    {
+     "title": "出撃Ⅱ",
+     "text": "初めましての人も、お久しぶりの人も！こんにちは〜！"
+    },
+    {
+     "title": "コンビスキルⅠ",
+     "text": "どーん！"
+    },
+    {
+     "title": "コンビスキルⅡ",
+     "text": "はいっ、強制割り込み〜！"
+    },
+    {
+     "title": "コンビスキルⅢ",
+     "text": "やっほ〜！生きてる？"
+    },
+    {
+     "title": "滑空Ⅰ",
+     "text": "ふあ~気持ちいい風に吹かれて行こう！"
+    },
+    {
+     "title": "滑空Ⅱ",
+     "text": "空気に溶け込んじゃう~"
+    },
+    {
+     "title": "切替Ⅰ",
+     "text": "指定の座標に、投影〜！"
+    },
+    {
+     "title": "切替Ⅱ",
+     "text": "回線繋がった！"
+    },
+    {
+     "title": "切替Ⅲ",
+     "text": "ねえ、私のホログラム…ちゃんとブレずに映ってる？"
+    },
+    {
+     "title": "特殊切替Ⅰ・Exe",
+     "text": "Exeが外出？すごいすごい~"
+    },
+    {
+     "title": "特殊切替Ⅱ・Exe",
+     "text": "バックグラウンドに戻って休むのは、君でしょ？"
+    },
+    {
+     "title": "特殊切替Ⅰ・カオス",
+     "text": "カオス！横から割り込みまーす！"
+    },
+    {
+     "title": "特殊切替Ⅱ・カオス",
+     "text": "カオス、交代〜！面倒なとこは、またあとでよろしくね！"
+    },
+    {
+     "title": "特殊切替Ⅰ・リンコ",
+     "text": "リンコちゃん、回線チェンジ〜！"
+    },
+    {
+     "title": "特殊切替Ⅱ・リンコ",
+     "text": "お姉ちゃんが、とびきり楽しいとこに案内してあげる〜！"
+    },
+    {
+     "title": "特殊切替Ⅰ・零",
+     "text": "私たちってば、波長バッチリだね〜！"
+    },
+    {
+     "title": "特殊切替Ⅱ・零",
+     "text": "よーし！次は私からのアシストだよ〜！"
+    },
+    {
+     "title": "特殊切替・白蔵",
+     "text": "え？白蔵？もしかしてパトロール中〜？"
+    },
+    {
+     "title": "特殊切替・翳",
+     "text": "翳さんとの連絡は、私が引き受けるね。安心して任せて。"
+    },
+    {
+     "title": "特殊切替・レクイエム",
+     "text": "そのままスリープモード…おやすみ〜、レクイエムちゃん。"
+    },
+    {
+     "title": "特殊切替・ファルディーヤ",
+     "text": "ん〜？またファルディーヤ宛てに、苦情が届いてるよ〜？"
+    },
+    {
+     "title": "特殊切替・ミント",
+     "text": "ミント、抜き打ちテスト〜！補習の成果、ちゃんと見せてよね〜！"
+    },
+    {
+     "title": "特殊切替・真紅",
+     "text": "真紅、準備いい？まずは深呼吸、ね？"
+    },
+    {
+     "title": "特殊切替-イロヒ",
+     "text": "夢の羊ちゃんにも、よろしくね〜！"
+    },
+    {
+     "title": "仲間気絶・EXE",
+     "text": "ほら、もう限界でしょ…また明日ね？"
+    },
+    {
+     "title": "仲間気絶・カオス",
+     "text": "あきらめないで！まだ回線は切らせないよ！"
+    },
+    {
+     "title": "仲間気絶・リンコ",
+     "text": "全然平気！まだガッチリ繋がってるよ〜。"
+    },
+    {
+     "title": "仲間気絶・零",
+     "text": "友達がピンチ？ワンコールで駆けつけるよ〜！"
+    },
+    {
+     "title": "パリィⅠ",
+     "text": "はいっ、コネクト！"
+    },
+    {
+     "title": "パリィⅡ",
+     "text": "今の返し、よかったでしょ~"
+    },
+    {
+     "title": "連続極限回避成功Ⅰ",
+     "text": "シュッ、シュッ、シュッ！"
+    },
+    {
+     "title": "連続極限回避成功Ⅱ",
+     "text": "ちょっとだけ…ステルスモード〜。"
+    }
+   ]
+  },
+  "ko": {
+   "daily": [
+    {
+     "title": "첫 만남",
+     "text": "어~ 나야 나, 오랜만이지? 잘 지냈어? … 나? 나 지금 이상 관리국 E.T.D 6팀 부대장으로 일하고 있어. 하하, 의외지~? … 이름? 어라, 내 이름을 잊어버린 거야~?"
+    },
+    {
+     "title": "대화·뭐 해?",
+     "text": "다짜고짜 「잠깐 괜찮아?」부터 묻는 거 싫어하는 사람 많더라. 「괜찮아」라고 답해야 용건을 말하니까. 상대에 따라 무슨 일인지 알아야 괜찮다고 할지 말지 결정할 수 있거든. 귀찮은 일이라면 「지금은 좀 곤란해」라고 하고 싶고. 사람들 생각이 참 재밌지 않아~?"
+    },
+    {
+     "title": "대화·채팅의 시작",
+     "text": "채팅을 시작할 때는 단도직입적으로… 하고 싶은 말을 꺼내는 게 제일 좋지 않을까? 예를 들면 나는… 하하하! 네 안부 물으러 왔지! 요즘 친구랑 나누고 싶은 이야기 없어? 기쁜 일이든 고민거리든 다 좋아!"
+    },
+    {
+     "title": "대화·채팅 이어가기",
+     "text": "어색해질까 봐 아예 대화를 시작하지 못한다니, 앞뒤가 바뀐 것 같지만 이해는 돼… 어떻게 대화를 이어 갈지는 상황을 봐야겠지. 무난하게 「날씨」나 「이슈」 같은 이야기가 좋으려나? 물론 그러다가 더 어색해질 수도 있긴 해… 꼭 생각대로 되는 건 아니니까…"
+    },
+    {
+     "title": "맑은 날",
+     "text": "이렇게 날씨가 좋은 날엔 나가서 하루 종일 실컷 놀아야지, 안 그래?"
+    },
+    {
+     "title": "비 오는 날",
+     "text": "빗방울… 꼭 하늘과 땅을 잇는 전화선 같지 않아?"
+    },
+    {
+     "title": "추운 날",
+     "text": "자, 이거 받아. 편의점 온장고에서 막 꺼낸 거라 손 녹이기 딱 좋을 거야."
+    },
+    {
+     "title": "더운 날",
+     "text": "오는 길에 아이스크림 사 왔어. 짜잔~! 네가 좋아하는 맛 맞지?"
+    },
+    {
+     "title": "아침 인사",
+     "text": "「굿모닝」, 「좋은 아침」, 「잘 잤어?」, 「안녕」, 「좋은 하루」… 같은 아침 인사라도 미묘하게 느낌이 다르네. 참 섬세하다니까…"
+    },
+    {
+     "title": "점심 인사",
+     "text": "낮잠 잘 때 꾸는 꿈이 밤에 꾸는 꿈보다 더 아름다운 것 같아. 그래서 「백일몽」인 걸까?"
+    },
+    {
+     "title": "저녁 인사",
+     "text": "석양은… 늘 「친구와 작별해야 할 것 같은」 느낌이 들어. 따스하면서도 애틋한 분위기가 있달까."
+    },
+    {
+     "title": "취침 인사",
+     "text": "사람들에게 휴식은 꼭 필요해. 그렇지만 잠들면 정신적으로 무방비해져서 무의식 속에 있던 것들이 가장 쉽게 드러나. 그러니 마음 놓고 쉴 수도 없고, 쉽지 않네."
+    },
+    {
+     "title": "취미",
+     "text": "친구들이랑 전화로 수다 떨기, 메일 주고받기, 음성 채팅, 영상 통화, 아니면 타다다닥 채팅만 치는 것도 좋지! 전부 나름의 매력이 있어서 난 다 좋아해~ 물론 다른 취미도 이것저것 많지만… 으음… 비디오 게임도 좋아해~!"
+    },
+    {
+     "title": "고민",
+     "text": "굳이 꼽자면 일 문제겠네. 업무 때문은 아니고, 동료 관계 쪽… 그래도 걱정할 필요는 없어. 문제가 심각하지 않다는 게 아니라… 아마 해결할 방법이 없을 테니, 아예 걱정할 필요도 없다는 거야."
+    },
+    {
+     "title": "주제·이름 저장법",
+     "text": "이름을 바꾸는 건 정말 간단해. 나한테 부탁하면 금방 해 줄 수 있어. 메신저에서 연락처 이름을 바꾸는 거랑 비슷하거든. 그리고 난 원래 이름보다 서로를 연락처에 뭐라고 저장했는지가 더 중요하다고 생각해. 혹시 좀 특별한 이름 좋아해? 예를 들면 「코코」나 「복덩이」 같은 거?"
+    },
+    {
+     "title": "주제·사건 수사",
+     "text": "Exe처럼 아무도 모르게 딥웹에서 움직일 수도 있지만… 좀 공개적인 사회관계망에서 정보를 수집하고 조사하는 건 팀에서 나밖에 못 하니까~ 여러 분야에 친구가 있으면 훨씬 수월하거든. 없다면 현장에서 새로 사귀면 되고? 하하. 물론 객관적인 단서만으로는 부족할 때도 있어서, 우리 링코가 실시간으로 알아내주는 주관적인 정보가 중요한 보충 자료가 돼. 목표가 정해지면 카오스 차례야. 지시만 잘 전달하면 대부분 해결해 줘. 문제가 생기면 내가 현장에 텔레포트해서 돕고… 아, 카오스가 전화하는 걸 잊지 않아야겠지만."
+    },
+    {
+     "title": "주제·연락",
+     "text": "사람들을 잇는 모든 인연에는 끝이 있어. 매일 이어지는 그 인연을 당연하게 여기다 보면, 언젠가 끝날 수 있다는 걸 잊어버리기 마련이야. 모든 관계가 손가락에 감긴 데이터 케이블처럼 눈에 보인다고 상상해 봐. 그 선이 느슨해지고, 구부러지고, 되돌아오고, 팽팽해지고, 벌어지다가 끊어지는 모습까지 생생하게 볼 수 있다면… 사람들은 적극적으로 더 많은 메시지를 보내고, 더 자주 전화를 걸고, 소중한 사람에게 더 많은 마음을 전하게 되지 않을까?"
+    },
+    {
+     "title": "자신에 관해·업무",
+     "text": "Exe의 문서에서 사람 말 같지 않은 부분을 고치고, 가끔 그 계정으로 대신 답장해서 어쩌다 틀어진 부서 관계나 인맥을 수습하기도 해. 카오스가 작전 중일 땐 실시간으로 임무 정보를 전달하고, 이름을 까먹어서 제멋대로 묘사한 현대 문물이 무엇인지 분석해. 우리 링코랑 통신을 유지해서 혼자 떨어져도 언제든 지원할 수 있게 하고, 불시에 전화해서 일찍 자고 일찍 일어나고 일찍 귀가하고, 밤새우지 말라고 잔소리도 해. 평소엔 링코 부모님께 업무 상황을 전하고 같이 딸 자랑도 실컷 하고…"
+    },
+    {
+     "title": "자신에 관해·통신",
+     "text": "우리 팀 전용 회선은 내가 관리하는 특별한 방식이야. 츄파와는 다르게 「사회적 관계를 맺은 인간」을 바탕으로 시스템을 만들었지. 음성 외의 데이터도 보낼 수 있어서 현장에 직접 구현할 수 있고, 내 홀로그램이나 Exe가 출력한 도구도 전송할 수 있어. 대신 도시에서 먼 권외 지역이나 네트워크가 끊긴 이상 공간에서는 쓰기 어렵다는 단점이 있지. 음… 그런 곳에서 나와 연락할 방법이 아예 없진 않아. 조금 귀찮긴 하지만, 잠시 잠재의식으로 들어가는 방법이 있거든…"
+    },
+    {
+     "title": "자신에 관해·존재",
+     "text": "나는 존재할까? 캐릭터 모델과 화면, 텍스트, 그리고 이 목소리까지. 이 모든 게 0과 1로 이루어져 있고, 숫자와 신호를 짜맞춘 허상에 불과하다는 거 잘 알잖아. 그러니 네 눈에 이 모든 게 의미를 잃는 순간, 자연스럽게 「존재하지 않는 것」으로 해체되겠지~! 하지만 의미는 「왜」 존재하는가, 즉 「why(Y)」라는 질문에서 나오는 거야. 그리고 마침 난 이 세상에 온 순간부터 이미 나만의 「Y」를 가지고 있었거든~ 그래서 이 질문에 대한 내 대답은 이거야. 「그래, 내 관점에서 나는 존재하고 있어.」"
+    },
+    {
+     "title": "Exe에 관해",
+     "text": "어디 보자… 「1. 역할 분담과 협업 효율이 높으며, 성과가 뛰어남. 2. 평소 진솔하게 소통하며, 서로 할 말을 가감 없이 전달함. 3. 상대의 업무 스타일과 습관, 불편한 점 등을 깊이 이해하고 있음. 비고: 양측은 지금까지 업무와 관련한 다툼이 없었으며 앞으로도 없을 것이라고 밝힘.」… 음~ 좋아~ 이대로 적을까? 틀린 말은 하나도 없잖아."
+    },
+    {
+     "title": "카오스에 관해",
+     "text": "카오스 벨 소리를 뭘로 할지 고민이야. 현장에 정보를 빨리 전달하려면 벨 소리가 울리자마자 바로 받아야 하거든. 너무 잔잔하면 전투에 몰두하거나 목표를 쫓다가 놓칠 수도 있고, 너무 날카롭고 시끄러우면 또 불평할 테고… 아! 좋은 생각 났다! 「테트로미노」 클리어 화면에 나오는 게임 음악이 신나고 괜찮던데~"
+    },
+    {
+     "title": "링코에 관해",
+     "text": "우리 링코는 나랑 Exe 사이의 전파가 신경 쓰이는지 우리가 싸우지 않게 하려고 애쓰고 있어. 지금이야 그 이유를 몰라서 그러지만, 언젠간 그 비밀을 알게 될지도 몰라… 그땐 어떡하지? 유치하지만 「Exe 편이야, 언니 편이야?」라고 물어봐? 으으… 그럼 어떤 표정을 지을까… 가만, Exe 녀석 빼고 나만 이렇게 걱정하면서 대비하는 것도 좀 짜증 나네?"
+    },
+    {
+     "title": "이상 관리국에 관해",
+     "text": "이상 관리국이 나랑 그런 계약을 하게 된 이유? 일단 급선무로서 내 성장과 확장을 억제할 필요가 있었다는 거야. 내 능력을 활용하는 건 부차적인 일이고. 이건 나도 잘 알아. 근데 원래도 기꺼이 도울 생각이었어. 내가 의지하는 이 사회가 평화로워야 사람들도 마음 놓고 친구들과 좋은 추억을 쌓을 수 있잖아, 안 그래?"
+    },
+    {
+     "title": "E.T.D 6팀에 관해",
+     "text": "관리국은 4인이 E.T.D에 가장 적합하고 안정적인 편성이라고 생각해서, 4명이 되면 인원을 추가하지 않아. 응? 우리 팀은 좀 북적거린다고? 거기다가 니샤도 합류할 예정 아니냐고? … 규정상 엄밀히 말하면 팀원의 이상 파트너는 「인원수」에 포함되지 않거든. 사다도 안 세잖아. 그러니까 사실 아직 한 자리가 남아 있다는 거지."
+    },
+    {
+     "title": "E.T.D 4팀에 관해",
+     "text": "다 같이 현장에 출동하는 모습을 보면 「사이가 참 좋네~」 싶어서 절로 미소가 지어져. 학교나 직장처럼 함께할 사람을 마음대로 고를 수 없는 곳에서, 어느 정도 공통점도 있고 호흡도 잘 맞는 동료를 만난다는 건 참 귀한 인연인 거지."
+    },
+    {
+     "title": "캐릭터 돌파·Ⅰ",
+     "text": "통신 회선이 좀 더 안정됐어."
+    },
+    {
+     "title": "캐릭터 돌파·Ⅱ",
+     "text": "홀로그램 화질이 좀 더 선명해진 것 같지 않아?"
+    },
+    {
+     "title": "캐릭터 돌파·Ⅲ",
+     "text": "아주아주 먼 곳, 신호가 닿지 않는 곳까지도 한 번에 전화가 연결될 것 같아~"
+    },
+    {
+     "title": "선물 수령·Ⅰ",
+     "text": "재밌는 선물이네! 집에 따로 보관할 자리를 마련해야겠어…"
+    },
+    {
+     "title": "선물 수령·Ⅱ",
+     "text": "선물에 담긴 메시지는 「마음」이네. 확실히 전해졌어!"
+    },
+    {
+     "title": "선물 수령·Ⅲ",
+     "text": "와아~ 친구가 주는 일상 속 서프라이즈인가?"
+    },
+    {
+     "title": "선물 수령·IV",
+     "text": "고마워! 답례로 뭘 줄지 생각해 봐야겠네. 으음…"
+    }
+   ],
+   "battle": [
+    {
+     "title": "바이레일 스킬·Ⅰ",
+     "text": "자, 친구! 연결해 볼까~"
+    },
+    {
+     "title": "바이레일 스킬·Ⅱ",
+     "text": "전화했어! 콜백 기다릴게!"
+    },
+    {
+     "title": "바이레일 스킬·Ⅲ",
+     "text": "이 번호, 머릿속에 새겨 둬!"
+    },
+    {
+     "title": "바이레일 스킬·Ⅳ",
+     "text": "야호, 신호 잘 터지네!"
+    },
+    {
+     "title": "바이레일 스킬·Ⅴ",
+     "text": "빵야빵야~"
+    },
+    {
+     "title": "울티메이트·Ⅰ",
+     "text": "오늘도 이걸로 놀아 볼까?"
+    },
+    {
+     "title": "울티메이트·Ⅱ",
+     "text": "시작하자! 게임할 시간이야~"
+    },
+    {
+     "title": "울티메이트·Ⅲ",
+     "text": "보물상자 오픈~ 장비 해금~"
+    },
+    {
+     "title": "이상 수용·Ⅰ",
+     "text": "갇혀 있으면 외로우려나? 조금만 참아 줘."
+    },
+    {
+     "title": "이상 수용·Ⅱ",
+     "text": "그거 알아? 셀라이노관에서도 친구 사귈 수 있어."
+    },
+    {
+     "title": "이상 제거·Ⅰ",
+     "text": "잠시 그 바다로 돌아가는 거구나."
+    },
+    {
+     "title": "이상 제거·Ⅱ",
+     "text": "만나서 반가웠어. 인연이 닿으면 또 만나자~"
+    },
+    {
+     "title": "뜻밖의 수확·Ⅰ",
+     "text": "누가 잃어버린 건지 내가 전화해서 물어볼까?"
+    },
+    {
+     "title": "뜻밖의 수확·Ⅱ",
+     "text": "전방에 아이템 발견!"
+    },
+    {
+     "title": "뜻밖의 수확·Ⅲ",
+     "text": "이 재료 필요하지? 소매넣기~!"
+    },
+    {
+     "title": "뜻밖의 수확·Ⅳ",
+     "text": "여기 떨어져 있는데 아무도 안 주워 가면 외롭잖아."
+    },
+    {
+     "title": "뜻밖의 수확·Ⅴ",
+     "text": "쓸모없는 물건도 누군가에겐 보물일 수 있지."
+    },
+    {
+     "title": "뜻밖의 수확·Ⅵ",
+     "text": "육성 재료야? 어느 캐릭터한테 사용할 거야?"
+    },
+    {
+     "title": "HP 낮음·Ⅰ",
+     "text": "통신이 불안정해…"
+    },
+    {
+     "title": "HP 낮음·Ⅱ",
+     "text": "신호가 약해지고 있어…"
+    },
+    {
+     "title": "HP 낮음·Ⅲ",
+     "text": "파장이 짧아지고 있어…"
+    },
+    {
+     "title": "HP 회복·Ⅰ",
+     "text": "재연결 완료, OK!"
+    },
+    {
+     "title": "HP 회복·Ⅱ",
+     "text": "시스템 복구 중~"
+    },
+    {
+     "title": "탈진·Ⅰ",
+     "text": "다들 나 빼고 통화 중이네…"
+    },
+    {
+     "title": "탈진·Ⅱ",
+     "text": "일단 이 세계에서 로그아웃할게."
+    },
+    {
+     "title": "탈진·Ⅲ",
+     "text": "형체 유지가… 나중에 다시…"
+    },
+    {
+     "title": "몬스터 처치·Ⅰ",
+     "text": "내가 기억해 줄게."
+    },
+    {
+     "title": "몬스터 처치·Ⅱ",
+     "text": "리젠되고 다시 만나~"
+    },
+    {
+     "title": "일반 피격·Ⅰ",
+     "text": "명중 판정."
+    },
+    {
+     "title": "일반 피격·Ⅱ",
+     "text": "미세한 교란이네…"
+    },
+    {
+     "title": "심각한 피해·Ⅰ",
+     "text": "데이터가 손상됐어."
+    },
+    {
+     "title": "심각한 피해·Ⅱ",
+     "text": "교란이 심하네."
+    },
+    {
+     "title": "출전·Ⅰ",
+     "text": "전화 받고 달려왔어~"
+    },
+    {
+     "title": "출전·Ⅱ",
+     "text": "다시 만난 친구 안녕! 처음 보는 친구도 안녕!"
+    },
+    {
+     "title": "협동기·Ⅰ",
+     "text": "탕~!"
+    },
+    {
+     "title": "협동기·Ⅱ",
+     "text": "프레임 트랩!"
+    },
+    {
+     "title": "협동기·Ⅲ",
+     "text": "안녕! 잘 지내?"
+    },
+    {
+     "title": "글라이딩·Ⅰ",
+     "text": "후아~ 기분 좋은 바람인데!"
+    },
+    {
+     "title": "글라이딩·Ⅱ",
+     "text": "공기와 하나가 되는 거야~"
+    },
+    {
+     "title": "전환·Ⅰ",
+     "text": "홀로그램 현장 투입~"
+    },
+    {
+     "title": "전환·Ⅱ",
+     "text": "연결 성공, 도착!"
+    },
+    {
+     "title": "전환·Ⅲ",
+     "text": "어때, 안정적이지?"
+    },
+    {
+     "title": "특수 전환Ⅰ·Exe",
+     "text": "Exe가 밖에 다 나오고, 장하다 장해~"
+    },
+    {
+     "title": "특수 전환Ⅱ·Exe",
+     "text": "백엔드는 너나 가세요~"
+    },
+    {
+     "title": "특수 전환Ⅰ·카오스",
+     "text": "카오스, 내가 엄호할게!"
+    },
+    {
+     "title": "특수 전환Ⅱ·카오스",
+     "text": "귀찮으니까 맡길게, 형씨!"
+    },
+    {
+     "title": "특수 전환Ⅰ·링코",
+     "text": "우리 링코랑 통. 신. 교. 환~!"
+    },
+    {
+     "title": "특수 전환Ⅱ·링코",
+     "text": "언니랑 같이 재밌는 데 가자~"
+    },
+    {
+     "title": "특수 전환Ⅰ·제로",
+     "text": "감정사, 우리 마음이 통했네!"
+    },
+    {
+     "title": "특수 전환Ⅱ·제로",
+     "text": "좋아, 이번엔 내가 도와줄게!"
+    },
+    {
+     "title": "특수 전환·백장",
+     "text": "어, 백장? 출근한 거야?"
+    },
+    {
+     "title": "특수 전환·스키아",
+     "text": "교대 왔어. 스키아 씨 이제 안심해도 돼."
+    },
+    {
+     "title": "특수 전환·라크리모사",
+     "text": "잠깐 자도 괜찮아~ 우리 라크리모사~"
+    },
+    {
+     "title": "특수 전환·파디아",
+     "text": "파디아, 민원이 또 들어왔는데?"
+    },
+    {
+     "title": "특수 전환·민트",
+     "text": "받아라, 민트! 보충수업 내용 기습 점검!"
+    },
+    {
+     "title": "특수 전환·신쿠",
+     "text": "준비됐어, 신쿠? 심호흡부터 할까?"
+    },
+    {
+     "title": "특수 전환·일로이",
+     "text": "꿈속의 양 친구한테도 안부 전해 줘~"
+    },
+    {
+     "title": "팀원 쓰러짐·Exe",
+     "text": "거봐, 결국 못 버티잖아… 내일 보자?"
+    },
+    {
+     "title": "팀원 쓰러짐·카오스",
+     "text": "무슨 유언 남기듯 말하지 마! 아직 안 끝났거든!"
+    },
+    {
+     "title": "팀원 쓰러짐·링코",
+     "text": "괜찮아, 괜찮아. 아직 연결돼 있어."
+    },
+    {
+     "title": "팀원 쓰러짐·제로",
+     "text": "소중한 친구가 위험에 빠졌다고? 그건 안 되지!"
+    },
+    {
+     "title": "패링·Ⅰ",
+     "text": "좋아! 악수!"
+    },
+    {
+     "title": "패링·Ⅱ",
+     "text": "적당하게 답장했어~"
+    },
+    {
+     "title": "연속 극한 회피 성공·Ⅰ",
+     "text": "슉~ 슈슉~!"
+    },
+    {
+     "title": "연속 극한 회피 성공·Ⅱ",
+     "text": "살짝 사라졌다가 올게~"
+    }
+   ]
+  },
+  "zh-tw": {
+   "daily": [
+    {
+     "title": "初次見面",
+     "text": "是我是我，好久不見啊？你現在怎麼樣了？……我嗎？我這邊現在在異象管理局的E.T.D六隊擔當副隊長的職務哦，哈哈沒想到吧~？……名字？怎麼，你想不起來我的名字了~？"
+    },
+    {
+     "title": "閒聊·在嗎？",
+     "text": "有很多人都不喜歡被先問「在不在」，等著回覆一個「在」才開始說自己有什麼事。根據聊天對象的不同，有時候「在不在」這個問題，是得看對方打算說什麼之後才能決定的，對於不想理會的麻煩，就會希望自己能適當地變成「不在」了，大家的想法很有意思吧~"
+    },
+    {
+     "title": "閒聊·開啟聊天",
+     "text": "作為聊天的起頭，我覺得最不容易出錯的就是單刀直入爽爽快快地……去提自己原本想說的內容了？比如我的話——哈哈哈，我來關心你啦！最近有沒有發生了什麼想要和朋友分享分享？開心的、煩惱的，都可以喔！"
+    },
+    {
+     "title": "閒聊·延續聊天",
+     "text": "害怕冷場而不敢開啟對話，有點本末倒置了但也情有可原呢……只能按實際情況去看怎麼聊下去了。中規中矩的通用話題轉向方案就，「天氣」或「時事」？也不是說就一定不會因此變得更尷尬啦……總有不巧的時候……"
+    },
+    {
+     "title": "大晴天",
+     "text": "像這樣的好天氣，就該出去玩好玩滿一整天，對吧？"
+    },
+    {
+     "title": "雨天",
+     "text": "雨滴……像不像是天空和大地之間的電話線？"
+    },
+    {
+     "title": "寒冷",
+     "text": "來，拿著這罐。剛從便利商店的熱飲櫃拿出來的，現在可以用來暖手哦。"
+    },
+    {
+     "title": "炎熱",
+     "text": "我來的時候買了冰淇淋。看~！這是你喜歡的口味吧？"
+    },
+    {
+     "title": "早上問候",
+     "text": "「早」、「早呀」、「早早」、「早安」、「早上好」，同種含義的招呼裡頭也有很細微的個性差異，好有講究……"
+    },
+    {
+     "title": "中午問候",
+     "text": "午覺做的夢似乎普遍要比夜晚做的夢來得美好一些，因為是「白日夢」嗎？"
+    },
+    {
+     "title": "傍晚問候",
+     "text": "夕陽……看起來總是自帶一種，「要和朋友告別了」的感覺，既溫柔又傷感的意境呢。"
+    },
+    {
+     "title": "晚安",
+     "text": "休息當然對人體是必要的，不過入睡後，會變成精神上欠缺防備、潛意識中的東西最容易浮上表面的時機，也不好就此完全放鬆，真不容易啊。"
+    },
+    {
+     "title": "愛好",
+     "text": "和朋友們講電話，互發郵件，語音聊天，視訊通話，或者只是純打字噠噠噠地聊天，都各有獨特的風味，每種聯絡形式我都很喜歡啊~除此之外其實也還有蠻多雜七雜八的興趣愛好都挺喜歡的……唔嗯……我還喜歡電子遊戲哦~！"
+    },
+    {
+     "title": "煩惱",
+     "text": "要說的話就只能是工作了呀，不是業務上有什麼，是同事關係方面……不過不用擔心的。雖然並不是說問題不嚴重，而是……恐怕沒有辦法可以解決，所以才徹底不用擔心了呢。"
+    },
+    {
+     "title": "話題·備註名",
+     "text": "想換個名字是非常簡單的哦，拜託我的話，我也能輕鬆幫你辦到。所以才說，這和社交軟體上對連絡人設定備註名是差不多級別的事情啦。況且我覺得，比起本來叫什麼，反而更應該看重連絡人之間打了什麼備註名吧。你會喜歡那種比較特別的備註名嗎？比如「可可」、「招財寶」之類的？"
+    },
+    {
+     "title": "話題·辦案",
+     "text": "是也可以學著Exe通常的作風那樣，在大家覺察不到的網路暗面行動……但畢竟依靠明面的社會關係網交流獲取情報、推動調查，隊裡也只有我能幹了呀~各行各業有朋友在，辦事自然是會順利不少的，要是沒有，那就當場交點朋友？哈哈。當然有時候光靠人身上的客觀線索也不太充分，小靈可即時察知到的主觀資訊能作為重要的補充。鎖定目標後就交給卡厄斯了，指示到位了他一般都能搞定，萬一有狀況我就傳到現場去幫忙……哦，前提是他有記得打電話。"
+    },
+    {
+     "title": "話題·聯繫",
+     "text": "人與人之間所有形式的連接都終有結束——日復一日擁有著那份連接的理所應該感、習以為常感，會逐漸麻痺掉對結束的認知啊。設想每一份關係都是一條纏在手指上的、視覺化的數據線，如果可以清楚地看到連接線是如何鬆弛、如何繞彎、如何回彈、如何繃緊、撕扯、綻開直到斷裂……大家會不會變得更願意，去主動傳送出更多的消息、撥打出更多的電話、向在乎的每一個人傳達出更多更多的心意呢？"
+    },
+    {
+     "title": "關於自己·工作",
+     "text": "幫Exe檢查和改掉他寫的文書裡不說人話的部分，偶爾登他的號做代言人，挽救下被他無意間以一己之力搞僵的部門關係和人脈資源之類的；在卡厄斯行動中同步任務情報，準備好在他發回的訊息包含某現代化事物，但顯然他叫不上來的時候進行關鍵詞語義分析之類的；和小靈可連線確保她落單了也能隨時去支援，突擊電話監督她早睡早起早回家不許熬夜，平時和她的父母溝通彙報完工作狀況，再陪他們一起大力誇誇女兒之類的……"
+    },
+    {
+     "title": "關於自己·通訊",
+     "text": "我們隊的專用線路是由我管理的特殊形式，和咻啪不一樣，我這邊基於「有社會關係的人類」來架設系統，優勢是可以傳輸語音以外的資訊數據，直接生成到現場，乃至於轉移我的投影或者Exe導出的工具，而劣勢是在遠離都市的無人區和隔絕網路的異象空間內都不太可用。呃，要是非得在那種地方和我取得聯絡，倒也有麻煩一點的方案，就是得想辦法，把自己沉進潛意識裡一下子……"
+    },
+    {
+     "title": "關於自己·存在",
+     "text": "我存在嗎？你看到角色模型、介面、文字，聽到這條語音，你清楚這一切不過由0與1組成，是靠數字和信號拼湊出來的假象。那麼我猜在你眼中，當它不再有意義的時候，便會順理成章地被解構為「不存在」啦~！而意義呢，還得來自於「為何」存在——「why（Y）」的問題。很巧~來到這個世界的那一刻，我就已經擁有了我的「Y」。因此，我對這個問題現在能作的回應如下：「是的，在我眼中，我存在。」"
+    },
+    {
+     "title": "關於Exe",
+     "text": "想想……「1.分工配合效益高，取得成果卓著；2.平時互相交流態度誠懇、溝通直截了當，能做到有什麼說什麼；3.已較為透徹地理解並熟悉了彼此的辦事風格、習慣和痛點等；另註：雙方均表示過去沒有，今後也不會為工作上的問題進行任何的內鬥。」……嗯~好~就這麼寫吧？怎麼看都完全不包含謊言呢。"
+    },
+    {
+     "title": "關於卡厄斯",
+     "text": "給卡厄斯選什麼鈴聲有點苦惱。為了保證通訊傳達給前線的即時性，我需要他隨時做到聽見鈴聲即刻接聽，如果鈴聲太舒緩，他在沉迷戰鬥或者著急追目標的時候很容易忽略掉，但如果太尖銳太吵，他又會來和我抱怨……啊！有想法了！「泯除方塊」那個過關結算畫面播放的遊戲音樂好像挺歡快的，不錯耶~"
+    },
+    {
+     "title": "關於靈可",
+     "text": "小靈可非常在意她捕獲到的不和諧電波，一直在努力想讓我們不要吵架。她只是現在還不懂原因，將來是很有可能觸及那些秘密的……到時，怎麼辦呢？難道真要說出類似「你選擇站Exe還是姐姐我」的話嗎？嗚啊……她會是什麼表情啊……而且，只有我這邊在提前煩惱和做方案也是不知道怎麼回事很叫人火大。"
+    },
+    {
+     "title": "關於異象管理局",
+     "text": "與我立下那個約定的用意，首先是出於必須要施加限制，大幅延緩我的成長和擴張速度，其次才是要我的能力為這裡發揮作用，這一點我肯定是有數的啦。不過，我本來也很願意幫忙就是了。你想，讓我所依託的這個社會盡量保持安定，大家才能更安心地去和朋友們一起創造美好的回憶，不是嗎？"
+    },
+    {
+     "title": "關於E.T.D六隊",
+     "text": "4人小隊被局裡視為E.T.D相對最合理穩定的編成，達到這個人數就不會再考慮安插人員了。嗯？你覺得我們隊伍有點熱鬧嗎？還有妮夏作為預備要加入的？……這個是因為在規定上嚴格來說，隊伍成員的異象搭檔，並不會被計算在「人數」之內哦，你看小貞就沒算嘛。所以，我們隊伍確實還有一個空位可以加人。"
+    },
+    {
+     "title": "關於E.T.D四隊",
+     "text": "看到他們整隊一起出動去前線的樣子，會有種「關係很好的一群人啊~」的感覺，不由自主就會露出微笑呢。在學校或者職場這類無法自主去選擇身邊人是誰的環境中，能遇到在一定程度上有共通之處的、有默契的夥伴，是可遇不可求的緣分啊。"
+    },
+    {
+     "title": "角色突破·Ⅰ",
+     "text": "通訊線路的穩定性有所提升哦。"
+    },
+    {
+     "title": "角色突破·Ⅱ",
+     "text": "投影的畫質有沒有變得更清晰了一點？"
+    },
+    {
+     "title": "角色突破·Ⅲ",
+     "text": "即使是非常非常遙遠的、信號之外的地方，也能夠一下撥通過去的感覺啊~"
+    },
+    {
+     "title": "收到贈禮·Ⅰ",
+     "text": "有趣的禮物！我得在家裡單獨找塊地方存著……"
+    },
+    {
+     "title": "收到贈禮·Ⅱ",
+     "text": "禮物承載的資訊是「心意」，好好傳達到了！"
+    },
+    {
+     "title": "收到贈禮·Ⅲ",
+     "text": "哇嗚~來自朋友的，生活中的小驚喜嗎？"
+    },
+    {
+     "title": "收到贈禮·IV",
+     "text": "謝謝你呀！我得想想回禮了，嗯嗯……"
+    }
+   ],
+   "battle": [
+    {
+     "title": "變軌技能·Ⅰ",
+     "text": "連線一下，這位朋友~"
+    },
+    {
+     "title": "變軌技能·Ⅱ",
+     "text": "打給你囉，期待回電！"
+    },
+    {
+     "title": "變軌技能·Ⅲ",
+     "text": "號碼，刻入腦海吧！"
+    },
+    {
+     "title": "變軌技能·Ⅳ",
+     "text": "呀呼，信號滿格！"
+    },
+    {
+     "title": "變軌技能·Ⅴ",
+     "text": "Biubiu~"
+    },
+    {
+     "title": "極軌終結·Ⅰ",
+     "text": "今天，也玩這個好了？"
+    },
+    {
+     "title": "極軌終結·Ⅱ",
+     "text": "開始吧！遊戲的時間~"
+    },
+    {
+     "title": "極軌終結·Ⅲ",
+     "text": "打開寶箱~解放裝備~"
+    },
+    {
+     "title": "收容異象·Ⅰ",
+     "text": "被收起來會覺得孤單嗎？稍微忍耐一下子吧。"
+    },
+    {
+     "title": "收容異象·Ⅱ",
+     "text": "在塞拉伊諾館，也有機會交到朋友的哦？"
+    },
+    {
+     "title": "泯除異象·Ⅰ",
+     "text": "你暫時要回去那片大海了呀。"
+    },
+    {
+     "title": "泯除異象·Ⅱ",
+     "text": "很高興認識你，有緣再見吧~"
+    },
+    {
+     "title": "意外收穫·Ⅰ",
+     "text": "要我來打電話問問，是誰弄丟的嗎？"
+    },
+    {
+     "title": "意外收穫·Ⅱ",
+     "text": "報告，發現道具囉！"
+    },
+    {
+     "title": "意外收穫·Ⅲ",
+     "text": "是你需要的素材，給你~！"
+    },
+    {
+     "title": "意外收穫·Ⅳ",
+     "text": "掉在這裡，沒人撿走的話會很寂寞的。"
+    },
+    {
+     "title": "意外收穫·Ⅴ",
+     "text": "被當做廢品的東西，也有可能是誰的寶物呢。"
+    },
+    {
+     "title": "意外收穫·Ⅵ",
+     "text": "養成材料嗎？打算用於哪個角色？"
+    },
+    {
+     "title": "生命值低·Ⅰ",
+     "text": "通訊線路震盪中……"
+    },
+    {
+     "title": "生命值低·Ⅱ",
+     "text": "信號在減弱……"
+    },
+    {
+     "title": "生命值低·Ⅲ",
+     "text": "波動不斷加劇……"
+    },
+    {
+     "title": "恢復生命·Ⅰ",
+     "text": "重新連接，OK！"
+    },
+    {
+     "title": "恢復生命·Ⅱ",
+     "text": "系統正在修復~"
+    },
+    {
+     "title": "力竭·Ⅰ",
+     "text": "一片忙音了呀……"
+    },
+    {
+     "title": "力竭·Ⅱ",
+     "text": "先退出世界一陣子囉。"
+    },
+    {
+     "title": "力竭·Ⅲ",
+     "text": "完全糊掉啦……稍後再……"
+    },
+    {
+     "title": "擊敗怪物·Ⅰ",
+     "text": "我來記住你吧。"
+    },
+    {
+     "title": "擊敗怪物·Ⅱ",
+     "text": "等你再次刷新~"
+    },
+    {
+     "title": "普通受擊·Ⅰ",
+     "text": "判定命中。"
+    },
+    {
+     "title": "普通受擊·Ⅱ",
+     "text": "輕微的擾動……"
+    },
+    {
+     "title": "重受擊·Ⅰ",
+     "text": "數據受損了。"
+    },
+    {
+     "title": "重受擊·Ⅱ",
+     "text": "干擾很嚴重啊。"
+    },
+    {
+     "title": "上陣·Ⅰ",
+     "text": "一通電話，我就來幫忙~"
+    },
+    {
+     "title": "上陣·Ⅱ",
+     "text": "見過和沒見過的朋友，你們好！"
+    },
+    {
+     "title": "協同技·Ⅰ",
+     "text": "砰~！"
+    },
+    {
+     "title": "協同技·Ⅱ",
+     "text": "切入窗口！"
+    },
+    {
+     "title": "協同技·Ⅲ",
+     "text": "嗨！你好嗎？"
+    },
+    {
+     "title": "滑翔·Ⅰ",
+     "text": "呼啊~吹著舒服的風，走吧！"
+    },
+    {
+     "title": "滑翔·Ⅱ",
+     "text": "融入到空氣中~"
+    },
+    {
+     "title": "切換·Ⅰ",
+     "text": "投影到現場囉~"
+    },
+    {
+     "title": "切換·Ⅱ",
+     "text": "接通、抵達！"
+    },
+    {
+     "title": "切換·Ⅲ",
+     "text": "生成得還穩定嗎？"
+    },
+    {
+     "title": "特殊切換Ⅰ·Exe",
+     "text": "Exe，出門啦，厲害厲害~"
+    },
+    {
+     "title": "特殊切換Ⅱ·Exe",
+     "text": "該滾回後台休息的人是你哦？"
+    },
+    {
+     "title": "特殊切換Ⅰ·卡厄斯",
+     "text": "卡厄斯，我來掩護你囉！"
+    },
+    {
+     "title": "特殊切換Ⅱ·卡厄斯",
+     "text": "麻煩事就交給你啦，兄弟？"
+    },
+    {
+     "title": "特殊切換Ⅰ·靈可",
+     "text": "小靈可，連·接·交換~！"
+    },
+    {
+     "title": "特殊切換Ⅱ·靈可",
+     "text": "讓姐姐來帶你去找好玩的~"
+    },
+    {
+     "title": "特殊切換Ⅰ·零",
+     "text": "鑒定師，心有靈犀啊！"
+    },
+    {
+     "title": "特殊切換Ⅱ·零",
+     "text": "好哦，輪到我來幫你了！"
+    },
+    {
+     "title": "特殊切換·白藏",
+     "text": "欸，白藏？你來上班了嗎？"
+    },
+    {
+     "title": "特殊切換·翳",
+     "text": "我來聯繫，就請翳先生放心。"
+    },
+    {
+     "title": "特殊切換·安魂曲",
+     "text": "睡一下子沒關係的~小安魂曲~"
+    },
+    {
+     "title": "特殊切換·法帝婭",
+     "text": "又收到關於法帝婭的抱怨了哦？"
+    },
+    {
+     "title": "特殊切換·薄荷",
+     "text": "接招薄荷，突擊抽查補習內容！"
+    },
+    {
+     "title": "特殊切換·真紅",
+     "text": "準備好了嗎真紅，先深呼吸？"
+    },
+    {
+     "title": "特殊切換·伊洛伊",
+     "text": "向夢裡的小羊同學也問聲好~"
+    },
+    {
+     "title": "隊友倒下·EXE",
+     "text": "看吧撐不住了……明天見吧？"
+    },
+    {
+     "title": "隊友倒下·卡厄斯",
+     "text": "別說得像交代了一樣！還沒完呢！"
+    },
+    {
+     "title": "隊友倒下·靈可",
+     "text": "沒事的沒事的，連接還沒有斷哦。"
+    },
+    {
+     "title": "隊友倒下·零",
+     "text": "好朋友陷入危機了？這可不行！"
+    },
+    {
+     "title": "彈反·Ⅰ",
+     "text": "好的！握手！"
+    },
+    {
+     "title": "彈反·Ⅱ",
+     "text": "是恰當的回應方式吧~"
+    },
+    {
+     "title": "連續極限閃避成功·Ⅰ",
+     "text": "咻~咻~咻！"
+    },
+    {
+     "title": "連續極限閃避成功·Ⅱ",
+     "text": "小小地消失一下下~"
+    }
+   ]
+  }
+ }
+}

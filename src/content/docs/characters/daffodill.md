@@ -60,6 +60,7 @@ sources:
 | Role | Eibon Antique Shop |
 | Voice actors | Chinese: 陈彦亦; English: Natalie Van Sistine; Japanese: 大原さやか; Korean: 이명호 |
 | Archive | [Daffodill archive](/characters/daffodill/archive/) |
+| Voice lines | [Daffodill voice lines](/characters/daffodill/voice/) |
 
 Prydwen and Game8 spell the name Daffodil.
 

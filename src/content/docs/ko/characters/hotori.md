@@ -60,6 +60,7 @@ sources:
 | 신분 | 에이본 골동품 가게 점주 |
 | 성우 | 중국어: 杜晴晴; 영어: Lindsay Sheppard; 일본어: 伊藤静; 한국어: 이지현 |
 | 아카이브 | [호토리 아카이브](/ko/characters/hotori/archive/) |
+| 보이스 | [호토리 보이스](/ko/characters/hotori/voice/) |
 
 ## 획득 방법
 

@@ -77,8 +77,23 @@ sources:
 - [Platforms and servers](/systems/platforms/)
 - [Names in five languages](/names/)
 
+## Anomalies
+
+- [Anomalies](/anomalies/)
+- [Enemy manual](/anomalies/enemies/)
+
+## Items and achievements
+
+- [Glider skins](/items/gliders/)
+- [Mod parts](/items/mod-parts/)
+- [Figurines](/items/figurines/)
+- [Gifts](/items/gifts/)
+- [Achievements](/items/achievements/)
+
 ## Characters
 
 Version 1.5 has [25 playable characters](/characters/).
 
 [Elyms](/characters/elyms/), [Akane Rin](/characters/akane-rin/), [Blackbird](/characters/blackbird/), [Linko](/characters/linko/), [Zankou](/characters/zankou/), [Iroi](/characters/iroi/), [Shinku](/characters/shinku/), [Chaos](/characters/chaos/), [Lacrimosa](/characters/lacrimosa/), [Hotori](/characters/hotori/), [Nanally](/characters/nanally/), [Skia](/characters/skia/), [Aurelia](/characters/aurelia/), [Haniel](/characters/haniel/), [Adler](/characters/adler/), [Edgar](/characters/edgar/), [Mint](/characters/mint/), [Jiuyuan](/characters/jiuyuan/), [Daffodill](/characters/daffodill/), [Fadia](/characters/fadia/), [Hathor](/characters/hathor/), [Baicang](/characters/baicang/), [Sakiri](/characters/sakiri/), [Chiz](/characters/chiz/), [Esper Zero](/characters/zero/).
+
+24 of them have an [archive](/characters/archives/), and all 25 have [voice lines](/characters/voices/).

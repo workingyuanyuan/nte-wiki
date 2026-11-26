@@ -62,6 +62,7 @@ sources:
 | 実装 | バージョン1.5、2026-11-11 |
 | 声優 | 中国語：陈章、英語：Crystal Lee、日本語：雨宮天、韓国語：손선영 |
 | アーカイブ | [イェルムのアーカイブ](/ja/characters/elyms/archive/) |
+| ボイス | [イェルムのボイス](/ja/characters/elyms/voice/) |
 
 ## 入手方法
 

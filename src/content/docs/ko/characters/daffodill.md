@@ -60,6 +60,7 @@ sources:
 | 신분 | 에이본 골동품 가게 |
 | 성우 | 중국어: 陈彦亦; 영어: Natalie Van Sistine; 일본어: 大原さやか; 한국어: 이명호 |
 | 아카이브 | [다포딜 아카이브](/ko/characters/daffodill/archive/) |
+| 보이스 | [다포딜 보이스](/ko/characters/daffodill/voice/) |
 
 Prydwen과 Game8은 영어 이름을 Daffodil로 표기한다.
 

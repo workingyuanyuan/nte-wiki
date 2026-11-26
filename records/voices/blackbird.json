@@ -1,0 +1,1907 @@
+{
+ "slug": "blackbird",
+ "id": "1042",
+ "version": "1.5.4",
+ "sources": {
+  "en": "https://static.nanoka.cc/nte/1.5.4/en/character/1042.json",
+  "zh-cn": "https://static.nanoka.cc/nte/1.5.4/zh/character/1042.json",
+  "ja": "https://static.nanoka.cc/nte/1.5.4/ja/character/1042.json",
+  "ko": "https://static.nanoka.cc/nte/1.5.4/ko/character/1042.json",
+  "zh-tw": "https://everness.info/zh-Hant/espers/1042"
+ },
+ "reads": {
+  "zh-tw": "2026-11-25"
+ },
+ "lines": {
+  "en": {
+   "daily": [
+    {
+     "title": "First Meet",
+     "text": "Crystal guides me, the bird calls me. To this place I have come, our fates tangled and spun…"
+    },
+    {
+     "title": "Chat: Poise",
+     "text": "\"I see all fates in a mirror. I see all truths you seek…\" Did I sound mysterious but authoritative? Heheh, keeping up appearances takes work. I practice quite a bit, you know."
+    },
+    {
+     "title": "Chat: Collection",
+     "text": "I love collecting all sorts of antiques. The stranger the design, the more I like them… My collection? I have more than what you usually see. I had a whole room built to store them. If you're interested, come by and take a look sometime."
+    },
+    {
+     "title": "Chat: Out and About",
+     "text": "The Witch's House is quiet and peaceful, with everything I need: snacks, comic books, and my crystal ball… Oh, you're going to pay me a visit? Ugh… so much for being a shut-in…"
+    },
+    {
+     "title": "Sunny",
+     "text": "The sun is bright, just like your future."
+    },
+    {
+     "title": "Rainy",
+     "text": "May the rain wash away all the pain in the world."
+    },
+    {
+     "title": "Cold",
+     "text": "Cold weather is a bird's worst enemy."
+    },
+    {
+     "title": "Hot",
+     "text": "Ugh… I don't like the weather right now. Let's go home."
+    },
+    {
+     "title": "Morning Greeting",
+     "text": "Morning, you have a lucky day ahead of you."
+    },
+    {
+     "title": "Noon Greeting",
+     "text": "Lavinia made some ravioli for lunch. There's some for you too."
+    },
+    {
+     "title": "Evening Greeting",
+     "text": "Let's find our two stars in the night sky, together."
+    },
+    {
+     "title": "Good Night",
+     "text": "The dead of night is the perfect time for a horror movie…"
+    },
+    {
+     "title": "Hobbies",
+     "text": "Getting the most sale items at the lowest price is an art in itself! You have to know the timing of the promotions, how deep the discounts go, what kinds of items are on sale, and plan out your budget before you even head to the store… I-If you're interested, I could share with you my shopping tactics…"
+    },
+    {
+     "title": "Worries",
+     "text": "I get dizzy once I start working. I can't keep my human form anymore…"
+    },
+    {
+     "title": "Topic: Anomaly",
+     "text": "A diviner cannot see their own fate: not the future, not the past. But somehow, I can't see your past either. It seems to be hidden on the other side of the stars, and I can't even figure out its shape… Is the crystal ball deceiving me? What kind of fate do you carry? I'm curious… No, never mind…"
+    },
+    {
+     "title": "Topic: \"Witch\"",
+     "text": "To be honest, I'm no witch at all. Apart from my anomaly powers, I don't know any kinds of spells. I've never kept a black cat, and I'm not even human in the strictest sense… Still, I've long since made peace with everyone calling me a \"witch.\" It saves me a lot of trouble explaining. Of course, anyone would think a witch lives in the Witch's House, wouldn't they?"
+    },
+    {
+     "title": "Topic: Starry Sky",
+     "text": "When the world was yet unformed, the stars had written the fate of all things. Above the veil of night, every thread of starlight we see and cannot see, every flicker, every speck of dust whispers of hidden things. Within them lie the answers to the fate of all beings."
+    },
+    {
+     "title": "About Myself: Anomaly Abilities",
+     "text": "My powers allow me to divine and cleanse Oracle Stones. I don't really know why I was given such powerful abilities… Or rather, I don't even know why I exist in this world at all. Though I've read countless people's fates, my own is hidden behind the fog that swirls within the crystal ball. Espers must pay a price for their abilities, and as an anomaly, perhaps my powers are just limited in this aspect… That said, whatever the truth of my fate turns out to be, I accept it gladly."
+    },
+    {
+     "title": "About Myself: Blackbird",
+     "text": "When I really do need to go out, or when I don't feel like working, I turn into a bird. It's easy, doesn't draw attention, and cute too, isn't it? Only you and Lavinia know this secret. Next time a bird flies past you, take a closer look and see if it's me."
+    },
+    {
+     "title": "About Myself: Hat",
+     "text": "I've given some of my powers to this hat I'm wearing. Even when I'm not around, I can sense what's happening near it. When I don't feel like seeing people, I let it act as my mouthpiece while I cozy up in the attic… I-I'm not slacking off, of course! I'm still divining for my clients, I swear…"
+    },
+    {
+     "title": "About Lavinia",
+     "text": "Lavinia is a specialist sent from the Yggash Court to the Witch's House. She's my supervisor, but also my friend. Don't let her serious face fool you, she's the best cook I know. Every dish she makes turns out super delicious. Hmm, maybe she casts a spell to make the food taste better, who knows…"
+    },
+    {
+     "title": "About Hotori",
+     "text": "A few times when I was low on cash, I randomly grabbed some items from my collection and tried selling them to the owner of that antique shop. I thought she'd be a shrewd businesswoman, but she turned out to be surprisingly easygoing and generous. Every time, she'd offer a price that even surprised me… Isn't she a little too easy to swindle?"
+    },
+    {
+     "title": "About Linko",
+     "text": "Linkie is a great movie buddy. On her days off, she'll sometimes come over with a bunch of DVDs to watch horror movies with me all night. Every time she and Xiaozhen show up, the Witch's House gets lively again. Don't let her size fool you. I still can't figure out what wild ideas run around in that little pink head of hers. (*Giggles*) This kid's future is going to be full of adventures and wonders."
+    },
+    {
+     "title": "About Merula",
+     "text": "The closer I get to her, the more I feel a peace I've never known, as if… I've returned to my mother's embrace. I wasn't a good child. I wandered for centuries without ever knowing her. But it's not too late. Her blood still runs warm, her eyes see this new world through mine, and every moment Merula lost, I will give back to her."
+    },
+    {
+     "title": "About Yggash Court",
+     "text": "When I was wandering in the wilds and my wings started to grow heavy, the Yggash Court found me and formed a contract with me. From then on, I had a place I could call \"home,\" but until the \"work\" is done, I can't leave their sight… Fate's gifts and its costs are always equal. That's only fair."
+    },
+    {
+     "title": "Character Ascension I",
+     "text": "I have deciphered the hidden messages."
+    },
+    {
+     "title": "Character Ascension II",
+     "text": "I have struck the fugues of fate."
+    },
+    {
+     "title": "Character Ascension III",
+     "text": "I have seen the mysteries of the stars."
+    },
+    {
+     "title": "Gift Received I",
+     "text": "What's precious isn't just the gift itself, but… the thought you've put into it."
+    },
+    {
+     "title": "Gift Received II",
+     "text": "I like it… Thank you, I'll treasure it always…"
+    },
+    {
+     "title": "Gift Received III",
+     "text": "Is this… for me? I appreciate it."
+    },
+    {
+     "title": "Gift Received IV",
+     "text": "I love it. You really thought a lot about this."
+    }
+   ],
+   "battle": [
+    {
+     "title": "Redirect Skill I",
+     "text": "Futile."
+    },
+    {
+     "title": "Redirect Skill II",
+     "text": "Silence."
+    },
+    {
+     "title": "Redirect Skill III",
+     "text": "Flash-blur."
+    },
+    {
+     "title": "Redirect Skill IV",
+     "text": "Fear not…"
+    },
+    {
+     "title": "Redirect Skill V",
+     "text": "Pray to me…"
+    },
+    {
+     "title": "Redirect Skill VI",
+     "text": "A shame…"
+    },
+    {
+     "title": "Redirect Skill VII",
+     "text": "Trembling?"
+    },
+    {
+     "title": "Redirect Skill VIII",
+     "text": "Fall in silence."
+    },
+    {
+     "title": "Redirect Skill IX",
+     "text": "Wither and wilt."
+    },
+    {
+     "title": "Redirect Skill X",
+     "text": "Judgment comes."
+    },
+    {
+     "title": "Redirect Skill XI",
+     "text": "Nowhere to hide."
+    },
+    {
+     "title": "Redirect Skill XII",
+     "text": "Reborn in flames…"
+    },
+    {
+     "title": "Ultimate I",
+     "text": "All fates, to oblivion."
+    },
+    {
+     "title": "Ultimate II",
+     "text": "Heed the echoes of ruin."
+    },
+    {
+     "title": "Ultimate III",
+     "text": "Receive the Witch's blessing."
+    },
+    {
+     "title": "Ultimate IV",
+     "text": "The flames of death judge thee!"
+    },
+    {
+     "title": "Ultimate V",
+     "text": "Thus comes thy final moment…"
+    },
+    {
+     "title": "Ultimate VI",
+     "text": "Thy doom draws near…"
+    },
+    {
+     "title": "Containment I",
+     "text": "Go to where you belong."
+    },
+    {
+     "title": "Containment II",
+     "text": "Sleep. Worry no more…"
+    },
+    {
+     "title": "Nullification I",
+     "text": "I will pray for you."
+    },
+    {
+     "title": "Nullification II",
+     "text": "Everything has its fate."
+    },
+    {
+     "title": "Unexpected Gains I",
+     "text": "A good omen."
+    },
+    {
+     "title": "Unexpected Gains II",
+     "text": "A nice surprise."
+    },
+    {
+     "title": "Unexpected Gains III",
+     "text": "A mark of good fortune."
+    },
+    {
+     "title": "Unexpected Gains IV",
+     "text": "Please. It belongs to you."
+    },
+    {
+     "title": "Unexpected Gains V",
+     "text": "It's good stuff. Do you like it?"
+    },
+    {
+     "title": "Unexpected Gains VI",
+     "text": "A gift from fate."
+    },
+    {
+     "title": "Low Health I",
+     "text": "This is ominous…"
+    },
+    {
+     "title": "Low Health II",
+     "text": "Eyes getting… blurry…"
+    },
+    {
+     "title": "Low Health III",
+     "text": "I need to rest…"
+    },
+    {
+     "title": "Heal I",
+     "text": "Whew…"
+    },
+    {
+     "title": "Heal II",
+     "text": "Much better."
+    },
+    {
+     "title": "Down I",
+     "text": "This is… my fate…"
+    },
+    {
+     "title": "Down II",
+     "text": "Is this as far… as I go…?"
+    },
+    {
+     "title": "Down III",
+     "text": "The flames… devour me…"
+    },
+    {
+     "title": "Takedown I",
+     "text": "The verdict of destiny."
+    },
+    {
+     "title": "Takedown II",
+     "text": "Karma is a witch."
+    },
+    {
+     "title": "Damaged I",
+     "text": "Focus… I'm alright."
+    },
+    {
+     "title": "Damaged II",
+     "text": "It's but a scratch."
+    },
+    {
+     "title": "Heavily Damaged I",
+     "text": "That hurt…"
+    },
+    {
+     "title": "Heavily Damaged II",
+     "text": "Where are my meds…"
+    },
+    {
+     "title": "Deploy I",
+     "text": "If this is what you want…"
+    },
+    {
+     "title": "Deploy II",
+     "text": "Been waiting for you."
+    },
+    {
+     "title": "Entry Attack I",
+     "text": "All is decided."
+    },
+    {
+     "title": "Entry Attack II",
+     "text": "Repent."
+    },
+    {
+     "title": "Entry Attack III",
+     "text": "Unforgivable."
+    },
+    {
+     "title": "Entry Attack IV",
+     "text": "Thy grudge be settled…"
+    },
+    {
+     "title": "Entry Attack V",
+     "text": "Thy sins be forgiven…"
+    },
+    {
+     "title": "Entry Attack VI",
+     "text": "Thy soul be cleansed…"
+    },
+    {
+     "title": "Glide I",
+     "text": "Just like always."
+    },
+    {
+     "title": "Glide II",
+     "text": "The familiar breeze…"
+    },
+    {
+     "title": "Switch I",
+     "text": "Is there trouble?"
+    },
+    {
+     "title": "Switch II",
+     "text": "Good fortune to all of you…"
+    },
+    {
+     "title": "Switch III",
+     "text": "Heeding fate's call."
+    },
+    {
+     "title": "Special Switch - Zero",
+     "text": "Rest. I'll take over."
+    },
+    {
+     "title": "Teammate Down - Zero",
+     "text": "Appraiser…! Is this… what fate has in store for me?"
+    },
+    {
+     "title": "Parry I",
+     "text": "Right on time."
+    },
+    {
+     "title": "Parry II",
+     "text": "Saw that coming."
+    },
+    {
+     "title": "Consecutive Critical Dodge Success I",
+     "text": "Called it."
+    },
+    {
+     "title": "Consecutive Critical Dodge Success II",
+     "text": "Fortuna saves me."
+    }
+   ]
+  },
+  "zh-cn": {
+   "daily": [
+    {
+     "title": "初次见面",
+     "text": "水晶球指引我，乌鸫呼唤我，我来至此地，看到我们命运的丝线缠绕交错……"
+    },
+    {
+     "title": "闲聊·仪态",
+     "text": "「我视万物于明镜，你所希求的真理，我皆能洞察」……看起来是不是既神秘又威严？呵呵，为了维持大家心中的形象，我可是下过一番功夫练习呢。"
+    },
+    {
+     "title": "闲聊·收藏",
+     "text": "我很喜欢收集各种各样的古董，造型越是稀奇古怪，我越是喜欢……我的收藏？可不止你平常见到的那些哦。为了好好保管它们，我专门打造了一间古董收藏室。你若是感兴趣，改天来参观吧。"
+    },
+    {
+     "title": "闲聊·外出",
+     "text": "魔女之家总是安静又和平，而且这里有我需要的一切，零食，漫画书，水晶球……所以我根本没有出门的理由啦。欸，鉴定师陪我？呜……宅家计划失败……"
+    },
+    {
+     "title": "大晴天",
+     "text": "阳光如同你的未来一般灿烂呢。"
+    },
+    {
+     "title": "雨天",
+     "text": "愿雨水洗净世间的苦痛。"
+    },
+    {
+     "title": "寒冷",
+     "text": "低气温是鸟儿的天敌。"
+    },
+    {
+     "title": "炎热",
+     "text": "唔……我不喜欢现在的天气，回家吧。"
+    },
+    {
+     "title": "早上问候",
+     "text": "早安，今日运势不错。"
+    },
+    {
+     "title": "中午问候",
+     "text": "拉维尼娅中午做了乌冬面，连带鉴定师的那份哦。"
+    },
+    {
+     "title": "傍晚问候",
+     "text": "一起去找夜空中属于我们的两颗星星吧。"
+    },
+    {
+     "title": "晚安",
+     "text": "夜深人静之时最适合看恐怖电影了……"
+    },
+    {
+     "title": "爱好",
+     "text": "如何花最少的钱买到最多的打折商品可是一门学问！不仅要提前了解促销的时间，优惠的力度，以及打折商品的类型，还要在去超市之前规划好自己的预算……如，如果你也有兴趣的话，我可以告诉你我的抢购秘诀……"
+    },
+    {
+     "title": "烦恼",
+     "text": "一工作就脑袋发晕，没有力气维持人形了……"
+    },
+    {
+     "title": "话题·异常",
+     "text": "占卜者观测不了自己的命运，未来如此，过去亦如此。但不可思议的是，我同样看不到你的过去，它似乎藏匿在星空的另一面，我甚至无法向你描述它的轮廓……难道水晶球也会说谎？你身上到底背负了什么样的命运？我很好奇……不，没什么……"
+    },
+    {
+     "title": "话题·「魔女」",
+     "text": "我实际上根本不是魔女，除了异象能力之外，我并不会其他的魔法，也没有养过黑猫，甚至我连人都算不上……不过我早已接受大家用「魔女」称呼我了，这样能省去很多麻烦的解释，「魔女之家里当然住着魔女小姐」，任谁都会这样想的吧。"
+    },
+    {
+     "title": "话题·星空",
+     "text": "在一切尚处于混沌之时，万物发生的轨迹便早已被星空注定。夜幕之上，我们所能见或所不能见的每一缕星光，每一次闪烁，乃至每一粒微尘，都充满晦涩的隐喻，而众生命运的谜底便蕴藏其中。"
+    },
+    {
+     "title": "关于自己·异象能力",
+     "text": "我的能力是占卜与净化谕石，为什么会拥有如此强大的能力……我无从得知，倒不如说，我连我为什么会在世上「存在」都无法理解。尽管曾为无数人占卜，我自己的命运却被水晶球中翻涌的迷雾遮掩。异能者需要为其异能支付代价，而作为异象，这兴许只是能力的局限性吧……但无论命运的真相究竟如何，我都欣然接受。"
+    },
+    {
+     "title": "关于自己·乌鸫",
+     "text": "实在需要外出或者不想工作的时候，我就会变成一只乌鸫，既轻松，又不会引人注意，而且还很可爱，不是吗？这个秘密只有你和拉维尼娅知道，下次若有鸟儿从你面前飞过，可以留心看一下是不是我哦。"
+    },
+    {
+     "title": "关于自己·帽子",
+     "text": "头上戴的这顶帽子被我赋予了一小部分的力量，就算我不在附近，我也可以通过它感知周围的情况。不想见人时，我会让它来充当传话筒，而我只需要舒舒服服窝在阁楼……这，这当然不算偷懒！我可是有在认真替客人们占卜的……"
+    },
+    {
+     "title": "关于拉维尼娅",
+     "text": "拉维尼娅是尤克阿什庭派驻到魔女之家的专员，于我而言，她既是监护者，也是朋友。别看她平常总是一副严肃的样子，她的厨艺可是我见过最好的。无论什么样的料理，经由拉维尼娅之手后总会格外美味，唔，或许她有什么能让食物变得美味的魔法也说不准……"
+    },
+    {
+     "title": "关于浔",
+     "text": "有几次手头拮据时，我从收藏里随便拿了些东西试着卖给那位古董店的店主。本以为会是个精明的生意人，没想到她竟然意外的很爽快，出手也相当大方，每次都能开出连我都惊讶的价格……这样会不会有点太容易被骗了？"
+    },
+    {
+     "title": "关于灵可",
+     "text": "小灵可是个优秀的观影搭子，在休息日，她偶尔会带着好些碟片来找我通宵看恐怖电影，每次她和小贞来，魔女之家就会久违地热闹一些。别看她人小，我到现在也猜不透那粉色的小脑瓜里装着什么样的奇思妙想，呵呵，这孩子的将来可是会充满了各种冒险与意想不到的奇迹呢。"
+    },
+    {
+     "title": "关于梅露菈",
+     "text": "越是向她靠近，我越是感受到一种从未有过的安心与亲切，就好像……回到了母亲的怀中。我不是一个合格的孩子，在世间游荡了数百年，却未曾知晓她的心。但好在一切还不晚，她的血与骨依旧滚烫，她的眼睛正与我一起看向这崭新的世界，梅露菈失去的时间，我会一一归还。"
+    },
+    {
+     "title": "关于尤克阿什庭",
+     "text": "在我流浪荒野，翅膀开始变得沉重的时候，尤克阿什庭找到了我，并和我签订了契约。正是从那时起，我有了一个可以称作为「家」的居所供我歇息，但在「工作」完成之前，我也无法离开他们的视线……命运的馈赠与回报总是对等，这是再合理不过的事。"
+    },
+    {
+     "title": "角色突破·Ⅰ",
+     "text": "预言的隐喻，我已领悟。"
+    },
+    {
+     "title": "角色突破·Ⅱ",
+     "text": "命运的赋格，我即奏响。"
+    },
+    {
+     "title": "角色突破·Ⅲ",
+     "text": "星辰的秘密，我皆明了。"
+    },
+    {
+     "title": "收到赠礼·Ⅰ",
+     "text": "珍贵的不止礼物，还有……这份心意。"
+    },
+    {
+     "title": "收到赠礼·Ⅱ",
+     "text": "是我喜欢的……谢谢你，我会好好珍藏……"
+    },
+    {
+     "title": "收到赠礼·Ⅲ",
+     "text": "是……是给我的吗？谢谢。"
+    },
+    {
+     "title": "收到赠礼·IV",
+     "text": "我很喜欢，有心了。"
+    }
+   ],
+   "battle": [
+    {
+     "title": "变轨技能·Ⅰ",
+     "text": "无用。"
+    },
+    {
+     "title": "变轨技能·Ⅱ",
+     "text": "噤声。"
+    },
+    {
+     "title": "变轨技能·Ⅲ",
+     "text": "疾影。"
+    },
+    {
+     "title": "变轨技能·Ⅳ",
+     "text": "无须恐惧……"
+    },
+    {
+     "title": "变轨技能·Ⅴ",
+     "text": "向我祈祷……"
+    },
+    {
+     "title": "变轨技能·Ⅵ",
+     "text": "真是遗憾……"
+    },
+    {
+     "title": "变轨技能·Ⅶ",
+     "text": "在颤抖么？"
+    },
+    {
+     "title": "变轨技能·Ⅷ",
+     "text": "羽落声止。"
+    },
+    {
+     "title": "变轨技能·Ⅸ",
+     "text": "残羽凋零。"
+    },
+    {
+     "title": "变轨技能·Ⅹ",
+     "text": "审判已至。"
+    },
+    {
+     "title": "变轨技能·Ⅺ",
+     "text": "无路可逃。"
+    },
+    {
+     "title": "变轨技能·Ⅻ",
+     "text": "于烈火重生……"
+    },
+    {
+     "title": "极轨终结·Ⅰ",
+     "text": "命运，归于寂灭。"
+    },
+    {
+     "title": "极轨终结·Ⅱ",
+     "text": "聆听灾厄的回声。"
+    },
+    {
+     "title": "极轨终结·Ⅲ",
+     "text": "收下吧，魔女的恩泽。"
+    },
+    {
+     "title": "极轨终结·Ⅳ",
+     "text": "以此死焰，断汝之罪！"
+    },
+    {
+     "title": "极轨终结·V",
+     "text": "此即汝等之终焉……"
+    },
+    {
+     "title": "极轨终结·VI",
+     "text": "死亡，悬于汝之项顶……"
+    },
+    {
+     "title": "收容异象·Ⅰ",
+     "text": "到你该去的地方吧。"
+    },
+    {
+     "title": "收容异象·Ⅱ",
+     "text": "你将坠入无忧的梦……"
+    },
+    {
+     "title": "泯除异象·Ⅰ",
+     "text": "我会为你祈祷。"
+    },
+    {
+     "title": "泯除异象·Ⅱ",
+     "text": "万物有命。"
+    },
+    {
+     "title": "意外收获·Ⅰ",
+     "text": "好兆头。"
+    },
+    {
+     "title": "意外收获·Ⅱ",
+     "text": "额外的收获。"
+    },
+    {
+     "title": "意外收获·Ⅲ",
+     "text": "是好运的证明。"
+    },
+    {
+     "title": "意外收获·Ⅳ",
+     "text": "请收下吧，本就是属于你的。"
+    },
+    {
+     "title": "意外收获·Ⅴ",
+     "text": "不错的东西，你喜欢吗？"
+    },
+    {
+     "title": "意外收获·Ⅵ",
+     "text": "命运赠予的礼物。"
+    },
+    {
+     "title": "生命值低·Ⅰ",
+     "text": "厄运的前兆……"
+    },
+    {
+     "title": "生命值低·Ⅱ",
+     "text": "视线……模模糊糊……"
+    },
+    {
+     "title": "生命值低·Ⅲ",
+     "text": "有些疲惫……"
+    },
+    {
+     "title": "恢复生命·Ⅰ",
+     "text": "呼……"
+    },
+    {
+     "title": "恢复生命·Ⅱ",
+     "text": "好多了。"
+    },
+    {
+     "title": "力竭·Ⅰ",
+     "text": "这就是……我的……命运……"
+    },
+    {
+     "title": "力竭·Ⅱ",
+     "text": "止步……于此了吗……"
+    },
+    {
+     "title": "力竭·Ⅲ",
+     "text": "烈火……吞噬……我……"
+    },
+    {
+     "title": "击败怪物·Ⅰ",
+     "text": "此为命运的审判。"
+    },
+    {
+     "title": "击败怪物·Ⅱ",
+     "text": "自食恶果。"
+    },
+    {
+     "title": "普通受击·Ⅰ",
+     "text": "……不必为我分神。"
+    },
+    {
+     "title": "普通受击·Ⅱ",
+     "text": "无妨。"
+    },
+    {
+     "title": "重受击·Ⅰ",
+     "text": "好痛……"
+    },
+    {
+     "title": "重受击·Ⅱ",
+     "text": "药在哪里……"
+    },
+    {
+     "title": "上阵·Ⅰ",
+     "text": "如果这是你希望的……"
+    },
+    {
+     "title": "上阵·Ⅱ",
+     "text": "等你很久了。"
+    },
+    {
+     "title": "协同技·Ⅰ",
+     "text": "已见分晓。"
+    },
+    {
+     "title": "协同技·Ⅱ",
+     "text": "你悔改罢。"
+    },
+    {
+     "title": "协同技·Ⅲ",
+     "text": "罪无可恕。"
+    },
+    {
+     "title": "协同技·Ⅳ",
+     "text": "偿还汝之遗怨……"
+    },
+    {
+     "title": "协同技·Ⅴ",
+     "text": "宽恕汝之罪孽……"
+    },
+    {
+     "title": "协同技·Ⅵ",
+     "text": "净化汝之魂魄……"
+    },
+    {
+     "title": "滑翔·Ⅰ",
+     "text": "像平常一样。"
+    },
+    {
+     "title": "滑翔·Ⅱ",
+     "text": "熟悉的风……"
+    },
+    {
+     "title": "切换·Ⅰ",
+     "text": "是麻烦事吗？"
+    },
+    {
+     "title": "切换·Ⅱ",
+     "text": "我会为大家祝福……"
+    },
+    {
+     "title": "切换·Ⅲ",
+     "text": "聆听命运的指引。"
+    },
+    {
+     "title": "特殊切换·零",
+     "text": "请歇息，一切交给我就好。"
+    },
+    {
+     "title": "队友倒下·零",
+     "text": "鉴定师……！这也是……命运的意志吗……"
+    },
+    {
+     "title": "弹反·Ⅰ",
+     "text": "时机刚好。"
+    },
+    {
+     "title": "弹反·Ⅱ",
+     "text": "行动被预测了哦。"
+    },
+    {
+     "title": "连续极限闪避成功·Ⅰ",
+     "text": "意料之中。"
+    },
+    {
+     "title": "连续极限闪避成功·Ⅱ",
+     "text": "命运女神的庇佑。"
+    }
+   ]
+  },
+  "ja": {
+   "daily": [
+    {
+     "title": "初対面",
+     "text": "水晶玉の導きと…クロウタドリのさえずり…やっと、あなたと私の運命が、一つに重なりましたわね。"
+    },
+    {
+     "title": "雑談-立ち振る舞い",
+     "text": "「明鏡に万物を映し…汝が求める真理のすべてを見通しましょう」…いかがです？いかにも神秘的で、魔女っぽいでしょう？皆さんのイメージを壊さないように、こっそり練習しましたのよ。"
+    },
+    {
+     "title": "雑談-コレクション",
+     "text": "私、風変わりな骨董品を集めるのが大好きなのです。お店に飾ってあるのは、ほんの一部…とっておきのコレクションは、専用の収蔵庫に隠してありますのよ。ご興味がおありでしたら、今度こっそり見せてさしあげますわね"
+    },
+    {
+     "title": "雑談-外出",
+     "text": "この家は静かですし、お菓子も漫画も…私の好きなものが、ぜーんぶ揃っておりますの…だから、外に出る理由なんてありませんわ…えっ、鑑定士様が一緒に？うぅ…今日は一日中、引きこもる予定でしたのに…"
+    },
+    {
+     "title": "快晴",
+     "text": "今日の日差し、あなたの未来みたいに眩しいですわね。"
+    },
+    {
+     "title": "雨",
+     "text": "この雨が…世界中の悲しみを、ぜんぶ洗い流してくれればいいのに。"
+    },
+    {
+     "title": "寒い",
+     "text": "…寒さは、私たち鳥の天敵ですわ…"
+    },
+    {
+     "title": "灼熱",
+     "text": "うぅ…この暑さ、本当にダメですわ…早く帰りましょう…"
+    },
+    {
+     "title": "朝の挨拶",
+     "text": "おはようございます。今日の運勢、バッチリですわよ。"
+    },
+    {
+     "title": "昼の挨拶",
+     "text": "ラヴィニアが、お昼におうどんを作ってくれましたの。鑑定士様の分もありますわよ。"
+    },
+    {
+     "title": "夕方の挨拶",
+     "text": "満天の夜空…私たち二人の星、探しませんこと？"
+    },
+    {
+     "title": "おやすみ",
+     "text": "すっかり夜も更けて…静かになりましたわね。ホラー映画を観るには最高の時間ですわ…"
+    },
+    {
+     "title": "趣味",
+     "text": "いかに少ない予算で特売品をゲットするか…これはもう、立派な「学問」ですのよ！セールの時間帯、割引率の計算、事前の予算組みまで…もしあなたもご興味おありなら、私の「特売攻略の極意」…伝授しますわよ？"
+    },
+    {
+     "title": "悩み",
+     "text": "お仕事なんかすると…頭がクラクラして、もう人の姿を保つ元気すら…"
+    },
+    {
+     "title": "話題-異常",
+     "text": "占い師は、自分の運命を視ることはできませんの…でも不思議。私、あなたの過去も視えませんのよ。星雲の裏側に隠されたみたいに…輪郭すら掴めない。水晶玉が嘘をついているのかしら？あなたは一体…どんな運命を背負って…ごめんなさい、ちょっと気になってしまって。"
+    },
+    {
+     "title": "話題-「魔女」",
+     "text": "実は私、本物の「魔女」ではありませんの。魔法は使えないし、黒猫も飼ったことありませんし…それどころか、「人間」ですらないのだけれど。でも、もう慣れましたわ。「魔女の家には、魔女が住んでいる」…その方が、皆さんも納得しやすいでしょう？"
+    },
+    {
+     "title": "話題-星空",
+     "text": "星を眺めるのは、お好きで？あの無数の瞬きも、暗闇に隠れた小さな塵でさえ……すべては「運命の暗号」。この世界の生きとし生けるものの行き着く先は…あの空に、とっくに描かれているんですの。"
+    },
+    {
+     "title": "自分について-異象能力",
+     "text": "…不思議なものですわね。他人の運命を視て、オラクルストーンを浄化することはできるのに。自分の運命だけは、深い霧に遮られて何も見えない…強すぎる力への「代償」なのかしら。でも、構いません…自分がなぜ「異象」として生まれたのか…いつか霧が晴れて、その真実に直面したとしても。私は…この運命を受け入れますわ。"
+    },
+    {
+     "title": "自分について-クロウタドリ",
+     "text": "仕事をしたくない時や、こっそり出かけたい時は…よく、あのクロウタドリの姿になるんですの。気楽ですし、目立ちませんし…なにより、可愛らしいでしょう？…ふふっ、この秘密を知っているのは、あなたとラヴィニアだけですわ。今度、目の前を可愛い小鳥が通り過ぎたら…もしかして私かもしれないって、疑ってみてくださいね？"
+    },
+    {
+     "title": "自分について-帽子",
+     "text": "実はこの帽子、私と感覚が繋がっておりますの。ですから、あんまり人に会いたくない日は、この子に伝言役を任せて、私は屋根裏でのんびり…サ、サボりじゃありませんのよ！？屋根裏からでも…ちゃ、ちゃんと真面目に占っています…"
+    },
+    {
+     "title": "ラヴィニアについて",
+     "text": "ラヴィニアは、ユグアッシュ廷からこの「魔女の家」に派遣された職員なのですけれど…でも私にとっては、大切なお友達。それに、お料理の腕はプロ顔負けなんですのよ？どんな食材でも、彼女が作るとほっぺたが落ちるくらい美味しくなりますの…ふふっ。もしかしたら彼女の方こそ、「魔法」が使えるのかもしれませんわね。"
+    },
+    {
+     "title": "潯について",
+     "text": "骨董屋の店主さん…抜け目のない商人かと思ってましたけど、私が適当なコレクションを持っていくだけで…毎回、信じられないような高値で買い取ってくださるんですもの…あんなに気前が良くて、あの方、悪い人に騙されたりしないのかしら？なんだか少し、心配になってしまいますわ。"
+    },
+    {
+     "title": "リンコについて",
+     "text": "リンコは最高の映画友達ですわ。休みの前夜に、朝まで一緒にホラー映画を観たりして…あの子たちが来ると、この静かな家もあっという間に賑やかになりますの。ふふ…あの小さな頭の中には、きっと、数え切れないほどの冒険と奇跡で溢れているのでしょうね。"
+    },
+    {
+     "title": "メイルラについて",
+     "text": "彼女の傍にいると、母の懐に抱かれているような…不思議な安らぎを覚えるのです。何百年もこの世を彷徨ってきたのに、私はずっと、彼女の心を知ろうともしませんでした…メイルラが失ってしまった時間は戻らない。でもこれからは私が、たくさんの美しい景色を見せてあげます。"
+    },
+    {
+     "title": "ユグアッシュ廷について",
+     "text": "行くあてもなく彷徨っていた私に、あのユグアッシュ廷が「契約」という名の家を与えてくれましたの…もっとも、「仕事」が終わるまでは、鳥籠から出ることは許されませんけれど…ふふっ、運命がもたらす恩恵には、それなりの代償が伴う…それもまた、世の理ですわね。"
+    },
+    {
+     "title": "キャラ突破Ⅰ",
+     "text": "予言の暗号…解けましたわ。"
+    },
+    {
+     "title": "キャラ突破Ⅱ",
+     "text": "運命のフーガ…今こそ奏でましょう。"
+    },
+    {
+     "title": "キャラ突破Ⅲ",
+     "text": "星々の秘密……すべて視えましたわ。"
+    },
+    {
+     "title": "届けられたギフトⅠ",
+     "text": "プレゼントはもちろん、あなたの「そのお気持ち」が、何より嬉しいですわ。"
+    },
+    {
+     "title": "届けられたギフトⅡ",
+     "text": "どうして私の好みが分かったのかしら？大切にいたしますわ。"
+    },
+    {
+     "title": "届けられたギフトⅢ",
+     "text": "私にくださるのですか？ふふっ、ありがとうございます。"
+    },
+    {
+     "title": "届けられたギフトⅣ",
+     "text": "とても気に入りましたわ。お心遣い、ありがとうございます。"
+    }
+   ],
+   "battle": [
+    {
+     "title": "バイレールスキルⅠ",
+     "text": "無駄ですわ。"
+    },
+    {
+     "title": "バイレールスキルⅡ",
+     "text": "お黙りなさい。"
+    },
+    {
+     "title": "バイレールスキルⅢ",
+     "text": "疾き影よ。"
+    },
+    {
+     "title": "バイレールスキルⅣ",
+     "text": "恐れることはありませんわ…"
+    },
+    {
+     "title": "バイレールスキルⅤ",
+     "text": "私に祈りを…"
+    },
+    {
+     "title": "バイレールスキルⅥ",
+     "text": "本当に、残念ですわ…"
+    },
+    {
+     "title": "バイレールスキルⅦ",
+     "text": "震えているのかしら？"
+    },
+    {
+     "title": "バイレールスキルⅧ",
+     "text": "羽落ちて、声を絶つ…"
+    },
+    {
+     "title": "バイレールスキルⅨ",
+     "text": "残羽は零れ、朽ち果てる…"
+    },
+    {
+     "title": "バイレールスキルⅩ",
+     "text": "今こそ、審判の時。"
+    },
+    {
+     "title": "バイレールスキルⅪ",
+     "text": "逃げ場はありませんわよ。"
+    },
+    {
+     "title": "バイレールスキルⅫ",
+     "text": "烈火より蘇らん…"
+    },
+    {
+     "title": "EXレール終結Ⅰ",
+     "text": "運命は…寂滅へと帰す。"
+    },
+    {
+     "title": "EXレール終結Ⅱ",
+     "text": "災厄の残響を、聞きなさい。"
+    },
+    {
+     "title": "EXレール終結Ⅲ",
+     "text": "さあ…魔女の恩恵を。"
+    },
+    {
+     "title": "EXレール終結Ⅳ",
+     "text": "下れ…業火の裁き！"
+    },
+    {
+     "title": "EXレール終結Ⅴ",
+     "text": "これぞ、汝らの終焉…"
+    },
+    {
+     "title": "EXレール終結Ⅵ",
+     "text": "死は…汝の首元に。"
+    },
+    {
+     "title": "異象収容Ⅰ",
+     "text": "あなたが往くべき場所へ。"
+    },
+    {
+     "title": "異象収容Ⅱ",
+     "text": "憂いなき夢へ、おやすみなさい…"
+    },
+    {
+     "title": "異象排除Ⅰ",
+     "text": "あなたのために、祈りましょう。"
+    },
+    {
+     "title": "異象排除Ⅱ",
+     "text": "万物に、命あり…"
+    },
+    {
+     "title": "意外な収穫Ⅰ",
+     "text": "…吉兆ですわね。"
+    },
+    {
+     "title": "意外な収穫Ⅱ",
+     "text": "思わぬ収穫ですわ。"
+    },
+    {
+     "title": "意外な収穫Ⅲ",
+     "text": "幸運の証、ですわ。"
+    },
+    {
+     "title": "意外な収穫Ⅳ",
+     "text": "受け取ってください。もともと、あなたのものですわ。"
+    },
+    {
+     "title": "意外な収穫Ⅴ",
+     "text": "良い品ですわね…お気に召して？"
+    },
+    {
+     "title": "意外な収穫Ⅵ",
+     "text": "運命がくれた贈り物よ。"
+    },
+    {
+     "title": "低HPⅠ",
+     "text": "不吉な予兆……"
+    },
+    {
+     "title": "低HPⅡ",
+     "text": "視界が…かすみます…"
+    },
+    {
+     "title": "低HPⅢ",
+     "text": "少し疲れたわ……"
+    },
+    {
+     "title": "HP回復Ⅰ",
+     "text": "ふぅ……"
+    },
+    {
+     "title": "HP回復Ⅱ",
+     "text": "だいぶ良くなったわ。"
+    },
+    {
+     "title": "力尽きⅠ",
+     "text": "これが…私の…運命…"
+    },
+    {
+     "title": "力尽きⅡ",
+     "text": "ここで…終わるのかしら…"
+    },
+    {
+     "title": "力尽きⅢ",
+     "text": "あぁ…炎が、私を…"
+    },
+    {
+     "title": "敵を撃破Ⅰ",
+     "text": "運命の審判ですわ。"
+    },
+    {
+     "title": "敵を撃破Ⅱ",
+     "text": "…自業自得ですわね。"
+    },
+    {
+     "title": "ダメージを受ける（通常）Ⅰ",
+     "text": "どうぞ、お構いなく…"
+    },
+    {
+     "title": "ダメージを受ける（通常）Ⅱ",
+     "text": "平気ですわ。"
+    },
+    {
+     "title": "大打撃Ⅰ",
+     "text": "痛い…"
+    },
+    {
+     "title": "大打撃Ⅱ",
+     "text": "くっ…薬、は…"
+    },
+    {
+     "title": "出撃Ⅰ",
+     "text": "あなたがお望みでしたら……"
+    },
+    {
+     "title": "出撃Ⅱ",
+     "text": "お待ちしておりましたわ。"
+    },
+    {
+     "title": "コンビスキルⅠ",
+     "text": "勝負はつきましたわ。"
+    },
+    {
+     "title": "コンビスキルⅡ",
+     "text": "悔い改めなさい。"
+    },
+    {
+     "title": "コンビスキルⅢ",
+     "text": "赦されざる罪…"
+    },
+    {
+     "title": "コンビスキルⅣ",
+     "text": "身を以て償いなさい！"
+    },
+    {
+     "title": "コンビスキルⅤ",
+     "text": "汝の罪を、赦しましょう…"
+    },
+    {
+     "title": "コンビスキルⅥ",
+     "text": "汝の魂を、浄化しましょう…"
+    },
+    {
+     "title": "滑空Ⅰ",
+     "text": "いつも通りですわね。"
+    },
+    {
+     "title": "滑空Ⅱ",
+     "text": "懐かしい風ですわ。"
+    },
+    {
+     "title": "切替Ⅰ",
+     "text": "何かお困りですか？"
+    },
+    {
+     "title": "切替Ⅱ",
+     "text": "皆さんに、星の祝福を…"
+    },
+    {
+     "title": "切替Ⅲ",
+     "text": "運命の導きに耳を澄ませて。"
+    },
+    {
+     "title": "特殊切替・零",
+     "text": "お休みください。あとは私にお任せを。"
+    },
+    {
+     "title": "仲間気絶・零",
+     "text": "鑑定士様…！これも…運命の意志なのですか…？"
+    },
+    {
+     "title": "パリィⅠ",
+     "text": "良いタイミングですわ。"
+    },
+    {
+     "title": "パリィⅡ",
+     "text": "…すべて視えていますわ。"
+    },
+    {
+     "title": "連続極限回避成功Ⅰ",
+     "text": "…想定内ですわ。"
+    },
+    {
+     "title": "連続極限回避成功Ⅱ",
+     "text": "幸運の女神の、微笑みを。"
+    }
+   ]
+  },
+  "ko": {
+   "daily": [
+    {
+     "title": "첫 만남",
+     "text": "수정 구슬이 인도하고, 검은지빠귀가 부르니… 이곳에 닿아 우리 운명의 실타래가 뒤얽히는 것을 봅니다…"
+    },
+    {
+     "title": "대화·겉모습",
+     "text": "「저는 이 거울을 통해 세상 만물을 볼 수 있죠. 당신이 갈망하는 진리 또한 모조리 꿰뚫어 본답니다」… 어떤가요? 신비로우면서도 위엄 있어 보이죠? 후후, 모두가 생각하는 제 이미지에 어긋나지 않도록 꽤 공들여서 연습했어요."
+    },
+    {
+     "title": "대화·컬렉션",
+     "text": "전 골동품 수집하는 걸 좋아해요. 생김새가 기묘하고 독특할수록 더 마음이 가더라고요… 제 소장품이요? 평소에 보시던 게 전부는 아니랍니다. 물건들을 소중히 보관하려고 컬렉션 룸까지 따로 만들어 뒀거든요. 관심 있으면 나중에 구경시켜 드릴게요."
+    },
+    {
+     "title": "대화·외출",
+     "text": "마녀의 집은 언제나 조용하고 평화로운 데다 과자, 만화책, 수정 구슬처럼 제게 필요한 건 다 갖춰져 있거든요… 애초에 밖으로 나갈 이유가 없는 셈이죠. 어, 감정사님이 함께 나가주신다고요? 으… 방구석 휴식 계획은 수포로 돌아갔네요…"
+    },
+    {
+     "title": "맑은 날",
+     "text": "햇살이 마치 당신의 미래처럼 찬란하네요."
+    },
+    {
+     "title": "비 오는 날",
+     "text": "이 비가 세상의 모든 고통을 씻어내 주길."
+    },
+    {
+     "title": "추운 날",
+     "text": "추운 날씨는 새들의 천적이에요."
+    },
+    {
+     "title": "더운 날",
+     "text": "으음… 전 이런 날씨는 별로예요. 집으로 돌아가요."
+    },
+    {
+     "title": "아침 인사",
+     "text": "좋은 아침이에요. 오늘 운세가 꽤 좋네요."
+    },
+    {
+     "title": "점심 인사",
+     "text": "라이니아가 점심으로 우동을 만들었답니다. 감정사님 것도 있으니까 같이 먹어요."
+    },
+    {
+     "title": "저녁 인사",
+     "text": "밤하늘에 떠 있는 우리 둘만의 별을 찾으러 가볼까요."
+    },
+    {
+     "title": "취침 인사",
+     "text": "한밤중이야말로 공포 영화를 보기에 가장 완벽한 시간이죠…"
+    },
+    {
+     "title": "취미",
+     "text": "최소한의 돈으로 최대한 많은 세일 상품을 사는 법은 심오한 학문과도 같아요! 세일 기간과 할인율, 상품 종류를 파악하는 건 기본이고, 마트에 가기 전 예산까지 철저하게 짜둬야 하거든요… 호, 혹시 관심 있으시면 제 싹쓸이 비법을 전수해 드릴 수도 있는데…"
+    },
+    {
+     "title": "고민",
+     "text": "일만 시작하면 머리가 지끈거려서 사람 모습을 유지하는 것도 벅차네요…"
+    },
+    {
+     "title": "주제·이상",
+     "text": "점술가는 자신의 운명을 예측할 수 없어요. 미래뿐만 아니라 과거도 마찬가지죠. 그런데 신기하게도, 감정사님의 과거 또한 보이지 않네요. 마치 밤하늘 너머에 숨겨진 것처럼 윤곽조차 묘사할 수 없어요… 설마 수정 구슬이 거짓말을 하는 걸까요? 대체 어떤 운명을 짊어지고 계신 거죠? 정말 궁금해지네요… 아, 아닙니다… 아무것도 아니에요."
+    },
+    {
+     "title": "주제·「마녀」",
+     "text": "전 사실 마녀가 아니에요. 이상 능력 말고는 딱히 마법을 쓸 줄도 모르고, 검은 고양이를 키워본 적도 없는 데다… 애초에 인간조차 아니죠. 하지만 다들 절 「마녀」라고 부르는 건 익숙해졌어요. 복잡하게 설명할 필요가 없어서 편할 때도 있고요. 「마녀의 집에는 마녀가 살고 있는 게 당연하다」고 누구나 생각할 테니까요."
+    },
+    {
+     "title": "주제·별이 빛나는 하늘",
+     "text": "세상이 아직 혼돈 속에 머물던 시절부터, 만물이 나아갈 궤적은 밤하늘에 이미 정해져 있었답니다. 우리 눈에 보이거나 볼 수 없는 빛 한 줄기, 반짝임 하나, 심지어 먼지 한 톨조차 난해한 암시로 가득해요. 그 안에 모든 운명의 열쇠가 숨겨져 있죠."
+    },
+    {
+     "title": "자신에 관해·이상 능력",
+     "text": "제 능력은 점술과 신탁석 정화예요. 어떻게 이런 강력한 힘을 얻게 되었는진… 저도 몰라요. 아니, 제가 왜 이 세상에 「존재」하는지조차 이해할 수 없다는 말이 더 정확하겠네요. 수많은 사람의 운명을 점쳐왔지만, 정작 제 운명은 수정 구슬 속 넘실거리는 안개에 가려져 있거든요. 이능력자가 이능력의 대가를 치러야 하듯, 이건 이상인 제가 갖는 능력의 한계일지도 모르죠… 하지만 운명의 진실이 무엇이든 기꺼이 받아들일 생각이에요."
+    },
+    {
+     "title": "자신에 관해·검은지빠귀",
+     "text": "꼭 나가야만 하거나 일하기 싫을 땐 검은지빠귀로 변하곤 해요. 편하고 눈에도 안 띄는 데다… 꽤 귀엽기도 하잖아요? 이건 감정사님과 라이니아만 알고 있는 비밀이니까, 다음에 눈앞으로 새가 날아간다면 혹시 저인지 유심히 한번 살펴봐 주세요."
+    },
+    {
+     "title": "자신에 관해·모자",
+     "text": "이 모자에 제 힘의 일부를 깃들게 해둬서 근처에 없어도 주변 상황을 감지할 수 있답니다. 사람이랑 마주치기 싫을 땐 모자를 대역으로 내보내고 전 다락방에 틀어박혀 있곤 하죠… 이, 이건 절대 게으름 피우는 게 아니에요! 점은 진지하게 봐드리고 있단 말이에요…"
+    },
+    {
+     "title": "라이니아에 관해",
+     "text": "라이니아는 우카슈 홀에서 마녀의 집으로 파견한 요원이에요. 제겐 보호자이자 친구 같은 존재죠. 평소엔 엄격해 보여도 요리 실력만큼은 제가 본 사람 중에 최고예요. 어떤 요리든 라이니아가 만들면 더 맛있어지죠. 음, 어쩌면 음식을 맛있게 만드는 마법이라도 부리는 걸지도 모르겠네요…"
+    },
+    {
+     "title": "호토리에 관해",
+     "text": "주머니 사정이 여의치 않을 때, 소장품 몇 개를 골동품 가게 점장님께 판 적이 있어요. 아주 깐깐한 장사꾼일 줄 알았는데, 의외로 성격이 시원시원하시고 통도 크시더라고요. 매번 제가 다 놀랄 만큼 후한 가격을 쳐주시는데… 저러다 어디 가서 사기당하시는 건 아닐지 걱정될 정도예요."
+    },
+    {
+     "title": "링코에 관해",
+     "text": "링코는 훌륭한 영화 메이트예요. 쉬는 날이면 영화 DVD를 잔뜩 들고 찾아와 밤새도록 공포 영화를 보곤 하죠. 링코랑 사다가 올 때면 마녀의 집도 오랜만에 활기를 띠곤 해요. 그 조그마한 분홍색 머릿속엔 어떤 기발한 생각이 들어 있는지 도통 모르겠다니까요. 후후, 그 아이의 미래는 온갖 모험과 뜻밖의 기적으로 가득할 거예요."
+    },
+    {
+     "title": "메룰라에 관해",
+     "text": "메룰라에게 다가갈수록 여태껏 느껴 본 적 없는 안도감과 친근함이 느껴져요. 마치… 어머니의 품에 안긴 것처럼요. 수백 년간 세상을 떠돌면서 그 마음을 헤아리지 못했으니, 자식 노릇을 제대로 못 한 게 되려나요? 하지만 다행히 늦지 않았어요. 메룰라의 맥박은 여전히 뜨겁게 뛰고 있고, 메룰라의 눈은 저와 함께 새로운 세상을 바라보고 있죠. 메룰라가 잃어버린 시간은 제가 하나하나 전부 되찾아 줄 거예요."
+    },
+    {
+     "title": "우카슈 홀에 관해",
+     "text": "황야를 헤매다 날개가 무거워졌을 무렵, 우카슈 홀이 절 찾아내 계약을 맺어주었죠. 덕분에 제게도 마음 편히 쉴 수 있는 「집」이 생겼지만, 「업무」를 끝내기 전까진 그들의 시선에서 벗어날 수 없게 되었어요… 운명의 선물에는 그에 합당한 대가가 따르는 법이니, 지극히 당연한 일이겠죠."
+    },
+    {
+     "title": "캐릭터 돌파·Ⅰ",
+     "text": "예언에 깃든 암시를 깨달았어요."
+    },
+    {
+     "title": "캐릭터 돌파·Ⅱ",
+     "text": "운명의 푸가를 연주할게요."
+    },
+    {
+     "title": "캐릭터 돌파·Ⅲ",
+     "text": "별들의 비밀을 모조리 간파했어요."
+    },
+    {
+     "title": "선물 수령·Ⅰ",
+     "text": "귀한 건 선물만이 아니에요… 이 마음 또한 소중히 여길게요."
+    },
+    {
+     "title": "선물 수령·Ⅱ",
+     "text": "제가 좋아하는 거네요… 고마워요, 소중히 간직할게요…"
+    },
+    {
+     "title": "선물 수령·Ⅲ",
+     "text": "어… 저한테 주시는 거예요? 감사해요."
+    },
+    {
+     "title": "선물 수령·IV",
+     "text": "마음에 쏙 들어요. 신경 써 주셔서 고마워요."
+    }
+   ],
+   "battle": [
+    {
+     "title": "바이레일 스킬·Ⅰ",
+     "text": "소용없어요."
+    },
+    {
+     "title": "바이레일 스킬·Ⅱ",
+     "text": "쉿, 조용히."
+    },
+    {
+     "title": "바이레일 스킬·Ⅲ",
+     "text": "그림자처럼…"
+    },
+    {
+     "title": "바이레일 스킬·Ⅳ",
+     "text": "두려워 마세요…"
+    },
+    {
+     "title": "바이레일 스킬·Ⅴ",
+     "text": "기도를 올리시죠…"
+    },
+    {
+     "title": "바이레일 스킬·Ⅵ",
+     "text": "애석하군요…"
+    },
+    {
+     "title": "바이레일 스킬·Ⅶ",
+     "text": "떨고 계신가요?"
+    },
+    {
+     "title": "바이레일 스킬·Ⅷ",
+     "text": "깃털과 함께… 숨도 거두어 드리죠."
+    },
+    {
+     "title": "바이레일 스킬·Ⅸ",
+     "text": "남은 깃털마저 스러지네요."
+    },
+    {
+     "title": "바이레일 스킬·Ⅹ",
+     "text": "심판의 시간이 도래했다."
+    },
+    {
+     "title": "바이레일 스킬·Ⅺ",
+     "text": "도망칠 곳은 없다."
+    },
+    {
+     "title": "바이레일 스킬·Ⅻ",
+     "text": "업화 속에서 다시 태어나리…"
+    },
+    {
+     "title": "울티메이트·Ⅰ",
+     "text": "운명이여, 고요한 어둠 속으로."
+    },
+    {
+     "title": "울티메이트·Ⅱ",
+     "text": "재앙의 속삭임을 들어보세요."
+    },
+    {
+     "title": "울티메이트·Ⅲ",
+     "text": "마녀의 은총을 받아들이시죠."
+    },
+    {
+     "title": "울티메이트·Ⅳ",
+     "text": "이 불꽃으로, 그대의 죄를 사하노라!"
+    },
+    {
+     "title": "울티메이트·V",
+     "text": "이것이 그대들의 종말이니…"
+    },
+    {
+     "title": "울티메이트·VI",
+     "text": "죽음이, 그대 머리 위에 드리웠도다…"
+    },
+    {
+     "title": "이상 수용·Ⅰ",
+     "text": "네가 원래 있어야 할 곳으로 돌아가렴."
+    },
+    {
+     "title": "이상 수용·Ⅱ",
+     "text": "이제 근심 없는 꿈속으로 빠져들기를…"
+    },
+    {
+     "title": "이상 제거·Ⅰ",
+     "text": "널 위해 기도할게."
+    },
+    {
+     "title": "이상 제거·Ⅱ",
+     "text": "모든 것엔 정해진 운명이 있는 법."
+    },
+    {
+     "title": "뜻밖의 수확·Ⅰ",
+     "text": "좋은 징조네요."
+    },
+    {
+     "title": "뜻밖의 수확·Ⅱ",
+     "text": "뜻밖의 수확이에요."
+    },
+    {
+     "title": "뜻밖의 수확·Ⅲ",
+     "text": "행운의 증표군요."
+    },
+    {
+     "title": "뜻밖의 수확·Ⅳ",
+     "text": "어서 받으세요. 원래 당신의 것이었으니까요."
+    },
+    {
+     "title": "뜻밖의 수확·Ⅴ",
+     "text": "나쁘지 않은 물건이네요. 마음에 드시나요?"
+    },
+    {
+     "title": "뜻밖의 수확·Ⅵ",
+     "text": "운명이 내려준 선물이에요."
+    },
+    {
+     "title": "HP 낮음·Ⅰ",
+     "text": "불운의 전조가 느껴져요…"
+    },
+    {
+     "title": "HP 낮음·Ⅱ",
+     "text": "눈앞이… 가물거려요…"
+    },
+    {
+     "title": "HP 낮음·Ⅲ",
+     "text": "조금 피곤하네요…"
+    },
+    {
+     "title": "HP 회복·Ⅰ",
+     "text": "후우…"
+    },
+    {
+     "title": "HP 회복·Ⅱ",
+     "text": "한결 나아졌어요."
+    },
+    {
+     "title": "탈진·Ⅰ",
+     "text": "이것이… 저의… 운명인가요…"
+    },
+    {
+     "title": "탈진·Ⅱ",
+     "text": "여기서… 멈추게 되는군요…"
+    },
+    {
+     "title": "탈진·Ⅲ",
+     "text": "불길이… 날… 집어삼켜…"
+    },
+    {
+     "title": "몬스터 처치·Ⅰ",
+     "text": "이건 운명의 심판입니다."
+    },
+    {
+     "title": "몬스터 처치·Ⅱ",
+     "text": "자업자득이에요."
+    },
+    {
+     "title": "일반 피격·Ⅰ",
+     "text": "… 전 신경 쓰지 않으셔도 돼요."
+    },
+    {
+     "title": "일반 피격·Ⅱ",
+     "text": "문제없어요."
+    },
+    {
+     "title": "심각한 피해·Ⅰ",
+     "text": "아파…"
+    },
+    {
+     "title": "심각한 피해·Ⅱ",
+     "text": "약이 어딨지…"
+    },
+    {
+     "title": "출전·Ⅰ",
+     "text": "당신이 바란다면…"
+    },
+    {
+     "title": "출전·Ⅱ",
+     "text": "한참 기다렸어요."
+    },
+    {
+     "title": "협동기·Ⅰ",
+     "text": "끝났네요."
+    },
+    {
+     "title": "협동기·Ⅱ",
+     "text": "죄를 뉘우치시길."
+    },
+    {
+     "title": "협동기·Ⅲ",
+     "text": "용서받지 못할 죄로군요."
+    },
+    {
+     "title": "협동기·Ⅳ",
+     "text": "원한을 씻어내어…"
+    },
+    {
+     "title": "협동기·Ⅴ",
+     "text": "죄를 사하노니…"
+    },
+    {
+     "title": "협동기·Ⅵ",
+     "text": "혼이 정화되리라…"
+    },
+    {
+     "title": "글라이딩·Ⅰ",
+     "text": "평소에 보던 풍경이네요."
+    },
+    {
+     "title": "글라이딩·Ⅱ",
+     "text": "익숙한 바람이에요…"
+    },
+    {
+     "title": "전환·Ⅰ",
+     "text": "귀찮은 일이라도 생겼나요?"
+    },
+    {
+     "title": "전환·Ⅱ",
+     "text": "모두에게 축복이 깃들길…"
+    },
+    {
+     "title": "전환·Ⅲ",
+     "text": "운명의 인도에 귀를 기울이세요."
+    },
+    {
+     "title": "특수 전환·제로",
+     "text": "나머진 저에게 맡기세요."
+    },
+    {
+     "title": "팀원 쓰러짐·제로",
+     "text": "감정사님…! 이것 또한… 운명의 뜻인가요…"
+    },
+    {
+     "title": "패링·Ⅰ",
+     "text": "타이밍이 완벽하네요."
+    },
+    {
+     "title": "패링·Ⅱ",
+     "text": "이미 다 내다봤답니다."
+    },
+    {
+     "title": "연속 극한 회피 성공·Ⅰ",
+     "text": "예상대로군요."
+    },
+    {
+     "title": "연속 극한 회피 성공·Ⅱ",
+     "text": "운명의 여신께서 살피시는군요."
+    }
+   ]
+  },
+  "zh-tw": {
+   "daily": [
+    {
+     "title": "初次見面",
+     "text": "水晶球指引我，烏鶇呼喚我，我來至此地，看到我們命運的絲線纏繞交錯……"
+    },
+    {
+     "title": "閒聊·儀態",
+     "text": "「我視萬物於明鏡，你所希求的真理，我皆能洞察」……看起來是不是既神秘又威嚴？呵呵，為了維持大家心中的形象，我可是下過一番功夫練習呢。"
+    },
+    {
+     "title": "閒聊·收藏",
+     "text": "我很喜歡收集各式各樣的古董，造型越是稀奇古怪，我越是喜歡……我的收藏？可不止你平常見到的那些哦。為了好好保管它們，我專門打造了一間古董收藏室。你若是感興趣，改天來參觀吧。"
+    },
+    {
+     "title": "閒聊·外出",
+     "text": "魔女之家總是安靜又和平，而且這裡有我需要的一切，零食，漫畫書，水晶球……所以我根本沒有出門的理由啦。欸，鑒定師陪我？嗚……宅家計畫失敗……"
+    },
+    {
+     "title": "大晴天",
+     "text": "陽光如同你的未來一般燦爛呢。"
+    },
+    {
+     "title": "雨天",
+     "text": "願雨水洗淨世間的苦痛。"
+    },
+    {
+     "title": "寒冷",
+     "text": "低氣溫是鳥兒的天敵。"
+    },
+    {
+     "title": "炎熱",
+     "text": "唔……我不喜歡現在的天氣，回家吧。"
+    },
+    {
+     "title": "早上問候",
+     "text": "早安，今日運勢不錯。"
+    },
+    {
+     "title": "中午問候",
+     "text": "拉維尼婭中午做了烏龍麵，連帶鑒定師的那份哦。"
+    },
+    {
+     "title": "傍晚問候",
+     "text": "一起去找夜空中屬於我們的兩顆星星吧。"
+    },
+    {
+     "title": "晚安",
+     "text": "夜深人靜之時最適合看恐怖電影了……"
+    },
+    {
+     "title": "愛好",
+     "text": "如何花最少的錢買到最多的打折商品可是一門學問！不僅要提前了解促銷的時間，優惠的力道，以及打折商品的類型，還要在去超市之前規劃好自己的預算……如，如果你也有興趣的話，我可以告訴你我的搶購秘訣……"
+    },
+    {
+     "title": "煩惱",
+     "text": "一工作就腦袋發暈，沒有力氣維持人形了……"
+    },
+    {
+     "title": "話題·異常",
+     "text": "占卜者觀測不了自己的命運，未來如此，過去亦如此。但不可思議的是，我同樣看不到你的過去，它似乎藏匿在星空的另一面，我甚至無法向你描述它的輪廓……難道水晶球也會說謊？你身上到底背負了什麼樣的命運？我很好奇……不，沒什麼……"
+    },
+    {
+     "title": "話題·「魔女」",
+     "text": "我實際上根本不是魔女，除了異象能力之外，我並不會其他的魔法，也沒有養過黑貓，甚至我連人都算不上……不過我早已接受大家用「魔女」稱呼我了，這樣能省去很多麻煩的解釋，「魔女之家裡當然住著魔女小姐」，任誰都會這樣想的吧。"
+    },
+    {
+     "title": "話題·星空",
+     "text": "在一切尚處於混沌之時，萬物發生的軌跡便早已被星空註定。夜幕之上，我們所能見或所不能見的每一縷星光，每一次閃爍，乃至每一粒微塵，都充滿晦澀的隱喻，而眾生命運的謎底便蘊藏其中。"
+    },
+    {
+     "title": "關於自己·異象能力",
+     "text": "我的能力是占卜與淨化諭石，為什麼會擁有如此強大的能力……我無從得知，倒不如說，我連我為什麼會在世上「存在」都無法理解。儘管曾為無數人占卜，我自己的命運卻被水晶球中翻湧的迷霧遮掩。異能者需要為其異能支付代價，而作為異象，這興許只是能力的局限性吧……但無論命運的真相究竟如何，我都欣然接受。"
+    },
+    {
+     "title": "關於自己·烏鶇",
+     "text": "實在需要外出或者不想工作的時候，我就會變成一隻烏鶇，既輕鬆，又不會引人注意，而且還很可愛，不是嗎？這個秘密只有你和拉維尼婭知道，下次若有鳥兒從你面前飛過，可以留意看一下是不是我哦。"
+    },
+    {
+     "title": "關於自己·帽子",
+     "text": "頭上戴的這頂帽子被我賦予了一小部分的力量，就算我不在附近，我也可以通過它感知周圍的情況。不想見人時，我會讓它來充當傳話筒，而我只需要舒舒服服窩在閣樓……這，這當然不算偷懶！我可是有在認真替客人們占卜的……"
+    },
+    {
+     "title": "關於拉維尼婭",
+     "text": "拉維尼婭是尤克阿什庭派駐到魔女之家的專員，對我來說，她既是監護者，也是朋友。別看她平常總是一副嚴肅的樣子，她的廚藝可是我見過最好的。無論什麼樣的料理，經由拉維尼婭之手後總會格外美味，唔，或許她有什麼能讓食物變得美味的魔法也說不定……"
+    },
+    {
+     "title": "關於潯",
+     "text": "有幾次手頭拮据時，我從收藏裡隨便拿了些東西試著賣給那位古董店的店長。本以為會是個精明的生意人，沒想到她竟然意外的很爽快，出手也相當大方，每次都能開出連我都驚訝的價格……這樣會不會有點太容易被騙了？"
+    },
+    {
+     "title": "關於靈可",
+     "text": "小靈可是個優秀的電影咖，在休假日，她偶爾會帶著好些光碟來找我熬夜看恐怖電影，每次她和小貞來，魔女之家就會久違地熱鬧一些。別看她人小，我到現在也猜不透那粉色的小腦袋裡裝著什麼樣的奇思妙想，呵呵，這孩子的將來可是會充滿了各種冒險與意想不到的奇蹟呢。"
+    },
+    {
+     "title": "關於梅露菈",
+     "text": "越是向她靠近，我越是感受到一種從未有過的安心與親切，就好像……回到了母親的懷中。我不是一個合格的孩子，在世間遊蕩了數百年，卻未曾知曉她的心。但好在一切還不晚，她的血與骨依舊滾燙，她的眼睛正與我一起看向這嶄新的世界，梅露菈失去的時間，我會一一歸還。"
+    },
+    {
+     "title": "關於尤克阿什庭",
+     "text": "在我流浪荒野，翅膀開始變得沉重的時候，尤克阿什庭找到了我，並和我簽訂了契約。正是從那時起，我有了一個可以稱作為「家」的居所供我歇息，但在「工作」完成之前，我也無法離開他們的視線……命運的饋贈與回報總是對等，這是再合理不過的事。"
+    },
+    {
+     "title": "角色突破·Ⅰ",
+     "text": "預言的隱喻，我已領悟。"
+    },
+    {
+     "title": "角色突破·Ⅱ",
+     "text": "命運的賦格，我即奏響。"
+    },
+    {
+     "title": "角色突破·Ⅲ",
+     "text": "星辰的秘密，我皆明瞭。"
+    },
+    {
+     "title": "收到贈禮·Ⅰ",
+     "text": "珍貴的不止禮物，還有……這份心意。"
+    },
+    {
+     "title": "收到贈禮·Ⅱ",
+     "text": "是我喜歡的……謝謝你，我會好好珍藏……"
+    },
+    {
+     "title": "收到贈禮·Ⅲ",
+     "text": "是……是給我的嗎？謝謝。"
+    },
+    {
+     "title": "收到贈禮·IV",
+     "text": "我很喜歡，有心了。"
+    }
+   ],
+   "battle": [
+    {
+     "title": "變軌技能·Ⅰ",
+     "text": "無用。"
+    },
+    {
+     "title": "變軌技能·Ⅱ",
+     "text": "噤聲。"
+    },
+    {
+     "title": "變軌技能·Ⅲ",
+     "text": "疾影。"
+    },
+    {
+     "title": "變軌技能·Ⅳ",
+     "text": "無須恐懼……"
+    },
+    {
+     "title": "變軌技能·Ⅴ",
+     "text": "向我祈禱……"
+    },
+    {
+     "title": "變軌技能·Ⅵ",
+     "text": "真是遺憾……"
+    },
+    {
+     "title": "變軌技能·Ⅶ",
+     "text": "在顫抖嗎？"
+    },
+    {
+     "title": "變軌技能·Ⅷ",
+     "text": "羽落聲止。"
+    },
+    {
+     "title": "變軌技能·Ⅸ",
+     "text": "殘羽凋零。"
+    },
+    {
+     "title": "變軌技能·Ⅹ",
+     "text": "審判已至。"
+    },
+    {
+     "title": "變軌技能·Ⅺ",
+     "text": "無路可逃。"
+    },
+    {
+     "title": "變軌技能·Ⅻ",
+     "text": "於烈火重生……"
+    },
+    {
+     "title": "極軌終結·Ⅰ",
+     "text": "命運，歸於寂滅。"
+    },
+    {
+     "title": "極軌終結·Ⅱ",
+     "text": "聆聽災厄的回聲。"
+    },
+    {
+     "title": "極軌終結·Ⅲ",
+     "text": "收下吧，魔女的恩澤。"
+    },
+    {
+     "title": "極軌終結·Ⅳ",
+     "text": "以此死焰，斷汝之罪！"
+    },
+    {
+     "title": "極軌終結·V",
+     "text": "此即汝等之終焉……"
+    },
+    {
+     "title": "極軌終結·VI",
+     "text": "死亡，懸於汝之項頂……"
+    },
+    {
+     "title": "收容異象·Ⅰ",
+     "text": "到你該去的地方吧。"
+    },
+    {
+     "title": "收容異象·Ⅱ",
+     "text": "你將墜入無憂的夢……"
+    },
+    {
+     "title": "泯除異象·Ⅰ",
+     "text": "我會為你祈禱。"
+    },
+    {
+     "title": "泯除異象·Ⅱ",
+     "text": "萬物有命。"
+    },
+    {
+     "title": "意外收穫·Ⅰ",
+     "text": "好兆頭。"
+    },
+    {
+     "title": "意外收穫·Ⅱ",
+     "text": "額外的收穫。"
+    },
+    {
+     "title": "意外收穫·Ⅲ",
+     "text": "是好運的證明。"
+    },
+    {
+     "title": "意外收穫·Ⅳ",
+     "text": "請收下吧，本就是屬於你的。"
+    },
+    {
+     "title": "意外收穫·Ⅴ",
+     "text": "不錯的東西，你喜歡嗎？"
+    },
+    {
+     "title": "意外收穫·Ⅵ",
+     "text": "命運贈予的禮物。"
+    },
+    {
+     "title": "生命值低·Ⅰ",
+     "text": "厄運的前兆……"
+    },
+    {
+     "title": "生命值低·Ⅱ",
+     "text": "視線……模模糊糊……"
+    },
+    {
+     "title": "生命值低·Ⅲ",
+     "text": "有些疲憊……"
+    },
+    {
+     "title": "恢復生命·Ⅰ",
+     "text": "呼……"
+    },
+    {
+     "title": "恢復生命·Ⅱ",
+     "text": "好多了。"
+    },
+    {
+     "title": "力竭·Ⅰ",
+     "text": "這就是……我的……命運……"
+    },
+    {
+     "title": "力竭·Ⅱ",
+     "text": "止步……於此了嗎……"
+    },
+    {
+     "title": "力竭·Ⅲ",
+     "text": "烈火……吞噬……我……"
+    },
+    {
+     "title": "擊敗怪物·Ⅰ",
+     "text": "此為命運的審判。"
+    },
+    {
+     "title": "擊敗怪物·Ⅱ",
+     "text": "自食惡果。"
+    },
+    {
+     "title": "普通受擊·Ⅰ",
+     "text": "……不必為我分神。"
+    },
+    {
+     "title": "普通受擊·Ⅱ",
+     "text": "沒關係。"
+    },
+    {
+     "title": "重受擊·Ⅰ",
+     "text": "好痛……"
+    },
+    {
+     "title": "重受擊·Ⅱ",
+     "text": "藥在哪裡……"
+    },
+    {
+     "title": "上陣·Ⅰ",
+     "text": "如果這是你希望的……"
+    },
+    {
+     "title": "上陣·Ⅱ",
+     "text": "等你很久了。"
+    },
+    {
+     "title": "協同技·Ⅰ",
+     "text": "已見分曉。"
+    },
+    {
+     "title": "協同技·Ⅱ",
+     "text": "你悔改罷。"
+    },
+    {
+     "title": "協同技·Ⅲ",
+     "text": "罪無可恕。"
+    },
+    {
+     "title": "協同技·Ⅳ",
+     "text": "償還汝之遺怨……"
+    },
+    {
+     "title": "協同技·Ⅴ",
+     "text": "寬恕汝之罪孽……"
+    },
+    {
+     "title": "協同技·Ⅵ",
+     "text": "淨化汝之魂魄……"
+    },
+    {
+     "title": "滑翔·Ⅰ",
+     "text": "像平常一樣。"
+    },
+    {
+     "title": "滑翔·Ⅱ",
+     "text": "熟悉的風……"
+    },
+    {
+     "title": "切換·Ⅰ",
+     "text": "是麻煩事嗎？"
+    },
+    {
+     "title": "切換·Ⅱ",
+     "text": "我會為大家祝福……"
+    },
+    {
+     "title": "切換·Ⅲ",
+     "text": "聆聽命運的指引。"
+    },
+    {
+     "title": "特殊切換·零",
+     "text": "請休息，一切交給我就好。"
+    },
+    {
+     "title": "隊友倒下·零",
+     "text": "鑒定師……！這也是……命運的意志嗎……"
+    },
+    {
+     "title": "彈反·Ⅰ",
+     "text": "時機剛好。"
+    },
+    {
+     "title": "彈反·Ⅱ",
+     "text": "行動被預測了哦。"
+    },
+    {
+     "title": "連續極限閃避成功·Ⅰ",
+     "text": "意料之中。"
+    },
+    {
+     "title": "連續極限閃避成功·Ⅱ",
+     "text": "命運女神的庇佑。"
+    }
+   ]
+  }
+ }
+}

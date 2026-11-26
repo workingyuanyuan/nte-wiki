@@ -54,6 +54,7 @@ sources:
 | 身分 | 住在幽暗林中的「魔女之家」，當地人稱她為「魔女」 |
 | 配音員 | 中文：井琉；英文：Xanthe Huynh；日文：能登麻美子；韓文：문유정 |
 | 個人檔案 | [黑羽個人檔案](/zh-tw/characters/blackbird/archive/) |
+| 語音 | [黑羽語音](/zh-tw/characters/blackbird/voice/) |
 
 ## 取得方式
 

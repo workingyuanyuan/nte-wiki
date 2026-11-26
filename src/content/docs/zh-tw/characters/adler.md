@@ -46,6 +46,7 @@ sources:
 | 加入版本 | 1.0 版 |
 | 配音員 | 中文：王宇航；英文：Jacob Craner；日文：森川智之；韓文：심규혁 |
 | 個人檔案 | [阿德勒個人檔案](/zh-tw/characters/adler/archive/) |
+| 語音 | [阿德勒語音](/zh-tw/characters/adler/voice/) |
 
 ## 取得方式
 

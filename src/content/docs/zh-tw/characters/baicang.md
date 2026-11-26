@@ -60,6 +60,7 @@ sources:
 | 身分 | 異象管理局 E.T.D 四隊隊長 |
 | 配音員 | 中文：桑毓澤；英文：Griffin Burns；日文：中村悠一；韓文：심규혁 |
 | 個人檔案 | [白藏個人檔案](/zh-tw/characters/baicang/archive/) |
+| 語音 | [白藏語音](/zh-tw/characters/baicang/voice/) |
 
 ## 取得方式
 

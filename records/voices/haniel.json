@@ -1,0 +1,1707 @@
+{
+ "slug": "haniel",
+ "id": "1020",
+ "version": "1.5.4",
+ "sources": {
+  "en": "https://static.nanoka.cc/nte/1.5.4/en/character/1020.json",
+  "zh-cn": "https://static.nanoka.cc/nte/1.5.4/zh/character/1020.json",
+  "ja": "https://static.nanoka.cc/nte/1.5.4/ja/character/1020.json",
+  "ko": "https://static.nanoka.cc/nte/1.5.4/ko/character/1020.json",
+  "zh-tw": "https://everness.info/zh-Hant/espers/1020"
+ },
+ "reads": {
+  "zh-tw": "2026-11-25"
+ },
+ "lines": {
+  "en": {
+   "daily": [
+    {
+     "title": "First Meet",
+     "text": "Hey there! I'm Haniel Cresswell, but you can just call me Haniel. If you need anything, shout my name! I swear on the name of \"E.A.R\"—if it's your voice, I'll always hear it!"
+    },
+    {
+     "title": "Chat: Limited Sales",
+     "text": "Alarm—check! Wi-Fi—check! This time I'm definitely getting that limited drop!"
+    },
+    {
+     "title": "Chat: Spells",
+     "text": "Hahuie! Shulahula! Supercharged Shockwave Ultra Blaster—by the name of Haniel, I summon you!"
+    },
+    {
+     "title": "Chat: Cat Food",
+     "text": "Gotta bring some new flavors of cat food when I visit the kittens this weekend."
+    },
+    {
+     "title": "Sunny",
+     "text": "Such a nice sunny day. Perfect for a nap… or just about anything."
+    },
+    {
+     "title": "Rainy",
+     "text": "How about some chill beats? Ugh, hope the headphones don't short again."
+    },
+    {
+     "title": "Cold",
+     "text": "It's freezing! Time for hotpot! Extra spicy, of course!"
+    },
+    {
+     "title": "Hot",
+     "text": "Calm, calm, calm… Phew… Haniel's 72nd attempt at meditation… failed."
+    },
+    {
+     "title": "Morning Greeting",
+     "text": "Good morning! A brand new day starts now!"
+    },
+    {
+     "title": "Noon Greeting",
+     "text": "Afternoon! Got lunch plans? Want a rec?"
+    },
+    {
+     "title": "Evening Greeting",
+     "text": "Evening! I'm heading out for a stroll. Wanna come?"
+    },
+    {
+     "title": "Good Night",
+     "text": "Late night's the best time to catch up on anime. Don't worry, just one episode before bed! Probably…"
+    },
+    {
+     "title": "Hobbies",
+     "text": "My goal? Collect every limited-edition collab headset! The new ones I can snag at launch, but for vintage ones, it's all about patience. Sure, even the best-kept old headsets can't beat cheap modern ones in sound quality—but classic OSTs deserve that analog crackle. I'll show you my collection sometime."
+    },
+    {
+     "title": "Worries",
+     "text": "Big worries? Not really. Small ones? Tough homework, noisy Illica, vague delivery addresses, picky customers… nothing a good meal and sleep can't fix. Haniel's always back at full power the next day!"
+    },
+    {
+     "title": "Topic: Anomalies",
+     "text": "The elders said there was a time when humans, Espers, and anomalies were always at odds. But by the time I was born, anomalies felt more like family—pets, even. Sure, not everything's perfect, but most anomalies are super cute!"
+    },
+    {
+     "title": "Topic: Manners",
+     "text": "Knives on the left, forks on the right, and no slurping your soup? If you can't enjoy food freely, what's the point? Like spicy sticks—put 'em on a gilded plate with violin music… still won't beat eating 'em straight from the bag."
+    },
+    {
+     "title": "Topic: Fellow Enthusiasts",
+     "text": "It's wild how people connect—just sharing love for a character can make two strangers close friends. There are things I can't even tell my real-life friends that I'll share with someone online in a heartbeat. I've got one really special online friend… I hope we meet offline someday."
+    },
+    {
+     "title": "About Myself: Vest",
+     "text": "The worst thing about following a series? Hiatus notices. You want to lock the author in a room till they finish! But then when it's my turn to write… heh. That's what alt accounts are for! I'm not skipping updates—I'm… looking for inspiration!"
+    },
+    {
+     "title": "About Myself: Esper Abilities",
+     "text": "I used to envy Espers. Like the heroes in anime—chosen ones, saving the world. But when it was my turn, I realized: I don't want to be the protagonist. I want the power to protect others. If I'd been a little stronger back then… maybe it would've survived like the other kittens. But I'm not telling you this to make you sad. Let's go visit together sometime. It's a really pretty place."
+    },
+    {
+     "title": "About Myself: Freedom",
+     "text": "\"Some birds are meant for cages—their feathers fluff up from fine feed and water. But some birds can't be caged. Their wings only shine in the open sky.\" Me? I want a warm home and freedom. Maybe that's greedy, but I'm happy with my life."
+    },
+    {
+     "title": "About Jiuyuan",
+     "text": "Working at Sterry Express doesn't get in the way of school, pays well, and comes with a world-saving mission! Jiuyuan's also super generous with bonuses—what's not to love? I, Haniel, will become Sterry's top courier! If only Jiuyuan wouldn't get so mad—stress causes wrinkles, y'know… cough."
+    },
+    {
+     "title": "About Jenson",
+     "text": "The first time I met Jenson, I thought—\"Wow, this guy is so cool!\" Like a dependable anime adult! Ask him anything, he's got an answer! No way he's just a normal shopkeep—bet he's hiding some secret identity. That's how it goes in shows!"
+    },
+    {
+     "title": "About Illica",
+     "text": "Ugh, that noisy Silly! If I'd known we'd reunite at Sterry, I wouldn't have written so much in his yearbook… But hey, he wrote a bunch in mine too. Even gave me a headset I'd wanted for ages as a grad gift. So… I'll let it slide."
+    },
+    {
+     "title": "About Hathor",
+     "text": "I really wanna try Hathor's motorcycle. Must feel amazing to ride! People say she seems cold—but that's only 'cause they don't know her. With me around, even Esper Ability blowups are no big deal! Go Haniel! No fear!"
+    },
+    {
+     "title": "About Sterry Express",
+     "text": "I saved Hathor when her Esper powers backfired. Jiuyuan brought me into Sterry after that. Then I met Jenson, and Illica showed up again… It's like the start of \"The Haniel Chronicles\"… no, wait, maybe \"Courier X Stelry\"? \"Masked Courier\"? We'll work on it."
+    },
+    {
+     "title": "About Eibon Antique Shop",
+     "text": "Hidden relic shop on a shady street vs. undercover express company in plain sight—this arc needs a movie adaptation!"
+    },
+    {
+     "title": "Character Ascension I",
+     "text": "So THIS is… power?"
+    },
+    {
+     "title": "Character Ascension II",
+     "text": "Ready to save the world?"
+    },
+    {
+     "title": "Character Ascension III",
+     "text": "My feathers look nicer now!"
+    },
+    {
+     "title": "Gift Received I",
+     "text": "Psst, do you hear that…? Haniel's affection, up, up, up!"
+    },
+    {
+     "title": "Gift Received II",
+     "text": "Wow, how did you know I liked this? Can you appraise preferences too? So cool!"
+    },
+    {
+     "title": "Gift Received III",
+     "text": "Is this for me? Thanks, thanks, thanks, thanks, thanks!"
+    },
+    {
+     "title": "Gift Received IV",
+     "text": "Next time when I get a request from Eibon, I'll mark it urgent for free!"
+    }
+   ],
+   "battle": [
+    {
+     "title": "Redirect Skill I",
+     "text": "Whoots wave!"
+    },
+    {
+     "title": "Redirect Skill II",
+     "text": "How about some variation?"
+    },
+    {
+     "title": "Redirect Skill III",
+     "text": "Don't be such a bore!"
+    },
+    {
+     "title": "Ultimate I",
+     "text": "My turn!"
+    },
+    {
+     "title": "Ultimate II",
+     "text": "Now it's my time to shine!"
+    },
+    {
+     "title": "Ultimate III",
+     "text": "Leave the accompaniment to me!"
+    },
+    {
+     "title": "Containment I",
+     "text": "Punch out! Another job smoothly… uhh… smoothly done!"
+    },
+    {
+     "title": "Containment II",
+     "text": "No worries! My packing skills are top-notch… Whoa… uhhh… whew, it's fine, nothing's wrong."
+    },
+    {
+     "title": "Nullification I",
+     "text": "Remember to give a five-star review!"
+    },
+    {
+     "title": "Nullification II",
+     "text": "That's a wrap!"
+    },
+    {
+     "title": "Unexpected Gains I",
+     "text": "This doesn't need to be signed for, right?"
+    },
+    {
+     "title": "Unexpected Gains II",
+     "text": "Oh? A hidden reward?"
+    },
+    {
+     "title": "Unexpected Gains III",
+     "text": "Can this luck carry over to my next gacha pull?"
+    },
+    {
+     "title": "Unexpected Gains IV",
+     "text": "Let's see what goodies we've got!"
+    },
+    {
+     "title": "Unexpected Gains V",
+     "text": "Mmm! This deserves a celebratory Bagel post!"
+    },
+    {
+     "title": "Unexpected Gains VI",
+     "text": "I knew I'd be lucky today!"
+    },
+    {
+     "title": "Low Health I",
+     "text": "I'm so tired…"
+    },
+    {
+     "title": "Low Health II",
+     "text": "Battery running low…"
+    },
+    {
+     "title": "Low Health III",
+     "text": "Need a supply drop ASAP!"
+    },
+    {
+     "title": "Heal I",
+     "text": "Perfect condition!"
+    },
+    {
+     "title": "Heal II",
+     "text": "The invincible Haniel is back!"
+    },
+    {
+     "title": "Down I",
+     "text": "It's not supposed to end like this…"
+    },
+    {
+     "title": "Down II",
+     "text": "Can I get a New Game Plus…"
+    },
+    {
+     "title": "Down III",
+     "text": "Sorry, it's up to y'all now…"
+    },
+    {
+     "title": "Takedown I",
+     "text": "Piece of cake!"
+    },
+    {
+     "title": "Takedown II",
+     "text": "Behold the power of the ace!"
+    },
+    {
+     "title": "Damaged I",
+     "text": "Ouch!"
+    },
+    {
+     "title": "Damaged II",
+     "text": "Minor slip-up!"
+    },
+    {
+     "title": "Heavily Damaged I",
+     "text": "That hurts!"
+    },
+    {
+     "title": "Heavily Damaged II",
+     "text": "The package isn't damaged, is it?"
+    },
+    {
+     "title": "Deploy I",
+     "text": "It's expensive to hire an Elite Courier, you know!"
+    },
+    {
+     "title": "Deploy II",
+     "text": "I hear someone yearning for Haniel!"
+    },
+    {
+     "title": "Entry Attack I",
+     "text": "Perfect throw!"
+    },
+    {
+     "title": "Entry Attack II",
+     "text": "Where are you looking at?"
+    },
+    {
+     "title": "Entry Attack III",
+     "text": "Strike three, you're out!"
+    },
+    {
+     "title": "Glide I",
+     "text": "Whoosh! Hyah! Rise!"
+    },
+    {
+     "title": "Glide II",
+     "text": "Get ready! Time for a stunning entrance!"
+    },
+    {
+     "title": "Switch I",
+     "text": "Ready to save the day!"
+    },
+    {
+     "title": "Switch II",
+     "text": "Time to switch up the beat!"
+    },
+    {
+     "title": "Switch III",
+     "text": "I heard your calling!"
+    },
+    {
+     "title": "Special Switch - Jiuyuan",
+     "text": "Jiuyuan! Leave it to me!"
+    },
+    {
+     "title": "Special Switch - Hathor",
+     "text": "Hathor! Time for my shift!"
+    },
+    {
+     "title": "Special Switch - Nanally",
+     "text": "Let's rock! Roaring Tiger!"
+    },
+    {
+     "title": "Teammate Down - Jiuyuan",
+     "text": "How dare you bully Jiuyuan!"
+    },
+    {
+     "title": "Teammate Down - Hathor",
+     "text": "Hathor! Don't try to tough it out alone!"
+    },
+    {
+     "title": "Teammate Down - Nanally",
+     "text": "We can't fall at a time like this!"
+    },
+    {
+     "title": "Parry I",
+     "text": "Rhythm games are my specialty!"
+    },
+    {
+     "title": "Parry II",
+     "text": "Catch the beat!"
+    },
+    {
+     "title": "Consecutive Critical Dodge Success I",
+     "text": "Hehe, I maxed out my dodge stat!"
+    },
+    {
+     "title": "Consecutive Critical Dodge Success II",
+     "text": "Uh-uh, too slow!"
+    }
+   ]
+  },
+  "zh-cn": {
+   "daily": [
+    {
+     "title": "初次见面",
+     "text": "你好呀，我是哈尼娅·克雷斯维尔，叫我哈尼娅就好。有什么需要就喊我的名字吧，我以「动感小耳朵」的名字起誓，只要是你的呼唤，我绝对会听到的！"
+    },
+    {
+     "title": "闲聊·限定贩售",
+     "text": "闹钟，确定！网速，确定！这次绝对能抢到限量版！"
+    },
+    {
+     "title": "闲聊·咒语",
+     "text": "哈呼以！修拉呼啦！人间完全放电、激爆冲击波的极嗨发射器，吾以哈尼娅之名命令你，现！"
+    },
+    {
+     "title": "闲聊·猫罐头",
+     "text": "周末看望小猫们的时候，带上些新口味的猫罐头吧。"
+    },
+    {
+     "title": "大晴天",
+     "text": "太阳真好啊，无论是睡大觉还是做什么都很适合。"
+    },
+    {
+     "title": "雨天",
+     "text": "来一首舒缓的音乐如何？……唔，希望耳机不要进水。"
+    },
+    {
+     "title": "寒冷",
+     "text": "好冷好冷好冷这个时候最适合吃火锅了吧！要超级加倍辣！"
+    },
+    {
+     "title": "炎热",
+     "text": "静心，静心，静心……呼，哈尼娅第七十二次静心修行失败。"
+    },
+    {
+     "title": "早上问候",
+     "text": "早上好，新的一天开始了！"
+    },
+    {
+     "title": "中午问候",
+     "text": "中午好，想好午餐吃什么了吗？要不要听听我的推荐？"
+    },
+    {
+     "title": "傍晚问候",
+     "text": "晚上好，我正打算出去散步，要一起吗？"
+    },
+    {
+     "title": "晚安",
+     "text": "深夜是最适合补番的了，放心不会很晚的，看完这集就睡！大概……"
+    },
+    {
+     "title": "爱好",
+     "text": "目标是集齐所有的联名款耳机！新款倒是可以零点秒杀，一些古早款只能在二手市场慢慢蹲守了。从音质上来说，就算是用心保养的老式耳机也比不上便宜很多的新款，但是古早OST就应该用古早耳机听嘛，混杂着底噪的音乐也很有味道呢，有空的话，给你看看我的收藏。"
+    },
+    {
+     "title": "烦恼",
+     "text": "烦恼……好像说不上有什么大烦恼，小烦恼的话，很难写的作业，吵吵的伊里卡，送货时模糊的地址和吹毛求疵的客人……其实都算不上什么啦，吃一顿饱饱的晚饭再睡个好觉，第二天的哈尼娅就满血复活了！"
+    },
+    {
+     "title": "话题·异象",
+     "text": "听老人家说，很早的时候人类和异象还有异能者之间的关系很不稳定，经常会发生冲突……不过等到我出生的时候，异象就像是家人，宠物，帮手，虽然有时候还是避免不了矛盾，但是绝大多数异象都是很可爱的！"
+    },
+    {
+     "title": "话题·礼仪",
+     "text": "刀子和叉子不能换着拿，喝汤不能发出声音，如果连享受美食都要规规矩矩的话那也太痛苦了吧！就像辣条这种食物，放在鎏金瓷盘中，配上刀叉和小提琴……也不会比拿在手里吃更香。"
+    },
+    {
+     "title": "话题·同好",
+     "text": "人和人之间的交往真的很奇妙呢，只是出于对同一个角色的喜爱，很快就可以变成无话不谈的好朋友，一些无法对现实中的亲人朋友说出的话，却可以很轻松地对着网络上的同好们袒露。我也有一位很好很好的朋友，不知道有没有机会在线下见面，真期待啊。"
+    },
+    {
+     "title": "关于自己·马甲",
+     "text": "追连载最大的痛苦就是看到休刊通知了，恨不得把作者关进小黑屋里一直写到完结，但是轮到自己就……嘿嘿，马甲的存在就是在不想更新的日子里大口吃粮，而且不是不想更新，我这是在找灵感！"
+    },
+    {
+     "title": "关于自己·异能",
+     "text": "小时候我很羡慕异能者，就像动漫里主角总是身负奇遇拯救世界，但真的轮到我的那一刻我才明白，比起成为主角，我更想要的是能够守护大家的能力，如果当时我再厉害一点，或许它现在就能和别的小猫一样健康长大了吧……我说这些可不是为了让你难过的。有空的时候我们一起去看看它吧，那是一个风景很不错的地方呢。"
+    },
+    {
+     "title": "关于自己·自由",
+     "text": "「有些鸟儿适合在笼中生活，精致的食水会让他们的羽毛更加蓬松美丽，但有些鸟儿是关不住的，他们的羽翼只会在自由的天空下闪耀。」对我来说，我想要温暖的家，也想要自由飞翔，虽然听起来有点贪心，但是我很满意现在的生活。"
+    },
+    {
+     "title": "关于九原",
+     "text": "斯特利速递的工作既不耽误上课，还有金钱的召唤和拯救世界的使命！九原姐发工资也超级大方，太快乐了！为了不辜负九原姐的信赖，我，哈尼娅，绝对会成为斯特利速递最棒的快递员！就是希望九原姐少生气，生气很容易长皱纹什么的……咳咳。"
+    },
+    {
+     "title": "关于简森",
+     "text": "第一次见到简森哥的时候，我觉得他超——酷——！就像番剧中的靠谱成年人，无论我有什么问题，他全都答得上来！我觉得简森哥一定还有什么特殊身份，绝对不只是一个普普通通的送货店老板，嗯，番剧中都是这么写的。"
+    },
+    {
+     "title": "关于伊里卡",
+     "text": "吵吵的呆头鸟！……早知道会在斯特利速递又见到他，毕业的时候就不应该在同学录上写那么多字了。不过他当时也给我写了很多离别留言，还特地送了我想要很久的耳机作为毕业礼物，看着这些份上，暂时就不跟他计较了。"
+    },
+    {
+     "title": "关于哈索尔",
+     "text": "我好想试试哈索尔的摩托车，开起来一定很爽吧！嗯……虽然很多客人都说哈索尔看起来冷冰冰的，只是因为他们没有和哈索尔相处过。而且只要有我在，异能失控什么的全都是小问题！勇敢哈尼娅，不怕困难！"
+    },
+    {
+     "title": "关于斯特利速递",
+     "text": "因为救下了被异能反噬的哈索尔，被九原姐引荐进入了斯特利速递，认识了老板简森哥，然后又跟伊里卡重逢……这一切，简直可以拍一部「哈尼娅传奇」了……不对不对「斯特利群侠传」或者「假面快递员」怎么样？"
+    },
+    {
+     "title": "关于伊波恩古董店",
+     "text": "隐秘在落魄街道的神秘古董店VS藏匿于人群之中普通却并不普通的快递公司，这一集绝对值得一个剧场版！"
+    },
+    {
+     "title": "角色突破·Ⅰ",
+     "text": "这就是……力量吗？"
+    },
+    {
+     "title": "角色突破·Ⅱ",
+     "text": "准备好拯救世界了吗？"
+    },
+    {
+     "title": "角色突破·Ⅲ",
+     "text": "羽毛变得更好看了！"
+    },
+    {
+     "title": "收到赠礼·Ⅰ",
+     "text": "嘘快听……听见到了吗？哈尼娅好感度加一加一加一！"
+    },
+    {
+     "title": "收到赠礼·Ⅱ",
+     "text": "哇！你怎么知道我喜欢这个！难道鉴定师还能鉴别喜好吗？好酷！"
+    },
+    {
+     "title": "收到赠礼·Ⅲ",
+     "text": "给我的吗？给我的吗！谢谢谢谢谢谢谢谢！"
+    },
+    {
+     "title": "收到赠礼·IV",
+     "text": "下次接到伊波恩的单子我偷偷给你加急！"
+    }
+   ],
+   "battle": [
+    {
+     "title": "变轨技能·Ⅰ",
+     "text": "猫头音冲击波！"
+    },
+    {
+     "title": "变轨技能·Ⅱ",
+     "text": "来点变奏？"
+    },
+    {
+     "title": "变轨技能·Ⅲ",
+     "text": "别那么无趣嘛！"
+    },
+    {
+     "title": "极轨终结·Ⅰ",
+     "text": "该听我的音乐了！"
+    },
+    {
+     "title": "极轨终结·Ⅱ",
+     "text": "接下来是我的主场！"
+    },
+    {
+     "title": "极轨终结·Ⅲ",
+     "text": "伴奏就交给我吧！"
+    },
+    {
+     "title": "收容异象·Ⅰ",
+     "text": "打卡！今日份的工作也……呃……顺利完成。"
+    },
+    {
+     "title": "收容异象·Ⅱ",
+     "text": "放心，我的打包技术一流……呜呃……没事没事。"
+    },
+    {
+     "title": "泯除异象·Ⅰ",
+     "text": "记得五星好评哟。"
+    },
+    {
+     "title": "泯除异象·Ⅱ",
+     "text": "收工收工。"
+    },
+    {
+     "title": "意外收获·Ⅰ",
+     "text": "这个就不用签收了吧？"
+    },
+    {
+     "title": "意外收获·Ⅱ",
+     "text": "哦？是隐藏奖励吗？"
+    },
+    {
+     "title": "意外收获·Ⅲ",
+     "text": "这样的好运可以延续到下次抽赏吗？"
+    },
+    {
+     "title": "意外收获·Ⅳ",
+     "text": "快看看有什么好东西？"
+    },
+    {
+     "title": "意外收获·Ⅴ",
+     "text": "唔~值得发条呗果庆祝一下。"
+    },
+    {
+     "title": "意外收获·Ⅵ",
+     "text": "我就知道今天运气不错！"
+    },
+    {
+     "title": "生命值低·Ⅰ",
+     "text": "好累啊……"
+    },
+    {
+     "title": "生命值低·Ⅱ",
+     "text": "电量不足……"
+    },
+    {
+     "title": "生命值低·Ⅲ",
+     "text": "急需补给点！"
+    },
+    {
+     "title": "恢复生命·Ⅰ",
+     "text": "状态满分！"
+    },
+    {
+     "title": "恢复生命·Ⅱ",
+     "text": "无敌的哈尼娅又回来了！"
+    },
+    {
+     "title": "力竭·Ⅰ",
+     "text": "结局不该是这样……"
+    },
+    {
+     "title": "力竭·Ⅱ",
+     "text": "能申请二周目吗……"
+    },
+    {
+     "title": "力竭·Ⅲ",
+     "text": "对不起，靠你们了……"
+    },
+    {
+     "title": "击败怪物·Ⅰ",
+     "text": "轻轻松松嘛。"
+    },
+    {
+     "title": "击败怪物·Ⅱ",
+     "text": "这就是王牌的实力。"
+    },
+    {
+     "title": "普通受击·Ⅰ",
+     "text": "哎呦。"
+    },
+    {
+     "title": "普通受击·Ⅱ",
+     "text": "小失误。"
+    },
+    {
+     "title": "重受击·Ⅰ",
+     "text": "好痛。"
+    },
+    {
+     "title": "重受击·Ⅱ",
+     "text": "快递没坏吧？"
+    },
+    {
+     "title": "上阵·Ⅰ",
+     "text": "精英快递员的出场费可不低哦。"
+    },
+    {
+     "title": "上阵·Ⅱ",
+     "text": "我听到了有人在呼唤「哈尼娅」之名。"
+    },
+    {
+     "title": "协同技·Ⅰ",
+     "text": "满分投掷！"
+    },
+    {
+     "title": "协同技·Ⅱ",
+     "text": "你在看哪？"
+    },
+    {
+     "title": "协同技·Ⅲ",
+     "text": "三振出局！"
+    },
+    {
+     "title": "滑翔·Ⅰ",
+     "text": "呜呼！呼哈！风起！"
+    },
+    {
+     "title": "滑翔·Ⅱ",
+     "text": "准备准备！要一个帅气的落地！"
+    },
+    {
+     "title": "切换·Ⅰ",
+     "text": "主角救场时间！"
+    },
+    {
+     "title": "切换·Ⅱ",
+     "text": "该换个节奏了！"
+    },
+    {
+     "title": "切换·Ⅲ",
+     "text": "你的呼唤，我听到了哦！"
+    },
+    {
+     "title": "特殊切换·九原",
+     "text": "九原姐！交给我吧！"
+    },
+    {
+     "title": "特殊切换·哈索尔",
+     "text": "哈索尔！该换班啦！"
+    },
+    {
+     "title": "特殊切换·娜娜莉",
+     "text": "来合奏吧！音浪猛虎！"
+    },
+    {
+     "title": "队友倒下·九原",
+     "text": "竟然敢欺负九原姐！"
+    },
+    {
+     "title": "队友倒下·哈索尔",
+     "text": "哈索尔！不要一个人逞强啊！"
+    },
+    {
+     "title": "队友倒下·娜娜莉",
+     "text": "可不能在这种时候倒下啊！"
+    },
+    {
+     "title": "弹反·Ⅰ",
+     "text": "音游可是我的强项！"
+    },
+    {
+     "title": "弹反·Ⅱ",
+     "text": "抓住节奏！"
+    },
+    {
+     "title": "连续极限闪避成功·Ⅰ",
+     "text": "哼哼，我的闪避可是点满了！"
+    },
+    {
+     "title": "连续极限闪避成功·Ⅱ",
+     "text": "啧啧，太慢了哦？"
+    }
+   ]
+  },
+  "ja": {
+   "daily": [
+    {
+     "title": "初対面",
+     "text": "どうも、ハニア・クレースウィルだよ。ハニアって呼んで。私の名前を呼んでくれたら、いつでもすっ飛んで行くから！なんでそう言い切れるかって？「E.A.R」が、絶対聞き逃さないもん！"
+    },
+    {
+     "title": "雑談-限定販売",
+     "text": "アラーム、よっし！ネット、よっし！今度こそ、絶対に限定版を手に入れるぞ！"
+    },
+    {
+     "title": "雑談-呪文",
+     "text": "ハフイ！シュラフラ！完全放電人間！衝撃波さえ爆撃する超激アツ発射器！ハニアの名において、出でよ！"
+    },
+    {
+     "title": "雑談-猫缶",
+     "text": "週末、ネコちゃんたちに会いに行くとき、新発売のネコ缶でも持っていこう。"
+    },
+    {
+     "title": "快晴",
+     "text": "太陽が出てるときっていいよね。寝るにしても遊びにしても全部いい感じ。"
+    },
+    {
+     "title": "雨",
+     "text": "ちょっとゆっくりめの曲をかける？…うーん、ヘッドホンに水入んないといいけど。"
+    },
+    {
+     "title": "寒い",
+     "text": "寒い寒い寒い！こういう時こそ鍋でしょ！辛さ2倍で！"
+    },
+    {
+     "title": "灼熱",
+     "text": "心頭滅却…ふーう、ハニア、第七十二回目の修行、失敗。"
+    },
+    {
+     "title": "朝の挨拶",
+     "text": "おはよう！新しい一日が始まるよ！"
+    },
+    {
+     "title": "昼の挨拶",
+     "text": "こんにちは！昼ごはん、何にするか決めた？私のおすすめを言おうか？"
+    },
+    {
+     "title": "夕方の挨拶",
+     "text": "こんばんは。今から散歩に行くとこだけど、一緒にどう？"
+    },
+    {
+     "title": "おやすみ",
+     "text": "深夜は溜まったアニメを見るの。安心して！これを見終わったら寝るから！たぶん…"
+    },
+    {
+     "title": "趣味",
+     "text": "目標はね、すべてのコラボヘッドホンを集めること！新しいのは即ポチすればいいけど、古いやつは中古サイトで根気強く粘るしかないんだよね。正直、丁寧に手入れしていても、古いヘッドホンの音質は安くて新しい機種には負けちゃう。でも、昔のOSTは古いヘッドホンで聞くべきだと思うんだ。少しノイズが入ってる感じが味わい深いっていうか。今度時間ある時、私のコレクション見せてあげる。"
+    },
+    {
+     "title": "悩み",
+     "text": "悩み…大した悩みはないけど、しいて言えば、難しい宿題とか、うるさいイリカ、わかりにくい配達先と注文の多いお客さん…まあ、どうってことはないよね。ちゃんとご飯食べて、夜しっかり寝れば。また元気100％で復活！"
+    },
+    {
+     "title": "話題-異象",
+     "text": "じいちゃんばあちゃんとかから聞いた話だと、昔って人間と異象、異能者との間でけっこう衝突もあったんだって…でも私が生まれた頃には、異象はもう家族、ペット、アシスタントみたいな存在になってて。確かにいざこざはまだあったりするけど、ほとんどの異象はかわいいと思うよ！"
+    },
+    {
+     "title": "話題-エチケット",
+     "text": "ナイフとフォークの持ち手を変えちゃダメ、スープを飲むときは音を立てない…食べ物の楽しみ方まで縛られちゃうの辛すぎ！辣条とかを、金メッキの皿に置いて、フォークとナイフ、バイオリンの演奏をつけたところで…手で持ったほうが絶対おいしいんだもん。"
+    },
+    {
+     "title": "話題-同好",
+     "text": "人と人の付き合いって本当に不思議だよね。同じキャラが好きっていうだけで、なんでも話せる親友になれたりするし、現実世界の家族や友達に言えないこともネットの仲間には平気で言えたりする。すっごい親友がいるんだけど、オフで会える日が来ないかな、本当に楽しみ。"
+    },
+    {
+     "title": "自分について-裏の顔",
+     "text": "連載ファンにとって一番辛いのって休載の知らせだよね。作者たちが書き終わるまで、小屋に閉じ込めたくなる。でも自分のことになると…アカウントを何個も持ってるのは、更新したくない日にジャンジャン作品を漁るため！それに更新したくないわけじゃないんだよ。インスピレーション探し！"
+    },
+    {
+     "title": "自分について-異能",
+     "text": "小さい頃はさ、異能者に憧れてたんだよね。アニメの主人公たちはいつも不思議なチャンスに恵まれて世界を救えるから。でも自分がなってみて初めてわかったの。主人公になるより、皆を守る力がほしいって。もし私がもう少しすごかったら、あの子もほかのネコちゃんと同じようにすくすく育っていたかも…いやね、何が言いたいのかと言うと、今度ひまができたら、会いに行こうよ。結構眺めがきれいな場所なんだ。"
+    },
+    {
+     "title": "自分について-自由",
+     "text": "「カゴの中の生活に向いている鳥もいれば、向いていない鳥もいる。満足のいく食事で羽根がより美しくなる鳥もいれば、自由に青空を飛ぶことで羽根が輝く鳥もいる。」私は、暖かいお家も欲しいし、自由に飛びたいと思う。ちょっと欲張りに聞こえるかもだけど、今の生活結構気に入ってるんだ。"
+    },
+    {
+     "title": "九原について",
+     "text": "ステーリー急便の仕事って授業の邪魔にならないし、お金が稼げるし、世界を救う使命もある！九原姉ちゃんは結構太っ腹だから、給料もいいの！九原姉ちゃんの信頼に応えるため、私、ハニアは、絶対にステーリー最高の配達員になるんだから！うーん、九原姉ちゃんが怒りっぽいのがなくなるといいなぁ。怒るとしわができるっていうし…コホン。"
+    },
+    {
+     "title": "ジェンソンについて",
+     "text": "初めてジェンソン兄ちゃんに会ったとき、ちょーかっこいいって思ったの！どんな質問もちゃんと答えてくれて、アニメに出てくる頼れる大人って感じで。でもジェンソン兄ちゃん、絶対なんか裏の顔ある。絶対ただの店長じゃないと思うし。うん、それもアニメみたい。"
+    },
+    {
+     "title": "イリカについて",
+     "text": "うるさいアホドリ！…ステーリー急便でまた一緒になるって知ってたら、卒アルの寄せ書きにいっぱい書くんじゃなかった。でもあの時あいつもいっぱい書いてくれたし、卒業記念にずっとほしかったヘッドホンをプレゼントしてくれたし…うーん、まあ、大目に見てあげる。"
+    },
+    {
+     "title": "ハソールについて",
+     "text": "ハソール姉のバイク、ずーっと乗ってみたかったんだ！うーん…お客さんはハソール姉を冷たいっていうけど、ちゃんと話したことがないからだよ。それに、私さえいれば、異能の暴走なんてなんのその！勇敢なるハニア、困難を知らない！"
+    },
+    {
+     "title": "ステーリー急便について",
+     "text": "異能の暴走で苦しんでいたハソール姉を助けて、九原姉ちゃんに勧められてステーリー急便に入って、店長のジェンソン兄ちゃんと知り合って、そんでイリカと再会して…この体験、もう「ハニア物語」って映画を撮れるよね！いや違うな、「ステーリーライフストーリー」とか「仮面配達員」なんて、どう？"
+    },
+    {
+     "title": "骨董品屋エイボンについて",
+     "text": "さびれた通りに店を構える謎の骨董品屋VS群衆に紛れる普通のようで普通じゃない配達屋。いや、これだけで劇場版やれるって！"
+    },
+    {
+     "title": "キャラ突破Ⅰ",
+     "text": "これが…力なの？"
+    },
+    {
+     "title": "キャラ突破Ⅱ",
+     "text": "世界を救う準備はできた？"
+    },
+    {
+     "title": "キャラ突破Ⅲ",
+     "text": "羽根がきれいになった！"
+    },
+    {
+     "title": "届けられたギフトⅠ",
+     "text": "シーッ、ほら…聞こえる？ハニアからの好感度が爆上がりしてる音！"
+    },
+    {
+     "title": "届けられたギフトⅡ",
+     "text": "なんで私がこれ好きだって知ってるの！？もしかして鑑定士さんって、人の好みまで鑑定できちゃうわけ？超クールじゃん！"
+    },
+    {
+     "title": "届けられたギフトⅢ",
+     "text": "私に？私に！？やったーっ！ありがとう！"
+    },
+    {
+     "title": "届けられたギフトⅣ",
+     "text": "今度エイボンから依頼があったら、こっそり速達扱いにしとくね！"
+    }
+   ],
+   "battle": [
+    {
+     "title": "バイレールスキルⅠ",
+     "text": "ネコトリショット！"
+    },
+    {
+     "title": "バイレールスキルⅡ",
+     "text": "転調行っちゃう？"
+    },
+    {
+     "title": "バイレールスキルⅢ",
+     "text": "お堅いのはやめようよ～！"
+    },
+    {
+     "title": "EXレール終結Ⅰ",
+     "text": "私の音楽を聴けぇ！"
+    },
+    {
+     "title": "EXレール終結Ⅱ",
+     "text": "このステージは私が主役っ！"
+    },
+    {
+     "title": "EXレール終結Ⅲ",
+     "text": "オケは任せて！"
+    },
+    {
+     "title": "異象収容Ⅰ",
+     "text": "よしっ！今日の仕事もぶじに……！無事完了！"
+    },
+    {
+     "title": "異象収容Ⅱ",
+     "text": "安心しろ、私の梱包は一流…あれ…うっ…大丈夫大丈夫。"
+    },
+    {
+     "title": "異象排除Ⅰ",
+     "text": "高評価くーださーいねぇ～！"
+    },
+    {
+     "title": "異象排除Ⅱ",
+     "text": "よーし、撤収撤収～。"
+    },
+    {
+     "title": "意外な収穫Ⅰ",
+     "text": "これ、受取のサインなくてもいいよね？"
+    },
+    {
+     "title": "意外な収穫Ⅱ",
+     "text": "おや？シークレット報酬か？"
+    },
+    {
+     "title": "意外な収穫Ⅲ",
+     "text": "この幸運、なんとか次のガチャまでもってくれないかな？"
+    },
+    {
+     "title": "意外な収穫Ⅳ",
+     "text": "なになに？何をゲットしたの？"
+    },
+    {
+     "title": "意外な収穫Ⅴ",
+     "text": "ふぅ～！ベーグルで自慢しちゃお～！"
+    },
+    {
+     "title": "意外な収穫Ⅵ",
+     "text": "やっぱり今日は運がいいね！"
+    },
+    {
+     "title": "低HPⅠ",
+     "text": "つかれたぁ……"
+    },
+    {
+     "title": "低HPⅡ",
+     "text": "バッテリー残量が少なくなってます…"
+    },
+    {
+     "title": "低HPⅢ",
+     "text": "今すぐ回復をっ！"
+    },
+    {
+     "title": "HP回復Ⅰ",
+     "text": "コンディションばっちり！"
+    },
+    {
+     "title": "HP回復Ⅱ",
+     "text": "無敵のハニアが帰ってきた！"
+    },
+    {
+     "title": "力尽きⅠ",
+     "text": "こんなエンドないよ…"
+    },
+    {
+     "title": "力尽きⅡ",
+     "text": "2周目にはどう行けばいいの…"
+    },
+    {
+     "title": "力尽きⅢ",
+     "text": "ごめん、後は任せた…"
+    },
+    {
+     "title": "敵を撃破Ⅰ",
+     "text": "楽勝楽勝～。"
+    },
+    {
+     "title": "敵を撃破Ⅱ",
+     "text": "これがエースの実力だ！"
+    },
+    {
+     "title": "ダメージを受ける（通常）Ⅰ",
+     "text": "きゃっ。"
+    },
+    {
+     "title": "ダメージを受ける（通常）Ⅱ",
+     "text": "ミスった。"
+    },
+    {
+     "title": "大打撃Ⅰ",
+     "text": "痛っ！"
+    },
+    {
+     "title": "大打撃Ⅱ",
+     "text": "荷物は無事！？"
+    },
+    {
+     "title": "出撃Ⅰ",
+     "text": "エリート配達員のギャラは安くないぞ！"
+    },
+    {
+     "title": "出撃Ⅱ",
+     "text": "聞こえる？「ハニア」って呼んでいる声が！"
+    },
+    {
+     "title": "コンビスキルⅠ",
+     "text": "ナイスピッチング！"
+    },
+    {
+     "title": "コンビスキルⅡ",
+     "text": "どこ見てんの？"
+    },
+    {
+     "title": "コンビスキルⅢ",
+     "text": "三振アウト！"
+    },
+    {
+     "title": "滑空Ⅰ",
+     "text": "風よ、我が呼び声に応えよっ！"
+    },
+    {
+     "title": "滑空Ⅱ",
+     "text": "準備よし！着地ポーズはキメるぞ～！"
+    },
+    {
+     "title": "切替Ⅰ",
+     "text": "主人公が助けに来たよ！"
+    },
+    {
+     "title": "切替Ⅱ",
+     "text": "グルーヴチェンジといくか！"
+    },
+    {
+     "title": "切替Ⅲ",
+     "text": "あなたの声、ちゃんと聞こえたよ！"
+    },
+    {
+     "title": "特殊切替・九原",
+     "text": "九原姉ちゃん、次は任せて！"
+    },
+    {
+     "title": "特殊切替・ハソール",
+     "text": "ハソール姉！バトンタッチ！"
+    },
+    {
+     "title": "特殊切替・ナナリ",
+     "text": "対バンの時間だよ！メロディタイガー！"
+    },
+    {
+     "title": "仲間気絶・九原",
+     "text": "うちの九原姉ちゃんをいじめるなんて！"
+    },
+    {
+     "title": "仲間気絶・ハソール",
+     "text": "ハソール姉！一人で無理しないで！"
+    },
+    {
+     "title": "仲間気絶・ナナリ",
+     "text": "こんなとこで倒れちゃダメ！"
+    },
+    {
+     "title": "パリィⅠ",
+     "text": "私、音ゲーのゴリラだから！"
+    },
+    {
+     "title": "パリィⅡ",
+     "text": "リズムにのって！"
+    },
+    {
+     "title": "連続極限回避成功Ⅰ",
+     "text": "どう？この華麗なる回避！"
+    },
+    {
+     "title": "連続極限回避成功Ⅱ",
+     "text": "ちっちっち～。遅いぞ？"
+    }
+   ]
+  },
+  "ko": {
+   "daily": [
+    {
+     "title": "첫 만남",
+     "text": "안녕! 난 하니엘 크레스웰, 편하게 하니엘이라고 해줘. 필요한 게 있으면 언제든 내 이름만 불러! 「E.A.R」의 이름으로 맹세해. 네가 부르면 언제 어디서든 들을 수 있어!"
+    },
+    {
+     "title": "대화·한정 판매",
+     "text": "알람, 체크! 인터넷 속도, 체크! 이번엔 무슨 일이 있어도 한정판을 손에 넣겠어!"
+    },
+    {
+     "title": "대화·마법 주문",
+     "text": "하후이! 슈라후라! 인류 멸망의 대폭발 하이퍼 캐논! 나, 하니엘의 이름으로 명하노니, 모습을 드러내라!"
+    },
+    {
+     "title": "대화·고양이 통조림",
+     "text": "주말에 고양이 보러 갈 땐 새로운 맛 통조림 가져가야지."
+    },
+    {
+     "title": "맑은 날",
+     "text": "날씨 좋다~ 푹 자기도 딱이고, 뭘 하든 완벽한 날씨야."
+    },
+    {
+     "title": "비 오는 날",
+     "text": "잔잔한 노래 한 곡 어때…? 윽, 헤드폰에 물 안 튀어야 할 텐데."
+    },
+    {
+     "title": "추운 날",
+     "text": "으으, 아우, 추워! 이런 날엔 역시 훠궈지! 화끈하게 매운맛으로!"
+    },
+    {
+     "title": "더운 날",
+     "text": "이너피스, 이너피스… 휴, 하니엘의 72번째 명상 수행, 실패!"
+    },
+    {
+     "title": "아침 인사",
+     "text": "굿모닝, 새로운 하루가 시작됐네!"
+    },
+    {
+     "title": "점심 인사",
+     "text": "안녕, 점심 메뉴는 정했어? 내 추천 메뉴 들어볼래?"
+    },
+    {
+     "title": "저녁 인사",
+     "text": "안녕, 산책 가려고 하는데, 같이 갈래?"
+    },
+    {
+     "title": "취침 인사",
+     "text": "한밤중은 애니 정주행하기 딱 좋은 시간이지. 걱정 마, 너무 늦게는 안 잘 거니까. 딱 이 에피소드만 보고 잘 거야! 아마도…"
+    },
+    {
+     "title": "취미",
+     "text": "내 목표는 컬래버 헤드폰을 전부 모으는 거야! 신제품은 광클로 살 수 있지만, 옛날 제품들은 중고 시장에서 하나씩 사 모아야 해. 음질로 따지자면, 아무리 정성껏 관리한 구형 헤드폰도 저렴한 신제품만 못하지만, 옛날 OST는 옛날 헤드폰으로 들어야 제맛이지. 노이즈가 섞인 음악도 나름대로 매력 있어. 시간 나면 내 컬렉션 보여줄게."
+    },
+    {
+     "title": "고민",
+     "text": "고민… 큰 고민은 없고, 사소한 고민이라면, 어려운 숙제, 땍땍거리는 일리카, 애매한 배송 주소랑 진상 손님 정도…? 사실 큰 고민은 아니야. 저녁 든든히 챙겨 먹고 푹 자고 일어나면, 하니엘은 다시 부활이니까!"
+    },
+    {
+     "title": "주제·이상",
+     "text": "어르신들 말로는, 아주 옛날에는 인간과 이상, 그리고 이능력자들의 사이가 좋지 않아서 자주 싸웠대… 하지만 내가 태어났을 때, 이상은 가족이나 반려동물, 조력자 같은 존재였지. 가끔 이런저런 문제가 생기긴 하지만, 대부분의 이상은 정말 귀여워!"
+    },
+    {
+     "title": "주제·매너",
+     "text": "나이프와 포크를 바꿔 들면 안 되고, 수프는 후루룩 금지… 맛있는 음식 먹기가 이렇게 어려워서야! 쫀드기 같은 건 금 접시에 올려서 포크, 나이프로 썰고 바이올린 연주까지 곁들인다 해도… 손으로 잡고 뜯는 것만 못하지!"
+    },
+    {
+     "title": "주제·메이트",
+     "text": "사람 사이는 정말 신기해. 같은 캐릭터를 좋아한다는 이유만으로도 순식간에 막역한 친구가 될 수 있다니. 가족이나 친구한테 못 하는 이야기도 온라인 동호회 사람한테는 쉽게 말하기도 하잖아. 나도 정말 좋은 친구가 한 명 있는데, 실제로 만날 기회가 생길까? 정말 기대돼!"
+    },
+    {
+     "title": "자신·부계정에 관해",
+     "text": "연재물을 보다가 가장 괴로운 순간은 휴재 공지를 볼 때야. 작가를 가둬놓고 완결까지 쓰게 하고 싶지만, 막상 그게 내 얘기가 되면… 헤헤, 부계정이 괜히 있는 게 아니지. 업로드하기 싫은 날에는 맘껏 눈팅만 할 수 있잖아. 아, 아예 안 쓰려는 게 아니라, 영감을 찾는 중이야!"
+    },
+    {
+     "title": "자신·이능력에 관해",
+     "text": "어렸을 땐 이능력자가 정말 부러웠어. 애니 속 주인공처럼 운명 같이 세상을 구하잖아. 하지만 진짜로 이능력자가 되고 나서 깨달았지. 주인공이 되는 것보다 더 중요한 건 모두를 지킬 수 있는 능력이라는 걸. 내가 더 강했더라면, 그 아이도 지금쯤 다른 아기 고양이들처럼 건강하게 자라고 있지 않을까… 슬프게 하려던 건 아니었어. 시간 날 때 같이 보러 가자, 경치가 정말 좋은 곳이거든."
+    },
+    {
+     "title": "자신·자유에 관해",
+     "text": "「새장 안에서 더 잘 사는 새들이 있어. 맛있는 모이와 물을 먹고 탐스럽고 아름다운 깃털을 가꾸는 새들. 하지만 가둘 수 없는 새들도 있어. 그런 새들의 날개는 자유로운 하늘 아래서만 빛나지.」 나는 따스한 집도, 자유로운 하늘도 갖고 싶어. 욕심쟁이처럼 보이겠지만, 아무튼 난 지금의 삶에 만족해."
+    },
+    {
+     "title": "구원에 관해",
+     "text": "스테리 익스프레스 일은 수업에 방해도 안 되고, 돈도 벌고, 세상까지 구할 수 있어! 구원 언니는 월급도 넉넉하게 줘서 너무 좋아! 구원 언니의 믿음을 저버리지 않기 위해서라도 나, 하니엘은 반드시 스테리 익스프레스 최고의 배송원이 될 거야! 한 가지 바람이 있다면, 구원 언니가 화 좀 덜 냈으면 좋겠어, 화내면 주름이 는다던데… 흠흠."
+    },
+    {
+     "title": "젠슨에 관해",
+     "text": "젠슨 오빠는 첫인상이 정말 근사했지! 꼭 애니에 나오는 멋진 남자 어른 같았어. 어떤 질문을 해도 다 대답해 줬거든! 젠슨 오빠는 분명 정체를 숨기고 있을 거야. 절대 평범한 택배 회사 사장님일 리 없어. 왜, 애니만 봐도 다 그렇잖아?"
+    },
+    {
+     "title": "일리카에 관해",
+     "text": "시끄러운 바보새…! 스테리 익스프레스에서 다시 만날 줄 알았으면, 졸업 롤링 페이퍼에 그렇게 길게 쓰는 게 아니었는데. 그치만 걔도 나한테 길게 써줬고, 졸업 선물로 오랫동안 갖고 싶던 헤드폰도 사줬으니까. 한 번만 봐준다."
+    },
+    {
+     "title": "하토르에 관해",
+     "text": "하토르의 오토바이 정말 타보고 싶어, 진짜 짜릿할 텐데! 음… 손님들은 하토르가 차가워 보인다고 말하지만, 그건 하토르와 함께 지내본 적이 없어서 그래. 게다가 내가 있으면, 이능력 통제 불능 같은 건 문제도 아니지! 용감한 하니엘은 피하지 않아!"
+    },
+    {
+     "title": "스테리 익스프레스에 관해",
+     "text": "이능력에 잠식당한 하토르를 구해낸 뒤, 구원 언니의 추천으로 스테리 익스프레스에 취직, 사장님 젠슨 오빠를 알게 되고, 일리카와도 재회했지… 어때? 이런 전개면 「전설의 하니엘」 한 편 뚝딱, 아니야…? 아, 아니면 「스테리 영웅전」이나 「가면 배송원」은 어때?"
+    },
+    {
+     "title": "에이본 골동품 가게에 관해",
+     "text": "몰락한 거리에 숨겨진 신비한 골동품 가게 VS 군중 속에 숨겨진 평범한 듯 평범하지 않은 택배 회사, 이 에피소드는 극장판으로 나오면 정말 딱이야!"
+    },
+    {
+     "title": "캐릭터 돌파·Ⅰ",
+     "text": "이런 게 바로… 힘…?"
+    },
+    {
+     "title": "캐릭터 돌파·Ⅱ",
+     "text": "세상을 구할 준비 됐어?"
+    },
+    {
+     "title": "캐릭터 돌파·Ⅲ",
+     "text": "깃털이 더 예뻐졌어!"
+    },
+    {
+     "title": "선물 수령·Ⅰ",
+     "text": "쉿, 들어봐… 들려? 하니엘 호감도가 쭉쭉 올라가는 소리?!"
+    },
+    {
+     "title": "선물 수령·Ⅱ",
+     "text": "우와! 내가 이거 좋아하는 거 어떻게 알았어? 설마 취향까지 감정할 수 있는 거야? 멋져!"
+    },
+    {
+     "title": "선물 수령·Ⅲ",
+     "text": "내 거야? 내 거라고?! 고마워! 진짜 완전 대박 짱짱 고마워!"
+    },
+    {
+     "title": "선물 수령·IV",
+     "text": "다음 에이본 배송 건은 몰래 급행으로 처리해 줄게!"
+    }
+   ],
+   "battle": [
+    {
+     "title": "바이레일 스킬·Ⅰ",
+     "text": "냥만 부엉이 충격파!"
+    },
+    {
+     "title": "바이레일 스킬·Ⅱ",
+     "text": "변주를 시작해 볼까?"
+    },
+    {
+     "title": "바이레일 스킬·Ⅲ",
+     "text": "너무 시시하잖아!"
+    },
+    {
+     "title": "울티메이트·Ⅰ",
+     "text": "이제부턴 내 음악이다!"
+    },
+    {
+     "title": "울티메이트·Ⅱ",
+     "text": "잇츠 마이 쇼타임!"
+    },
+    {
+     "title": "울티메이트·Ⅲ",
+     "text": "반주는 맡겨만 두라고!"
+    },
+    {
+     "title": "이상 수용·Ⅰ",
+     "text": "오늘도 순조…! 윽… 순조롭게 업무 완료!"
+    },
+    {
+     "title": "이상 수용·Ⅱ",
+     "text": "걱정 마! 내 포장 솜씨는 일류… 어? 후… 괜찮아, 괜찮아."
+    },
+    {
+     "title": "이상 제거·Ⅰ",
+     "text": "별점 5점 부탁해~"
+    },
+    {
+     "title": "이상 제거·Ⅱ",
+     "text": "퇴근이다. 퇴근."
+    },
+    {
+     "title": "뜻밖의 수확·Ⅰ",
+     "text": "이건 수령 확인 안 해도 되는 거지?"
+    },
+    {
+     "title": "뜻밖의 수확·Ⅱ",
+     "text": "오잉? 숨겨진 보상인가?"
+    },
+    {
+     "title": "뜻밖의 수확·Ⅲ",
+     "text": "다음 뽑기에도 이런 행운이 따라주려나?"
+    },
+    {
+     "title": "뜻밖의 수확·Ⅳ",
+     "text": "좋은 거 있어? 빨리 봐봐!"
+    },
+    {
+     "title": "뜻밖의 수확·Ⅴ",
+     "text": "오호~ 이건 베이글에 자랑해야겠는걸."
+    },
+    {
+     "title": "뜻밖의 수확·Ⅵ",
+     "text": "역시, 오늘 느낌이 좋았다니까!"
+    },
+    {
+     "title": "HP 낮음·Ⅰ",
+     "text": "힘들어…"
+    },
+    {
+     "title": "HP 낮음·Ⅱ",
+     "text": "배터리 부족…"
+    },
+    {
+     "title": "HP 낮음·Ⅲ",
+     "text": "보급이 시급하다고!"
+    },
+    {
+     "title": "HP 회복·Ⅰ",
+     "text": "컨디션 최고야!"
+    },
+    {
+     "title": "HP 회복·Ⅱ",
+     "text": "무적 하니엘이 돌아왔다!"
+    },
+    {
+     "title": "탈진·Ⅰ",
+     "text": "이렇게 끝날 리가 없잖아…"
+    },
+    {
+     "title": "탈진·Ⅱ",
+     "text": "다음 기회가… 있을까…?"
+    },
+    {
+     "title": "탈진·Ⅲ",
+     "text": "미안, 너희만 믿을게…"
+    },
+    {
+     "title": "몬스터 처치·Ⅰ",
+     "text": "식은 죽 먹기네."
+    },
+    {
+     "title": "몬스터 처치·Ⅱ",
+     "text": "이게 바로 에이스의 실력이다!"
+    },
+    {
+     "title": "일반 피격·Ⅰ",
+     "text": "아얏!"
+    },
+    {
+     "title": "일반 피격·Ⅱ",
+     "text": "실수야."
+    },
+    {
+     "title": "심각한 피해·Ⅰ",
+     "text": "아파!"
+    },
+    {
+     "title": "심각한 피해·Ⅱ",
+     "text": "택배는 멀쩡하지?"
+    },
+    {
+     "title": "출전·Ⅰ",
+     "text": "엘리트 배송원의 출장비는 만만치 않다고."
+    },
+    {
+     "title": "출전·Ⅱ",
+     "text": "누구냐, 이「하니엘」을 애타게 찾는 자는."
+    },
+    {
+     "title": "협동기·Ⅰ",
+     "text": "퍼팩트 피칭!"
+    },
+    {
+     "title": "협동기·Ⅱ",
+     "text": "어딜 보는 거야?"
+    },
+    {
+     "title": "협동기·Ⅲ",
+     "text": "삼진아웃!"
+    },
+    {
+     "title": "글라이딩·Ⅰ",
+     "text": "야호! 후아! 바람아 불어랏!"
+    },
+    {
+     "title": "글라이딩·Ⅱ",
+     "text": "준비, 준비! 멋지게 착지해야 해!"
+    },
+    {
+     "title": "전환·Ⅰ",
+     "text": "주인공이 나설 차례인가!"
+    },
+    {
+     "title": "전환·Ⅱ",
+     "text": "리듬을 바꿔 보자고!"
+    },
+    {
+     "title": "전환·Ⅲ",
+     "text": "나 불렀지? 다 들었어!"
+    },
+    {
+     "title": "특수 전환·구원",
+     "text": "구원 언니! 나만 믿어!"
+    },
+    {
+     "title": "특수 전환·하토르",
+     "text": "하토르 언니! 교대하자!"
+    },
+    {
+     "title": "특수 전환·나나리",
+     "text": "합주 준비! 사운드 타이거!"
+    },
+    {
+     "title": "팀원 쓰러짐·구원",
+     "text": "감히 구원 언니를 괴롭히다니!"
+    },
+    {
+     "title": "팀원 쓰러짐·하토르",
+     "text": "하토르 언니! 혼자서 무리하지 마!"
+    },
+    {
+     "title": "팀원 쓰러짐·나나리",
+     "text": "아직 쓰러지면 안 돼!"
+    },
+    {
+     "title": "패링·Ⅰ",
+     "text": "흥, 이래 봬도 리듬게임 마스터라고!"
+    },
+    {
+     "title": "패링·Ⅱ",
+     "text": "리듬에 맞춰서!"
+    },
+    {
+     "title": "연속 극한 회피 성공·Ⅰ",
+     "text": "후훗, 방금 회피, 완벽했지?"
+    },
+    {
+     "title": "연속 극한 회피 성공·Ⅱ",
+     "text": "쯧쯧, 너무 느리잖아?"
+    }
+   ]
+  },
+  "zh-tw": {
+   "daily": [
+    {
+     "title": "初次見面",
+     "text": "你好呀，我是哈尼婭·克雷斯維爾，叫我哈尼婭就好。有什麼需要就叫我的名字吧，我以「動感小耳朵」的名字起誓，只要是你的呼喚，我絕對會聽到的！"
+    },
+    {
+     "title": "閒聊·限定販售",
+     "text": "鬧鐘，確定！網速，確定！這次絕對能搶到限量版！"
+    },
+    {
+     "title": "閒聊·咒語",
+     "text": "哈呼以！修拉呼啦！人間完全放電、激爆衝擊波的極嗨發射器，吾以哈尼婭之名命令你，現！"
+    },
+    {
+     "title": "閒聊·貓罐頭",
+     "text": "週末看望小貓們的時候，帶上些新口味的貓罐頭吧。"
+    },
+    {
+     "title": "大晴天",
+     "text": "太陽真好啊，無論是睡到飽還是做什麼都很適合。"
+    },
+    {
+     "title": "雨天",
+     "text": "來一首舒緩的音樂如何？……唔，希望耳機不要進水。"
+    },
+    {
+     "title": "寒冷",
+     "text": "好冷好冷好冷這個時候最適合吃火鍋了吧！要超級加倍辣！"
+    },
+    {
+     "title": "炎熱",
+     "text": "靜心，靜心，靜心……呼，哈尼婭第七十二次靜心修行失敗。"
+    },
+    {
+     "title": "早上問候",
+     "text": "早上好，新的一天開始了！"
+    },
+    {
+     "title": "中午問候",
+     "text": "中午好，想好午餐吃什麼了嗎？要不要聽聽我的推薦？"
+    },
+    {
+     "title": "傍晚問候",
+     "text": "晚上好，我正打算出去散步，要一起嗎？"
+    },
+    {
+     "title": "晚安",
+     "text": "深夜是最適合補番的了，放心不會很晚的，看完這集就睡！大概……"
+    },
+    {
+     "title": "愛好",
+     "text": "目標是集齊所有的聯名款耳機！新款倒是可以零點秒殺，一些古早款只能在二手市場慢慢蹲守了。從音質上來說，就算是用心保養的老式耳機也比不上便宜很多的新款，但是古早OST就應該用古早耳機聽嘛，混雜著底噪的音樂也很有味道呢，有空的話，給你看看我的收藏。"
+    },
+    {
+     "title": "煩惱",
+     "text": "煩惱……好像說不上有什麼大煩惱，小煩惱的話，很難寫的作業，吵吵的伊里卡，送貨時模糊的地址和吹毛求疵的客人……其實都算不上什麼啦，吃一頓飽飽的晚飯再睡個好覺，第二天的哈尼婭就滿血復活了！"
+    },
+    {
+     "title": "話題·異象",
+     "text": "聽老人家說，很早的時候人類和異象還有異能者之間的關係很不穩定，經常會發生衝突……不過等到我出生的時候，異象就像是家人，寵物，幫手，雖然有時候還是避免不了矛盾，但是絕大多數異象都是很可愛的！"
+    },
+    {
+     "title": "話題·禮儀",
+     "text": "刀子和叉子不能換著拿，喝湯不能發出聲音，如果連享受美食都要規規矩矩的話那也太痛苦了吧！就像辣條這種食物，放在鎏金瓷盤中，配上刀叉和小提琴……也不會比拿在手裡吃更香。"
+    },
+    {
+     "title": "話題·同好",
+     "text": "人和人之間的交往真的很奇妙呢，只是出於對同一個角色的喜愛，很快就可以變成無話不談的好朋友，一些無法對現實中的親人朋友說出的話，卻可以很輕鬆地對著網路上的同好們袒露。我也有一位很好很好的朋友，不知道有沒有機會在現實見面，真期待啊。"
+    },
+    {
+     "title": "關於自己·小帳",
+     "text": "追連載最大的痛苦就是看到休刊通知了，恨不得把作者關進小黑屋裡一直寫到完結，但是輪到自己就……嘿嘿，小帳的存在就是在不想更新的日子裡大口嗑CP，而且不是不想更新，我這是在找靈感！"
+    },
+    {
+     "title": "關於自己·異能",
+     "text": "小時候我很羨慕異能者，就像動漫裡主角總是身負奇遇拯救世界，但真的輪到我的那一刻我才明白，比起成為主角，我更想要的是能夠守護大家的能力，如果當時我再厲害一點，或許它現在就能和別的小貓一樣健康長大了吧……我說這些可不是為了讓你難過的。有空的時候我們一起去看看它吧，那是一個風景很不錯的地方呢。"
+    },
+    {
+     "title": "關於自己·自由",
+     "text": "「有些鳥兒適合在籠中生活，精緻的食水會讓他們的羽毛更加蓬鬆美麗，但有些鳥兒是關不住的，他們的羽翼只會在自由的天空下閃耀。」對我來說，我想要溫暖的家，也想要自由飛翔，雖然聽起來有點貪心，但是我很滿意現在的生活。"
+    },
+    {
+     "title": "關於九原",
+     "text": "斯特利快遞的工作既不耽誤上課，還有金錢的召喚和拯救世界的使命！九原姐發薪水也超級大方，太快樂了！為了不辜負九原姐的信賴，我，哈尼婭，絕對會成為斯特利快遞最棒的快遞員！就是希望九原姐少生氣，生氣很容易長皺紋什麼的……咳咳。"
+    },
+    {
+     "title": "關於簡森",
+     "text": "第一次見到簡森哥的時候，我覺得他超——酷——！就像番劇中的可靠成年人，無論我有什麼問題，他全都答得上來！我覺得簡森哥一定還有什麼特殊身份，絕對不只是一個普普通通的送貨店老闆，嗯，番劇中都是這麼寫的。"
+    },
+    {
+     "title": "關於伊里卡",
+     "text": "吵吵的呆頭鳥！……早知道會在斯特利快遞又見到他，畢業的時候就不應該在同學錄上寫那麼多字了。不過他當時也給我寫了很多離別留言，還特地送了我想要很久的耳機作為畢業禮物，看著這些份上，暫時就不跟他計較了。"
+    },
+    {
+     "title": "關於哈索爾",
+     "text": "我好想試試哈索爾的摩托車，開起來一定很爽吧！嗯……雖然很多客人都說哈索爾看起來冷冰冰的，只是因為他們沒有和哈索爾相處過。而且只要有我在，異能失控什麼的全都是小問題！勇敢哈尼婭，不怕困難！"
+    },
+    {
+     "title": "關於斯德利快遞",
+     "text": "因為救下了被異能反噬的哈索爾，被九原姐引薦進入了斯特利快遞，認識了老闆簡森哥，然後又跟伊里卡重逢……這一切，簡直可以拍一部「哈尼婭傳奇」了……不對不對「斯特利群俠傳」或者「假面快遞員」怎麼樣？"
+    },
+    {
+     "title": "關於伊波恩古董店",
+     "text": "隱秘在落魄街道的神秘古董店VS藏匿於人群之中普通卻並不普通的快遞公司，這一集絕對值得一個劇場版！"
+    },
+    {
+     "title": "角色突破·Ⅰ",
+     "text": "這就是……力量嗎？"
+    },
+    {
+     "title": "角色突破·Ⅱ",
+     "text": "準備好拯救世界了嗎？"
+    },
+    {
+     "title": "角色突破·Ⅲ",
+     "text": "羽毛變得更好看了！"
+    },
+    {
+     "title": "收到贈禮·Ⅰ",
+     "text": "噓快聽……聽見到了嗎？哈尼婭好感度加一加一加一！"
+    },
+    {
+     "title": "收到贈禮·Ⅱ",
+     "text": "哇！你怎麼知道我喜歡這個！難道鑒定師還能鑒別喜好嗎？好酷！"
+    },
+    {
+     "title": "收到贈禮·Ⅲ",
+     "text": "給我的嗎？給我的嗎！謝謝謝謝謝謝謝謝！"
+    },
+    {
+     "title": "收到贈禮·IV",
+     "text": "下次接到伊波恩的單子我偷偷幫你急件處理！"
+    }
+   ],
+   "battle": [
+    {
+     "title": "變軌技能·Ⅰ",
+     "text": "貓頭音衝擊波！"
+    },
+    {
+     "title": "變軌技能·Ⅱ",
+     "text": "來點變奏？"
+    },
+    {
+     "title": "變軌技能·Ⅲ",
+     "text": "別那麼無趣嘛！"
+    },
+    {
+     "title": "極軌終結·Ⅰ",
+     "text": "該聽我的音樂了！"
+    },
+    {
+     "title": "極軌終結·Ⅱ",
+     "text": "接下來是我的主場！"
+    },
+    {
+     "title": "極軌終結·Ⅲ",
+     "text": "伴奏就交給我吧！"
+    },
+    {
+     "title": "收容異象·Ⅰ",
+     "text": "打卡！今日份的工作也……呃……順利完成。"
+    },
+    {
+     "title": "收容異象·Ⅱ",
+     "text": "放心，我的打包技術一流……嗚呃……沒事沒事。"
+    },
+    {
+     "title": "泯除異象·Ⅰ",
+     "text": "記得給五星評論。"
+    },
+    {
+     "title": "泯除異象·Ⅱ",
+     "text": "收工收工。"
+    },
+    {
+     "title": "意外收穫·Ⅰ",
+     "text": "這個就不用簽收了吧？"
+    },
+    {
+     "title": "意外收穫·Ⅱ",
+     "text": "哦？是隱藏獎勵嗎？"
+    },
+    {
+     "title": "意外收穫·Ⅲ",
+     "text": "這樣的好運可以延續到下次抽賞嗎？"
+    },
+    {
+     "title": "意外收穫·Ⅳ",
+     "text": "快看看有什麼好東西？"
+    },
+    {
+     "title": "意外收穫·Ⅴ",
+     "text": "唔~值得發條唄果慶祝一下。"
+    },
+    {
+     "title": "意外收穫·Ⅵ",
+     "text": "我就知道今天運氣不錯！"
+    },
+    {
+     "title": "生命值低·Ⅰ",
+     "text": "好累啊……"
+    },
+    {
+     "title": "生命值低·Ⅱ",
+     "text": "電量不足……"
+    },
+    {
+     "title": "生命值低·Ⅲ",
+     "text": "急需補給點！"
+    },
+    {
+     "title": "恢復生命·Ⅰ",
+     "text": "狀態滿分！"
+    },
+    {
+     "title": "恢復生命·Ⅱ",
+     "text": "無敵的哈尼婭又回來了！"
+    },
+    {
+     "title": "力竭·Ⅰ",
+     "text": "結局不該是這樣……"
+    },
+    {
+     "title": "力竭·Ⅱ",
+     "text": "能申請二週目嗎……"
+    },
+    {
+     "title": "力竭·Ⅲ",
+     "text": "對不起，靠你們了……"
+    },
+    {
+     "title": "擊敗怪物·Ⅰ",
+     "text": "輕輕鬆鬆嘛。"
+    },
+    {
+     "title": "擊敗怪物·Ⅱ",
+     "text": "這就是王牌的實力。"
+    },
+    {
+     "title": "普通受擊·Ⅰ",
+     "text": "哎喲。"
+    },
+    {
+     "title": "普通受擊·Ⅱ",
+     "text": "小失誤。"
+    },
+    {
+     "title": "重受擊·Ⅰ",
+     "text": "好痛。"
+    },
+    {
+     "title": "重受擊·Ⅱ",
+     "text": "包裹沒壞吧？"
+    },
+    {
+     "title": "上陣·Ⅰ",
+     "text": "精英快遞員的出場費可不低哦。"
+    },
+    {
+     "title": "上陣·Ⅱ",
+     "text": "我聽到了有人在呼喚「哈尼婭」之名。"
+    },
+    {
+     "title": "協同技·Ⅰ",
+     "text": "滿分投擲！"
+    },
+    {
+     "title": "協同技·Ⅱ",
+     "text": "你在看哪？"
+    },
+    {
+     "title": "協同技·Ⅲ",
+     "text": "三振出局！"
+    },
+    {
+     "title": "滑翔·Ⅰ",
+     "text": "嗚呼！呼哈！風起！"
+    },
+    {
+     "title": "滑翔·Ⅱ",
+     "text": "準備準備！要一個帥氣的落地！"
+    },
+    {
+     "title": "切換·Ⅰ",
+     "text": "主角救場時間！"
+    },
+    {
+     "title": "切換·Ⅱ",
+     "text": "該換個節奏了！"
+    },
+    {
+     "title": "切換·Ⅲ",
+     "text": "你的呼喚，我聽到了哦！"
+    },
+    {
+     "title": "特殊切換·九原",
+     "text": "九原姐！交給我吧！"
+    },
+    {
+     "title": "特殊切換·哈索爾",
+     "text": "哈索爾！該換班啦！"
+    },
+    {
+     "title": "特殊切換·娜娜莉",
+     "text": "來合奏吧！音浪猛虎！"
+    },
+    {
+     "title": "隊友倒下·九原",
+     "text": "竟然敢欺負九原姐！"
+    },
+    {
+     "title": "隊友倒下·哈索爾",
+     "text": "哈索爾！不要一個人逞強啊！"
+    },
+    {
+     "title": "隊友倒下·娜娜莉",
+     "text": "可不能在這種時候倒下啊！"
+    },
+    {
+     "title": "彈反·Ⅰ",
+     "text": "音遊可是我的強項！"
+    },
+    {
+     "title": "彈反·Ⅱ",
+     "text": "抓住節奏！"
+    },
+    {
+     "title": "連續極限閃避成功·Ⅰ",
+     "text": "哼哼，我的閃避可是點滿了！"
+    },
+    {
+     "title": "連續極限閃避成功·Ⅱ",
+     "text": "嘖嘖，太慢了哦？"
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,1687 @@
+{
+ "slug": "iroi",
+ "id": "1075",
+ "version": "1.5.4",
+ "sources": {
+  "en": "https://static.nanoka.cc/nte/1.5.4/en/character/1075.json",
+  "zh-cn": "https://static.nanoka.cc/nte/1.5.4/zh/character/1075.json",
+  "ja": "https://static.nanoka.cc/nte/1.5.4/ja/character/1075.json",
+  "ko": "https://static.nanoka.cc/nte/1.5.4/ko/character/1075.json",
+  "zh-tw": "https://everness.info/zh-Hant/espers/1075"
+ },
+ "reads": {
+  "zh-tw": "2026-11-25"
+ },
+ "lines": {
+  "en": {
+   "daily": [
+    {
+     "title": "First Meet",
+     "text": "Hi there! My name is Oneiroi. It's hard to pronounce, so just call me Iroi! Let me know if you ever need anything. Cya!"
+    },
+    {
+     "title": "Chat: Kicking Pebbles",
+     "text": "I can't help but feel like kicking pebbles whenever I see them… I kick it further and further, until it disappears into somewhere I can't see. Do you do that too?"
+    },
+    {
+     "title": "Chat: School",
+     "text": "My friends always have interesting things to say about school. I was home-schooled and didn't have any classmates. It's a shame that I never had a real school life."
+    },
+    {
+     "title": "Chat: Evolutionary Theory",
+     "text": "Natural selection is the survival of the fittest… That's the only thing my teacher said about the theory of evolution. She didn't have to explain, since that was the first dream \"I\" ever had…"
+    },
+    {
+     "title": "Sunny",
+     "text": "The sun is shining, the flowers blooming…"
+    },
+    {
+     "title": "Rainy",
+     "text": "My tail got soaked…"
+    },
+    {
+     "title": "Cold",
+     "text": "I can't feel my limbs anymore."
+    },
+    {
+     "title": "Hot",
+     "text": "I want to get out of this scorching place."
+    },
+    {
+     "title": "Morning Greeting",
+     "text": "(Yawn) Good morning!"
+    },
+    {
+     "title": "Noon Greeting",
+     "text": "It's time for a nap."
+    },
+    {
+     "title": "Evening Greeting",
+     "text": "There goes Mr. Sun."
+    },
+    {
+     "title": "Good Night",
+     "text": "The night. Has come."
+    },
+    {
+     "title": "Hobbies",
+     "text": "What do I like? I like anything other people like! Wait, you're saying some people like the things other people hate? Then they can fight each other and I'll side with the winner!"
+    },
+    {
+     "title": "Worries",
+     "text": "My kiddo friends, Morpheus, Icelos, and Phantasos, always get themselves into trouble. I wonder if there's a way to get them under control…"
+    },
+    {
+     "title": "Topic: Sheep",
+     "text": "I heard some cultures think goats are evil… Kiddos, do you think you're baddies? Oh, you don't? Kiddos, lying only makes our image worse!"
+    },
+    {
+     "title": "Topic: Room",
+     "text": "When I was a kid, I spent a lot of time in the hospital because I got sick a lot. Back then, I thought everyone slept in white beds with those beeping and ticking machines. When I told colleagues at the charity house about this, they thought I slept in a haunted room!"
+    },
+    {
+     "title": "Topic: Dreamscapes",
+     "text": "Do you like dreaming? Wanna take a look at my dreams? Just make sure you go through the gate with the bull horns. If you walk through the ivory gate, I won't be able to get you out. You'd have to watch yourself grow from an embryo back into yourself!"
+    },
+    {
+     "title": "About Myself: Family",
+     "text": "My parents love me very much and have done a lot for me. They just want me to be happy. I'm grateful for them, yet I sometimes can't help but think…  if only a healthier kid was born instead…"
+    },
+    {
+     "title": "About Myself: Sleep",
+     "text": "I guess I've always been sleeping. Even when I'm live and kicking, I'm still dream-walking!"
+    },
+    {
+     "title": "About Myself: Esper Ability",
+     "text": "The shell known as Oneiroi gained a new life after her Esper ability awakened. That's not the real me. Do you get it? The real me is the one who's dreaming. The one talking to you is but a counterfeit role-playing a good kid!"
+    },
+    {
+     "title": "About? Myself?",
+     "text": "My body was deteriorating, but my powers allowed me to live. She is not me. She lives in place of me. Am I still alive? I… don't know."
+    },
+    {
+     "title": "About Mint",
+     "text": "Mint senpai has limitless energy and passion. I want to be like her too! I'm lying? No, no, no, why would you say that? I mean it!"
+    },
+    {
+     "title": "About Shinku I",
+     "text": "After I took Shinku into my dreams, she started hating on me. Did she not like what I showed her? Or… did she figure something out?"
+    },
+    {
+     "title": "About Shinku II",
+     "text": "We're on good terms now. That skeptical dragon misunderstood me. At least according to Mint, Shinku and I \"take good care\" of each other now!"
+    },
+    {
+     "title": "About Nanally",
+     "text": "Nanally is a little younger than I am, right? I'm a bit jealous of her, because she already knows what she wants to do at her age!"
+    },
+    {
+     "title": "Character Ascension I",
+     "text": "I'll keep trying!"
+    },
+    {
+     "title": "Character Ascension II",
+     "text": "Hmm… how much further can I go?"
+    },
+    {
+     "title": "Character Ascension III",
+     "text": "This should be as far as I level up… Thanks for helping me."
+    },
+    {
+     "title": "Gift Received I",
+     "text": "Oh, woah! I like this! Thanks a lot!"
+    },
+    {
+     "title": "Gift Received II",
+     "text": "Is this for me? I'll gladly accept it, thanks!"
+    },
+    {
+     "title": "Gift Received III",
+     "text": "Appreciate it!"
+    },
+    {
+     "title": "Gift Received IV",
+     "text": "What a great gift!"
+    }
+   ],
+   "battle": [
+    {
+     "title": "Redirect Skill I",
+     "text": "Time for a nightmare!"
+    },
+    {
+     "title": "Redirect Skill II",
+     "text": "Wakey-wakey!"
+    },
+    {
+     "title": "Redirect Skill III",
+     "text": "All kiddos, on my command!"
+    },
+    {
+     "title": "Ultimate I",
+     "text": "Everyone, let's all crawl back into Mommy's belly!"
+    },
+    {
+     "title": "Ultimate II",
+     "text": "It's super scary inside my dreams!"
+    },
+    {
+     "title": "Ultimate III",
+     "text": "Have fun in your dreams… I mean nightmares!"
+    },
+    {
+     "title": "Containment I",
+     "text": "Listen up! Stay here and don't run away!"
+    },
+    {
+     "title": "Containment II",
+     "text": "Containment complete!"
+    },
+    {
+     "title": "Nullification I",
+     "text": "Those who can't learn will have to be nullified… Sorry!"
+    },
+    {
+     "title": "Nullification II",
+     "text": "Maybe we'll meet again."
+    },
+    {
+     "title": "Unexpected Gains I",
+     "text": "This is unexpected!"
+    },
+    {
+     "title": "Unexpected Gains II",
+     "text": "Nice!"
+    },
+    {
+     "title": "Unexpected Gains III",
+     "text": "What goodies this time?"
+    },
+    {
+     "title": "Unexpected Gains IV",
+     "text": "Morpheus, don’t touch that!"
+    },
+    {
+     "title": "Unexpected Gains V",
+     "text": "Never seen this before."
+    },
+    {
+     "title": "Unexpected Gains VI",
+     "text": "Woah, can I bring this into a dream?"
+    },
+    {
+     "title": "Low Health I",
+     "text": "Cold… so cold…"
+    },
+    {
+     "title": "Low Health II",
+     "text": "My legs won't move anymore."
+    },
+    {
+     "title": "Low Health III",
+     "text": "My body. Hurts."
+    },
+    {
+     "title": "Heal I",
+     "text": "A breath of fresh air!"
+    },
+    {
+     "title": "Heal II",
+     "text": "I'm so back!"
+    },
+    {
+     "title": "Down I",
+     "text": "The sky. Has no, openings."
+    },
+    {
+     "title": "Down II",
+     "text": "Can I… be peaceful again?"
+    },
+    {
+     "title": "Down III",
+     "text": "Outside. Getting quiet."
+    },
+    {
+     "title": "Takedown I",
+     "text": "Oh my, I forgot to say goodbye."
+    },
+    {
+     "title": "Takedown II",
+     "text": "Wow, gone already?"
+    },
+    {
+     "title": "Damaged I",
+     "text": "Ugh!"
+    },
+    {
+     "title": "Damaged II",
+     "text": "Oww!"
+    },
+    {
+     "title": "Heavily Damaged I",
+     "text": "Ouch, ouch, ouch…"
+    },
+    {
+     "title": "Heavily Damaged II",
+     "text": "Got hurt…"
+    },
+    {
+     "title": "Deploy I",
+     "text": "Iroi, here to battle!"
+    },
+    {
+     "title": "Deploy II",
+     "text": "I'll do my best!"
+    },
+    {
+     "title": "Entry Attack I",
+     "text": "Let's go!"
+    },
+    {
+     "title": "Entry Attack II",
+     "text": "Kiddo beam!"
+    },
+    {
+     "title": "Entry Attack III",
+     "text": "Ready—Fire!"
+    },
+    {
+     "title": "Glide I",
+     "text": "Am I really flying…?"
+    },
+    {
+     "title": "Glide II",
+     "text": "Let's go!"
+    },
+    {
+     "title": "Switch I",
+     "text": "Ah, my turn already?"
+    },
+    {
+     "title": "Switch II",
+     "text": "Kiddos, it's our turn to shine!"
+    },
+    {
+     "title": "Switch III",
+     "text": "Ah, me? I'm coming!"
+    },
+    {
+     "title": "Special Switch - Mint",
+     "text": "Mint senpai, I'm here!"
+    },
+    {
+     "title": "Special Switch - Shinku",
+     "text": "Oh my, Shinku, you can't handle this alone?"
+    },
+    {
+     "title": "Special Switch - Zero",
+     "text": "Appraiser, I'm here to help!"
+    },
+    {
+     "title": "Teammate Down - Mint",
+     "text": "Did Mint senpai pass out? Leave this to me!"
+    },
+    {
+     "title": "Teammate Down - Shinku",
+     "text": "Oh, that just happened again…"
+    },
+    {
+     "title": "Teammate Down - Zero",
+     "text": "Huh? Appraiser… gone?"
+    },
+    {
+     "title": "Parry I",
+     "text": "I really blocked it!"
+    },
+    {
+     "title": "Parry II",
+     "text": "Arm. Sore."
+    },
+    {
+     "title": "Consecutive Critical Dodge Success I",
+     "text": "Heh, how did you miss those?"
+    },
+    {
+     "title": "Consecutive Critical Dodge Success II",
+     "text": "Phew! I got away with that."
+    }
+   ]
+  },
+  "zh-cn": {
+   "daily": [
+    {
+     "title": "初次见面",
+     "text": "你好！我的名字是奥涅伊洛伊。当然，这个名字太拗口啦，所以叫我伊洛伊就好~有什么需要帮忙的都可以喊我哦，就这样啦，回见！"
+    },
+    {
+     "title": "闲聊·踢石子",
+     "text": "看见路边的小石子，总是忍不住想去踢呢……一下一下，越来越远，直到它掉进看不见的地方为止。你会有这样的习惯吗？"
+    },
+    {
+     "title": "闲聊·学校",
+     "text": "朋友们总是聊起在学校的故事，非常有趣~我的知识，都是家里请的老师教给我的。没有同学，没有经历校园生活，总觉得非常遗憾呢。"
+    },
+    {
+     "title": "闲聊·进化论",
+     "text": "「物竞天择，适者生存」，老师提到物种进化论的时候只说了这句话。她不说我也明白。毕竟，这是「我」最初的一个梦……"
+    },
+    {
+     "title": "大晴天",
+     "text": "太阳当空照，花儿对我笑~"
+    },
+    {
+     "title": "雨天",
+     "text": "尾巴沾到水了……"
+    },
+    {
+     "title": "寒冷",
+     "text": "手脚都没有知觉了呢。"
+    },
+    {
+     "title": "炎热",
+     "text": "好热啊，真想赶快离开这儿。"
+    },
+    {
+     "title": "早上问候",
+     "text": "呼啊~早上好！"
+    },
+    {
+     "title": "中午问候",
+     "text": "该睡午觉咯。"
+    },
+    {
+     "title": "傍晚问候",
+     "text": "太阳公公落山了。"
+    },
+    {
+     "title": "晚安",
+     "text": "天。黑了。"
+    },
+    {
+     "title": "爱好",
+     "text": "喜欢的东西？只要是大家喜欢的东西，我就都喜欢哦！……什么什么？一些人喜欢的东西，是另一些人讨厌的东西？那就让他们打一架，看看谁活下来就好啦~"
+    },
+    {
+     "title": "烦恼",
+     "text": "莫尔甫斯、伊刻洛斯、方塔苏斯，也就是我的小羊朋友们，总会自说自话地惹出一些麻烦事。有没有什么办法能让它们听我的话呢？真伤脑筋……"
+    },
+    {
+     "title": "话题·羊",
+     "text": "听说在有些地方，羊是邪恶的象征呢……小羊们，你们觉得自己是大坏蛋吗？欸~居然不觉得吗？说谎的小羊，坏加一等哦！"
+    },
+    {
+     "title": "话题·房间",
+     "text": "我小的时候身体不太好，总是住在病房里。那时候，我觉得所有人都应该睡在白花花的床上，床边放着叮叮当当、滴滴答答的仪器。和福利院的同事聊这些的时候，他们吓了一跳，以为是我的房间闹鬼了呢~"
+    },
+    {
+     "title": "话题·梦境",
+     "text": "你喜欢做梦吗？要不要来我的梦里看看？记得要走牛角做的门哦，要是不小心走进象牙门，就算是我也没法救你出来。到时候，就只能看着自己从胚胎慢慢变成人啦~"
+    },
+    {
+     "title": "关于自己·家人",
+     "text": "爸爸妈妈很爱我，他们希望我快快乐乐地活下去，为我做了很多很多。我很感激他们。可我还是忍不住要想……如果出生的不是我，而是其他健康的孩子就好了。"
+    },
+    {
+     "title": "关于自己·睡觉",
+     "text": "其实我一直都在睡觉哦！看起来活蹦乱跳的我，其实一直都在梦游哦！"
+    },
+    {
+     "title": "关于自己·异能",
+     "text": "名叫「奥涅伊洛伊」的空壳，在觉醒异能之后，重获新生！其实我不是真正的「我」。哎呀，这样说很难理解吧？总之梦里那个才是真正的「我」。现在正在对你说话的我，不过是一个在努力模仿好孩子的假货哦~"
+    },
+    {
+     "title": "关？于？自？己？",
+     "text": "身体。原本要烂掉的。异能，让我活下去。她不是我。她代替我，活着。我自己还活着吗？我……不知道。"
+    },
+    {
+     "title": "关于薄荷",
+     "text": "薄荷前辈总有用不完的活力和热情，我也好想变成那样啊~说反话？不不不，你怎么会那么想呢，这明明是我的真心话呀。"
+    },
+    {
+     "title": "关于真红·其一",
+     "text": "带真红进过我的梦境之后，她好像就变得很讨厌我。难道她不喜欢我梦里的景象吗？还是说……她发现了什么吗？"
+    },
+    {
+     "title": "关于真红·其二",
+     "text": "我和真红的误会已经解开啦！是这只多疑龙冤枉我了呢~按照薄荷的说法，现在我们有在「相亲相爱」地好好相处哦~"
+    },
+    {
+     "title": "关于娜娜莉",
+     "text": "娜娜莉小姐的年纪，应该比我小一点吧？她在这个年纪，就已经找到自己想做的事了，真羡慕啊。"
+    },
+    {
+     "title": "角色突破·Ⅰ",
+     "text": "我会继续加油的~"
+    },
+    {
+     "title": "角色突破·Ⅱ",
+     "text": "唔……还能走多远呢？"
+    },
+    {
+     "title": "角色突破·Ⅲ",
+     "text": "提升，应该到此为止了吧……谢谢你帮我。"
+    },
+    {
+     "title": "收到赠礼·Ⅰ",
+     "text": "哦哦，我喜欢这个！谢谢你~"
+    },
+    {
+     "title": "收到赠礼·Ⅱ",
+     "text": "这是送给我的吗？那我就不客气地收下啦~谢谢！"
+    },
+    {
+     "title": "收到赠礼·Ⅲ",
+     "text": "谢谢~"
+    },
+    {
+     "title": "收到赠礼·IV",
+     "text": "好棒的礼物！"
+    }
+   ],
+   "battle": [
+    {
+     "title": "变轨技能·Ⅰ",
+     "text": "要做噩梦啦！"
+    },
+    {
+     "title": "变轨技能·Ⅱ",
+     "text": "该醒醒啦！"
+    },
+    {
+     "title": "变轨技能·Ⅲ",
+     "text": "全体小羊，听我指挥~！"
+    },
+    {
+     "title": "极轨终结·Ⅰ",
+     "text": "大家，都回到妈妈的肚子里去吧~"
+    },
+    {
+     "title": "极轨终结·Ⅱ",
+     "text": "我的梦里，很可怕的哦~！"
+    },
+    {
+     "title": "极轨终结·Ⅲ",
+     "text": "睡个好觉……骗你的！是噩梦~！"
+    },
+    {
+     "title": "收容异象·Ⅰ",
+     "text": "听好了！乖乖待着，不要乱跑哦！"
+    },
+    {
+     "title": "收容异象·Ⅱ",
+     "text": "收容完成~"
+    },
+    {
+     "title": "泯除异象·Ⅰ",
+     "text": "没法管教的家伙，只好泯除掉了……抱歉！"
+    },
+    {
+     "title": "泯除异象·Ⅱ",
+     "text": "我们，有缘再见吧？"
+    },
+    {
+     "title": "意外收获·Ⅰ",
+     "text": "意外收获呢~"
+    },
+    {
+     "title": "意外收获·Ⅱ",
+     "text": "真不错呀！"
+    },
+    {
+     "title": "意外收获·Ⅲ",
+     "text": "是什么好东西呢~？"
+    },
+    {
+     "title": "意外收获·Ⅳ",
+     "text": "莫尔甫斯，别抢！"
+    },
+    {
+     "title": "意外收获·Ⅴ",
+     "text": "没见过的东西诶。"
+    },
+    {
+     "title": "意外收获·Ⅵ",
+     "text": "哇，这可以带进梦里吗？"
+    },
+    {
+     "title": "生命值低·Ⅰ",
+     "text": "冷……好冷……"
+    },
+    {
+     "title": "生命值低·Ⅱ",
+     "text": "跑不动啦。"
+    },
+    {
+     "title": "生命值低·Ⅲ",
+     "text": "身体。很痛。"
+    },
+    {
+     "title": "恢复生命·Ⅰ",
+     "text": "呼吸新鲜空气~"
+    },
+    {
+     "title": "恢复生命·Ⅱ",
+     "text": "恢复啦！"
+    },
+    {
+     "title": "力竭·Ⅰ",
+     "text": "天空。没有。缺口。"
+    },
+    {
+     "title": "力竭·Ⅱ",
+     "text": "我。可以回去了吗？"
+    },
+    {
+     "title": "力竭·Ⅲ",
+     "text": "外面。安静下来了。"
+    },
+    {
+     "title": "击败怪物·Ⅰ",
+     "text": "哎呀，没给你留说再见的时间呢。"
+    },
+    {
+     "title": "击败怪物·Ⅱ",
+     "text": "哇，就这么消失了？"
+    },
+    {
+     "title": "普通受击·Ⅰ",
+     "text": "哎呀！"
+    },
+    {
+     "title": "普通受击·Ⅱ",
+     "text": "呜啊！"
+    },
+    {
+     "title": "重受击·Ⅰ",
+     "text": "痛痛痛……"
+    },
+    {
+     "title": "重受击·Ⅱ",
+     "text": "受伤了……"
+    },
+    {
+     "title": "上阵·Ⅰ",
+     "text": "伊洛伊，要战斗！"
+    },
+    {
+     "title": "上阵·Ⅱ",
+     "text": "我会加油的！"
+    },
+    {
+     "title": "协同技·Ⅰ",
+     "text": "冲呀！"
+    },
+    {
+     "title": "协同技·Ⅱ",
+     "text": "小羊光线——"
+    },
+    {
+     "title": "协同技·Ⅲ",
+     "text": "准备——发射！"
+    },
+    {
+     "title": "滑翔·Ⅰ",
+     "text": "真的能飞呀？"
+    },
+    {
+     "title": "滑翔·Ⅱ",
+     "text": "出发咯~"
+    },
+    {
+     "title": "切换·Ⅰ",
+     "text": "呀，这就轮到我了？"
+    },
+    {
+     "title": "切换·Ⅱ",
+     "text": "小羊们，轮到我们上场咯！"
+    },
+    {
+     "title": "切换·Ⅲ",
+     "text": "啊？我吗？来了！"
+    },
+    {
+     "title": "特殊切换·薄荷",
+     "text": "我来啦，薄荷前辈~！"
+    },
+    {
+     "title": "特殊切换·真红",
+     "text": "诶？你一个人处理不了吗，真红？"
+    },
+    {
+     "title": "特殊切换·零",
+     "text": "鉴定师，我来帮忙啦~！"
+    },
+    {
+     "title": "队友倒下·薄荷",
+     "text": "薄荷前辈倒下了？没关系，换我来吧！"
+    },
+    {
+     "title": "队友倒下·真红",
+     "text": "诶？还是这么不小心吗……"
+    },
+    {
+     "title": "队友倒下·零",
+     "text": "诶，鉴定师……不见了？"
+    },
+    {
+     "title": "弹反·Ⅰ",
+     "text": "没想到真能挡下来呀~！"
+    },
+    {
+     "title": "弹反·Ⅱ",
+     "text": "手。麻了。"
+    },
+    {
+     "title": "连续极限闪避成功·Ⅰ",
+     "text": "诶，怎么没抓到我呀？"
+    },
+    {
+     "title": "连续极限闪避成功·Ⅱ",
+     "text": "呼~逃走了逃走了。"
+    }
+   ]
+  },
+  "ja": {
+   "daily": [
+    {
+     "title": "初対面",
+     "text": "こんにちは！私、オネイロヒっていいます。ちょっと言いにくい名前だから、イロヒって呼んでくださいね。何か私にできることあったら、いつでも声かけてください！それじゃあ、また！"
+    },
+    {
+     "title": "雑談-小石蹴り",
+     "text": "落ちてる小石を見つけると、つい…どこかの端っこに落ちるまで、ずーっと蹴りたくなっちゃうんです。あなたも、そういう遊びしませんか？"
+    },
+    {
+     "title": "雑談-学校",
+     "text": "知人が、いつも楽しそうに学校の話をするんですよね。私、ずっと家庭教師の先生と一緒だったから、クラスメイトとかいなくて。なんだか、もったいないことしちゃったなぁって。"
+    },
+    {
+     "title": "雑談-進化論",
+     "text": "「適者生存」…先生が進化のお話で言ってたんです。でも、そんなの言われなくても分かってましたよ？だってそれ、「私」が一番最初に見た夢ですから。"
+    },
+    {
+     "title": "快晴",
+     "text": "お日様キラキラ〜、お花はニコニコ〜！"
+    },
+    {
+     "title": "雨",
+     "text": "しっぽ、濡れちゃいました…"
+    },
+    {
+     "title": "寒い",
+     "text": "手と足の感覚…なくなっちゃいました。"
+    },
+    {
+     "title": "灼熱",
+     "text": "すっごく暑いですね。早く涼しいとこに行きましょ。"
+    },
+    {
+     "title": "朝の挨拶",
+     "text": "ふぁ〜…おはようございます！"
+    },
+    {
+     "title": "昼の挨拶",
+     "text": "そろそろ、お昼寝の時間ですね。"
+    },
+    {
+     "title": "夕方の挨拶",
+     "text": "お日様、沈んじゃいました。"
+    },
+    {
+     "title": "おやすみ",
+     "text": "そら。…くらい。"
+    },
+    {
+     "title": "趣味",
+     "text": "好きなものですか？みんなが好きなものなら、私も大抵好きですよ！…え？ある人の「好き」は、別の人の「嫌い」？だったら勝負して、生き残った方が勝ちでいいじゃないですか〜。"
+    },
+    {
+     "title": "悩み",
+     "text": "モルペウス、イケロス、パンタソス。この羊ちゃんたち、いつも暴れてほんっと大変なんです。どうやったら、みーんな大人しくしてくれるんですかねぇ…"
+    },
+    {
+     "title": "話題-羊",
+     "text": "ある場所だと、羊って邪悪の象徴らしいですね…ねえ、羊ちゃんたちは自分が「悪い子」だと思ってますかね？えっ、思わない？ふふっ、嘘つきな羊はもっと悪い子ですよ！"
+    },
+    {
+     "title": "話題-部屋",
+     "text": "私、小さい頃は体が弱くて、ずっと病室で寝てたんです。だから、自分の部屋には真っ白なベッドがあって、横にはピコピコ光る機械が置いてあるのが「普通」だと思ってて。事情を知らない職場の同僚にその話をしたら、「その家、ホラーハウスか何かか？」って本気で引かれちゃいました。"
+    },
+    {
+     "title": "話題-夢",
+     "text": "夢を見るのは好きですか？よかったら、私の夢に遊びに来ませんか？…あ、その時は絶対に「牛の角の門」を通ってくださいね。うっかり「象牙の門」に入っちゃったら、私でも助けられません。自分が胎児からゆっくり人間になっていくのを、ただ眺めるしかなくなりますからね。"
+    },
+    {
+     "title": "自分について-家族",
+     "text": "両親には、愛情をいっぱい注いでもらいました。私が楽しく生きられるように、本当に色んなことをしてくれたんです…でも、たまに考えちゃうんですよね。私じゃなくて、もっと健康な子が生まれてきてたらよかったのに、って。"
+    },
+    {
+     "title": "自分について-睡眠",
+     "text": "実は私、ずーっと寝てる状態なんですよ！今こうやって元気に跳ね回ってるのも、ただの夢遊病なんです！"
+    },
+    {
+     "title": "自分について-異能",
+     "text": "「オネイロヒ」っていうこの抜け殻が、異能で目覚めて新しい人生を手に入れたんです！だから、実は私、本当の「私」じゃないんですよ。あはは、ちょっと分かりにくいですかね？とにかく、夢の中にいるのが本当の「私」で、今あなたと喋ってる私は、一生懸命「いい子」のフリをしてるだけの偽物ってことです。"
+    },
+    {
+     "title": "自分について？",
+     "text": "からだ。くちるはず、だった。異能が、私を、いかしてる。彼女は、にせもの。私の、かわり…私は、いきているの？"
+    },
+    {
+     "title": "ミントについて",
+     "text": "ミント先輩って、いつも元気で情熱的で、本当に憧れちゃいます！…え、嫌味？やだなぁ、そんなわけないじゃないですか。本心ですよ？"
+    },
+    {
+     "title": "真紅について・その1",
+     "text": "真紅さんを私の夢に招待してから、なんだか避けられてる気がするんです。夢の景色が気に入らなかったんでしょうか？それとも…気づかれちゃったんですかね？"
+    },
+    {
+     "title": "真紅について・その2",
+     "text": "真紅さんとはすっかり打ち解けましたよ！まったく疑り深いんだから、私のこと誤解してただけなんです。ミント先輩の言う通り、今は「親友」として仲良くやってます〜！"
+    },
+    {
+     "title": "ナナリについて",
+     "text": "ナナリさんって、私より少し年下ですよね？あの若さでもう「やりたいこと」を見つけてるなんて、ほんと凄いなぁって思います。"
+    },
+    {
+     "title": "キャラ突破Ⅰ",
+     "text": "これからも頑張りますね！"
+    },
+    {
+     "title": "キャラ突破Ⅱ",
+     "text": "ん〜…あとどれくらい、もつんでしょうか？"
+    },
+    {
+     "title": "キャラ突破Ⅲ",
+     "text": "ここで、打ち止めですね…色々と、ありがとうございました。"
+    },
+    {
+     "title": "届けられたギフトⅠ",
+     "text": "わぁ、これ私のお気に入りなんです！ありがとうございます〜！"
+    },
+    {
+     "title": "届けられたギフトⅡ",
+     "text": "プレゼントですか？遠慮なくいただきますね！"
+    },
+    {
+     "title": "届けられたギフトⅢ",
+     "text": "ありがとうございます〜！"
+    },
+    {
+     "title": "届けられたギフトⅣ",
+     "text": "素敵なプレゼント、ありがとうございます！"
+    }
+   ],
+   "battle": [
+    {
+     "title": "バイレールスキルⅠ",
+     "text": "悪夢を見なさい！"
+    },
+    {
+     "title": "バイレールスキルⅡ",
+     "text": "そろそろ起きなさい！"
+    },
+    {
+     "title": "バイレールスキルⅢ",
+     "text": "羊ちゃんたち、出番ですよ！"
+    },
+    {
+     "title": "EXレール終結Ⅰ",
+     "text": "みんな、夢の中に、帰っていいですよ。"
+    },
+    {
+     "title": "EXレール終結Ⅱ",
+     "text": "私の夢の中って、とーっても怖いんですよ〜！"
+    },
+    {
+     "title": "EXレール終結Ⅲ",
+     "text": "いい夢を…なーんて嘘！悪夢ですよ〜！"
+    },
+    {
+     "title": "異象収容Ⅰ",
+     "text": "ほーら！大人しくして、勝手に走り回らないでくださいね！"
+    },
+    {
+     "title": "異象収容Ⅱ",
+     "text": "はーい、収容完了です！"
+    },
+    {
+     "title": "異象排除Ⅰ",
+     "text": "言うこと聞けないなら、排除するしかないですよね…ごめんなさい！"
+    },
+    {
+     "title": "異象排除Ⅱ",
+     "text": "ご縁があったら、またお会いしましょう〜。"
+    },
+    {
+     "title": "意外な収穫Ⅰ",
+     "text": "わっ、意外な収穫です！"
+    },
+    {
+     "title": "意外な収穫Ⅱ",
+     "text": "すっごくいいですね！"
+    },
+    {
+     "title": "意外な収穫Ⅲ",
+     "text": "どれどれ〜、何が入ってますかね〜？"
+    },
+    {
+     "title": "意外な収穫Ⅳ",
+     "text": "こら、モルペウス！ダメですよ！"
+    },
+    {
+     "title": "意外な収穫Ⅴ",
+     "text": "見たことないものですね〜。"
+    },
+    {
+     "title": "意外な収穫Ⅵ",
+     "text": "わぁ、これ私の夢の中に持っていけますかね？"
+    },
+    {
+     "title": "低HPⅠ",
+     "text": "なんだか…すっごく寒いです…"
+    },
+    {
+     "title": "低HPⅡ",
+     "text": "もう、動けそうにないです…"
+    },
+    {
+     "title": "低HPⅢ",
+     "text": "からだ…すごく、いたい。"
+    },
+    {
+     "title": "HP回復Ⅰ",
+     "text": "新鮮な空気です〜！"
+    },
+    {
+     "title": "HP回復Ⅱ",
+     "text": "回復しました〜！"
+    },
+    {
+     "title": "力尽きⅠ",
+     "text": "そら。でぐち。…ない。"
+    },
+    {
+     "title": "力尽きⅡ",
+     "text": "わたし。…かえっていい？"
+    },
+    {
+     "title": "力尽きⅢ",
+     "text": "そと。…しずかになった。"
+    },
+    {
+     "title": "敵を撃破Ⅰ",
+     "text": "あぁあ、さようならも言えなかったね。"
+    },
+    {
+     "title": "敵を撃破Ⅱ",
+     "text": "わぁ、このまま消えちゃうんですか？"
+    },
+    {
+     "title": "ダメージを受ける（通常）Ⅰ",
+     "text": "うわっ！"
+    },
+    {
+     "title": "ダメージを受ける（通常）Ⅱ",
+     "text": "いたっ！"
+    },
+    {
+     "title": "大打撃Ⅰ",
+     "text": "いたたた…"
+    },
+    {
+     "title": "大打撃Ⅱ",
+     "text": "ケガしちゃいました…"
+    },
+    {
+     "title": "出撃Ⅰ",
+     "text": "イロヒ、行きます！"
+    },
+    {
+     "title": "出撃Ⅱ",
+     "text": "頑張りますからね！"
+    },
+    {
+     "title": "コンビスキルⅠ",
+     "text": "いけー！"
+    },
+    {
+     "title": "コンビスキルⅡ",
+     "text": "羊ちゃんビームーー！"
+    },
+    {
+     "title": "コンビスキルⅢ",
+     "text": "準備ーー発射！"
+    },
+    {
+     "title": "滑空Ⅰ",
+     "text": "本当に飛べるんですか？"
+    },
+    {
+     "title": "滑空Ⅱ",
+     "text": "しゅっぱーつ！"
+    },
+    {
+     "title": "切替Ⅰ",
+     "text": "あら、もう私の出番ですか？"
+    },
+    {
+     "title": "切替Ⅱ",
+     "text": "ほら、私たちの番ですよ〜！"
+    },
+    {
+     "title": "切替Ⅲ",
+     "text": "えっ？私ですか？行けますよ！"
+    },
+    {
+     "title": "特殊切替・ミント",
+     "text": "任せてください、ミント先輩〜！"
+    },
+    {
+     "title": "特殊切替・真紅",
+     "text": "えっ？真紅さん、この程度も処理できないんですか？"
+    },
+    {
+     "title": "特殊切替・零",
+     "text": "鑑定士さん、手伝います！"
+    },
+    {
+     "title": "仲間気絶・ミント",
+     "text": "ミント先輩！？あとは私に任せてください！"
+    },
+    {
+     "title": "仲間気絶・真紅",
+     "text": "えっ？また私が後始末するんですか…"
+    },
+    {
+     "title": "仲間気絶・零",
+     "text": "鑑定士さん…いなくなっちゃいました？"
+    },
+    {
+     "title": "パリィⅠ",
+     "text": "へぇ！防げちゃうんだ〜。"
+    },
+    {
+     "title": "パリィⅡ",
+     "text": "て。…しびれた。"
+    },
+    {
+     "title": "連続極限回避成功Ⅰ",
+     "text": "えっ、どこを狙ってるんですか？"
+    },
+    {
+     "title": "連続極限回避成功Ⅱ",
+     "text": "ふぅ〜、あぶないあぶない。"
+    }
+   ]
+  },
+  "ko": {
+   "daily": [
+    {
+     "title": "첫 만남",
+     "text": "안녕하세요, 제 이름은 오그네스 일로이예요! 이름이 조금 어렵죠? 그냥 일로이라고 불러도 돼요~ 도움이 필요하면 언제든 저를 불러 주세요. 그럼 이만!"
+    },
+    {
+     "title": "대화·돌멩이 차기",
+     "text": "길가의 작은 돌을 보면 괜히 발로 차고 싶어져요… 툭, 툭, 차다 보면 점점 멀어져서 보이지 않는 곳으로 굴러가 버릴 때까지요. 감정사님도 그런 적 있나요?"
+    },
+    {
+     "title": "대화·학교",
+     "text": "친구들이 학교 이야기를 자주 하는데, 정말 재미있어 보여요~ 저는 집으로 선생님이 오셔서 가르쳐 주셨거든요. 그래서 학교 친구도 없고 학교생활도 해본 적이 없어서, 늘 아쉽게 느껴져요."
+    },
+    {
+     "title": "대화·진화론",
+     "text": "「자연선택, 적자생존」, 선생님은 진화론을 설명하실 때 이 말만 하셨어요. 사실 말씀하지 않으셔도 저는 알고 있었어요. 그건 「저」의 첫번째 꿈이니까요…"
+    },
+    {
+     "title": "맑은 날",
+     "text": "둥근 해가 떴습니다~"
+    },
+    {
+     "title": "비 오는 날",
+     "text": "꼬리가 젖었어요…"
+    },
+    {
+     "title": "추운 날",
+     "text": "손발에 감각이 없어졌어요."
+    },
+    {
+     "title": "더운 날",
+     "text": "너무 더워요… 빨리 시원한 곳으로 가고 싶어요."
+    },
+    {
+     "title": "아침 인사",
+     "text": "흐아암~ 좋은 아침이에요!"
+    },
+    {
+     "title": "점심 인사",
+     "text": "낮잠 잘 시간이네요."
+    },
+    {
+     "title": "저녁 인사",
+     "text": "해님도 산 너머로 자러 갔나 봐요."
+    },
+    {
+     "title": "취침 인사",
+     "text": "하늘. 까매."
+    },
+    {
+     "title": "취미",
+     "text": "좋아하는 거요? 모두가 좋아하는 거라면, 저도 다 좋아해요! 네…? 어떤 사람이 좋아하는 걸 다른 사람은 싫어할 수도 있다고요? 그럼 둘이 싸워서 누가 살아남는지 보면 되겠네요~"
+    },
+    {
+     "title": "고민",
+     "text": "제 양 친구들인 모르페우스, 이카루스, 판타소스는 늘 제멋대로 굴면서 문제를 일으켜요. 얘들이 제 말을 잘 듣게 할 방법은 없을까요? 정말 고민이에요…"
+    },
+    {
+     "title": "주제·양",
+     "text": "어떤 곳에서는 양이 악의 상징이라고 하더라고요… 애들아, 너희는 자기가 나쁘다고 생각해? 에이~ 아니라고? 거짓말하는 양이 더 나쁜 양이야!"
+    },
+    {
+     "title": "주제·방",
+     "text": "어렸을 적엔 몸이 약해서 늘 병실에 있었어요. 그땐 모든 사람이 새하얀 침대에서 자고, 그 옆에는 삐삐 소리가 나는 기계를 놔둔다고 생각했죠. 복지 시설 동료들한테 이 얘기를 했더니 깜짝 놀라더라고요. 제 방에 귀신이라도 나온 건 줄 알았대요~"
+    },
+    {
+     "title": "주제·꿈",
+     "text": "꿈꾸는 거 좋아하세요? 제 꿈에 한번 놀러 와보실래요? 들어올 땐 꼭 소뿔로 된 문으로 들어와야 해요! 실수로 상아로 된 문으로 들어가면 저도 꺼내줄 방법이 없어요. 그때는 단세포에서 인간이 되어가는 자신의 모습을 지켜보는 수밖에 없답니다~"
+    },
+    {
+     "title": "자신·가족에 관해",
+     "text": "부모님은 저를 정말 사랑해 주세요. 제가 행복하게 살아가길 바라면서 정말 많은 것들을 해주셨죠. 그래서 무척 감사하게 생각해요. 그래도… 제가 아닌 건강한 아이가 태어났으면 좋았을 텐데 하는 생각이 들곤 해요."
+    },
+    {
+     "title": "자신에 관해·잠",
+     "text": "사실 저는 계속 잠들어 있는 상태예요! 활기차게 돌아다니는 것처럼 보여도, 사실은 계속 꿈속을 헤매고 있답니다!"
+    },
+    {
+     "title": "자신·이능력에 관해",
+     "text": "「오그네스 일로이」라는 이름의 빈 껍데기가 이능력을 각성하면서 다시 태어났어요! 사실 저는 진짜 「제」가 아니에요. 아, 이렇게 말하면 이해하기 좀 어렵죠? 아무튼 꿈속에 있는 쪽이 진짜 「저」이고, 지금 감정사님과 이야기하고 있는 저는, 착한 아이를 흉내 내려고 애쓰는 가짜일 뿐이랍니다~"
+    },
+    {
+     "title": "자?신?에? 관?해?",
+     "text": "몸. 원래 썩을 운명이었어. 이능력이, 나를 살렸어. 그녀는 내가 아니야. 나 대신, 살고 있어. 나는… 살아있나? 모르겠어…"
+    },
+    {
+     "title": "민트에 관해",
+     "text": "민트 선배는 항상 활기차고 열정이 가득하죠. 저도 그런 사람이 되고 싶어요~ 반어법이냐고요? 아뇨, 아뇨! 왜 그렇게 생각하세요. 이건 정말 제 진심이에요."
+    },
+    {
+     "title": "신쿠에 관해·1",
+     "text": "신쿠를 제 꿈속으로 데려간 적이 있는데, 그 뒤로 저를 싫어하게 된 것 같아요. 제 꿈속 풍경이 마음에 들지 않았던 걸까요? 아니면… 뭔가 알아차린 걸까요?"
+    },
+    {
+     "title": "신쿠에 관해·2",
+     "text": "신쿠와의 오해는 모두 풀었어요! 의심이 많은 그 용이 저를 잘못 생각하고 있던 거예요~ 민트 말로는 저희가 「사이좋게」 지내고 있대요~"
+    },
+    {
+     "title": "나나리에 관해",
+     "text": "나나리 씨는 저보다 어린 것 같은데, 그 나이에 벌써 하고 싶은 일을 찾았다니 정말 부러워요."
+    },
+    {
+     "title": "캐릭터 돌파·Ⅰ",
+     "text": "앞으로도 계속 열심히 할게요~"
+    },
+    {
+     "title": "캐릭터 돌파·Ⅱ",
+     "text": "음… 저는 어디까지 갈 수 있을까요?"
+    },
+    {
+     "title": "캐릭터 돌파·Ⅲ",
+     "text": "아무래도 여기가 한계겠죠…? 도와줘서 고마워요."
+    },
+    {
+     "title": "선물 수령·Ⅰ",
+     "text": "와아~ 마음에 들어요! 고마워요~"
+    },
+    {
+     "title": "선물 수령·Ⅱ",
+     "text": "저한테 주는 건가요? 그럼 사양하지 않을게요~ 고마워요!"
+    },
+    {
+     "title": "선물 수령·Ⅲ",
+     "text": "고마워요~"
+    },
+    {
+     "title": "선물 수령·IV",
+     "text": "멋진 선물이네요!"
+    }
+   ],
+   "battle": [
+    {
+     "title": "바이레일 스킬·Ⅰ",
+     "text": "악몽을 꾸게 될걸!"
+    },
+    {
+     "title": "바이레일 스킬·Ⅱ",
+     "text": "일어날 시간이야!"
+    },
+    {
+     "title": "바이레일 스킬·Ⅲ",
+     "text": "양들아, 내 지휘에 따르렴~!"
+    },
+    {
+     "title": "울티메이트·Ⅰ",
+     "text": "다들 엄마 뱃속으로 돌아가자~"
+    },
+    {
+     "title": "울티메이트·Ⅱ",
+     "text": "내 꿈속은 아주 무섭다고~!"
+    },
+    {
+     "title": "울티메이트·Ⅲ",
+     "text": "잘 자… 속았지? 악몽이나 꿔버려~!"
+    },
+    {
+     "title": "이상 수용·Ⅰ",
+     "text": "어허! 움직이지 말고, 얌전히 있어!"
+    },
+    {
+     "title": "이상 수용·Ⅱ",
+     "text": "수용 완료~"
+    },
+    {
+     "title": "이상 제거·Ⅰ",
+     "text": "말 안 듣는 아이는 제거할 수밖에… 미안해!"
+    },
+    {
+     "title": "이상 제거·Ⅱ",
+     "text": "우리, 다시 만날 수 있겠지?"
+    },
+    {
+     "title": "뜻밖의 수확·Ⅰ",
+     "text": "뜻밖의 수확이네~"
+    },
+    {
+     "title": "뜻밖의 수확·Ⅱ",
+     "text": "이거 괜찮은데?"
+    },
+    {
+     "title": "뜻밖의 수확·Ⅲ",
+     "text": "어떤 물건이려나~?"
+    },
+    {
+     "title": "뜻밖의 수확·Ⅳ",
+     "text": "그건 내 거야, 모르페우스!"
+    },
+    {
+     "title": "뜻밖의 수확·Ⅴ",
+     "text": "처음 보는 물건이네."
+    },
+    {
+     "title": "뜻밖의 수확·Ⅵ",
+     "text": "와~ 이거 꿈에도 가져갈 수 있으려나?"
+    },
+    {
+     "title": "HP 낮음·Ⅰ",
+     "text": "추, 추워…"
+    },
+    {
+     "title": "HP 낮음·Ⅱ",
+     "text": "더는 못 뛰겠어."
+    },
+    {
+     "title": "HP 낮음·Ⅲ",
+     "text": "몸. 아파."
+    },
+    {
+     "title": "HP 회복·Ⅰ",
+     "text": "신선한 공기네~"
+    },
+    {
+     "title": "HP 회복·Ⅱ",
+     "text": "회복했어!"
+    },
+    {
+     "title": "탈진·Ⅰ",
+     "text": "하늘에 없어, 작은 틈."
+    },
+    {
+     "title": "탈진·Ⅱ",
+     "text": "나, 돌아가도 돼?"
+    },
+    {
+     "title": "탈진·Ⅲ",
+     "text": "바깥이, 조용해졌어."
+    },
+    {
+     "title": "몬스터 처치·Ⅰ",
+     "text": "이런, 작별 인사할 시간도 못 줬네."
+    },
+    {
+     "title": "몬스터 처치·Ⅱ",
+     "text": "와, 그냥 사라져 버리는 거야?"
+    },
+    {
+     "title": "일반 피격·Ⅰ",
+     "text": "으악!"
+    },
+    {
+     "title": "일반 피격·Ⅱ",
+     "text": "꺅!"
+    },
+    {
+     "title": "심각한 피해·Ⅰ",
+     "text": "아파…"
+    },
+    {
+     "title": "심각한 피해·Ⅱ",
+     "text": "다쳤어…"
+    },
+    {
+     "title": "출전·Ⅰ",
+     "text": "일로이, 출격 준비 완료했어요!"
+    },
+    {
+     "title": "출전·Ⅱ",
+     "text": "최선을 다할게요!"
+    },
+    {
+     "title": "협동기·Ⅰ",
+     "text": "가자!"
+    },
+    {
+     "title": "협동기·Ⅱ",
+     "text": "아기 양 빔~"
+    },
+    {
+     "title": "협동기·Ⅲ",
+     "text": "준비~ 발사!"
+    },
+    {
+     "title": "글라이딩·Ⅰ",
+     "text": "정말 날 수 있네?"
+    },
+    {
+     "title": "글라이딩·Ⅱ",
+     "text": "출발~"
+    },
+    {
+     "title": "전환·Ⅰ",
+     "text": "어라? 제 차례인가요?"
+    },
+    {
+     "title": "전환·Ⅱ",
+     "text": "얘들아, 우리 차례야!"
+    },
+    {
+     "title": "전환·Ⅲ",
+     "text": "어? 저요? 갑니다!"
+    },
+    {
+     "title": "특수 전환·민트",
+     "text": "나 왔어, 민트 선배~!"
+    },
+    {
+     "title": "특수 전환·신쿠",
+     "text": "어라? 혼자서는 역부족인 거야, 신쿠?"
+    },
+    {
+     "title": "특수 전환·제로",
+     "text": "감정사님, 제가 도와줄게요~!"
+    },
+    {
+     "title": "팀원 쓰러짐·민트",
+     "text": "민트 선배가 쓰러졌다고? 괜찮아, 내가 할게!"
+    },
+    {
+     "title": "팀원 쓰러짐·신쿠",
+     "text": "엣? 조심성 없는 건 여전하네…"
+    },
+    {
+     "title": "팀원 쓰러짐·제로",
+     "text": "어, 감정사님이… 안 보이잖아?"
+    },
+    {
+     "title": "패링·Ⅰ",
+     "text": "와, 이걸 막았네~!"
+    },
+    {
+     "title": "패링·Ⅱ",
+     "text": "손. 저려."
+    },
+    {
+     "title": "연속 극한 회피 성공·Ⅰ",
+     "text": "어라, 못 잡겠어?"
+    },
+    {
+     "title": "연속 극한 회피 성공·Ⅱ",
+     "text": "후~ 살았다."
+    }
+   ]
+  },
+  "zh-tw": {
+   "daily": [
+    {
+     "title": "初次見面",
+     "text": "你好！我的名字是奧涅伊洛伊。當然，這個名字太拗口啦，所以叫我伊洛伊就好～有什麼需要幫忙的都可以叫我哦，就這樣啦，回頭見！"
+    },
+    {
+     "title": "閒聊·踢石頭",
+     "text": "看見路邊的小石頭，總是忍不住想去踢呢……一下一下，越來越遠，直到它掉進看不見的地方為止。你會有這樣的習慣嗎？"
+    },
+    {
+     "title": "閒聊·學校",
+     "text": "朋友們總是聊起在學校的故事，非常有趣～我的知識，都是家裡請的老師教給我的。沒有同學，沒有經歷校園生活，總覺得非常遺憾呢。"
+    },
+    {
+     "title": "閒聊·進化論",
+     "text": "「物競天擇，適者生存」，老師提到物種進化論的時候只說了這句話。她不說我也明白。畢竟，這是「我」最初的一個夢……"
+    },
+    {
+     "title": "大晴天",
+     "text": "太陽當空照，花兒對我笑～"
+    },
+    {
+     "title": "雨天",
+     "text": "尾巴沾到水了……"
+    },
+    {
+     "title": "寒冷",
+     "text": "手腳都沒有知覺了呢。"
+    },
+    {
+     "title": "炎熱",
+     "text": "好熱啊，真想趕快離開這。"
+    },
+    {
+     "title": "早上問候",
+     "text": "呼啊～早上好！"
+    },
+    {
+     "title": "中午問候",
+     "text": "該睡午覺囉。"
+    },
+    {
+     "title": "傍晚問候",
+     "text": "太陽公公下山了。"
+    },
+    {
+     "title": "晚安",
+     "text": "天。黑了。"
+    },
+    {
+     "title": "愛好",
+     "text": "喜歡的東西？只要是大家喜歡的東西，我就都喜歡哦！……什麼什麼？一些人喜歡的東西，是另一些人討厭的東西？那就讓他們打一架，看看誰活下來就好啦～"
+    },
+    {
+     "title": "煩惱",
+     "text": "莫爾甫斯、伊刻洛斯、方塔蘇斯，也就是我的小羊朋友們，總會自說自話地惹出一些麻煩事。有沒有什麼辦法能讓它們聽我的話呢？真傷腦筋……"
+    },
+    {
+     "title": "話題·羊",
+     "text": "聽說在有些地方，羊是邪惡的象徵呢……小羊們，你們覺得自己是大壞蛋嗎？欸～居然不覺得嗎？說謊的小羊，壞加一等哦！"
+    },
+    {
+     "title": "話題·房間",
+     "text": "我小的時候身體不太好，總是住在病房裡。那時候，我覺得所有人都應該睡在白茫茫的床上，床邊放著叮叮噹噹、滴滴答答的儀器。和福利院的同事聊這些的時候，他們嚇了一跳，以為是我的房間鬧鬼了呢～"
+    },
+    {
+     "title": "話題·夢境",
+     "text": "你喜歡做夢嗎？要不要來我的夢裡看看？記得要走牛角做的門哦，要是不小心走進象牙門，就算是我也沒辦法救你出來。到時候，就只能看著自己從胚胎慢慢變成人啦～"
+    },
+    {
+     "title": "關於自己·家人",
+     "text": "爸爸媽媽很愛我，他們希望我快快樂樂地活下去，為我做了很多很多。我很感激他們。可我還是忍不住要想……如果出生的不是我，而是其他健康的孩子就好了。"
+    },
+    {
+     "title": "關於自己·睡覺",
+     "text": "其實我一直都在睡覺哦！看起來活蹦亂跳的我，其實一直都在夢遊哦！"
+    },
+    {
+     "title": "關於自己·異能",
+     "text": "名叫「奧涅伊洛伊」的空殼，在覺醒異能之後，重獲新生！其實我不是真正的「我」。哎呀，這樣說很難理解吧？總之夢裡那個才是真正的「我」。現在正在對你說話的我，不過是一個在努力模仿好孩子的假貨哦～"
+    },
+    {
+     "title": "關？於？自？己？",
+     "text": "身體。原本要爛掉的。異能，讓我活下去。她不是我。她代替我，活著。我自己還活著嗎？我……不知道。"
+    },
+    {
+     "title": "關於薄荷",
+     "text": "薄荷前輩總有用不完的活力和熱情，我也好想變成那樣啊～說反話？不不不，你怎麼會那麼想呢，這明明是我的真心話呀。"
+    },
+    {
+     "title": "關於真紅·其一",
+     "text": "帶真紅進過我的夢境之後，她好像就變得很討厭我。難道她不喜歡我夢裡的景象嗎？還是說……她發現了什麼嗎？"
+    },
+    {
+     "title": "關於真紅·其二",
+     "text": "我和真紅的誤會已經解開啦！是這隻多疑龍冤枉我了呢～按照薄荷的說法，現在我們有在「相親相愛」地好好相處哦～"
+    },
+    {
+     "title": "關於娜娜莉",
+     "text": "娜娜莉小姐的年紀，應該比我小一點吧？她在這個年紀，就已經找到自己想做的事了，真羨慕啊。"
+    },
+    {
+     "title": "角色突破·Ⅰ",
+     "text": "我會繼續加油的～"
+    },
+    {
+     "title": "角色突破·Ⅱ",
+     "text": "唔……還能走多遠呢？"
+    },
+    {
+     "title": "角色突破·Ⅲ",
+     "text": "提升，應該到此為止了吧……謝謝你幫我。"
+    },
+    {
+     "title": "收到贈禮·Ⅰ",
+     "text": "哦哦，我喜歡這個！謝謝你～"
+    },
+    {
+     "title": "收到贈禮·Ⅱ",
+     "text": "這是送給我的嗎？那我就不客氣地收下啦～謝謝！"
+    },
+    {
+     "title": "收到贈禮·Ⅲ",
+     "text": "謝謝～"
+    },
+    {
+     "title": "收到贈禮·IV",
+     "text": "好棒的禮物！"
+    }
+   ],
+   "battle": [
+    {
+     "title": "變軌技能·Ⅰ",
+     "text": "要做惡夢啦！"
+    },
+    {
+     "title": "變軌技能·Ⅱ",
+     "text": "該醒醒啦！"
+    },
+    {
+     "title": "變軌技能·Ⅲ",
+     "text": "全體小羊，聽我指揮~！"
+    },
+    {
+     "title": "極軌終結·Ⅰ",
+     "text": "大家，都回到媽媽的肚子裡去吧~"
+    },
+    {
+     "title": "極軌終結·Ⅱ",
+     "text": "我的夢裡，很可怕的哦~！"
+    },
+    {
+     "title": "極軌終結·Ⅲ",
+     "text": "睡個好覺……騙你的！是惡夢~！"
+    },
+    {
+     "title": "收容異象·Ⅰ",
+     "text": "聽好了！乖乖待著，不要亂跑哦！"
+    },
+    {
+     "title": "收容異象·Ⅱ",
+     "text": "收容完成～"
+    },
+    {
+     "title": "泯除異象·Ⅰ",
+     "text": "沒辦法管教的傢伙，只好泯除掉了……抱歉！"
+    },
+    {
+     "title": "泯除異象·Ⅱ",
+     "text": "我們，有緣再見吧？"
+    },
+    {
+     "title": "意外收穫·Ⅰ",
+     "text": "意外收穫呢~"
+    },
+    {
+     "title": "意外收穫·Ⅱ",
+     "text": "真不錯呀！"
+    },
+    {
+     "title": "意外收穫·Ⅲ",
+     "text": "是什麼好東西呢~？"
+    },
+    {
+     "title": "意外收穫·Ⅳ",
+     "text": "莫爾甫斯，別搶！"
+    },
+    {
+     "title": "意外收穫·Ⅴ",
+     "text": "沒見過的東西誒。"
+    },
+    {
+     "title": "意外收穫·Ⅵ",
+     "text": "哇，這可以帶進夢裡嗎？"
+    },
+    {
+     "title": "生命值低·Ⅰ",
+     "text": "冷……好冷……"
+    },
+    {
+     "title": "生命值低·Ⅱ",
+     "text": "跑不動啦。"
+    },
+    {
+     "title": "生命值低·Ⅲ",
+     "text": "身體。很痛。"
+    },
+    {
+     "title": "恢復生命·Ⅰ",
+     "text": "呼吸新鮮空氣～"
+    },
+    {
+     "title": "恢復生命·Ⅱ",
+     "text": "恢復啦！"
+    },
+    {
+     "title": "力竭·Ⅰ",
+     "text": "天空。沒有。缺口。"
+    },
+    {
+     "title": "力竭·Ⅱ",
+     "text": "我。可以回去了嗎？"
+    },
+    {
+     "title": "力竭·Ⅲ",
+     "text": "外面。安靜下來了。"
+    },
+    {
+     "title": "擊敗怪物·Ⅰ",
+     "text": "哎呀，沒給你留說再見的時間呢。"
+    },
+    {
+     "title": "擊敗怪物·Ⅱ",
+     "text": "哇，就這麼消失了？"
+    },
+    {
+     "title": "普通受擊·Ⅰ",
+     "text": "哎呀！"
+    },
+    {
+     "title": "普通受擊·Ⅱ",
+     "text": "嗚啊！"
+    },
+    {
+     "title": "重受擊·Ⅰ",
+     "text": "痛痛痛……"
+    },
+    {
+     "title": "重受擊·Ⅱ",
+     "text": "受傷了……"
+    },
+    {
+     "title": "上陣·Ⅰ",
+     "text": "伊洛伊，要戰鬥！"
+    },
+    {
+     "title": "上陣·Ⅱ",
+     "text": "我會加油的！"
+    },
+    {
+     "title": "協同技·Ⅰ",
+     "text": "衝呀！"
+    },
+    {
+     "title": "協同技·Ⅱ",
+     "text": "小羊光線——"
+    },
+    {
+     "title": "協同技·Ⅲ",
+     "text": "準備——發射！"
+    },
+    {
+     "title": "滑翔·Ⅰ",
+     "text": "真的能飛呀？"
+    },
+    {
+     "title": "滑翔·Ⅱ",
+     "text": "出發囉~"
+    },
+    {
+     "title": "切換·Ⅰ",
+     "text": "呀，這就輪到我了？"
+    },
+    {
+     "title": "切換·Ⅱ",
+     "text": "小羊們，輪到我們上場囉！"
+    },
+    {
+     "title": "切換·Ⅲ",
+     "text": "啊？我嗎？來了！"
+    },
+    {
+     "title": "特殊切換·薄荷",
+     "text": "我來啦，薄荷前輩～！"
+    },
+    {
+     "title": "特殊切換·真紅",
+     "text": "誒？你一個人處理不了嗎，真紅？"
+    },
+    {
+     "title": "特殊切換·零",
+     "text": "鑒定師，我來幫忙啦~！"
+    },
+    {
+     "title": "隊友倒下·薄荷",
+     "text": "薄荷前輩倒下了？沒關係，換我來吧！"
+    },
+    {
+     "title": "隊友倒下·真紅",
+     "text": "誒？還是這麼不小心嗎……"
+    },
+    {
+     "title": "隊友倒下·零",
+     "text": "誒，鑒定師……不見了？"
+    },
+    {
+     "title": "彈反·Ⅰ",
+     "text": "沒想到真能擋下來呀～！"
+    },
+    {
+     "title": "彈反·Ⅱ",
+     "text": "手。麻了。"
+    },
+    {
+     "title": "連續極限閃避成功·Ⅰ",
+     "text": "誒，怎麼沒抓到我呀？"
+    },
+    {
+     "title": "連續極限閃避成功·Ⅱ",
+     "text": "呼～逃走了逃走了。"
+    }
+   ]
+  }
+ }
+}

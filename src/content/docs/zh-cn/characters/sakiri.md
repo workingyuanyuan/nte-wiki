@@ -60,6 +60,7 @@ sources:
 | 身份 | 伊波恩古董店；武器是异象巨锤「鬼郎丸」 |
 | 配音员 | 中文：蔡书瑾；英文：Brianna Knickerbocker；日文：伊藤美来；韩文：김나율 |
 | 个人档案 | [早雾个人档案](/zh-cn/characters/sakiri/archive/) |
+| 语音 | [早雾语音](/zh-cn/characters/sakiri/voice/) |
 
 ## 取得方式
 

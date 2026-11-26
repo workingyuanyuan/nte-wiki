@@ -54,6 +54,7 @@ sources:
 | Role | Lives in the Witch's House deep in the forest; locals call her the Witch |
 | Voice actors | Chinese: 井琉; English: Xanthe Huynh; Japanese: 能登麻美子; Korean: 문유정 |
 | Archive | [Blackbird archive](/characters/blackbird/archive/) |
+| Voice lines | [Blackbird voice lines](/characters/blackbird/voice/) |
 
 ## How to obtain
 

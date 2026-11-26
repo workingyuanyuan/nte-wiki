@@ -55,6 +55,7 @@ sources:
 | 신분 | 특례로 채용된 E.T.D 6팀 소속. 이상 동료는 사다 |
 | 성우 | 중국어: 胡影佳, 洪海天; 영어: Emi Lo, Salli Saffioti; 일본어: 小倉唯, 村瀬迪与; 한국어: 김서현, 김예림 |
 | 아카이브 | [링코 아카이브](/ko/characters/linko/archive/) |
+| 보이스 | [링코 보이스](/ko/characters/linko/voice/) |
 
 ## 획득 방법
 

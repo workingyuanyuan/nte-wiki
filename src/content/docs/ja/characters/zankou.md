@@ -54,6 +54,7 @@ sources:
 | 肩書き | イナンナの養女でボディーガード、「スカーレット・レター」の暗殺者。異能は「惑乱の眼」 |
 | 声優 | 中国語：陈婷婷、英語：Stephanie Wong、日本語：井上喜久子、韓国語：허예은 |
 | アーカイブ | [残虹のアーカイブ](/ja/characters/zankou/archive/) |
+| ボイス | [残虹のボイス](/ja/characters/zankou/voice/) |
 
 ## 入手方法
 

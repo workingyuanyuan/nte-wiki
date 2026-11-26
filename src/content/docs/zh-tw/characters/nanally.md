@@ -60,6 +60,7 @@ sources:
 | 身分 | 伊波恩古董店；自稱「柯林斯家族」的「一代目」 |
 | 配音員 | 中文：宋媛媛；英文：Brittany Lauda；日文：竹達彩奈；韓文：강새봄 |
 | 個人檔案 | [娜娜莉個人檔案](/zh-tw/characters/nanally/archive/) |
+| 語音 | [娜娜莉語音](/zh-tw/characters/nanally/voice/) |
 
 ## 取得方式
 

@@ -59,6 +59,7 @@ sources:
 | 実装 | バージョン1.2、2026-07-08 |
 | 声優 | 中国語：唐夏芳、英語：Anne Yatco、日本語：田所あずさ、韓国語：차영희 |
 | アーカイブ | [真紅のアーカイブ](/ja/characters/shinku/archive/) |
+| ボイス | [真紅のボイス](/ja/characters/shinku/voice/) |
 
 ## 入手方法
 

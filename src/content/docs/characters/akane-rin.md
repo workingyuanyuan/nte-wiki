@@ -62,6 +62,7 @@ sources:
 | Joined | Version 1.4, second half, 2026-10-21 |
 | Voice actors | Chinese: 陈怡萱; English: Cristina Vee; Japanese: 長谷川育美; Korean: 김하루 |
 | Archive | [Akane Rin archive](/characters/akane-rin/archive/) |
+| Voice lines | [Akane Rin voice lines](/characters/akane-rin/voice/) |
 
 ## How to obtain
 

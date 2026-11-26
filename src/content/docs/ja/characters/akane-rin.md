@@ -62,6 +62,7 @@ sources:
 | 実装 | バージョン1.4後半、2026-10-21 |
 | 声優 | 中国語：陈怡萱、英語：Cristina Vee、日本語：長谷川育美、韓国語：김하루 |
 | アーカイブ | [明音凛のアーカイブ](/ja/characters/akane-rin/archive/) |
+| ボイス | [明音凛のボイス](/ja/characters/akane-rin/voice/) |
 
 ## 入手方法
 

@@ -54,6 +54,7 @@ sources:
 | 신분 | 숲 깊은 곳의 「마녀의 집」에 살며, 사람들은 마녀라고 부른다 |
 | 성우 | 중국어: 井琉; 영어: Xanthe Huynh; 일본어: 能登麻美子; 한국어: 문유정 |
 | 아카이브 | [레이븐 아카이브](/ko/characters/blackbird/archive/) |
+| 보이스 | [레이븐 보이스](/ko/characters/blackbird/voice/) |
 
 ## 획득 방법
 

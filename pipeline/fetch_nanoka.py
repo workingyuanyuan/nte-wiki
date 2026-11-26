@@ -1,10 +1,14 @@
 # Downloads the nanoka.cc game data files that the game-text records are built from:
 # one character file per character page and language, item.json per language, and the
-# Arc list (weapon.json) with one Arc file per Arc and language.
+# Arc list (weapon.json) with one Arc file per Arc and language, and the monster list
+# (monster.json) with one file per anomaly and enemy manual entry and language, and the
+# achievement list (achievement.json) per language.
 # A bounded list of named files, one request a second (nanoka.cc sets ai-train=no
 # and blocks crawlers; see AGENTS.md). Files go to pipeline/cache/, which is not committed.
 #
 #   python3 pipeline/fetch_nanoka.py [slug ...]
+#   python3 pipeline/fetch_nanoka.py --monsters      # monster.json and its anomaly and enemy manual files only
+#   python3 pipeline/fetch_nanoka.py --lists         # item.json and achievement.json only (the item and achievement lists)
 
 import glob
 import json
@@ -48,7 +52,34 @@ def get(url, dst):
     time.sleep(2)
 
 
+# The kinds of monster.json entry the pages are written from: anomalies (with their archive
+# text) and enemy manual entries. DT_AdvVision entries are challenge variants without text.
+MONSTER_KINDS = ('DT_Vision', 'DT_MonsterManualConfig')
+
+
+def fetch_monsters():
+    get(f'{BASE}/monster.json', os.path.join(CACHE, 'monster.json'))
+    ids = [k for k, v in json.load(open(os.path.join(CACHE, 'monster.json'), encoding='utf-8')).items() if v['source_type'] in MONSTER_KINDS]
+    for lang in LANGS:
+        for m in ids:
+            get(f'{BASE}/{lang}/monster/{m}.json', os.path.join(CACHE, lang, 'monster', m + '.json'))
+    return ids
+
+
+def fetch_lists():
+    for lang in LANGS:
+        for f in ('item.json', 'achievement.json'):
+            get(f'{BASE}/{lang}/{f}', os.path.join(CACHE, lang, f))
+
+
 if __name__ == '__main__':
+    if sys.argv[1:] == ['--lists']:
+        fetch_lists()
+        print('item.json and achievement.json,', len(LANGS), 'languages in', CACHE)
+        sys.exit()
+    if sys.argv[1:] == ['--monsters']:
+        print(len(fetch_monsters()), 'monsters,', len(LANGS), 'languages in', CACHE)
+        sys.exit()
     ids = character_ids()
     want = sys.argv[1:] or list(ids)
     for lang in LANGS:
@@ -63,4 +94,6 @@ if __name__ == '__main__':
     for lang in LANGS:
         for a in arcs:
             get(f'{BASE}/{lang}/weapon/{a}.json', os.path.join(CACHE, lang, 'weapon', a + '.json'))
-    print(len(want), 'characters,', len(arcs), 'Arcs,', len(LANGS), 'languages in', CACHE)
+    monsters = fetch_monsters()
+    fetch_lists()
+    print(len(want), 'characters,', len(arcs), 'Arcs,', len(monsters), 'monsters,', len(LANGS), 'languages in', CACHE)

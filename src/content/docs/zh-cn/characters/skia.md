@@ -45,6 +45,7 @@ sources:
 | 加入版本 | 1.0 版 |
 | 配音员 | 中文：刘雨轩；英文：Bill Butts；日文：杉田智和；韩文：이동훈 |
 | 个人档案 | [翳个人档案](/zh-cn/characters/skia/archive/) |
+| 语音 | [翳语音](/zh-cn/characters/skia/voice/) |
 
 ## 取得方式
 

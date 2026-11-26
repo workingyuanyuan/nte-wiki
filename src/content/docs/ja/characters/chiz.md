@@ -46,6 +46,7 @@ sources:
 | 肩書き | にくきゅう銀行（ニューホランド本店）のロビーマネージャー、職員ナンバー018888 |
 | 声優 | 中国語：则灵、英語：Alice Himora、日本語：小原好美、韓国語：권다예 |
 | アーカイブ | [ちぃちゃんのアーカイブ](/ja/characters/chiz/archive/) |
+| ボイス | [ちぃちゃんのボイス](/ja/characters/chiz/voice/) |
 
 英語のバイレールスキル名を、Game8は「Pink Paws Priority Principe」、Prydwenは「Pink Paws Priority Principle」と表記している。バージョン1.1で、ちぃちゃんにはマップ上の「にくきゅう大強盗」の所蔵品をすべてハイライト表示するシティスキルが追加された。
 

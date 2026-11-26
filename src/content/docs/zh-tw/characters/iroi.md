@@ -53,6 +53,7 @@ sources:
 | 加入版本 | 1.2 版下半，2026-07-29 |
 | 配音員 | 中文：汪悅；英文：Rachel Lepore；日文：日高里菜；韓文：이주은 |
 | 個人檔案 | [伊洛伊個人檔案](/zh-tw/characters/iroi/archive/) |
+| 語音 | [伊洛伊語音](/zh-tw/characters/iroi/voice/) |
 
 ## 取得方式
 

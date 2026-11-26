@@ -1,0 +1,1827 @@
+{
+ "slug": "shinku",
+ "id": "1076",
+ "version": "1.5.4",
+ "sources": {
+  "en": "https://static.nanoka.cc/nte/1.5.4/en/character/1076.json",
+  "zh-cn": "https://static.nanoka.cc/nte/1.5.4/zh/character/1076.json",
+  "ja": "https://static.nanoka.cc/nte/1.5.4/ja/character/1076.json",
+  "ko": "https://static.nanoka.cc/nte/1.5.4/ko/character/1076.json",
+  "zh-tw": "https://everness.info/zh-Hant/espers/1076"
+ },
+ "reads": {
+  "zh-tw": "2026-11-25"
+ },
+ "lines": {
+  "en": {
+   "daily": [
+    {
+     "title": "First Meet",
+     "text": "I'm Shinku from CSU-2. You're Coco, the one Mint mentions a lot, right? Nice to meet you. I hope I won't give you as much trouble as the dumcat."
+    },
+    {
+     "title": "Chat: Dragon Horns",
+     "text": "They're not as useful in battle as my tail, but the horns don't bother me as much as my tail does, except when measuring my height."
+    },
+    {
+     "title": "Chat: Vintage Shop",
+     "text": "On Bagel, I noticed a few vintage shops just opened in Hethereau. Let's take a look when we can."
+    },
+    {
+     "title": "Chat: Rumors",
+     "text": "I don't have wings, I don't spit fire, and I don't grab my enemies and circle around in the sky before body-slamming them. Seriously, who made this up…?"
+    },
+    {
+     "title": "Sunny",
+     "text": "The weather is so good, we might run into Mint at a square."
+    },
+    {
+     "title": "Rainy",
+     "text": "It's raining again. Tch, trouble…"
+    },
+    {
+     "title": "Cold",
+     "text": "It's not like I'm cold… but let's get this over with."
+    },
+    {
+     "title": "Hot",
+     "text": "I could use an ice pop now…"
+    },
+    {
+     "title": "Morning Greeting",
+     "text": "Morning. You look like you're motivated. Wanna take my patrolling shift?"
+    },
+    {
+     "title": "Noon Greeting",
+     "text": "Do you want to get ramen? There's this old ramen store I used to go to when I was still in school. It tastes great."
+    },
+    {
+     "title": "Evening Greeting",
+     "text": "I hope there isn't a sudden report to turn in tonight…"
+    },
+    {
+     "title": "Good Night",
+     "text": "It's getting late. You don't have to send me home, do you? See you tomorrow. Good night."
+    },
+    {
+     "title": "Hobbies",
+     "text": "I collect anything that catches my eye: from the ultra-secret editions of DSD's collab Mystery Boxes with Duke K, to misprinted issues of Weekly Fantasy—even simply cool rocks I come across by the beach. Wanna see? Maybe next time."
+    },
+    {
+     "title": "Worries",
+     "text": "My funds are running a bit low. I really don't want to touch my savings…"
+    },
+    {
+     "title": "Topic: CSU",
+     "text": "The \"New Containment Safety Protocol\" is bothersome. There are so many rules, and whenever I'm on a mission, I'm forced to think twice before I act. Still, training myself to follow those annoying restrictions when my powers are affecting me is the reason I'm here."
+    },
+    {
+     "title": "Topic: Wandering",
+     "text": "When I don't have plans, I like walking around without a destination in mind. I'll roam into random places, and when I see things that interest me, I collect them. When I was little, I called this \"treasure hunting.\" It's still accurate, right?"
+    },
+    {
+     "title": "Topic: Nacupeda",
+     "text": "Nacupeda is an expert at keeping coins: just stash them in the pool and keep them within eyesight. No wonder that anomaly is always happy. Maybe I should do something similar?"
+    },
+    {
+     "title": "About Myself: Esper Ability",
+     "text": "My former captain told me that my power is a curse. Though it makes me strong, it could also destroy the things I love. I was once depressed because I injured a friend by mistake… But now I understand: I'll embrace my power as long as I don't have to hate myself for being weak when I need to be strong."
+    },
+    {
+     "title": "About Myself: Relationships",
+     "text": "\"I always go solo in the Bureau?\" That dumcat just blabbers around… Well, I can't really be alone if she always drags me and Iroi around, can I?"
+    },
+    {
+     "title": "About Myself: Urge",
+     "text": "My Esper Abilities affect me beyond fights. Even in everyday situations, I might suddenly do something out of line. It wouldn't be as dangerous as during a fight, but I don't know what I might end up doing—that could mean trouble."
+    },
+    {
+     "title": "About Mint I",
+     "text": "Mint \"senpai\" has absolutely no talent in reading the room. Even if you want to keep your distance, she still comes over to talk to you. Sigh, I still can't leave that dumcat alone."
+    },
+    {
+     "title": "About Mint II",
+     "text": "That dumcat, she never shies away from expressing her true thoughts and feelings. I don't know if I should praise her for that or just call her thick-skinned… Still, if everyone was as straightforward as Mint, things would be a lot easier."
+    },
+    {
+     "title": "About Iroi I",
+     "text": "As far as colleagues go, Iroi is pretty much perfect. I was probably paired with her because when I lose control, she can calm me down with her dreams, which was where I saw… never mind. Anyway, I don't see her as a normal person, but it doesn't affect our work."
+    },
+    {
+     "title": "About Iroi II",
+     "text": "Everyone has a story they don't want to tell. I was like that before. It's the same for Ramtenna. I'm not exactly sure what she's been through, but the least I can do is be by her side—like my teammates were by my side when we faced the Crimson Dragon. The bickering? I prefer to not bicker with her, but maybe that's what companions do."
+    },
+    {
+     "title": "About CSU-2",
+     "text": "I thought I was going to go through some troubles when I first transferred to CSU-2, but thanks to Mint, colleagues accepted me quickly. In contrast, I almost made a big blunder on my first mission. Good thing that Iroi was there to help… Ahem, I should buy my colleagues some drinks from Crazy Cat."
+    },
+    {
+     "title": "About Bureau of Anomaly Control",
+     "text": "For the record, I'm not dissing my colleagues. I just wanted to say that the BAC is made up of a bunch of weirdos, especially the CSUs and ETDs, which require fieldwork and dealing with dangerous anomalies. Now that I think about it, I was able to blend into the Bureau and learn from my former captain because there weren't many \"normal people\" around to begin with."
+    },
+    {
+     "title": "Character Ascension I",
+     "text": "Now I can fight stronger enemies on my own."
+    },
+    {
+     "title": "Character Ascension II",
+     "text": "This might mean trouble, but getting stronger is a good thing."
+    },
+    {
+     "title": "Character Ascension III",
+     "text": "Not enough… I need more…!"
+    },
+    {
+     "title": "Gift Received I",
+     "text": "…! Don't regret giving me this."
+    },
+    {
+     "title": "Gift Received II",
+     "text": "You know what I like."
+    },
+    {
+     "title": "Gift Received III",
+     "text": "Thank you. I'll add it to my stash."
+    },
+    {
+     "title": "Gift Received IV",
+     "text": "Is there anything I can help with?"
+    }
+   ],
+   "battle": [
+    {
+     "title": "Redirect Skill I",
+     "text": "Far from it."
+    },
+    {
+     "title": "Redirect Skill II",
+     "text": "All in one go…!"
+    },
+    {
+     "title": "Redirect Skill III",
+     "text": "Take this… if you can!"
+    },
+    {
+     "title": "Redirect Skill IV",
+     "text": "I must… swing my claws!"
+    },
+    {
+     "title": "Redirect Skill V",
+     "text": "Fool around… and find out!"
+    },
+    {
+     "title": "Redirect Skill VI",
+     "text": "Releasing! All my anger!"
+    },
+    {
+     "title": "Ultimate I",
+     "text": "These pests…"
+    },
+    {
+     "title": "Ultimate II",
+     "text": "Get out! Don't get dragged into this!"
+    },
+    {
+     "title": "Ultimate III",
+     "text": "Annoying… silence, silence, siLEncE, SILENCE!"
+    },
+    {
+     "title": "Ultimate IV",
+     "text": "This is the end…!"
+    },
+    {
+     "title": "Ultimate V",
+     "text": "You're stuck here with me…!"
+    },
+    {
+     "title": "Ultimate VI",
+     "text": "Plotting your escape? Don't even think about it!"
+    },
+    {
+     "title": "Containment I",
+     "text": "Stay still and let me do my job."
+    },
+    {
+     "title": "Containment II",
+     "text": "Containment complete. It went smoothly."
+    },
+    {
+     "title": "Nullification I",
+     "text": "What a hassle…"
+    },
+    {
+     "title": "Nullification II",
+     "text": "You just had to choose the hard way."
+    },
+    {
+     "title": "Unexpected Gains I",
+     "text": "Pretty lucky day. I should visit DSD."
+    },
+    {
+     "title": "Unexpected Gains II",
+     "text": "I found some useful stuff. Not bad at all."
+    },
+    {
+     "title": "Unexpected Gains III",
+     "text": "What good stuff will I get?"
+    },
+    {
+     "title": "Unexpected Gains IV",
+     "text": "I hope I'm not using up my good luck."
+    },
+    {
+     "title": "Unexpected Gains V",
+     "text": "Is this a blessing from Nacupeda?"
+    },
+    {
+     "title": "Unexpected Gains VI",
+     "text": "Do I need to turn this in to the Security Office?"
+    },
+    {
+     "title": "Low Health I",
+     "text": "Ugh… I need some supplies."
+    },
+    {
+     "title": "Low Health II",
+     "text": "It's okay. I can still fight."
+    },
+    {
+     "title": "Low Health III",
+     "text": "So much trouble…"
+    },
+    {
+     "title": "Heal I",
+     "text": "I feel so good I can solo the Headless Rider."
+    },
+    {
+     "title": "Heal II",
+     "text": "I'm in top condition. Are there more enemies to fight?"
+    },
+    {
+     "title": "Down I",
+     "text": "This is good…"
+    },
+    {
+     "title": "Down II",
+     "text": "Is that it…?"
+    },
+    {
+     "title": "Down III",
+     "text": "I can't fall here…"
+    },
+    {
+     "title": "Takedown I",
+     "text": "Over already?"
+    },
+    {
+     "title": "Takedown II",
+     "text": "I thought you'd be stronger."
+    },
+    {
+     "title": "Damaged I",
+     "text": "Tch, I was careless…"
+    },
+    {
+     "title": "Damaged II",
+     "text": "It's just a scratch."
+    },
+    {
+     "title": "Heavily Damaged I",
+     "text": "Urgh… it's my turn now!"
+    },
+    {
+     "title": "Heavily Damaged II",
+     "text": "…I'll hit you back!"
+    },
+    {
+     "title": "Deploy I",
+     "text": "Leave the strongest one to me."
+    },
+    {
+     "title": "Deploy II",
+     "text": "Don't worry. I'll control myself."
+    },
+    {
+     "title": "Entry Attack I",
+     "text": "Knock it off!"
+    },
+    {
+     "title": "Entry Attack II",
+     "text": "I'll make sure you quiet down!"
+    },
+    {
+     "title": "Entry Attack III",
+     "text": "Your commitment… is not enough!"
+    },
+    {
+     "title": "Glide I",
+     "text": "If only I had wings…"
+    },
+    {
+     "title": "Glide II",
+     "text": "Taking a shortcut down."
+    },
+    {
+     "title": "Switch I",
+     "text": "Stay back."
+    },
+    {
+     "title": "Switch II",
+     "text": "Alright, taking over…!"
+    },
+    {
+     "title": "Switch III",
+     "text": "C'mon, let's fight!"
+    },
+    {
+     "title": "Special Switch - Mint",
+     "text": "Fine, fine, Mint \"senpai.\""
+    },
+    {
+     "title": "Special Switch: Iroi",
+     "text": "Ramtenna, support me."
+    },
+    {
+     "title": "Special Switch - Zero",
+     "text": "Appraiser, this is Shinku."
+    },
+    {
+     "title": "Teammate Down - Mint",
+     "text": "Dumcat, don't overdo it!"
+    },
+    {
+     "title": "Teammate Down - Iroi",
+     "text": "Take a break. I'll make them pay…!"
+    },
+    {
+     "title": "Teammate Down - Zero",
+     "text": "Appraiser, don't you fall on me!"
+    },
+    {
+     "title": "Parry I",
+     "text": "Is that it?"
+    },
+    {
+     "title": "Parry II",
+     "text": "You can try harder."
+    },
+    {
+     "title": "Consecutive Critical Dodge Success I",
+     "text": "Can't follow me?"
+    },
+    {
+     "title": "Consecutive Critical Dodge Success II",
+     "text": "No room for mistakes."
+    }
+   ]
+  },
+  "zh-cn": {
+   "daily": [
+    {
+     "title": "初次见面",
+     "text": "我是真红，隶属于收容二组，你就是薄荷常常提到的可可吧？初次见面，不出意外的话，我应该不会像那只笨猫一样给你添麻烦。"
+    },
+    {
+     "title": "闲聊·龙角",
+     "text": "虽然不像尾巴那样在战斗时很有用，不过除了测身高，这两只角平时也没有尾巴那么不方便。"
+    },
+    {
+     "title": "闲聊·中古店",
+     "text": "呗果上看到海特洛新开了几家不错的中古店，有空去看看吧。"
+    },
+    {
+     "title": "闲聊·谣言",
+     "text": "我从来没有做过一边喷火，一边抓着敌人飞到天上绕几圈再把人扔下来这样的事，这都从哪流传出来的说法……"
+    },
+    {
+     "title": "大晴天",
+     "text": "这么好的天气，去广场上没准能抓到薄荷。"
+    },
+    {
+     "title": "雨天",
+     "text": "又下雨了，啧，麻烦……"
+    },
+    {
+     "title": "寒冷",
+     "text": "虽说是不冷……总之，快点把事情做完回去吧。"
+    },
+    {
+     "title": "炎热",
+     "text": "想吃棒冰啊……"
+    },
+    {
+     "title": "早上问候",
+     "text": "早，一大早就这么有干劲，要不你替我去巡逻？"
+    },
+    {
+     "title": "中午问候",
+     "text": "要一起去吃拉面吗？我正好知道一家老店，还在上学的时候经常去，味道不错。"
+    },
+    {
+     "title": "傍晚问候",
+     "text": "希望今晚不会有突然出现的报告……"
+    },
+    {
+     "title": "晚安",
+     "text": "不早了，你应该不用我送你回家吧？那就明天见，晚安。"
+    },
+    {
+     "title": "爱好",
+     "text": "上到「DSD」跟《公爵K》限时联名盲盒的大隐藏，下到《周刊Fantasy》的错版杂志，甚至是在海边形状有趣的石头，只要是我感兴趣的东西都会收集起来。想看？有机会再说。"
+    },
+    {
+     "title": "烦恼",
+     "text": "最近生活费又告急了，真不想动存起来的那些……"
+    },
+    {
+     "title": "话题·C.S.U",
+     "text": "《新收容安全条例》里的要求那么多，执行任务时总得考虑半天……真麻烦。不过，强迫自己背下这些条条框框，有意识地去约束自己，就是我真正需要的吧。这也是我加入收容组的原因。"
+    },
+    {
+     "title": "话题·漫游",
+     "text": "没什么安排的时候，我喜欢漫无目的地四处闲逛，走到哪算哪，遇到些感兴趣的东西还能充实一下收藏。用幼稚一点的说法，小时候的我喜欢把这个过程叫做寻宝，是不是还挺像的。"
+    },
+    {
+     "title": "话题·纳库佩达",
+     "text": "纳库佩达收藏硬币的方式其实挺不错的，放到许愿池里，每天一睁眼就能看到，也怪不得那家伙天天乐呵呵的，或许我心情不好时也能参考一下？"
+    },
+    {
+     "title": "关于自己·异能",
+     "text": "前组长曾说我的能力是诅咒，虽然让我拥有了足够的力量，却也可能给我珍视的事物带去毁灭。过去的我曾因伤害朋友而陷入迷茫……但现在的我明白了：就算是诅咒也好，它能让我在危机来临时不必哀叹自身的弱小，这就够了。"
+    },
+    {
+     "title": "关于自己·人际关系",
+     "text": "在局里总是独来独往？那只笨猫怎么什么都往外说……而且也不算独来独往吧，她不是天天拉着我跟伊洛伊想找点事做吗？"
+    },
+    {
+     "title": "关于自己·冲动",
+     "text": "异能对我的影响不仅仅体现在战斗时，即使是平常我也可能忽然做出些出格的事情，虽然不会像战斗时那么危险，不过，我也不知道我可能会做出什么事——或许，可能会变得很麻烦吧。"
+    },
+    {
+     "title": "关于薄荷·其一",
+     "text": "薄荷「前辈」，完全没有阅读环境的能力，就算你想要跟她保持距离她也一定会自说自话地凑过来。唉，真是让人没法放着不管的笨猫。"
+    },
+    {
+     "title": "关于薄荷·其二",
+     "text": "不管在什么时候什么场合都能坦率地表达自己的想法，真不知道是该夸她还是该说她是个大心脏的笨猫……不过，如果大家都能像薄荷这样坦率，麻烦事也会少很多吧。"
+    },
+    {
+     "title": "关于伊洛伊·其一",
+     "text": "以同事的标准来评价的话，伊洛伊几乎无可挑剔，让我与她共事恐怕也是因为她能在我失控时通过「梦境」让我冷静下来吧。不过，我曾在「梦境」中看到了……总之，我没法把她当普通人看待，当然，这不会影响到工作。"
+    },
+    {
+     "title": "关于伊洛伊·其二",
+     "text": "每个人都有自己无法轻易说出口的故事，之前的我是这样，天线羊也不例外。虽然还是不太清楚她到底经历过什么，但我能做的就是相信并陪在她身边，和面对那条龙时她们的选择一样。拌嘴？我倒也希望能不跟她拌嘴，没办法，或许「同伴」就是这样的咯。"
+    },
+    {
+     "title": "关于收容二组",
+     "text": "本以为来这边又要遇到些麻烦，多亏了薄荷，收容二组的同事很快就接受了我，反倒是我到这边第一次出任务就差点把事情闹大，还好有伊洛伊在……咳咳，等等请同事们喝抽风猫吧。"
+    },
+    {
+     "title": "关于异象管理局",
+     "text": "先声明一下，我不是在攻击同事，不过异象管理局真是个怪胎集合地，像收容组和E.T.D这些需要出外勤，经常跟危险异象打交道的岗位更是。现在想想，当时的我能很快融入异象管理局，开始跟着前组长学习也多亏了这没多少正常人吧。"
+    },
+    {
+     "title": "角色突破·Ⅰ",
+     "text": "这样，就能自己解决更麻烦的对手了。"
+    },
+    {
+     "title": "角色突破·Ⅱ",
+     "text": "虽然可能会带来麻烦，但变强总是好事。"
+    },
+    {
+     "title": "角色突破·Ⅲ",
+     "text": "还不够，还需要更多……！"
+    },
+    {
+     "title": "收到赠礼·Ⅰ",
+     "text": "……！送给我可就不能后悔了。"
+    },
+    {
+     "title": "收到赠礼·Ⅱ",
+     "text": "你很懂我的口味嘛。"
+    },
+    {
+     "title": "收到赠礼·Ⅲ",
+     "text": "谢了，我会把它放到我的收藏里的。"
+    },
+    {
+     "title": "收到赠礼·IV",
+     "text": "有什么要我帮忙的吗？"
+    }
+   ],
+   "battle": [
+    {
+     "title": "变轨技能·Ⅰ",
+     "text": "还差得远呢。"
+    },
+    {
+     "title": "变轨技能·Ⅱ",
+     "text": "一鼓作气……！"
+    },
+    {
+     "title": "变轨技能·Ⅲ",
+     "text": "能接住的话……尽管试试！"
+    },
+    {
+     "title": "变轨技能·Ⅳ",
+     "text": "只要……挥舞这利爪！"
+    },
+    {
+     "title": "变轨技能·Ⅴ",
+     "text": "这就是……你的下场！"
+    },
+    {
+     "title": "变轨技能·Ⅵ",
+     "text": "将愤怒！释放出来！"
+    },
+    {
+     "title": "极轨终结·Ⅰ",
+     "text": "这些害虫……"
+    },
+    {
+     "title": "极轨终结·Ⅱ",
+     "text": "闪开！……别被卷进来了！"
+    },
+    {
+     "title": "极轨终结·Ⅲ",
+     "text": "好烦……给我安静安静、安静、安静，安静一点！"
+    },
+    {
+     "title": "极轨终结·Ⅳ",
+     "text": "就此结束吧……！"
+    },
+    {
+     "title": "极轨终结·V",
+     "text": "不会放你离开……！"
+    },
+    {
+     "title": "极轨终结·VI",
+     "text": "在找逃命的路线吗——想都别想！"
+    },
+    {
+     "title": "收容异象·Ⅰ",
+     "text": "你最好老实点，让我能安心交差。"
+    },
+    {
+     "title": "收容异象·Ⅱ",
+     "text": "收容完成，一切顺利。"
+    },
+    {
+     "title": "泯除异象·Ⅰ",
+     "text": "真是给人添麻烦的家伙……"
+    },
+    {
+     "title": "泯除异象·Ⅱ",
+     "text": "敬酒不吃吃罚酒。"
+    },
+    {
+     "title": "意外收获·Ⅰ",
+     "text": "运气不错，今天应该去一趟DSD。"
+    },
+    {
+     "title": "意外收获·Ⅱ",
+     "text": "不错，找到了些有用的东西。"
+    },
+    {
+     "title": "意外收获·Ⅲ",
+     "text": "会是什么好东西呢？"
+    },
+    {
+     "title": "意外收获·Ⅳ",
+     "text": "希望不是某种运气转移。"
+    },
+    {
+     "title": "意外收获·Ⅴ",
+     "text": "这算纳库佩达的祝福吗？"
+    },
+    {
+     "title": "意外收获·Ⅵ",
+     "text": "需要交给治安所吗……？"
+    },
+    {
+     "title": "生命值低·Ⅰ",
+     "text": "呼……需要补给一下。"
+    },
+    {
+     "title": "生命值低·Ⅱ",
+     "text": "没关系，我还能继续战斗。"
+    },
+    {
+     "title": "生命值低·Ⅲ",
+     "text": "真麻烦啊……"
+    },
+    {
+     "title": "恢复生命·Ⅰ",
+     "text": "现在，我状态好得能自己解决掉无首铁驭。"
+    },
+    {
+     "title": "恢复生命·Ⅱ",
+     "text": "状态万全，还有需要我解决的吗？"
+    },
+    {
+     "title": "力竭·Ⅰ",
+     "text": "这样也好……"
+    },
+    {
+     "title": "力竭·Ⅱ",
+     "text": "到此为止了吗……"
+    },
+    {
+     "title": "力竭·Ⅲ",
+     "text": "怎么能在这倒下……"
+    },
+    {
+     "title": "击败怪物·Ⅰ",
+     "text": "这就结束了？"
+    },
+    {
+     "title": "击败怪物·Ⅱ",
+     "text": "我还以为会更棘手些。"
+    },
+    {
+     "title": "普通受击·Ⅰ",
+     "text": "啧，大意了……"
+    },
+    {
+     "title": "普通受击·Ⅱ",
+     "text": "擦伤而已。"
+    },
+    {
+     "title": "重受击·Ⅰ",
+     "text": "呃……接下来该我了！"
+    },
+    {
+     "title": "重受击·Ⅱ",
+     "text": "……会还给你的！"
+    },
+    {
+     "title": "上阵·Ⅰ",
+     "text": "把最强的家伙留给我。"
+    },
+    {
+     "title": "上阵·Ⅱ",
+     "text": "放心，我会把握好分寸。"
+    },
+    {
+     "title": "协同技·Ⅰ",
+     "text": "给我消停一点！"
+    },
+    {
+     "title": "协同技·Ⅱ",
+     "text": "就这样安静下来吧！"
+    },
+    {
+     "title": "协同技·Ⅲ",
+     "text": "这样的觉悟……可不够看！"
+    },
+    {
+     "title": "滑翔·Ⅰ",
+     "text": "如果能更自由地飞起来……"
+    },
+    {
+     "title": "滑翔·Ⅱ",
+     "text": "这也算是一种下楼的捷径。"
+    },
+    {
+     "title": "切换·Ⅰ",
+     "text": "退后。"
+    },
+    {
+     "title": "切换·Ⅱ",
+     "text": "好了，我来接手……！"
+    },
+    {
+     "title": "切换·Ⅲ",
+     "text": "来，跟我试试！"
+    },
+    {
+     "title": "特殊切换·薄荷",
+     "text": "好好，薄荷「前辈」。"
+    },
+    {
+     "title": "特殊切换·伊洛伊",
+     "text": "负责好援护就行，天线羊。"
+    },
+    {
+     "title": "特殊切换·零",
+     "text": "鉴定师，我在。"
+    },
+    {
+     "title": "队友倒下·薄荷",
+     "text": "笨猫，不要强撑！"
+    },
+    {
+     "title": "队友倒下·伊洛伊",
+     "text": "休息会儿，我会让那家伙付出代价……！"
+    },
+    {
+     "title": "队友倒下·零",
+     "text": "鉴定师，我不允许你倒下！"
+    },
+    {
+     "title": "弹反·Ⅰ",
+     "text": "就这水平？"
+    },
+    {
+     "title": "弹反·Ⅱ",
+     "text": "还可以再用力点。"
+    },
+    {
+     "title": "连续极限闪避成功·Ⅰ",
+     "text": "这就跟不上了？"
+    },
+    {
+     "title": "连续极限闪避成功·Ⅱ",
+     "text": "没有失误的理由。"
+    }
+   ]
+  },
+  "ja": {
+   "daily": [
+    {
+     "title": "初対面",
+     "text": "私は真紅。収容2課の所属よ。ミントがよく言ってる「ココちゃん」ってあんたのことね？言っとくけど、私はあのバカ猫みたいに迷惑はかけないから。"
+    },
+    {
+     "title": "雑談-竜の角",
+     "text": "尻尾と違って、戦闘じゃ何一つ役に立たない、ただの「お飾り」よ。身長測定の時も、無駄に引っかかるし。"
+    },
+    {
+     "title": "雑談-セカンドショップ",
+     "text": "さっきベーグルで見たんだけど、ヘテロシティに良さそうなセカンドショップが何軒かできたみたい…もし時間があるなら、付き合ってくれない？"
+    },
+    {
+     "title": "雑談-噂",
+     "text": "私に翼はないし、炎も吐かないわ。ましてや敵を掴んで空を旋回してから放り投げるなんて、するわけないでしょ…まったく、どこからそんな噂広まったのよ。"
+    },
+    {
+     "title": "快晴",
+     "text": "これだけ天気がいいと、広場に行けばミントを「捕獲」できるかもしれないわね。"
+    },
+    {
+     "title": "雨",
+     "text": "また雨…チッ。"
+    },
+    {
+     "title": "寒い",
+     "text": "寒くはないけど…とにかく、早く用事済ませて帰りましょ。"
+    },
+    {
+     "title": "灼熱",
+     "text": "アイス…食べたいわね。"
+    },
+    {
+     "title": "朝の挨拶",
+     "text": "おはよう。朝から元気ね。私の代わりにパトロール、行ってくれない？"
+    },
+    {
+     "title": "昼の挨拶",
+     "text": "一緒にラーメンでもどう？学生の頃によく行ってたお店があるの。味は保証するわ。"
+    },
+    {
+     "title": "夕方の挨拶",
+     "text": "緊急の呼び出しが入らないといいけど…"
+    },
+    {
+     "title": "おやすみ",
+     "text": "もう遅いけど、1人で帰れるわよね？…じゃあ、また明日。おやすみ。"
+    },
+    {
+     "title": "趣味",
+     "text": "「DSD」と「デュークK」コラボのシークレットに、「週刊ファンタジー」の落丁版、あとは海辺で拾った変な形の石とか…好きなもの、色々コレクションしてるわ。機会があったら、見せてあげる。"
+    },
+    {
+     "title": "悩み",
+     "text": "はぁ…最近また生活費がピンチ。貯金は切り崩したくないのに…"
+    },
+    {
+     "title": "話題-C.S.U",
+     "text": "収容部の規則って無駄に細かくて面倒なの。「新収容安全条例」とか、暗記しなきゃいけないことばっかり。でもね、そのくらい縛ってくれるほうが、私には都合がいいのよ。"
+    },
+    {
+     "title": "話題-漫遊",
+     "text": "オフの日は、ぶらぶら街を歩いてるわ。たまに、ビビッとくる「掘り出し物」に出会えるしね。子供の頃は、「宝探し」なんて呼んでたけど…今の私のコレクションも、我ながら結構すごいかも。"
+    },
+    {
+     "title": "話題-ナクペイダ",
+     "text": "ナクペイダのコレクション集め…みんなにコインを投げさせて、自分は貯まったのを眺めてニヤニヤするやつ…ほんと、ちゃっかりしてるわよね…でも気が滅入ってる時には、効果的かも。"
+    },
+    {
+     "title": "自分について-異能",
+     "text": "前の上司に言われたわ。この力は、大切なものを壊す「呪い」だって。友達を傷つけて…嫌ってほど思い知らされたけど…でも、今は違う。大切な人を守れずに嘆くくらいなら…「呪い」でも何でも、利用してやる。"
+    },
+    {
+     "title": "自分について-人間関係",
+     "text": "私が局でボッチ…！？ あのバカ猫、またある事ない事を…私とイロヒなんて、毎日毎日、無駄に引っ張り回されてるんだから…たまには一人にさせてほしいわ。"
+    },
+    {
+     "title": "自分について-衝動",
+     "text": "この異能の影響って、戦闘中だけじゃないのよ。普段はそこまで危険じゃないにしても、無意識に何しでかすか分かんないから…もし私が変なことしてたら、あんたがちゃんと止めてよね。色々、面倒かけると思うけど…"
+    },
+    {
+     "title": "ミントについて・その1",
+     "text": "ミント「先輩」って、ホント空気読めないのよね。こっちが距離置こうとしてるのに、勝手にグイグイくるし…はぁ、マジで構ってちゃんなバカ猫。"
+    },
+    {
+     "title": "ミントについて・その2",
+     "text": "いつでもどこでも、自分の気持ちをあんなにストレートに出せるなんてね…呆れるっていうか、もはや感心するわ。世の中全員があいつみたいに「素直バカ」だったら、面倒事も減るんでしょうけど。"
+    },
+    {
+     "title": "イロヒについて・その1",
+     "text": "同僚としてのイロヒは、ほぼ完璧ね。私が暴走しそうになっても、あの「夢」で抑え込めるんだから。…ただ、夢の中で「アレ」を見て以来、普通の目では見られなくなったけど…まぁ、仕事に支障はないから、いいわ。"
+    },
+    {
+     "title": "イロヒについて・その2",
+     "text": "誰にだって、踏み込まれたくない過去くらいあるでしょ。私にも、あの電波羊にもね。だから、無理に聞き出そうと思わない。相変わらず、口喧嘩ばっかりだけど、なんだかんだで、隣にいるし、それがウチらの「仲間」の形ってやつかな。"
+    },
+    {
+     "title": "収容2課について",
+     "text": "この「収容2課」に来た時、初めはまた面倒なことになると思ってたんだけど、ミントのおかげですぐに馴染めちゃったし。初任務で騒ぎを起こした時も、結局イロヒのやつに助けられたしね。まぁ、ネコウチャでも奢ってあげようかしら。"
+    },
+    {
+     "title": "異象管理局について",
+     "text": "先に言っておくけど、悪口じゃないわよ？ でも異象管理局って、ホントに変わり者の集まりよね。収容部とかE.T.Dみたいな最前線の部署は特に。まぁ、そんな環境だから、私もすぐに馴染めたけど。前の上司のことも、今なら少し理解できる…結局、「類は友を呼ぶ」ってことね。"
+    },
+    {
+     "title": "キャラ突破Ⅰ",
+     "text": "これで、もっと戦えるわ。"
+    },
+    {
+     "title": "キャラ突破Ⅱ",
+     "text": "面倒は増えそうだけど、まぁ、強くなれるんなら。"
+    },
+    {
+     "title": "キャラ突破Ⅲ",
+     "text": "まだ…足りない…！"
+    },
+    {
+     "title": "届けられたギフトⅠ",
+     "text": "…っ！もう、返せないからね？"
+    },
+    {
+     "title": "届けられたギフトⅡ",
+     "text": "私の好み、よく分かってるじゃない。"
+    },
+    {
+     "title": "届けられたギフトⅢ",
+     "text": "ありがとう。コレクションに加えておくわ。"
+    },
+    {
+     "title": "届けられたギフトⅣ",
+     "text": "何か手伝ってほしいことある？"
+    }
+   ],
+   "battle": [
+    {
+     "title": "バイレールスキルⅠ",
+     "text": "まだまだね。"
+    },
+    {
+     "title": "バイレールスキルⅡ",
+     "text": "一気に行くわよ…！"
+    },
+    {
+     "title": "バイレールスキルⅢ",
+     "text": "あんたに受け止められるかな…！"
+    },
+    {
+     "title": "バイレールスキルⅣ",
+     "text": "爪を…振るう時！！"
+    },
+    {
+     "title": "バイレールスキルⅤ",
+     "text": "これが、あんたの結末よ！"
+    },
+    {
+     "title": "バイレールスキルⅥ",
+     "text": "力よ…暴れなさい！"
+    },
+    {
+     "title": "EXレール終結Ⅰ",
+     "text": "…この害虫どもが。"
+    },
+    {
+     "title": "EXレール終結Ⅱ",
+     "text": "どいて！…巻き込まれるわよ！"
+    },
+    {
+     "title": "EXレール終結Ⅲ",
+     "text": "うるさい…ちょっと静かに静かに静かに…静かにして！！"
+    },
+    {
+     "title": "EXレール終結Ⅳ",
+     "text": "これで、ジ・エンド…！"
+    },
+    {
+     "title": "EXレール終結Ⅴ",
+     "text": "逃げ場はないわ！"
+    },
+    {
+     "title": "EXレール終結Ⅵ",
+     "text": "逃げようったって…ムダよ！"
+    },
+    {
+     "title": "異象収容Ⅰ",
+     "text": "大人しくすれば、「収容」だけで済むから。"
+    },
+    {
+     "title": "異象収容Ⅱ",
+     "text": "収容完了。さぁ、次次。"
+    },
+    {
+     "title": "異象排除Ⅰ",
+     "text": "本当に迷惑なやつ…"
+    },
+    {
+     "title": "異象排除Ⅱ",
+     "text": "痛い目見ないと分からない？"
+    },
+    {
+     "title": "意外な収穫Ⅰ",
+     "text": "ラッキーね。今日DSDに行ってみようかな。"
+    },
+    {
+     "title": "意外な収穫Ⅱ",
+     "text": "意外な収穫、悪くないわね。"
+    },
+    {
+     "title": "意外な収穫Ⅲ",
+     "text": "いいもの、あるかな？"
+    },
+    {
+     "title": "意外な収穫Ⅳ",
+     "text": "運の無駄遣いしたくないんだけど。"
+    },
+    {
+     "title": "意外な収穫Ⅴ",
+     "text": "これってナクペイダの祝福？"
+    },
+    {
+     "title": "意外な収穫Ⅵ",
+     "text": "治安所に届けなくていいの…？"
+    },
+    {
+     "title": "低HPⅠ",
+     "text": "ふぅ…補給が必要ね。"
+    },
+    {
+     "title": "低HPⅡ",
+     "text": "大丈夫、まだ戦えるわ。"
+    },
+    {
+     "title": "低HPⅢ",
+     "text": "面倒ね…"
+    },
+    {
+     "title": "HP回復Ⅰ",
+     "text": "今なら、一人でデュラハンを倒せるくらい。"
+    },
+    {
+     "title": "HP回復Ⅱ",
+     "text": "よし、次はどの連中を片付ければいい？"
+    },
+    {
+     "title": "力尽きⅠ",
+     "text": "眠る、わ…"
+    },
+    {
+     "title": "力尽きⅡ",
+     "text": "ここまでね…"
+    },
+    {
+     "title": "力尽きⅢ",
+     "text": "こんなところで倒れて…"
+    },
+    {
+     "title": "敵を撃破Ⅰ",
+     "text": "もう終わり？"
+    },
+    {
+     "title": "敵を撃破Ⅱ",
+     "text": "もっと手強いと思ってたのに。"
+    },
+    {
+     "title": "ダメージを受ける（通常）Ⅰ",
+     "text": "チッ、油断したわ…"
+    },
+    {
+     "title": "ダメージを受ける（通常）Ⅱ",
+     "text": "かすり傷よ。"
+    },
+    {
+     "title": "大打撃Ⅰ",
+     "text": "くっ…次はこっちの番！"
+    },
+    {
+     "title": "大打撃Ⅱ",
+     "text": "…覚えてなさい！"
+    },
+    {
+     "title": "出撃Ⅰ",
+     "text": "一番強いやつは、私に残しておいて。"
+    },
+    {
+     "title": "出撃Ⅱ",
+     "text": "安心して。手加減はするから。"
+    },
+    {
+     "title": "コンビスキルⅠ",
+     "text": "少し大人しくしてて！"
+    },
+    {
+     "title": "コンビスキルⅡ",
+     "text": "永遠に黙ってなさい！"
+    },
+    {
+     "title": "コンビスキルⅢ",
+     "text": "その程度の覚悟だったのね！"
+    },
+    {
+     "title": "滑空Ⅰ",
+     "text": "もっと自由に空を飛べたら…"
+    },
+    {
+     "title": "滑空Ⅱ",
+     "text": "これが、一番の近道ね。"
+    },
+    {
+     "title": "切替Ⅰ",
+     "text": "下がってて。"
+    },
+    {
+     "title": "切替Ⅱ",
+     "text": "受けて立つわ…！"
+    },
+    {
+     "title": "切替Ⅲ",
+     "text": "かかってきなさい！"
+    },
+    {
+     "title": "特殊切替・ミント",
+     "text": "はいはい、ミント「先輩」。"
+    },
+    {
+     "title": "特殊切替-イロヒ",
+     "text": "援護だけでいいわよ、電波羊。"
+    },
+    {
+     "title": "特殊切替・零",
+     "text": "ここは、私が。"
+    },
+    {
+     "title": "仲間気絶・ミント",
+     "text": "バカ猫、無理しないで！"
+    },
+    {
+     "title": "仲間気絶-イロヒ",
+     "text": "休んでて…あいつ、五体満足で帰れると思わないことね。"
+    },
+    {
+     "title": "仲間気絶・零",
+     "text": "倒れるなんて許さないから！"
+    },
+    {
+     "title": "パリィⅠ",
+     "text": "その程度？"
+    },
+    {
+     "title": "パリィⅡ",
+     "text": "もっと力込めたら？"
+    },
+    {
+     "title": "連続極限回避成功Ⅰ",
+     "text": "もうついてこれないの？"
+    },
+    {
+     "title": "連続極限回避成功Ⅱ",
+     "text": "簡単すぎるわね。"
+    }
+   ]
+  },
+  "ko": {
+   "daily": [
+    {
+     "title": "첫 만남",
+     "text": "나는 수용2팀의 신쿠라고 해. 네가 바로 민트가 자주 언급하는 코코지? 만나서 반가워. 별일만 없다면, 그 멍청한 고양이처럼 민폐를 끼칠 일은 없을 거야."
+    },
+    {
+     "title": "대화·용의 뿔",
+     "text": "이 두 뿔 말인데, 꼬리만큼 전투에서 유용한 건 아니지만, 평소엔 키를 잴 때만 빼면 꼬리처럼 불편하지도 않아."
+    },
+    {
+     "title": "대화·중고숍",
+     "text": "베이글에서 보니까 헤테로에 괜찮은 중고숍 몇 군데가 생겼다더라. 시간 나면 같이 가보자."
+    },
+    {
+     "title": "대화·헛소문",
+     "text": "난 하늘에서 불을 뿜으며 낚아챈 적을 빙빙 돌리다가 내던진 적이 없다고. 도대체 누가 퍼뜨린 헛소문이야…"
+    },
+    {
+     "title": "맑은 날",
+     "text": "오늘같이 좋은 날씨면, 광장에서 민트를 마주칠 수도 있겠는걸."
+    },
+    {
+     "title": "비 오는 날",
+     "text": "또 비가 오네. 쯧, 귀찮게…"
+    },
+    {
+     "title": "추운 날",
+     "text": "춥지는 않지만… 아무튼 빨리 일 끝내고 돌아가자."
+    },
+    {
+     "title": "더운 날",
+     "text": "아이스바 먹고 싶다…"
+    },
+    {
+     "title": "아침 인사",
+     "text": "안녕. 이른 아침부터 기운이 넘치네. 차라리 네가 나 대신 순찰하러 갈래?"
+    },
+    {
+     "title": "점심 인사",
+     "text": "라멘 먹으러 갈래? 마침 오래된 라멘집 한 곳을 알고 있거든. 학교 다닐 때부터 단골이었는데, 맛도 괜찮아."
+    },
+    {
+     "title": "저녁 인사",
+     "text": "제발 오늘 밤에는 갑자기 보고서 쓸 일이 없었으면 좋겠다…"
+    },
+    {
+     "title": "취침 인사",
+     "text": "시간이 꽤 늦었네. 내가 집까지 바래다줄 필요는 없겠지? 그럼 내일 봐. 잘 자."
+    },
+    {
+     "title": "취미",
+     "text": "난 관심 있는 물건은 전부 다 수집해. 「DSD」랑 <공작 K>의 한정 컬래버 블라인드 박스 레어템부터 <주간 판타지>의 잡지 파본, 심지어 바닷가에서 주운 이상한 모양의 돌 같은 것까지. 보고 싶다고? 기회가 되면 보여줄게."
+    },
+    {
+     "title": "고민",
+     "text": "요즘 생활비가 또 빠듯해졌네. 모아둔 컬렉션은 어지간해선 방출하고 싶지 않은데…"
+    },
+    {
+     "title": "주제·C.S.U",
+     "text": "<신규 수용 안전 조례>에는 지켜야 할 사항이 너무 많아서, 임무 중에 뭘 좀 하려고 해도 한참 고민해야 하거든. 정말 번거롭다니까… 하지만 억지로라도 이런 규칙들을 기억하고 의식하며 행동할 수 있게 스스로를 컨트롤 하는 것이 나에게 진정 필요한 일일지도 몰라. 이게 바로 내가 수용팀에 있는 목적이라 할 수 있지."
+    },
+    {
+     "title": "주제·여행",
+     "text": "딱히 일정이 없을 때면 나는 정처 없이 여기저기 돌아다니는 걸 좋아해. 발길 닿는 대로 걷다가 흥미로운 물건을 발견하면 겸사겸사 컬렉션도 늘릴 수 있고. 좀 유치하게 들릴지 모르겠지만, 나는 어릴 적에 이걸 보물찾기라고 불렀어. 그럴듯하지?"
+    },
+    {
+     "title": "주제·나쿠펜다",
+     "text": "나쿠펜다처럼 동전을 모으는 것도 꽤 괜찮은 것 같아. 다들 동전을 소원 연못에 던지니까 매일 눈 뜨자마자 볼 수 있잖아? 그래서 맨날 헤실헤실 웃고 있나? 나도 기분 안 좋을 때 한번 따라 해볼까 봐."
+    },
+    {
+     "title": "자신에 관해·이능력",
+     "text": "이전 팀장은 내 능력이 저주라고 했어. 비록 나에게 충분한 힘을 가져다줬지만, 동시에 내가 소중하게 여기는 것들을 파멸시킬 수도 있으니까. 과거의 나 또한 친구를 다치게 만들어서 방황한 적이 있었지… 하지만 이제는 알아. 설령 저주라고 해도, 위기의 순간에 자신의 나약함을 한탄하지 않게 해줄 수만 있다면, 그걸로 충분하다는걸."
+    },
+    {
+     "title": "자신에 관해·인간관계",
+     "text": "내가 관리국에서 항상 혼자 다닌다고? 그 멍청한 고양이는 왜 뭐든 다 떠벌리고 다니는 거야… 게다가 혼자 다니는 것도 아니지. 걔가 맨날 나랑 일로이를 끌고 다니면서 뭔가를 하려고 들잖아?"
+    },
+    {
+     "title": "자신에 관해·충동",
+     "text": "이능력이 내게 미치는 영향은 전투 중에만 나타나는 게 아니야. 평소에도 가끔 엉뚱한 행동을 해버릴 수 있거든. 전투 중만큼 위험하지는 않지만, 나도 내가 무슨 짓을 하게 될지 몰라… 어쩌면 꽤 귀찮아질지도 모르겠네."
+    },
+    {
+     "title": "민트에 관해·1",
+     "text": "민트 「선배」 말이지, 분위기를 전혀 못 읽어. 거리를 두려고 해도 자기 하고 싶은 말만 하면서 어느새 다가와 버리거든. 에휴, 하여튼 신경이 많이 쓰이는 멍청한 고양이야."
+    },
+    {
+     "title": "민트에 관해·2",
+     "text": "언제 어디서든 자기 생각을 솔직하게 말할 수 있다니. 칭찬을 해 줘야 할지 아니면 간이 배 밖으로 튀어나온 멍청한 고양이라고 해야 할지 모르겠어… 그래도 모두가 민트처럼 솔직하다면 귀찮은 일도 훨씬 줄어들겠지."
+    },
+    {
+     "title": "일로이에 관해·1",
+     "text": "직장 동료로서 보자면 일로이는 거의 흠잡을 데가 없어. 내가 그 애랑 함께 일하게 된 건, 아마 내가 폭주할 때 일로이가 「꿈」으로 날 진정시킬 수 있기 때문일 거야. 근데 내가 「꿈」에서 본 건… 아무튼 난 일로이를 평범한 사람으로 볼 수 없어. 물론 업무에는 아무 지장도 없겠지만."
+    },
+    {
+     "title": "일로이에 관해·2",
+     "text": "누구나 쉽게 꺼내기 힘든 이야기가 있지. 예전의 나도 그렇고, 양테나도 그렇고. 무슨 일을 겪었는지는 아직 잘 모르겠지만, 내가 할 수 있는 건 믿어주고 곁에 있어 주는 것뿐이야. 그 용을 마주했을 때 걔들이 한 선택처럼. 말다툼? 나도 안 하고 싶거든. 어쩌겠어. 「친구」란 원래 이런 걸지도 모르지."
+    },
+    {
+     "title": "수용2팀에 관해",
+     "text": "여기 오면 또 귀찮은 일에 휘말릴 줄 알았는데, 민트 덕분에 수용2팀 동료들이 금방 나를 받아들여 줬어. 오히려 내가 첫 임무에서 하마터면 큰 사고를 칠 뻔했지. 일로이가 있어서 다행이었어… 크흠, 나중에 동료들한테 크레이지 캣 음료 한 잔씩 돌려야겠네."
+    },
+    {
+     "title": "이상 관리국에 관해",
+     "text": "미리 말해두는데, 동료를 험담하려는 건 아니야. 근데 이상 관리국은 진짜 괴짜 집합소거든. 그중 수용팀이나 E.T.D 같은 외근이 많고 위험한 이상을 자주 상대하는 부서는 더 그렇고. 지금 생각해 보면 내가 이상 관리국에 빨리 적응하고 이전 팀장 밑에서 배울 수 있었던 것도 여기엔 정상인이 별로 없었기 때문인 것 같아."
+    },
+    {
+     "title": "캐릭터 돌파·Ⅰ",
+     "text": "이러면 더 까다로운 적도 나 혼자서 처리할 수 있겠어."
+    },
+    {
+     "title": "캐릭터 돌파·Ⅱ",
+     "text": "귀찮아질 수도 있겠지만, 강해지는 건 언제나 좋은 일이지."
+    },
+    {
+     "title": "캐릭터 돌파·Ⅲ",
+     "text": "아직 부족해, 조금만 더…!"
+    },
+    {
+     "title": "선물 수령·Ⅰ",
+     "text": "…! 나 준 거니까 나중에 후회하기 없기다?"
+    },
+    {
+     "title": "선물 수령·Ⅱ",
+     "text": "내 취향을 아주 잘 아네."
+    },
+    {
+     "title": "선물 수령·Ⅲ",
+     "text": "고마워, 내 컬렉션에 잘 보관해 둘게."
+    },
+    {
+     "title": "선물 수령·IV",
+     "text": "도움이 필요해진 거야?"
+    }
+   ],
+   "battle": [
+    {
+     "title": "바이레일 스킬·Ⅰ",
+     "text": "아직 한참 멀었어."
+    },
+    {
+     "title": "바이레일 스킬·Ⅱ",
+     "text": "단숨에 끝내 주겠어…!"
+    },
+    {
+     "title": "바이레일 스킬·Ⅲ",
+     "text": "받아낼 수 있다면… 어디 한번 해봐!"
+    },
+    {
+     "title": "바이레일 스킬·Ⅳ",
+     "text": "이 발톱을… 휘두르기만 하면!"
+    },
+    {
+     "title": "바이레일 스킬·Ⅴ",
+     "text": "이게 바로… 네 최후다!"
+    },
+    {
+     "title": "바이레일 스킬·Ⅵ",
+     "text": "분노를! 쏟아내라!"
+    },
+    {
+     "title": "울티메이트·Ⅰ",
+     "text": "이 벌레 같은 것들…"
+    },
+    {
+     "title": "울티메이트·Ⅱ",
+     "text": "비켜! 괜히 휩쓸리지 말고!"
+    },
+    {
+     "title": "울티메이트·Ⅲ",
+     "text": "짜증나… 제발 조용히, 조용히, 조용히, 조용히 좀 해!"
+    },
+    {
+     "title": "울티메이트·Ⅳ",
+     "text": "여기서 끝내지…!"
+    },
+    {
+     "title": "울티메이트·V",
+     "text": "순순히 보내주진 않겠어…!"
+    },
+    {
+     "title": "울티메이트·VI",
+     "text": "도망치려고? 꿈도 꾸지 마!"
+    },
+    {
+     "title": "이상 수용·Ⅰ",
+     "text": "상부에 보고해야 되니까 얌전히 있어."
+    },
+    {
+     "title": "이상 수용·Ⅱ",
+     "text": "수용 완료, 이상 무."
+    },
+    {
+     "title": "이상 제거·Ⅰ",
+     "text": "정말 성가신 녀석이네…"
+    },
+    {
+     "title": "이상 제거·Ⅱ",
+     "text": "좋게 말할 때 들었어야지."
+    },
+    {
+     "title": "뜻밖의 수확·Ⅰ",
+     "text": "운이 좋네. 오늘은 DSD에 가봐야겠어."
+    },
+    {
+     "title": "뜻밖의 수확·Ⅱ",
+     "text": "괜찮네. 쓸 만한 물건을 찾았어."
+    },
+    {
+     "title": "뜻밖의 수확·Ⅲ",
+     "text": "어떤 좋은 게 들어있으려나~"
+    },
+    {
+     "title": "뜻밖의 수확·Ⅳ",
+     "text": "운을 여기 다 써버린 건 아니겠지."
+    },
+    {
+     "title": "뜻밖의 수확·Ⅴ",
+     "text": "이것도 나쿠펜다의 축복인가?"
+    },
+    {
+     "title": "뜻밖의 수확·Ⅵ",
+     "text": "치안소에 넘겨야 하나…?"
+    },
+    {
+     "title": "HP 낮음·Ⅰ",
+     "text": "후우… 회복이 필요해."
+    },
+    {
+     "title": "HP 낮음·Ⅱ",
+     "text": "괜찮아, 아직 싸울 수 있어."
+    },
+    {
+     "title": "HP 낮음·Ⅲ",
+     "text": "귀찮네…"
+    },
+    {
+     "title": "HP 회복·Ⅰ",
+     "text": "지금이라면 머리 없는 라이더도 혼자 잡을 수 있을 거 같아."
+    },
+    {
+     "title": "HP 회복·Ⅱ",
+     "text": "컨디션 최상이야. 더 처리할 일 없어?"
+    },
+    {
+     "title": "탈진·Ⅰ",
+     "text": "이것도 나쁘지 않네…"
+    },
+    {
+     "title": "탈진·Ⅱ",
+     "text": "여기까지인가…"
+    },
+    {
+     "title": "탈진·Ⅲ",
+     "text": "여기서 쓰러질 수는 없어…"
+    },
+    {
+     "title": "몬스터 처치·Ⅰ",
+     "text": "이게 다야?"
+    },
+    {
+     "title": "몬스터 처치·Ⅱ",
+     "text": "더 까다로울 줄 알았는데."
+    },
+    {
+     "title": "일반 피격·Ⅰ",
+     "text": "칫, 방심했어…"
+    },
+    {
+     "title": "일반 피격·Ⅱ",
+     "text": "조금 스쳤을 뿐이야."
+    },
+    {
+     "title": "심각한 피해·Ⅰ",
+     "text": "윽… 이제 내 차례다!"
+    },
+    {
+     "title": "심각한 피해·Ⅱ",
+     "text": "… 되돌려주고 말겠어!"
+    },
+    {
+     "title": "출전·Ⅰ",
+     "text": "제일 센 녀석은 남겨줘."
+    },
+    {
+     "title": "출전·Ⅱ",
+     "text": "안심해, 적당히 힘 조절할 테니까."
+    },
+    {
+     "title": "협동기·Ⅰ",
+     "text": "날뛰지 마!"
+    },
+    {
+     "title": "협동기·Ⅱ",
+     "text": "이대로 조용해져라!"
+    },
+    {
+     "title": "협동기·Ⅲ",
+     "text": "이 정도 각오로는… 택도 없어!"
+    },
+    {
+     "title": "글라이딩·Ⅰ",
+     "text": "좀 더 자유롭게 날 수 있다면…"
+    },
+    {
+     "title": "글라이딩·Ⅱ",
+     "text": "이것도 빠르게 내려가는 방법이지."
+    },
+    {
+     "title": "전환·Ⅰ",
+     "text": "물러서."
+    },
+    {
+     "title": "전환·Ⅱ",
+     "text": "좋아, 이제 내게 맡겨줘…!"
+    },
+    {
+     "title": "전환·Ⅲ",
+     "text": "자, 내가 상대해 줄게!"
+    },
+    {
+     "title": "특수 전환·민트",
+     "text": "네네, 민트 「선배」."
+    },
+    {
+     "title": "특수 전환·일로이",
+     "text": "지원만 해줘, 양테나."
+    },
+    {
+     "title": "특수 전환·제로",
+     "text": "감정사, 나 여기 있어."
+    },
+    {
+     "title": "팀원 쓰러짐·민트",
+     "text": "멍청한 고양이, 무리하지 마!"
+    },
+    {
+     "title": "팀원 쓰러짐·일로이",
+     "text": "쉬고 있어, 저 녀석이 대가를 치르게 할 테니까…!"
+    },
+    {
+     "title": "팀원 쓰러짐·제로",
+     "text": "감정사, 내 허락 없이 쓰러지지 마!"
+    },
+    {
+     "title": "패링·Ⅰ",
+     "text": "겨우 이 정도야?"
+    },
+    {
+     "title": "패링·Ⅱ",
+     "text": "더 세게 쳐봐."
+    },
+    {
+     "title": "연속 극한 회피 성공·Ⅰ",
+     "text": "벌써 못 쫓아오는 거야?"
+    },
+    {
+     "title": "연속 극한 회피 성공·Ⅱ",
+     "text": "실수할 리가 없잖아."
+    }
+   ]
+  },
+  "zh-tw": {
+   "daily": [
+    {
+     "title": "初次見面",
+     "text": "我是真紅，隸屬於收容二組，你就是薄荷常常提到的可可吧？初次見面，不出意外的話，我應該不會像那隻笨貓一樣給你添麻煩。"
+    },
+    {
+     "title": "閒聊·龍角",
+     "text": "雖然不像尾巴那樣在戰鬥時很有用，不過除了測身高，這兩隻角平時也沒有尾巴那麼不方便。"
+    },
+    {
+     "title": "閒聊·中古店",
+     "text": "唄果上看到海特洛新開了幾家不錯的中古店，有空去看看吧。"
+    },
+    {
+     "title": "閒聊·謠言",
+     "text": "我從來沒有做過一邊噴火，一邊抓著敵人飛到天上繞幾圈再把人扔下來這樣的事，這都從哪流傳出來的說法……"
+    },
+    {
+     "title": "大晴天",
+     "text": "這麼好的天氣，去廣場上說不能抓到薄荷。"
+    },
+    {
+     "title": "雨天",
+     "text": "又下雨了，嘖，麻煩……"
+    },
+    {
+     "title": "寒冷",
+     "text": "雖說是不冷……總之，快點把事情做完回去吧。"
+    },
+    {
+     "title": "炎熱",
+     "text": "想吃冰棒啊……"
+    },
+    {
+     "title": "早上問候",
+     "text": "早，一大早就這麼有幹勁，要不然你替我去巡邏？"
+    },
+    {
+     "title": "中午問候",
+     "text": "要一起去吃拉麵嗎？我正好知道一家老店，還在上學的時候經常去，味道不錯。"
+    },
+    {
+     "title": "傍晚問候",
+     "text": "希望今晚不會有突然出現的報告……"
+    },
+    {
+     "title": "晚安",
+     "text": "不早了，你應該不用我送你回家吧？那就明天見，晚安。"
+    },
+    {
+     "title": "愛好",
+     "text": "上到「DSD」跟《公爵K》限時聯名盲盒的大隱藏，下到《週刊Fantasy》的錯版雜誌，甚至是在海邊形狀有趣的石頭，只要是我感興趣的東西都會收集起來。想看？有機會再說。"
+    },
+    {
+     "title": "煩惱",
+     "text": "最近生活費又見底了，真不想動存起來的那些……"
+    },
+    {
+     "title": "話題·C.S.U",
+     "text": "《新收容安全條例》裡的要求那麼多，執行任務時總得考慮半天……真麻煩。不過，強迫自己背下這些有的沒的，有意識地去約束自己，就是我真正需要的吧。這也是我加入收容組的原因。"
+    },
+    {
+     "title": "話題·漫遊",
+     "text": "沒什麼安排的時候，我喜歡漫無目的地四處閒逛，走到哪算哪，遇到些感興趣的東西還能充實一下收藏。用幼稚一點的說法，小時候的我喜歡把這個過程叫做尋寶，是不是還滿像的。"
+    },
+    {
+     "title": "話題·納庫佩達",
+     "text": "納庫佩達收藏硬幣的方式其實挺不錯的，放到許願池裡，每天一睜眼就能看到，也怪不得那傢伙每天笑嘻嘻的，或許我心情不好時也能參考一下？"
+    },
+    {
+     "title": "關於自己·異能",
+     "text": "前組長曾說我的能力是詛咒，雖然讓我擁有了足夠的力量，卻也可能給我珍視的事物帶去毀滅。過去的我曾因傷害朋友而陷入迷茫……但現在的我明白了：就算是詛咒也好，它能讓我在危機來臨時不必哀嘆自身的弱小，這就夠了。"
+    },
+    {
+     "title": "關於自己·人際關係",
+     "text": "在局裡總是獨來獨往？那隻笨貓怎麼什麼都往外說……而且也不算獨來獨往吧，她不是天天拉著我跟伊洛伊想找點事做嗎？"
+    },
+    {
+     "title": "關於自己·衝動",
+     "text": "異能對我的影響不僅僅體現在戰鬥時，即使是平常我也可能忽然做出些出格的事情，雖然不會像戰鬥時那麼危險，不過，我也不知道我可能會做出什麼事——或許，可能會變得很麻煩吧。"
+    },
+    {
+     "title": "關於薄荷·其一",
+     "text": "薄荷「前輩」，完全沒有閱讀環境的能力，就算你想要跟她保持距離她也一定會自說自話地湊過來。唉，真是讓人沒辦法放著不管的笨貓。"
+    },
+    {
+     "title": "關於薄荷·其二",
+     "text": "不管在什麼時候什麼場合都能坦率地表達自己的想法，真不知道是該誇她還是該說她是個大心臟的笨貓……不過，如果大家都能像薄荷這樣坦率，麻煩事也會少很多吧。"
+    },
+    {
+     "title": "關於伊洛伊·其一",
+     "text": "以同事的標準來評價的話，伊洛伊幾乎無可挑剔，讓我與她共事恐怕也是因為她能在我失控時通過「夢境」讓我冷靜下來吧。不過，我曾在「夢境」中看到了……總之，我沒辦法把她當普通人看待，當然，這不會影響到工作。"
+    },
+    {
+     "title": "關於伊洛伊·其二",
+     "text": "每個人都有自己無法輕易說出口的故事，之前的我是這樣，天線羊也不例外。雖然還是不太清楚她到底經歷過什麼，但我能做的就是相信並陪在她身邊，和面對那條龍時她們的選擇一樣。吵架？我倒也希望能不跟她吵架，沒辦法，或許「同伴」就是這樣的囉。"
+    },
+    {
+     "title": "關於收容二組",
+     "text": "本以為來這邊又要遇到些麻煩，多虧了薄荷，收容二組的同事很快就接受了我，反倒是我到這邊第一次出任務就差點把事情鬧大，還好有伊洛伊在……咳咳，等等請同事們喝激動貓吧。"
+    },
+    {
+     "title": "關於異象管理局",
+     "text": "先聲明一下，我不是在攻擊同事，不過異象管理局真是個怪胎集合地，像收容組和E.T.D這些需要出外勤，經常跟危險異象打交道的崗位更是。現在想想，當時的我能很快融入異象管理局，開始跟著前組長學習也多虧了這沒多少正常人吧。"
+    },
+    {
+     "title": "角色突破·Ⅰ",
+     "text": "這樣，就能自己解決更麻煩的對手了。"
+    },
+    {
+     "title": "角色突破·Ⅱ",
+     "text": "雖然可能會帶來麻煩，但變強總是好事。"
+    },
+    {
+     "title": "角色突破·Ⅲ",
+     "text": "還不夠，還需要更多……！"
+    },
+    {
+     "title": "收到贈禮·Ⅰ",
+     "text": "……！送給我可就不能後悔了。"
+    },
+    {
+     "title": "收到贈禮·Ⅱ",
+     "text": "你很懂我的口味嘛。"
+    },
+    {
+     "title": "收到贈禮·Ⅲ",
+     "text": "謝了，我會把它放到我的收藏裡的。"
+    },
+    {
+     "title": "收到贈禮·IV",
+     "text": "有什麼要我幫忙的嗎？"
+    }
+   ],
+   "battle": [
+    {
+     "title": "變軌技能·Ⅰ",
+     "text": "還差得遠呢。"
+    },
+    {
+     "title": "變軌技能·Ⅱ",
+     "text": "一鼓作氣……！"
+    },
+    {
+     "title": "變軌技能·Ⅲ",
+     "text": "能接住的話……儘管試試！"
+    },
+    {
+     "title": "變軌技能·Ⅳ",
+     "text": "只要……揮舞這利爪！"
+    },
+    {
+     "title": "變軌技能·Ⅴ",
+     "text": "這就是……你的下場！"
+    },
+    {
+     "title": "變軌技能·Ⅵ",
+     "text": "將憤怒！釋放出來！"
+    },
+    {
+     "title": "極軌終結·Ⅰ",
+     "text": "這些害蟲……"
+    },
+    {
+     "title": "極軌終結·Ⅱ",
+     "text": "閃開！……別被捲進來了！"
+    },
+    {
+     "title": "極軌終結·Ⅲ",
+     "text": "好煩……給我安靜安靜、安靜、安靜，安靜一點！"
+    },
+    {
+     "title": "極軌終結·Ⅳ",
+     "text": "就此結束吧……！"
+    },
+    {
+     "title": "極軌終結·V",
+     "text": "不會放你離開……！"
+    },
+    {
+     "title": "極軌終結·VI",
+     "text": "在找逃命的路線嗎——想都別想！"
+    },
+    {
+     "title": "收容異象·Ⅰ",
+     "text": "你最好老實點，讓我能安心交差。"
+    },
+    {
+     "title": "收容異象·Ⅱ",
+     "text": "收容完成，一切順利。"
+    },
+    {
+     "title": "泯除異象·Ⅰ",
+     "text": "真是給人添麻煩的傢伙……"
+    },
+    {
+     "title": "泯除異象·Ⅱ",
+     "text": "敬酒不吃吃罰酒。"
+    },
+    {
+     "title": "意外收穫·Ⅰ",
+     "text": "運氣不錯，今天應該去一趟DSD。"
+    },
+    {
+     "title": "意外收穫·Ⅱ",
+     "text": "不錯，找到了些有用的東西。"
+    },
+    {
+     "title": "意外收穫·Ⅲ",
+     "text": "會是什麼好東西呢？"
+    },
+    {
+     "title": "意外收穫·Ⅳ",
+     "text": "希望不是某種運氣轉移。"
+    },
+    {
+     "title": "意外收穫·Ⅴ",
+     "text": "這算納庫佩達的祝福嗎？"
+    },
+    {
+     "title": "意外收穫·Ⅵ",
+     "text": "需要交給治安所嗎……？"
+    },
+    {
+     "title": "生命值低·Ⅰ",
+     "text": "呼……需要補給一下。"
+    },
+    {
+     "title": "生命值低·Ⅱ",
+     "text": "沒關係，我還能繼續戰鬥。"
+    },
+    {
+     "title": "生命值低·Ⅲ",
+     "text": "真麻煩啊……"
+    },
+    {
+     "title": "恢復生命·Ⅰ",
+     "text": "現在，我狀態好得能自己解決掉無首鐵馭。"
+    },
+    {
+     "title": "恢復生命·Ⅱ",
+     "text": "狀態萬全，還有需要我解決的嗎？"
+    },
+    {
+     "title": "力竭·Ⅰ",
+     "text": "這樣也好……"
+    },
+    {
+     "title": "力竭·Ⅱ",
+     "text": "到此為止了嗎……"
+    },
+    {
+     "title": "力竭·Ⅲ",
+     "text": "怎麼能在這倒下……"
+    },
+    {
+     "title": "擊敗怪物·Ⅰ",
+     "text": "這就結束了？"
+    },
+    {
+     "title": "擊敗怪物·Ⅱ",
+     "text": "我還以為會更棘手些。"
+    },
+    {
+     "title": "普通受擊·Ⅰ",
+     "text": "嘖，大意了……"
+    },
+    {
+     "title": "普通受擊·Ⅱ",
+     "text": "擦傷而已。"
+    },
+    {
+     "title": "重受擊·Ⅰ",
+     "text": "呃……接下來該我了！"
+    },
+    {
+     "title": "重受擊·Ⅱ",
+     "text": "……會還給你的！"
+    },
+    {
+     "title": "上陣·Ⅰ",
+     "text": "把最強的傢伙留給我。"
+    },
+    {
+     "title": "上陣·Ⅱ",
+     "text": "放心，我會把握好分寸。"
+    },
+    {
+     "title": "協同技·Ⅰ",
+     "text": "給我安靜一點！"
+    },
+    {
+     "title": "協同技·Ⅱ",
+     "text": "就這樣安靜下來吧！"
+    },
+    {
+     "title": "協同技·Ⅲ",
+     "text": "這樣的覺悟……可不夠看！"
+    },
+    {
+     "title": "滑翔·Ⅰ",
+     "text": "如果能更自由地飛起來……"
+    },
+    {
+     "title": "滑翔·Ⅱ",
+     "text": "這也算是一種下樓的捷徑。"
+    },
+    {
+     "title": "切換·Ⅰ",
+     "text": "退後。"
+    },
+    {
+     "title": "切換·Ⅱ",
+     "text": "好了，我來接手……！"
+    },
+    {
+     "title": "切換·Ⅲ",
+     "text": "來，跟我試試！"
+    },
+    {
+     "title": "特殊切換·薄荷",
+     "text": "好好，薄荷「前輩」。"
+    },
+    {
+     "title": "特殊切換·伊洛伊",
+     "text": "負責好援護就好，天線羊。"
+    },
+    {
+     "title": "特殊切換·零",
+     "text": "鑒定師，我在。"
+    },
+    {
+     "title": "隊友倒下·薄荷",
+     "text": "笨貓，不要硬撐！"
+    },
+    {
+     "title": "隊友倒下·伊洛伊",
+     "text": "休息一下，我會讓那傢伙付出代價……！"
+    },
+    {
+     "title": "隊友倒下·零",
+     "text": "鑒定師，我不允許你倒下！"
+    },
+    {
+     "title": "彈反·Ⅰ",
+     "text": "就這水平？"
+    },
+    {
+     "title": "彈反·Ⅱ",
+     "text": "還可以再用力點。"
+    },
+    {
+     "title": "連續極限閃避成功·Ⅰ",
+     "text": "這就跟不上了？"
+    },
+    {
+     "title": "連續極限閃避成功·Ⅱ",
+     "text": "沒有失誤的理由。"
+    }
+   ]
+  }
+ }
+}

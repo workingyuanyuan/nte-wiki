@@ -7,7 +7,9 @@
 # notices (VOC), convert the characters (OpenCC tw2s), swap the title with its
 # Simplified alias, and point links at /zh-cn/. Source URLs are kept as they are.
 # Then run pipeline/build_pages.py, which puts the official Simplified game text into the
-# archive pages and the Outfits tables.
+# archive and voice line pages and the Outfits tables, and writes the lists of those pages
+# (characters/archives.md, characters/voices.md), the anomaly pages
+# (anomalies/) and the item and achievement lists (items/) from their records in every language.
 # OpenCC's phrase mode (tw2sp) is not used: it rewrites game terms (支援技能, 角色資料).
 
 import glob
@@ -35,6 +37,7 @@ VOC = [
     ('64 位元', '64 位'), ('記憶體', '内存'), ('字元', '字符'), ('電子信箱', '电子邮箱'),
     ('無須課金', '无须付费'), ('連線', '联机'), ('台港澳', '港澳台'), ('洋裝', '连衣裙'),
     ('計畫', '计划'), ('網路', '网络'), ('型態', '形态'), ('暫存空間', '临时空间'),
+    ('滑翔翼造型', '滑翔翼皮肤'),
 ]
 
 # The names page quotes Traditional Chinese names in its prose; put them back after conversion.
@@ -111,7 +114,7 @@ base = os.path.join(root, 'zh-tw')
 files = sorted(glob.glob(base + '/**/*.md', recursive=True))
 # Archive pages carry each language's own game text; pipeline/build_pages.py writes the
 # Simplified Chinese ones from the Simplified game data, so they are not converted here.
-files = [f for f in files if not re.search(r'/characters/[^/]+/archive\.md$', f)]
+files = [f for f in files if not re.search(r'/characters/[^/]+/(archive|voice)\.md$|/characters/(archives|voices)\.md$|/anomalies/|/items/', f)]
 for f in files:
     page(f, os.path.relpath(f, base))
 print(len(files), 'pages written to', os.path.join(root, 'zh-cn'))

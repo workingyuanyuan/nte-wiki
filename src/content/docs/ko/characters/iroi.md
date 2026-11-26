@@ -53,6 +53,7 @@ sources:
 | 참전 | 1.2 버전 후반, 2026-07-29 |
 | 성우 | 중국어: 汪悦; 영어: Rachel Lepore; 일본어: 日高里菜; 한국어: 이주은 |
 | 아카이브 | [일로이 아카이브](/ko/characters/iroi/archive/) |
+| 보이스 | [일로이 보이스](/ko/characters/iroi/voice/) |
 
 ## 획득 방법
 

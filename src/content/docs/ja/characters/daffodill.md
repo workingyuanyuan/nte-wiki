@@ -60,6 +60,7 @@ sources:
 | 肩書き | 骨董品屋エイボン |
 | 声優 | 中国語：陈彦亦、英語：Natalie Van Sistine、日本語：大原さやか、韓国語：이명호 |
 | アーカイブ | [ダフォディールのアーカイブ](/ja/characters/daffodill/archive/) |
+| ボイス | [ダフォディールのボイス](/ja/characters/daffodill/voice/) |
 
 PrydwenとGame8では、英語表記が「Daffodil」である。
 

@@ -54,6 +54,7 @@ sources:
 | 身分 | 伊南娜的養女與侍衛，「紅字」的殺手；異能「惑亂之眼」 |
 | 配音員 | 中文：陳婷婷；英文：Stephanie Wong；日文：井上喜久子；韓文：허예은 |
 | 個人檔案 | [殘虹個人檔案](/zh-tw/characters/zankou/archive/) |
+| 語音 | [殘虹語音](/zh-tw/characters/zankou/voice/) |
 
 ## 取得方式
 

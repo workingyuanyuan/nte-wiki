@@ -59,6 +59,7 @@ sources:
 | 肩書き | 異象管理局E.T.D |
 | 声優 | 中国語：裴致莹、英語：Amber Lee Connors、日本語：真堂圭、韓国語：조현정 |
 | アーカイブ | [ファルディーヤのアーカイブ](/ja/characters/fadia/archive/) |
+| ボイス | [ファルディーヤのボイス](/ja/characters/fadia/voice/) |
 
 ## 入手方法
 

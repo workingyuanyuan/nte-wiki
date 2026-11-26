@@ -1,0 +1,1827 @@
+{
+ "slug": "nanally",
+ "id": "1010",
+ "version": "1.5.4",
+ "sources": {
+  "en": "https://static.nanoka.cc/nte/1.5.4/en/character/1010.json",
+  "zh-cn": "https://static.nanoka.cc/nte/1.5.4/zh/character/1010.json",
+  "ja": "https://static.nanoka.cc/nte/1.5.4/ja/character/1010.json",
+  "ko": "https://static.nanoka.cc/nte/1.5.4/ko/character/1010.json",
+  "zh-tw": "https://everness.info/zh-Hant/espers/1010"
+ },
+ "reads": {
+  "zh-tw": "2026-11-25"
+ },
+ "lines": {
+  "en": {
+   "daily": [
+    {
+     "title": "First Meet",
+     "text": "Newcomer? I—no, ahem, I mean, I, Nanally Coluccis, am the Ichi-daime of the future greatest family in all of Hethereau—the Colucci family! I'll have your back from now on."
+    },
+    {
+     "title": "Chat: Grand Plan",
+     "text": "If you've got nothing to …do, want to hear my grand plan for the family?"
+    },
+    {
+     "title": "Chat: Keenness",
+     "text": "Argh, I'm so bored… Hmm?! Something doesn't feel quite right. I should probably scram…"
+    },
+    {
+     "title": "Chat: Books",
+     "text": "Family Management… huh… Prologue… first of all… Ugh!!!"
+    },
+    {
+     "title": "Sunny",
+     "text": "Clear skies! …Why are you looking at me like a pleased mother?"
+    },
+    {
+     "title": "Rainy",
+     "text": "Boy, the rain is crazy… Alright, let's surf our way back!"
+    },
+    {
+     "title": "Cold",
+     "text": "It's so cold! Hurry up. I'm turning into a popsicle!"
+    },
+    {
+     "title": "Hot",
+     "text": "I feel like a fish on the beach right now. If only I had a Blizzi ice cream…"
+    },
+    {
+     "title": "Morning Greeting",
+     "text": "Good morning! Any new commissions? The Coluccis are always good to go!"
+    },
+    {
+     "title": "Noon Greeting",
+     "text": "Lunchtime! Is my favorite cheesy eggroll on the menu today?"
+    },
+    {
+     "title": "Evening Greeting",
+     "text": "It's still early. Let's go out for another round."
+    },
+    {
+     "title": "Good Night",
+     "text": "Huh? Is it this late already? One more game and I'm going to sleep!"
+    },
+    {
+     "title": "Hobbies",
+     "text": "Snacks, manga, gaming, bug catching, parkour, beating up minions, and… argh, I've lost count."
+    },
+    {
+     "title": "Worries",
+     "text": "Worry? Hmm… Uh… I know! Someone ate the pudding I left in the fridge. I was totally looking forward to enjoying it while reading the latest issue of \"Monthly Fantasy\"."
+    },
+    {
+     "title": "Topic: Family",
+     "text": "A boss who doesn't stand by their family is not a real boss… We owe everything to the family business for who we are today. Betraying the family is betraying yourself! …How's that? Cool, right? I've always wanted to say these lines from \"Sin City Chronicles\"!"
+    },
+    {
+     "title": "Topic: Electromagnetic Attraction",
+     "text": "First a crackle-POP, then a snap-ZAP, and bam—I'm upside down and clinging to the wall! Oh, oh! And when I go whoosh and drop in right in front of the bad guys? That's my signature entrance!"
+    },
+    {
+     "title": "Topic: Hair Care",
+     "text": "First, rinse the fur with clean water. Then use the special cleanser, blow-dry with warm air until it's fluffy-but-damp, spritz on some conditioners, switch to cool air to finish drying, and trim off any split ends. That's how Adler taught me—after all, the Ichi-daime has to look the part!"
+    },
+    {
+     "title": "About Myself: Esper Abilities",
+     "text": "To get back the family heirloom, I leapt onto the outer pipes of the building! But then—get this—some creep set up a broken live cable just waiting for me. I felt this ZZZZZT jolt and then I was falling! But I swear someone grabbed me! Next thing I know, my body's all spark-crackle, and we're just standing there—on the wall! As for the price… hmm… didn't feel anything weird. Maybe the cost was too small to notice? Is this what they call… plot armor?"
+    },
+    {
+     "title": "About Myself: Wounds",
+     "text": "This wound's probably from an anomaly. This one is from bumping into a fire hydrant when I chased Danzaburou after it stole food from a grandma… Ah, and this is from teaching those robbers a good lesson. All minor injuries, doesn't hurt one bit! …Huh? Holes on my clothes?! Ahhh… guess I'm in trouble with the old man…"
+    },
+    {
+     "title": "About Myself: Street Fighter",
+     "text": "Not trying to brag or anything, but before I joined Eibon, everyone on Bluebeard Road and Torchwood Avenue knew who I was! I didn't even need to fight them with my Esper Ability… Uh, what? Did you just say you wanted to learn more about me? Thanks but no thanks. I don't want no trouble around Eibon!"
+    },
+    {
+     "title": "About Hotori",
+     "text": "A mysterious antique shop owner with an enigmatic background sounds so cool! I really want to be like her. Should I start by learning to drink?"
+    },
+    {
+     "title": "About Adler",
+     "text": "There is nothing old man can't do, can you believe it? I've tried to dig for secrets a few times when Boss was drunk, and all I got was all sorts of rumors… except Sakiri said none of those were true. Boy, is the guy some sort of trade secret?"
+    },
+    {
+     "title": "About Sakiri",
+     "text": "It seems like Sakiri… keeps a whole lot of things to herself. But as the leader, I'm very tolerant of my family members. Sakiri can continue being herself. I mean, she might just open up to me someday when I'm as powerful as Master Daffodill!"
+    },
+    {
+     "title": "About Edgar",
+     "text": "There seems to be a computer in Edgar's head. He can even answer bizarre questions like \"Why are round pizzas put in square boxes and then cut into triangles?\" or \"Why is there more air than chips in a bag of chips?\" Honestly, they should have designed Edgar's head the way they have Taygedo's."
+    },
+    {
+     "title": "About Daffodill",
+     "text": "I've never seen anyone with a more regular routine than Master Daffodill! She never slacks off! I mean, she even brushes her teeth and eats with her back straight! And when she trains, she never takes a break… Uh, I just happened to see it while passing by. I wasn't peeking! I swear!"
+    },
+    {
+     "title": "About Taygedo",
+     "text": "Taygedo? He's still on probation, but if he does as I say, I just might consider giving him an important role in the family down the road. He really needs to consider himself lucky working for me!"
+    },
+    {
+     "title": "About Eibon Antique Shop",
+     "text": "A mysterious shop in a quiet alley, an enigmatic shop owner, a high-combat-value cold bodyguard, a versatile robot-like butler, and… a mascot! It looks like a setting straight out of a hot-blooded manga! I mean, life at Eibon turned out different than I'd imagined… but I can already smell the plot brewing! People all over Hethereau are going to know Eibon and the Coluccis. No, people all over the world are going to know Eibon and the Coluccis!"
+    },
+    {
+     "title": "Character Ascension I",
+     "text": "This is Nanally Colucci for you."
+    },
+    {
+     "title": "Character Ascension II",
+     "text": "New move!"
+    },
+    {
+     "title": "Character Ascension III",
+     "text": "Time to show you my ultimate power!"
+    },
+    {
+     "title": "Gift Received I",
+     "text": "I swear, nothing can ever—beat—this!"
+    },
+    {
+     "title": "Gift Received II",
+     "text": "A gift like this… Are you sure? I knew you wouldn't let me down!"
+    },
+    {
+     "title": "Gift Received III",
+     "text": "Where did you get spoils like this?"
+    },
+    {
+     "title": "Gift Received IV",
+     "text": "Alright then, let this Ichi-daime know what you need."
+    }
+   ],
+   "battle": [
+    {
+     "title": "Redirect Skill I",
+     "text": "Mrrrowr!"
+    },
+    {
+     "title": "Redirect Skill II",
+     "text": "Surprise!"
+    },
+    {
+     "title": "Redirect Skill III",
+     "text": "Watch me shine!"
+    },
+    {
+     "title": "Ultimate I",
+     "text": "Take that! The city's mine!"
+    },
+    {
+     "title": "Ultimate II",
+     "text": "Everyone! Follow my command!"
+    },
+    {
+     "title": "Ultimate III",
+     "text": "Underboss, it's our turn!"
+    },
+    {
+     "title": "Containment I",
+     "text": "Well well well… The Colucci Family is always looking for new members like you!"
+    },
+    {
+     "title": "Containment II",
+     "text": "Get along with everyone from now on!"
+    },
+    {
+     "title": "Nullification I",
+     "text": "Job done! …Uh, can the bill for damages be sent elsewhere?"
+    },
+    {
+     "title": "Nullification II",
+     "text": "It's finally over!"
+    },
+    {
+     "title": "Unexpected Gains I",
+     "text": "Great stuff! Better hide it!"
+    },
+    {
+     "title": "Unexpected Gains II",
+     "text": "Very good, the family shall grow stronger."
+    },
+    {
+     "title": "Unexpected Gains III",
+     "text": "Can this be used to pay off the Boss's debt?"
+    },
+    {
+     "title": "Unexpected Gains IV",
+     "text": "Woah, I gotta hide this!"
+    },
+    {
+     "title": "Unexpected Gains V",
+     "text": "Hold on, I'll look into this when we get back!"
+    },
+    {
+     "title": "Unexpected Gains VI",
+     "text": "Oooh! I know this! It… it's…"
+    },
+    {
+     "title": "Low Health I",
+     "text": "Tch, I've got even better moves!"
+    },
+    {
+     "title": "Low Health II",
+     "text": "Ouch… hope no one saw that?"
+    },
+    {
+     "title": "Low Health III",
+     "text": "Cough cough… before this hero's final moments…"
+    },
+    {
+     "title": "Heal I",
+     "text": "Heh, now it's my turn!"
+    },
+    {
+     "title": "Heal II",
+     "text": "Ready to go!"
+    },
+    {
+     "title": "Down I",
+     "text": "Brought shame… to the Coluccis…"
+    },
+    {
+     "title": "Down II",
+     "text": "I'm not… a competent boss…"
+    },
+    {
+     "title": "Down III",
+     "text": "This… isn't cool at all…"
+    },
+    {
+     "title": "Takedown I",
+     "text": "Next!"
+    },
+    {
+     "title": "Takedown II",
+     "text": "Beg for mercy earlier next time."
+    },
+    {
+     "title": "Damaged I",
+     "text": "Just warming up!"
+    },
+    {
+     "title": "Damaged II",
+     "text": "Just a tickle!"
+    },
+    {
+     "title": "Heavily Damaged I",
+     "text": "Quite arrogant!"
+    },
+    {
+     "title": "Heavily Damaged II",
+     "text": "No hitting from behind!"
+    },
+    {
+     "title": "Deploy I",
+     "text": "I'll handle this!"
+    },
+    {
+     "title": "Deploy II",
+     "text": "It should've been my turn ages ago!"
+    },
+    {
+     "title": "Entry Attack I",
+     "text": "Time to shine!"
+    },
+    {
+     "title": "Entry Attack II",
+     "text": "You picked a fight with the wrong person!"
+    },
+    {
+     "title": "Entry Attack III",
+     "text": "Eat this!"
+    },
+    {
+     "title": "Glide I",
+     "text": "What's that smell? Smells amazing!"
+    },
+    {
+     "title": "Glide II",
+     "text": "Whoo! As free as the wind!"
+    },
+    {
+     "title": "Special Switch - Hotori",
+     "text": "Leave this to me! I won't mess up this time!"
+    },
+    {
+     "title": "Special Switch - Adler",
+     "text": "Take a break, old man! I'll handle this!"
+    },
+    {
+     "title": "Special Switch - Sakiri",
+     "text": "Let them witness the bond of the Coluccis!"
+    },
+    {
+     "title": "Special Switch - Daffodill",
+     "text": "I'm gonna show you how a great teacher makes a great student!"
+    },
+    {
+     "title": "Special Switch - Edgar",
+     "text": "Why didn't you call your boss when you needed help?"
+    },
+    {
+     "title": "Special Switch - Mint",
+     "text": "Move like wind, strike like thunder!"
+    },
+    {
+     "title": "Special Switch - Zero",
+     "text": "Don't underestimate my wombo-combo with the Appraiser!"
+    },
+    {
+     "title": "Teammate Down - Hotori",
+     "text": "What did you do to the Boss?!"
+    },
+    {
+     "title": "Teammate Down - Adler",
+     "text": "I'll never forget this…!"
+    },
+    {
+     "title": "Teammate Down - Sakiri",
+     "text": "Who gave you permission to lay hands on one of mine?"
+    },
+    {
+     "title": "Teammate Down - Daffodill",
+     "text": "I'll never let Master down."
+    },
+    {
+     "title": "Teammate Down - Mint",
+     "text": "DON'T—STEP—ON—HER—TAIL!"
+    },
+    {
+     "title": "Teammate Down - Edgar",
+     "text": "It's not time to give up!"
+    },
+    {
+     "title": "Teammate Down - Zero",
+     "text": "Who dares to hurt a core Colucci member!?"
+    },
+    {
+     "title": "Parry I",
+     "text": "Heh, child's play."
+    },
+    {
+     "title": "Parry II",
+     "text": "I block!"
+    },
+    {
+     "title": "Consecutive Critical Dodge Success I",
+     "text": "Think you can challenge me?"
+    },
+    {
+     "title": "Consecutive Critical Dodge Success II",
+     "text": "Can't touch this!"
+    }
+   ]
+  },
+  "zh-cn": {
+   "daily": [
+    {
+     "title": "初次见面",
+     "text": "新人？在下——不对，咳咳，鄙人呃……我！娜娜莉·柯林斯，是未来全海特洛最伟大的家族——「柯林斯」家族的一代目！今后我会罩着你的。"
+    },
+    {
+     "title": "闲聊·兴建大计",
+     "text": "没什么事做的话，要不要听听我的家族兴建大计？"
+    },
+    {
+     "title": "闲聊·敏锐",
+     "text": "好没劲啊……嗯？！我闻到了阴谋的味道。轮到我出动了？"
+    },
+    {
+     "title": "闲聊·书",
+     "text": "《家族管理学》序章，首先……唔！！！"
+    },
+    {
+     "title": "大晴天",
+     "text": "晴空万里！……为什么要用那种欣慰的眼神看我？"
+    },
+    {
+     "title": "雨天",
+     "text": "好大的雨……好！就这样直接冲回去吧！"
+    },
+    {
+     "title": "寒冷",
+     "text": "好~冷~啊~~~快动起来吧，我要变成冰棍了！"
+    },
+    {
+     "title": "炎热",
+     "text": "我现在就好像海滩上的鱼，如果有一块碎雪冰淇淋的话……"
+    },
+    {
+     "title": "早上问候",
+     "text": "早上好！有新的委托吗？柯林斯家族随时可以出发！"
+    },
+    {
+     "title": "中午问候",
+     "text": "午餐时间！今天有我喜欢的芝士蛋卷吗？"
+    },
+    {
+     "title": "傍晚问候",
+     "text": "还早还早，再出去转一趟吧。"
+    },
+    {
+     "title": "晚安",
+     "text": "诶？已经这个点了吗？打完这局就睡！"
+    },
+    {
+     "title": "爱好",
+     "text": "零食、漫画、游戏机、抓虫子、跑酷、揍小弟，还有……太多了根本数不过来。"
+    },
+    {
+     "title": "烦恼",
+     "text": "烦恼？嗯……呃……我知道了！我放在冰箱里的最后一个珍藏布丁不知道被谁吃掉了。可恶，那可是我特意留着，打算看最新一期《月刊Fantasy》的时候好好享受的呢。"
+    },
+    {
+     "title": "话题·家族",
+     "text": "不和家族站在一起的老大，不算是真正的老大……家族事业就是我们的根基，背叛家族就是背叛自己！……怎么样，帅吧？《罪城往事》的这几句台词我想说很久了！"
+    },
+    {
+     "title": "话题·电磁吸附",
+     "text": "先「噼啪——」一下，然后再「啪嚓——」一下，就可以吸在墙上倒过来啦！而且而且，这样「唰——」的一下出现在反派面前，可是我的独家登场方式！"
+    },
+    {
+     "title": "话题·毛发护理",
+     "text": "先用清水打湿毛发，再用专门的洗剂清洗，然后用柔风吹到半干上「蓬绒绒尾巴护理喷雾」，再换成冷风吹干，最后再修剪掉分叉和多余的毛发。这些都是大叔教我的，毕竟一代目的形象对于家族来说可是很重要的。"
+    },
+    {
+     "title": "关于自己·异能",
+     "text": "为了找回遗失的家族信物，我一个箭步爬到楼栋的外界管道上！结果没想到有歹人想害我，居然在那放了根待维修的电缆线——我只感觉身体一麻，不受控制地掉下去……咦？好像有谁拉了我一把？然后身体里「噼里啪啦」的，我们就一起站在墙面上了！至于代价......好像没什么感觉，大概小得可以忽略不计吧，难道这就是主角光环？"
+    },
+    {
+     "title": "关于自己·伤口",
+     "text": "这个伤口好像是异象干的，这里好像是为了帮街口的奶奶抓偷吃的团三郎，撞到了消防栓上……啊，这个伤口我记得，是为了好好教训那些抢劫的混混。都是小伤啦，跟挠痒痒一样！……诶？衣服哪里有洞？完了完了，又要麻烦大叔了！"
+    },
+    {
+     "title": "关于自己·街霸",
+     "text": "可不是我吹牛，在我进伊波恩之前，蓝胡子路和火炬木大道那边，哪个道上的家伙不知道我娜娜莉的威名！就算没有异能的时候，那些家伙也完全——不是我的对手。……打听？打、打听就不用了吧，咳，要是给伊波恩惹来以前的仇家可就不好了！"
+    },
+    {
+     "title": "关于浔",
+     "text": "身世成谜，深藏不漏的古董店店长，听起来实在是……太酷了！好想成为像大姐头这样的人，是要从喝酒学起吗？"
+    },
+    {
+     "title": "关于阿德勒",
+     "text": "你说怎么会有大叔这么全能的人，好像就从来没有他做不到的事情。大姐头喝多了的时候，我悄悄去问过好几次到底是哪里挖来的大叔，听过什么厨师改行、猎人再就业，好多好多个不同的版本……早雾说我被骗了，果然这样的人才属于高级商业机密吗！"
+    },
+    {
+     "title": "关于早雾",
+     "text": "总觉得早雾她……她有很多事情都藏在心里。不过我作为老大，对家族的人都是很包容的，早雾继续做早雾就好了。如果有一天我变得像达芙蒂尔师父那么强了，说不定早雾就什么都愿意告诉我了呢！"
+    },
+    {
+     "title": "关于埃德嘉",
+     "text": "埃德嘉的脑子里好像装了一台电脑，就连「为什么圆形披萨装在方形盒子里，然后切成三角形」「为什么薯片袋子里的空气比薯片多」这样的问题都回答得上来！电器头的造型留给塔吉多也太浪费了，依我看应该给埃德嘉。"
+    },
+    {
+     "title": "关于达芙蒂尔",
+     "text": "没见过比达芙蒂尔师父的作息还要规律的人！她还从来不偷懒！连刷牙和吃饭这么令人放松的时候，背都挺得笔直笔直的！还有她训练的时候，从来都不中场休息……呃，是我路过刚好看到的，绝对不是偷看啊！我、我坦坦荡荡！"
+    },
+    {
+     "title": "关于塔吉多",
+     "text": "塔吉多？还在考察期。看他表现，要是他乖乖听话的话，哼哼，以后也不是不能提拔成家族干部。跟着我，他算是出人头地了！"
+    },
+    {
+     "title": "关于伊波恩古董店",
+     "text": "冷清小巷里的神秘店铺，捉摸不透的神秘店长，武力值超高的冷酷保镖，万能的机器人式管家，还有……的吉祥物！怎么看都是热血漫画标配的设定啊！虽然加入伊波恩后，这里的生活和我想象的有点不同……但是！我已经闻到主线的气息了，伊波恩和柯林斯家族的名号迟早会响彻整个海特洛，哦不，整个世界！"
+    },
+    {
+     "title": "角色突破·Ⅰ",
+     "text": "这才是一代目的样子。"
+    },
+    {
+     "title": "角色突破·Ⅱ",
+     "text": "新的招式！"
+    },
+    {
+     "title": "角色突破·Ⅲ",
+     "text": "是时候解封我无上的力量了~"
+    },
+    {
+     "title": "收到赠礼·Ⅰ",
+     "text": "我敢保证！没有——比它——更好的了！"
+    },
+    {
+     "title": "收到赠礼·Ⅱ",
+     "text": "这东西……你真舍得？！我果然没看错你！"
+    },
+    {
+     "title": "收到赠礼·Ⅲ",
+     "text": "哪儿找来的战利品~"
+    },
+    {
+     "title": "收到赠礼·IV",
+     "text": "说吧，什么事有求于本老大？"
+    }
+   ],
+   "battle": [
+    {
+     "title": "变轨技能·Ⅰ",
+     "text": "嗷呜!"
+    },
+    {
+     "title": "变轨技能·Ⅱ",
+     "text": "来点惊喜！"
+    },
+    {
+     "title": "变轨技能·Ⅲ",
+     "text": "看我厉害！"
+    },
+    {
+     "title": "极轨终结·Ⅰ",
+     "text": "一招！全城制霸！"
+    },
+    {
+     "title": "极轨终结·Ⅱ",
+     "text": "全体！听我指挥！"
+    },
+    {
+     "title": "极轨终结·Ⅲ",
+     "text": "「副手」，该我们救场了！"
+    },
+    {
+     "title": "收容异象·Ⅰ",
+     "text": "勉为其难~把你收作小弟好了！"
+    },
+    {
+     "title": "收容异象·Ⅱ",
+     "text": "以后要和大家好好相处！"
+    },
+    {
+     "title": "泯除异象·Ⅰ",
+     "text": "收工！……呃，损坏物品的账单可以不寄到伊波恩吗？"
+    },
+    {
+     "title": "泯除异象·Ⅱ",
+     "text": "总算结束！"
+    },
+    {
+     "title": "意外收获·Ⅰ",
+     "text": "好东西！快收起来快收起来！"
+    },
+    {
+     "title": "意外收获·Ⅱ",
+     "text": "很好很好，家族又可以壮大了。"
+    },
+    {
+     "title": "意外收获·Ⅲ",
+     "text": "这个能拿去给大姐头还债吗？"
+    },
+    {
+     "title": "意外收获·Ⅳ",
+     "text": "欸欸，这个得偷偷藏好！"
+    },
+    {
+     "title": "意外收获·Ⅴ",
+     "text": "别急，待我回去研究一下！"
+    },
+    {
+     "title": "意外收获·Ⅵ",
+     "text": "噢噢噢——我知道这个！这个是、这个是……"
+    },
+    {
+     "title": "生命值低·Ⅰ",
+     "text": "切，我还有更厉害的招式呢！"
+    },
+    {
+     "title": "生命值低·Ⅱ",
+     "text": "好痛……没被人看到吧？"
+    },
+    {
+     "title": "生命值低·Ⅲ",
+     "text": "咳咳，英雄落幕前……"
+    },
+    {
+     "title": "恢复生命·Ⅰ",
+     "text": "哼哼，现在是我的回合！"
+    },
+    {
+     "title": "恢复生命·Ⅱ",
+     "text": "状态绝佳！"
+    },
+    {
+     "title": "力竭·Ⅰ",
+     "text": "给柯林斯……丢脸了……"
+    },
+    {
+     "title": "力竭·Ⅱ",
+     "text": "我不是个……称职的老大……"
+    },
+    {
+     "title": "力竭·Ⅲ",
+     "text": "这样……一点都不酷……"
+    },
+    {
+     "title": "击败怪物·Ⅰ",
+     "text": "下一个！"
+    },
+    {
+     "title": "击败怪物·Ⅱ",
+     "text": "下次记得早点求饶！"
+    },
+    {
+     "title": "普通受击·Ⅰ",
+     "text": "热身而已！"
+    },
+    {
+     "title": "普通受击·Ⅱ",
+     "text": "挠痒痒一样！"
+    },
+    {
+     "title": "重受击·Ⅰ",
+     "text": "还挺嚣张！"
+    },
+    {
+     "title": "重受击·Ⅱ",
+     "text": "谁搞偷袭！"
+    },
+    {
+     "title": "上阵·Ⅰ",
+     "text": "有事我来摆平！"
+    },
+    {
+     "title": "上阵·Ⅱ",
+     "text": "早就该到我了嘛！"
+    },
+    {
+     "title": "协同技·Ⅰ",
+     "text": "闪亮登场！"
+    },
+    {
+     "title": "协同技·Ⅱ",
+     "text": "你惹了不该惹的人！"
+    },
+    {
+     "title": "协同技·Ⅲ",
+     "text": "吃我一拳！"
+    },
+    {
+     "title": "滑翔·Ⅰ",
+     "text": "……什么味道，好香啊~"
+    },
+    {
+     "title": "滑翔·Ⅱ",
+     "text": "呜呼，自由如风——"
+    },
+    {
+     "title": "特殊切换·浔",
+     "text": "放心包在我身上，这次绝对不闯祸！"
+    },
+    {
+     "title": "特殊切换·阿德勒",
+     "text": "大叔休息，我来接手！"
+    },
+    {
+     "title": "特殊切换·早雾",
+     "text": "让他们见识下柯林斯家族的羁绊！"
+    },
+    {
+     "title": "特殊切换·达芙蒂尔",
+     "text": "教你一句话：名师出高徒！"
+    },
+    {
+     "title": "特殊切换·埃德嘉",
+     "text": "有事怎么不喊你老大？"
+    },
+    {
+     "title": "特殊切换·薄荷",
+     "text": "风驰完了，就该电掣！"
+    },
+    {
+     "title": "特殊切换·零",
+     "text": "不要小看我和鉴定师热血沸腾的组合技啊！"
+    },
+    {
+     "title": "队友倒下·浔",
+     "text": "你这家伙对大姐头做了什么——！"
+    },
+    {
+     "title": "队友倒下·阿德勒",
+     "text": "不会原谅……！"
+    },
+    {
+     "title": "队友倒下·早雾",
+     "text": "谁允许你对柯林斯骨干出手了？"
+    },
+    {
+     "title": "队友倒下·达芙蒂尔",
+     "text": "绝不会让师父失望。"
+    },
+    {
+     "title": "队友倒下·薄荷",
+     "text": "不许——踩她——尾巴——"
+    },
+    {
+     "title": "队友倒下·埃德嘉",
+     "text": "还没到认输的时候！"
+    },
+    {
+     "title": "队友倒下·零",
+     "text": "谁敢伤害柯林斯最重要的骨干成员——"
+    },
+    {
+     "title": "弹反·Ⅰ",
+     "text": "哼，雕虫小技。"
+    },
+    {
+     "title": "弹反·Ⅱ",
+     "text": "我挡~"
+    },
+    {
+     "title": "连续极限闪避成功·Ⅰ",
+     "text": "和我比身手？"
+    },
+    {
+     "title": "连续极限闪避成功·Ⅱ",
+     "text": "太慢了太慢了~"
+    }
+   ]
+  },
+  "ja": {
+   "daily": [
+    {
+     "title": "初対面",
+     "text": "新人？われーいや、ゴッホン、わたくし、えぇーっと…あっし！ナナリ・コリンス、将来全ヘテロシティで最も偉大なファミリーになる、「コリンス」ファミリーの一代目っす！これからはあっしが守ってやるっす。"
+    },
+    {
+     "title": "雑談-ファミリーの発展計画",
+     "text": "やることないなら、わがファミリーのこれからについて聞いてくれるっすか？"
+    },
+    {
+     "title": "雑談-俊敏",
+     "text": "つまんないっす…うん？陰謀のにおいがしたっす。遂にあっしの出番っすか？"
+    },
+    {
+     "title": "雑談-書籍",
+     "text": "『ファミリーマネジメント』序章、まず…うぅ！！！"
+    },
+    {
+     "title": "快晴",
+     "text": "今日は快晴！…ちょっと、なんでそんなほっとした目で見るんすか？"
+    },
+    {
+     "title": "雨",
+     "text": "ひっどい雨…よっし！このままダッシュで帰るっす！"
+    },
+    {
+     "title": "寒い",
+     "text": "さ～む～い～！早く動くっす、でないとアイスになっちゃう！"
+    },
+    {
+     "title": "灼熱",
+     "text": "今のあっしは、ビーチにいる干からびた魚っす。アイス粉雪さえあればな…"
+    },
+    {
+     "title": "朝の挨拶",
+     "text": "おはよ！新しい依頼はないっすか？コリンスファミリーはいつでもスタンバイオッケー！"
+    },
+    {
+     "title": "昼の挨拶",
+     "text": "ランチターイム！あっしの好きなチーズオムレツ、今日はあるっすか？"
+    },
+    {
+     "title": "夕方の挨拶",
+     "text": "まだ全然早いっす、今から出かけよ？"
+    },
+    {
+     "title": "おやすみ",
+     "text": "ええ？もうこんな時間っすか？これが終わったら寝るっす！"
+    },
+    {
+     "title": "趣味",
+     "text": "お菓子、漫画、ゲーム機、虫取り、パルクール、子分の「しつけ」にあと…あー！好きなこと多すぎて全然絞れないっす。"
+    },
+    {
+     "title": "悩み",
+     "text": "悩みっすか？うーん…えっと…あった！冷蔵庫に入れてあったとっておきのプリンを誰かに食べられたっす。『月刊ファンタジー』の最新刊を読みながら食べるつもりで、大事にとっておいたのに。"
+    },
+    {
+     "title": "話題-家族",
+     "text": "ファミリーと一緒にいないやつは、本当のボスじゃない…ファミリーの事業はあっしらの基盤で、ファミリーへの裏切りは自分への裏切り！…どう、かっこいいっすか？『罪の街・年代記』のセリフ、ずっと言ってみたかったっす！"
+    },
+    {
+     "title": "話題-電磁吸着",
+     "text": "まずは「ピカー」と、次に「パシャ―ン」と、それで壁にくっついてひっくり返ることができるっす！それにそれに、こうして「シュ——」っと悪者の前に登場するのって、あっしだけの登場方法っす！"
+    },
+    {
+     "title": "話題-毛髪の手入れ",
+     "text": "まずは水でしっぽの毛を濡らして、専用のシャンプーで洗う。そしてドライヤーで半分くらい乾かして「モフモフシッポケアスプレー」をつける。それで冷たい風に変えて乾かす。最後は枝毛や不揃いな毛を切る。これ、全部おっさんから教わったっす。なんてったって一代目のイメージはファミリーにとって超重要っすから。"
+    },
+    {
+     "title": "自分について-異能",
+     "text": "失くしたファミリーの印を取り返すため、一気にビルの外側にあるパイプに登ろうとしたっす！だけど、悪い奴がいて、電線が仕かけられてたんだ。身体がピリッとなって、体がいうこと聞かずに落ちていって…あれ？誰かに引っ張られたような気が？そんで身体が「ピリピリ」ってなって、壁の上に張りついたみたいになった！そのあと体は何ともなかったっすね！多分小さすぎて、気にならなかったのかも。まさか、これが主人公ってやつっすか？"
+    },
+    {
+     "title": "自分について-傷あと",
+     "text": "この傷は異象にやられたはずっす。確か路地のおばあちゃんに頼まれて、盗み食いをした団三郎を捕まえようとした時に、消火栓にぶつけたんだっけ…あー、その傷のことも覚えてるっす。強盗の野郎たちを懲らしめるときに…まあ蚊にさされたようなもんっす！…えっ？服に穴が？やば！またおっさんにお直しをお願いしないと！"
+    },
+    {
+     "title": "自分について-巷のボス",
+     "text": "自慢じゃないけど、エイボンに入る前から、青ひげ通りとタイマツ通りじゃ、あっしの名を知らない人はいなかったっす！異能がなかったときも、あいつらなんてーー全然相手じゃなかったっす。…えっ？その人たちにあっしのことを聞いてみたい？それはやめたほうがいいっす。ゴッホン、ほら、昔の仇敵がエイボンに来たらやばいじゃん！"
+    },
+    {
+     "title": "潯について",
+     "text": "生まれも育ちもわからない、謎に満ちた骨董品屋の店主。聞くだけでもーうかっこよすぎるっす！本当に姉御みたいな人になりたい！酒を飲むところから始めればいいかね？"
+    },
+    {
+     "title": "アドレーについて",
+     "text": "おっさんみたいな完璧な人っているんっすね。できないことなんてないみたいっす。姉御が酔っ払ったときに、どこからおっさんをヘッドハンティングしたか、何度も聞いたけど、シェフからの転職とか、ハンターの再就職とか、毎回違う答えなんだ…早霧は騙されてるって言ってたけど、やっぱりこういうのって企業秘密っすかね？"
+    },
+    {
+     "title": "早霧について",
+     "text": "早霧のやつ…なんかいろいろ自分で抱えてるみたいっす。でもあっしはボスとして、ファミリーのみんなには寛大っす。早霧は早霧のままでいいし、もしあっしがダフォディール師匠並みに強かったら、早霧だってなんでも教えてくれるかもね。"
+    },
+    {
+     "title": "エドガーについて",
+     "text": "エドガーって歩くパソコンみたい。「なんで丸いピザが正方形の箱に入ってて、三角形に切り分けられるの？」とか、「なんでポテトチップスの袋って、空気がポテトチップスより多いの？」とか、こんな問題も答えられるんっす！タギドが電気頭のスタイルなんてもったいない、エドガーこそ電気頭になるべきっす。"
+    },
+    {
+     "title": "ダフォディールについて",
+     "text": "ダフォディール師匠より生活リズムの正しい人、見たことないっす！歯磨きとか食事とか、本当はリラックスできるときも背筋をピシッと伸ばしてて、手抜かりないっす！訓練の時も、全然休憩取らないし…ええっと、通りすがりの時に見たんっすよ！全然、盗み見じゃないってば！"
+    },
+    {
+     "title": "タギドについて",
+     "text": "タギド？まだ研修中だから、あいつ次第っすね。ちゃんとあっしの言うことに従うなら~、ふふん、ファミリーの幹部にしてやらなくもないっす。そもそも、取り巻きにしてるだけ、あいつにとっちゃもう大出世だよ！"
+    },
+    {
+     "title": "骨董品屋エイボンについて",
+     "text": "こじんまりとした路地裏にある謎めいた店、掴みどころのないミステリアスな店長、すっごい戦闘能力を持つかっこいい用心棒に、何でもできるロボットみたいな執事、あと…マスコット！どう見たって少年漫画のあるあるじゃないっすか！まあ、エイボンに入った後の生活は少し想像と違ってたっすけど…でも！もうメインストーリーのにおいはしてるっすよ！エイボンとコリンスファミリーの名はいずれ、ヘテロシティ全体、いや、全世界に響きわたるに違いないっす！"
+    },
+    {
+     "title": "キャラ突破Ⅰ",
+     "text": "これこそが一代目のあるべき姿っす。"
+    },
+    {
+     "title": "キャラ突破Ⅱ",
+     "text": "新しい技っす！"
+    },
+    {
+     "title": "キャラ突破Ⅲ",
+     "text": "あっしの無限の力を解き放つときがきたっす！"
+    },
+    {
+     "title": "届けられたギフトⅠ",
+     "text": "保証する！これ以上のものは――絶対に――ないっす！"
+    },
+    {
+     "title": "届けられたギフトⅡ",
+     "text": "これ…マジでいいの！？あんたを見込んで正解だったっす！"
+    },
+    {
+     "title": "届けられたギフトⅢ",
+     "text": "へぇ～…どこで見つけた戦利品なんすか？"
+    },
+    {
+     "title": "届けられたギフトⅣ",
+     "text": "こりゃあ、何か頼み事でもあるんだね？"
+    }
+   ],
+   "battle": [
+    {
+     "title": "バイレールスキルⅠ",
+     "text": "あう！"
+    },
+    {
+     "title": "バイレールスキルⅡ",
+     "text": "サプライズっす！"
+    },
+    {
+     "title": "バイレールスキルⅢ",
+     "text": "見せてやるっす！"
+    },
+    {
+     "title": "EXレール終結Ⅰ",
+     "text": "一撃！完全制覇！"
+    },
+    {
+     "title": "EXレール終結Ⅱ",
+     "text": "全員！あっしの指示を聞け！"
+    },
+    {
+     "title": "EXレール終結Ⅲ",
+     "text": "相棒！あっしらの出番っす！"
+    },
+    {
+     "title": "異象収容Ⅰ",
+     "text": "どうしてもって言うなら、子分にしてもいいっす！"
+    },
+    {
+     "title": "異象収容Ⅱ",
+     "text": "皆で仲良くやろうぜ！"
+    },
+    {
+     "title": "異象排除Ⅰ",
+     "text": "一丁上がり！…えっと、壊したものの請求書をエイボンに送らないでくれるっすか？"
+    },
+    {
+     "title": "異象排除Ⅱ",
+     "text": "はー、やっと終わりっすか！"
+    },
+    {
+     "title": "意外な収穫Ⅰ",
+     "text": "いいもんっす！早く、早くしまうっす！"
+    },
+    {
+     "title": "意外な収穫Ⅱ",
+     "text": "よし、ファミリーがまた成長できるっす。"
+    },
+    {
+     "title": "意外な収穫Ⅲ",
+     "text": "これ、姉御に持っていって借金の返済替わりにできないっすか？"
+    },
+    {
+     "title": "意外な収穫Ⅳ",
+     "text": "えへへ、どーこに隠そっかな！"
+    },
+    {
+     "title": "意外な収穫Ⅴ",
+     "text": "ちょい待ち！ちょっと調べてくるっす！"
+    },
+    {
+     "title": "意外な収穫Ⅵ",
+     "text": "うおおお！これは！えっと…なんだっけな？"
+    },
+    {
+     "title": "低HPⅠ",
+     "text": "チェッ、もっとすごい技があるっす！"
+    },
+    {
+     "title": "低HPⅡ",
+     "text": "いたっ！…誰にも見られてないっすよね？"
+    },
+    {
+     "title": "低HPⅢ",
+     "text": "ゲホッ！…退場…ってか…"
+    },
+    {
+     "title": "HP回復Ⅰ",
+     "text": "ふふん、今はあっしのターンっす！"
+    },
+    {
+     "title": "HP回復Ⅱ",
+     "text": "状態は上々っす！"
+    },
+    {
+     "title": "力尽きⅠ",
+     "text": "コリンスの顔に…泥を塗ったっす…"
+    },
+    {
+     "title": "力尽きⅡ",
+     "text": "あっし…ボス失格っす…"
+    },
+    {
+     "title": "力尽きⅢ",
+     "text": "こんなの…全然かっこよくないっす…"
+    },
+    {
+     "title": "敵を撃破Ⅰ",
+     "text": "次っす！"
+    },
+    {
+     "title": "敵を撃破Ⅱ",
+     "text": "次はさっさと降参することっす！"
+    },
+    {
+     "title": "ダメージを受ける（通常）Ⅰ",
+     "text": "こんなの、準備運動に過ぎないっす！"
+    },
+    {
+     "title": "ダメージを受ける（通常）Ⅱ",
+     "text": "ふん、痛くも痒くもないっす！"
+    },
+    {
+     "title": "大打撃Ⅰ",
+     "text": "生意気っす！"
+    },
+    {
+     "title": "大打撃Ⅱ",
+     "text": "誰っすか！不意打ちしたの！"
+    },
+    {
+     "title": "出撃Ⅰ",
+     "text": "あっしが解決してやるっす！"
+    },
+    {
+     "title": "出撃Ⅱ",
+     "text": "やっとあっしの番っす！"
+    },
+    {
+     "title": "コンビスキルⅠ",
+     "text": "おっ始めようぜ！"
+    },
+    {
+     "title": "コンビスキルⅡ",
+     "text": "あっしにケンカ売るってか？"
+    },
+    {
+     "title": "コンビスキルⅢ",
+     "text": "これでも食らえ！"
+    },
+    {
+     "title": "滑空Ⅰ",
+     "text": "う~ん、なんかいい匂い～。"
+    },
+    {
+     "title": "滑空Ⅱ",
+     "text": "風に乗って、ひとっ飛びだぜ！"
+    },
+    {
+     "title": "特殊切替・潯",
+     "text": "あっしに任せとけ！今回はなんも壊さないから！"
+    },
+    {
+     "title": "特殊切替・アドレー",
+     "text": "おじさんは休んでて！"
+    },
+    {
+     "title": "特殊切替・早霧",
+     "text": "コリンスファミリーの絆、なめんなよ！"
+    },
+    {
+     "title": "特殊切替・ダフォディール",
+     "text": "「すんげぇー師匠に、すんげぇー弟子あり」！覚えとけ！"
+    },
+    {
+     "title": "特殊切替・エドガー",
+     "text": "あっしも喧嘩に混ぜてよ！"
+    },
+    {
+     "title": "特殊切替・ミント",
+     "text": "疾風からのォ…雷電！"
+    },
+    {
+     "title": "特殊切替・零",
+     "text": "あっしと鑑定士の熱い合体技を甘く見ないで！"
+    },
+    {
+     "title": "仲間気絶・潯",
+     "text": "姉御に何してくれてんだ…！"
+    },
+    {
+     "title": "仲間気絶・アドレー",
+     "text": "ぜってー許さねぇ…！"
+    },
+    {
+     "title": "仲間気絶・早霧",
+     "text": "ウチの幹部に手ぇ出したな！？"
+    },
+    {
+     "title": "仲間気絶・ダフォディール",
+     "text": "師匠の期待、あっしが応えるっす！"
+    },
+    {
+     "title": "仲間気絶・ミント",
+     "text": "尻尾を——踏んでんじゃねぇ——！"
+    },
+    {
+     "title": "仲間気絶・エドガー",
+     "text": "まだまだ、こんなもんじゃないっす！"
+    },
+    {
+     "title": "仲間気絶・零",
+     "text": "コリンスの最も重要な中心メンバーを傷つけるのは、どこのどいつだ――"
+    },
+    {
+     "title": "パリィⅠ",
+     "text": "んなもん、屁でも無いっす！"
+    },
+    {
+     "title": "パリィⅡ",
+     "text": "よいしょ～"
+    },
+    {
+     "title": "連続極限回避成功Ⅰ",
+     "text": "あっしと勝負するっすか？"
+    },
+    {
+     "title": "連続極限回避成功Ⅱ",
+     "text": "遅すぎ～！"
+    }
+   ]
+  },
+  "ko": {
+   "daily": [
+    {
+     "title": "첫 만남",
+     "text": "신입? 소인… 아니지, 크흠. 저… 아니, 나! 나나리 콜린스는 헤테로 시티에서 가장 위대한 가문이 될… 「콜린스 가문」의 초대 가주다! 앞으로 내가 널 돌봐줄게."
+    },
+    {
+     "title": "대화·건설 계획",
+     "text": "심심하면 내가 구상한 콜린스 가문 발전 계획을 들어볼래?"
+    },
+    {
+     "title": "대화·예민",
+     "text": "지루해… 어라?! 어디서 음모의 냄새가 나는군. 이 몸이 나설 차례인가?!"
+    },
+    {
+     "title": "대화·책",
+     "text": "<가문 경영학> 서문, 어디 보자아… 으헉!"
+    },
+    {
+     "title": "맑은 날",
+     "text": "날씨 좋네…! 왜 그런 다행이란 눈빛으로 보는 거야?"
+    },
+    {
+     "title": "비 오는 날",
+     "text": "비가 퍼붓네… 좋아! 이대로 달려서 돌아가자!"
+    },
+    {
+     "title": "추운 날",
+     "text": "아~ 추워~~~ 빨리 움직여. 이러다 아이스크림 되겠어!"
+    },
+    {
+     "title": "더운 날",
+     "text": "모래사장 위의 생선이 된 기분이야. 스노우 크럼블 아이스크림 먹고 싶다…"
+    },
+    {
+     "title": "아침 인사",
+     "text": "좋은 아침! 의뢰 들어왔어? 콜린스 가문은 언제든 출동 가능해!"
+    },
+    {
+     "title": "점심 인사",
+     "text": "점심시간이다! 내가 좋아하는 치즈계란말이가 나올까?"
+    },
+    {
+     "title": "저녁 인사",
+     "text": "아직 시간 많아! 한 바퀴만 더 돌고 오자!"
+    },
+    {
+     "title": "취침 인사",
+     "text": "엥? 시간이 벌써 이렇게 됐어? 이 판만 끝내고 자야지!"
+    },
+    {
+     "title": "취미",
+     "text": "과자, 만화, 게임기, 곤충 잡기, 파쿠르, 부하들 혼내주기, 그리고… 너무 많아서 셀 수도 없어."
+    },
+    {
+     "title": "고민",
+     "text": "고민? 글쎄… 흐음… 맞아! 냉장고에 남겨둔 마지막 푸딩을 누가 홀랑 먹어버렸어. 짜증 나, <월간 판타지> 최신화 보면서 먹으려던 건데."
+    },
+    {
+     "title": "주제·가문",
+     "text": "가문과 함께하지 않는 보스는 진정한 보스가 아니야… 가문 사업은 우리의 뿌리지. 가문을 배신하는 건 자신을 배신하는 거야…! 어때, 멋있지? <범죄 도시의 추억> 명대산데, 꼭 한번 말해보고 싶었어!"
+    },
+    {
+     "title": "주제·전자기 흡착",
+     "text": "먼저 「파바박」하고, 「피슉」하면 벽에 거꾸로 붙어 있을 수 있어! 게다가 이렇게 「슈웅」 하고 악당 앞에 나타나는 게, 나만의 등장 방식이야!"
+    },
+    {
+     "title": "주제·모발 케어",
+     "text": "먼저 깨끗한 물로 털을 적시고 전용 세정제로 씻은 다음, 약한 바람으로 반쯤 말린 후에 「폭신폭신 꼬리 케어 스프레이」를 뿌려. 그리고 찬 바람으로 완전히 말린 뒤에, 마지막에 손상된 털과 잔털을 정리해 주면 돼. 다 아저씨가 가르쳐준 거야. 아무래도 초대 가주의 이미지는 곧 가문의 이미지니깐."
+    },
+    {
+     "title": "자신·이능력에 관해",
+     "text": "잃어버린 가문의 증표를 되찾기 위해 단숨에 건물 외벽 파이프를 타고 올랐지! 근데 날 해치려는 나쁜 놈들이 고장 난 전선을 깔아놨더라고? 몸이 찌릿하더니 통제력을 잃고 떨어지는데… 어라? 누가 날 확 끌어당기는 느낌? 그러고 나서 몸속에서 「치지직 파직」하는 소리가 나면서 우리가 벽면에 착 붙어 있었어! 대가가 있었냐고…? 음, 글쎄. 잘 모르겠어. 무시해도 될 만큼 사소한 거였나 보지. 설마 이게 바로 주인공 버프?"
+    },
+    {
+     "title": "자신·상처에 관해",
+     "text": "이 상처는 이상 때문에 생겼을 거야. 이건 골목 입구 할머니 도와서 먹을 거 훔쳐 먹은 단자부로를 잡으려다가 소화전에 부딪혔을 때 생긴 거고… 아, 이 상처도 기억난다. 강도들을 손봐주려다 생긴 거야. 다 별거 아냐, 살짝 간지러운 정도?! 에엣…? 옷에 구멍이 났다고? 이런, 또 아저씨한테 수선해달라고 해야겠네!"
+    },
+    {
+     "title": "자신·거리의 일인자에 관해",
+     "text": "허풍 아니야. 에이본에 오기 전에, 푸른 수염길이든 토치 우드 거리든 뒷세계에서 이 몸을 모르면 간첩이었다니까?! 이능력이 없었을 때도 전~혀~ 상대가 안 됐다고… 물어본다고? 그, 그럴 필요까지야. 크흠! 에이본에 예전 원수들이 찾아오면 큰일이잖아!"
+    },
+    {
+     "title": "호토리에 관해",
+     "text": "속내를 전혀 알 수 없는 정체불명의 골동품 가게 점장이라니. 듣기만 해도… 너무 멋있지 않아?! 보스처럼 되고 싶은데, 술부터 배워야 하나?"
+    },
+    {
+     "title": "아들러에 관해",
+     "text": "아저씨는 어떻게 그렇게 완벽하지? 못 하는 게 없는 것 같아. 보스가 만취했을 때 몇 번 물어봤거든. 도대체 어디서 저런 아저씨를 스카우트했냐고. 이직한 셰프다, 재취업한 헌터다… 여러 대답이 나왔는데… 사키리는 다 뻥이래. 역시 최고급 인재 영입은 영업 기밀인가 봐!"
+    },
+    {
+     "title": "사키리에 관해",
+     "text": "사키리는… 비밀이 많은 것 같아. 하지만 보스로서 식구에겐 너그러워야지. 사키리는 사키리야. 언젠가 내가 다포딜 사부처럼 강해지면 사키리도 나한테 모든 걸 말해줄지 몰라!"
+    },
+    {
+     "title": "에드가에 관해",
+     "text": "에드가의 머릿속에는 컴퓨터가 들어있는 것 같아. 「왜 동그란 피자를 세모나게 잘라 네모난 상자에 담는지」, 「왜 감자칩 봉지에는 감자칩보다 공기가 더 많은지」 의 답도 다 알고 있어! 내 생각에 TV 머리는 타기도보다 에드가한테 더 어울려."
+    },
+    {
+     "title": "다포딜에 관해",
+     "text": "다포딜 사부보다 더 규칙적인 사람은 본 적이 없어! 게으름도 절대 안 피워! 양치하거나 밥 먹을 때도 등을 빳빳하게 세우고 있고! 훈련할 때도 안 쉬더라… 앗, 지나가다 우연히 본 거야, 훔쳐본 거 절대 아니야! 난, 난 결백해!"
+    },
+    {
+     "title": "타기도에 관해",
+     "text": "타기도? 아직 관찰 중이야. 앞으로의 행보를 지켜봐야지. 얌전히 말을 잘 들으면, 후후, 나중에 가문 간부로 승진시켜 줄지도? 내 말만 잘 들으면 출세는 따 놓은 당상이지!"
+    },
+    {
+     "title": "에이본 골동품 가게에 관해",
+     "text": "스산한 골목의 미스터리한 가게, 정체를 알 수 없는 신비한 점장, 최강의 전투력을 지닌 냉정한 보디가드, 로봇 같은 만능 집사, 그리고… 마스코트! 얼핏 봐도 배틀 만화 클리셰잖아! 에이본에서의 생활은 상상이랑 살짝 다르지만… 그래도! 대작의 스멜이 나. 에이본과 콜린스 가문의 이름이 곧 헤테로 전체, 아니, 전 세계에 울려 퍼질 거야!"
+    },
+    {
+     "title": "캐릭터 돌파·Ⅰ",
+     "text": "이게 바로 초대 가주다운 모습이지."
+    },
+    {
+     "title": "캐릭터 돌파·Ⅱ",
+     "text": "새로운 스킬이 생겼어!"
+    },
+    {
+     "title": "캐릭터 돌파·Ⅲ",
+     "text": "드디어 내 진짜 힘을 보여줄 때가 왔군~"
+    },
+    {
+     "title": "선물 수령·Ⅰ",
+     "text": "장담하는데, 이건… 세상에서 제일! 멋진! 선물이야!!"
+    },
+    {
+     "title": "선물 수령·Ⅱ",
+     "text": "이 귀한 걸… 정말 나 주는 거야?! 역시 내가 사람 보는 눈은 정확하다니까!"
+    },
+    {
+     "title": "선물 수령·Ⅲ",
+     "text": "어디서 이런 전리품을 구해온 거야~"
+    },
+    {
+     "title": "선물 수령·IV",
+     "text": "말해봐, 이 가주님한테 부탁이 있는 거지?"
+    }
+   ],
+   "battle": [
+    {
+     "title": "바이레일 스킬·Ⅰ",
+     "text": "크아앙!"
+    },
+    {
+     "title": "바이레일 스킬·Ⅱ",
+     "text": "서프라이즈!"
+    },
+    {
+     "title": "바이레일 스킬·Ⅲ",
+     "text": "내 실력 어때!"
+    },
+    {
+     "title": "울티메이트·Ⅰ",
+     "text": "한 방에! 도시 제패!"
+    },
+    {
+     "title": "울티메이트·Ⅱ",
+     "text": "전원! 내 지휘를 따르라!"
+    },
+    {
+     "title": "울티메이트·Ⅲ",
+     "text": "「이인자」, 이제 우리가 나설 차례야!"
+    },
+    {
+     "title": "이상 수용·Ⅰ",
+     "text": "어쩔 수 없지~ 내 부하로 받아줄게!"
+    },
+    {
+     "title": "이상 수용·Ⅱ",
+     "text": "앞으로 모두와 사이좋게 지내야 해!"
+    },
+    {
+     "title": "이상 제거·Ⅰ",
+     "text": "의뢰 해결! 끙… 파손 물품 청구서는… 에이본에 안 보내도 되겠지?"
+    },
+    {
+     "title": "이상 제거·Ⅱ",
+     "text": "드디어 끝났다!"
+    },
+    {
+     "title": "뜻밖의 수확·Ⅰ",
+     "text": "대박! 빨리 챙겨, 빨리!"
+    },
+    {
+     "title": "뜻밖의 수확·Ⅱ",
+     "text": "좋아, 좋아. 가문이 더 번창하겠어."
+    },
+    {
+     "title": "뜻밖의 수확·Ⅲ",
+     "text": "이걸 보스한테 갖다주면 빚을 갚을 수 있을까?"
+    },
+    {
+     "title": "뜻밖의 수확·Ⅳ",
+     "text": "어어, 이건 몰래 잘 감춰둬야 해!"
+    },
+    {
+     "title": "뜻밖의 수확·Ⅴ",
+     "text": "조급할 거 없어, 돌아가서 연구해 볼게!"
+    },
+    {
+     "title": "뜻밖의 수확·Ⅵ",
+     "text": "오오오… 나 이거 알아! 이건, 이건…"
+    },
+    {
+     "title": "HP 낮음·Ⅰ",
+     "text": "쳇, 아직 더 강력한 스킬이 남아 있다고!"
+    },
+    {
+     "title": "HP 낮음·Ⅱ",
+     "text": "아야야… 아무도 못 봤겠지?"
+    },
+    {
+     "title": "HP 낮음·Ⅲ",
+     "text": "쿨럭, 영웅의 퇴장은…"
+    },
+    {
+     "title": "HP 회복·Ⅰ",
+     "text": "후후, 내가 나설 차례군!"
+    },
+    {
+     "title": "HP 회복·Ⅱ",
+     "text": "컨디션 최고야!"
+    },
+    {
+     "title": "탈진·Ⅰ",
+     "text": "콜린스 가문에… 먹칠을 해버렸네…"
+    },
+    {
+     "title": "탈진·Ⅱ",
+     "text": "난… 보스라고 불릴 자격도 없어…"
+    },
+    {
+     "title": "탈진·Ⅲ",
+     "text": "이런 건… 전혀 멋지지 않아…"
+    },
+    {
+     "title": "몬스터 처치·Ⅰ",
+     "text": "다음!"
+    },
+    {
+     "title": "몬스터 처치·Ⅱ",
+     "text": "다음엔 살려달라고 빌어봐!"
+    },
+    {
+     "title": "일반 피격·Ⅰ",
+     "text": "이 정도는 껌이지!"
+    },
+    {
+     "title": "일반 피격·Ⅱ",
+     "text": "간지럼 태우는 거야?!"
+    },
+    {
+     "title": "심각한 피해·Ⅰ",
+     "text": "제법 건방진데?!"
+    },
+    {
+     "title": "심각한 피해·Ⅱ",
+     "text": "감히 기습을 했겠다?!"
+    },
+    {
+     "title": "출전·Ⅰ",
+     "text": "나한테 맡겨!"
+    },
+    {
+     "title": "출전·Ⅱ",
+     "text": "일찍 불렀어야지!"
+    },
+    {
+     "title": "협동기·Ⅰ",
+     "text": "화려한 등장!"
+    },
+    {
+     "title": "협동기·Ⅱ",
+     "text": "너 방금 실수한 거야!"
+    },
+    {
+     "title": "협동기·Ⅲ",
+     "text": "내 주먹 맛 좀 봐라!"
+    },
+    {
+     "title": "글라이딩·Ⅰ",
+     "text": "…어디서 좋은 냄새가 나는데~"
+    },
+    {
+     "title": "글라이딩·Ⅱ",
+     "text": "후후, 바람처럼 자유롭게~"
+    },
+    {
+     "title": "특수 전환·호토리",
+     "text": "걱정 말고 나한테 맡겨. 이번엔 절대 사고 안 칠게!"
+    },
+    {
+     "title": "특수 전환·아들러",
+     "text": "아저씨는 좀 쉬고, 이제부턴 내게 맡겨!"
+    },
+    {
+     "title": "특수 전환·사키리",
+     "text": "콜린스 가문의 의리를 보여주자!"
+    },
+    {
+     "title": "특수 전환·다포딜",
+     "text": "이 말 기억해 둬. 잘난 스승 밑에서 잘난 제자 난다!"
+    },
+    {
+     "title": "특수 전환·에드가",
+     "text": "문제가 있으면 보스를 불렀어야지?"
+    },
+    {
+     "title": "특수 전환·민트",
+     "text": "질풍이 지나갔으면 번개가 내리칠 차례!"
+    },
+    {
+     "title": "특수 전환·제로",
+     "text": "나와 감정사의 열혈 케미를 얕보지 말라고!"
+    },
+    {
+     "title": "팀원 쓰러짐·호토리",
+     "text": "너 이 자식 보스한테 무슨 짓을 한 거야…!"
+    },
+    {
+     "title": "팀원 쓰러짐·아들러",
+     "text": "용서 못 해…!"
+    },
+    {
+     "title": "팀원 쓰러짐·사키리",
+     "text": "누구 허락 받고 콜린스 핵심 멤버를 건드리는 거지?"
+    },
+    {
+     "title": "팀원 쓰러짐·다포딜",
+     "text": "절대 사부를 실망시키지 않아."
+    },
+    {
+     "title": "팀원 쓰러짐·민트",
+     "text": "감히! 누구 꼬리를! 밟아!"
+    },
+    {
+     "title": "팀원 쓰러짐·에드가",
+     "text": "아직 포기하긴 일러!"
+    },
+    {
+     "title": "팀원 쓰러짐·제로",
+     "text": "누가 감히 콜린스의 가장 중요한 핵심 멤버를 다치게 한 거야!"
+    },
+    {
+     "title": "패링·Ⅰ",
+     "text": "흥, 그까짓 잔재주."
+    },
+    {
+     "title": "패링·Ⅱ",
+     "text": "따앙~"
+    },
+    {
+     "title": "연속 극한 회피 성공·Ⅰ",
+     "text": "나랑 겨루겠다고?"
+    },
+    {
+     "title": "연속 극한 회피 성공·Ⅱ",
+     "text": "너무 느려, 너무 느려~"
+    }
+   ]
+  },
+  "zh-tw": {
+   "daily": [
+    {
+     "title": "初次見面",
+     "text": "新人？在下——不對，咳咳，鄙人呃……我！娜娜莉·柯林斯，是未來全海特洛最偉大的家族——「柯林斯」家族的一代目！今後我會罩著你的。"
+    },
+    {
+     "title": "閒聊·興建大計",
+     "text": "沒什麼事做的話，要不要聽聽我的家族興建大計？"
+    },
+    {
+     "title": "閒聊·敏銳",
+     "text": "好無趣啊……嗯？！我聞到了陰謀的味道。輪到我出動了？"
+    },
+    {
+     "title": "閒聊·書",
+     "text": "《家族管理學》序章，首先……唔！！！"
+    },
+    {
+     "title": "大晴天",
+     "text": "晴空萬里！……為什麼要用那種欣慰的眼神看我？"
+    },
+    {
+     "title": "雨天",
+     "text": "好大的雨……好！就這樣直接衝回去吧！"
+    },
+    {
+     "title": "寒冷",
+     "text": "好~冷~啊~~~快動起來吧，我要變成冰棒了！"
+    },
+    {
+     "title": "炎熱",
+     "text": "我現在就好像海灘上的魚，如果有一塊碎雪冰淇淋的話……"
+    },
+    {
+     "title": "早上問候",
+     "text": "早上好！有新的委託嗎？柯林斯家族隨時可以出發！"
+    },
+    {
+     "title": "中午問候",
+     "text": "午餐時間！今天有我喜歡的起司蛋捲嗎？"
+    },
+    {
+     "title": "傍晚問候",
+     "text": "還早還早，再出去轉一圈吧。"
+    },
+    {
+     "title": "晚安",
+     "text": "誒？已經這個時間了嗎？打完這局就睡！"
+    },
+    {
+     "title": "愛好",
+     "text": "零食、漫畫、遊戲機、抓蟲子、跑酷、揍小弟，還有……太多了根本數不過來。"
+    },
+    {
+     "title": "煩惱",
+     "text": "煩惱？嗯……呃……我知道了！我放在冰箱裡的最後一個珍藏布丁不知道被誰吃掉了。可惡，那可是我特地留著，打算看最新一期《月刊Fantasy》的時候好好享受的呢。"
+    },
+    {
+     "title": "話題·家族",
+     "text": "不和家族站在一起的老大，不算是真正的老大……家族事業就是我們的根基，背叛家族就是背叛自己！……怎麼樣，帥吧？《罪城往事》的這幾句台詞我想說很久了！"
+    },
+    {
+     "title": "話題·電磁吸附",
+     "text": "先「劈啪——」一下，然後再「啪嚓——」一下，就可以吸在牆上倒過來啦！而且而且，這樣「唰——」的一下出現在反派面前，可是我的獨家登場方式！"
+    },
+    {
+     "title": "話題·毛髮護理",
+     "text": "先用清水沾濕毛髮，再用專門的洗劑清洗，然後用柔風吹到半乾上「蓬絨絨尾巴護理噴霧」，再換成冷風吹乾，最後再修剪掉分叉和多餘的毛髮。這些都是大叔教我的，畢竟一代目的形象對於家族來說可是很重要的。"
+    },
+    {
+     "title": "關於自己·異能",
+     "text": "為了找回遺失的家族信物，我一個箭步爬到大樓外的管道上！結果沒想到有歹人想害我，居然在那放了根待維修的電纜線——我只感覺身體一麻，不受控制地掉下去……咦？好像有誰拉了我一把？然後身體裡「劈里啪啦」的，我們就一起站在牆面上了！至於代價......好像沒什麼感覺，大概小得可以忽略不計吧，難道這就是主角光環？"
+    },
+    {
+     "title": "關於自己·傷口",
+     "text": "這個傷口好像是異象幹的，這裡好像是為了幫街口的奶奶抓偷吃的團三郎，撞到了消防栓上……啊，這個傷口我記得，是為了好好教訓那些搶劫的混混。都是小傷啦，跟抓癢一樣！……誒？衣服哪裡有洞？完了完了，又要麻煩大叔了！"
+    },
+    {
+     "title": "關於自己·街霸",
+     "text": "可不是我吹牛，在我進伊波恩之前，藍鬍子路和火炬木大道那邊，哪個道上的傢伙不知道我娜娜莉的威名！就算沒有異能的時候，那些傢伙也完全——不是我的對手。……打聽？打、打聽就不用了吧，咳，要是給伊波恩惹來以前的仇家可就不好了！"
+    },
+    {
+     "title": "關於潯",
+     "text": "身世成謎，深藏不漏的古董店店長，聽起來實在是……太酷了！好想成為像大姐頭這樣的人，是要從喝酒學起嗎？"
+    },
+    {
+     "title": "關於阿德勒",
+     "text": "你說怎麼會有大叔這麼全能的人，好像就從來沒有他做不到的事情。大姐頭喝多了的時候，我悄悄去問過好幾次到底是哪裡挖來的大叔，聽過什麼廚師改行、獵人再就業，好多好多個不同的版本……早霧說我被騙了，果然這樣的人才屬於高級商業機密嗎！"
+    },
+    {
+     "title": "關於早霧",
+     "text": "總覺得早霧她……她有很多事情都藏在心裡。不過我作為老大，對家族的人都是很包容的，早霧繼續做早霧就好了。如果有一天我變得像達芙蒂爾師父那麼強了，說不定早霧就什麼都願意告訴我了呢！"
+    },
+    {
+     "title": "關於埃德嘉",
+     "text": "埃德嘉的腦袋裡好像裝了一台電腦，就連「為什麼圓形披薩裝在方形盒子裡，然後切成三角形」「為什麼洋芋片袋子裡的空氣比洋芋片多」這樣的問題都回答得上來！電器頭的造型留給塔吉多也太浪費了，依我看應該給埃德嘉。"
+    },
+    {
+     "title": "關於達芙蒂爾",
+     "text": "沒見過比達芙蒂爾師父的作息還要規律的人！她還從來不偷懶！連刷牙和吃飯這麼令人放鬆的時候，背都挺得筆直筆直的！還有她訓練的時候，從來都不中場休息……呃，是我路過剛好看到的，絕對不是偷看啊！我、我坦坦蕩蕩！"
+    },
+    {
+     "title": "關於塔吉多",
+     "text": "塔吉多？還在考察期。看他表現，要是他乖乖聽話的話，嘿嘿，以後也不是不能提拔成家族幹部。跟著我，他算是出人頭地了！"
+    },
+    {
+     "title": "關於伊波恩古董店",
+     "text": "冷清小巷裡的神秘店鋪，捉摸不透的神秘店長，武力值超高的冷酷保鑣，萬能的機器人式管家，還有……的吉祥物！怎麼看都是熱血漫畫標配的設定啊！雖然加入伊波恩後，這裡的生活和我想像的有點不同……但是！我已經聞到主線的氣息了，伊波恩和柯林斯家族的名號遲早會響徹整個海特洛，哦不，整個世界！"
+    },
+    {
+     "title": "角色突破·Ⅰ",
+     "text": "這才是一代目的樣子。"
+    },
+    {
+     "title": "角色突破·Ⅱ",
+     "text": "新的招式！"
+    },
+    {
+     "title": "角色突破·Ⅲ",
+     "text": "是時候解封我無上的力量了~"
+    },
+    {
+     "title": "收到贈禮·Ⅰ",
+     "text": "我敢保證！沒有——比它——更好的了！"
+    },
+    {
+     "title": "收到贈禮·Ⅱ",
+     "text": "這東西……你真捨得？！我果然沒看錯你！"
+    },
+    {
+     "title": "收到贈禮·Ⅲ",
+     "text": "哪找來的戰利品~"
+    },
+    {
+     "title": "收到贈禮·IV",
+     "text": "說吧，什麼事有求於本老大？"
+    }
+   ],
+   "battle": [
+    {
+     "title": "變軌技能·Ⅰ",
+     "text": "嗷嗚!"
+    },
+    {
+     "title": "變軌技能·Ⅱ",
+     "text": "來點驚喜！"
+    },
+    {
+     "title": "變軌技能·Ⅲ",
+     "text": "看我厲害！"
+    },
+    {
+     "title": "極軌終結·Ⅰ",
+     "text": "一招！全城制霸！"
+    },
+    {
+     "title": "極軌終結·Ⅱ",
+     "text": "全體！聽我指揮！"
+    },
+    {
+     "title": "極軌終結·Ⅲ",
+     "text": "「副手」，該我們救場了！"
+    },
+    {
+     "title": "收容異象·Ⅰ",
+     "text": "勉為其難~把你收作小弟好了！"
+    },
+    {
+     "title": "收容異象·Ⅱ",
+     "text": "以後要和大家好好相處！"
+    },
+    {
+     "title": "泯除異象·Ⅰ",
+     "text": "收工！……呃，損壞物品的帳單可以不寄到伊波恩嗎？"
+    },
+    {
+     "title": "泯除異象·Ⅱ",
+     "text": "總算結束！"
+    },
+    {
+     "title": "意外收穫·Ⅰ",
+     "text": "好東西！快收起來快收起來！"
+    },
+    {
+     "title": "意外收穫·Ⅱ",
+     "text": "很好很好，家族又可以壯大了。"
+    },
+    {
+     "title": "意外收穫·Ⅲ",
+     "text": "這個能拿去給大姐頭還債嗎？"
+    },
+    {
+     "title": "意外收穫·Ⅳ",
+     "text": "欸欸，這個得偷偷藏好！"
+    },
+    {
+     "title": "意外收穫·Ⅴ",
+     "text": "別急，待我回去研究一下！"
+    },
+    {
+     "title": "意外收穫·Ⅵ",
+     "text": "噢噢噢——我知道這個！這個是、這個是……"
+    },
+    {
+     "title": "生命值低·Ⅰ",
+     "text": "呿，我還有更厲害的招式呢！"
+    },
+    {
+     "title": "生命值低·Ⅱ",
+     "text": "好痛……沒被人看到吧？"
+    },
+    {
+     "title": "生命值低·Ⅲ",
+     "text": "咳咳，英雄落幕前……"
+    },
+    {
+     "title": "恢復生命·Ⅰ",
+     "text": "嘿嘿，現在是我的回合！"
+    },
+    {
+     "title": "恢復生命·Ⅱ",
+     "text": "狀態絕佳！"
+    },
+    {
+     "title": "力竭·Ⅰ",
+     "text": "給柯林斯……丟臉了……"
+    },
+    {
+     "title": "力竭·Ⅱ",
+     "text": "我不是個……稱職的老大……"
+    },
+    {
+     "title": "力竭·Ⅲ",
+     "text": "這樣……一點都不酷……"
+    },
+    {
+     "title": "擊敗怪物·Ⅰ",
+     "text": "下一個！"
+    },
+    {
+     "title": "擊敗怪物·Ⅱ",
+     "text": "下次記得早點求饒！"
+    },
+    {
+     "title": "普通受擊·Ⅰ",
+     "text": "熱身而已！"
+    },
+    {
+     "title": "普通受擊·Ⅱ",
+     "text": "抓癢一樣！"
+    },
+    {
+     "title": "重受擊·Ⅰ",
+     "text": "還滿囂張！"
+    },
+    {
+     "title": "重受擊·Ⅱ",
+     "text": "誰搞偷襲！"
+    },
+    {
+     "title": "上陣·Ⅰ",
+     "text": "有事我來擺平！"
+    },
+    {
+     "title": "上陣·Ⅱ",
+     "text": "早就該到我了嘛！"
+    },
+    {
+     "title": "協同技·Ⅰ",
+     "text": "閃亮登場！"
+    },
+    {
+     "title": "協同技·Ⅱ",
+     "text": "你惹了不該惹的人！"
+    },
+    {
+     "title": "協同技·Ⅲ",
+     "text": "吃我一拳！"
+    },
+    {
+     "title": "滑翔·Ⅰ",
+     "text": "……什麼味道，好香啊~"
+    },
+    {
+     "title": "滑翔·Ⅱ",
+     "text": "嗚呼，自由如風——"
+    },
+    {
+     "title": "特殊切換·潯",
+     "text": "放心包在我身上，這次絕對不闖禍！"
+    },
+    {
+     "title": "特殊切換·阿德勒",
+     "text": "大叔休息，我來接手！"
+    },
+    {
+     "title": "特殊切換·早霧",
+     "text": "讓他們見識下柯林斯家族的羈絆！"
+    },
+    {
+     "title": "特殊切換·達芙蒂爾",
+     "text": "教你一句話：名師出高徒！"
+    },
+    {
+     "title": "特殊切換·埃德嘉",
+     "text": "有事怎麼不叫你老大？"
+    },
+    {
+     "title": "特殊切換·薄荷",
+     "text": "風馳完了，就該電掣！"
+    },
+    {
+     "title": "特殊切換·零",
+     "text": "不要小看我和鑒定師熱血沸騰的組合技啊！"
+    },
+    {
+     "title": "隊友倒下·潯",
+     "text": "你這傢伙對大姐頭做了什麼——！"
+    },
+    {
+     "title": "隊友倒下·阿德勒",
+     "text": "不會原諒……！"
+    },
+    {
+     "title": "隊友倒下·早霧",
+     "text": "誰允許你對柯林斯支柱出手了？"
+    },
+    {
+     "title": "隊友倒下·達芙蒂爾",
+     "text": "絕不會讓師父失望。"
+    },
+    {
+     "title": "隊友倒下·薄荷",
+     "text": "不許——踩她——尾巴——"
+    },
+    {
+     "title": "隊友倒下·埃德嘉",
+     "text": "還沒到認輸的時候！"
+    },
+    {
+     "title": "隊友倒下·零",
+     "text": "誰敢傷害柯林斯最重要的骨幹成員——"
+    },
+    {
+     "title": "彈反·Ⅰ",
+     "text": "哼，雕蟲小技。"
+    },
+    {
+     "title": "彈反·Ⅱ",
+     "text": "我擋~"
+    },
+    {
+     "title": "連續極限閃避成功·Ⅰ",
+     "text": "和我比身手？"
+    },
+    {
+     "title": "連續極限閃避成功·Ⅱ",
+     "text": "太慢了太慢了~"
+    }
+   ]
+  }
+ }
+}

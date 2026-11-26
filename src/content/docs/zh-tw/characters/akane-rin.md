@@ -62,6 +62,7 @@ sources:
 | 加入版本 | 1.4 版下半期，2026-10-21 |
 | 配音員 | 中文：陳怡萱；英文：Cristina Vee；日文：長谷川育美；韓文：김하루 |
 | 個人檔案 | [明音凜個人檔案](/zh-tw/characters/akane-rin/archive/) |
+| 語音 | [明音凜語音](/zh-tw/characters/akane-rin/voice/) |
 
 ## 取得方式
 

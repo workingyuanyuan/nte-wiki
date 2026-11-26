@@ -53,6 +53,7 @@ sources:
 | Joined | Version 1.2, second half, 2026-07-29 |
 | Voice actors | Chinese: 汪悦; English: Rachel Lepore; Japanese: 日高里菜; Korean: 이주은 |
 | Archive | [Iroi archive](/characters/iroi/archive/) |
+| Voice lines | [Iroi voice lines](/characters/iroi/voice/) |
 
 ## How to obtain
 

@@ -61,6 +61,7 @@ sources:
 | 참전 | 1.0 버전 |
 | 성우 | 중국어: 苏子芜; 영어: Alexis Tipton; 일본어: 石見舞菜香; 한국어: 김가령 |
 | 아카이브 | [하니엘 아카이브](/ko/characters/haniel/archive/) |
+| 보이스 | [하니엘 보이스](/ko/characters/haniel/voice/) |
 
 Game8은 하니엘의 일반 공격을 "Genesse Technique"로, Prydwen은 "Paranormal Entrance"로 부른다.
 

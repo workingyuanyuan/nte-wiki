@@ -8,6 +8,8 @@ aliases:
 appliesTo: バージョン1.5、ゲームデータ1.5.4
 caveat: 異能者・零は全プレイヤーが最初から所持しているキャラクターである。
 lastVerified: 2026-11-18
+sidebar:
+  order: 0
 sources:
   - title: Ver1.5アップデートのお知らせ、2026-11-09
     url: https://nte.perfectworld.com/en/article/news/gamenews/20261109/264948.html
@@ -21,30 +23,30 @@ sources:
     url: https://game8.co/games/Neverness-to-Everness/archives/592067
 ---
 
-| キャラクター | ランク | 属性 | アーカイブ |
-| --- | --- | --- | --- |
-| [イェルム](/ja/characters/elyms/) | S、限定 | 光 | [イェルムのアーカイブ](/ja/characters/elyms/archive/) |
-| [明音凛](/ja/characters/akane-rin/) | S、限定 | 相 | [明音凛のアーカイブ](/ja/characters/akane-rin/archive/) |
-| [クロバネ](/ja/characters/blackbird/) | S、限定 | 魂 | [クロバネのアーカイブ](/ja/characters/blackbird/archive/) |
-| [リンコ](/ja/characters/linko/) | S、限定 | 霊 | [リンコのアーカイブ](/ja/characters/linko/archive/) |
-| [残虹](/ja/characters/zankou/) | S、限定 | 呪 | [残虹のアーカイブ](/ja/characters/zankou/archive/) |
-| [イロヒ](/ja/characters/iroi/) | S、限定 | 霊 | [イロヒのアーカイブ](/ja/characters/iroi/archive/) |
-| [真紅](/ja/characters/shinku/) | S、限定 | 光 | [真紅のアーカイブ](/ja/characters/shinku/archive/) |
-| [カオス](/ja/characters/chaos/) | S、限定 | 相 | [カオスのアーカイブ](/ja/characters/chaos/archive/) |
-| [レクイエム](/ja/characters/lacrimosa/) | S、限定 | 闇 | [レクイエムのアーカイブ](/ja/characters/lacrimosa/archive/) |
-| [潯](/ja/characters/hotori/) | S、限定 | 光 | [潯のアーカイブ](/ja/characters/hotori/archive/) |
-| [ナナリ](/ja/characters/nanally/) | S、限定 | 霊 | [ナナリのアーカイブ](/ja/characters/nanally/archive/) |
-| [翳](/ja/characters/skia/) | A | 相 | [翳のアーカイブ](/ja/characters/skia/archive/) |
-| [海月](/ja/characters/aurelia/) | A | 魂 | [海月のアーカイブ](/ja/characters/aurelia/archive/) |
-| [ハニア](/ja/characters/haniel/) | A | 魂 | [ハニアのアーカイブ](/ja/characters/haniel/archive/) |
-| [アドレー](/ja/characters/adler/) | A | 呪 | [アドレーのアーカイブ](/ja/characters/adler/archive/) |
-| [エドガー](/ja/characters/edgar/) | A | 光 | [エドガーのアーカイブ](/ja/characters/edgar/archive/) |
-| [ミント](/ja/characters/mint/) | A | 霊 | [ミントのアーカイブ](/ja/characters/mint/archive/) |
-| [九原](/ja/characters/jiuyuan/) | S、常設 | 霊 | [九原のアーカイブ](/ja/characters/jiuyuan/archive/) |
-| [ダフォディール](/ja/characters/daffodill/) | S、常設 | 闇 | [ダフォディールのアーカイブ](/ja/characters/daffodill/archive/) |
-| [ファルディーヤ](/ja/characters/fadia/) | S、常設 | 魂 | [ファルディーヤのアーカイブ](/ja/characters/fadia/archive/) |
-| [ハソール](/ja/characters/hathor/) | S、常設 | 相 | [ハソールのアーカイブ](/ja/characters/hathor/archive/) |
-| [白蔵](/ja/characters/baicang/) | S、常設 | 呪 | [白蔵のアーカイブ](/ja/characters/baicang/archive/) |
-| [早霧](/ja/characters/sakiri/) | S、常設 | 呪 | [早霧のアーカイブ](/ja/characters/sakiri/archive/) |
-| [ちぃちゃん](/ja/characters/chiz/) | S | 光 | [ちぃちゃんのアーカイブ](/ja/characters/chiz/archive/) |
-| [異能者・零](/ja/characters/zero/) | S、主人公 | 光 | — |
+| キャラクター | ランク | 属性 |
+| --- | --- | --- |
+| [イェルム](/ja/characters/elyms/) | S、限定 | 光 |
+| [明音凛](/ja/characters/akane-rin/) | S、限定 | 相 |
+| [クロバネ](/ja/characters/blackbird/) | S、限定 | 魂 |
+| [リンコ](/ja/characters/linko/) | S、限定 | 霊 |
+| [残虹](/ja/characters/zankou/) | S、限定 | 呪 |
+| [イロヒ](/ja/characters/iroi/) | S、限定 | 霊 |
+| [真紅](/ja/characters/shinku/) | S、限定 | 光 |
+| [カオス](/ja/characters/chaos/) | S、限定 | 相 |
+| [レクイエム](/ja/characters/lacrimosa/) | S、限定 | 闇 |
+| [潯](/ja/characters/hotori/) | S、限定 | 光 |
+| [ナナリ](/ja/characters/nanally/) | S、限定 | 霊 |
+| [翳](/ja/characters/skia/) | A | 相 |
+| [海月](/ja/characters/aurelia/) | A | 魂 |
+| [ハニア](/ja/characters/haniel/) | A | 魂 |
+| [アドレー](/ja/characters/adler/) | A | 呪 |
+| [エドガー](/ja/characters/edgar/) | A | 光 |
+| [ミント](/ja/characters/mint/) | A | 霊 |
+| [九原](/ja/characters/jiuyuan/) | S、常設 | 霊 |
+| [ダフォディール](/ja/characters/daffodill/) | S、常設 | 闇 |
+| [ファルディーヤ](/ja/characters/fadia/) | S、常設 | 魂 |
+| [ハソール](/ja/characters/hathor/) | S、常設 | 相 |
+| [白蔵](/ja/characters/baicang/) | S、常設 | 呪 |
+| [早霧](/ja/characters/sakiri/) | S、常設 | 呪 |
+| [ちぃちゃん](/ja/characters/chiz/) | S | 光 |
+| [異能者・零](/ja/characters/zero/) | S、主人公 | 光 |

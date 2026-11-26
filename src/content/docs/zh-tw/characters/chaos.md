@@ -64,6 +64,7 @@ sources:
 | 身分 | E.T.D 六隊成員 |
 | 配音員 | 中文：淦子齊；英文：Rick Kumazawa；日文：小西克幸；韓文：원종준 |
 | 個人檔案 | [卡厄斯個人檔案](/zh-tw/characters/chaos/archive/) |
+| 語音 | [卡厄斯語音](/zh-tw/characters/chaos/voice/) |
 
 Chaos 同時也是英文版中「暗」屬性的名稱，與角色卡厄斯同名。
 

@@ -1,0 +1,1907 @@
+{
+ "slug": "daffodill",
+ "id": "1054",
+ "version": "1.5.4",
+ "sources": {
+  "en": "https://static.nanoka.cc/nte/1.5.4/en/character/1054.json",
+  "zh-cn": "https://static.nanoka.cc/nte/1.5.4/zh/character/1054.json",
+  "ja": "https://static.nanoka.cc/nte/1.5.4/ja/character/1054.json",
+  "ko": "https://static.nanoka.cc/nte/1.5.4/ko/character/1054.json",
+  "zh-tw": "https://everness.info/zh-Hant/espers/1054"
+ },
+ "reads": {
+  "zh-tw": "2026-11-25"
+ },
+ "lines": {
+  "en": {
+   "daily": [
+    {
+     "title": "First Meet",
+     "text": "Hello, I'm Daffodill, Hotori's bodyguard… Too simple? Sorry, small talk isn't my strong suit. If you need anything, just reach out to Eibon, the antique shop."
+    },
+    {
+     "title": "Chat: Rest",
+     "text": "You need to do something. Sitting idle won't do your body any good."
+    },
+    {
+     "title": "Chat: Weapons",
+     "text": "Even the best weapons need regular maintenance to stay sharp, and so do people."
+    },
+    {
+     "title": "Chat: Greetings",
+     "text": "Dear customer… wel… welcome… Tch."
+    },
+    {
+     "title": "Sunny",
+     "text": "Good weather. Time for some outdoor training."
+    },
+    {
+     "title": "Rainy",
+     "text": "It's raining? I can use rain to mask my presence…"
+    },
+    {
+     "title": "Cold",
+     "text": "The cold stiffens the body and numbs the senses… In such a moment, perhaps it's best for the roles of prey and hunter to be reversed."
+    },
+    {
+     "title": "Hot",
+     "text": "Argh… this temperature is annoying."
+    },
+    {
+     "title": "Morning Greeting",
+     "text": "Good morning, what's the plan for today?"
+    },
+    {
+     "title": "Noon Greeting",
+     "text": "If you're tired, you can take a nap. I'll wake you up."
+    },
+    {
+     "title": "Evening Greeting",
+     "text": "We can train a bit more. Want to join?"
+    },
+    {
+     "title": "Good Night",
+     "text": "Rest well, Eibon is safe at night."
+    },
+    {
+     "title": "Hobbies",
+     "text": "I can't say I have any particular preferences, just survival needs. Compressed sweets are easy to carry and provide a lot of energy, so I bring some just in case. How they taste doesn't really matter."
+    },
+    {
+     "title": "Worries",
+     "text": "Some customers are harder to deal with than anomalies, but Hotori says we should always smile for Eibon's business… Huh? You think our commission success rate has been dropping lately? Ahem… that's absolutely not true."
+    },
+    {
+     "title": "Topic: Anomalies",
+     "text": "Truth often hides among lies. Both humans and anomalies are not what they seem on the surface. Merely \"seeing\" does not suffice. You must understand, perceive, and analyze. Only when you adopt a kaleidoscope of perspectives… can you fathom truth itself."
+    },
+    {
+     "title": "Topic: Training",
+     "text": "I don't find all the daily training tedious. No pain, no gain, right? The only way to avoid screwing up again is by getting stronger."
+    },
+    {
+     "title": "Topic: Fishing",
+     "text": "I've observed those anglers who sit by the shore all day with nothing to show for it. The weather, water temperature, conditions of the fish—so many uncontrollable factors can lead to failure. But patience is always a quality a good hunter should have. Your bucket is going to end up full eventually."
+    },
+    {
+     "title": "About Myself: Esper Abilities",
+     "text": "Just a trade with some of my vision, doesn't affect my daily life too much. Sometimes you hear more than you see."
+    },
+    {
+     "title": "About Myself: Dark Colors",
+     "text": "Wondering why I wear dark clothes all the time…? It's not because I like them, but because they do a better job at hiding my injuries and deceiving my enemies."
+    },
+    {
+     "title": "About Myself: Name",
+     "text": "It seems to mean \"narcissus.\" Only one flower blooms on each stem. Hotori told me there's one in the lake near my place, though I've never seen it. If possible, I'd prefer you to call me Daffodill instead of…ahem."
+    },
+    {
+     "title": "About Hotori: Concerns",
+     "text": "I know Hotori will do whatever it takes to get what she wants, putting herself at risk along the way. But sometimes the way she goes about it is a bit over-the-top… Well, I guess I do have some catching up to do."
+    },
+    {
+     "title": "About Hotori: First Meeting",
+     "text": "She was already drunk the first time we met. I thought she was just another strange woman. But somehow… there was a sense of calm, a strange… trust. Maybe that's why I stayed."
+    },
+    {
+     "title": "About Nanally",
+     "text": "That kid's always peeking at me when I train. I've caught her a few times, but she just finds another spot and keeps at it… Well, as long as she doesn't get in my way, I guess."
+    },
+    {
+     "title": "About Zankou",
+     "text": "She's very dangerous. Avoid any contact with her unless necessary."
+    },
+    {
+     "title": "About Adler",
+     "text": "Adler is a very respectable person. Before I met Hotori, he was always by her side. I have a lot to learn from him."
+    },
+    {
+     "title": "About Eibon Antique Shop",
+     "text": "Eibon is completely different from where I used to be. Here, you have to deal with difficult customers for a living, and your friends here are noisy all the time… but I can sleep here without worrying about anything at least."
+    },
+    {
+     "title": "Character Ascension I",
+     "text": "Hard work pays off."
+    },
+    {
+     "title": "Character Ascension II",
+     "text": "I can be stronger."
+    },
+    {
+     "title": "Character Ascension III",
+     "text": "This way, your safety is guaranteed."
+    },
+    {
+     "title": "Gift Received I",
+     "text": "I don't think I've told you, but I… like it a lot. Thank you."
+    },
+    {
+     "title": "Gift Received II",
+     "text": "This is precious for me. Many thanks."
+    },
+    {
+     "title": "Gift Received III",
+     "text": "Thanks for the effort."
+    },
+    {
+     "title": "Gift Received IV",
+     "text": "Hotori told me I should gladly receive gifts from a friend. I shall receive it… gladly."
+    }
+   ],
+   "battle": [
+    {
+     "title": "Redirect Skill I",
+     "text": "Saw it coming!"
+    },
+    {
+     "title": "Redirect Skill II",
+     "text": "No mercy!"
+    },
+    {
+     "title": "Redirect Skill III",
+     "text": "Purge!"
+    },
+    {
+     "title": "Redirect Skill IV",
+     "text": "A futile attempt."
+    },
+    {
+     "title": "Redirect Skill V",
+     "text": "Judgment!"
+    },
+    {
+     "title": "Redirect Skill VI",
+     "text": "Nothing can stand my blade!"
+    },
+    {
+     "title": "Ultimate I",
+     "text": "Nowhere to hide!"
+    },
+    {
+     "title": "Ultimate II",
+     "text": "What you see is an illusion!"
+    },
+    {
+     "title": "Ultimate III",
+     "text": "Thousand Eyes… Awaken."
+    },
+    {
+     "title": "Containment I",
+     "text": "Need an escort to the Bureau?"
+    },
+    {
+     "title": "Containment II",
+     "text": "Containment complete."
+    },
+    {
+     "title": "Nullification I",
+     "text": "It's done."
+    },
+    {
+     "title": "Nullification II",
+     "text": "Crisis averted."
+    },
+    {
+     "title": "Unexpected Gains I",
+     "text": "Let's take it back to Eibon."
+    },
+    {
+     "title": "Unexpected Gains II",
+     "text": "It'll come in handy eventually."
+    },
+    {
+     "title": "Unexpected Gains III",
+     "text": "It's good to have gains."
+    },
+    {
+     "title": "Unexpected Gains IV",
+     "text": "Keep it well."
+    },
+    {
+     "title": "Unexpected Gains V",
+     "text": "A pleasant surprise."
+    },
+    {
+     "title": "Unexpected Gains VI",
+     "text": "Just what we needed."
+    },
+    {
+     "title": "Low Health I",
+     "text": "I'm good."
+    },
+    {
+     "title": "Low Health II",
+     "text": "Don't worry."
+    },
+    {
+     "title": "Low Health III",
+     "text": "It's… not a big deal."
+    },
+    {
+     "title": "Heal I",
+     "text": "Thank you."
+    },
+    {
+     "title": "Heal II",
+     "text": "Recovering power."
+    },
+    {
+     "title": "Down I",
+     "text": "Sorry… I failed you…"
+    },
+    {
+     "title": "Down II",
+     "text": "If I can be of any value…"
+    },
+    {
+     "title": "Down III",
+     "text": "I lost…"
+    },
+    {
+     "title": "Takedown I",
+     "text": "Annihilate."
+    },
+    {
+     "title": "Takedown II",
+     "text": "How fragile."
+    },
+    {
+     "title": "Damaged I",
+     "text": "I got careless."
+    },
+    {
+     "title": "Damaged II",
+     "text": "No problem."
+    },
+    {
+     "title": "Heavily Damaged I",
+     "text": "Just a scratch."
+    },
+    {
+     "title": "Heavily Damaged II",
+     "text": "Again."
+    },
+    {
+     "title": "Deploy I",
+     "text": "A new commission?"
+    },
+    {
+     "title": "Deploy II",
+     "text": "Standby."
+    },
+    {
+     "title": "Entry Attack I",
+     "text": "Target locked."
+    },
+    {
+     "title": "Entry Attack II",
+     "text": "Found it."
+    },
+    {
+     "title": "Entry Attack III",
+     "text": "Handover complete."
+    },
+    {
+     "title": "Glide I",
+     "text": "That place is…"
+    },
+    {
+     "title": "Glide II",
+     "text": "Ahhh…"
+    },
+    {
+     "title": "Switch I",
+     "text": "I'll handle this."
+    },
+    {
+     "title": "Switch II",
+     "text": "Leave it to me."
+    },
+    {
+     "title": "Switch III",
+     "text": "Here I am."
+    },
+    {
+     "title": "Special Switch - Hotori",
+     "text": "It's my duty."
+    },
+    {
+     "title": "Special Switch - Adler",
+     "text": "Take care."
+    },
+    {
+     "title": "Special Switch - Sakiri",
+     "text": "I got it."
+    },
+    {
+     "title": "Special Switch - Nanally",
+     "text": "Nice work."
+    },
+    {
+     "title": "Special Switch - Edgar",
+     "text": "Catch your breath."
+    },
+    {
+     "title": "Special Switch - Zero",
+     "text": "Time for a breather, Appraiser."
+    },
+    {
+     "title": "Teammate Down - Hotori",
+     "text": "You're going to regret this."
+    },
+    {
+     "title": "Teammate Down - Adler",
+     "text": "It's not over yet."
+    },
+    {
+     "title": "Teammate Down - Sakiri",
+     "text": "I'm going to take you back."
+    },
+    {
+     "title": "Teammate Down - Nanally",
+     "text": "You did your best, leave the rest to me."
+    },
+    {
+     "title": "Teammate Down - Edgar",
+     "text": "Don't stress, I'm taking over."
+    },
+    {
+     "title": "Teammate Down - Zero",
+     "text": "I won't leave you behind."
+    },
+    {
+     "title": "Teammate Down - Zankou",
+     "text": "Looks like you still need me."
+    },
+    {
+     "title": "Parry I",
+     "text": "Predictable."
+    },
+    {
+     "title": "Parry II",
+     "text": "Stay sharp."
+    },
+    {
+     "title": "Consecutive Critical Dodge Success I",
+     "text": "Your moves are sloppy."
+    },
+    {
+     "title": "Consecutive Critical Dodge Success II",
+     "text": "You don't know how to give up."
+    }
+   ]
+  },
+  "zh-cn": {
+   "daily": [
+    {
+     "title": "初次见面",
+     "text": "你好，我是达芙蒂尔，浔的保镖……太简单了吗？抱歉，我并不擅长闲聊，有需要请直接咨询「伊波恩」古董店。"
+    },
+    {
+     "title": "闲聊·休息",
+     "text": "找点事情做做吧，总是闲着的话身体会生锈的。"
+    },
+    {
+     "title": "闲聊·武器",
+     "text": "再好的武器也需要定期保养才能保持锋利，人也是一样。"
+    },
+    {
+     "title": "闲聊·欢迎词",
+     "text": "亲、亲爱的顾客，欢迎光……光……啧。"
+    },
+    {
+     "title": "大晴天",
+     "text": "好天气，适合户外训练。"
+    },
+    {
+     "title": "雨天",
+     "text": "下雨了？利用雨水隐蔽身形和气味的话……"
+    },
+    {
+     "title": "寒冷",
+     "text": "寒冷会让身体僵硬，麻痹感知……或许这时候，猎物和猎手的身份正适合互换。"
+    },
+    {
+     "title": "炎热",
+     "text": "呼……令人讨厌的温度。"
+    },
+    {
+     "title": "早上问候",
+     "text": "早上好，今天的安排是什么？"
+    },
+    {
+     "title": "中午问候",
+     "text": "困的话可以小憩一会儿，我会叫醒你的。"
+    },
+    {
+     "title": "傍晚问候",
+     "text": "还能再训练一会儿，要来么？"
+    },
+    {
+     "title": "晚安",
+     "text": "好好休息吧，夜里的伊波恩，很安全。"
+    },
+    {
+     "title": "爱好",
+     "text": "谈不上有什么特别喜好，生存需要而已。压缩甜食便于携带又可以提供大量能量，所以我会带上一些以备不时之需。至于口味，那并不重要。"
+    },
+    {
+     "title": "烦恼",
+     "text": "有些客人比异象还要难缠，但是浔说为了伊波恩的生意，一定要保持微笑服务……感觉最近的委托成交率更低了？咳……是你的错觉。"
+    },
+    {
+     "title": "话题·异象",
+     "text": "真相往往以谎言作为伪装。异象也好，人也好——大多都是表里不一的。光是「看见」远远不够。认知、觉察、剖析。事物像万花筒般从不同视角展开……才能窥见本质。"
+    },
+    {
+     "title": "话题·训练",
+     "text": "日复一日的训练算不上枯燥，想要变得更强，总得付出一些代价。只有足够强大，才不会重蹈覆辙。"
+    },
+    {
+     "title": "话题·钓鱼",
+     "text": "我观察过那些坐在岸边一整天却毫无收获的钓者，天气，水温，鱼群状态，太多不可控制的因素都会导致失败，但耐心始终是一个好的猎手该具备的品质，鱼桶总会有装满的时候。"
+    },
+    {
+     "title": "关于自己·异能",
+     "text": "只是用一小部分视力作为交换而已，并不影响日常生活，正相反，有时听见的可比看见的更多。"
+    },
+    {
+     "title": "关于自己·深色",
+     "text": "总是穿深色的衣服？……并不是什么偏好，只是深色的衣服能掩盖受伤的痕迹，多数时候可以用来欺骗对手。"
+    },
+    {
+     "title": "关于自己·名字",
+     "text": "似乎是水仙花的意思。一根枝条上只开一朵，听浔说我家附近的湖心也长着一朵，但我并未见过。如果可以的话，希望你还是喊我「达芙蒂尔」，而不是……嗯。"
+    },
+    {
+     "title": "关于浔·担忧",
+     "text": "有时候浔的做法过于大胆了，总是以身涉险，就好像只要能达成想要的结果，什么都无所谓，呼……是我还不够强。"
+    },
+    {
+     "title": "关于浔·初遇",
+     "text": "初遇时就醉醺醺的，那时只觉得是个奇怪的女人。但不知为何……莫名有种安心与信任感。这也是为什么我会在这吧。"
+    },
+    {
+     "title": "关于娜娜莉",
+     "text": "那孩子总是在我训练的时候偷偷观察，就算被发现了过一会儿又会藏到另一个地方继续看……算了，只要不妨碍我，就随她吧。"
+    },
+    {
+     "title": "关于残虹",
+     "text": "很危险，如非必要，不要和她有任何接触。"
+    },
+    {
+     "title": "关于阿德勒",
+     "text": "阿德勒先生是非常值得尊敬的人，在我遇到浔之前，是他一直陪伴着浔，我还有很多方面要向他学习。"
+    },
+    {
+     "title": "关于伊波恩古董店",
+     "text": "伊波恩与我过去所待的地方完全不同。在这里要为了生计去接待难搞的顾客，就连同伴也整天吵吵闹闹……但是……至少在伊波恩里可以睡个安稳觉。"
+    },
+    {
+     "title": "角色突破·Ⅰ",
+     "text": "汗水的收获。"
+    },
+    {
+     "title": "角色突破·Ⅱ",
+     "text": "我，还可以更强。"
+    },
+    {
+     "title": "角色突破·Ⅲ",
+     "text": "这样就能更好地守护了吧。"
+    },
+    {
+     "title": "收到赠礼·Ⅰ",
+     "text": "我应该从未和你说过……我很喜欢，谢谢你。"
+    },
+    {
+     "title": "收到赠礼·Ⅱ",
+     "text": "这对我来说很珍贵。多谢。"
+    },
+    {
+     "title": "收到赠礼·Ⅲ",
+     "text": "有心了，多谢。"
+    },
+    {
+     "title": "收到赠礼·IV",
+     "text": "浔说，朋友的礼物大大方方地收下就好。那我就……不客气了。"
+    }
+   ],
+   "battle": [
+    {
+     "title": "变轨技能·Ⅰ",
+     "text": "看破！"
+    },
+    {
+     "title": "变轨技能·Ⅱ",
+     "text": "无赦！"
+    },
+    {
+     "title": "变轨技能·Ⅲ",
+     "text": "肃清！"
+    },
+    {
+     "title": "变轨技能·Ⅳ",
+     "text": "无用之功。"
+    },
+    {
+     "title": "变轨技能·Ⅴ",
+     "text": "裁决！"
+    },
+    {
+     "title": "变轨技能·Ⅵ",
+     "text": "斩无不断！"
+    },
+    {
+     "title": "极轨终结·Ⅰ",
+     "text": "无所遁形！"
+    },
+    {
+     "title": "极轨终结·Ⅱ",
+     "text": "所见，即是虚妄！"
+    },
+    {
+     "title": "极轨终结·Ⅲ",
+     "text": "千眼……开。"
+    },
+    {
+     "title": "收容异象·Ⅰ",
+     "text": "需要我护送到异象管理局吗？"
+    },
+    {
+     "title": "收容异象·Ⅱ",
+     "text": "收容完毕。"
+    },
+    {
+     "title": "泯除异象·Ⅰ",
+     "text": "解决了。"
+    },
+    {
+     "title": "泯除异象·Ⅱ",
+     "text": "危机解除。"
+    },
+    {
+     "title": "意外收获·Ⅰ",
+     "text": "带回伊波恩看看吧。"
+    },
+    {
+     "title": "意外收获·Ⅱ",
+     "text": "总有用得上的时候。"
+    },
+    {
+     "title": "意外收获·Ⅲ",
+     "text": "有收获就是好事。"
+    },
+    {
+     "title": "意外收获·Ⅳ",
+     "text": "收好了。"
+    },
+    {
+     "title": "意外收获·Ⅴ",
+     "text": "意外之喜。"
+    },
+    {
+     "title": "意外收获·Ⅵ",
+     "text": "正好需要。"
+    },
+    {
+     "title": "生命值低·Ⅰ",
+     "text": "我还可以。"
+    },
+    {
+     "title": "生命值低·Ⅱ",
+     "text": "不用担心。"
+    },
+    {
+     "title": "生命值低·Ⅲ",
+     "text": "问题……不大。"
+    },
+    {
+     "title": "恢复生命·Ⅰ",
+     "text": "谢谢。"
+    },
+    {
+     "title": "恢复生命·Ⅱ",
+     "text": "力量在恢复。"
+    },
+    {
+     "title": "力竭·Ⅰ",
+     "text": "抱歉…没能做到……"
+    },
+    {
+     "title": "力竭·Ⅱ",
+     "text": "如果这副残躯仍有价值……"
+    },
+    {
+     "title": "力竭·Ⅲ",
+     "text": "是我输了……"
+    },
+    {
+     "title": "击败怪物·Ⅰ",
+     "text": "湮灭吧。"
+    },
+    {
+     "title": "击败怪物·Ⅱ",
+     "text": "不堪一击。"
+    },
+    {
+     "title": "普通受击·Ⅰ",
+     "text": "大意了。"
+    },
+    {
+     "title": "普通受击·Ⅱ",
+     "text": "无妨。"
+    },
+    {
+     "title": "重受击·Ⅰ",
+     "text": "只是小伤。"
+    },
+    {
+     "title": "重受击·Ⅱ",
+     "text": "再来。"
+    },
+    {
+     "title": "上阵·Ⅰ",
+     "text": "新的委托么？"
+    },
+    {
+     "title": "上阵·Ⅱ",
+     "text": "待命。"
+    },
+    {
+     "title": "协同技·Ⅰ",
+     "text": "锁定目标。"
+    },
+    {
+     "title": "协同技·Ⅱ",
+     "text": "找到了。"
+    },
+    {
+     "title": "协同技·Ⅲ",
+     "text": "交接完成。"
+    },
+    {
+     "title": "滑翔·Ⅰ",
+     "text": "那里是……"
+    },
+    {
+     "title": "滑翔·Ⅱ",
+     "text": "呼……"
+    },
+    {
+     "title": "切换·Ⅰ",
+     "text": "我来解决。"
+    },
+    {
+     "title": "切换·Ⅱ",
+     "text": "交给我。"
+    },
+    {
+     "title": "切换·Ⅲ",
+     "text": "这里有我。"
+    },
+    {
+     "title": "特殊切换·浔",
+     "text": "职责所在。"
+    },
+    {
+     "title": "特殊切换·阿德勒",
+     "text": "小心。"
+    },
+    {
+     "title": "特殊切换·早雾",
+     "text": "我来应对。"
+    },
+    {
+     "title": "特殊切换·娜娜莉",
+     "text": "进步不小。"
+    },
+    {
+     "title": "特殊切换·埃德嘉",
+     "text": "调整呼吸。"
+    },
+    {
+     "title": "特殊切换·零",
+     "text": "休息一会儿吧。"
+    },
+    {
+     "title": "队友倒下·浔",
+     "text": "我会让你为自己的行为后悔。"
+    },
+    {
+     "title": "队友倒下·阿德勒",
+     "text": "还没有结束。"
+    },
+    {
+     "title": "队友倒下·早雾",
+     "text": "一个人都不能少。"
+    },
+    {
+     "title": "队友倒下·娜娜莉",
+     "text": "你已经很努力了，剩下的交给我。"
+    },
+    {
+     "title": "队友倒下·埃德嘉",
+     "text": "不必担心。"
+    },
+    {
+     "title": "队友倒下·零",
+     "text": "不会丢下你的。"
+    },
+    {
+     "title": "队友倒下·残虹",
+     "text": "原来你还需要我？"
+    },
+    {
+     "title": "弹反·Ⅰ",
+     "text": "毫无新意。"
+    },
+    {
+     "title": "弹反·Ⅱ",
+     "text": "随时戒备。"
+    },
+    {
+     "title": "连续极限闪避成功·Ⅰ",
+     "text": "漏洞百出。"
+    },
+    {
+     "title": "连续极限闪避成功·Ⅱ",
+     "text": "穷追不舍的家伙。"
+    }
+   ]
+  },
+  "ja": {
+   "daily": [
+    {
+     "title": "初対面",
+     "text": "僕はダフォディール、潯さんのボディーガードをやってる…短すぎるって？すまないが、しゃべりは得意じゃないんで、「エイボン」に直接問い合わせてくれ。"
+    },
+    {
+     "title": "雑談-休息",
+     "text": "何かやることを探そう。暇してると体がなまりそうだ。"
+    },
+    {
+     "title": "雑談-武器",
+     "text": "どれほど優れた武器でも、定期的に手入れをしないと、切れ味は保てない。人間とて同じこと。"
+    },
+    {
+     "title": "雑談-歓迎の言葉",
+     "text": "お、お客様、い…いらっしゃ…いま…チッ。"
+    },
+    {
+     "title": "快晴",
+     "text": "屋外訓練にピッタリの天気だ。"
+    },
+    {
+     "title": "雨",
+     "text": "雨が降ってきた？雨を利用して、姿と匂いを隠せれば…"
+    },
+    {
+     "title": "寒い",
+     "text": "寒くなると身体が硬直して、感覚も鈍くなるから…狩りをするにはうってつけだ。"
+    },
+    {
+     "title": "灼熱",
+     "text": "ふぅ…イヤな温度だ。"
+    },
+    {
+     "title": "朝の挨拶",
+     "text": "おはよう。今日の予定は？"
+    },
+    {
+     "title": "昼の挨拶",
+     "text": "眠いなら仮眠をとればいい。僕が起こすよ。"
+    },
+    {
+     "title": "夕方の挨拶",
+     "text": "もう少し訓練するけど、一緒にやるか？"
+    },
+    {
+     "title": "おやすみ",
+     "text": "ゆっくり休むといい。エイボンの夜は安全だから。"
+    },
+    {
+     "title": "趣味",
+     "text": "これといった物はないな。携行用のデザートは、いざという時に大量のエネルギーを補充できるが、ただ生きていくために必要なだけで、味は重要ではない。"
+    },
+    {
+     "title": "悩み",
+     "text": "異象より面倒な客がいても、必ず笑顔で対応するよう潯さんに言われてね…また依頼成約率が下がったって？はぁ…気のせいだろ。"
+    },
+    {
+     "title": "話題-異象",
+     "text": "真実は往々にして虚ろを隠れ蓑にする。異象も、人も――その多くが裏表を持ってる。ただ「見る」だけでは到底足りず、認識し、察知し、分析することが大事。万華鏡を転がすたびに、違う姿に変わっていくように…その先にこそ、本質が垣間見えるのだ。"
+    },
+    {
+     "title": "話題-訓練",
+     "text": "訓練は単調だが、苦にはならないな。強くなりたいなら、相応の代償が必要だし、何より同じ轍を踏まずに済む。"
+    },
+    {
+     "title": "話題-釣り",
+     "text": "一日中岸に座ってるのに全く釣果がない釣り人を見たことがある。天気、水温、魚の状態など、自分ではどうにもならない要素がほとんどだ。しかし、「気長に待つ」能力は優秀なハンターに備わるべきもので、バケツが魚でいっぱいになるのも時間の問題だろう。"
+    },
+    {
+     "title": "自分について-異能",
+     "text": "代償として視力を少し失っただけだ。日常生活に支障はない。逆に、目で見るより、耳を澄ませた方が分かることも多い。"
+    },
+    {
+     "title": "自分のこと-暗い色",
+     "text": "なぜ濃い色の服ばかり着てるかって？…好みとは関係ない。色の濃い服は傷跡を隠せるから、戦闘中に相手を欺ける。"
+    },
+    {
+     "title": "自分のこと-名前",
+     "text": "水仙という意味らしい。一本の茎に、一輪しか咲かない。僕の家の近くの湖にも一輪咲いていると、潯さんから聞いたが、まだ見たことはない。僕のことは「ダフォディール」と呼んでくれたら…ありがたい…"
+    },
+    {
+     "title": "潯のこと-懸念",
+     "text": "潯さんのやり方は、ときに大胆すぎて、危険を顧みないことも多い。結果さえ達成できれば、他はどうでもいいみたいだ。はぁ…やっぱり僕はまだまだ弱い。"
+    },
+    {
+     "title": "潯について・初めての出会い",
+     "text": "初めて会ったときも酔っ払っていて、ただの変わった女だと思った。でも、なぜだろう…妙な信頼と安心感を覚えて…だから僕はここにいるのかもしれない。"
+    },
+    {
+     "title": "ナナリについて",
+     "text": "僕の訓練中によく覗き込んでくるんだ。見つかっても、また別のところに隠れて見てくる…まぁ、邪魔さえしなければいいが。"
+    },
+    {
+     "title": "残虹について",
+     "text": "危険だ。用がないなら、一切接触しないほうがいい。"
+    },
+    {
+     "title": "アドレーについて",
+     "text": "アドレーさんはとても尊敬のできる人だ。僕が潯さんと出会う前から、ずっと潯さんのそばにいた。彼から学ぶことはたくさんある。"
+    },
+    {
+     "title": "骨董品屋エイボンについて",
+     "text": "エイボンは今までいた場所とは全然違う。手強い客の相手をしなきゃいけないし、騒がしい仲間も数名いて…だが不思議と…ここなら、安心して寝られる。"
+    },
+    {
+     "title": "キャラ突破Ⅰ",
+     "text": "汗を流した甲斐があった。"
+    },
+    {
+     "title": "キャラ突破Ⅱ",
+     "text": "僕はもっと強くなれる。"
+    },
+    {
+     "title": "キャラ突破Ⅲ",
+     "text": "これでもっとしっかり守ってあげられるだろう。"
+    },
+    {
+     "title": "届けられたギフトⅠ",
+     "text": "…君に話した覚えはないんだが。すごく好きなんだ。ありがとう。"
+    },
+    {
+     "title": "届けられたギフトⅡ",
+     "text": "こんな貴重なものを…感謝する。"
+    },
+    {
+     "title": "届けられたギフトⅢ",
+     "text": "気を使わせてすまない、ありがとう。"
+    },
+    {
+     "title": "届けられたギフトⅣ",
+     "text": "潯さんに、友達からの贈り物は素直に受け取るものだと言われて、それで…遠慮なく。"
+    }
+   ],
+   "battle": [
+    {
+     "title": "バイレールスキルⅠ",
+     "text": "見えたぞ！"
+    },
+    {
+     "title": "バイレールスキルⅡ",
+     "text": "容赦はしない！"
+    },
+    {
+     "title": "バイレールスキルⅢ",
+     "text": "粛清だ！"
+    },
+    {
+     "title": "バイレールスキルⅣ",
+     "text": "無駄なことを。"
+    },
+    {
+     "title": "バイレールスキルⅤ",
+     "text": "貴様に裁きを！"
+    },
+    {
+     "title": "バイレールスキルⅥ",
+     "text": "切れない物などない！"
+    },
+    {
+     "title": "EXレール終結Ⅰ",
+     "text": "姿を見せろ！"
+    },
+    {
+     "title": "EXレール終結Ⅱ",
+     "text": "見える物は全て虚構！"
+    },
+    {
+     "title": "EXレール終結Ⅲ",
+     "text": "千眼…一開。"
+    },
+    {
+     "title": "異象収容Ⅰ",
+     "text": "異象管理局まで護送しようか？"
+    },
+    {
+     "title": "異象収容Ⅱ",
+     "text": "収容完了。"
+    },
+    {
+     "title": "異象排除Ⅰ",
+     "text": "解決した。"
+    },
+    {
+     "title": "異象排除Ⅱ",
+     "text": "危機は去ったぞ。"
+    },
+    {
+     "title": "意外な収穫Ⅰ",
+     "text": "エイボンに持ち帰ってみよう。"
+    },
+    {
+     "title": "意外な収穫Ⅱ",
+     "text": "どこかで使えるかもしれない。"
+    },
+    {
+     "title": "意外な収穫Ⅲ",
+     "text": "収穫があるのはいいことだ。"
+    },
+    {
+     "title": "意外な収穫Ⅳ",
+     "text": "しかと収めた。"
+    },
+    {
+     "title": "意外な収穫Ⅴ",
+     "text": "意外な収穫だ。"
+    },
+    {
+     "title": "意外な収穫Ⅵ",
+     "text": "ちょうどこれがほしかった。"
+    },
+    {
+     "title": "低HPⅠ",
+     "text": "平気だ。"
+    },
+    {
+     "title": "低HPⅡ",
+     "text": "心配しないで。"
+    },
+    {
+     "title": "低HPⅢ",
+     "text": "大事は…ない。"
+    },
+    {
+     "title": "HP回復Ⅰ",
+     "text": "ありがとう…"
+    },
+    {
+     "title": "HP回復Ⅱ",
+     "text": "力が戻ってきた。"
+    },
+    {
+     "title": "力尽きⅠ",
+     "text": "すまない…力に、なれ…"
+    },
+    {
+     "title": "力尽きⅡ",
+     "text": "この朽ちた体に、まだ価値があるなら…"
+    },
+    {
+     "title": "力尽きⅢ",
+     "text": "僕の、負けだ…"
+    },
+    {
+     "title": "敵を撃破Ⅰ",
+     "text": "消えろ。"
+    },
+    {
+     "title": "敵を撃破Ⅱ",
+     "text": "他愛もない。"
+    },
+    {
+     "title": "ダメージを受ける（通常）Ⅰ",
+     "text": "不覚。"
+    },
+    {
+     "title": "ダメージを受ける（通常）Ⅱ",
+     "text": "問題ない。"
+    },
+    {
+     "title": "大打撃Ⅰ",
+     "text": "かすり傷だ。"
+    },
+    {
+     "title": "大打撃Ⅱ",
+     "text": "もう一度。"
+    },
+    {
+     "title": "出撃Ⅰ",
+     "text": "新しい依頼か？"
+    },
+    {
+     "title": "出撃Ⅱ",
+     "text": "命令を。"
+    },
+    {
+     "title": "コンビスキルⅠ",
+     "text": "ターゲット、ロックオン。"
+    },
+    {
+     "title": "コンビスキルⅡ",
+     "text": "見つけた。"
+    },
+    {
+     "title": "コンビスキルⅢ",
+     "text": "後は任せた。"
+    },
+    {
+     "title": "滑空Ⅰ",
+     "text": "あそこは…"
+    },
+    {
+     "title": "滑空Ⅱ",
+     "text": "ふぅ…"
+    },
+    {
+     "title": "切替Ⅰ",
+     "text": "僕がやる。"
+    },
+    {
+     "title": "切替Ⅱ",
+     "text": "任せて。"
+    },
+    {
+     "title": "切替Ⅲ",
+     "text": "大丈夫。僕がいるよ。"
+    },
+    {
+     "title": "特殊切替・潯",
+     "text": "責任を果たすよ。"
+    },
+    {
+     "title": "特殊切替・アドレー",
+     "text": "気をつけろ。"
+    },
+    {
+     "title": "特殊切替・早霧",
+     "text": "僕に任せて。"
+    },
+    {
+     "title": "特殊切替・ナナリ",
+     "text": "成長したな。"
+    },
+    {
+     "title": "特殊切替・エドガー",
+     "text": "深呼吸して。"
+    },
+    {
+     "title": "特殊切替・零",
+     "text": "少し休んでいて。"
+    },
+    {
+     "title": "仲間気絶・潯",
+     "text": "己の行いを後悔させてやる。"
+    },
+    {
+     "title": "仲間気絶・アドレー",
+     "text": "まだ、終わってない。"
+    },
+    {
+     "title": "仲間気絶・早霧",
+     "text": "仲間を、傷つけるな。"
+    },
+    {
+     "title": "仲間気絶・ナナリ",
+     "text": "もう十分頑張った。後は僕に任せて。"
+    },
+    {
+     "title": "仲間気絶・エドガー",
+     "text": "心配ない。"
+    },
+    {
+     "title": "仲間気絶・零",
+     "text": "君を置いていったりはしない。"
+    },
+    {
+     "title": "仲間気絶・残虹",
+     "text": "僕、まだ必要とされてたんだ？"
+    },
+    {
+     "title": "パリィⅠ",
+     "text": "またこれか。"
+    },
+    {
+     "title": "パリィⅡ",
+     "text": "僕に隙はないよ。"
+    },
+    {
+     "title": "連続極限回避成功Ⅰ",
+     "text": "隙だらけだ。"
+    },
+    {
+     "title": "連続極限回避成功Ⅱ",
+     "text": "しつこいな。"
+    }
+   ]
+  },
+  "ko": {
+   "daily": [
+    {
+     "title": "첫 만남",
+     "text": "반가워, 다포딜이야, 호토리의 보디가드지… 인사가 너무 짧았나? 미안, 대화엔 서툴러서. 필요한 게 있으면 「에이본」 골동품 가게로 직접 문의해."
+    },
+    {
+     "title": "대화·휴식",
+     "text": "뭔가 할 일을 찾아봐, 계속 놀고만 있으면 몸이 녹슬 테니까."
+    },
+    {
+     "title": "대화·무기",
+     "text": "아무리 좋은 무기도 꾸준히 관리해야 예리함을 유지해. 사람도 마찬가지지."
+    },
+    {
+     "title": "대화·인사말",
+     "text": "어, 어서 오세요, 고객님. 환… 환영… 쳇."
+    },
+    {
+     "title": "맑은 날",
+     "text": "화창하군, 야외 훈련하기 딱 좋겠어."
+    },
+    {
+     "title": "비 오는 날",
+     "text": "비가 오네? 빗물을 이용해 형체와 냄새를 숨긴다면…"
+    },
+    {
+     "title": "추운 날",
+     "text": "추위는 몸을 경직시키고, 감각을 둔하게 만들어… 사냥감과 사냥꾼의 입장이 바뀌기 딱 좋은 때지."
+    },
+    {
+     "title": "더운 날",
+     "text": "후… 불쾌한 온도야."
+    },
+    {
+     "title": "아침 인사",
+     "text": "좋은 아침, 오늘 일정은 어떻게 되지?"
+    },
+    {
+     "title": "점심 인사",
+     "text": "졸리면 잠시 쉬어, 내가 깨워줄게."
+    },
+    {
+     "title": "저녁 인사",
+     "text": "아직 더 훈련할 수 있어, 같이 할래?"
+    },
+    {
+     "title": "취침 인사",
+     "text": "푹 쉬어. 에이본의 밤은 아주 안전하니까."
+    },
+    {
+     "title": "취미",
+     "text": "딱히 좋아하는 건 없어. 생존에 필요해서 먹을 뿐이지. 건빵은 휴대가 편리하고 많은 에너지를 제공해서, 비상시를 대비해 몇 개 챙겨두곤 해. 맛은… 중요하지 않아."
+    },
+    {
+     "title": "고민",
+     "text": "가끔은 손님이 이상보다 더 까다롭지만, 호토리는 에이본을 위해서 반드시 미소로 응대해야 한다고 했어… 요즘 의뢰 성사율이 낮아진 것 같다고? 크흠… 네 착각이야."
+    },
+    {
+     "title": "주제·이상",
+     "text": "진실은 종종 거짓으로 위장해. 이상이든, 사람이든 대부분 겉과 속이 다르지. 즉, 「보이는」 대로 판단을 내릴 게 아니라, 만화경처럼 다양한 시각에서 바라보고 분석해야만… 사물의 본질을 파악할 수 있어."
+    },
+    {
+     "title": "주제·훈련",
+     "text": "매일 반복되는 훈련도 지루하지 않아. 더 강해지려면 대가를 치러야 하니까. 충분히 강해져야만 같은 실수를 반복하지 않을 수 있어."
+    },
+    {
+     "title": "주제·낚시",
+     "text": "하루 종일 강가에 앉아 헛손질만 하는 낚시꾼을 관찰한 적 있어. 날씨, 수온, 고기떼의 상태… 실패를 야기하는 요소가 많더라도, 좋은 사냥꾼이라면 인내심을 가져야 해. 낚시통은 언젠가 가득 차기 마련이니까."
+    },
+    {
+     "title": "자신·이능력에 관해",
+     "text": "시력의 일부를 내주었을 뿐, 일상생활에 지장은 없어. 때로는 보이는 것보다 들리는 게 더 많을 때도 있고."
+    },
+    {
+     "title": "자신·어두운 색에 관해",
+     "text": "늘 어두운색 옷만 입는다고…? 딱히 좋아하는 건 아니야. 흔적을 감출 수 있고, 대부분의 상황에서 상대를 속이기에 유리하니까 입을 뿐이지."
+    },
+    {
+     "title": "자신·이름에 관해",
+     "text": "수선화라는 뜻이었나. 한 줄기에 한 송이만 핀다더군. 호토리의 말로는 집 근처 호수 가운데에도 한 송이 피어 있다고 하는데, 난 본 적이 없어. 웬만하면… 그냥 「다포딜」이라고 불러줘…"
+    },
+    {
+     "title": "호토리·걱정에 관해",
+     "text": "가끔 호토리는 너무 과감해. 항상 자신을 위험에 빠뜨리고, 원하는 결과를 얻을 수 있다면 다른 건 상관없다는 듯이 행동하지. 후… 내 능력 부족이야."
+    },
+    {
+     "title": "호토리에 관해·첫 만남",
+     "text": "처음 만났을 때도 취해 있었어. 그땐 그냥 이상한 여자라고만 생각했는데, 왠지… 묘한 안정감과 신뢰감이 들었어. 그래서 내가 지금 여기 있게 된 거고."
+    },
+    {
+     "title": "나나리에 관해",
+     "text": "그 애는 내가 훈련할 때마다 몰래 지켜봐. 들켜도 잠시 후면 또 다른 곳에 숨어서 지켜보고 있지… 뭐, 방해만 안 된다면 상관없어."
+    },
+    {
+     "title": "잔홍에 관해",
+     "text": "위험한 여자야. 꼭 필요한 경우가 아니라면 접촉하지 마."
+    },
+    {
+     "title": "아들러에 관해",
+     "text": "아들러 씨는 존경할 만한 사람이지. 내가 호토리를 만나기 전부터 계속 호토리 곁을 지킨 분이야. 아직 배울 점이 많아."
+    },
+    {
+     "title": "에이본 골동품 가게에 관해",
+     "text": "에이본은 내가 전에 있던 곳과는 딴판이야. 여기선 생계를 위해 귀찮은 고객도 상대해야 하고, 동료들도 종일 떠들어대서 시끄럽지만… 적어도… 잠은 편히 들 수 있지."
+    },
+    {
+     "title": "캐릭터 돌파·Ⅰ",
+     "text": "땀 흘린 보람이 있네."
+    },
+    {
+     "title": "캐릭터 돌파·Ⅱ",
+     "text": "난… 더 강해질 수 있어."
+    },
+    {
+     "title": "캐릭터 돌파·Ⅲ",
+     "text": "이제 더 잘 지킬 수 있겠지."
+    },
+    {
+     "title": "선물 수령·Ⅰ",
+     "text": "이런 말은 처음하는 것 같은데… 선물 마음에 들어. 고마워."
+    },
+    {
+     "title": "선물 수령·Ⅱ",
+     "text": "소중히 간직할게. 고마워."
+    },
+    {
+     "title": "선물 수령·Ⅲ",
+     "text": "신경 써 줘서 고마워."
+    },
+    {
+     "title": "선물 수령·IV",
+     "text": "호토리가 그러더군, 친구가 주는 선물은 쿨하게 받으면 된다고. 그럼… 감사히 받도록 하지."
+    }
+   ],
+   "battle": [
+    {
+     "title": "바이레일 스킬·Ⅰ",
+     "text": "간파!"
+    },
+    {
+     "title": "바이레일 스킬·Ⅱ",
+     "text": "용서는 없다!"
+    },
+    {
+     "title": "바이레일 스킬·Ⅲ",
+     "text": "숙청해 주마!"
+    },
+    {
+     "title": "바이레일 스킬·Ⅳ",
+     "text": "괜히 힘 빼지 마."
+    },
+    {
+     "title": "바이레일 스킬·Ⅴ",
+     "text": "처단한다!"
+    },
+    {
+     "title": "바이레일 스킬·Ⅵ",
+     "text": "단칼에 베어주마!"
+    },
+    {
+     "title": "울티메이트·Ⅰ",
+     "text": "숨을 곳 따윈 없다!"
+    },
+    {
+     "title": "울티메이트·Ⅱ",
+     "text": "보이는 모든 것이, 허상이다!"
+    },
+    {
+     "title": "울티메이트·Ⅲ",
+     "text": "천안이여… 열려라!"
+    },
+    {
+     "title": "이상 수용·Ⅰ",
+     "text": "이상 관리국까지 호송해야 할까?"
+    },
+    {
+     "title": "이상 수용·Ⅱ",
+     "text": "수용 완료."
+    },
+    {
+     "title": "이상 제거·Ⅰ",
+     "text": "해결됐어."
+    },
+    {
+     "title": "이상 제거·Ⅱ",
+     "text": "위험 요소 제거."
+    },
+    {
+     "title": "뜻밖의 수확·Ⅰ",
+     "text": "에이본으로 가져가서 확인하지."
+    },
+    {
+     "title": "뜻밖의 수확·Ⅱ",
+     "text": "쓸모 있을 때가 있겠지."
+    },
+    {
+     "title": "뜻밖의 수확·Ⅲ",
+     "text": "뭐든 얻었으니 됐어."
+    },
+    {
+     "title": "뜻밖의 수확·Ⅳ",
+     "text": "잘 넣어뒀어요."
+    },
+    {
+     "title": "뜻밖의 수확·Ⅴ",
+     "text": "뜻밖의 수확이군."
+    },
+    {
+     "title": "뜻밖의 수확·Ⅵ",
+     "text": "마침 필요했는데."
+    },
+    {
+     "title": "HP 낮음·Ⅰ",
+     "text": "아직 견딜 만해."
+    },
+    {
+     "title": "HP 낮음·Ⅱ",
+     "text": "걱정 마."
+    },
+    {
+     "title": "HP 낮음·Ⅲ",
+     "text": "별거… 아니야."
+    },
+    {
+     "title": "HP 회복·Ⅰ",
+     "text": "고마워."
+    },
+    {
+     "title": "HP 회복·Ⅱ",
+     "text": "힘이 돌아오고 있어."
+    },
+    {
+     "title": "탈진·Ⅰ",
+     "text": "미안… 실패해 버렸어…"
+    },
+    {
+     "title": "탈진·Ⅱ",
+     "text": "아직 이 몸뚱이가 가치가 남아있다면…"
+    },
+    {
+     "title": "탈진·Ⅲ",
+     "text": "내가 졌어…"
+    },
+    {
+     "title": "몬스터 처치·Ⅰ",
+     "text": "소멸하라."
+    },
+    {
+     "title": "몬스터 처치·Ⅱ",
+     "text": "시시하군."
+    },
+    {
+     "title": "일반 피격·Ⅰ",
+     "text": "방심했어."
+    },
+    {
+     "title": "일반 피격·Ⅱ",
+     "text": "멀쩡해."
+    },
+    {
+     "title": "심각한 피해·Ⅰ",
+     "text": "작은 상처일 뿐이야."
+    },
+    {
+     "title": "심각한 피해·Ⅱ",
+     "text": "다시 덤벼봐."
+    },
+    {
+     "title": "출전·Ⅰ",
+     "text": "새로운 의뢰인가?"
+    },
+    {
+     "title": "출전·Ⅱ",
+     "text": "언제든 준비됐어."
+    },
+    {
+     "title": "협동기·Ⅰ",
+     "text": "타깃 확정."
+    },
+    {
+     "title": "협동기·Ⅱ",
+     "text": "찾았다."
+    },
+    {
+     "title": "협동기·Ⅲ",
+     "text": "교대 완료."
+    },
+    {
+     "title": "글라이딩·Ⅰ",
+     "text": "저기는…"
+    },
+    {
+     "title": "글라이딩·Ⅱ",
+     "text": "후우…"
+    },
+    {
+     "title": "전환·Ⅰ",
+     "text": "내가 해결할게."
+    },
+    {
+     "title": "전환·Ⅱ",
+     "text": "맡겨줘."
+    },
+    {
+     "title": "전환·Ⅲ",
+     "text": "여긴 내가 맡을게."
+    },
+    {
+     "title": "특수 전환·호토리",
+     "text": "해야 할 일을 할 뿐이야."
+    },
+    {
+     "title": "특수 전환·아들러",
+     "text": "조심해요."
+    },
+    {
+     "title": "특수 전환·사키리",
+     "text": "내게 맡겨."
+    },
+    {
+     "title": "특수 전환·나나리",
+     "text": "많이 늘었네."
+    },
+    {
+     "title": "특수 전환·에드가",
+     "text": "잠깐 숨 돌려."
+    },
+    {
+     "title": "특수 전환·제로",
+     "text": "잠시 쉬도록 해."
+    },
+    {
+     "title": "팀원 쓰러짐·호토리",
+     "text": "네가 한 짓을 후회하게 해주마."
+    },
+    {
+     "title": "팀원 쓰러짐·아들러",
+     "text": "아직 끝나지 않았어."
+    },
+    {
+     "title": "팀원 쓰러짐·사키리",
+     "text": "그 누구도 잃을 수 없어."
+    },
+    {
+     "title": "팀원 쓰러짐·나나리",
+     "text": "넌 최선을 다했어. 이제부터 내게 맡겨."
+    },
+    {
+     "title": "팀원 쓰러짐·에드가",
+     "text": "걱정하지 마."
+    },
+    {
+     "title": "팀원 쓰러짐·제로",
+     "text": "널 두고 가지 않아."
+    },
+    {
+     "title": "팀원 쓰러짐·잔홍",
+     "text": "이제 와서 내 도움이 필요하다고?"
+    },
+    {
+     "title": "패링·Ⅰ",
+     "text": "진부하군."
+    },
+    {
+     "title": "패링·Ⅱ",
+     "text": "언제든 경계하고 있지."
+    },
+    {
+     "title": "연속 극한 회피 성공·Ⅰ",
+     "text": "허점투성이군."
+    },
+    {
+     "title": "연속 극한 회피 성공·Ⅱ",
+     "text": "집요한 녀석이군."
+    }
+   ]
+  },
+  "zh-tw": {
+   "daily": [
+    {
+     "title": "初次見面",
+     "text": "你好，我是達芙蒂爾，潯的保鑣……太簡單了嗎？抱歉，我並不擅長閒聊，有需要請直接諮詢「伊波恩」古董店。"
+    },
+    {
+     "title": "閒聊·休息",
+     "text": "找點事情做做吧，總是閒著的話身體會生銹的。"
+    },
+    {
+     "title": "閒聊·武器",
+     "text": "再好的武器也需要定期保養才能保持鋒利，人也是一樣。"
+    },
+    {
+     "title": "閒聊·歡迎詞",
+     "text": "親、親愛的顧客，歡迎光……光……嘖。"
+    },
+    {
+     "title": "大晴天",
+     "text": "好天氣，適合戶外訓練。"
+    },
+    {
+     "title": "雨天",
+     "text": "下雨了？利用雨水隱蔽身形和氣味的話……"
+    },
+    {
+     "title": "寒冷",
+     "text": "寒冷會讓身體僵硬，麻痺感知……或許這時候，獵物和獵手的身份正適合互換。"
+    },
+    {
+     "title": "炎熱",
+     "text": "呼……令人討厭的溫度。"
+    },
+    {
+     "title": "早上問候",
+     "text": "早上好，今天的安排是什麼？"
+    },
+    {
+     "title": "中午問候",
+     "text": "睏的話可以休息一下，我會叫醒你的。"
+    },
+    {
+     "title": "傍晚問候",
+     "text": "還能再訓練一下，要來嗎？"
+    },
+    {
+     "title": "晚安",
+     "text": "好好休息吧，夜裡的伊波恩，很安全。"
+    },
+    {
+     "title": "愛好",
+     "text": "談不上有什麼特別喜好，生存需要而已。壓縮甜食便於攜帶又可以提供大量能量，所以我會帶上一些以備不時之需。至於口味，那並不重要。"
+    },
+    {
+     "title": "煩惱",
+     "text": "有些客人比異象還要難纏，但是潯說為了伊波恩的生意，一定要保持微笑服務……感覺最近的委託成交率更低了？咳……是你的錯覺。"
+    },
+    {
+     "title": "話題·異象",
+     "text": "真相往往以謊言作為偽裝。異象也好，人也好——大多都是表裡不一的。光是「看見」遠遠不夠。認知、覺察、剖析。事物像萬花筒般從不同視角展開……才能窺見本質。"
+    },
+    {
+     "title": "話題·訓練",
+     "text": "日復一日的訓練算不上枯燥，想要變得更強，總得付出一些代價。只有足夠強大，才不會重蹈覆轍。"
+    },
+    {
+     "title": "話題·釣魚",
+     "text": "我觀察過那些坐在岸邊一整天卻毫無收穫的釣客，天氣，水溫，魚群狀態，太多不可控制的因素都會導致失敗，但耐心始終是一個好的獵手該具備的品質，魚桶總會有裝滿的時候。"
+    },
+    {
+     "title": "關於自己·異能",
+     "text": "只是用一小部分視力作為交換而已，並不影響日常生活，相反的，有時聽見的可比看見的更多。"
+    },
+    {
+     "title": "關於自己·深色",
+     "text": "總是穿深色的衣服？……並不是什麼偏好，只是深色的衣服能掩蓋受傷的痕跡，多數時候可以用來欺騙對手。"
+    },
+    {
+     "title": "關於自己·名字",
+     "text": "似乎是水仙花的意思。一根枝條上只開一朵，聽潯說我家附近的湖心也長著一朵，但我並未見過。如果可以的話，希望你還是叫我「達芙蒂爾」，而不是……嗯。"
+    },
+    {
+     "title": "關於潯·擔憂",
+     "text": "有時候潯的做法過於大膽了，總是以身涉險，就好像只要能達成想要的結果，什麼都無所謂，呼……是我還不夠強。"
+    },
+    {
+     "title": "關於潯·初遇",
+     "text": "初遇時就醉醺醺的，那時只覺得是個奇怪的女人。但不知為何……莫名有種安心與信任感。這也是為什麼我會在這吧。"
+    },
+    {
+     "title": "關於娜娜莉",
+     "text": "那孩子總是在我訓練的時候偷偷觀察，就算被發現了過一會又會藏到另一個地方繼續看……算了，只要不妨礙我，就隨便她吧。"
+    },
+    {
+     "title": "關於殘虹",
+     "text": "很危險，如非必要，不要和她有任何接觸。"
+    },
+    {
+     "title": "關於阿德勒",
+     "text": "阿德勒先生是非常值得尊敬的人，在我遇到潯之前，是他一直陪伴著潯，我還有很多方面要向他學習。"
+    },
+    {
+     "title": "關於伊波恩古董店",
+     "text": "伊波恩與我過去所待的地方完全不同。在這裡要為了生計去接待難搞的顧客，就連同伴也整天吵吵鬧鬧……但是……至少在伊波恩裡可以睡個安穩覺。"
+    },
+    {
+     "title": "角色突破·Ⅰ",
+     "text": "汗水的收穫。"
+    },
+    {
+     "title": "角色突破·Ⅱ",
+     "text": "我，還可以更強。"
+    },
+    {
+     "title": "角色突破·Ⅲ",
+     "text": "這樣就能更好地守護了吧。"
+    },
+    {
+     "title": "收到贈禮·Ⅰ",
+     "text": "我應該從未跟你說過……我很喜歡，謝謝你。"
+    },
+    {
+     "title": "收到贈禮·Ⅱ",
+     "text": "這對我來說很珍貴。多謝。"
+    },
+    {
+     "title": "收到贈禮·Ⅲ",
+     "text": "有心了，多謝。"
+    },
+    {
+     "title": "收到贈禮·IV",
+     "text": "潯說，朋友的禮物大大方方地收下就好。那我就……不客氣了。"
+    }
+   ],
+   "battle": [
+    {
+     "title": "變軌技能·Ⅰ",
+     "text": "看破！"
+    },
+    {
+     "title": "變軌技能·Ⅱ",
+     "text": "無赦！"
+    },
+    {
+     "title": "變軌技能·Ⅲ",
+     "text": "肅清！"
+    },
+    {
+     "title": "變軌技能·Ⅳ",
+     "text": "無用之功。"
+    },
+    {
+     "title": "變軌技能·Ⅴ",
+     "text": "裁決！"
+    },
+    {
+     "title": "變軌技能·Ⅵ",
+     "text": "斬無不斷！"
+    },
+    {
+     "title": "極軌終結·Ⅰ",
+     "text": "無所遁形！"
+    },
+    {
+     "title": "極軌終結·Ⅱ",
+     "text": "所見，即是虛妄！"
+    },
+    {
+     "title": "極軌終結·Ⅲ",
+     "text": "千眼……開。"
+    },
+    {
+     "title": "收容異象·Ⅰ",
+     "text": "需要我護送到異象管理局嗎？"
+    },
+    {
+     "title": "收容異象·Ⅱ",
+     "text": "收容完畢。"
+    },
+    {
+     "title": "泯除異象·Ⅰ",
+     "text": "解決了。"
+    },
+    {
+     "title": "泯除異象·Ⅱ",
+     "text": "危機解除。"
+    },
+    {
+     "title": "意外收穫·Ⅰ",
+     "text": "帶回伊波恩看看吧。"
+    },
+    {
+     "title": "意外收穫·Ⅱ",
+     "text": "總有用得上的時候。"
+    },
+    {
+     "title": "意外收穫·Ⅲ",
+     "text": "有收穫就是好事。"
+    },
+    {
+     "title": "意外收穫·Ⅳ",
+     "text": "收好了。"
+    },
+    {
+     "title": "意外收穫·Ⅴ",
+     "text": "意外之喜。"
+    },
+    {
+     "title": "意外收穫·Ⅵ",
+     "text": "正好需要。"
+    },
+    {
+     "title": "生命值低·Ⅰ",
+     "text": "我還可以。"
+    },
+    {
+     "title": "生命值低·Ⅱ",
+     "text": "不用擔心。"
+    },
+    {
+     "title": "生命值低·Ⅲ",
+     "text": "問題……不大。"
+    },
+    {
+     "title": "恢復生命·Ⅰ",
+     "text": "謝謝。"
+    },
+    {
+     "title": "恢復生命·Ⅱ",
+     "text": "力量在恢復。"
+    },
+    {
+     "title": "力竭·Ⅰ",
+     "text": "抱歉…沒能做到……"
+    },
+    {
+     "title": "力竭·Ⅱ",
+     "text": "如果這副殘軀仍有價值……"
+    },
+    {
+     "title": "力竭·Ⅲ",
+     "text": "是我輸了……"
+    },
+    {
+     "title": "擊敗怪物·Ⅰ",
+     "text": "湮滅吧。"
+    },
+    {
+     "title": "擊敗怪物·Ⅱ",
+     "text": "不堪一擊。"
+    },
+    {
+     "title": "普通受擊·Ⅰ",
+     "text": "大意了。"
+    },
+    {
+     "title": "普通受擊·Ⅱ",
+     "text": "沒關係。"
+    },
+    {
+     "title": "重受擊·Ⅰ",
+     "text": "只是小傷。"
+    },
+    {
+     "title": "重受擊·Ⅱ",
+     "text": "再來。"
+    },
+    {
+     "title": "上陣·Ⅰ",
+     "text": "新的委託嗎？"
+    },
+    {
+     "title": "上陣·Ⅱ",
+     "text": "待命。"
+    },
+    {
+     "title": "協同技·Ⅰ",
+     "text": "鎖定目標。"
+    },
+    {
+     "title": "協同技·Ⅱ",
+     "text": "找到了。"
+    },
+    {
+     "title": "協同技·Ⅲ",
+     "text": "交接完成。"
+    },
+    {
+     "title": "滑翔·Ⅰ",
+     "text": "那裡是……"
+    },
+    {
+     "title": "滑翔·Ⅱ",
+     "text": "呼……"
+    },
+    {
+     "title": "切換·Ⅰ",
+     "text": "我來解決。"
+    },
+    {
+     "title": "切換·Ⅱ",
+     "text": "交給我。"
+    },
+    {
+     "title": "切換·Ⅲ",
+     "text": "這裡有我。"
+    },
+    {
+     "title": "特殊切換·潯",
+     "text": "職責所在。"
+    },
+    {
+     "title": "特殊切換·阿德勒",
+     "text": "小心。"
+    },
+    {
+     "title": "特殊切換·早霧",
+     "text": "我來應對。"
+    },
+    {
+     "title": "特殊切換·娜娜莉",
+     "text": "進步不小。"
+    },
+    {
+     "title": "特殊切換·埃德嘉",
+     "text": "調整呼吸。"
+    },
+    {
+     "title": "特殊切換·零",
+     "text": "休息一下吧。"
+    },
+    {
+     "title": "隊友倒下·潯",
+     "text": "我會讓你為自己的行為後悔。"
+    },
+    {
+     "title": "隊友倒下·阿德勒",
+     "text": "還沒有結束。"
+    },
+    {
+     "title": "隊友倒下·早霧",
+     "text": "一個人都不能少。"
+    },
+    {
+     "title": "隊友倒下·娜娜莉",
+     "text": "你已經很努力了，剩下的交給我。"
+    },
+    {
+     "title": "隊友倒下·埃德嘉",
+     "text": "不必擔心。"
+    },
+    {
+     "title": "隊友倒下·零",
+     "text": "不會丟下你的。"
+    },
+    {
+     "title": "隊友倒下·殘虹",
+     "text": "原來你還需要我？"
+    },
+    {
+     "title": "彈反·Ⅰ",
+     "text": "毫無創意。"
+    },
+    {
+     "title": "彈反·Ⅱ",
+     "text": "隨時戒備。"
+    },
+    {
+     "title": "連續極限閃避成功·Ⅰ",
+     "text": "漏洞百出。"
+    },
+    {
+     "title": "連續極限閃避成功·Ⅱ",
+     "text": "窮追不捨的傢伙。"
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,1267 @@
+{
+ "slug": "zero",
+ "id": "1046",
+ "version": "1.5.4",
+ "sources": {
+  "en": "https://static.nanoka.cc/nte/1.5.4/en/character/1046.json",
+  "zh-cn": "https://static.nanoka.cc/nte/1.5.4/zh/character/1046.json",
+  "ja": "https://static.nanoka.cc/nte/1.5.4/ja/character/1046.json",
+  "ko": "https://static.nanoka.cc/nte/1.5.4/ko/character/1046.json",
+  "zh-tw": "https://everness.info/zh-Hant/espers/1046"
+ },
+ "reads": {
+  "zh-tw": "2026-11-25"
+ },
+ "lines": {
+  "en": {
+   "daily": [
+    {
+     "title": "Character Ascension I",
+     "text": "Feeling good."
+    },
+    {
+     "title": "Character Ascension II",
+     "text": "Learned a lot."
+    },
+    {
+     "title": "Character Ascension III",
+     "text": "There's still more to see in this world."
+    }
+   ],
+   "battle": [
+    {
+     "title": "Redirect Skill I",
+     "text": "Engrave!"
+    },
+    {
+     "title": "Redirect Skill II",
+     "text": "Strike!"
+    },
+    {
+     "title": "Redirect Skill III",
+     "text": "Mark!"
+    },
+    {
+     "title": "Ultimate I",
+     "text": "Let's finish this!"
+    },
+    {
+     "title": "Ultimate II",
+     "text": "Fate splinter, and fracture."
+    },
+    {
+     "title": "Ultimate III",
+     "text": "Divided by zero."
+    },
+    {
+     "title": "Containment I",
+     "text": "All set."
+    },
+    {
+     "title": "Containment II",
+     "text": "Containment complete."
+    },
+    {
+     "title": "Nullification I",
+     "text": "Commission complete."
+    },
+    {
+     "title": "Nullification II",
+     "text": "Nicely done."
+    },
+    {
+     "title": "Unexpected Gains I",
+     "text": "Keep it well."
+    },
+    {
+     "title": "Unexpected Gains II",
+     "text": "Seems like luck is on my side today."
+    },
+    {
+     "title": "Unexpected Gains III",
+     "text": "The more, the merrier."
+    },
+    {
+     "title": "Unexpected Gains IV",
+     "text": "Hard work pays off."
+    },
+    {
+     "title": "Unexpected Gains V",
+     "text": "I don't have to report to the Security Office, do I?"
+    },
+    {
+     "title": "Unexpected Gains VI",
+     "text": "A pleasant surprise."
+    },
+    {
+     "title": "Low Health I",
+     "text": "Hang in there."
+    },
+    {
+     "title": "Low Health II",
+     "text": "It's not over yet."
+    },
+    {
+     "title": "Low Health III",
+     "text": "Focus! It's not time to give up yet."
+    },
+    {
+     "title": "Heal I",
+     "text": "Thanks for the support."
+    },
+    {
+     "title": "Heal II",
+     "text": "Feeling much better."
+    },
+    {
+     "title": "Down I",
+     "text": "The Nexus… I couldn't see it…"
+    },
+    {
+     "title": "Down II",
+     "text": "Sorry, I couldn't…"
+    },
+    {
+     "title": "Down III",
+     "text": "The truth… is not yet…"
+    },
+    {
+     "title": "Takedown I",
+     "text": "No big deal."
+    },
+    {
+     "title": "Takedown II",
+     "text": "The Nexus, it's here."
+    },
+    {
+     "title": "Damaged I",
+     "text": "It's fine."
+    },
+    {
+     "title": "Damaged II",
+     "text": "Be careful."
+    },
+    {
+     "title": "Heavily Damaged I",
+     "text": "Watch the timing."
+    },
+    {
+     "title": "Heavily Damaged II",
+     "text": "My mistake."
+    },
+    {
+     "title": "Deploy I",
+     "text": "Got it, leave it to me."
+    },
+    {
+     "title": "Deploy II",
+     "text": "What is it this time?"
+    },
+    {
+     "title": "Entry Attack I",
+     "text": "Appraise… then break!"
+    },
+    {
+     "title": "Entry Attack II",
+     "text": "Arc-light!"
+    },
+    {
+     "title": "Entry Attack III",
+     "text": "Begone!"
+    },
+    {
+     "title": "Glide I",
+     "text": "Perfect angle."
+    },
+    {
+     "title": "Glide II",
+     "text": "The wind's just right."
+    },
+    {
+     "title": "Switch I",
+     "text": "Let me take over."
+    },
+    {
+     "title": "Switch II",
+     "text": "Trust me."
+    },
+    {
+     "title": "Switch III",
+     "text": "I will see through the Nexus."
+    },
+    {
+     "title": "Special Switch - Mint",
+     "text": "Leave it to me, Mint."
+    },
+    {
+     "title": "Special Switch - Adler",
+     "text": "Adler, I'll let you handle this."
+    },
+    {
+     "title": "Special Switch - Daffodill",
+     "text": "Shift change."
+    },
+    {
+     "title": "Special Switch - Hotori",
+     "text": "Shopkeeper, you have a customer."
+    },
+    {
+     "title": "Special Switch - Nanally",
+     "text": "Boss, it's your turn."
+    },
+    {
+     "title": "Special Switch - Edgar",
+     "text": "Take care."
+    },
+    {
+     "title": "Special Switch - Sakiri",
+     "text": "Make sure Kiroumaru doesn't starve."
+    },
+    {
+     "title": "Teammate Down - Hotori",
+     "text": "Your wine… Drink it later."
+    },
+    {
+     "title": "Teammate Down - Daffodill",
+     "text": "I won't let you down."
+    },
+    {
+     "title": "Teammate Down - Adler",
+     "text": "Eibon will never give up."
+    },
+    {
+     "title": "Teammate Down - Sakiri",
+     "text": "Let's go home after this."
+    },
+    {
+     "title": "Teammate Down - Nanally",
+     "text": "The Coluccis still have me!"
+    },
+    {
+     "title": "Teammate Down - Edgar",
+     "text": "Don't worry. I'll take over."
+    },
+    {
+     "title": "Teammate Down - Mint",
+     "text": "Mint, take a break."
+    },
+    {
+     "title": "Parry I",
+     "text": "Perfect timing."
+    },
+    {
+     "title": "Parry II",
+     "text": "Now is the time."
+    },
+    {
+     "title": "Consecutive Critical Dodge Success I",
+     "text": "Feeling good."
+    },
+    {
+     "title": "Consecutive Critical Dodge Success II",
+     "text": "Hmm, not too difficult."
+    }
+   ]
+  },
+  "zh-cn": {
+   "daily": [
+    {
+     "title": "角色突破·Ⅰ",
+     "text": "感觉很好。"
+    },
+    {
+     "title": "角色突破·Ⅱ",
+     "text": "收获很多。"
+    },
+    {
+     "title": "角色突破·Ⅲ",
+     "text": "这个世界还有更多值得去见证。"
+    }
+   ],
+   "battle": [
+    {
+     "title": "变轨技能·Ⅰ",
+     "text": "鉴刻！"
+    },
+    {
+     "title": "变轨技能·Ⅱ",
+     "text": "接招！"
+    },
+    {
+     "title": "变轨技能·Ⅲ",
+     "text": "痕印！"
+    },
+    {
+     "title": "极轨终结·Ⅰ",
+     "text": "至此，定胜负吧。"
+    },
+    {
+     "title": "极轨终结·Ⅱ",
+     "text": "此瞬，万数皆断。"
+    },
+    {
+     "title": "极轨终结·Ⅲ",
+     "text": "框定，奇零尽除。"
+    },
+    {
+     "title": "收容异象·Ⅰ",
+     "text": "搞定了。"
+    },
+    {
+     "title": "收容异象·Ⅱ",
+     "text": "收容完成。"
+    },
+    {
+     "title": "泯除异象·Ⅰ",
+     "text": "委托完成。"
+    },
+    {
+     "title": "泯除异象·Ⅱ",
+     "text": "顺利解决。"
+    },
+    {
+     "title": "意外收获·Ⅰ",
+     "text": "好好收起来吧。"
+    },
+    {
+     "title": "意外收获·Ⅱ",
+     "text": "今天似乎运气不错。"
+    },
+    {
+     "title": "意外收获·Ⅲ",
+     "text": "多多益善。"
+    },
+    {
+     "title": "意外收获·Ⅳ",
+     "text": "努力的回报。"
+    },
+    {
+     "title": "意外收获·Ⅴ",
+     "text": "应该不用上交治安所吧。"
+    },
+    {
+     "title": "意外收获·Ⅵ",
+     "text": "意外之喜。"
+    },
+    {
+     "title": "生命值低·Ⅰ",
+     "text": "再坚持一下。"
+    },
+    {
+     "title": "生命值低·Ⅱ",
+     "text": "还没结束。"
+    },
+    {
+     "title": "生命值低·Ⅲ",
+     "text": "集中精神，还没到放弃的时候。"
+    },
+    {
+     "title": "恢复生命·Ⅰ",
+     "text": "多谢支援。"
+    },
+    {
+     "title": "恢复生命·Ⅱ",
+     "text": "感觉好多了。"
+    },
+    {
+     "title": "力竭·Ⅰ",
+     "text": "奇点，没能看清……"
+    },
+    {
+     "title": "力竭·Ⅱ",
+     "text": "抱歉，没能……"
+    },
+    {
+     "title": "力竭·Ⅲ",
+     "text": "真相……还未……"
+    },
+    {
+     "title": "击败怪物·Ⅰ",
+     "text": "小事。"
+    },
+    {
+     "title": "击败怪物·Ⅱ",
+     "text": "奇点，在这。"
+    },
+    {
+     "title": "普通受击·Ⅰ",
+     "text": "没事。"
+    },
+    {
+     "title": "普通受击·Ⅱ",
+     "text": "小心。"
+    },
+    {
+     "title": "重受击·Ⅰ",
+     "text": "注意时机。"
+    },
+    {
+     "title": "重受击·Ⅱ",
+     "text": "疏忽了。"
+    },
+    {
+     "title": "上阵·Ⅰ",
+     "text": "嗯，交给我吧。"
+    },
+    {
+     "title": "上阵·Ⅱ",
+     "text": "这次要做点什么？"
+    },
+    {
+     "title": "协同技·Ⅰ",
+     "text": "鉴痕，破！"
+    },
+    {
+     "title": "协同技·Ⅱ",
+     "text": "弧光！"
+    },
+    {
+     "title": "协同技·Ⅲ",
+     "text": "消失吧！"
+    },
+    {
+     "title": "滑翔·Ⅰ",
+     "text": "合适的角度。"
+    },
+    {
+     "title": "滑翔·Ⅱ",
+     "text": "风向正好。"
+    },
+    {
+     "title": "切换·Ⅰ",
+     "text": "换我来吧。"
+    },
+    {
+     "title": "切换·Ⅱ",
+     "text": "相信我。"
+    },
+    {
+     "title": "切换·Ⅲ",
+     "text": "奇点，我会看清。"
+    },
+    {
+     "title": "特殊切换·薄荷",
+     "text": "交给我吧，薄荷。"
+    },
+    {
+     "title": "特殊切换·阿德勒",
+     "text": "麻烦了，阿德勒先生。"
+    },
+    {
+     "title": "特殊切换·达芙蒂尔",
+     "text": "换班。"
+    },
+    {
+     "title": "特殊切换·浔",
+     "text": "店长，来活了。"
+    },
+    {
+     "title": "特殊切换·娜娜莉",
+     "text": "老大，该你上了。"
+    },
+    {
+     "title": "特殊切换·埃德嘉",
+     "text": "小心一点。"
+    },
+    {
+     "title": "特殊切换·早雾",
+     "text": "别饿坏鬼郎丸了。"
+    },
+    {
+     "title": "队友倒下·浔",
+     "text": "这杯酒……一会儿再喝吧。"
+    },
+    {
+     "title": "队友倒下·达芙蒂尔",
+     "text": "绝不辜负。"
+    },
+    {
+     "title": "队友倒下·阿德勒",
+     "text": "伊波恩不会轻易认输。"
+    },
+    {
+     "title": "队友倒下·早雾",
+     "text": "结束后一起回家。"
+    },
+    {
+     "title": "队友倒下·娜娜莉",
+     "text": "柯林斯有我在！"
+    },
+    {
+     "title": "队友倒下·埃德嘉",
+     "text": "别担心，我来处理。"
+    },
+    {
+     "title": "队友倒下·薄荷",
+     "text": "别逞强，薄荷。"
+    },
+    {
+     "title": "弹反·Ⅰ",
+     "text": "时机正好。"
+    },
+    {
+     "title": "弹反·Ⅱ",
+     "text": "抓住机会。"
+    },
+    {
+     "title": "连续极限闪避成功·Ⅰ",
+     "text": "状态很好。"
+    },
+    {
+     "title": "连续极限闪避成功·Ⅱ",
+     "text": "嗯，不算困难。"
+    }
+   ]
+  },
+  "ja": {
+   "daily": [
+    {
+     "title": "キャラ突破Ⅰ",
+     "text": "いい感じ。"
+    },
+    {
+     "title": "キャラ突破Ⅱ",
+     "text": "大漁。"
+    },
+    {
+     "title": "キャラ突破Ⅲ",
+     "text": "まだまだたくさんのことを見届けないとね。"
+    }
+   ],
+   "battle": [
+    {
+     "title": "バイレールスキルⅠ",
+     "text": "刻み！"
+    },
+    {
+     "title": "バイレールスキルⅡ",
+     "text": "覚悟！"
+    },
+    {
+     "title": "バイレールスキルⅢ",
+     "text": "刻印！"
+    },
+    {
+     "title": "EXレール終結Ⅰ",
+     "text": "ここで、勝敗を決めよう。"
+    },
+    {
+     "title": "EXレール終結Ⅱ",
+     "text": "全てを断ち切る。"
+    },
+    {
+     "title": "EXレール終結Ⅲ",
+     "text": "枠決め、残滓を一掃する。"
+    },
+    {
+     "title": "異象収容Ⅰ",
+     "text": "これでよし。"
+    },
+    {
+     "title": "異象収容Ⅱ",
+     "text": "収容完了。"
+    },
+    {
+     "title": "異象排除Ⅰ",
+     "text": "依頼完了。"
+    },
+    {
+     "title": "異象排除Ⅱ",
+     "text": "無事解決。"
+    },
+    {
+     "title": "意外な収穫Ⅰ",
+     "text": "ちゃんとしまっておこう。"
+    },
+    {
+     "title": "意外な収穫Ⅱ",
+     "text": "今日は運がいいね。"
+    },
+    {
+     "title": "意外な収穫Ⅲ",
+     "text": "大漁大漁。"
+    },
+    {
+     "title": "意外な収穫Ⅳ",
+     "text": "努力は報われる。"
+    },
+    {
+     "title": "意外な収穫Ⅴ",
+     "text": "治安所に届けなくてもいいよね？"
+    },
+    {
+     "title": "意外な収穫Ⅵ",
+     "text": "意外な収穫。"
+    },
+    {
+     "title": "低HPⅠ",
+     "text": "もう少し頑張ろう。"
+    },
+    {
+     "title": "低HPⅡ",
+     "text": "まだ終わってない。"
+    },
+    {
+     "title": "低HPⅢ",
+     "text": "集中して。諦めるのはまだ早い。"
+    },
+    {
+     "title": "HP回復Ⅰ",
+     "text": "サポートありがとう。"
+    },
+    {
+     "title": "HP回復Ⅱ",
+     "text": "だいぶよくなったよ。"
+    },
+    {
+     "title": "力尽きⅠ",
+     "text": "奇点、よく見えなかった…"
+    },
+    {
+     "title": "力尽きⅡ",
+     "text": "ごめん…"
+    },
+    {
+     "title": "力尽きⅢ",
+     "text": "まだ…真実が…"
+    },
+    {
+     "title": "敵を撃破Ⅰ",
+     "text": "平気だよ。"
+    },
+    {
+     "title": "敵を撃破Ⅱ",
+     "text": "奇点はここだよ。"
+    },
+    {
+     "title": "ダメージを受ける（通常）Ⅰ",
+     "text": "大丈夫。"
+    },
+    {
+     "title": "ダメージを受ける（通常）Ⅱ",
+     "text": "気をつけろ。"
+    },
+    {
+     "title": "大打撃Ⅰ",
+     "text": "チャンスを見逃さないで。"
+    },
+    {
+     "title": "大打撃Ⅱ",
+     "text": "やっちゃった。"
+    },
+    {
+     "title": "出撃Ⅰ",
+     "text": "うん、任せて。"
+    },
+    {
+     "title": "出撃Ⅱ",
+     "text": "今度はどうする？"
+    },
+    {
+     "title": "コンビスキルⅠ",
+     "text": "鑑痕、破！"
+    },
+    {
+     "title": "コンビスキルⅡ",
+     "text": "弧光（ココウ）！"
+    },
+    {
+     "title": "コンビスキルⅢ",
+     "text": "消えろ！"
+    },
+    {
+     "title": "滑空Ⅰ",
+     "text": "ちょうどいい角度だ。"
+    },
+    {
+     "title": "滑空Ⅱ",
+     "text": "風向きよーし。"
+    },
+    {
+     "title": "切替Ⅰ",
+     "text": "僕に任せて。"
+    },
+    {
+     "title": "切替Ⅱ",
+     "text": "信じて。"
+    },
+    {
+     "title": "切替Ⅲ",
+     "text": "奇点、ちゃんと見抜くから。"
+    },
+    {
+     "title": "特殊切替・ミント",
+     "text": "任せて、ミント。"
+    },
+    {
+     "title": "特殊切替・アドレー",
+     "text": "頼みます、アドレーさん。"
+    },
+    {
+     "title": "特殊切替・ダフォディール",
+     "text": "<male=>交代だ。<male><female=>交代よ。<female>"
+    },
+    {
+     "title": "特殊切替・潯",
+     "text": "店長、一仕事お願い。"
+    },
+    {
+     "title": "特殊切替・ナナリ",
+     "text": "ボスの番だよ。"
+    },
+    {
+     "title": "特殊切替・エドガー",
+     "text": "気をつけてね。"
+    },
+    {
+     "title": "特殊切替・早霧",
+     "text": "鬼郎丸が腹ペコだよ。"
+    },
+    {
+     "title": "仲間気絶・潯",
+     "text": "帰ったら…お酌するよ。"
+    },
+    {
+     "title": "仲間気絶・ダフォディール",
+     "text": "決して無駄にはしない。"
+    },
+    {
+     "title": "仲間気絶・アドレー",
+     "text": "エイボンは、容易く負けを認めない。"
+    },
+    {
+     "title": "仲間気絶・早霧",
+     "text": "終わったら一緒に帰ろう。"
+    },
+    {
+     "title": "仲間気絶・ナナリ",
+     "text": "<male=>コリンズには僕がいる！<male><female=>コリンズには私がいる！<female>"
+    },
+    {
+     "title": "仲間気絶・エドガー",
+     "text": "<male=>あとの処理は、僕が。<male><female=>あとの処理は、私が。<female>"
+    },
+    {
+     "title": "仲間気絶・ミント",
+     "text": "<male=>無理をするな、ミント。<male><female=>無理しないで、ミント。<female>"
+    },
+    {
+     "title": "パリィⅠ",
+     "text": "タイミングぴったり。"
+    },
+    {
+     "title": "パリィⅡ",
+     "text": "チャンスは逃さない。"
+    },
+    {
+     "title": "連続極限回避成功Ⅰ",
+     "text": "いい調子だ。"
+    },
+    {
+     "title": "連続極限回避成功Ⅱ",
+     "text": "大変、というほどでもなかったね。"
+    }
+   ]
+  },
+  "ko": {
+   "daily": [
+    {
+     "title": "캐릭터 돌파·Ⅰ",
+     "text": "기분 좋은걸."
+    },
+    {
+     "title": "캐릭터 돌파·Ⅱ",
+     "text": "많이 강해졌어."
+    },
+    {
+     "title": "캐릭터 돌파·Ⅲ",
+     "text": "이 세상은 가능성으로 무궁무진해."
+    }
+   ],
+   "battle": [
+    {
+     "title": "바이레일 스킬·Ⅰ",
+     "text": "감정!"
+    },
+    {
+     "title": "바이레일 스킬·Ⅱ",
+     "text": "받아라!"
+    },
+    {
+     "title": "바이레일 스킬·Ⅲ",
+     "text": "흔적!"
+    },
+    {
+     "title": "울티메이트·Ⅰ",
+     "text": "여기서… 결판을 내자."
+    },
+    {
+     "title": "울티메이트·Ⅱ",
+     "text": "이 순간, 무한의 수가 끊어진다."
+    },
+    {
+     "title": "울티메이트·Ⅲ",
+     "text": "범위 확정, 제거한다."
+    },
+    {
+     "title": "이상 수용·Ⅰ",
+     "text": "해결했어."
+    },
+    {
+     "title": "이상 수용·Ⅱ",
+     "text": "수용 완료."
+    },
+    {
+     "title": "이상 제거·Ⅰ",
+     "text": "의뢰 완료."
+    },
+    {
+     "title": "이상 제거·Ⅱ",
+     "text": "순조롭네."
+    },
+    {
+     "title": "뜻밖의 수확·Ⅰ",
+     "text": "잘 챙겨두자."
+    },
+    {
+     "title": "뜻밖의 수확·Ⅱ",
+     "text": "오늘은 운이 좋네."
+    },
+    {
+     "title": "뜻밖의 수확·Ⅲ",
+     "text": "다다익선이지."
+    },
+    {
+     "title": "뜻밖의 수확·Ⅳ",
+     "text": "노력한 보상인가."
+    },
+    {
+     "title": "뜻밖의 수확·Ⅴ",
+     "text": "치안소에 갖다 줄 필요는 없겠지."
+    },
+    {
+     "title": "뜻밖의 수확·Ⅵ",
+     "text": "뜻밖의 수확이네."
+    },
+    {
+     "title": "HP 낮음·Ⅰ",
+     "text": "조금만 더 버티자."
+    },
+    {
+     "title": "HP 낮음·Ⅱ",
+     "text": "아직 끝나지 않았어."
+    },
+    {
+     "title": "HP 낮음·Ⅲ",
+     "text": "정신 차리자. 아직 포기하긴 일러."
+    },
+    {
+     "title": "HP 회복·Ⅰ",
+     "text": "지원 고마워."
+    },
+    {
+     "title": "HP 회복·Ⅱ",
+     "text": "훨씬 좋아졌어."
+    },
+    {
+     "title": "탈진·Ⅰ",
+     "text": "특이점을 못 찾았어…"
+    },
+    {
+     "title": "탈진·Ⅱ",
+     "text": "미안, 내가…"
+    },
+    {
+     "title": "탈진·Ⅲ",
+     "text": "진실이… 아직…"
+    },
+    {
+     "title": "몬스터 처치·Ⅰ",
+     "text": "별거 아니네."
+    },
+    {
+     "title": "몬스터 처치·Ⅱ",
+     "text": "여기, 특이점을 찾았어."
+    },
+    {
+     "title": "일반 피격·Ⅰ",
+     "text": "괜찮아."
+    },
+    {
+     "title": "일반 피격·Ⅱ",
+     "text": "조심해."
+    },
+    {
+     "title": "심각한 피해·Ⅰ",
+     "text": "타이밍이 중요해."
+    },
+    {
+     "title": "심각한 피해·Ⅱ",
+     "text": "방심했어."
+    },
+    {
+     "title": "출전·Ⅰ",
+     "text": "응, 맡겨줘."
+    },
+    {
+     "title": "출전·Ⅱ",
+     "text": "이번엔 뭘 하지?"
+    },
+    {
+     "title": "협동기·Ⅰ",
+     "text": "흔적 감정, 간파!"
+    },
+    {
+     "title": "협동기·Ⅱ",
+     "text": "아크 라이트!"
+    },
+    {
+     "title": "협동기·Ⅲ",
+     "text": "사라져라!"
+    },
+    {
+     "title": "글라이딩·Ⅰ",
+     "text": "바로 이 방향이야."
+    },
+    {
+     "title": "글라이딩·Ⅱ",
+     "text": "바람이 딱 좋아."
+    },
+    {
+     "title": "전환·Ⅰ",
+     "text": "내가 할게."
+    },
+    {
+     "title": "전환·Ⅱ",
+     "text": "날 믿어."
+    },
+    {
+     "title": "전환·Ⅲ",
+     "text": "특이점, 내가 찾을게."
+    },
+    {
+     "title": "특수 전환·민트",
+     "text": "나한테 맡겨, 민트."
+    },
+    {
+     "title": "특수 전환·아들러",
+     "text": "부탁드립니다, 아들러 씨."
+    },
+    {
+     "title": "특수 전환·다포딜",
+     "text": "교대할게요."
+    },
+    {
+     "title": "특수 전환·호토리",
+     "text": "점장님, 일할 시간이에요."
+    },
+    {
+     "title": "특수 전환·나나리",
+     "text": "가주, 이제 가주가 나설 차례야."
+    },
+    {
+     "title": "특수 전환·에드가",
+     "text": "조심해."
+    },
+    {
+     "title": "특수 전환·사키리",
+     "text": "키로마루를 너무 굶기면 안 되지."
+    },
+    {
+     "title": "팀원 쓰러짐·호토리",
+     "text": "이 술은… 이따가 다시 마셔요."
+    },
+    {
+     "title": "팀원 쓰러짐·다포딜",
+     "text": "절대 실망시키지 않을게요."
+    },
+    {
+     "title": "팀원 쓰러짐·아들러",
+     "text": "에이본은 쉽게 지지 않아요."
+    },
+    {
+     "title": "팀원 쓰러짐·사키리",
+     "text": "끝나면 같이 집으로 돌아가자."
+    },
+    {
+     "title": "팀원 쓰러짐·나나리",
+     "text": "콜린스에는 내가 있잖아!"
+    },
+    {
+     "title": "팀원 쓰러짐·에드가",
+     "text": "걱정하지 마, 내가 처리할게."
+    },
+    {
+     "title": "팀원 쓰러짐·민트",
+     "text": "무리하지 마, 민트."
+    },
+    {
+     "title": "패링·Ⅰ",
+     "text": "나이스 타이밍."
+    },
+    {
+     "title": "패링·Ⅱ",
+     "text": "지금이야."
+    },
+    {
+     "title": "연속 극한 회피 성공·Ⅰ",
+     "text": "컨디션 최상이야."
+    },
+    {
+     "title": "연속 극한 회피 성공·Ⅱ",
+     "text": "음, 이 정도야 뭐."
+    }
+   ]
+  },
+  "zh-tw": {
+   "daily": [
+    {
+     "title": "角色突破·Ⅰ",
+     "text": "感覺很好。"
+    },
+    {
+     "title": "角色突破·Ⅱ",
+     "text": "收穫很多。"
+    },
+    {
+     "title": "角色突破·Ⅲ",
+     "text": "這個世界還有更多值得去見證。"
+    }
+   ],
+   "battle": [
+    {
+     "title": "變軌技能·Ⅰ",
+     "text": "鑒刻！"
+    },
+    {
+     "title": "變軌技能·Ⅱ",
+     "text": "接招！"
+    },
+    {
+     "title": "變軌技能·Ⅲ",
+     "text": "痕印！"
+    },
+    {
+     "title": "極軌終結·Ⅰ",
+     "text": "至此，定勝負吧。"
+    },
+    {
+     "title": "極軌終結·Ⅱ",
+     "text": "此瞬，萬數皆斷。"
+    },
+    {
+     "title": "極軌終結·Ⅲ",
+     "text": "框定，奇零盡除。"
+    },
+    {
+     "title": "收容異象·Ⅰ",
+     "text": "搞定了。"
+    },
+    {
+     "title": "收容異象·Ⅱ",
+     "text": "收容完成。"
+    },
+    {
+     "title": "泯除異象·Ⅰ",
+     "text": "委託完成。"
+    },
+    {
+     "title": "泯除異象·Ⅱ",
+     "text": "順利解決。"
+    },
+    {
+     "title": "意外收穫·Ⅰ",
+     "text": "好好收起來吧。"
+    },
+    {
+     "title": "意外收穫·Ⅱ",
+     "text": "今天似乎運氣不錯。"
+    },
+    {
+     "title": "意外收穫·Ⅲ",
+     "text": "多多益善。"
+    },
+    {
+     "title": "意外收穫·Ⅳ",
+     "text": "努力的回報。"
+    },
+    {
+     "title": "意外收穫·Ⅴ",
+     "text": "應該不用上交治安所吧。"
+    },
+    {
+     "title": "意外收穫·Ⅵ",
+     "text": "意外之喜。"
+    },
+    {
+     "title": "生命值低·Ⅰ",
+     "text": "再堅持一下。"
+    },
+    {
+     "title": "生命值低·Ⅱ",
+     "text": "還沒結束。"
+    },
+    {
+     "title": "生命值低·Ⅲ",
+     "text": "集中精神，還沒到放棄的時候。"
+    },
+    {
+     "title": "恢復生命·Ⅰ",
+     "text": "多謝支援。"
+    },
+    {
+     "title": "恢復生命·Ⅱ",
+     "text": "感覺好多了。"
+    },
+    {
+     "title": "力竭·Ⅰ",
+     "text": "奇點，沒能看清……"
+    },
+    {
+     "title": "力竭·Ⅱ",
+     "text": "抱歉，沒能……"
+    },
+    {
+     "title": "力竭·Ⅲ",
+     "text": "真相……還未……"
+    },
+    {
+     "title": "擊敗怪物·Ⅰ",
+     "text": "小事。"
+    },
+    {
+     "title": "擊敗怪物·Ⅱ",
+     "text": "奇點，在這。"
+    },
+    {
+     "title": "普通受擊·Ⅰ",
+     "text": "沒事。"
+    },
+    {
+     "title": "普通受擊·Ⅱ",
+     "text": "小心。"
+    },
+    {
+     "title": "重受擊·Ⅰ",
+     "text": "注意時機。"
+    },
+    {
+     "title": "重受擊·Ⅱ",
+     "text": "疏忽了。"
+    },
+    {
+     "title": "上陣·Ⅰ",
+     "text": "嗯，交給我吧。"
+    },
+    {
+     "title": "上陣·Ⅱ",
+     "text": "這次要做點什麼？"
+    },
+    {
+     "title": "協同技·Ⅰ",
+     "text": "鑒痕，破！"
+    },
+    {
+     "title": "協同技·Ⅱ",
+     "text": "弧光！"
+    },
+    {
+     "title": "協同技·Ⅲ",
+     "text": "消失吧！"
+    },
+    {
+     "title": "滑翔·Ⅰ",
+     "text": "合適的角度。"
+    },
+    {
+     "title": "滑翔·Ⅱ",
+     "text": "風向正好。"
+    },
+    {
+     "title": "切換·Ⅰ",
+     "text": "換我來吧。"
+    },
+    {
+     "title": "切換·Ⅱ",
+     "text": "相信我。"
+    },
+    {
+     "title": "切換·Ⅲ",
+     "text": "奇點，我會看清。"
+    },
+    {
+     "title": "特殊切換·薄荷",
+     "text": "交給我吧，薄荷。"
+    },
+    {
+     "title": "特殊切換·阿德勒",
+     "text": "麻煩了，阿德勒先生。"
+    },
+    {
+     "title": "特殊切換·達芙蒂爾",
+     "text": "換班。"
+    },
+    {
+     "title": "特殊切換·潯",
+     "text": "店長，有工作了。"
+    },
+    {
+     "title": "特殊切換·娜娜莉",
+     "text": "老大，該你上了。"
+    },
+    {
+     "title": "特殊切換·埃德嘉",
+     "text": "小心一點。"
+    },
+    {
+     "title": "特殊切換·早霧",
+     "text": "別餓壞鬼郎丸了。"
+    },
+    {
+     "title": "隊友倒下·潯",
+     "text": "這杯酒……等等再喝吧。"
+    },
+    {
+     "title": "隊友倒下·達芙蒂爾",
+     "text": "絕不辜負。"
+    },
+    {
+     "title": "隊友倒下·阿德勒",
+     "text": "伊波恩不會輕易認輸。"
+    },
+    {
+     "title": "隊友倒下·早霧",
+     "text": "結束後一起回家。"
+    },
+    {
+     "title": "隊友倒下·娜娜莉",
+     "text": "柯林斯有我在！"
+    },
+    {
+     "title": "隊友倒下·埃德嘉",
+     "text": "別擔心，我來處理。"
+    },
+    {
+     "title": "隊友倒下·薄荷",
+     "text": "別逞強，薄荷。"
+    },
+    {
+     "title": "彈反·Ⅰ",
+     "text": "時機正好。"
+    },
+    {
+     "title": "彈反·Ⅱ",
+     "text": "抓住機會。"
+    },
+    {
+     "title": "連續極限閃避成功·Ⅰ",
+     "text": "狀態很好。"
+    },
+    {
+     "title": "連續極限閃避成功·Ⅱ",
+     "text": "嗯，不算困難。"
+    }
+   ]
+  }
+ }
+}

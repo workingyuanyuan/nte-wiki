@@ -18,7 +18,7 @@ It needs no token and changes no page. It reads the English pages only: the othe
 | Game data versions after the one the pages cite: HEAD requests for `static.nanoka.cc/nte/<version>/character.json`, three patch numbers and the next minor version's `.0` to `.2` | The version in the pages' `sources` URLs | The pages |
 | Dates in each page's `caveat` | `lastVerified` of the page and the present (UTC+8; a date without a time counts from the end of the day) | The pages |
 
-The game text that `pipeline/` writes (archives, outfit, Arc and material descriptions) follows the game data version: its records cite the same version, so a new version is reported as above. Its Traditional Chinese text comes from everness.info, which needs a browser, so the scheduled run cannot read it; it is read again with the pipeline when the version moves.
+The game text that `pipeline/` writes (archives, voice lines, outfit, Arc and material descriptions, the anomaly pages, and the item and achievement lists) follows the game data version: its records cite the same version, so a new version is reported as above. Its Traditional Chinese text comes from everness.info where everness.info has it, which needs a browser, so the scheduled run cannot read it; it is read again with the pipeline when the version moves.
 
 Prydwen and Game8 are not watched: their pages carry no version and change every week, and they follow the patch notes, which are watched. nanoka.cc and everness.info refuse AI training and AI crawlers; the check sends six HEAD requests to nanoka.cc and keeps nothing. A version that skips a number past the candidates is not found by the probe; the patch notes notice still is.
 

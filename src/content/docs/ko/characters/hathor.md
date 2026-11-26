@@ -59,6 +59,7 @@ sources:
 | 신분 | 엘리트 배송원 |
 | 성우 | 중국어: 洪海天; 영어: Allegra Clark; 일본어: 市ノ瀬加那; 한국어: 이다은 |
 | 아카이브 | [하토르 아카이브](/ko/characters/hathor/archive/) |
+| 보이스 | [하토르 보이스](/ko/characters/hathor/voice/) |
 
 ## 획득 방법
 

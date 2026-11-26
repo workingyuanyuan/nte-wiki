@@ -64,6 +64,7 @@ sources:
 | 肩書き | E.T.D第6小隊の隊員 |
 | 声優 | 中国語：淦子齐、英語：Rick Kumazawa、日本語：小西克幸、韓国語：원종준 |
 | アーカイブ | [カオスのアーカイブ](/ja/characters/chaos/archive/) |
+| ボイス | [カオスのボイス](/ja/characters/chaos/voice/) |
 
 英語の「Chaos」は属性（闇）の名前でもある。
 

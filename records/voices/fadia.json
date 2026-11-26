@@ -1,0 +1,1747 @@
+{
+ "slug": "fadia",
+ "id": "1039",
+ "version": "1.5.4",
+ "sources": {
+  "en": "https://static.nanoka.cc/nte/1.5.4/en/character/1039.json",
+  "zh-cn": "https://static.nanoka.cc/nte/1.5.4/zh/character/1039.json",
+  "ja": "https://static.nanoka.cc/nte/1.5.4/ja/character/1039.json",
+  "ko": "https://static.nanoka.cc/nte/1.5.4/ko/character/1039.json",
+  "zh-tw": "https://everness.info/zh-Hant/espers/1039"
+ },
+ "reads": {
+  "zh-tw": "2026-11-25"
+ },
+ "lines": {
+  "en": {
+   "daily": [
+    {
+     "title": "First Meet",
+     "text": "Fadia here. As you can see, I'm currently under… probation… in this place full of rules and regulations. My intuition tells me we'll be seeing a lot of each other. Better remember me from now, or you will know…"
+    },
+    {
+     "title": "Chat: Work",
+     "text": "Missions? Investigations? …How delightful. ETD might as well work under the resident association."
+    },
+    {
+     "title": "Chat: Passerby",
+     "text": "I wonder what desires lurk beneath these mundane shells?"
+    },
+    {
+     "title": "Chat: Surveillance",
+     "text": "Heh, those Fraxinus fools… Having to pretend I don't notice them every time is quite the hassle."
+    },
+    {
+     "title": "Sunny",
+     "text": "What a blinding sun… like being watched with scorching eyes…"
+    },
+    {
+     "title": "Rainy",
+     "text": "How funny it is to see those usually prim and proper dolls all messed up, with rain dripping down their faces."
+    },
+    {
+     "title": "Cold",
+     "text": "I'm always fired up and ready to go!"
+    },
+    {
+     "title": "Hot",
+     "text": "My clothes… are sticking to me."
+    },
+    {
+     "title": "Morning Greeting",
+     "text": "Lookin' so messy, so eager to see me?"
+    },
+    {
+     "title": "Noon Greeting",
+     "text": "Care to buy me a drink? What better way to liven up the afternoon than with a little fun?"
+    },
+    {
+     "title": "Evening Greeting",
+     "text": "Since night's falling, why don't we go somewhere better suited for the dark?"
+    },
+    {
+     "title": "Good Night",
+     "text": "Hey, the night's still young, sleepy head."
+    },
+    {
+     "title": "Hobbies",
+     "text": "As long as it brings pleasure, I like it."
+    },
+    {
+     "title": "Worries",
+     "text": "If it wasn't for that watchdog, I'd be having way more fun in my missions."
+    },
+    {
+     "title": "Topic: Hypervortex",
+     "text": "Gazing face-to-face, beneath skies as beautiful as death itself… Opening everything to the infinite void, even if it means being torn apart, consumed, and cast down into that emptiness right here and now… How could anyone complain?"
+    },
+    {
+     "title": "Topic: Ghroth Island",
+     "text": "You're no stranger to that place too, aren't you? So tell me—is it a wretched prison of despair, or a sacred paradise of madness?"
+    },
+    {
+     "title": "Topic: Desires",
+     "text": "An abyss lies between all human existence, and desire is the perfect tool to shatter such isolation. Death casts shadows of fear and temptation between us—listen closely to their whispers, luring us to take risk after risk.\nThe pit of desire can never be filled, never satisfied—this affliction plagues not just you and me, but all of humanity. So tell me, what desires are you suppressing right now? Go on, show me… just a bit."
+    },
+    {
+     "title": "About Myself: Esper Abilities",
+     "text": "For this frail, decaying flesh of ours, pain is the finest feast. It lives, it thrives, and in our dizzying cruelty and trembling, it brings us ever closer to death."
+    },
+    {
+     "title": "About Myself: Popularity",
+     "text": "Well, there's no restraining their obsession!"
+    },
+    {
+     "title": "About Myself: Patience",
+     "text": "Patience from a hunter can be quite the dangerous sign… Good hunters only invest their patience in hunting… just like I do with you—Tsk tsk, got you there."
+    },
+    {
+     "title": "About Baicang",
+     "text": "Always acting like a slacker, but that guy… deep down he's a true saint."
+    },
+    {
+     "title": "About Alphard",
+     "text": "What's that snake of a woman thinking, fishing out dangerous Espers from Ghroth Island for her own use? For all we know, she might be just as dangerous as the monsters on that island."
+    },
+    {
+     "title": "About Skia",
+     "text": "When I don't want to hear him ramble, a little… trick… should just divert his attention enough. That dog prioritizes controlling the situation over his own thoughts and feelings."
+    },
+    {
+     "title": "About Lacrimosa",
+     "text": "Not having a care in the world must be nice… Stay innocent while you can, my sweet little Mosa."
+    },
+    {
+     "title": "About Bureau of Anomaly Control",
+     "text": "To some extent, I don't really hate this place. Compared to that chaotic grave, the so-called unshakeable rationality here merely legitimizes all transgressions and taboos under noble pretenses and facades."
+    },
+    {
+     "title": "About ETD",
+     "text": "One side faces a world that can be defined and understood, while the other faces what's denied and cursed—perhaps that's why she brought us together in the ETD-4."
+    },
+    {
+     "title": "Character Ascension I",
+     "text": "This… this pain!"
+    },
+    {
+     "title": "Character Ascension II",
+     "text": "I can see… I…"
+    },
+    {
+     "title": "Character Ascension III",
+     "text": "Clawing your way up without dignity…? Heh, what are you after?"
+    },
+    {
+     "title": "Gift Received I",
+     "text": "What's more precious than the gift… is you! ♥"
+    },
+    {
+     "title": "Gift Received II",
+     "text": "Did you give it to me because you liked it? How adorable."
+    },
+    {
+     "title": "Gift Received III",
+     "text": "Gifts symbolize affection. That means you…"
+    },
+    {
+     "title": "Gift Received IV",
+     "text": "Your L-O-V-E for me. I'll take it."
+    }
+   ],
+   "battle": [
+    {
+     "title": "Redirect Skill I",
+     "text": "Want some more?"
+    },
+    {
+     "title": "Redirect Skill II",
+     "text": "Better get used to it."
+    },
+    {
+     "title": "Redirect Skill III",
+     "text": "Attaboy."
+    },
+    {
+     "title": "Ultimate I",
+     "text": "I'll guide you."
+    },
+    {
+     "title": "Ultimate II",
+     "text": "Intimacy through pain."
+    },
+    {
+     "title": "Ultimate III",
+     "text": "Feeling satisfied?"
+    },
+    {
+     "title": "Containment I",
+     "text": "Can anomalies feel love?"
+    },
+    {
+     "title": "Containment II",
+     "text": "Perhaps a chance for redemption…?"
+    },
+    {
+     "title": "Nullification I",
+     "text": "Give me a show next time."
+    },
+    {
+     "title": "Nullification II",
+     "text": "Does it hurt?"
+    },
+    {
+     "title": "Unexpected Gains I",
+     "text": "Is that all you've got?"
+    },
+    {
+     "title": "Unexpected Gains II",
+     "text": "Looks like I'll have to make my own fun."
+    },
+    {
+     "title": "Unexpected Gains III",
+     "text": "I'm not so easily won over."
+    },
+    {
+     "title": "Unexpected Gains IV",
+     "text": "Mediocre."
+    },
+    {
+     "title": "Unexpected Gains V",
+     "text": "A little something to fill the gaps."
+    },
+    {
+     "title": "Unexpected Gains VI",
+     "text": "Who left it behind? How pitiful."
+    },
+    {
+     "title": "Low Health I",
+     "text": "A little pain won't hurt!"
+    },
+    {
+     "title": "Low Health II",
+     "text": "This… is being alive!"
+    },
+    {
+     "title": "Low Health III",
+     "text": "Life… is better when it's blazing to ashes!"
+    },
+    {
+     "title": "Heal I",
+     "text": "Aren't you worried about me?"
+    },
+    {
+     "title": "Heal II",
+     "text": "Haven't had my fill of this agony yet…"
+    },
+    {
+     "title": "Down I",
+     "text": "Such a violent display of love…"
+    },
+    {
+     "title": "Down II",
+     "text": "Haa, so this is…"
+    },
+    {
+     "title": "Down III",
+     "text": "This moment… it's slipping away…"
+    },
+    {
+     "title": "Takedown I",
+     "text": "So fragile."
+    },
+    {
+     "title": "Takedown II",
+     "text": "Broken already?"
+    },
+    {
+     "title": "Damaged I",
+     "text": "Harder."
+    },
+    {
+     "title": "Damaged II",
+     "text": "How disappointing."
+    },
+    {
+     "title": "Heavily Damaged I",
+     "text": "That's right!"
+    },
+    {
+     "title": "Heavily Damaged II",
+     "text": "I love it!"
+    },
+    {
+     "title": "Deploy I",
+     "text": "Bring them to their knees."
+    },
+    {
+     "title": "Deploy II",
+     "text": "I have no interest in weaklings."
+    },
+    {
+     "title": "Entry Attack I",
+     "text": "Don't get in my way!"
+    },
+    {
+     "title": "Entry Attack II",
+     "text": "The perfect stage."
+    },
+    {
+     "title": "Entry Attack III",
+     "text": "Waiting for me?"
+    },
+    {
+     "title": "Glide I",
+     "text": "Let's take a breather before we land."
+    },
+    {
+     "title": "Glide II",
+     "text": "Stretching helps relieve sore muscles."
+    },
+    {
+     "title": "Switch I",
+     "text": "It's about time."
+    },
+    {
+     "title": "Switch II",
+     "text": "Cutie, let the games begin."
+    },
+    {
+     "title": "Switch III",
+     "text": "Where would you like me to start hurting you?"
+    },
+    {
+     "title": "Special Switch - Skia",
+     "text": "That wasn't nearly satisfying."
+    },
+    {
+     "title": "Special Switch - Baicang",
+     "text": "That was fast. Can't say I'm surprised."
+    },
+    {
+     "title": "Special Switch - Lacrimosa",
+     "text": "Releasing… that's what I do best."
+    },
+    {
+     "title": "Special Switch - Mint",
+     "text": "The best treats should be enjoyed while they're warm."
+    },
+    {
+     "title": "Teammate Down - Skia",
+     "text": "Everyone should protect animals."
+    },
+    {
+     "title": "Teammate Down - Baicang",
+     "text": "Slacking off again?"
+    },
+    {
+     "title": "Teammate Down - Lacrimosa",
+     "text": "Mosa, hide for a bit."
+    },
+    {
+     "title": "Teammate Down - Mint",
+     "text": "Just a reminder… cats have nine lives."
+    },
+    {
+     "title": "Parry I",
+     "text": "Not enough desire!"
+    },
+    {
+     "title": "Parry II",
+     "text": "Boring."
+    },
+    {
+     "title": "Consecutive Critical Dodge Success I",
+     "text": "Look at you, always in a rush."
+    },
+    {
+     "title": "Consecutive Critical Dodge Success II",
+     "text": "Just charging forward… losing your pace."
+    }
+   ]
+  },
+  "zh-cn": {
+   "daily": [
+    {
+     "title": "初次见面",
+     "text": "法帝娅。如你所见，目前在这个满是条条框框的地方接受「禁制」。直觉告诉我，未来我们会常见面呢。第一次要是没记住我，下回可就要接受惩罚了……"
+    },
+    {
+     "title": "闲聊·工作",
+     "text": "任务？寻访调查？……可喜可贺，这么下去，E.T.D很快就能并入居民委员会了。"
+    },
+    {
+     "title": "闲聊·路人",
+     "text": "这些庸常的皮囊下，究竟藏着怎样的欲望呢？"
+    },
+    {
+     "title": "闲聊·监听",
+     "text": "呵，「白蜡树」的草包，每次我都要装作没有发现他们的样子，也是很辛苦的啊。"
+    },
+    {
+     "title": "大晴天",
+     "text": "真是刺眼的太阳，像是被灼热的视线盯着……"
+    },
+    {
+     "title": "雨天",
+     "text": "平日里像人偶一样循规蹈矩的人因为雨水打在脸上而狼狈不堪，这样的场景真是有趣呢。"
+    },
+    {
+     "title": "寒冷",
+     "text": "无论何时我可都是热火朝天的~"
+    },
+    {
+     "title": "炎热",
+     "text": "衣服——都黏在身上了。"
+    },
+    {
+     "title": "早上问候",
+     "text": "头发和衣服都没整理好，这么想见到我？"
+    },
+    {
+     "title": "中午问候",
+     "text": "不请我喝一杯么？……正因为是中午，才要找些乐子打起精神呀。"
+    },
+    {
+     "title": "傍晚问候",
+     "text": "既然天要黑了，不如去些适合晚上去的地方？"
+    },
+    {
+     "title": "晚安",
+     "text": "夜晚才刚刚开始，这就要说晚安了？"
+    },
+    {
+     "title": "爱好",
+     "text": "一切能让我感到愉悦的事情——我都喜欢。"
+    },
+    {
+     "title": "烦恼",
+     "text": "要是没有翳那只看门狗每次死盯着我，我可是会在任务里玩得更尽兴呢。"
+    },
+    {
+     "title": "话题·极漩",
+     "text": "赤裸地、面对面地凝视那东西，在和死亡一样美丽的天空中，向着无限的空虚敞开自身的一切——即便是立刻在这空虚中被撕裂、耗尽，坠落，又能有什么怨言呢？"
+    },
+    {
+     "title": "话题·格赫罗斯岛",
+     "text": "你也与那地方关系匪浅，那你说，那地方究竟是绝望卑贱的囚笼，还是迷狂神圣的乐园呢？"
+    },
+    {
+     "title": "话题·欲望",
+     "text": "人与人的存在之间横亘着一道深渊，而欲望才是摧毁这种封闭的最好手段。死亡在我们之间投射下恐惧和诱惑的鬼影，你听，是它们在窃窃私语，引诱着我们一再铤而走险。\n欲壑难平，永不满足——这是你我，更是所有人类的痼疾。那么此刻的你究竟压抑着怎样的欲望呢？稍微显露出来一些吧，没关系的~"
+    },
+    {
+     "title": "关于自己·异能",
+     "text": "对于短暂而易朽的肉体来说，疼痛是最好的饲料。它活着，它兴旺，它让人在目眩神迷的残酷和战栗中无限接近于死亡。"
+    },
+    {
+     "title": "关于自己·人气",
+     "text": "既然是「迷恋」，又怎么能够要求他们适可而止呢~"
+    },
+    {
+     "title": "关于自己·耐心",
+     "text": "猎人的耐心可是有些危险的信号，好的猎人只会为猎物付出全部的耐心，就像……我对你这样——呵呵，是玩笑哦~"
+    },
+    {
+     "title": "关于白藏",
+     "text": "总是摆出一幅吊儿郎当的模样，那家伙，骨子里可是个十足的圣人。"
+    },
+    {
+     "title": "关于艾尔菲德",
+     "text": "那个像蛇一样的女人，不惜从格赫罗斯岛捞出危险的异能者为己用，究竟在想些什么呢？说不定，她也不比格赫罗斯岛里那些怪物安全多少，谁知道呢~"
+    },
+    {
+     "title": "关于翳",
+     "text": "不想听他啰嗦的时候，只需一点「小手段」转移他的注意力就好了。比起顾及自身的想法和情绪，那只死狗总是会优先考虑控制局面。"
+    },
+    {
+     "title": "关于安魂曲",
+     "text": "什么事都不放在心上，还真是轻松呢……在能够天真的时候就尽情天真吧，可爱的，可爱的小弥撒。"
+    },
+    {
+     "title": "关于异象管理局",
+     "text": "某种程度上，我可并不讨厌这地方。跟那座无序的坟墓相比，这里所谓坚不可摧的理性，只是将一切僭越和禁忌都以崇高的名义合理化了而已。"
+    },
+    {
+     "title": "关于E.T.D",
+     "text": "一面朝向可被确定、可被理解的世界，另一面则是被否定的、被诅咒的那部分——那女人组建四队的用意，或许就是以此为据呢。"
+    },
+    {
+     "title": "角色突破·Ⅰ",
+     "text": "这份......痛楚！"
+    },
+    {
+     "title": "角色突破·Ⅱ",
+     "text": "看到了……我……"
+    },
+    {
+     "title": "角色突破·Ⅲ",
+     "text": "不顾形象地向上攀附，哈，你在索求什么？"
+    },
+    {
+     "title": "收到赠礼·Ⅰ",
+     "text": "其实，和礼物一样珍贵的……是你♥"
+    },
+    {
+     "title": "收到赠礼·Ⅱ",
+     "text": "是因为你也喜欢它，才想着送给我的吗？真可爱。"
+    },
+    {
+     "title": "收到赠礼·Ⅲ",
+     "text": "礼物是感情的具象化。所以你……？"
+    },
+    {
+     "title": "收到赠礼·IV",
+     "text": "我就收下了。你对我的——爱~"
+    }
+   ],
+   "battle": [
+    {
+     "title": "变轨技能·Ⅰ",
+     "text": "想要更多吗？"
+    },
+    {
+     "title": "变轨技能·Ⅱ",
+     "text": "要习惯哦~"
+    },
+    {
+     "title": "变轨技能·Ⅲ",
+     "text": "乖孩子。"
+    },
+    {
+     "title": "极轨终结·Ⅰ",
+     "text": "我来引导你~"
+    },
+    {
+     "title": "极轨终结·Ⅱ",
+     "text": "痛苦，是亲密的见证。"
+    },
+    {
+     "title": "极轨终结·Ⅲ",
+     "text": "你的期待，我来回应~"
+    },
+    {
+     "title": "收容异象·Ⅰ",
+     "text": "异象也能感受到「爱」么？"
+    },
+    {
+     "title": "收容异象·Ⅱ",
+     "text": "或许是一次「赎罪」的机会~"
+    },
+    {
+     "title": "泯除异象·Ⅰ",
+     "text": "下次，可要多给我一些惊喜~"
+    },
+    {
+     "title": "泯除异象·Ⅱ",
+     "text": "疼吗？"
+    },
+    {
+     "title": "意外收获·Ⅰ",
+     "text": "只有这些无聊的东西么？"
+    },
+    {
+     "title": "意外收获·Ⅱ",
+     "text": "看起来我得自己去创造些乐子了。"
+    },
+    {
+     "title": "意外收获·Ⅲ",
+     "text": "想讨好我，可没有这么简单~"
+    },
+    {
+     "title": "意外收获·Ⅳ",
+     "text": "马马虎虎。"
+    },
+    {
+     "title": "意外收获·Ⅴ",
+     "text": "可以填补某些空缺的小玩意儿。"
+    },
+    {
+     "title": "意外收获·Ⅵ",
+     "text": "谁把它给忘了？真可怜。"
+    },
+    {
+     "title": "生命值低·Ⅰ",
+     "text": "再痛一些，也没关系~"
+    },
+    {
+     "title": "生命值低·Ⅱ",
+     "text": "对，这才叫「活着」！"
+    },
+    {
+     "title": "生命值低·Ⅲ",
+     "text": "生命……破破烂烂地燃烧才好！"
+    },
+    {
+     "title": "恢复生命·Ⅰ",
+     "text": "是在担心我么？"
+    },
+    {
+     "title": "恢复生命·Ⅱ",
+     "text": "痛楚的美味，还没品尝够呢~"
+    },
+    {
+     "title": "力竭·Ⅰ",
+     "text": "还真是激烈的「爱」啊……"
+    },
+    {
+     "title": "力竭·Ⅱ",
+     "text": "哈哈哈哈，这就是……"
+    },
+    {
+     "title": "力竭·Ⅲ",
+     "text": "这瞬间……无法持续啊……"
+    },
+    {
+     "title": "击败怪物·Ⅰ",
+     "text": "脆弱的猎物。"
+    },
+    {
+     "title": "击败怪物·Ⅱ",
+     "text": "这就坏掉了？"
+    },
+    {
+     "title": "普通受击·Ⅰ",
+     "text": "用力一点。"
+    },
+    {
+     "title": "普通受击·Ⅱ",
+     "text": "有些失望呢。"
+    },
+    {
+     "title": "重受击·Ⅰ",
+     "text": "没错，就是这样！"
+    },
+    {
+     "title": "重受击·Ⅱ",
+     "text": "我很中意。"
+    },
+    {
+     "title": "上阵·Ⅰ",
+     "text": "去蹂躏那些家伙吧。"
+    },
+    {
+     "title": "上阵·Ⅱ",
+     "text": "太弱的我可没有兴趣。"
+    },
+    {
+     "title": "协同技·Ⅰ",
+     "text": "别碍事噢~"
+    },
+    {
+     "title": "协同技·Ⅱ",
+     "text": "完美的舞台。"
+    },
+    {
+     "title": "协同技·Ⅲ",
+     "text": "在等我吗~"
+    },
+    {
+     "title": "滑翔·Ⅰ",
+     "text": "落地前，就这么歇一会儿吧~"
+    },
+    {
+     "title": "滑翔·Ⅱ",
+     "text": "拉伸有助缓解肌肉酸痛~"
+    },
+    {
+     "title": "切换·Ⅰ",
+     "text": "早该到我了。"
+    },
+    {
+     "title": "切换·Ⅱ",
+     "text": "宝贝，游戏开始咯~"
+    },
+    {
+     "title": "切换·Ⅲ",
+     "text": "想要我从哪里开始疼爱？"
+    },
+    {
+     "title": "特殊切换·翳",
+     "text": "打得不够痛快呢~"
+    },
+    {
+     "title": "特殊切换·白藏",
+     "text": "这么快就轮班，是你也不意外了~"
+    },
+    {
+     "title": "特殊切换·安魂曲",
+     "text": "释放——这是我擅长的事。"
+    },
+    {
+     "title": "特殊切换·薄荷",
+     "text": "美味还需趁热享用。"
+    },
+    {
+     "title": "队友倒下·翳",
+     "text": "保护动物，人人有责。"
+    },
+    {
+     "title": "队友倒下·白藏",
+     "text": "又要偷懒去了？"
+    },
+    {
+     "title": "队友倒下·安魂曲",
+     "text": "小弥撒，先躲一会儿吧~"
+    },
+    {
+     "title": "队友倒下·薄荷",
+     "text": "提醒一下，小猫都有九条命哦。"
+    },
+    {
+     "title": "弹反·Ⅰ",
+     "text": "欲望不够！"
+    },
+    {
+     "title": "弹反·Ⅱ",
+     "text": "无趣。"
+    },
+    {
+     "title": "连续极限闪避成功·Ⅰ",
+     "text": "瞧你，又急。"
+    },
+    {
+     "title": "连续极限闪避成功·Ⅱ",
+     "text": "一味进攻……乱了手脚呢。"
+    }
+   ]
+  },
+  "ja": {
+   "daily": [
+    {
+     "title": "初対面",
+     "text": "ファルディーヤよ。見ての通り、今は四角四面なE.T.D所属。まったく、どっちが取り締まられているのやら…ただの直感だけど、これからはよく会うことになりそう。次に会ったとき、私を覚えてくれてなかったら、お仕置きよ…"
+    },
+    {
+     "title": "雑談-仕事",
+     "text": "任務？聞き取り調査？…よかったわね。E.T.Dは、いつから自治会の下部組織になったのかしら。"
+    },
+    {
+     "title": "雑談-通りすがりの人",
+     "text": "その平凡な仮面の下に、一体どんな欲望が隠されてるの？"
+    },
+    {
+     "title": "雑談-傍受",
+     "text": "フン、また「トネリコ」のポンコツ？毎度毎度、見ていないフリをするのも結構大変なのよ。"
+    },
+    {
+     "title": "快晴",
+     "text": "本当に眩しい太陽。熱い視線を感じるわ…"
+    },
+    {
+     "title": "雨",
+     "text": "普段はカラクリ人形みたいに踊らされてる人間が、面に雨粒が落ちてきたくらいで狼狽える。そういう光景、本当面白いわ。"
+    },
+    {
+     "title": "寒い",
+     "text": "私はいつでもホットでスパイシーよ。"
+    },
+    {
+     "title": "灼熱",
+     "text": "服が…肌にべったり。"
+    },
+    {
+     "title": "朝の挨拶",
+     "text": "髪も服も乱れたままで…そんなに私に会いたかったの？"
+    },
+    {
+     "title": "昼の挨拶",
+     "text": "1杯奢ってくれないの？…昼間だからこそ、ちょっとした楽しみで景気づけないと。"
+    },
+    {
+     "title": "夕方の挨拶",
+     "text": "もうこんな時間。せっかくだから、夜に相応しい場所に行きましょ？"
+    },
+    {
+     "title": "おやすみ",
+     "text": "もうおやすみを言う時間なの？夜はまだ始まったばかりじゃない。"
+    },
+    {
+     "title": "趣味",
+     "text": "私を楽しませてくれること…全部大好きよ。"
+    },
+    {
+     "title": "悩み",
+     "text": "翳が番犬みたくいっつも見張っていなかったら、任務ももっと楽しめるんだけどね。"
+    },
+    {
+     "title": "話題-スパイラ",
+     "text": "あのモノを赤裸々に真っ直ぐ凝視する。死のような美しい空の下、無限の空虚に向かって自己の全てをさらけ出す。今この場でその虚しさに引き裂かれ、燃やされ尽くし、堕とされたとしても、本望ってものじゃない？"
+    },
+    {
+     "title": "話題-グーへロス島",
+     "text": "あそことは関わりが深いんでしょ？だから教えて。あそこは欲望にまみれた卑しい檻？それとも、神聖に酔いしれた楽園なの？"
+    },
+    {
+     "title": "話題-欲望",
+     "text": "人と人の間には深い溝がある。それを一番手っ取り早く埋めてくれるのが欲望なんだけど、そこにもまた恐怖と誘惑の影がある。次から次へと危険をそそのかす死神の落とす影がある。欲望が満たされることなんてない。それはあなたや私だけじゃなく、すべての人間の病なの。というわけで、あなたが今抑えている欲望はどんなのかしら？ちょっと私に見せてよ。"
+    },
+    {
+     "title": "自分について-異能",
+     "text": "儚く腐りやすい肉体にとって、痛みこそ一番の餌よ。生きて、栄えて、目もくらむほどの残酷さと恐ろしさで、死への漸近線を描くの。"
+    },
+    {
+     "title": "自分について-人気",
+     "text": "「魅了」されちゃったのなら、ほどほどに、なんて言えないよね。"
+    },
+    {
+     "title": "自分について-我慢強さ",
+     "text": "根気強いハンターには要注意よ。いいハンターっていうのは、その根気をすべて獲物にぶつけるものだから。たとえるなら…私のこのアプローチみたいな？…ふふ、冗談。"
+    },
+    {
+     "title": "白蔵について",
+     "text": "いつもちゃらんぽらんなふりしてるけど、あの人は真の聖人だよ。"
+    },
+    {
+     "title": "アルフェードについて",
+     "text": "あの蛇女、わざわざグーへロス島から危険な異能者を連れてきて自分の部下にするなんて、一体何を考えてるのかねぇ。ひょっとして、あの女の方がもっととんでもない化け物だったりして。知らないけど。"
+    },
+    {
+     "title": "翳について",
+     "text": "あのクソ犬がゴチャゴチャとウザいときに、意識を逸らす「小技」っていうのがあるんだよね。あいつは自分の考えや感情より、その場のことを優先するタイプだから。"
+    },
+    {
+     "title": "レクイエムについて",
+     "text": "何も気にしないのが一番楽よね…無邪気でいられるうちは、存分に無邪気でいなさい。私の可愛いミサちゃん。"
+    },
+    {
+     "title": "異象管理局について",
+     "text": "ある意味、私はここが嫌いじゃない。あの無秩序な墓場と比べて、ここには壊すことのできない理性っていうのがある。ま、言っても、あらゆる傲慢や禁忌を、大義名分で合理化してるだけだけど。"
+    },
+    {
+     "title": "E.T.Dについて",
+     "text": "周りから認められて、理解されたいと思う一方で、否定されて、忌み嫌われる面も残っている…あの女が第4小隊を作った理由も、そんなところかしら。"
+    },
+    {
+     "title": "キャラ突破Ⅰ",
+     "text": "この…痛み！"
+    },
+    {
+     "title": "キャラ突破Ⅱ",
+     "text": "私が…見えた…"
+    },
+    {
+     "title": "キャラ突破Ⅲ",
+     "text": "そこまでして、這い上がりたいの？"
+    },
+    {
+     "title": "届けられたギフトⅠ",
+     "text": "実はね、プレゼントと同じくらい欲しいのは…「あ・な・た」♥"
+    },
+    {
+     "title": "届けられたギフトⅡ",
+     "text": "あら、あなたもこれが好きだから、私に贈ろうと思ったの？可愛いとこあるじゃない。"
+    },
+    {
+     "title": "届けられたギフトⅢ",
+     "text": "贈り物は「感情の具現化」。つまり、あなたは私に…そういうことね？"
+    },
+    {
+     "title": "届けられたギフトⅣ",
+     "text": "受け取っておくわね。\n私への――「あ・い」"
+    }
+   ],
+   "battle": [
+    {
+     "title": "バイレールスキルⅠ",
+     "text": "もっとほしいの？"
+    },
+    {
+     "title": "バイレールスキルⅡ",
+     "text": "慣れが必要よ。"
+    },
+    {
+     "title": "バイレールスキルⅢ",
+     "text": "いい子ね。"
+    },
+    {
+     "title": "EXレール終結Ⅰ",
+     "text": "私が導いてあげる。"
+    },
+    {
+     "title": "EXレール終結Ⅱ",
+     "text": "痛みは親しみの印。"
+    },
+    {
+     "title": "EXレール終結Ⅲ",
+     "text": "期待には応えるわ。"
+    },
+    {
+     "title": "異象収容Ⅰ",
+     "text": "異象も「愛」を感じるの？"
+    },
+    {
+     "title": "異象収容Ⅱ",
+     "text": "これって、「罪を償う」なのかしらねぇ。"
+    },
+    {
+     "title": "異象排除Ⅰ",
+     "text": "次はもっといいサプライズをよろしくね。"
+    },
+    {
+     "title": "異象排除Ⅱ",
+     "text": "痛い？"
+    },
+    {
+     "title": "意外な収穫Ⅰ",
+     "text": "こういうつまらないものしかないの？"
+    },
+    {
+     "title": "意外な収穫Ⅱ",
+     "text": "どうやら、お楽しみは自分で見つけろってことね。"
+    },
+    {
+     "title": "意外な収穫Ⅲ",
+     "text": "私の機嫌を取るのは、そんなに簡単じゃないわよ。"
+    },
+    {
+     "title": "意外な収穫Ⅳ",
+     "text": "まあまあね。"
+    },
+    {
+     "title": "意外な収穫Ⅴ",
+     "text": "このオモチャ、何に使おっか。"
+    },
+    {
+     "title": "意外な収穫Ⅵ",
+     "text": "誰に捨て去られたの？可哀想。"
+    },
+    {
+     "title": "低HPⅠ",
+     "text": "もっと痛くしてもかまわないわ。"
+    },
+    {
+     "title": "低HPⅡ",
+     "text": "そう、これよ！「生きてる」実感！"
+    },
+    {
+     "title": "低HPⅢ",
+     "text": "ボロボロに爛れた命こそ…最高に美しい！"
+    },
+    {
+     "title": "HP回復Ⅰ",
+     "text": "私を心配してるの？"
+    },
+    {
+     "title": "HP回復Ⅱ",
+     "text": "痛みの味、まだまだ味わいたいわ。"
+    },
+    {
+     "title": "力尽きⅠ",
+     "text": "激しい「愛」だったわね…"
+    },
+    {
+     "title": "力尽きⅡ",
+     "text": "あはははは、これは…"
+    },
+    {
+     "title": "力尽きⅢ",
+     "text": "この瞬間は…長く続かないね…"
+    },
+    {
+     "title": "敵を撃破Ⅰ",
+     "text": "脆い獲物ね。"
+    },
+    {
+     "title": "敵を撃破Ⅱ",
+     "text": "もう壊れちゃったの？"
+    },
+    {
+     "title": "ダメージを受ける（通常）Ⅰ",
+     "text": "もっと強くして。"
+    },
+    {
+     "title": "ダメージを受ける（通常）Ⅱ",
+     "text": "ちょっとがっかりね。"
+    },
+    {
+     "title": "大打撃Ⅰ",
+     "text": "つまりそういうことだ！"
+    },
+    {
+     "title": "大打撃Ⅱ",
+     "text": "気に入った！"
+    },
+    {
+     "title": "出撃Ⅰ",
+     "text": "さぁ、蹂躙しようか。"
+    },
+    {
+     "title": "出撃Ⅱ",
+     "text": "弱っちいやつには興味ないの。"
+    },
+    {
+     "title": "コンビスキルⅠ",
+     "text": "邪魔しないでね。"
+    },
+    {
+     "title": "コンビスキルⅡ",
+     "text": "素晴らしい舞台だわ。"
+    },
+    {
+     "title": "コンビスキルⅢ",
+     "text": "あら、私を待っていてくれたの～？"
+    },
+    {
+     "title": "滑空Ⅰ",
+     "text": "飛んでるついでに、ひと休みしましょ～。"
+    },
+    {
+     "title": "滑空Ⅱ",
+     "text": "こうやって伸ばすと、体も楽になるの。"
+    },
+    {
+     "title": "切替Ⅰ",
+     "text": "私の出番かしらねぇ。"
+    },
+    {
+     "title": "切替Ⅱ",
+     "text": "かわいこちゃん、ゲームはもう始まったわよ。"
+    },
+    {
+     "title": "切替Ⅲ",
+     "text": "さあ、どこから可愛がってほしい？"
+    },
+    {
+     "title": "特殊切替・翳",
+     "text": "もっと、力を込めてよ～。"
+    },
+    {
+     "title": "特殊切替・白蔵",
+     "text": "もう退場？ま、あなたらしいわね～。"
+    },
+    {
+     "title": "特殊切替・レクイエム",
+     "text": "放出…うふふ、私の得意分野だわ。"
+    },
+    {
+     "title": "特殊切替・ミント",
+     "text": "熱いうちに食べなくちゃ。"
+    },
+    {
+     "title": "仲間気絶・翳",
+     "text": "動物さんは、愛護対象だもの。"
+    },
+    {
+     "title": "仲間気絶・白蔵",
+     "text": "またサボり？"
+    },
+    {
+     "title": "仲間気絶・レクイエム",
+     "text": "いいわよ。ミサちゃん、休んでて。"
+    },
+    {
+     "title": "仲間気絶・ミント",
+     "text": "猫って、九つの命があるの。だから大丈夫。"
+    },
+    {
+     "title": "パリィⅠ",
+     "text": "もっと、欲望を！"
+    },
+    {
+     "title": "パリィⅡ",
+     "text": "くだらない。"
+    },
+    {
+     "title": "連続極限回避成功Ⅰ",
+     "text": "ほら、焦らないで。"
+    },
+    {
+     "title": "連続極限回避成功Ⅱ",
+     "text": "そんなに貪ろうとすると、本末転倒よ。"
+    }
+   ]
+  },
+  "ko": {
+   "daily": [
+    {
+     "title": "첫 만남",
+     "text": "파디아야. 보다시피, 고루한 규율로 가득한 이곳에서 「억압」받고 있지. 내 직감대로라면 우린 앞으로 자주 보게 될 거야. 다음에 날 기억하지 못하면, 벌을 주겠어…"
+    },
+    {
+     "title": "대화·업무",
+     "text": "임무? 조사 의뢰…? 어머 기뻐라, E.T.D가 주민위원회에 합병되는 날도 머지않았겠는걸."
+    },
+    {
+     "title": "대화·행인",
+     "text": "그 평범한 껍데기 아래, 과연 어떤 욕망이 숨어 있으려나?"
+    },
+    {
+     "title": "대화·감시",
+     "text": "흥, 「물푸레나무」 애송이들. 매번 못 본 척 연기하기도 피곤하다니까."
+    },
+    {
+     "title": "맑은 날",
+     "text": "눈부신 햇살이네, 나를 따라다니는 뜨거운 시선처럼…"
+    },
+    {
+     "title": "비 오는 날",
+     "text": "평소에는 인형처럼 말 잘 듣던 사람이 비에 젖어 엉망이 된 모습이라니, 재미있네."
+    },
+    {
+     "title": "추운 날",
+     "text": "난 언제나 뜨겁게 타오른다고~"
+    },
+    {
+     "title": "더운 날",
+     "text": "옷이… 전부 달라붙어 버렸네."
+    },
+    {
+     "title": "아침 인사",
+     "text": "머리랑 옷도 엉망인데, 내가 그렇게 보고 싶었어?"
+    },
+    {
+     "title": "점심 인사",
+     "text": "한잔 사줄래…? 낮이니까 더더욱 기분 전환해야지."
+    },
+    {
+     "title": "저녁 인사",
+     "text": "곧 해도 질 텐데, 밤과 어울리는 곳으로 가는 건 어때?"
+    },
+    {
+     "title": "취침 인사",
+     "text": "밤은 이제 막 시작인데, 벌써 안녕이라니?"
+    },
+    {
+     "title": "취미",
+     "text": "나를 기쁘게 하는 거라면… 뭐든지 좋아."
+    },
+    {
+     "title": "고민",
+     "text": "스키아 그 와치 독스가 날 죽일 듯이 감시하지만 않았어도, 임무를 더 즐길 수 있었을 텐데."
+    },
+    {
+     "title": "주제·사이클론",
+     "text": "벌거벗은 채로, 똑바로 응시하며, 죽음과도 같이 아름다운 하늘 속에서, 무한한 공허를 향해 나의 모든 것을 열어젖힌다면… 설령 공허 속에서 찢기고, 소진되고, 추락하더라도, 원망하지 않아."
+    },
+    {
+     "title": "주제·게흐로스 섬",
+     "text": "너 역시 그곳과 연이 깊지. 말해봐, 그곳은 절망적이고 비열한 감옥일까, 아니면 광기 어린 신성한 낙원일까?"
+    },
+    {
+     "title": "주제·욕망",
+     "text": "사람과 사람 사이에는 깊은 심연이 있어. 욕망은 그 폐쇄성을 무너뜨리는 최고의 수단이지. 죽음은 우리 사이에 공포와 유혹의 그림자를 드리웠어. 저 끊임없는 속삭임에 귀 기울여 봐. 우리가 파멸에 이르도록 유혹하고 있잖아?\n영원히 채워지지 않는 욕망으로 인해 괴로워하는 것, 그게 바로 우리의, 모든 인간의 고질병이지. 지금 넌 어떤 욕망을 억누르고 있을까? 살짝 드러내 봐, 괜찮아~"
+    },
+    {
+     "title": "자신·이능력에 관해",
+     "text": "덧없고 쉽게 썩어가는 육체엔, 고통이 제일 좋은 먹잇감이지. 고통은 생생하고, 번식하고, 아찔한 잔혹과 전율 속에서 죽음에 한없이 가까이 데려다 주거든."
+    },
+    {
+     "title": "자신·인기에 관해",
+     "text": "「중독」돼 버렸는데 적당히 하라는 건, 너무 잔인하잖아~?"
+    },
+    {
+     "title": "자신·인내심에 관해",
+     "text": "사냥꾼의 인내심은 위험한 거야. 좋은 사냥꾼은 사냥감을 잡기 위해서라면 모든 인내심을 쏟아붓지. 마치… 지금 내가 너한테 하는 것처럼 말이야~ 후후, 농담이야~"
+    },
+    {
+     "title": "백장에 관해",
+     "text": "언제나 시시껄렁해 보이지만, 그 녀석, 뼛속까지 성인군자라니까."
+    },
+    {
+     "title": "알파드에 관해",
+     "text": "뱀 같은 여자야. 게흐로스 섬에서 위험한 이능력자를 건져내 입맛대로 이용하는데, 대체 무슨 생각인지 모르겠어. 어쩌면, 게흐로스 섬의 괴물들보다 더 위험한 여자일지도 몰라. 누가 알겠어~"
+    },
+    {
+     "title": "스키아에 관해",
+     "text": "그 녀석의 잔소리가 지겨울 때는, 살짝 「꾀」를 써서 주의를 돌리면 돼. 자기 생각이나 감정보다 상황 통제에 진심인 녀석이거든."
+    },
+    {
+     "title": "라크리모사에 관해",
+     "text": "마음에 담아두는 게 없으니 얼마나 편하겠어… 순진할 수 있을 때 마음껏 순진하게 굴렴. 귀엽고, 사랑스러운 우리 미사."
+    },
+    {
+     "title": "이상 관리국에 관해",
+     "text": "어떤 면에서, 난 이곳이 싫지 않아. 저 무질서의 무덤에 비하면, 이곳의 절대적 이성도 결국 넘지 말아야 할 선이나 모든 금기를 고귀한 명분으로 그럴듯하게 합리화했을 뿐이야…"
+    },
+    {
+     "title": "E.T.D에 관해",
+     "text": "세상에 규정할 수 있고 이해받을 수 있는 면이 있다면 동시에 부정되고 배척당하는 면도 있는 거야… 그 여자가 4팀을 구성한 의도가, 어쩌면 이런 이유일지도 모르겠네."
+    },
+    {
+     "title": "캐릭터 돌파·Ⅰ",
+     "text": "이… 고통!"
+    },
+    {
+     "title": "캐릭터 돌파·Ⅱ",
+     "text": "맞아… 이거야…"
+    },
+    {
+     "title": "캐릭터 돌파·Ⅲ",
+     "text": "체면도 버리고 아부하는군. 하, 뭘 얻고 싶은 거지?"
+    },
+    {
+     "title": "선물 수령·Ⅰ",
+     "text": "사실, 선물만큼 소중한 건… 바로 너야♥"
+    },
+    {
+     "title": "선물 수령·Ⅱ",
+     "text": "네가 좋아하는 거라서 나한테도 선물한 거야? 귀엽긴."
+    },
+    {
+     "title": "선물 수령·Ⅲ",
+     "text": "선물은 마음의 표현이라고들 하지. 설마 너…?"
+    },
+    {
+     "title": "선물 수령·IV",
+     "text": "고맙게 받을게. 나를 향한 너의… 사랑~"
+    }
+   ],
+   "battle": [
+    {
+     "title": "바이레일 스킬·Ⅰ",
+     "text": "더 센 걸 원해?"
+    },
+    {
+     "title": "바이레일 스킬·Ⅱ",
+     "text": "익숙해지는 게 좋을 거야~"
+    },
+    {
+     "title": "바이레일 스킬·Ⅲ",
+     "text": "착하지."
+    },
+    {
+     "title": "울티메이트·Ⅰ",
+     "text": "내가 차근차근 알려줄게~"
+    },
+    {
+     "title": "울티메이트·Ⅱ",
+     "text": "고통은, 친밀함의 증거야."
+    },
+    {
+     "title": "울티메이트·Ⅲ",
+     "text": "기대를 저버릴 순 없지~"
+    },
+    {
+     "title": "이상 수용·Ⅰ",
+     "text": "이상도 「사랑」을 느낄 수 있으려나?"
+    },
+    {
+     "title": "이상 수용·Ⅱ",
+     "text": "「속죄」의 기회일 수도 있지~"
+    },
+    {
+     "title": "이상 제거·Ⅰ",
+     "text": "다음엔, 날 놀라게 해달라고~"
+    },
+    {
+     "title": "이상 제거·Ⅱ",
+     "text": "아파?"
+    },
+    {
+     "title": "뜻밖의 수확·Ⅰ",
+     "text": "시시한 것들뿐이네."
+    },
+    {
+     "title": "뜻밖의 수확·Ⅱ",
+     "text": "아무래도 재미는 내가 직접 만들어야겠어."
+    },
+    {
+     "title": "뜻밖의 수확·Ⅲ",
+     "text": "나를 만족시키는 건, 쉽지 않을걸~"
+    },
+    {
+     "title": "뜻밖의 수확·Ⅳ",
+     "text": "그럭저럭."
+    },
+    {
+     "title": "뜻밖의 수확·Ⅴ",
+     "text": "빈 공간을 메워줄 작은 물건이네."
+    },
+    {
+     "title": "뜻밖의 수확·Ⅵ",
+     "text": "누가 잊어버린 거지? 가엾어라."
+    },
+    {
+     "title": "HP 낮음·Ⅰ",
+     "text": "난 좀 더 아파도 괜찮아~"
+    },
+    {
+     "title": "HP 낮음·Ⅱ",
+     "text": "그래, 이게 「살아 있는」 거지!"
+    },
+    {
+     "title": "HP 낮음·Ⅲ",
+     "text": "생명은… 너덜너덜하게 불타야 제맛이지!"
+    },
+    {
+     "title": "HP 회복·Ⅰ",
+     "text": "내가 걱정돼?"
+    },
+    {
+     "title": "HP 회복·Ⅱ",
+     "text": "고통의 희열을 아직 다 맛보지 못했는걸~"
+    },
+    {
+     "title": "탈진·Ⅰ",
+     "text": "정말 격렬한 「사랑」이었어…"
+    },
+    {
+     "title": "탈진·Ⅱ",
+     "text": "하하하하, 바로 이거야…"
+    },
+    {
+     "title": "탈진·Ⅲ",
+     "text": "이 순간이 영원할 순 없겠지…"
+    },
+    {
+     "title": "몬스터 처치·Ⅰ",
+     "text": "나약한 사냥감이었어."
+    },
+    {
+     "title": "몬스터 처치·Ⅱ",
+     "text": "벌써 나가떨어진 건가?"
+    },
+    {
+     "title": "일반 피격·Ⅰ",
+     "text": "더 세게."
+    },
+    {
+     "title": "일반 피격·Ⅱ",
+     "text": "실망인걸."
+    },
+    {
+     "title": "심각한 피해·Ⅰ",
+     "text": "맞아, 바로 이거야!"
+    },
+    {
+     "title": "심각한 피해·Ⅱ",
+     "text": "만족스러워."
+    },
+    {
+     "title": "출전·Ⅰ",
+     "text": "놈들을 짓밟아 버리자고."
+    },
+    {
+     "title": "출전·Ⅱ",
+     "text": "나약한 건 관심 없어."
+    },
+    {
+     "title": "협동기·Ⅰ",
+     "text": "방해하지 마~"
+    },
+    {
+     "title": "협동기·Ⅱ",
+     "text": "완벽한 무대네."
+    },
+    {
+     "title": "협동기·Ⅲ",
+     "text": "날 기다리고 있었어~?"
+    },
+    {
+     "title": "글라이딩·Ⅰ",
+     "text": "착지하기 전에 잠깐 이렇게 쉬자~"
+    },
+    {
+     "title": "글라이딩·Ⅱ",
+     "text": "스트레칭은 근육통을 해소시켜 준단다~"
+    },
+    {
+     "title": "전환·Ⅰ",
+     "text": "진작 내 차례였어야 해."
+    },
+    {
+     "title": "전환·Ⅱ",
+     "text": "자기, 게임 시작됐어~"
+    },
+    {
+     "title": "전환·Ⅲ",
+     "text": "어디부터 예뻐해 줄까?"
+    },
+    {
+     "title": "특수 전환·스키아",
+     "text": "영 시시한걸~"
+    },
+    {
+     "title": "특수 전환·백장",
+     "text": "이렇게 빨리 교대라니, 너라면 놀랍지도 않아~"
+    },
+    {
+     "title": "특수 전환·라크리모사",
+     "text": "분출… 내가 잘하는 일이지."
+    },
+    {
+     "title": "특수 전환·민트",
+     "text": "맛있는 건 식기 전에 먹어야 한단다."
+    },
+    {
+     "title": "팀원 쓰러짐·스키아",
+     "text": "동물 보호는 우리 모두의 의무야."
+    },
+    {
+     "title": "팀원 쓰러짐·백장",
+     "text": "또 땡땡이야?"
+    },
+    {
+     "title": "팀원 쓰러짐·라크리모사",
+     "text": "미사, 잠깐 숨어 있어~"
+    },
+    {
+     "title": "팀원 쓰러짐·민트",
+     "text": "경고하는데 고양이는 목숨이 아홉 개야."
+    },
+    {
+     "title": "패링·Ⅰ",
+     "text": "욕망이 부족해!"
+    },
+    {
+     "title": "패링·Ⅱ",
+     "text": "재미없어."
+    },
+    {
+     "title": "연속 극한 회피 성공·Ⅰ",
+     "text": "봐, 또 덤벙대잖아."
+    },
+    {
+     "title": "연속 극한 회피 성공·Ⅱ",
+     "text": "거봐, 공격에만 집착하니… 손발이 꼬였잖아."
+    }
+   ]
+  },
+  "zh-tw": {
+   "daily": [
+    {
+     "title": "初次見面",
+     "text": "法帝婭。如你所見，目前在這個充滿限制的地方接受「禁制」。直覺告訴我，未來我們會常見面呢。第一次要是沒記住我，下回可就要接受懲罰了……"
+    },
+    {
+     "title": "閒聊·工作",
+     "text": "任務？尋訪調查？……可喜可賀，這麼下去，E.T.D很快就能併入居民委員會了。"
+    },
+    {
+     "title": "閒聊·路人",
+     "text": "這些平凡的皮囊下，究竟藏著怎樣的慾望呢？"
+    },
+    {
+     "title": "閒聊·監聽",
+     "text": "呵，「白蠟樹」的草包，每次我都要裝作沒有發現他們的樣子，也是很辛苦的啊。"
+    },
+    {
+     "title": "大晴天",
+     "text": "真是刺眼的太陽，像是被灼熱的視線盯著……"
+    },
+    {
+     "title": "雨天",
+     "text": "平日裡像人偶一樣循規蹈矩的人因為雨水打在臉上而狼狽不堪，這樣的場景真是有趣呢。"
+    },
+    {
+     "title": "寒冷",
+     "text": "無論何時我可都是熱情洋溢的~"
+    },
+    {
+     "title": "炎熱",
+     "text": "衣服——都黏在身上了。"
+    },
+    {
+     "title": "早上問候",
+     "text": "頭髮和衣服都沒整理好，這麼想見到我？"
+    },
+    {
+     "title": "中午問候",
+     "text": "不請我喝一杯嗎？……正因為是中午，才要找些樂子打起精神呀。"
+    },
+    {
+     "title": "傍晚問候",
+     "text": "既然天要黑了，不如去些適合晚上去的地方？"
+    },
+    {
+     "title": "晚安",
+     "text": "夜晚才剛剛開始，這就要說晚安了？"
+    },
+    {
+     "title": "愛好",
+     "text": "一切能讓我感到愉悅的事情——我都喜歡。"
+    },
+    {
+     "title": "煩惱",
+     "text": "要是沒有翳那隻看門狗每次死盯著我，我可是會在任務裡玩得更盡興呢。"
+    },
+    {
+     "title": "話題·極漩",
+     "text": "赤裸地、面對面地凝視那東西，在和死亡一樣美麗的天空中，向著無限的空虛敞開自身的一切——即便是立刻在這空虛中被撕裂、耗盡，墜落，又能有什麼怨言呢？"
+    },
+    {
+     "title": "話題·格赫羅斯島",
+     "text": "你也與那地方關係匪淺，那你說，那地方究竟是絕望卑賤的囚籠，還是迷狂神聖的樂園呢？"
+    },
+    {
+     "title": "話題·慾望",
+     "text": "人與人的存在之間橫亙著一道深淵，而慾望才是摧毀這種封閉的最好手段。死亡在我們之間投射下恐懼和誘惑的鬼影，你聽，是它們在竊竊私語，引誘著我們一再鋌而走險。\n欲壑難平，永不滿足——這是你我，更是所有人類的痼疾。那麼此刻的你究竟壓抑著怎樣的慾望呢？稍微顯露出來一些吧，沒關係的~"
+    },
+    {
+     "title": "關於自己·異能",
+     "text": "對於短暫而易朽的肉體來說，疼痛是最好的飼料。它活著，它興旺，它讓人在目眩神迷的殘酷和戰慄中無限接近於死亡。"
+    },
+    {
+     "title": "關於自己·人氣",
+     "text": "既然是「迷戀」，又怎麼能夠要求他們適可而止呢~"
+    },
+    {
+     "title": "關於自己·耐心",
+     "text": "獵人的耐心可是有些危險的訊號，好的獵人只會為獵物付出全部的耐心，就像……我對你這樣——呵呵，是玩笑哦~"
+    },
+    {
+     "title": "關於白藏",
+     "text": "總是擺出一幅很屌的模樣，那傢伙，骨子裡可是個十足的聖人。"
+    },
+    {
+     "title": "關於艾爾菲德",
+     "text": "那個像蛇一樣的女人，不惜從格赫羅斯島撈出危險的異能者為己用，究竟在想些什麼呢？說不定，她也不比格赫羅斯島裡那些怪物安全多少，誰知道呢~"
+    },
+    {
+     "title": "關於翳",
+     "text": "不想聽他囉嗦的時候，只需一點「小手段」轉移他的注意力就好了。比起顧及自身的想法和情緒，那隻死狗總是會優先考慮控制局面。"
+    },
+    {
+     "title": "關於安魂曲",
+     "text": "什麼事都不放在心上，還真是輕鬆呢……在能夠天真的時候就盡情天真吧，可愛的，可愛的小彌撒。"
+    },
+    {
+     "title": "關於異象管理局",
+     "text": "某種程度上，我可並不討厭這地方。跟那座無序的墳墓相比，這裡所謂堅不可摧的理性，只是將一切僭越和禁忌都以崇高的名義合理化了而已。"
+    },
+    {
+     "title": "關於E.T.D",
+     "text": "一面朝向可被確定、可被理解的世界，另一面則是被否定的、被詛咒的那部分——那女人組建四隊的用意，或許就是以此為據呢。"
+    },
+    {
+     "title": "角色突破·Ⅰ",
+     "text": "這份......痛楚！"
+    },
+    {
+     "title": "角色突破·Ⅱ",
+     "text": "看到了……我……"
+    },
+    {
+     "title": "角色突破·Ⅲ",
+     "text": "不顧形象地向上攀附，哈哈，你在索求什麼？"
+    },
+    {
+     "title": "收到贈禮·Ⅰ",
+     "text": "其實，和禮物一樣珍貴的……是你♥"
+    },
+    {
+     "title": "收到贈禮·Ⅱ",
+     "text": "是因為你也喜歡它，才想著送給我的嗎？真可愛。"
+    },
+    {
+     "title": "收到贈禮·Ⅲ",
+     "text": "禮物是感情的具象化。所以你……？"
+    },
+    {
+     "title": "收到贈禮·IV",
+     "text": "我就收下了。你對我的——愛~"
+    }
+   ],
+   "battle": [
+    {
+     "title": "變軌技能·Ⅰ",
+     "text": "想要更多嗎？"
+    },
+    {
+     "title": "變軌技能·Ⅱ",
+     "text": "要習慣哦~"
+    },
+    {
+     "title": "變軌技能·Ⅲ",
+     "text": "乖孩子。"
+    },
+    {
+     "title": "極軌終結·Ⅰ",
+     "text": "我來引導你~"
+    },
+    {
+     "title": "極軌終結·Ⅱ",
+     "text": "痛苦，是親密的見證。"
+    },
+    {
+     "title": "極軌終結·Ⅲ",
+     "text": "你的期待，我來回應~"
+    },
+    {
+     "title": "收容異象·Ⅰ",
+     "text": "異象也能感受到「愛」嗎？"
+    },
+    {
+     "title": "收容異象·Ⅱ",
+     "text": "或許是一次「贖罪」的機會~"
+    },
+    {
+     "title": "泯除異象·Ⅰ",
+     "text": "下次，可要多給我一些驚喜~"
+    },
+    {
+     "title": "泯除異象·Ⅱ",
+     "text": "痛嗎？"
+    },
+    {
+     "title": "意外收穫·Ⅰ",
+     "text": "只有這些無聊的東西嗎？"
+    },
+    {
+     "title": "意外收穫·Ⅱ",
+     "text": "看起來我得自己去創造些樂趣了。"
+    },
+    {
+     "title": "意外收穫·Ⅲ",
+     "text": "想討好我，可沒有這麼簡單~"
+    },
+    {
+     "title": "意外收穫·Ⅳ",
+     "text": "馬馬虎虎。"
+    },
+    {
+     "title": "意外收穫·Ⅴ",
+     "text": "可以填補某些空缺的小東西。"
+    },
+    {
+     "title": "意外收穫·Ⅵ",
+     "text": "誰把它給忘了？真可憐。"
+    },
+    {
+     "title": "生命值低·Ⅰ",
+     "text": "再痛一些，也沒關係~"
+    },
+    {
+     "title": "生命值低·Ⅱ",
+     "text": "對，這才叫「活著」！"
+    },
+    {
+     "title": "生命值低·Ⅲ",
+     "text": "生命……破破爛爛地燃燒才好！"
+    },
+    {
+     "title": "恢復生命·Ⅰ",
+     "text": "是在擔心我嗎？"
+    },
+    {
+     "title": "恢復生命·Ⅱ",
+     "text": "痛楚的美味，還沒品嘗夠呢~"
+    },
+    {
+     "title": "力竭·Ⅰ",
+     "text": "還真是激烈的「愛」啊……"
+    },
+    {
+     "title": "力竭·Ⅱ",
+     "text": "哈哈哈哈，這就是……"
+    },
+    {
+     "title": "力竭·Ⅲ",
+     "text": "這瞬間……無法持續啊……"
+    },
+    {
+     "title": "擊敗怪物·Ⅰ",
+     "text": "脆弱的獵物。"
+    },
+    {
+     "title": "擊敗怪物·Ⅱ",
+     "text": "這就壞掉了？"
+    },
+    {
+     "title": "普通受擊·Ⅰ",
+     "text": "用力一點。"
+    },
+    {
+     "title": "普通受擊·Ⅱ",
+     "text": "有些失望呢。"
+    },
+    {
+     "title": "重受擊·Ⅰ",
+     "text": "沒錯，就是這樣！"
+    },
+    {
+     "title": "重受擊·Ⅱ",
+     "text": "我很喜歡。"
+    },
+    {
+     "title": "上陣·Ⅰ",
+     "text": "去蹂躪那些傢伙吧。"
+    },
+    {
+     "title": "上陣·Ⅱ",
+     "text": "太弱的我可沒有興趣。"
+    },
+    {
+     "title": "協同技·Ⅰ",
+     "text": "別礙事哦~"
+    },
+    {
+     "title": "協同技·Ⅱ",
+     "text": "完美的舞台。"
+    },
+    {
+     "title": "協同技·Ⅲ",
+     "text": "在等我嗎~"
+    },
+    {
+     "title": "滑翔·Ⅰ",
+     "text": "落地前，就這麼休息一下吧~"
+    },
+    {
+     "title": "滑翔·Ⅱ",
+     "text": "伸展有助緩解肌肉酸痛~"
+    },
+    {
+     "title": "切換·Ⅰ",
+     "text": "早該到我了。"
+    },
+    {
+     "title": "切換·Ⅱ",
+     "text": "寶貝，遊戲開始囉~"
+    },
+    {
+     "title": "切換·Ⅲ",
+     "text": "想要我從哪裡開始疼愛？"
+    },
+    {
+     "title": "特殊切換·翳",
+     "text": "打得不夠痛快呢~"
+    },
+    {
+     "title": "特殊切換·白藏",
+     "text": "這麼快就輪班，是你也不意外了~"
+    },
+    {
+     "title": "特殊切換·安魂曲",
+     "text": "釋放——這是我擅長的事。"
+    },
+    {
+     "title": "特殊切換·薄荷",
+     "text": "美味還需趁熱享用。"
+    },
+    {
+     "title": "隊友倒下·翳",
+     "text": "保護動物，人人有責。"
+    },
+    {
+     "title": "隊友倒下·白藏",
+     "text": "又要偷懶去了？"
+    },
+    {
+     "title": "隊友倒下·安魂曲",
+     "text": "小彌撒，先躲一下吧~"
+    },
+    {
+     "title": "隊友倒下·薄荷",
+     "text": "提醒一下，小貓都有九條命哦。"
+    },
+    {
+     "title": "彈反·Ⅰ",
+     "text": "慾望不夠！"
+    },
+    {
+     "title": "彈反·Ⅱ",
+     "text": "無趣。"
+    },
+    {
+     "title": "連續極限閃避成功·Ⅰ",
+     "text": "瞧你，又急。"
+    },
+    {
+     "title": "連續極限閃避成功·Ⅱ",
+     "text": "一味進攻……亂了手腳呢。"
+    }
+   ]
+  }
+ }
+}

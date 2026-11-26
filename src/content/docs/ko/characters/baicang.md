@@ -60,6 +60,7 @@ sources:
 | 신분 | 이상 관리국 E.T.D 4팀 대장 |
 | 성우 | 중국어: 桑毓泽; 영어: Griffin Burns; 일본어: 中村悠一; 한국어: 심규혁 |
 | 아카이브 | [백장 아카이브](/ko/characters/baicang/archive/) |
+| 보이스 | [백장 보이스](/ko/characters/baicang/voice/) |
 
 ## 획득 방법
 

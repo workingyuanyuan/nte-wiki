@@ -72,6 +72,7 @@ sources:
 | Arc type | Solid |
 | Joined | Version 1.0 |
 | Voice actors | Chinese: 马洋; English: Hunter McCoy; Japanese: 内田雄馬; Korean: 박기욱 |
+| Voice lines | [Esper Zero voice lines](/characters/zero/voice/) |
 
 Zero is the player character, the Appraiser, sent by the Bureau to work at the Eibon Antique Shop without an anomaly hunter licence. Zero can be played as male or female.
 

@@ -1,0 +1,1847 @@
+{
+ "slug": "lacrimosa",
+ "id": "1004",
+ "version": "1.5.4",
+ "sources": {
+  "en": "https://static.nanoka.cc/nte/1.5.4/en/character/1004.json",
+  "zh-cn": "https://static.nanoka.cc/nte/1.5.4/zh/character/1004.json",
+  "ja": "https://static.nanoka.cc/nte/1.5.4/ja/character/1004.json",
+  "ko": "https://static.nanoka.cc/nte/1.5.4/ko/character/1004.json",
+  "zh-tw": "https://everness.info/zh-Hant/espers/1004"
+ },
+ "reads": {
+  "zh-tw": "2026-11-25"
+ },
+ "lines": {
+  "en": {
+   "daily": [
+    {
+     "title": "First Meet",
+     "text": "Hello… Mmhm… Ah. Lacrimosa, not asleep. Not asleep…"
+    },
+    {
+     "title": "Chat: Natural",
+     "text": "Uwah…! Lacrimosa… stepped on shoelace… ow. Floor, cold… comfy."
+    },
+    {
+     "title": "Chat: Insomnia",
+     "text": "In-som-nia…? Insomnia? Hmm… \"trouble sleeping\"? Eh…? Sleep is easy… just close your eyes… zzz…"
+    },
+    {
+     "title": "Chat: Manga",
+     "text": "Duke K is strong… Duke K also breaks things and gets scolded by others… just like Lacrimosa."
+    },
+    {
+     "title": "Sunny",
+     "text": "The sun… bright… Lacrimosa… going blind…"
+    },
+    {
+     "title": "Rainy",
+     "text": "It's raining. Drip, drop… so sleepy…"
+    },
+    {
+     "title": "Cold",
+     "text": "So cold… Lacrimosa… going to get bundled up again… Hm? You know… hats, gloves, scarves… fuzzy and warm…"
+    },
+    {
+     "title": "Hot",
+     "text": "Ice cream… melting… Lacrimosa… melting…"
+    },
+    {
+     "title": "Morning Greeting",
+     "text": "Appraiser, good morning. Lacrimosa, bad morning… Work, annoying."
+    },
+    {
+     "title": "Noon Greeting",
+     "text": "Work… many… Lacrimosa… hungry…"
+    },
+    {
+     "title": "Evening Greeting",
+     "text": "The sun… looks like a tomato. Round. Bright. How would it taste…?"
+    },
+    {
+     "title": "Good Night",
+     "text": "The sky is dark… Goodnight, appraiser."
+    },
+    {
+     "title": "Hobbies",
+     "text": "What do Lacrimosa like…? Hmm, being home alone is the best. No work, all sleep. When get up, Lacrimosa can eat tomato jelly, and read \"Weekly Fantasy\" until Lacrimosa get sleepy… Lacrimosa like that. Hmm… Can Lacrimosa go home now?"
+    },
+    {
+     "title": "Worries",
+     "text": "Baicang, troublemaker, Skia gets mad. Fadia, not helping, and then it gets noisier and noisier… Lacrimosa told them, \"Be kind… to the doggo…\" Baicang and Fadia laughed louder… Lacrimosa don't understand."
+    },
+    {
+     "title": "Topic: Anomalies",
+     "text": "Lacrimosa, avoid the sun. But Lacrimosa like how the sun smells… Fluffy always sunbathes and smells nice. Lacrimosa like Fluffy. Sleeping with Fluffy makes Lacrimosa happy…"
+    },
+    {
+     "title": "Topic: Tomato Timer",
+     "text": "There is this… \"tomato timer\"… and Lacrimosa wanted a taste… Doggo said, the tomato timer is not for eating… it is for working, splitting time into tomatoes… \"one tomato, two tomatoes…\"\nTomatoes… not eaten, but for work… Poor tomato, bad human."
+    },
+    {
+     "title": "Topic: Lost Items",
+     "text": "Where is… Lacrimosa's… ID card…? Oh… Behind… Flipped. Thank you, appraiser…"
+    },
+    {
+     "title": "About Myself: Esper Abilities",
+     "text": "Lacrimosa's Esper Ability… Like this… turn it into something solid, crush the bad anomaly flat, and then sleep…"
+    },
+    {
+     "title": "About Myself: Destruction",
+     "text": "Glass… Lacrimosa's enemy. Lacrimosa, always run into glass. Lizard guy said, um, replaced the glass, in the bureau. Glass, doesn't break. Lacrimosa, get hurt."
+    },
+    {
+     "title": "About Myself: Being Picky",
+     "text": "Tomatoes… Lacrimosa like tomatoes… One day, Lacrimosa will wake up from a tomato bed, and live life in a tomato castle. Other food, not needed… Maybe ice cream can stay."
+    },
+    {
+     "title": "About Alphard",
+     "text": "Director, cold, snake eyes. Director comes, work comes. Lacrimosa, not happy… but doggo says, don't make director angry."
+    },
+    {
+     "title": "About Baicang",
+     "text": "Work… glass… Baicang… bad…"
+    },
+    {
+     "title": "About Fadia",
+     "text": "Fadia, never rushes Lacrimosa to work… good… Fadia, always pinch Lacrimosa on cheeks… bad…"
+    },
+    {
+     "title": "About Skia",
+     "text": "Doggo… fluffy, nice to touch… tall, walks fast, can't keep up… but doggo crouches down when talking to Lacrimosa, so no need to look up… doggo, good."
+    },
+    {
+     "title": "About Mint",
+     "text": "Mint… always shining, easy to see… always gives the biggest hugs… warm…"
+    },
+    {
+     "title": "About Haniel",
+     "text": "\"Net Friend With A Long Name\" likes \"Duke K\" too… following updates, together, fun. But.. never met in person… Lacrimosa went to see \"Net Friend With A Long Name\" once, but failed. Lacrimosa, went out on the wrong day…"
+    },
+    {
+     "title": "About Bureau of Anomaly Control",
+     "text": "Cafeteria, out of tomato jelly, not good… but the vending machine has jelly. Lacrimosa won't go hungry… Oh, and the sofa is really comfy. It's soft… Lacrimosa can sleep on it. But can't get caught."
+    },
+    {
+     "title": "About ETD",
+     "text": "ETD… busy. Doggo… meetings. Baicang… chaos. Fadia… \"making friends\". Lacrimosa… sleeping…"
+    },
+    {
+     "title": "Character Ascension I",
+     "text": "Lacrimosa… had a nice dream."
+    },
+    {
+     "title": "Character Ascension II",
+     "text": "Lacrimosa, stronger now. Happy."
+    },
+    {
+     "title": "Character Ascension III",
+     "text": "Lacrimosa, improved?"
+    },
+    {
+     "title": "Gift Received I",
+     "text": "Lacrimosa… love, love, love it. Thank you, Appraiser."
+    },
+    {
+     "title": "Gift Received II",
+     "text": "Wow… Appraiser, genius of, sending gifts."
+    },
+    {
+     "title": "Gift Received III",
+     "text": "For Lacrimosa…? Thanks…"
+    },
+    {
+     "title": "Gift Received IV",
+     "text": "The gift, Lacrimosa, will treasure."
+    }
+   ],
+   "battle": [
+    {
+     "title": "Redirect Skill I",
+     "text": "Achoo!"
+    },
+    {
+     "title": "Redirect Skill II",
+     "text": "Go."
+    },
+    {
+     "title": "Redirect Skill III",
+     "text": "Don't run."
+    },
+    {
+     "title": "Redirect Skill IV",
+     "text": "Lacrimosa… can do this."
+    },
+    {
+     "title": "Redirect Skill V",
+     "text": "Hmm."
+    },
+    {
+     "title": "Redirect Skill VI",
+     "text": "Mm, it's you."
+    },
+    {
+     "title": "Ultimate I",
+     "text": "…Stay there."
+    },
+    {
+     "title": "Ultimate II",
+     "text": "…Lacrimosa, angry."
+    },
+    {
+     "title": "Ultimate III",
+     "text": "Let's all go home early today…"
+    },
+    {
+     "title": "Containment I",
+     "text": "Yawn… Leave, home, bed, sleep…"
+    },
+    {
+     "title": "Containment II",
+     "text": "Anomaly. Be good."
+    },
+    {
+     "title": "Nullification I",
+     "text": "Ah, it's gone."
+    },
+    {
+     "title": "Nullification II",
+     "text": "It's over. Bye bye."
+    },
+    {
+     "title": "Unexpected Gains I",
+     "text": "Uwa. What's that…?"
+    },
+    {
+     "title": "Unexpected Gains II",
+     "text": "…Hm? Who dropped this?"
+    },
+    {
+     "title": "Unexpected Gains III",
+     "text": "Found something… Ah, better give it to the team."
+    },
+    {
+     "title": "Unexpected Gains IV",
+     "text": "Can't… throw things around."
+    },
+    {
+     "title": "Unexpected Gains V",
+     "text": "Seems… useful?"
+    },
+    {
+     "title": "Unexpected Gains VI",
+     "text": "Lacrimosa, found something shiny…"
+    },
+    {
+     "title": "Low Health I",
+     "text": "Sleepy… bed…"
+    },
+    {
+     "title": "Low Health II",
+     "text": "Lacrimosa, tired…"
+    },
+    {
+     "title": "Low Health III",
+     "text": "Lacrimosa, want to rest a bit. Just a bit…"
+    },
+    {
+     "title": "Heal I",
+     "text": "Hmm… break time's over."
+    },
+    {
+     "title": "Heal II",
+     "text": "Lacrimosa, feeling energetic…"
+    },
+    {
+     "title": "Down I",
+     "text": "…Lacrimosa, falling asleep…"
+    },
+    {
+     "title": "Down II",
+     "text": "…Eyes, can't open…"
+    },
+    {
+     "title": "Down III",
+     "text": "Wake Lacrimosa up… later…"
+    },
+    {
+     "title": "Takedown I",
+     "text": "…Weird thing, fell asleep."
+    },
+    {
+     "title": "Takedown II",
+     "text": "It's quiet now…"
+    },
+    {
+     "title": "Damaged I",
+     "text": "Ah. That hurts…"
+    },
+    {
+     "title": "Damaged II",
+     "text": "Forgot to dodge…"
+    },
+    {
+     "title": "Heavily Damaged I",
+     "text": "Ugh… it hurts…"
+    },
+    {
+     "title": "Heavily Damaged II",
+     "text": "Uggh…"
+    },
+    {
+     "title": "Deploy I",
+     "text": "…Get this done and get home."
+    },
+    {
+     "title": "Deploy II",
+     "text": "Is bedtime over…?"
+    },
+    {
+     "title": "Entry Attack I",
+     "text": "Lacrimosa, helping."
+    },
+    {
+     "title": "Entry Attack II",
+     "text": "Mm… on time."
+    },
+    {
+     "title": "Entry Attack III",
+     "text": "Lacrimosa, very strong."
+    },
+    {
+     "title": "Glide I",
+     "text": "Be careful… glass."
+    },
+    {
+     "title": "Glide II",
+     "text": "No wings… so easy."
+    },
+    {
+     "title": "Switch I",
+     "text": "…Leave it to Lacrimosa."
+    },
+    {
+     "title": "Switch II",
+     "text": "Lacrimosa, can handle it."
+    },
+    {
+     "title": "Switch III",
+     "text": "Shift change… go rest now."
+    },
+    {
+     "title": "Special Switch - Baicang",
+     "text": "Baicang, be careful."
+    },
+    {
+     "title": "Special Switch - Skia",
+     "text": "Doggo, need help?"
+    },
+    {
+     "title": "Special Switch - Fadia",
+     "text": "Fadia's \"friends,\" no fun."
+    },
+    {
+     "title": "Special Switch - Mint",
+     "text": "Don't… bully Mint."
+    },
+    {
+     "title": "Teammate Down - Baicang",
+     "text": "Baicang, can't sleep yet."
+    },
+    {
+     "title": "Teammate Down - Skia",
+     "text": "Doggo, hurt?"
+    },
+    {
+     "title": "Teammate Down - Fadia",
+     "text": "Fadia, tired from playing?"
+    },
+    {
+     "title": "Teammate Down - Mint",
+     "text": "Mint… looks very tired, go rest now."
+    },
+    {
+     "title": "Parry I",
+     "text": "Right now."
+    },
+    {
+     "title": "Parry II",
+     "text": "Lacrimosa, won't lose."
+    },
+    {
+     "title": "Consecutive Critical Dodge Success I",
+     "text": "Phew, dodged them all."
+    },
+    {
+     "title": "Consecutive Critical Dodge Success II",
+     "text": "Lacrimosa… faster."
+    }
+   ]
+  },
+  "zh-cn": {
+   "daily": [
+    {
+     "title": "初次见面",
+     "text": "……你好。……唔。安魂曲，没有睡着，没有睡……"
+    },
+    {
+     "title": "闲聊·天然",
+     "text": "呜呃！鞋带，踩到了……痛。……地上，凉凉的。安魂曲，不想起来……"
+    },
+    {
+     "title": "闲聊·失眠",
+     "text": "「失眠」，什么意思？唔……「睡不着觉」？不明白。安魂曲，闭上眼，就睡着了。……。……呼……"
+    },
+    {
+     "title": "闲聊·漫画",
+     "text": "「公爵K」很厉害……但是，也会弄坏东西，被大家训。和安魂曲一样。喜欢。"
+    },
+    {
+     "title": "大晴天",
+     "text": "太阳，好刺眼……安魂曲，要闭眼了。"
+    },
+    {
+     "title": "雨天",
+     "text": "下雨了。滴答、滴答……好困……"
+    },
+    {
+     "title": "寒冷",
+     "text": "好冷……回到队里，又要被裹起来了。……嗯？就是……帽子、手套、围巾，毛茸茸……"
+    },
+    {
+     "title": "炎热",
+     "text": "冰淇淋，化掉了……安魂曲，也要化掉了……"
+    },
+    {
+     "title": "早上问候",
+     "text": "鉴定师，早上好。安魂曲的早上，不好……又要工作了，好麻烦。"
+    },
+    {
+     "title": "中午问候",
+     "text": "工作好累，肚子饿了……"
+    },
+    {
+     "title": "傍晚问候",
+     "text": "太阳，好像番茄。圆滚滚，橙色的……感觉很好吃。"
+    },
+    {
+     "title": "晚安",
+     "text": "天黑了，安魂曲要睡觉了。晚安，鉴定师。"
+    },
+    {
+     "title": "爱好",
+     "text": "安魂曲，喜欢什么……唔，一个人在家，特别好。不工作，没有人吵安魂曲睡觉。安魂曲起床了，就可以吃番茄酱。还有，可以一直看《周刊Fantasy》，看到困……喜欢。嗯……安魂曲，现在可以回家了吗？"
+    },
+    {
+     "title": "烦恼",
+     "text": "白藏，麻烦精，又让翳不开心。法帝娅不帮忙，然后，越来越吵……安魂曲想要安静，就说：「对狗狗人，要有爱心」……白藏和法帝娅一起笑，更大声……安魂曲，不明白。"
+    },
+    {
+     "title": "话题·异象",
+     "text": "安魂曲，不喜欢太阳。但是，太阳的味道……喜欢。「棉绒绒」，总是晒太阳，好闻。安魂曲，喜欢「棉绒绒」。和「棉绒绒」一起睡觉，很开心……"
+    },
+    {
+     "title": "话题·番茄钟",
+     "text": "安魂曲，听说有「番茄钟」，想尝尝，问了狗狗人。狗狗人说，「番茄钟」不是吃的东西，是把工作时间，叫「一个番茄」「两个番茄」……\n番茄不被吃掉，变成了工作的时间……番茄好可怜，人类，好坏……"
+    },
+    {
+     "title": "话题·失物",
+     "text": "工卡……又不见了……？……哦……脖子后面，找到了。大门，可以进了。谢谢你，鉴定师。"
+    },
+    {
+     "title": "关于自己·异能",
+     "text": "异能，很方便。像这样……变成结实的东西，砸扁坏异象，就可以休息了。"
+    },
+    {
+     "title": "关于自己·破坏",
+     "text": "玻璃，看不到……总是撞到，好痛。然后，蜥蜴维修员说，为安魂曲「特殊定制」了……嗯……管理局的玻璃，不会碎了，安魂曲的头，要碎了……"
+    },
+    {
+     "title": "关于自己·挑食",
+     "text": "番茄，最好了。安魂曲以后……要住在番茄城堡里，在番茄床上睡觉。其他食物，都消失吧，安魂曲，不需要……唔，冰淇淋要留下。"
+    },
+    {
+     "title": "关于艾尔菲德",
+     "text": "局长，冰冰的，蛇的眼睛。见到局长，就会有新工作。安魂曲，不开心……但狗狗人说，不可以惹局长生气。"
+    },
+    {
+     "title": "关于白藏",
+     "text": "……工作、玻璃、白藏……通通讨厌。"
+    },
+    {
+     "title": "关于法帝娅",
+     "text": "法帝娅，不催安魂曲工作，喜欢……捏安魂曲的脸，不喜欢……"
+    },
+    {
+     "title": "关于翳",
+     "text": "狗狗人，毛茸茸，很好摸……然后，个子很高，走得很快，追不上……但是，会蹲下来讲话，不用抬头。狗狗人，好。"
+    },
+    {
+     "title": "关于薄荷",
+     "text": "薄荷，亮亮的，很好认……还有，总是会抱上来，很热。"
+    },
+    {
+     "title": "关于哈尼娅",
+     "text": "「字很多网友」，也喜欢《公爵K》，一起追更，很开心。不过，没有见过面……以前，安魂曲去见「字很多网友」，但是，没见到。日期，记错了……"
+    },
+    {
+     "title": "关于异象管理局",
+     "text": "食堂，没有番茄酱，不好……但是，贩卖机有番茄酱。安魂曲，不会饿肚子。……嗯，还有，沙发可以睡觉。软软的，喜欢。但是，不可以被发现。"
+    },
+    {
+     "title": "关于E.T.D",
+     "text": "E.T.D，很忙。狗狗人，开会。白藏，捣乱。法帝娅，「交朋友」。安魂曲，睡觉……"
+    },
+    {
+     "title": "角色突破·Ⅰ",
+     "text": "安魂曲……做了好梦。"
+    },
+    {
+     "title": "角色突破·Ⅱ",
+     "text": "安魂曲，变强了，很开心……"
+    },
+    {
+     "title": "角色突破·Ⅲ",
+     "text": "安魂曲，有进步了吗？"
+    },
+    {
+     "title": "收到赠礼·Ⅰ",
+     "text": "安魂曲……超级超级喜欢。谢谢你，鉴定师。"
+    },
+    {
+     "title": "收到赠礼·Ⅱ",
+     "text": "哇……鉴定师，好厉害。送礼物的天才。"
+    },
+    {
+     "title": "收到赠礼·Ⅲ",
+     "text": "嗯……？给安魂曲的？谢谢……"
+    },
+    {
+     "title": "收到赠礼·IV",
+     "text": "礼物，安魂曲会好好珍惜。"
+    }
+   ],
+   "battle": [
+    {
+     "title": "变轨技能·Ⅰ",
+     "text": "阿嚏！"
+    },
+    {
+     "title": "变轨技能·Ⅱ",
+     "text": "去吧。"
+    },
+    {
+     "title": "变轨技能·Ⅲ",
+     "text": "不要逃。"
+    },
+    {
+     "title": "变轨技能·Ⅳ",
+     "text": "安魂曲……也可以。"
+    },
+    {
+     "title": "变轨技能·Ⅴ",
+     "text": "学会了。"
+    },
+    {
+     "title": "变轨技能·Ⅵ",
+     "text": "嗯，就是你了。"
+    },
+    {
+     "title": "极轨终结·Ⅰ",
+     "text": "……不要乱动。"
+    },
+    {
+     "title": "极轨终结·Ⅱ",
+     "text": "……安魂曲，生气了。"
+    },
+    {
+     "title": "极轨终结·Ⅲ",
+     "text": "这样，就能早点回去了……"
+    },
+    {
+     "title": "收容异象·Ⅰ",
+     "text": "呼啊……下班，回家，睡觉……"
+    },
+    {
+     "title": "收容异象·Ⅱ",
+     "text": "异象，要听话。"
+    },
+    {
+     "title": "泯除异象·Ⅰ",
+     "text": "啊，消失了。"
+    },
+    {
+     "title": "泯除异象·Ⅱ",
+     "text": "结束了？拜拜。"
+    },
+    {
+     "title": "意外收获·Ⅰ",
+     "text": "……唔呃。砸到了。"
+    },
+    {
+     "title": "意外收获·Ⅱ",
+     "text": "……嗯？不是安魂曲掉的……"
+    },
+    {
+     "title": "意外收获·Ⅲ",
+     "text": "捡到的东西……啊，要交给队里。"
+    },
+    {
+     "title": "意外收获·Ⅳ",
+     "text": "不可以……随地乱丢。"
+    },
+    {
+     "title": "意外收获·Ⅴ",
+     "text": "好像是，有用的东西？"
+    },
+    {
+     "title": "意外收获·Ⅵ",
+     "text": "安魂曲，捡到了亮闪闪的……"
+    },
+    {
+     "title": "生命值低·Ⅰ",
+     "text": "好困，想睡了……"
+    },
+    {
+     "title": "生命值低·Ⅱ",
+     "text": "安魂曲，没力气了……"
+    },
+    {
+     "title": "生命值低·Ⅲ",
+     "text": "安魂曲，想休息一下。就一下……"
+    },
+    {
+     "title": "恢复生命·Ⅰ",
+     "text": "嗯……休息，结束了。"
+    },
+    {
+     "title": "恢复生命·Ⅱ",
+     "text": "安魂曲，有精神了。"
+    },
+    {
+     "title": "力竭·Ⅰ",
+     "text": "……安魂曲，要睡了……"
+    },
+    {
+     "title": "力竭·Ⅱ",
+     "text": "……眼睛，睁不开……"
+    },
+    {
+     "title": "力竭·Ⅲ",
+     "text": "晚一点……再来叫安魂曲……"
+    },
+    {
+     "title": "击败怪物·Ⅰ",
+     "text": "……怪东西，睡着了。"
+    },
+    {
+     "title": "击败怪物·Ⅱ",
+     "text": "叽叽喳喳……安静了。"
+    },
+    {
+     "title": "普通受击·Ⅰ",
+     "text": "……啊，打到了。"
+    },
+    {
+     "title": "普通受击·Ⅱ",
+     "text": "……忘记躲开了。"
+    },
+    {
+     "title": "重受击·Ⅰ",
+     "text": "……呃呜，痛……"
+    },
+    {
+     "title": "重受击·Ⅱ",
+     "text": "……不喜欢。"
+    },
+    {
+     "title": "上阵·Ⅰ",
+     "text": "……解决掉，就能回家了。"
+    },
+    {
+     "title": "上阵·Ⅱ",
+     "text": "起床时间……到了吗？"
+    },
+    {
+     "title": "协同技·Ⅰ",
+     "text": "安魂曲，也来帮忙。"
+    },
+    {
+     "title": "协同技·Ⅱ",
+     "text": "嗯……没有迟到。"
+    },
+    {
+     "title": "协同技·Ⅲ",
+     "text": "安魂曲，很强的。"
+    },
+    {
+     "title": "滑翔·Ⅰ",
+     "text": "要小心……玻璃。"
+    },
+    {
+     "title": "滑翔·Ⅱ",
+     "text": "不用翅膀，好轻松。"
+    },
+    {
+     "title": "切换·Ⅰ",
+     "text": "……交给，安魂曲。"
+    },
+    {
+     "title": "切换·Ⅱ",
+     "text": "安魂曲，可以解决。"
+    },
+    {
+     "title": "切换·Ⅲ",
+     "text": "「换班」，可以去休息了。"
+    },
+    {
+     "title": "特殊切换·白藏",
+     "text": "白藏，小心。"
+    },
+    {
+     "title": "特殊切换·翳",
+     "text": "狗狗人，要帮忙吗？"
+    },
+    {
+     "title": "特殊切换·法帝娅",
+     "text": "法帝娅的「朋友」，不好玩。"
+    },
+    {
+     "title": "特殊切换·薄荷",
+     "text": "不可以……欺负薄荷。"
+    },
+    {
+     "title": "队友倒下·白藏",
+     "text": "白藏，还不可以睡。"
+    },
+    {
+     "title": "队友倒下·翳",
+     "text": "狗狗人，受伤了？"
+    },
+    {
+     "title": "队友倒下·法帝娅",
+     "text": "法帝娅，玩累了吗？"
+    },
+    {
+     "title": "队友倒下·薄荷",
+     "text": "薄荷……好像很累，快去休息。"
+    },
+    {
+     "title": "弹反·Ⅰ",
+     "text": "就是现在。"
+    },
+    {
+     "title": "弹反·Ⅱ",
+     "text": "安魂曲，不会输。"
+    },
+    {
+     "title": "连续极限闪避成功·Ⅰ",
+     "text": "呼，都躲开了。"
+    },
+    {
+     "title": "连续极限闪避成功·Ⅱ",
+     "text": "是安魂曲……更快。"
+    }
+   ]
+  },
+  "ja": {
+   "daily": [
+    {
+     "title": "初対面",
+     "text": "…に…ちは。…う。レクイエム、眠れ…なか…"
+    },
+    {
+     "title": "雑談-天然",
+     "text": "うっ！靴の紐、踏んじゃった…痛い。…床、冷たい。レクイエム、立ちたくない…"
+    },
+    {
+     "title": "雑談-眠れない",
+     "text": "「不眠」って、どういう意味？うーん…「眠れない」？分からない。レクイエムは、目を閉じれば、寝れるから…すう…ひー…"
+    },
+    {
+     "title": "雑談-漫画",
+     "text": "「デュークK」はすごい…でも、モノを壊して、みんなに怒られる。レクイエムと同じ。好き。"
+    },
+    {
+     "title": "快晴",
+     "text": "太陽が、眩しい…レクイエムは、目を閉じる。"
+    },
+    {
+     "title": "雨",
+     "text": "雨が降ってる。ぽつぽつ…眠い…"
+    },
+    {
+     "title": "寒い",
+     "text": "寒い…チームに戻ったら、また囲まれちゃう。…ん？えっと…帽子、手袋、マフラー、モフモフ…"
+    },
+    {
+     "title": "灼熱",
+     "text": "アイスクリーム、融けた…レクイエムも、融けちゃう…"
+    },
+    {
+     "title": "朝の挨拶",
+     "text": "鑑定士、おはよう。レクイエムは、おはようじゃない…また仕事、面倒くさい。"
+    },
+    {
+     "title": "昼の挨拶",
+     "text": "仕事疲れた。お腹すいた…"
+    },
+    {
+     "title": "夕方の挨拶",
+     "text": "太陽ってトマトみたい。まん丸くて、オレンジ色…なんかおいしそう。"
+    },
+    {
+     "title": "おやすみ",
+     "text": "暗くなった、レクイエムは寝る。鑑定士、おやすみ。"
+    },
+    {
+     "title": "趣味",
+     "text": "レクイエムの、好きなもの…えっと、一人でおうちにいるのは、すごくいい。仕事がない。眠りを邪魔されない。起きたらすぐ、トマトゼリー食べられる。それと、『週刊ファンタジー』をずっと読める。眠くなるまで…好き。うん…レクイエム、もう帰っていい？"
+    },
+    {
+     "title": "悩み",
+     "text": "白蔵は、面倒なやつ。また翳を怒らせた。ファルディーヤも何もしないから、どんどん、うるさくなる…レクイエム、静かなのがいい…「ワンワン人間、よしよし」って言ったら…白蔵とファルディーヤがもっと大きな声で笑い出して…レクイエム、理解できない。"
+    },
+    {
+     "title": "話題-異象",
+     "text": "レクイエム、太陽が嫌い。でも、太陽の匂いは…好き。「モフモフ」は、いつも日向ぼっこしてる、いい匂い。レクイエムは、「モフモフ」が好き。「モフモフ」と一緒に寝れて、嬉しい…"
+    },
+    {
+     "title": "話題-トマドーロ・タイマー",
+     "text": "レクイエム、「トマドーロ・タイマー」があるって聞いた。食べてみたい。でもワンワン人間に聞いたら、「トマドーロ・タイマー」は食べ物じゃないって、仕事の時間を、「トマトひとつ」、「トマトふたつ」って言うんだって…トマトが食べ物じゃなくなって、仕事の時間になった…トマト可哀想、人間、悪い…"
+    },
+    {
+     "title": "話題-なくし物",
+     "text": "社員証…またなくなってる…？…あ…首の後ろに、あった。ゲート入れる。ありがとう、鑑定士。"
+    },
+    {
+     "title": "自分について-異能",
+     "text": "異能は、便利。こうやって…丈夫なものに変わって、悪い異象を潰せば、休める。"
+    },
+    {
+     "title": "自分について-破壊",
+     "text": "ガラスは、見えない…いつもぶつかっちゃって、痛い。トカゲの修理屋が、レクイエムのために「特別注文」したって…うん…管理局のガラスは、もう割れない。けど、レクイエムの頭が、割れちゃうよ…"
+    },
+    {
+     "title": "自分について-好き嫌い",
+     "text": "トマトが、一番。レクイエムはこれから…トマトのお城に住んで、トマトのベッドで寝る。他の食べ物は、全部なくなればいいのに。レクイエム、いらないもん…あっ、アイスクリームは消えないで。"
+    },
+    {
+     "title": "アルフェードについて",
+     "text": "局長は、冷たい、蛇の目をしてる。局長に会うと、新しい仕事が入る。レクイエム、嬉しくない…でも、ワンワン人間は、局長を怒らせちゃだめだって。"
+    },
+    {
+     "title": "白蔵について",
+     "text": "…仕事、ガラス、白蔵…全部嫌い。"
+    },
+    {
+     "title": "ファルディーヤについて",
+     "text": "ファルディーヤは、仕事してって言わないから、好き…でも、レクイエムの顔をつねってくるから、嫌い…"
+    },
+    {
+     "title": "翳について",
+     "text": "ワンワン人間、モフモフ、触り心地いい…それと、背が高い、歩くの早い、追いつけない…でも、しゃがんで話してくれるから、見上げなくていい。ワンワン人間、いい人。"
+    },
+    {
+     "title": "ミントについて",
+     "text": "ミントは、きらきらしてるから、すぐ分かる…それと、いつも抱きついてくるから、暑い。"
+    },
+    {
+     "title": "ハニアについて",
+     "text": "「字沢山ネッ友」も、『デュークK』が好き。一緒に見てる。嬉しい。でも、会ったことない…昔、会いに行ったけど、会えなかった。日付を、間違えたから…"
+    },
+    {
+     "title": "異象管理局について",
+     "text": "食堂に、トマトゼリーがない、ダメ…でも、自販機にはあるから、レクイエムは、お腹すかない。…うん、それと、ソファで寝れる。柔らかくて、好き。でも、バレたらダメ。"
+    },
+    {
+     "title": "E.T.Dについて",
+     "text": "E.T.Dは、忙しい。ワンワン人間は、いつも会議。白蔵は、いつもイタズラ。ファルディーヤは、いつも「友達作り」。レクイエムは、いつも寝てる…"
+    },
+    {
+     "title": "キャラ突破Ⅰ",
+     "text": "レクイエムは…いい夢を見た。"
+    },
+    {
+     "title": "キャラ突破Ⅱ",
+     "text": "レクイエムは、強くなった。嬉しい…"
+    },
+    {
+     "title": "キャラ突破Ⅲ",
+     "text": "レクイエム、よくやった？"
+    },
+    {
+     "title": "届けられたギフトⅠ",
+     "text": "レクイエム…これ、だい、だい、だーい好き。ありがとう、鑑定士。"
+    },
+    {
+     "title": "届けられたギフトⅡ",
+     "text": "わぁ…鑑定士、すごい。プレゼントの天才。"
+    },
+    {
+     "title": "届けられたギフトⅢ",
+     "text": "ん…？レクイエムに？ありがとう…"
+    },
+    {
+     "title": "届けられたギフトⅣ",
+     "text": "プレゼント、レクイエム、大切にする。"
+    }
+   ],
+   "battle": [
+    {
+     "title": "バイレールスキルⅠ",
+     "text": "くしゅん！"
+    },
+    {
+     "title": "バイレールスキルⅡ",
+     "text": "行け。"
+    },
+    {
+     "title": "バイレールスキルⅢ",
+     "text": "逃げるな。"
+    },
+    {
+     "title": "バイレールスキルⅣ",
+     "text": "レクイエムも…できる。"
+    },
+    {
+     "title": "バイレールスキルⅤ",
+     "text": "覚えた。"
+    },
+    {
+     "title": "バイレールスキルⅥ",
+     "text": "うん、あなたにする。"
+    },
+    {
+     "title": "EXレール終結Ⅰ",
+     "text": "…勝手に動かないで。"
+    },
+    {
+     "title": "EXレール終結Ⅱ",
+     "text": "…レクイエム、怒った。"
+    },
+    {
+     "title": "EXレール終結Ⅲ",
+     "text": "これで、早く帰れる…"
+    },
+    {
+     "title": "異象収容Ⅰ",
+     "text": "はぅ…仕事終わり…帰って寝る…"
+    },
+    {
+     "title": "異象収容Ⅱ",
+     "text": "異象、よしよし。"
+    },
+    {
+     "title": "異象排除Ⅰ",
+     "text": "あ、消えた。"
+    },
+    {
+     "title": "異象排除Ⅱ",
+     "text": "終わった？バイバイ。"
+    },
+    {
+     "title": "意外な収穫Ⅰ",
+     "text": "…うぐっ。ぶつかった。"
+    },
+    {
+     "title": "意外な収穫Ⅱ",
+     "text": "…ん？これはレクイエムの落とし物じゃない…"
+    },
+    {
+     "title": "意外な収穫Ⅲ",
+     "text": "拾い物…あ、チームのみんなに渡さなきゃ。"
+    },
+    {
+     "title": "意外な収穫Ⅳ",
+     "text": "ポイ捨てしちゃ…ダメ。"
+    },
+    {
+     "title": "意外な収穫Ⅴ",
+     "text": "これ、役に立つかも…"
+    },
+    {
+     "title": "意外な収穫Ⅵ",
+     "text": "レクイエム、キラキラ、拾った。"
+    },
+    {
+     "title": "低HPⅠ",
+     "text": "眠い。もう寝たい…"
+    },
+    {
+     "title": "低HPⅡ",
+     "text": "レクイエム、もう力が出ない…"
+    },
+    {
+     "title": "低HPⅢ",
+     "text": "レクイエム、ちょっと休みたい…ちょっとだけ…"
+    },
+    {
+     "title": "HP回復Ⅰ",
+     "text": "うん…休憩、終わり。"
+    },
+    {
+     "title": "HP回復Ⅱ",
+     "text": "レクイエム、また元気でた。"
+    },
+    {
+     "title": "力尽きⅠ",
+     "text": "…レクイエムは、寝る…"
+    },
+    {
+     "title": "力尽きⅡ",
+     "text": "…目が、開けられない…"
+    },
+    {
+     "title": "力尽きⅢ",
+     "text": "後で…起こしにきて…"
+    },
+    {
+     "title": "敵を撃破Ⅰ",
+     "text": "…変なものが、寝てた。"
+    },
+    {
+     "title": "敵を撃破Ⅱ",
+     "text": "ゴチャゴチャ…静かになった。"
+    },
+    {
+     "title": "ダメージを受ける（通常）Ⅰ",
+     "text": "…あ、あたった。"
+    },
+    {
+     "title": "ダメージを受ける（通常）Ⅱ",
+     "text": "…よけるの忘れてた。"
+    },
+    {
+     "title": "大打撃Ⅰ",
+     "text": "…うっ、痛い…"
+    },
+    {
+     "title": "大打撃Ⅱ",
+     "text": "この感じ…嫌い。"
+    },
+    {
+     "title": "出撃Ⅰ",
+     "text": "…解決したら、お家に帰れる。"
+    },
+    {
+     "title": "出撃Ⅱ",
+     "text": "もう起きる時間…なの？"
+    },
+    {
+     "title": "コンビスキルⅠ",
+     "text": "レクイエムも協力する。"
+    },
+    {
+     "title": "コンビスキルⅡ",
+     "text": "うん…遅刻、しなかった。"
+    },
+    {
+     "title": "コンビスキルⅢ",
+     "text": "レクイエムは、強いよ。"
+    },
+    {
+     "title": "滑空Ⅰ",
+     "text": "ガラスに…気をつけないと…"
+    },
+    {
+     "title": "滑空Ⅱ",
+     "text": "翼を使わないと、らくちん。"
+    },
+    {
+     "title": "切替Ⅰ",
+     "text": "レクイエムに…任せて。"
+    },
+    {
+     "title": "切替Ⅱ",
+     "text": "レクイエム、できる。"
+    },
+    {
+     "title": "切替Ⅲ",
+     "text": "「交代」。これで、休める…"
+    },
+    {
+     "title": "特殊切替・白蔵",
+     "text": "白蔵、気をつけて。"
+    },
+    {
+     "title": "特殊切替・翳",
+     "text": "ワンワン人間、手伝い、いる？"
+    },
+    {
+     "title": "特殊切替・ファルディーヤ",
+     "text": "ファルディーヤの「友達」、好きじゃない…"
+    },
+    {
+     "title": "特殊切替・ミント",
+     "text": "ミントを…いじめないで。"
+    },
+    {
+     "title": "仲間気絶・白蔵",
+     "text": "白蔵、まだねんねの時間じゃ、ないよ。"
+    },
+    {
+     "title": "仲間気絶・翳",
+     "text": "ワンワン人間、けがしたの？"
+    },
+    {
+     "title": "仲間気絶・ファルディーヤ",
+     "text": "ファルディーヤ、疲れちゃった？"
+    },
+    {
+     "title": "仲間気絶・ミント",
+     "text": "ミント、顔色悪いよ…早く、休んで。"
+    },
+    {
+     "title": "パリィⅠ",
+     "text": "今だ。"
+    },
+    {
+     "title": "パリィⅡ",
+     "text": "レクイエム、負けない。"
+    },
+    {
+     "title": "連続極限回避成功Ⅰ",
+     "text": "ふぅ…全部、よけた。"
+    },
+    {
+     "title": "連続極限回避成功Ⅱ",
+     "text": "レクイエムのほうが、速い。"
+    }
+   ]
+  },
+  "ko": {
+   "daily": [
+    {
+     "title": "첫 만남",
+     "text": "… 안녕. 으음. 라크리모사, 자는 거 아니야, 진짜 아니…"
+    },
+    {
+     "title": "대화·자연인",
+     "text": "으앗! 어, 신발끈… 아파… 바닥 차가워. 라크리모사, 안 일어날래…"
+    },
+    {
+     "title": "대화·불면",
+     "text": "「불면증」이 뭐야? 우움… 「잠을 못 자」? 모르겠어. 라크리모사, 눈 감으면 잠들어…… 쿠울…"
+    },
+    {
+     "title": "대화·만화",
+     "text": "「공작 K」는 멋져… 그런데, 물건을 망가뜨려서 혼나. 라크리모사랑 같아. 좋아."
+    },
+    {
+     "title": "맑은 날",
+     "text": "햇빛, 눈부셔… 라크리모사 눈 감을래."
+    },
+    {
+     "title": "비 오는 날",
+     "text": "비 온다. 똑, 똑… 졸려…"
+    },
+    {
+     "title": "추운 날",
+     "text": "추워… 팀에 복귀하면, 두툼해져… 어? 음… 모자, 장갑, 목도리, 폭신폭신…"
+    },
+    {
+     "title": "더운 날",
+     "text": "아이스크림이 녹았어… 라크리모사도, 녹아…"
+    },
+    {
+     "title": "아침 인사",
+     "text": "감정사, 좋은 아침. 라크리모사의 아침은, 좋지 않아… 일하는 거 싫어."
+    },
+    {
+     "title": "점심 인사",
+     "text": "일은 힘들어, 배고파…"
+    },
+    {
+     "title": "저녁 인사",
+     "text": "태양, 꼭 토마토 같아. 동그랗고, 다홍색… 맛있어 보여."
+    },
+    {
+     "title": "취침 인사",
+     "text": "어두워졌어, 라크리모사는 잘래. 잘 자, 감정사."
+    },
+    {
+     "title": "취미",
+     "text": "라크리모사, 뭘 좋아하냐면… 우음, 혼자 집에 있는 거 좋아. 일 안 하면, 라크리모사 깨우는 사람도 없어. 일어나면, 토마토 젤리 먹을 수 있어. 그리고 「주간 판타지」도 볼 수 있어, 졸릴 때까지… 좋아. 우음… 라크리모사, 이제 집에 가도 돼?"
+    },
+    {
+     "title": "고민",
+     "text": "백장, 귀찮은 사람. 또 스키아를 짜증 나게 했어. 파디아는 안 도와주고, 계속, 시끄러워… 라크리모사는 조용한 게 좋아. 「멍멍인간은 사랑이 필요해」라고 말했더니… 백장하고 파디아가 웃으면서, 더 시끄러워졌어… 라크리모사, 모르겠어."
+    },
+    {
+     "title": "주제·이상",
+     "text": "라크리모사, 햇빛 싫어. 그치만, 햇빛 냄새는… 좋아. 「몽글몽글」은 항상 햇볕을 쬐어서, 냄새가 좋아. 라크리모사, 「몽글몽글」 좋아. 「몽글몽글」이랑 같이 자면, 기분 좋아…"
+    },
+    {
+     "title": "주제·토마토 타이머",
+     "text": "「토마토 타이머」라는 게 있대. 멍멍인간한테 물어봤어. 근데 먹는 게 아니라 일하는 시간을 「토마토 하나」, 「토마토 둘」, 이렇게 세는 거래…\n토마토가 먹히지도 못하고 일하는 시간으로 변해 버렸어… 토마토 불쌍해, 인간들… 인간들 나빠…"
+    },
+    {
+     "title": "주제·분실물",
+     "text": "사원증… 또 사라졌어…? 아… 목뒤에, 찾았다. 들어갈 수 있어. 고마워, 감정사."
+    },
+    {
+     "title": "자신·이능력에 관해",
+     "text": "이능력, 편해. 이렇게… 단단하게 변한 다음, 나쁜 이상을 때려눕히면, 쉴 수 있어."
+    },
+    {
+     "title": "자신·파괴에 관해",
+     "text": "유리, 안 보여… 늘 부딪혀서, 아파. 도마뱀 정비사가, 라크리모사를 위해 「특별 제작」했대… 우움… 관리국 유리는, 안 깨져. 라크리모사 머리가, 깨질 것 같아…"
+    },
+    {
+     "title": "자신·편식에 관해",
+     "text": "토마토, 최고야. 라크리모사는 나중에… 토마토 성에 살면서 토마토 침대에서 잘래. 다른 음식들은, 다 사라져도 돼. 라크리모사는 필요 없어… 으음, 아이스크림 빼고."
+    },
+    {
+     "title": "알파드에 관해",
+     "text": "국장님, 차가워, 눈이 뱀 같아. 국장님 만나면 일해야 돼. 라크리모사 싫어… 근데 멍멍인간이 국장님을 화나게 하면 안 된대."
+    },
+    {
+     "title": "백장에 관해",
+     "text": "… 일, 유리, 백장… 다 미워."
+    },
+    {
+     "title": "파디아에 관해",
+     "text": "파디아, 라크리모사한테 일하라고 안 해, 좋아… 라크리모사 볼 꼬집는 거, 싫어…"
+    },
+    {
+     "title": "스키아에 관해",
+     "text": "멍멍인간, 부들부들, 만지면 좋아… 그리고 커다래서 빨리 걸어, 못 따라가… 그렇지만, 앉아서 얘기해 줘. 올려다보지 않아도 돼. 멍멍인간, 좋아."
+    },
+    {
+     "title": "민트에 관해",
+     "text": "민트, 반짝반짝. 알아보기 쉬워… 그리고, 항상 날 안아. 뜨거워."
+    },
+    {
+     "title": "하니엘에 관해",
+     "text": "「이름 긴 친구」도, <공작 K> 좋아해. 같이 보면 재밌어. 근데 만난 적은 없어… 예전에, 라크리모사가 「이름 긴 친구」 만나러 갔는데 못 만났어. 날짜, 착각했어…"
+    },
+    {
+     "title": "이상 관리국에 관해",
+     "text": "식당, 토마토 젤리 없어, 싫어… 근데, 자판기엔 토마토 젤리 있어서 라크리모사, 안 굶어도 돼… 우움, 그리고 소파에서 잘 수 있어. 부드러워, 좋아. 그치만, 들키면 안 돼."
+    },
+    {
+     "title": "E.T.D에 관해",
+     "text": "E.T.D, 바빠. 멍멍인간, 회의해. 백장, 장난쳐. 파디아, 「친구 사귀기」해. 라크리모사는, 자…"
+    },
+    {
+     "title": "캐릭터 돌파·Ⅰ",
+     "text": "라크리모사… 좋은 꿈을 꿨어…"
+    },
+    {
+     "title": "캐릭터 돌파·Ⅱ",
+     "text": "라크리모사, 강해졌어, 기뻐…"
+    },
+    {
+     "title": "캐릭터 돌파·Ⅲ",
+     "text": "라크리모사, 실력, 늘었어?"
+    },
+    {
+     "title": "선물 수령·Ⅰ",
+     "text": "라크리모사… 완전 완전 마음에 들어. 고마워, 감정사."
+    },
+    {
+     "title": "선물 수령·Ⅱ",
+     "text": "와… 감정사 최고. 선물 고르는 데, 재능 있어."
+    },
+    {
+     "title": "선물 수령·Ⅲ",
+     "text": "어…? 라크리모사 주는 거야? 고마워…"
+    },
+    {
+     "title": "선물 수령·IV",
+     "text": "선물, 라크리모사가 소중히 간직할게."
+    }
+   ],
+   "battle": [
+    {
+     "title": "바이레일 스킬·Ⅰ",
+     "text": "에취!"
+    },
+    {
+     "title": "바이레일 스킬·Ⅱ",
+     "text": "저리 가."
+    },
+    {
+     "title": "바이레일 스킬·Ⅲ",
+     "text": "도망치지 마."
+    },
+    {
+     "title": "바이레일 스킬·Ⅳ",
+     "text": "라크리모사도… 할 수 있어."
+    },
+    {
+     "title": "바이레일 스킬·Ⅴ",
+     "text": "배웠어."
+    },
+    {
+     "title": "바이레일 스킬·Ⅵ",
+     "text": "좋아, 너로 정했어."
+    },
+    {
+     "title": "울티메이트·Ⅰ",
+     "text": "… 가만히 있어."
+    },
+    {
+     "title": "울티메이트·Ⅱ",
+     "text": "… 라크리모사, 화났어."
+    },
+    {
+     "title": "울티메이트·Ⅲ",
+     "text": "이렇게 하면, 일찍 퇴근할 수 있어…"
+    },
+    {
+     "title": "이상 수용·Ⅰ",
+     "text": "하암… 퇴근, 집, 잘래…"
+    },
+    {
+     "title": "이상 수용·Ⅱ",
+     "text": "이상, 말 들어야지."
+    },
+    {
+     "title": "이상 제거·Ⅰ",
+     "text": "아, 사라졌다."
+    },
+    {
+     "title": "이상 제거·Ⅱ",
+     "text": "끝났어? 잘 가."
+    },
+    {
+     "title": "뜻밖의 수확·Ⅰ",
+     "text": "… 우움. 맞았어."
+    },
+    {
+     "title": "뜻밖의 수확·Ⅱ",
+     "text": "… 음? 라크리모사가 흘린 거 아니야…"
+    },
+    {
+     "title": "뜻밖의 수확·Ⅲ",
+     "text": "주운 물건은… 아, 팀에 제출해야 돼."
+    },
+    {
+     "title": "뜻밖의 수확·Ⅳ",
+     "text": "아무 데나 버리면… 안 되는데."
+    },
+    {
+     "title": "뜻밖의 수확·Ⅴ",
+     "text": "이거, 필요할까?"
+    },
+    {
+     "title": "뜻밖의 수확·Ⅵ",
+     "text": "라크리모사, 반짝거리는 거 주웠어…"
+    },
+    {
+     "title": "HP 낮음·Ⅰ",
+     "text": "너무 졸려, 자고 싶어…"
+    },
+    {
+     "title": "HP 낮음·Ⅱ",
+     "text": "라크리모사, 힘들어…"
+    },
+    {
+     "title": "HP 낮음·Ⅲ",
+     "text": "라크리모사, 쉴래. 잠깐만…"
+    },
+    {
+     "title": "HP 회복·Ⅰ",
+     "text": "우움… 휴식, 끝."
+    },
+    {
+     "title": "HP 회복·Ⅱ",
+     "text": "라크리모사, 정신 차렸어."
+    },
+    {
+     "title": "탈진·Ⅰ",
+     "text": "… 라크리모사, 잘래…"
+    },
+    {
+     "title": "탈진·Ⅱ",
+     "text": "… 눈이, 안 떠져…"
+    },
+    {
+     "title": "탈진·Ⅲ",
+     "text": "라크리모사… 조금 있다가… 다시 깨워줘…"
+    },
+    {
+     "title": "몬스터 처치·Ⅰ",
+     "text": "… 저거 이상해, 잠들었어."
+    },
+    {
+     "title": "몬스터 처치·Ⅱ",
+     "text": "쫑알쫑알… 조용해졌다."
+    },
+    {
+     "title": "일반 피격·Ⅰ",
+     "text": "… 아, 맞았다."
+    },
+    {
+     "title": "일반 피격·Ⅱ",
+     "text": "… 피하는 걸 까먹었어."
+    },
+    {
+     "title": "심각한 피해·Ⅰ",
+     "text": "… 우우, 아파…"
+    },
+    {
+     "title": "심각한 피해·Ⅱ",
+     "text": "… 이 느낌, 싫어."
+    },
+    {
+     "title": "출전·Ⅰ",
+     "text": "… 해결하면, 집에 갈 수 있어."
+    },
+    {
+     "title": "출전·Ⅱ",
+     "text": "벌써… 일어날 시간이야?"
+    },
+    {
+     "title": "협동기·Ⅰ",
+     "text": "라크리모사, 도와줄게."
+    },
+    {
+     "title": "협동기·Ⅱ",
+     "text": "움… 지각 안 했어."
+    },
+    {
+     "title": "협동기·Ⅲ",
+     "text": "라크리모사, 강해."
+    },
+    {
+     "title": "글라이딩·Ⅰ",
+     "text": "유리… 조심."
+    },
+    {
+     "title": "글라이딩·Ⅱ",
+     "text": "날개 필요없어, 편하네."
+    },
+    {
+     "title": "전환·Ⅰ",
+     "text": "… 라크리모사 차례야."
+    },
+    {
+     "title": "전환·Ⅱ",
+     "text": "라크리모사, 해결할래."
+    },
+    {
+     "title": "전환·Ⅲ",
+     "text": "「선수 교대」, 쉬러 가도 돼."
+    },
+    {
+     "title": "특수 전환·백장",
+     "text": "백장, 조심해."
+    },
+    {
+     "title": "특수 전환·스키아",
+     "text": "멍멍인간, 도와줘?"
+    },
+    {
+     "title": "특수 전환·파디아",
+     "text": "파디아 「친구」들은, 재미없어."
+    },
+    {
+     "title": "특수 전환·민트",
+     "text": "민트… 괴롭히지 마."
+    },
+    {
+     "title": "팀원 쓰러짐·백장",
+     "text": "백장, 지금 자면 안 돼."
+    },
+    {
+     "title": "팀원 쓰러짐·스키아",
+     "text": "멍멍인간, 아파?"
+    },
+    {
+     "title": "팀원 쓰러짐·파디아",
+     "text": "파디아, 이제 재미없어?"
+    },
+    {
+     "title": "팀원 쓰러짐·민트",
+     "text": "민트… 힘들어? 빨리 가서 쉬어."
+    },
+    {
+     "title": "패링·Ⅰ",
+     "text": "지금이야."
+    },
+    {
+     "title": "패링·Ⅱ",
+     "text": "라크리모사, 지지 않아."
+    },
+    {
+     "title": "연속 극한 회피 성공·Ⅰ",
+     "text": "휴, 다 피했어."
+    },
+    {
+     "title": "연속 극한 회피 성공·Ⅱ",
+     "text": "라크리모사가… 더 빨라."
+    }
+   ]
+  },
+  "zh-tw": {
+   "daily": [
+    {
+     "title": "初次見面",
+     "text": "……你好。……唔。安魂曲，沒有睡著，沒有睡……"
+    },
+    {
+     "title": "閒聊·天然",
+     "text": "嗚呃！鞋帶，踩到了……痛。……地上，涼涼的。安魂曲，不想起來……"
+    },
+    {
+     "title": "閒聊·失眠",
+     "text": "「失眠」，什麼意思？唔……「睡不著覺」？不明白。安魂曲，閉上眼，就睡著了。……。……呼……"
+    },
+    {
+     "title": "閒聊·漫畫",
+     "text": "「公爵K」很厲害……但是，也會弄壞東西，被大家罵。和安魂曲一樣。喜歡。"
+    },
+    {
+     "title": "大晴天",
+     "text": "太陽，好刺眼……安魂曲，要閉眼了。"
+    },
+    {
+     "title": "雨天",
+     "text": "下雨了。滴答、滴答……好睏……"
+    },
+    {
+     "title": "寒冷",
+     "text": "好冷……回到隊裡，又要被裹起來了。……嗯？就是……帽子、手套、圍巾，毛茸茸……"
+    },
+    {
+     "title": "炎熱",
+     "text": "冰淇淋，化掉了……安魂曲，也要化掉了……"
+    },
+    {
+     "title": "早上問候",
+     "text": "鑒定師，早上好。安魂曲的早上，不好……又要工作了，好麻煩。"
+    },
+    {
+     "title": "中午問候",
+     "text": "工作好累，肚子餓了……"
+    },
+    {
+     "title": "傍晚問候",
+     "text": "太陽，好像番茄。圓滾滾，橙色的……感覺很好吃。"
+    },
+    {
+     "title": "晚安",
+     "text": "天黑了，安魂曲要睡覺了。晚安，鑒定師。"
+    },
+    {
+     "title": "愛好",
+     "text": "安魂曲，喜歡什麼……唔，一個人在家，特別好。不工作，沒有人吵安魂曲睡覺。安魂曲起床了，就可以吃番茄醬。還有，可以一直看《週刊Fantasy》，看到睏……喜歡。嗯……安魂曲，現在可以回家了嗎？"
+    },
+    {
+     "title": "煩惱",
+     "text": "白藏，麻煩精，又讓翳不開心。法帝婭不幫忙，然後，越來越吵……安魂曲想要安靜，就說：「對狗狗人，要有愛心」……白藏和法帝婭一起笑，更大聲……安魂曲，不明白。"
+    },
+    {
+     "title": "話題·異象",
+     "text": "安魂曲，不喜歡太陽。但是，太陽的味道……喜歡。「棉絨絨」，總是曬太陽，好聞。安魂曲，喜歡「棉絨絨」。和「棉絨絨」一起睡覺，很開心……"
+    },
+    {
+     "title": "話題·番茄鐘",
+     "text": "安魂曲，聽說有「番茄鐘」，想嘗嘗，問了狗狗人。狗狗人說，「番茄鐘」不是吃的東西，是把工作時間，叫「一個番茄」「兩個番茄」……\n番茄不被吃掉，變成了工作的時間……番茄好可憐，人類，好壞……"
+    },
+    {
+     "title": "話題·失物",
+     "text": "工作證……又不見了……？……哦……脖子後面，找到了。大門，可以進了。謝謝你，鑒定師。"
+    },
+    {
+     "title": "關於自己·異能",
+     "text": "異能，很方便。像這樣……變成結實的東西，砸扁壞異象，就可以休息了。"
+    },
+    {
+     "title": "關於自己·破壞",
+     "text": "玻璃，看不到……總是撞到，好痛。然後，蜥蜴維修員說，為安魂曲「特殊定製」了……嗯……管理局的玻璃，不會碎了，安魂曲的頭，要碎了……"
+    },
+    {
+     "title": "關於自己·挑食",
+     "text": "番茄，最好了。安魂曲以後……要住在番茄城堡裡，在番茄床上睡覺。其他食物，都消失吧，安魂曲，不需要……唔，冰淇淋要留下。"
+    },
+    {
+     "title": "關於艾爾菲德",
+     "text": "局長，冰冰的，蛇的眼睛。見到局長，就會有新工作。安魂曲，不開心……但狗狗人說，不可以惹局長生氣。"
+    },
+    {
+     "title": "關於白藏",
+     "text": "……工作、玻璃、白藏……通通討厭。"
+    },
+    {
+     "title": "關於法帝婭",
+     "text": "法帝婭，不催安魂曲工作，喜歡……捏安魂曲的臉，不喜歡……"
+    },
+    {
+     "title": "關於翳",
+     "text": "狗狗人，毛茸茸，很好摸……然後，個子很高，走得很快，追不上……但是，會蹲下來講話，不用抬頭。狗狗人，好。"
+    },
+    {
+     "title": "關於薄荷",
+     "text": "薄荷，亮亮的，很好認……還有，總是會抱上來，很熱。"
+    },
+    {
+     "title": "關於哈尼婭",
+     "text": "「字很多網友」，也喜歡《公爵K》，一起追更，很開心。不過，沒有見過面……以前，安魂曲去見「字很多網友」，但是，沒見到。日期，記錯了……"
+    },
+    {
+     "title": "關於異象管理局",
+     "text": "食堂，沒有番茄醬，不好……但是，販賣機有番茄醬。安魂曲，不會餓肚子。……嗯，還有，沙發可以睡覺。軟軟的，喜歡。但是，不可以被發現。"
+    },
+    {
+     "title": "關於E.T.D",
+     "text": "E.T.D，很忙。狗狗人，開會。白藏，搗亂。法帝婭，「交朋友」。安魂曲，睡覺……"
+    },
+    {
+     "title": "角色突破·Ⅰ",
+     "text": "安魂曲……做了好夢。"
+    },
+    {
+     "title": "角色突破·Ⅱ",
+     "text": "安魂曲，變強了，很開心……"
+    },
+    {
+     "title": "角色突破·Ⅲ",
+     "text": "安魂曲，有進步了嗎？"
+    },
+    {
+     "title": "收到贈禮·Ⅰ",
+     "text": "安魂曲……超級超級喜歡。謝謝你，鑒定師。"
+    },
+    {
+     "title": "收到贈禮·Ⅱ",
+     "text": "哇……鑒定師，好厲害。送禮物的天才。"
+    },
+    {
+     "title": "收到贈禮·Ⅲ",
+     "text": "嗯……？給安魂曲的？謝謝……"
+    },
+    {
+     "title": "收到贈禮·IV",
+     "text": "禮物，安魂曲會好好珍惜。"
+    }
+   ],
+   "battle": [
+    {
+     "title": "變軌技能·Ⅰ",
+     "text": "哈啾！"
+    },
+    {
+     "title": "變軌技能·Ⅱ",
+     "text": "去吧。"
+    },
+    {
+     "title": "變軌技能·Ⅲ",
+     "text": "不要逃。"
+    },
+    {
+     "title": "變軌技能·Ⅳ",
+     "text": "安魂曲……也可以。"
+    },
+    {
+     "title": "變軌技能·Ⅴ",
+     "text": "學會了。"
+    },
+    {
+     "title": "變軌技能·Ⅵ",
+     "text": "嗯，就是你了。"
+    },
+    {
+     "title": "極軌終結·Ⅰ",
+     "text": "……不要亂動。"
+    },
+    {
+     "title": "極軌終結·Ⅱ",
+     "text": "……安魂曲，生氣了。"
+    },
+    {
+     "title": "極軌終結·Ⅲ",
+     "text": "這樣，就能早點回去了……"
+    },
+    {
+     "title": "收容異象·Ⅰ",
+     "text": "呼啊……下班，回家，睡覺……"
+    },
+    {
+     "title": "收容異象·Ⅱ",
+     "text": "異象，要聽話。"
+    },
+    {
+     "title": "泯除異象·Ⅰ",
+     "text": "啊，消失了。"
+    },
+    {
+     "title": "泯除異象·Ⅱ",
+     "text": "結束了？拜拜。"
+    },
+    {
+     "title": "意外收穫·Ⅰ",
+     "text": "……唔呃。砸到了。"
+    },
+    {
+     "title": "意外收穫·Ⅱ",
+     "text": "……嗯？不是安魂曲掉的……"
+    },
+    {
+     "title": "意外收穫·Ⅲ",
+     "text": "撿到的東西……啊，要交給隊裡。"
+    },
+    {
+     "title": "意外收穫·Ⅳ",
+     "text": "不可以……隨地亂丟。"
+    },
+    {
+     "title": "意外收穫·Ⅴ",
+     "text": "好像是，有用的東西？"
+    },
+    {
+     "title": "意外收穫·Ⅵ",
+     "text": "安魂曲，撿到了閃亮亮的……"
+    },
+    {
+     "title": "生命值低·Ⅰ",
+     "text": "好睏，想睡了……"
+    },
+    {
+     "title": "生命值低·Ⅱ",
+     "text": "安魂曲，沒力氣了……"
+    },
+    {
+     "title": "生命值低·Ⅲ",
+     "text": "安魂曲，想休息一下。就一下……"
+    },
+    {
+     "title": "恢復生命·Ⅰ",
+     "text": "嗯……休息，結束了。"
+    },
+    {
+     "title": "恢復生命·Ⅱ",
+     "text": "安魂曲，有精神了。"
+    },
+    {
+     "title": "力竭·Ⅰ",
+     "text": "……安魂曲，要睡了……"
+    },
+    {
+     "title": "力竭·Ⅱ",
+     "text": "……眼睛，睜不開……"
+    },
+    {
+     "title": "力竭·Ⅲ",
+     "text": "晚一點……再來叫安魂曲……"
+    },
+    {
+     "title": "擊敗怪物·Ⅰ",
+     "text": "……怪東西，睡著了。"
+    },
+    {
+     "title": "擊敗怪物·Ⅱ",
+     "text": "嘰嘰喳喳……安靜了。"
+    },
+    {
+     "title": "普通受擊·Ⅰ",
+     "text": "……啊，打到了。"
+    },
+    {
+     "title": "普通受擊·Ⅱ",
+     "text": "……忘記躲開了。"
+    },
+    {
+     "title": "重受擊·Ⅰ",
+     "text": "……呃嗚，痛……"
+    },
+    {
+     "title": "重受擊·Ⅱ",
+     "text": "……不喜歡。"
+    },
+    {
+     "title": "上陣·Ⅰ",
+     "text": "……解決掉，就能回家了。"
+    },
+    {
+     "title": "上陣·Ⅱ",
+     "text": "起床時間……到了嗎？"
+    },
+    {
+     "title": "協同技·Ⅰ",
+     "text": "安魂曲，也來幫忙。"
+    },
+    {
+     "title": "協同技·Ⅱ",
+     "text": "嗯……沒有遲到。"
+    },
+    {
+     "title": "協同技·Ⅲ",
+     "text": "安魂曲，很強的。"
+    },
+    {
+     "title": "滑翔·Ⅰ",
+     "text": "要小心……玻璃。"
+    },
+    {
+     "title": "滑翔·Ⅱ",
+     "text": "不用翅膀，好輕鬆。"
+    },
+    {
+     "title": "切換·Ⅰ",
+     "text": "……交給，安魂曲。"
+    },
+    {
+     "title": "切換·Ⅱ",
+     "text": "安魂曲，可以解決。"
+    },
+    {
+     "title": "切換·Ⅲ",
+     "text": "「換班」，可以去休息了。"
+    },
+    {
+     "title": "特殊切換·白藏",
+     "text": "白藏，小心。"
+    },
+    {
+     "title": "特殊切換·翳",
+     "text": "狗狗人，要幫忙嗎？"
+    },
+    {
+     "title": "特殊切換·法帝婭",
+     "text": "法帝婭的「朋友」，不好玩。"
+    },
+    {
+     "title": "特殊切換·薄荷",
+     "text": "不可以……欺負薄荷。"
+    },
+    {
+     "title": "隊友倒下·白藏",
+     "text": "白藏，還不可以睡。"
+    },
+    {
+     "title": "隊友倒下·翳",
+     "text": "狗狗人，受傷了？"
+    },
+    {
+     "title": "隊友倒下·法帝婭",
+     "text": "法帝婭，玩累了嗎？"
+    },
+    {
+     "title": "隊友倒下·薄荷",
+     "text": "薄荷……好像很累，快去休息。"
+    },
+    {
+     "title": "彈反·Ⅰ",
+     "text": "就是現在。"
+    },
+    {
+     "title": "彈反·Ⅱ",
+     "text": "安魂曲，不會輸。"
+    },
+    {
+     "title": "連續極限閃避成功·Ⅰ",
+     "text": "呼，都躲開了。"
+    },
+    {
+     "title": "連續極限閃避成功·Ⅱ",
+     "text": "是安魂曲……更快。"
+    }
+   ]
+  }
+ }
+}

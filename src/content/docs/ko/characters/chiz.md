@@ -46,6 +46,7 @@ sources:
 | 신분 | 핑크퍼스 은행(뉴 헤랜드 구역 본점) 홀 매니저, 직원 번호 018888 |
 | 성우 | 중국어: 则灵; 영어: Alice Himora; 일본어: 小原好美; 한국어: 권다예 |
 | 아카이브 | [치즈 아카이브](/ko/characters/chiz/archive/) |
+| 보이스 | [치즈 보이스](/ko/characters/chiz/voice/) |
 
 Game8은 치즈의 바이레일 스킬을 "Pink Paws Priority Principe"로, Prydwen은 "Pink Paws Priority Principle"로 표기한다. 1.1 버전에서 치즈에게 맵의 「핑크퍼스를 털어라」 소장품을 모두 하이라이트 표시하는 도시 스킬이 추가되었다.
 

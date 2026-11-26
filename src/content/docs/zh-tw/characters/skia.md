@@ -45,6 +45,7 @@ sources:
 | 加入版本 | 1.0 版 |
 | 配音員 | 中文：劉雨軒；英文：Bill Butts；日文：杉田智和；韓文：이동훈 |
 | 個人檔案 | [翳個人檔案](/zh-tw/characters/skia/archive/) |
+| 語音 | [翳語音](/zh-tw/characters/skia/voice/) |
 
 ## 取得方式
 

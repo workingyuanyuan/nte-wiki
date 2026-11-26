@@ -77,8 +77,23 @@ sources:
 - [プラットフォームとサーバー](/ja/systems/platforms/)
 - [5言語の名称対照](/ja/names/)
 
+## 異象
+
+- [異象一覧](/ja/anomalies/)
+- [敵図鑑](/ja/anomalies/enemies/)
+
+## アイテムと実績
+
+- [グライダースキン](/ja/items/gliders/)
+- [改造パーツ](/ja/items/mod-parts/)
+- [フィギュア](/ja/items/figurines/)
+- [プレゼント](/ja/items/gifts/)
+- [実績](/ja/items/achievements/)
+
 ## キャラクター
 
 バージョン1.5の[プレイアブルキャラ](/ja/characters/)は25名である。
 
 [イェルム](/ja/characters/elyms/)、[明音凛](/ja/characters/akane-rin/)、[クロバネ](/ja/characters/blackbird/)、[リンコ](/ja/characters/linko/)、[残虹](/ja/characters/zankou/)、[イロヒ](/ja/characters/iroi/)、[真紅](/ja/characters/shinku/)、[カオス](/ja/characters/chaos/)、[レクイエム](/ja/characters/lacrimosa/)、[潯](/ja/characters/hotori/)、[ナナリ](/ja/characters/nanally/)、[翳](/ja/characters/skia/)、[海月](/ja/characters/aurelia/)、[ハニア](/ja/characters/haniel/)、[アドレー](/ja/characters/adler/)、[エドガー](/ja/characters/edgar/)、[ミント](/ja/characters/mint/)、[九原](/ja/characters/jiuyuan/)、[ダフォディール](/ja/characters/daffodill/)、[ファルディーヤ](/ja/characters/fadia/)、[ハソール](/ja/characters/hathor/)、[白蔵](/ja/characters/baicang/)、[早霧](/ja/characters/sakiri/)、[ちぃちゃん](/ja/characters/chiz/)、[異能者・零](/ja/characters/zero/)。
+
+そのうち24名に[アーカイブ](/ja/characters/archives/)があり、25名全員に[ボイス](/ja/characters/voices/)がある。

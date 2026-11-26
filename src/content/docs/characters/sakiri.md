@@ -60,6 +60,7 @@ sources:
 | Role | Eibon Antique Shop; wields the Anomaly war hammer Kiroumaru |
 | Voice actors | Chinese: 蔡书瑾; English: Brianna Knickerbocker; Japanese: 伊藤美来; Korean: 김나율 |
 | Archive | [Sakiri archive](/characters/sakiri/archive/) |
+| Voice lines | [Sakiri voice lines](/characters/sakiri/voice/) |
 
 ## How to obtain
 

@@ -45,6 +45,7 @@ sources:
 | Joined | Version 1.0 |
 | Voice actors | Chinese: 刘雨轩; English: Bill Butts; Japanese: 杉田智和; Korean: 이동훈 |
 | Archive | [Skia archive](/characters/skia/archive/) |
+| Voice lines | [Skia voice lines](/characters/skia/voice/) |
 
 ## How to obtain
 

@@ -46,6 +46,7 @@ sources:
 | 実装 | バージョン1.0 |
 | 声優 | 中国語：王宇航、英語：Jacob Craner、日本語：森川智之、韓国語：심규혁 |
 | アーカイブ | [アドレーのアーカイブ](/ja/characters/adler/archive/) |
+| ボイス | [アドレーのボイス](/ja/characters/adler/voice/) |
 
 ## 入手方法
 

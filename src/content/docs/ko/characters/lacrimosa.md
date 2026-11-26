@@ -60,6 +60,7 @@ sources:
 | 신분 | E.T.D 4팀 소속 |
 | 성우 | 중국어: 宴宁; 영어: Baraka May; 일본어: 長縄まりあ; 한국어: 김보나 |
 | 아카이브 | [라크리모사 아카이브](/ko/characters/lacrimosa/archive/) |
+| 보이스 | [라크리모사 보이스](/ko/characters/lacrimosa/voice/) |
 
 ## 획득 방법
 

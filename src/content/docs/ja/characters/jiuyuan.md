@@ -57,6 +57,7 @@ sources:
 | 肩書き | ステーリーの情報網を采配する |
 | 声優 | 中国語：张安琪、英語：Baraka May、日本語：田中理恵、韓国語：방시우 |
 | アーカイブ | [九原のアーカイブ](/ja/characters/jiuyuan/archive/) |
+| ボイス | [九原のボイス](/ja/characters/jiuyuan/voice/) |
 
 ## 入手方法
 

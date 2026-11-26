@@ -1,0 +1,1947 @@
+{
+ "slug": "linko",
+ "id": "1072",
+ "version": "1.5.4",
+ "sources": {
+  "en": "https://static.nanoka.cc/nte/1.5.4/en/character/1072.json",
+  "zh-cn": "https://static.nanoka.cc/nte/1.5.4/zh/character/1072.json",
+  "ja": "https://static.nanoka.cc/nte/1.5.4/ja/character/1072.json",
+  "ko": "https://static.nanoka.cc/nte/1.5.4/ko/character/1072.json",
+  "zh-tw": "https://everness.info/zh-Hant/espers/1072"
+ },
+ "reads": {
+  "zh-tw": "2026-11-25"
+ },
+ "lines": {
+  "en": {
+   "daily": [
+    {
+     "title": "First Meet",
+     "text": "Beep-boop, beep-boop—Calling the Appraiser, this is Linko from ETD-6, currently working on operation \"Let's Hang Out.\" Please respond… or give me a nod."
+    },
+    {
+     "title": "Chat: Field Duty",
+     "text": "The next section to patrol is… Umm… I'll just go with the flow."
+    },
+    {
+     "title": "Chat: Movies",
+     "text": "Appraiser, Appraiser! There's a new paranormal movie at Floe Cinema! Wanna see it together?"
+    },
+    {
+     "title": "Chat: Hethereau",
+     "text": "Hethereau is a pretty accepting city. I run into all kinds of fun stuff on my patrols, and the citizens are used to strange things happening from time to time."
+    },
+    {
+     "title": "Sunny",
+     "text": "They say that if you let the sun shine on your face, you'll get this warm and fuzzy feeling, like a cat whisking its tail on your face…"
+    },
+    {
+     "title": "Rainy",
+     "text": "I really love the sound of rain falling on empty soda cans… if I lined up a few cans with different pitches, could I compose a song?"
+    },
+    {
+     "title": "Cold",
+     "text": "So cold… If only Xiaozhen's ghost fire could warm me up…\n(Xiaozhen：Huh? How can I do that? I'm not some scorching spirit!)"
+    },
+    {
+     "title": "Hot",
+     "text": "It's so warm… If I wrapped Xiaozhen around my neck, I'd feel a lot better… Xiao… zhen…\n(Xiaozhen：No way! Not even a ghost will leave her TV in this hot weather!)"
+    },
+    {
+     "title": "Morning Greeting",
+     "text": "Morning, Appraiser… Oof… I went to bed late last night, hah…\n(Xiaozhen: The little scamp stayed up late again. Even ghosts go to bed earlier…)"
+    },
+    {
+     "title": "Noon Greeting",
+     "text": "Appraiser, Appraiser, are dreams from naps different from the ones you have at night? Do dreams work like movies in theaters, with matinee showings and late-night showings?"
+    },
+    {
+     "title": "Evening Greeting",
+     "text": "The sun's setting. Soon, the city's many signals will slowly quiet down, just like the white foam of the waves hissing away as the tide returns to the sea."
+    },
+    {
+     "title": "Good Night",
+     "text": "The universe sings a lullaby every night, sometimes it's the stars, sometimes it's the moon… Appraiser, if only you could hear it too."
+    },
+    {
+     "title": "Hobbies",
+     "text": "I got this big cabinet at home stuffed with movie discs. Each night, I pick one randomly and watch it with Xiaozhen. I love alien and paranormal stuff, but Xiaozhen hates them. She always says why bother watching fake special effects when she, an actual spirit, is the real deal…\n(Xiaozhen: Hmph! If they ever cast this evil spirit as the antagonist, I'll make a movie that's a thousand times scarier!)"
+    },
+    {
+     "title": "Worries",
+     "text": "Worries… I've never thought about any. If I must say, I guess I don't have the answers to certain questions. Like… where to catch a shiny Tamachi, why Exe is always mad at Elyms, how to get Xiaozhen to admit she's cute, what the radio waves from deep space actually sound like… and, whether people tuned to different frequencies can really understand each other… so many questions, so few answers."
+    },
+    {
+     "title": "Topic: Frequency",
+     "text": "The world is like a radio station. Humans, anomalies, and everything else all broadcast their unique signal on their private channels. Whenever I pick up an interesting signal, I go look for where it came from… Usually, the stranger the signal, the more surprising its source turns out to be: like a philosophical water bird standing by the river, contemplating life; or some local resident standing in a wheat field with a pot on their head, trying to summon aliens; or a location anomaly that hates being alone and craves visitors."
+    },
+    {
+     "title": "Topic: Headset",
+     "text": "The Bureau gave me this customized headset. I think it's called… the \"Static Sifter Headset\"? I turn this dial, and it clears out the noise, letting me focus and search for a specific frequency, kind of like a radio. It also doubles as regular headphones. I use it to listen to rock music from anomalies, compilations of oddity calls, or white noise from anomalous realms… stuff like that. The sound quality's great.\n(Xiaozhen：What in Hethereau do you listen to…)"
+    },
+    {
+     "title": "Topic: Tamachi",
+     "text": "Tamachi GO is a game about electronic pets. It used to be insanely popular. Tons of players flooded the streets to catch pets and battle. Not a lot of people play it these days… Heheh, In fact, before you stands one of Hethereau's top five Tamachi masters—just one step away from catching them all—well, counting shiny ones and variants, more like—three or four steps away!"
+    },
+    {
+     "title": "About Myself: Esper Abilities",
+     "text": "I can sense the frequencies of the people around me. If I focus and listen closely to one of them, there's this resonance that gradually sharpens, until at some point, everything feels transparent and encompassing, like a heartbeat perfectly in sync, linking me straight to the source of that signal, understanding everything, sharing everything—no more misunderstandings or barriers in the way… I long for that feeling, even just for a fleeting moment."
+    },
+    {
+     "title": "About Myself: Battle",
+     "text": "I hope the way Xiaozhen and I fight alongside each other doesn't scare you. Those big hands are actually Xiaozhen's. As for how we make it work… if I'm synced enough with a certain frequency, sometimes I can fully resonate with its source… It's like we share emotions, feelings, powers, and act as one… It feels like some kind of power-up state? It's hard to keep that going though. Right now, Xiaozhen's the only one I can keep a stable resonance with…\n(Xiaozhen：Huh? Am I not enough for you? Why don't you go ask those baddies you arrested about how I scared the heck outta them! Can't believe this scamp wants more, humph…)"
+    },
+    {
+     "title": "About Myself: Family",
+     "text": "Both my mom and dad are Espers. Dad's power is sinking into the couch for a whole day and binging through movies quietly. Mom's power is talking nonstop while walking through a dozen streets without needing rest. I inherited both of their powers, but maybe because they are total opposites, I just got a watered-down power. Compared to them, I just have an ordinary love for movies and going out for fun…"
+    },
+    {
+     "title": "About Myself: Work",
+     "text": "Unit-6's job… simply put, is catching people who use anomalies or their Esper Ability to do bad things. My day-to-day is using my powers to search for baddies and track them down. Usually, Exe shares with me intel about a target, like where they've been spotted, aliases they've used, or what websites they've browsed, and what kind of music they like, stuff like that. Once I get a feel, I can figure out what their frequencies sounds like, then I just go around the city listening for where they're coming from… How does it actually work? Um… I don't know, it's basically just… going with the vibe?"
+    },
+    {
+     "title": "About Nitsa",
+     "text": "Nitsa's frequency is super regular, like… a piano that follows the music sheet's every detail. Sometimes it speeds up, until it's hard to catch your breath even if you just listen. But she's extremely reliable! She can recite the entire ETD standard procedure manual word for word. The problem is… she always wants to follow the process step by step and do everything by the book. When she runs into something unexpected, she tends to freak out. But don't you worry, as Nitsa's senpai, I'll take care of her!\n(Xiaozhen: You know, you started like half a year ahead of her…)"
+    },
+    {
+     "title": "About Chaos",
+     "text": "Frequency from Chaos tends to be noisy—it goes on and on, just like his chatters. His channel only goes quiet when he faces Esper criminals. In those times, his signal rumbles and growls, almost like some wild beast… Though we team up for many missions, we often end up splitting up because he wanders off while tailing a target… I mean, obviously he's the one who gets lost when I'm the one on the right path.\n(Xiaozhen: If I were Chaos, I'd grab your ahoge and pull it off right now.)"
+    },
+    {
+     "title": "About Elyms",
+     "text": "Big sis Elyms… I'm so happy to see her again. Her frequencies are completely different from before. They're now like a bunch of unstable channels stacked on top of each other. It's hard for me to hear clearly… When we met again, I thought she was someone else, but she recognized me right away. She even remembered taking me to catch Tamachis. She still likes to pinch my cheeks, just like back then… I guess people's frequencies can change too."
+    },
+    {
+     "title": "About Exe",
+     "text": "Exe likes to shut himself away in the server room. It's pretty hard to see him in person. When he does show up, he always has this stern and intimidating look, but he's actually a gentle person. His frequency is almost hypnotic, like listening to rain through a thick window… or that steady, rapid clatter of someone typing on the keyboard. But sometimes… well, mostly when he's around big sis Elyms, I hear these scary noises from him and they scare me a bit… Anyway, I hope they get along some day."
+    },
+    {
+     "title": "About Xiaozhen",
+     "text": "The first time I met Xiaozhen was deep inside an anomalous realm. Back then, I picked up a frequency that felt like… a CRT TV screen that was just switched off—warm but with some static. I listened as I searched for the source, then I found an old TV. Once I plugged it in, Xiaozhen appeared on the screen, curled up like a stray cat sleeping in a tattered cardboard box… Yep, it's the little TV I carry on my back, that's her home, and I'm the one who carries her home around. That makes me her family."
+    },
+    {
+     "title": "About ETD-6",
+     "text": "You want to know more about us? Let me think… Actually, Exe does smile. Sometimes when we talk about old games, he gets this nostalgic smile, but then he sinks right back into gloom… Big sis Elyms is very kind, but sometimes I catch her telling Exe things too difficult for me to understand. I really hope she's not bullying the captain… As for Chaos, he always says Dally is nothing but a construct he created with his power, but honestly, he treats the hound really well… As for me, umm… Oh right, I'm actually an alien."
+    },
+    {
+     "title": "Character Ascension I",
+     "text": "Oh, this feeling… That's a first."
+    },
+    {
+     "title": "Character Ascension II",
+     "text": "What? Linko is… evolving!\n(Xiaozhen：She's evolving! Just backwards.)"
+    },
+    {
+     "title": "Character Ascension III",
+     "text": "Linko's final evolution—umm, what should I evolve into… Ultimate Linko!\n(Xiaozhen：You never get bored…)"
+    },
+    {
+     "title": "Gift Received I",
+     "text": "Oh, wow! Appraiser, how did you know I wanted this? Does that mean… you're receiving my frequency?"
+    },
+    {
+     "title": "Gift Received II",
+     "text": "I like this a lot. Thank you, Appraiser… I knew we were in sync."
+    },
+    {
+     "title": "Gift Received III",
+     "text": "Oh, the unlimited bounties of nature!\n(Xiaozhen: Oi, that's from the Appraiser, not from mother nature.)"
+    },
+    {
+     "title": "Gift Received IV",
+     "text": "I'll treasure this. Thank you, Appraiser."
+    }
+   ],
+   "battle": [
+    {
+     "title": "Redirect Skill I",
+     "text": "Please welcome…!"
+    },
+    {
+     "title": "Redirect Skill II",
+     "text": "Let's beat 'em together!"
+    },
+    {
+     "title": "Redirect Skill III",
+     "text": "Ready to sync!"
+    },
+    {
+     "title": "Ultimate I",
+     "text": "We're all connected by frequencies!"
+    },
+    {
+     "title": "Ultimate II",
+     "text": "Sync rate reaching… 100%!"
+    },
+    {
+     "title": "Ultimate III",
+     "text": "Resonance domain… expanding!"
+    },
+    {
+     "title": "Ultimate IV",
+     "text": "(Xiaozhen: It's not over yet!)"
+    },
+    {
+     "title": "Ultimate V",
+     "text": "(Xiaozhen: It's our turn!)"
+    },
+    {
+     "title": "Ultimate VI",
+     "text": "(Xiaozhen: Teeheeheehee!)"
+    },
+    {
+     "title": "Ultimate VII",
+     "text": "Umm… this is awkward…"
+    },
+    {
+     "title": "Ultimate VIII",
+     "text": "(Xiaozhen: Team—? Where did you go?)"
+    },
+    {
+     "title": "Ultimate IX",
+     "text": "Did I say the wrong catchphrase? Then… Espers—Assemble! (*More silence*) That's not working either…"
+    },
+    {
+     "title": "Containment I",
+     "text": "Anomaly contained. Time to catch Tamachis."
+    },
+    {
+     "title": "Containment II",
+     "text": "My containment index is more complete!"
+    },
+    {
+     "title": "Nullification I",
+     "text": "Its frequency… gone."
+    },
+    {
+     "title": "Nullification II",
+     "text": "Mission accomplished, Linko gets an EXP boost!"
+    },
+    {
+     "title": "Unexpected Gains I",
+     "text": "Appraiser, Appraiser! There's good stuff here."
+    },
+    {
+     "title": "Unexpected Gains II",
+     "text": "It's been here all the time."
+    },
+    {
+     "title": "Unexpected Gains III",
+     "text": "The source of the signal… found it."
+    },
+    {
+     "title": "Unexpected Gains IV",
+     "text": "Phew. Glad I didn't miss it."
+    },
+    {
+     "title": "Unexpected Gains V",
+     "text": "It's been waiting for us for a while."
+    },
+    {
+     "title": "Unexpected Gains VI",
+     "text": "Lalala!"
+    },
+    {
+     "title": "Low Health I",
+     "text": "Concen… trate…\n(Xiaozhen: Scamp, hang in there!)"
+    },
+    {
+     "title": "Low Health II",
+     "text": "(Xiaozhen: Hey, this is bad!)\nIt's not… over!"
+    },
+    {
+     "title": "Low Health III",
+     "text": "(Xiaozhen: Scamp, don't take any more hits!)\nI can… do this!"
+    },
+    {
+     "title": "Heal I",
+     "text": "Phew—I'll keep going."
+    },
+    {
+     "title": "Heal II",
+     "text": "Mm, much better."
+    },
+    {
+     "title": "Down I",
+     "text": "Xiao… zhen… sorry…"
+    },
+    {
+     "title": "Down II",
+     "text": "I can't… hear…"
+    },
+    {
+     "title": "Down III",
+     "text": "(Xiaozhen: Hey, scamp… scamp!)"
+    },
+    {
+     "title": "Takedown I",
+     "text": "Phew… all done."
+    },
+    {
+     "title": "Takedown II",
+     "text": "(Xiaozhen：Join the dead!)"
+    },
+    {
+     "title": "Damaged I",
+     "text": "……\n(Xiaozhen：It's payback time!)"
+    },
+    {
+     "title": "Damaged II",
+     "text": "I got hit…\n(Xiaozhen：Then hit back!)"
+    },
+    {
+     "title": "Heavily Damaged I",
+     "text": "(Xiaozhen：Tch, scamp!?)\nI'm… alright!"
+    },
+    {
+     "title": "Heavily Damaged II",
+     "text": "Uh… ngh…\n(Xiaozhen：You thug!)"
+    },
+    {
+     "title": "Deploy I",
+     "text": "Heheh, I knew you'd choose me."
+    },
+    {
+     "title": "Deploy II",
+     "text": "Xiaozhen, Xiaozhen, we're up!"
+    },
+    {
+     "title": "Entry Attack I",
+     "text": "Eat this!"
+    },
+    {
+     "title": "Entry Attack II",
+     "text": "(Xiaozhen: It's hauntin' time!)"
+    },
+    {
+     "title": "Entry Attack III",
+     "text": "Xiaozhen, now!"
+    },
+    {
+     "title": "Entry Attack IV",
+     "text": "Heavy punch!"
+    },
+    {
+     "title": "Entry Attack V",
+     "text": "(Xiaozhen: I'm over here!)"
+    },
+    {
+     "title": "Entry Attack VI",
+     "text": "(Xiaozhen: BOO!)"
+    },
+    {
+     "title": "Glide I",
+     "text": "Weee!"
+    },
+    {
+     "title": "Glide II",
+     "text": "Destination, where?"
+    },
+    {
+     "title": "Switch I",
+     "text": "Orders received."
+    },
+    {
+     "title": "Switch II",
+     "text": "It's our turn!"
+    },
+    {
+     "title": "Switch III",
+     "text": "(Xiaozhen：Who should I beat up?)"
+    },
+    {
+     "title": "Special Switch - Zero",
+     "text": "Appraiser, we're here to help!"
+    },
+    {
+     "title": "Special Switch - Exe",
+     "text": "Captain… went out of his room?"
+    },
+    {
+     "title": "Special Switch - Elyms",
+     "text": "Big sis Elyms… synced!"
+    },
+    {
+     "title": "Special Switch - Chaos",
+     "text": "Can I pet Dally when we're off duty?"
+    },
+    {
+     "title": "Teammate Down - Zero",
+     "text": "Appraiser's signal… gone…\n(Xiaozhen：Scamp! Focus!)"
+    },
+    {
+     "title": "Teammate Down - Exe",
+     "text": "Oh no, captain went over his exercise quota…"
+    },
+    {
+     "title": "Teammate Down - Elyms",
+     "text": "Big sis Elyms, where did you go…?"
+    },
+    {
+     "title": "Teammate Down - Chaos",
+     "text": "No, it's not time to part ways."
+    },
+    {
+     "title": "Parry I",
+     "text": "Punish counter!\n(Xiaozhen：What kind of game are you playing…)"
+    },
+    {
+     "title": "Parry II",
+     "text": "(Xiaozhen：Not so fast!)"
+    },
+    {
+     "title": "Consecutive Critical Dodge Success I",
+     "text": "I'm in sync!"
+    },
+    {
+     "title": "Consecutive Critical Dodge Success II",
+     "text": "(Xiaozhen: Nice movement, scamp!)"
+    }
+   ]
+  },
+  "zh-cn": {
+   "daily": [
+    {
+     "title": "初次见面",
+     "text": "哔啵哔啵——呼叫鉴定师，这里是E.T.D六队的灵可，正在执行「找你出去玩」的任务，收到请回复……或者点点头也可以。"
+    },
+    {
+     "title": "闲聊·外勤",
+     "text": "接下来要巡逻的区域是……嗯……还是跟着感觉走好了。"
+    },
+    {
+     "title": "闲聊·电影",
+     "text": "鉴定师鉴定师，浮冰影院好像上映了新的灵异电影，要一起去看看吗？"
+    },
+    {
+     "title": "闲聊·海特洛",
+     "text": "海特洛是一座很包容的城市，我巡逻时经常会遇到稀奇有趣的事情，市民们也都见怪不怪的。"
+    },
+    {
+     "title": "大晴天",
+     "text": "听说，如果阳光在脸上晒久了，会有一种暖呼呼、毛茸茸的触感，就像是猫尾巴从脸上扫过去一样……"
+    },
+    {
+     "title": "雨天",
+     "text": "我很喜欢雨落在空易拉罐上的声音……如果把几个音调不同的易拉罐放在一起，会不会演奏出一首歌呢？"
+    },
+    {
+     "title": "寒冷",
+     "text": "好冷……要是小贞的鬼火可以用来取暖就好了……\n（小贞：哈？怎么可能？你想把我变成热死鬼吗？）"
+    },
+    {
+     "title": "炎热",
+     "text": "好热……要是把小贞缠在脖子上，肯定会很凉快……小贞……\n（小贞：你想得美！这么热的天，鬼才会从电视里出来！）"
+    },
+    {
+     "title": "早上问候",
+     "text": "早上好，鉴定师……唔……昨天睡得有点晚，哈……\n（小贞：这小鬼又熬夜，鬼都睡得比你早……）"
+    },
+    {
+     "title": "中午问候",
+     "text": "鉴定师鉴定师，你说，午睡时做的梦，和晚上做的梦，会有什么不同吗？有没有可能，梦境也和电影院一样，分午间和深夜场？"
+    },
+    {
+     "title": "傍晚问候",
+     "text": "太阳落山了，再过一会儿，这座城市的电波就会慢慢安静下来，就像海水退潮时，那些沙沙的白色浪花一样。"
+    },
+    {
+     "title": "晚安",
+     "text": "宇宙每晚都会唱摇篮曲，有时是星星，有时是月亮……要是鉴定师也能听见就好了。"
+    },
+    {
+     "title": "爱好",
+     "text": "我家里有一个装满了电影碟片的大柜子，每天晚上，我都会随机抽一张出来，和小贞一起看。我喜欢外星人和灵异题材的电影，但小贞很嫌弃。她说，与其看那些用特效虚构的东西，还不如看她这个货真价实的恶灵……\n（小贞：哼！本恶灵要是当电影主角，绝对比它们吓人一千倍！）"
+    },
+    {
+     "title": "烦恼",
+     "text": "烦恼……我没有想过。一定要说的话，应该是一些还没找到答案的问题吧。比如……异色的獭麻吉该去哪抓，Exe为什么总对曳尔沐姐姐生气，该怎么让小贞承认自己很可爱，宇宙深处的电波是什么样的……还有，频道各不相同的大家，真的能做到理解彼此吗……好多好多的问题，我都不明白。"
+    },
+    {
+     "title": "话题·电波",
+     "text": "世界像一个电台，人类、异象、还有其它的万物，都在独属于自己的频道里，释放着独一无二的电波。每次接收到有趣的电波，我都会去寻找它的来源……通常，越是奇特的电波，它的来源就越令人意外，比如在河边一动不动、沉思人生的哲学家水鸟，在麦田里顶着铁锅、呼唤外星人的市民，还有讨厌孤单、希望有人上门做客的地点异象，之类的。"
+    },
+    {
+     "title": "话题·耳机",
+     "text": "这个耳机是异象管理局为我定制的，好像叫什么……「滤波监听耳机」？我只要扭动这个旋钮，就可以清除噪波的干扰，让我能集中精神、搜索特定的电波频段，就像给收音机调频一样。它也可以当作正常耳机用，我用它听过异象自创的摇滚乐、歧骸叫声合集、异象空间白噪音之类的，音质非常好。\n（小贞：听的都是什么鬼东西……）"
+    },
+    {
+     "title": "话题·獭麻吉",
+     "text": "獭麻吉GO是一款电子宠物游戏，以前非常火爆，很多玩家会跑到大街上捉宠和对战，但现在已经没什么人玩了……哼哼，其实现在站在你面前的，就是海特洛排名前五的獭麻吉高手——距离图鉴全收集就差一步……嗯，算上异色和隐藏款的话，大概……三四步之遥！"
+    },
+    {
+     "title": "关于自己·异能",
+     "text": "我可以感受到周围人的「电波」，如果集中精神、倾听其中的一个，会有一种逐渐清晰的共鸣感，直到某一刻，那个感受突然变得完整、通透，像是节奏完全相同的心跳，将我和电波的来源连在一起——理解一切，分享一切，不再有任何误解和阻碍……我很向往那种感觉，哪怕只有一瞬间。"
+    },
+    {
+     "title": "关于自己·战斗",
+     "text": "我和小贞一起战斗的样子，应该没吓到你吧？那双大手其实是小贞的，至于是怎么做到的……如果我和某个电波足够合拍，有时就可以和它的来源完全「共鸣」……就像一种情绪、感受、力量……甚至身体的指挥权都能共享的……变强的状态？但它很难持续，现在，我能够稳定维持「共鸣」的对象，也只有小贞一个……\n（小贞：哈？有我还不够吗？去问问你抓的那些坏蛋，哪个不是对本恶灵的大手闻风丧胆！你个臭小鬼还嫌弃上了，哼……）"
+    },
+    {
+     "title": "关于自己·家庭",
+     "text": "我的爸爸和妈妈都是异能者。爸爸的异能是可以陷在沙发里一整天、一声不吭连着看好多部电影，妈妈的异能是可以一边不停聊天、一边逛完十几条街不休息。我继承了他们俩的异能，但可能是因为他们的属性完全相反，我只继承到了削弱后的版本。和他们相比，我只是普通的喜欢看电影和到处玩而已……"
+    },
+    {
+     "title": "关于自己·工作",
+     "text": "六队的职责……简单来说，就是抓住那些用异象或异能做坏事的家伙。我的日常工作，就是借助异能搜寻和追踪他们。通常Exe会给我分享一些目标的情报，比如出没地点、用过的身份、或者刷过什么网站、爱听什么音乐之类的，我了解过后，就大概能知道对方的电波是什么样子，然后就可以在城市里边听边找来源了……什么原理？嗯……我不知道，总之就是……凭感觉？"
+    },
+    {
+     "title": "关于妮夏",
+     "text": "妮夏的电波很规则，就像是……节拍固定、一板一眼的钢琴曲，有时还会越弹越快，听着让人喘不过气来。但她超级可靠！E.T.D工作手册里的流程规范，妮夏能一字不差地背出来，但……她也总是想照着流程、一字不差地完美执行，如果遇到意外的状况，她就会把自己绷得紧紧的。不过不用担心，作为前辈，我会好好照顾妮夏的！\n（小贞：明明你就比人家早来半年……）"
+    },
+    {
+     "title": "关于卡厄斯",
+     "text": "卡厄斯的电波很吵，和他本人一样，总是絮絮叨叨的。只有在面对异能者坏蛋的时候，他的频道会静下来，变成一阵一阵的、像是野兽低吼的声音……我们虽然经常一起出任务，但大多数时候都是分头行动，因为他总是会在跟踪目标时和我走散……嗯，当然是他走丢了，我选的路才是对的。\n（小贞：我要是卡厄斯，我现在就把你的呆毛拔下来。）"
+    },
+    {
+     "title": "关于曳尔沐",
+     "text": "曳尔沐姐姐……能和她再次相见，我真的很开心。但她的电波和过去完全不一样，像是好多个不稳定的频道叠在了一起，我很难听清楚……第一次见面的时候，我还以为我认错了，但她一眼就认出了我，也记得带我捉獭麻吉的事，甚至还和当年一样，总喜欢捏我的脸……可能人的电波也是会变的吧。"
+    },
+    {
+     "title": "关于Exe",
+     "text": "Exe喜欢把自己关在机房里，平时很难见到他，偶尔露面时也总是板着个脸，看上去凶凶的，但他其实是个很温和的人。他的电波很催眠，像是隔着厚窗户听到的雨声……或者是那种均匀的、噼哩啪啦敲键盘的声音。但有的时候……准确的说，主要是他和曳尔沐姐姐在一起的时候，他的频道里会突然翻涌起一些很可怕的、我不敢仔细听的声音……要是他们能好好相处就好了。"
+    },
+    {
+     "title": "关于小贞",
+     "text": "我第一次见到小贞，是在一个异象空间的深处。当时，我接收到一个……像刚关掉的显像管电视屏幕一样的，有些温暖、但又毛刺刺的电波。我一边收听，一边搜寻它的来源，最后发现了一台旧电视机。接通电源后，小贞就出现在了屏幕里，像睡在烂纸箱里的野猫一样……没错，就是我背后这台小电视，它现在是小贞的家，而我是背着她的家到处走的人，简称家人。"
+    },
+    {
+     "title": "关于E.T.D六队",
+     "text": "你想知道我们的事？我想想……其实，Exe是会笑的。我和他聊到一些老游戏的时候，他偶尔会露出怀念的笑容，但马上又会消沉下去……曳尔沐姐姐很温柔，但有时，我会听到她会对Exe说一些难懂的话，希望她不是在欺负队长……卡厄斯嘴上总说小罗只是他用异能捏的假狗，但其实对它特别好……至于我的话，嗯……哦对，其实，我是外星人。"
+    },
+    {
+     "title": "角色突破·Ⅰ",
+     "text": "噢，这种感觉……还是第一次。"
+    },
+    {
+     "title": "角色突破·Ⅱ",
+     "text": "哦？！灵可的样子……发生了一些变化！\n（小贞：从呆瓜变成了大呆瓜。）"
+    },
+    {
+     "title": "角色突破·Ⅲ",
+     "text": "灵可最终进化——唔， 进化成什么呢……究极灵可！\n（小贞：你还真是玩不腻啊……）"
+    },
+    {
+     "title": "收到赠礼·Ⅰ",
+     "text": "唔噢——鉴定师怎么知道我想要这个？难道……鉴定师能感受到我的电波？"
+    },
+    {
+     "title": "收到赠礼·Ⅱ",
+     "text": "我很喜欢这个，谢谢鉴定师……我们的电波果然是同频的。"
+    },
+    {
+     "title": "收到赠礼·Ⅲ",
+     "text": "感谢大自然的馈赠——\n（小贞：oi，明明是鉴定师送你的，关大自然什么事。）"
+    },
+    {
+     "title": "收到赠礼·IV",
+     "text": "我会珍藏的，谢谢你，鉴定师。"
+    }
+   ],
+   "battle": [
+    {
+     "title": "变轨技能·Ⅰ",
+     "text": "下面有请！"
+    },
+    {
+     "title": "变轨技能·Ⅱ",
+     "text": "一起揍它！"
+    },
+    {
+     "title": "变轨技能·Ⅲ",
+     "text": "同频准备！"
+    },
+    {
+     "title": "极轨终结·Ⅰ",
+     "text": "电波连接着我们每一个人！"
+    },
+    {
+     "title": "极轨终结·Ⅱ",
+     "text": "同频率提升至……100%！"
+    },
+    {
+     "title": "极轨终结·Ⅲ",
+     "text": "共鸣领域……展开！"
+    },
+    {
+     "title": "极轨终结·Ⅳ",
+     "text": "（小贞：还没完呢！）"
+    },
+    {
+     "title": "极轨终结·V",
+     "text": "（小贞：该我们啦！）"
+    },
+    {
+     "title": "极轨终结·VI",
+     "text": "（小贞：嘻嘻嘻嘻~）"
+    },
+    {
+     "title": "极轨终结·Ⅶ",
+     "text": "咦……好像冷场了……"
+    },
+    {
+     "title": "极轨终结·Ⅷ",
+     "text": "（小贞：喂——队友们都去哪啦？）"
+    },
+    {
+     "title": "极轨终结·Ⅸ",
+     "text": "是我口号喊得不对吗？那……异能者——集结！好像也不行……"
+    },
+    {
+     "title": "收容异象·Ⅰ",
+     "text": "抓完异象，该去抓獭麻吉了。"
+    },
+    {
+     "title": "收容异象·Ⅱ",
+     "text": "收容图鉴，增加了！"
+    },
+    {
+     "title": "泯除异象·Ⅰ",
+     "text": "它的电波……消失了。"
+    },
+    {
+     "title": "泯除异象·Ⅱ",
+     "text": "任务完成，灵可的经验值上升了！"
+    },
+    {
+     "title": "意外收获·Ⅰ",
+     "text": "鉴定师鉴定师，这有好东西。"
+    },
+    {
+     "title": "意外收获·Ⅱ",
+     "text": "原来是在这里。"
+    },
+    {
+     "title": "意外收获·Ⅲ",
+     "text": "电波的源头……找到了。"
+    },
+    {
+     "title": "意外收获·Ⅳ",
+     "text": "嗯，还好没漏掉。"
+    },
+    {
+     "title": "意外收获·Ⅴ",
+     "text": "它等我们好久了。"
+    },
+    {
+     "title": "意外收获·Ⅵ",
+     "text": "哼哼~"
+    },
+    {
+     "title": "生命值低·Ⅰ",
+     "text": "集中……精神……\n（小贞：小鬼，不要勉强！）"
+    },
+    {
+     "title": "生命值低·Ⅱ",
+     "text": "（小贞：喂，情况不妙啊。）\n还……没结束！"
+    },
+    {
+     "title": "生命值低·Ⅲ",
+     "text": "（小贞：小鬼，扛不住可别硬扛！）\n我……能行！"
+    },
+    {
+     "title": "恢复生命·Ⅰ",
+     "text": "呼——还能继续。"
+    },
+    {
+     "title": "恢复生命·Ⅱ",
+     "text": "嗯，好多了。"
+    },
+    {
+     "title": "力竭·Ⅰ",
+     "text": "小贞……对不……起……"
+    },
+    {
+     "title": "力竭·Ⅱ",
+     "text": "听不……见了……"
+    },
+    {
+     "title": "力竭·Ⅲ",
+     "text": "（小贞：喂！小鬼……小鬼！）"
+    },
+    {
+     "title": "击败怪物·Ⅰ",
+     "text": "呼……搞定。"
+    },
+    {
+     "title": "击败怪物·Ⅱ",
+     "text": "（小贞：见鬼去吧！）"
+    },
+    {
+     "title": "普通受击·Ⅰ",
+     "text": "……\n（小贞：找它算账！）"
+    },
+    {
+     "title": "普通受击·Ⅱ",
+     "text": "没躲开……\n（小贞：那就打回去！）"
+    },
+    {
+     "title": "重受击·Ⅰ",
+     "text": "（小贞：啧、小鬼？！）\n我……没事！"
+    },
+    {
+     "title": "重受击·Ⅱ",
+     "text": "呃唔——\n（小贞：这个混帐！）"
+    },
+    {
+     "title": "上阵·Ⅰ",
+     "text": "哼哼~我就知道你会选我。"
+    },
+    {
+     "title": "上阵·Ⅱ",
+     "text": "小贞小贞，该我们上场了！"
+    },
+    {
+     "title": "协同技·Ⅰ",
+     "text": "吃我一拳！"
+    },
+    {
+     "title": "协同技·Ⅱ",
+     "text": "（小贞：闹鬼时间！）"
+    },
+    {
+     "title": "协同技·Ⅲ",
+     "text": "小贞，就是现在！"
+    },
+    {
+     "title": "协同技·Ⅳ",
+     "text": "重拳出击！"
+    },
+    {
+     "title": "协同技·Ⅴ",
+     "text": "（小贞：我在这儿呢！）"
+    },
+    {
+     "title": "协同技·Ⅵ",
+     "text": "（小贞：恶灵驾到！）"
+    },
+    {
+     "title": "滑翔·Ⅰ",
+     "text": "飘飘~"
+    },
+    {
+     "title": "滑翔·Ⅱ",
+     "text": "要去哪里？"
+    },
+    {
+     "title": "切换·Ⅰ",
+     "text": "指令已接收！"
+    },
+    {
+     "title": "切换·Ⅱ",
+     "text": "该我们出手了！"
+    },
+    {
+     "title": "切换·Ⅲ",
+     "text": "（小贞：欠揍的家伙都在哪？）"
+    },
+    {
+     "title": "特殊切换·零",
+     "text": "鉴定师鉴定师！我们来帮忙！"
+    },
+    {
+     "title": "特殊切换·Exe",
+     "text": "队长……居然出门了？！"
+    },
+    {
+     "title": "特殊切换·曳尔沐",
+     "text": "曳尔沐姐姐……连上了！"
+    },
+    {
+     "title": "特殊切换·卡厄斯",
+     "text": "等下班了，能把小罗借我摸摸吗？"
+    },
+    {
+     "title": "队友倒下·零",
+     "text": "鉴定师的电波……消失了……\n（小贞：小鬼！别走神！）"
+    },
+    {
+     "title": "队友倒下·EXE",
+     "text": "不好，队长的运动量好像透支了……"
+    },
+    {
+     "title": "队友倒下·曳尔沐",
+     "text": "曳尔沐姐姐？奇怪，她去哪了……"
+    },
+    {
+     "title": "队友倒下·卡厄斯",
+     "text": "不，还没到告别的时候。"
+    },
+    {
+     "title": "弹反·Ⅰ",
+     "text": "确反康！\n（小贞：那是啥意思……）"
+    },
+    {
+     "title": "弹反·Ⅱ",
+     "text": "（小贞：想得美！）"
+    },
+    {
+     "title": "连续极限闪避成功·Ⅰ",
+     "text": "同频成功。"
+    },
+    {
+     "title": "连续极限闪避成功·Ⅱ",
+     "text": "（小贞：走位可以啊~小鬼！）"
+    }
+   ]
+  },
+  "ja": {
+   "daily": [
+    {
+     "title": "初対面",
+     "text": "ぴ、ぽ、ぱ…あ、繋がった。こちら第6小隊のリンコ。聞こえたら応答願います…あ、頷くだけでもいいよ？今ね、君を「遊びに連れ出す」っていうミッションを実行中だから。"
+    },
+    {
+     "title": "雑談-外勤",
+     "text": "次のパトロール先は…うーん…直感で。"
+    },
+    {
+     "title": "雑談-映画",
+     "text": "鑑定士、鑑定士。浮氷映画館で、新しいオカルト映画やってるっぽいじゃん。一緒に見に行かない？"
+    },
+    {
+     "title": "雑談-ヘテロシティ",
+     "text": "ヘテロシティって、すっごく包容力がある都市だよね…パトロール中、よく不思議で面白いことに出くわすけどさ。市民の皆さんも、すっかり慣れっこだし。"
+    },
+    {
+     "title": "快晴",
+     "text": "噂だけど…太陽の光をずっと浴びてると、モフモフになるらしいよ…猫の尻尾みたいに。"
+    },
+    {
+     "title": "雨",
+     "text": "空き缶に雨が当たる音、好きだな…高さが違う缶を並べたら、演奏、できるかな？"
+    },
+    {
+     "title": "寒い",
+     "text": "寒い…さだちゃんの鬼火で、暖まりたいな…\n（さだちゃん：はぁ！？できるわけなかろう！我を干からびた幽霊にする気か！）"
+    },
+    {
+     "title": "灼熱",
+     "text": "暑い…さだちゃんを首に巻いたら、涼しいかも…さだちゃーーん…\n（さだちゃん：無理じゃ！こんなクソ暑い日…幽霊とて、テレビから出てくるわけなかろうが！）"
+    },
+    {
+     "title": "朝の挨拶",
+     "text": "おはよ、鑑定士…昨日ちょっと夜更かししちゃって…ふぁぁ。\n（さだちゃん: 小娘のくせに…幽霊の我のほうが、よっぽど早寝じゃぞ…）"
+    },
+    {
+     "title": "昼の挨拶",
+     "text": "鑑定士、鑑定士…お昼寝の夢と、夜の夢って、何が違うと思う？…もしかして、映画館みたいに、上映してるジャンルが違ったりするのかな？"
+    },
+    {
+     "title": "夕方の挨拶",
+     "text": "日が沈んだね。もうしばらくすると、この街の電波も静かになっていくよ…まるで、引き潮の白い波みたいに。"
+    },
+    {
+     "title": "おやすみ",
+     "text": "宇宙は毎晩、子守歌を歌ってるんだ…君にも、聴こえるといいな。"
+    },
+    {
+     "title": "趣味",
+     "text": "うちさ、映画のディスクが詰まったでっかい棚があって。毎晩ランダムに一枚引いて、さだちゃんと見てるんだよね。私は、宇宙人とかオカルト系が好きなんだけど…さだちゃんにはマジで不評。作り物見るくらいなら、本物の悪霊の自分を見ろってうるさくてさ。\n（さだちゃん: ふん！この我が映画の主役になれば、千倍は怖いに決まっておるわい！）"
+    },
+    {
+     "title": "悩み",
+     "text": "悩みごと…？うーん、あんまりないかな。強いて言うなら、まだ答えが分かんない「疑問」とか？色違いのタマチの出現場所でしょ、Exeがいつもイェルムお姉ちゃんにキレてる理由でしょ。…あと、どうすればさだちゃんが自分の可愛さを認めるか、とか。宇宙の彼方からの電波ってどんな感じか…とか。…それに、チャンネルの違うみんなが、本当にお互いを理解し合えるのかなって…分かんないことだらけだよ。"
+    },
+    {
+     "title": "話題-電波",
+     "text": "世界って、ラジオ局みたい。人間も異象も、全部が自分だけのチャンネルで、特有の電波を出してるんだ。だから面白い電波をキャッチすると、私、つい探しに行っちゃうんだよ。変わった電波ほど、発信元が予想外でさ…川辺で人生を悟ったみたいな顔してる水鳥とか、麦畑で頭に鍋かぶって宇宙人呼んでるヤツとか。…誰かに来てほしくて泣いてる、寂しがりな地点異象、とか。"
+    },
+    {
+     "title": "話題-ヘッドフォン",
+     "text": "このヘッドフォン、管理局が私のために特注してくれたやつで…ええと、たしか「濾波受信ヘッドフォン」？このつまみを回すだけでノイズを消せて…ラジオのチューニングみたいに、特定の電波に集中できるんだ。もちろん普通のヘッドフォンとしても使えるよ。異象が自作したロックとか、異骸の鳴き声集とか、異象空間のホワイトノイズなんかを聴いたけど…音質、マジで最高だから！\n（さだちゃん：ろくでもないものばかり聴きおって…）"
+    },
+    {
+     "title": "話題-タマチ",
+     "text": "「タマチGO」！昔超流行ってた電子ペットゲーム、みんな街中で捕まえたりバトルしたりしてたんだけど…今はもう過疎ゲーでさ。ふふん。でもね、君の目の前にいるのは、ヘテロシティ上位5名に入るタマチマスターなのだ！図鑑コンプまであと一歩！…あ、いや、色違いとかシークレットも含めたら…マジで三、四歩くらい！"
+    },
+    {
+     "title": "自分について-異能",
+     "text": "私、周りの人の「電波」が分かるの。一つの声にぎゅっと耳を澄ませてると…ある瞬間、ピタッと波長が合うんだ。心臓のリズムが重なるみたいに、相手と繋がれて…誤解も、壁も…全部関係なく。本当に一瞬だけど、そういう感覚、本当にワクワクする。"
+    },
+    {
+     "title": "自分について-戦闘",
+     "text": "バトル中のあのでっかい手…驚いた？あれ、さだちゃんの手なんだ。私、電波の波長が完全に合うと、相手と「共鳴」できるの。感覚とか力、体の主導権までシェアして…一気にブーストがかかる、みたいな？でもキープするのがめっちゃ難しくて。今、安定して「共鳴」できるのって…さだちゃんだけなんだよね。\n（さだちゃん：はぁ！？我だけでは不満か！お主がとっ捕まえた悪党どもに聞いてみるがよい！どいつもこいつも我が力に震え上がっておったわ！クソガキの分際で我を見下しおって…ふんっ！）"
+    },
+    {
+     "title": "自分について-家庭",
+     "text": "うちのパパとママ、二人とも異能者なんだよね。パパは「丸一日ソファに沈んで、無言で映画を見続けられる」異能。ママは「一生喋りながら何十ブロックも歩き回れる」異能！私も一応受け継いだけど、系統が真逆すぎたせいで、だいぶ弱体化しちゃったみたい。二人に比べたら、ただ映画見て遊ぶのが好きなだけだもん…"
+    },
+    {
+     "title": "自分について-仕事",
+     "text": "第6小隊の仕事？うーん…異象や異能を使った悪党を、とっ捕まえること。私の役目は、異能での捜索と追跡だよ。Exeがターゲットの出没地とか、検索履歴、好きな音楽とかの情報をくれるから…それを頭に入れると、相手の「電波」がだいたい分かるの。あとは街中で耳を澄まして探すだけ！…仕組み？んー、よく分かんない！とにかく直感！"
+    },
+    {
+     "title": "ニーシャについて",
+     "text": "ニーシャの電波って、すっごく規則正しいの。テンポが一定で、お堅いピアノ曲みたい。時々テンポがめっちゃ速くなって、聴いてるこっちが息苦しくなるくらい。でもね、あの子すっごく頼りになるんだ！業務マニュアルとか一字一句カンペキに暗記してるし。ただ…マニュアル通りにやりたがるから、予想外のトラブルが起きると、パニックになってカチカチに固まっちゃうんだよねぇ。ま、大丈夫！先輩の私が、ちゃーんと面倒見てあげるから。\n（さだちゃん：お主なんて、ニーシャより半年早く入っただけじゃろうが…）"
+    },
+    {
+     "title": "カオスについて",
+     "text": "カオスの電波はうるさい！本人と同じで、いっつもブツブツ文句言ってる！でも、悪党とやり合う時だけチャンネルが静かになって、野獣の唸り声みたいな低い音になるんだ…よく一緒に任務に行くけど、大抵バラバラになっちゃうんだよね。尾行中に、カオスがすぐ私とはぐれるから。もちろん、迷子になるのはカオスの方！私の選んだ道が絶対合ってるもん。\n（さだちゃん：我がカオスであったなら、今すぐお主のアホ毛をむしり取ってやるものを…）"
+    },
+    {
+     "title": "イェルムについて",
+     "text": "イェルムお姉ちゃん…また会えて、ホントに嬉しいな。でもね、彼女の電波、昔と全然違うの。いくつも不安定なチャンネルが混ざってて、うまく聴き取れないくらい…最初会った時、人違いかと思ったんだけど。彼女は一目で私に気づいてくれたし、一緒にタマチ捕まえに行ったことも覚えててくれた。それに、昔みたいに私のほっぺつねるのが大好きだし…人の電波って、変わることもあるんだね。"
+    },
+    {
+     "title": "Exeについて",
+     "text": "Exeってサーバー室に引きこもってるから、滅多に会えないんだ。たまに顔出してもいっつも不機嫌そうだけど、実は穏やかな人だよ。彼の電波って催眠効果があってさ。分厚い窓越しに聴く雨の音…みたいな？あとは、一定のリズムで鳴るキーボードの音とか。\nでも時々…とくに、イェルムお姉ちゃんと一緒にいる時。Exeのチャンネルから突然、じっくり聴けないくらい恐ろしい音が湧き上がってくるんだ…。\n…二人とも、仲良くしてくれたらいいんだけどなぁ"
+    },
+    {
+     "title": "さだちゃんについて",
+     "text": "さだちゃんと初めて会ったのは、ある異象空間の奥深く。その時、受信したの…消したばっかのブラウン管テレビみたいな、ちょっと温かくて、ざらざらした電波を。音を頼りに探したら、古いテレビがあって。電源入れたら…さだちゃんが現れたの。\nボロボロの段ボールで眠る、野良猫みたいに。…そう！つまり、私の背中にあるこの「テレビ君」が今のさだちゃんのお家で、私はこのお家を背負って歩き回る人。略して「家族」なのだ！"
+    },
+    {
+     "title": "E.T.D第6小隊について",
+     "text": "私たちのことが知りたい？そっかー、ええとね…実は、Exeだって笑うんだよ。昔のゲームの話をすると懐かしそうに微笑むんだけど…すぐまた落ち込んじゃうの。イェルムお姉ちゃんは優しいけど、時々Exeに難しい言葉でなんか言ってるから…隊長をいじめてないといいな。カオスはね、「ダロスなんか異能で作った偽物の犬だ」って口では言うくせに、ほんとはすっごく可愛がってるんだ！えっと、私はっていうと…あ、そうそう！実は私…宇宙人なのだ！"
+    },
+    {
+     "title": "キャラ突破Ⅰ",
+     "text": "おぉ、こんな感覚…初めてかも。"
+    },
+    {
+     "title": "キャラ突破Ⅱ",
+     "text": "あれ！？リンコのようすが…なにか変化したみたい！\n（さだちゃん：マヌケから大マヌケに進化したのう。）"
+    },
+    {
+     "title": "キャラ突破Ⅲ",
+     "text": "リンコ最終進化――うーん、何に進化しようかな…アルティメットリンコ！\n（さだちゃん：本当によく飽きぬものよのう…）"
+    },
+    {
+     "title": "届けられたギフトⅠ",
+     "text": "うおーっ！どうしてこれが欲しかったって分かったの？もしかして…鑑定士、私の電波を受信できてる！？"
+    },
+    {
+     "title": "届けられたギフトⅡ",
+     "text": "すごく気に入ったよ。ありがとう、鑑定士…私たちの電波、やっぱりシンクロしてるね。"
+    },
+    {
+     "title": "届けられたギフトⅢ",
+     "text": "大自然の恵みに感謝を――\n（さだちゃん: おい、鑑定士がくれたのであろう。大自然は関係なかろう。）"
+    },
+    {
+     "title": "届けられたギフトⅣ",
+     "text": "大事にするね。ありがとう、鑑定士。"
+    }
+   ],
+   "battle": [
+    {
+     "title": "バイレールスキルⅠ",
+     "text": "はい、次の人！"
+    },
+    {
+     "title": "バイレールスキルⅡ",
+     "text": "一緒にぶっ飛そ！"
+    },
+    {
+     "title": "バイレールスキルⅢ",
+     "text": "シンクロ、スタンバイ！"
+    },
+    {
+     "title": "EXレール終結Ⅰ",
+     "text": "電波は、すべてを繋ぐ…！"
+    },
+    {
+     "title": "EXレール終結Ⅱ",
+     "text": "シンクロ率…100%まで上昇！"
+    },
+    {
+     "title": "EXレール終結Ⅲ",
+     "text": "共鳴領域…展開！"
+    },
+    {
+     "title": "EXレール終結Ⅳ",
+     "text": "（さだちゃん: まだまだじゃ—！）"
+    },
+    {
+     "title": "EXレール終結Ⅴ",
+     "text": "（さだちゃん: 我らの番じゃな！）"
+    },
+    {
+     "title": "EXレール終結Ⅵ",
+     "text": "（さだちゃん: クヒヒヒヒ！）"
+    },
+    {
+     "title": "EXレール終結Ⅶ",
+     "text": "あれ…？なんか、しらけちゃった？"
+    },
+    {
+     "title": "EXレール終結Ⅷ",
+     "text": "（さだちゃん: おい…仲間たちはどこへ行きおったんじゃ？）"
+    },
+    {
+     "title": "EXレール終結Ⅸ",
+     "text": "か、掛け声間違えた！？じゃあ…異能者、アッセンブル！…やっぱりダメみたいだね…"
+    },
+    {
+     "title": "異象収容Ⅰ",
+     "text": "次はタマチを捕まえに行こ。"
+    },
+    {
+     "title": "異象収容Ⅱ",
+     "text": "収容図鑑、増えたよ！"
+    },
+    {
+     "title": "異象排除Ⅰ",
+     "text": "あの子の電波…消えちゃった。"
+    },
+    {
+     "title": "異象排除Ⅱ",
+     "text": "リンコの経験値がアップした！"
+    },
+    {
+     "title": "意外な収穫Ⅰ",
+     "text": "鑑定士、鑑定士！ここにいいものあるよ。"
+    },
+    {
+     "title": "意外な収穫Ⅱ",
+     "text": "なんだ、ここにあったんだ。"
+    },
+    {
+     "title": "意外な収穫Ⅲ",
+     "text": "電波の源…見つけた。"
+    },
+    {
+     "title": "意外な収穫Ⅳ",
+     "text": "うん、見落とさなくてよかった。"
+    },
+    {
+     "title": "意外な収穫Ⅴ",
+     "text": "ずいぶん長く待っててくれたんだ。"
+    },
+    {
+     "title": "意外な収穫Ⅵ",
+     "text": "ふんふん~"
+    },
+    {
+     "title": "低HPⅠ",
+     "text": "集中…しなきゃ…\n（さだちゃん: 小娘、無理はするでないぞ！）"
+    },
+    {
+     "title": "低HPⅡ",
+     "text": "（さだちゃん: おい、やばいんじゃないか？）\nまだ…終わってない！"
+    },
+    {
+     "title": "低HPⅢ",
+     "text": "（さだちゃん: 小娘、無理するでないぞ！）\n私…やれる。"
+    },
+    {
+     "title": "HP回復Ⅰ",
+     "text": "ふぅ…まだいける。"
+    },
+    {
+     "title": "HP回復Ⅱ",
+     "text": "うん、だいぶ良くなった。"
+    },
+    {
+     "title": "力尽きⅠ",
+     "text": "さだちゃん…ごめ…ん…"
+    },
+    {
+     "title": "力尽きⅡ",
+     "text": "聞こえ…ない…"
+    },
+    {
+     "title": "力尽きⅢ",
+     "text": "（さだちゃん: おい！小娘…小娘！）"
+    },
+    {
+     "title": "敵を撃破Ⅰ",
+     "text": "ふぅ…片付いた。"
+    },
+    {
+     "title": "敵を撃破Ⅱ",
+     "text": "（さだちゃん：くたばるがよい！）"
+    },
+    {
+     "title": "ダメージを受ける（通常）Ⅰ",
+     "text": "…\n（さだちゃん：覚悟しな！）"
+    },
+    {
+     "title": "ダメージを受ける（通常）Ⅱ",
+     "text": "避けられなかった…\n（さだちゃん：殴り返せぇ！）"
+    },
+    {
+     "title": "大打撃Ⅰ",
+     "text": "（さだちゃん：おい！小娘！？）\n私…平気！"
+    },
+    {
+     "title": "大打撃Ⅱ",
+     "text": "うぅっ――\n（さだちゃん：このクソ野郎め！）"
+    },
+    {
+     "title": "出撃Ⅰ",
+     "text": "うん、だろうなとは思ってたけど！"
+    },
+    {
+     "title": "出撃Ⅱ",
+     "text": "さだちゃんさだちゃん！私たちの出番だよ！"
+    },
+    {
+     "title": "コンビスキルⅠ",
+     "text": "食らえっ！"
+    },
+    {
+     "title": "コンビスキルⅡ",
+     "text": "（さだちゃん: 悪霊の時間じゃァ！）"
+    },
+    {
+     "title": "コンビスキルⅢ",
+     "text": "さだちゃん、今だ！"
+    },
+    {
+     "title": "コンビスキルⅣ",
+     "text": "渾身の、クリティカルッ！"
+    },
+    {
+     "title": "コンビスキルⅤ",
+     "text": "（さだちゃん: 我はここじゃぞー！）"
+    },
+    {
+     "title": "コンビスキルⅥ",
+     "text": "（さだちゃん: 悪霊のおでましじゃッ！）"
+    },
+    {
+     "title": "滑空Ⅰ",
+     "text": "ふわふわ~"
+    },
+    {
+     "title": "滑空Ⅱ",
+     "text": "どこに行くの？"
+    },
+    {
+     "title": "切替Ⅰ",
+     "text": "指令、受信した！"
+    },
+    {
+     "title": "切替Ⅱ",
+     "text": "私たちの出番だね。"
+    },
+    {
+     "title": "切替Ⅲ",
+     "text": "（さだちゃん：さて、蹴散らす相手はどこじゃ？）"
+    },
+    {
+     "title": "特殊切替・零",
+     "text": "鑑定士！お手伝いに来たよ！"
+    },
+    {
+     "title": "特殊切替・Exe",
+     "text": "隊長が…外出するなんて…"
+    },
+    {
+     "title": "特殊切替・イェルム",
+     "text": "イェルムお姉ちゃん…繋がったよ！"
+    },
+    {
+     "title": "特殊切替・カオス",
+     "text": "仕事が終わったら、ダロスをなでなでさせて？"
+    },
+    {
+     "title": "仲間気絶・零",
+     "text": "鑑定士の電波…消えちゃった…\n（さだちゃん：小娘！気を抜くでない！）"
+    },
+    {
+     "title": "仲間気絶・EXE",
+     "text": "大変、隊長の運動量がオーバーしちゃったみたい…"
+    },
+    {
+     "title": "仲間気絶・イェルム",
+     "text": "イェルムお姉ちゃん？おかしいな、どこに行っちゃったの…"
+    },
+    {
+     "title": "仲間気絶・カオス",
+     "text": "ううん、お別れはまだ早い。"
+    },
+    {
+     "title": "パリィⅠ",
+     "text": "確反、キターーッ！\n（さだちゃん：何語じゃそれは…）"
+    },
+    {
+     "title": "パリィⅡ",
+     "text": "（さだちゃん：ヌルいわッ！！）"
+    },
+    {
+     "title": "連続極限回避成功Ⅰ",
+     "text": "シンクロ成功。"
+    },
+    {
+     "title": "連続極限回避成功Ⅱ",
+     "text": "（さだちゃん: よい動きじゃな、小娘！）"
+    }
+   ]
+  },
+  "ko": {
+   "daily": [
+    {
+     "title": "첫 만남",
+     "text": "삐빅, 삐빅! 감정사님, 들리시나요? E.T.D 6팀의 링코입니다! 지금 「감정사님 불러내서 놀기」 임무를 수행 중입니다. 들리시면 응답 바랍니다… 고개만 끄덕여도 괜찮아요."
+    },
+    {
+     "title": "대화·외근",
+     "text": "다음에 순찰할 구역은… 음… 그냥 느낌 가는 대로 가요."
+    },
+    {
+     "title": "대화·영화",
+     "text": "감정사님, 감정사님, 유빙 극장에서 새 오컬트 영화가 개봉했다는데, 같이 보러 갈래요?"
+    },
+    {
+     "title": "대화·헤테로",
+     "text": "헤테로는 포용력이 높은 도시 같아요. 순찰하다 보면 종종 신기하고 재미있는 일들을 마주치곤 하는데, 시민들도 다들 그러려니 하더라고요."
+    },
+    {
+     "title": "맑은 날",
+     "text": "햇볕을 오래 쬐면, 얼굴에 따뜻하고 보송보송한 감촉이 느껴진대요. 마치 고양이 꼬리가 얼굴을 스치고 지나가는 것처럼요…"
+    },
+    {
+     "title": "비 오는 날",
+     "text": "저는 빗방울이 빈 캔에 떨어지는 소리를 정말 좋아해요… 음높이가 서로 다른 빈 캔을 여러 개 모아두면 노래 한 곡을 연주할 수 있지 않을까요?"
+    },
+    {
+     "title": "추운 날",
+     "text": "너무 추워… 사다의 도깨비불로 몸을 녹일 수 있으면 좋을 텐데…\n(사다：하? 되겠냐?! 나를 더위 먹어 죽은 귀신으로 만들 작정이야?)"
+    },
+    {
+     "title": "더운 날",
+     "text": "너무 더워… 사다를 목에 두르고 있으면 시원할 텐데… 사다…\n(사다：꿈 깨! 이렇게 더운 날엔 귀신도 TV 밖으로 안 나가!)"
+    },
+    {
+     "title": "아침 인사",
+     "text": "좋은 아침이에요, 감정사님… 으응… 어제 좀 늦게 자서 정신이 없네요. 하암…\n(사다: 또 밤새웠어? 귀신도 너보단 일찍 자겠다…)"
+    },
+    {
+     "title": "점심 인사",
+     "text": "감정사님, 감정사님. 낮잠 잘 때 꾸는 꿈과 밤에 꾸는 꿈은 뭐가 다를까요? 혹시 꿈도 영화관처럼 낮 상영과 심야 상영으로 나뉘는 건 아닐까요?"
+    },
+    {
+     "title": "저녁 인사",
+     "text": "해가 졌네요. 조금만 더 있으면 도시의 전파도 서서히 잠잠해져요. 썰물 때 사르르 밀려가는 하얀 포말처럼요."
+    },
+    {
+     "title": "취침 인사",
+     "text": "우주는 매일 밤 자장가를 불러줘요. 어떤 날은 별님이, 어떤 날은 달님이… 감정사님도 그 소리를 들을 수 있으면 좋을 텐데."
+    },
+    {
+     "title": "취미",
+     "text": "저희 집에 영화 DVD로 꽉 찬 캐비닛이 있는데, 밤마다 아무거나 하나 골라서 사다랑 같이 봐요. 전 외계인이나 오컬트 영화를 좋아하는데, 사다는 싫대요. CG로 만든 가짜를 보느니 자기 같은 진짜 악령을 보라나…\n(사다: 흥! 이 몸이 주인공을 맡으면 걔들보다 몇천 배는 더 무서울걸!)"
+    },
+    {
+     "title": "고민",
+     "text": "고민이요… 딱히 생각해 본 적은 없어요. 굳이 꼽자면, 아직 답을 찾지 못한 질문들이려나요. 예를 들면… 다마치 SP버전은 어디에서 잡을 수 있는지, Exe는 왜 자꾸 엘림 언니에게 화를 내는지, 어떻게 해야 사다가 자기가 귀엽다는 걸 인정하게 할 수 있을지, 우주 저 너머의 전파는 어떤 느낌일지… 그리고 채널이 다른 사람들이 정말 서로를 이해할 수 있을지… 아직 모르는 게 너무 많아요."
+    },
+    {
+     "title": "주제·전파",
+     "text": "세상은 마치 라디오 방송국 같아요. 인간과 이상을 포함한 모든 만물이 자신만의 채널에서 세상에 단 하나뿐인 전파를 내보내고 있죠. 저는 재밌는 전파를 들을 때마다 그 발신원을 찾으러 가요… 보통 전파가 특이하면 그 주인도 특이한 경우가 많더라고요. 이를테면 강가에서 꼼짝도 하지 않고 인생을 사색하는 철학자 같은 물새라든가, 밀밭에서 솥을 뒤집어쓰고 외계인을 부르는 시민이라든가, 외로운 걸 싫어해서 누군가 찾아와 주길 바라는 장소 이상 같은 것들 말이죠."
+    },
+    {
+     "title": "주제·헤드폰",
+     "text": "이 헤드폰은 이상 관리국이 저를 위해 맞춤 제작해 준 거예요. 이름이 뭐였더라… 「필터링 모니터링 헤드폰」이었나? 라디오 주파수를 맞추는 것처럼 다이얼을 돌리면 잡음을 걸러낼 수 있어서 정신을 집중하면 특정 전파 주파수를 찾을 수 있어요. 물론 일반 헤드폰처럼 사용할 수도 있고요. 이상이 만든 록 음악이나 오디티 울음소리 모음집, 이상 공간 백색소음 같은 것도 들어봤는데, 음질이 정말 좋답니다.\n(사다：대체 뭘 듣고 사는 거야…)"
+    },
+    {
+     "title": "주제·다마치",
+     "text": "다마치GO는 디지털 펫 게임이에요. 예전에는 진짜 인기가 많아서 다들 거리에서 펫도 잡고 배틀도 했는데, 요즘은 하는 사람이 거의 없어요… 흐흥, 사실 지금 감정사님 앞에 서 있는 제가 헤테로 랭킹 5위 안에 드는 다마치 고수랍니다. 도감 완성까지 이제 딱 한 걸음… 어, SP버전 펫이랑 히든 펫까지 포함하면… 서너 걸음 정도 남았으려나요?"
+    },
+    {
+     "title": "자신·이능력에 관해",
+     "text": "저는 주변 사람들의 「전파」를 느낄 수 있어요. 정신을 집중해 그중 하나에 귀를 기울이면, 공명하는 느낌이 점점 뚜렷해지죠. 그러다 보면 어느 순간 그 감각이 저를 완전히 꿰뚫는 느낌이 들면서, 같은 박자로 뛰는 심장을 공유한 것처럼 저와 그 전파의 주인이 하나로 이어져요! 모든 것을 이해하고, 모든 것을 나누며, 그 어떤 오해나 장벽도 남아 있지 않은 상태… 저는 그런 감각을 동경해요. 한순간뿐이라 해도요."
+    },
+    {
+     "title": "자신에 관해·전투",
+     "text": "저와 사다가 함께 전투하는 모습을 보고 놀라진 않았죠? 그 커다란 손은 사실 사다의 손이에요. 그게 어떻게 가능한 거냐면… 제가 어떤 전파랑 잘 맞으면, 가끔 그 전파 발신원과 완전히 「공명」할 수 있거든요… 감정이나 감각, 힘은 물론이고… 몸의 통제권까지 공유하게 되는, 일종의 강화 상태가 된달까요? 다만 오래 유지하기는 힘들어요. 아직 안정적으로 「공명」을 유지할 수 있는 상대도 사다뿐이고요…\n(사다：하! 나 하나로 부족해? 네가 잡아들인 악당들한테 가서 물어봐. 이 몸의 커다란 손에 벌벌 떨지 않은 놈이 있나! 꼬마 녀석이 배부른 소리나 하고 있네, 흥…)"
+    },
+    {
+     "title": "자신에 관해·가족",
+     "text": "저희 부모님은 두 분 다 이능력자세요. 아버지의 이능력은 하루 종일 소파에 파묻혀서 말 한 마디 없이 영화 여러 편을 연달아 보는 거고, 어머니의 이능력은 쉴 새 없이 수다를 떨면서 이 거리 저 거리를 끊임없이 돌아다니는 거예요. 두 분의 이능력을 모두 물려받긴 했는데, 두 분의 속성이 정반대라 그런지 약화된 버전으로 물려받은 것 같아요. 부모님에 비하면 저는 그냥 평범하게 영화를 보고 여기저기 돌아다니는 걸 좋아하는 정도랍니다…"
+    },
+    {
+     "title": "자신에 관해·업무",
+     "text": "6팀의 업무는… 간단히 말해서, 이상이나 이능력을 이용해 나쁜 짓을 하는 놈들을 붙잡는 거예요. 저는 이능력을 이용해 목표를 수색하고 추적하는 일을 맡고 있어요. 보통 Exe가 목표의 정보를 공유해 줘요. 자주 나타나는 장소나 사용했던 신분, 인터넷 사용 기록, 즐겨 듣는 음악 같은 것들이요. 그런 정보들을 파악하고 나면 목표의 전파가 어떤 느낌일지 대충 감이 오거든요. 그다음엔 시내를 돌아다니면서 전파를 감지하고 발신원을 찾으면 돼요… 원리요? 음… 저도 잘 모르겠어요. 그냥… 감?"
+    },
+    {
+     "title": "니샤에 관해",
+     "text": "니샤의 전파는 진짜 규칙적이에요. 비유하자면… 완벽히 정박으로 연주하는 피아노곡 같달까요. 가끔은 박자가 점점 빨라져서 듣고 있으면 숨이 막히기도 하지만, 그래도 정말 믿음직해요! E.T.D 업무 매뉴얼에 적힌 규정도 토씨 하나 안 틀리고 외울 수 있어요. 다만… 그만큼 모든 일을 오차 없이 절차대로 완벽하게 해내려고 하니까, 돌발 상황이 생기면 혼자 잔뜩 긴장하더라고요. 그래도 걱정 마세요. 선배인 제가 니샤를 잘 챙길 테니까요!\n(사다: 고작 반년 먼저 들어와 놓고 선배 행세는…)"
+    },
+    {
+     "title": "카오스에 관해",
+     "text": "카오스의 전파는 꽤 시끄러워요. 본인과 똑같이 쉬지 않고 떠들거든요. 하지만 이능력을 가진 악당과 마주하면 맹수가 낮게 으르렁거리는 듯한 소리로 바뀌어요… 6팀은 같이 임무를 나가는 일이 많지만, 대부분은 따로 움직여요. 카오스가 목표를 추적하다가 자꾸 저랑 떨어지는 일이 많거든요… 음, 물론 길을 잃은 쪽은 카오스고, 제가 고른 길이 맞아요.\n(사다: 내가 카오스였으면, 당장 네 삐죽 솟은 머리카락을 뽑아버렸을 거야.)"
+    },
+    {
+     "title": "엘림에 관해",
+     "text": "엘림 언니는… 전 언니를 다시 만나게 돼서 정말 기뻤어요. 그런데 언니의 전파가 완전히 달라졌더라고요. 불안정한 채널이 여러 개 겹쳐 있는 것처럼 감지하기가 쉽지 않아요… 오랜만에 다시 만났을 때는 사람을 잘못 본 줄 알았는데, 언니는 저를 한눈에 알아봤어요. 함께 다마치를 잡으러 다녔던 일도 기억하고 있었고, 예전처럼 제 볼을 꼬집는 버릇도 여전했죠… 사람의 전파도 변할 수 있는 건가 봐요."
+    },
+    {
+     "title": "Exe에 관해",
+     "text": "Exe는 전산실에 틀어박혀 있는 걸 좋아해서 평소엔 보기 힘들어요. 가끔 모습을 비춰도 늘 굳은 표정이라 무서워 보이지만, 사실은 아주 다정한 사람이에요. Exe의 전파는 거의 수면제 급이에요. 두꺼운 창문 너머로 들려오는 빗소리 같기도 하고… 일정한 리듬으로 타닥타닥 울리는 키보드 소리 같기도 하죠. 그러다 가끔… 정확히는 엘림 언니와 함께 있을 때, Exe의 채널에서 아주 무섭고, 자세히 듣기조차 겁나는 소리들이 갑자기 소용돌이치는데… 전 그냥 두 사람이 사이좋게 지냈으면 좋겠어요."
+    },
+    {
+     "title": "사다에 관해",
+     "text": "제가 사다를 처음 만난 건 어느 이상 공간의 깊은 곳이었어요. 그때 저는… 막 전원을 끈 브라운관 TV 화면에서 나오는 것 같은, 따뜻하면서도 지지직거리는 전파를 느꼈어요. 그 전파를 따라가며 발신원을 찾다 보니 정말 오래된 TV 한 대가 있지 뭐예요? 전원을 켜니까 사다가 화면 속에 나타났는데, 꼭 낡은 종이상자 안에서 잠든 길고양이 같았어요… 맞아요. 제가 등에 메고 다니는 이 작은 TV가 지금은 사다의 집이에요. 그리고 저는 그 집을 등에 메고 돌아다니는 사람이니까, 간단히 말해서 가족이죠."
+    },
+    {
+     "title": "E.T.D 6팀에 관해",
+     "text": "저희 이야기가 궁금하신가요? 어디 보자… 사실 Exe도 웃을 줄 알아요. 저랑 옛날 게임 이야기를 할 땐 가끔 추억에 잠겨서 미소를 짓거든요. 금세 다시 침울해지지만요… 엘림 언니는 다정하지만, 가끔 Exe에게 이해하기 어려운 말을 하곤 해요. 대장을 괴롭히는 게 아니면 좋겠는데… 카오스는 늘 입버릇처럼 로로는 자기가 이능력으로 만든 가짜 개일 뿐이라고 말하지만, 사실은 엄청나게 아껴요… 그리고 저는, 음… 아, 맞다. 사실 저는 외계인이에요."
+    },
+    {
+     "title": "캐릭터 돌파·Ⅰ",
+     "text": "오, 이런 느낌은… 처음이에요."
+    },
+    {
+     "title": "캐릭터 돌파·Ⅱ",
+     "text": "… 오잉?! 링코의 모습이…!\n(사다：바보에서 왕바보로 진화.)"
+    },
+    {
+     "title": "캐릭터 돌파·Ⅲ",
+     "text": "링코, 최종 진화! 음, 이름을 뭐라고 할까… 얼티밋 링코!\n(사다：진짜 질리지도 않냐…)"
+    },
+    {
+     "title": "선물 수령·Ⅰ",
+     "text": "와! 감정사님, 제가 이걸 갖고 싶어 하는 걸 어떻게 알았어요? 혹시… 감정사님도 제 전파가 느껴지나요?"
+    },
+    {
+     "title": "선물 수령·Ⅱ",
+     "text": "진짜 마음에 들어요. 감사합니다, 감정사님… 역시 저희는 주파수가 통하나 봐요."
+    },
+    {
+     "title": "선물 수령·Ⅲ",
+     "text": "대자연의 선물에 감사해요~\n(사다: 어이, 감정사가 준 건데 대자연이 왜 나와.)"
+    },
+    {
+     "title": "선물 수령·IV",
+     "text": "소중히 간직할게요. 고마워요, 감정사님."
+    }
+   ],
+   "battle": [
+    {
+     "title": "바이레일 스킬·Ⅰ",
+     "text": "그럼 이어서!"
+    },
+    {
+     "title": "바이레일 스킬·Ⅱ",
+     "text": "본때를 보여주자!"
+    },
+    {
+     "title": "바이레일 스킬·Ⅲ",
+     "text": "주파수 동기화 준비!"
+    },
+    {
+     "title": "울티메이트·Ⅰ",
+     "text": "우리는 신성한 전파로 연결되어 있다!"
+    },
+    {
+     "title": "울티메이트·Ⅱ",
+     "text": "싱크로율… 100% 돌파!"
+    },
+    {
+     "title": "울티메이트·Ⅲ",
+     "text": "영역 전개… 공명!"
+    },
+    {
+     "title": "울티메이트·Ⅳ",
+     "text": "(사다: 아직 끝나지 않았어!)"
+    },
+    {
+     "title": "울티메이트·V",
+     "text": "(사다: 우리 차례다!)"
+    },
+    {
+     "title": "울티메이트·VI",
+     "text": "(사다: 크히히히~)"
+    },
+    {
+     "title": "울티메이트·Ⅶ",
+     "text": "어라… 분위기가 썰렁한데…"
+    },
+    {
+     "title": "울티메이트·Ⅷ",
+     "text": "(사다: 어이~ 팀원들 다 어디 갔는데?)"
+    },
+    {
+     "title": "울티메이트·Ⅸ",
+     "text": "구호가 잘못됐나? 그럼… 이능력자― 어셈블! 이것도 아닌가 보네…"
+    },
+    {
+     "title": "이상 수용·Ⅰ",
+     "text": "이상을 잡았으니 이제 다마치를 잡으러 가볼까."
+    },
+    {
+     "title": "이상 수용·Ⅱ",
+     "text": "수용 도감이 완성되고 있어요!"
+    },
+    {
+     "title": "이상 제거·Ⅰ",
+     "text": "이상의 전파가… 사라졌다…?"
+    },
+    {
+     "title": "이상 제거·Ⅱ",
+     "text": "임무 완료! 링코의 경험치가 올랐어요!"
+    },
+    {
+     "title": "뜻밖의 수확·Ⅰ",
+     "text": "감정사님, 감정사님, 여기 좋은 게 있어요."
+    },
+    {
+     "title": "뜻밖의 수확·Ⅱ",
+     "text": "여기 있었네."
+    },
+    {
+     "title": "뜻밖의 수확·Ⅲ",
+     "text": "전파의 발신원… 찾았다."
+    },
+    {
+     "title": "뜻밖의 수확·Ⅳ",
+     "text": "헤, 놓치지 않아서 다행이에요."
+    },
+    {
+     "title": "뜻밖의 수확·Ⅴ",
+     "text": "우리를 오랫동안 기다리고 있었나 봐요."
+    },
+    {
+     "title": "뜻밖의 수확·Ⅵ",
+     "text": "흥흥흥~"
+    },
+    {
+     "title": "HP 낮음·Ⅰ",
+     "text": "정신을… 집중하자…\n(사다: 꼬마 녀석, 무리하지 마!)"
+    },
+    {
+     "title": "HP 낮음·Ⅱ",
+     "text": "(사다: 어이, 상황이 안 좋아.)\n아직… 안 끝났어!"
+    },
+    {
+     "title": "HP 낮음·Ⅲ",
+     "text": "(사다: 꼬마, 못 버티겠으면 억지로 버티지 마!)\n난… 할 수 있어!"
+    },
+    {
+     "title": "HP 회복·Ⅰ",
+     "text": "후… 계속 할 수 있어요."
+    },
+    {
+     "title": "HP 회복·Ⅱ",
+     "text": "네, 훨씬 나아졌어요."
+    },
+    {
+     "title": "탈진·Ⅰ",
+     "text": "사다… 미…안…"
+    },
+    {
+     "title": "탈진·Ⅱ",
+     "text": "아무것도… 안 들려요…"
+    },
+    {
+     "title": "탈진·Ⅲ",
+     "text": "(사다: 야! 꼬마… 꼬마!)"
+    },
+    {
+     "title": "몬스터 처치·Ⅰ",
+     "text": "후… 상황 종료."
+    },
+    {
+     "title": "몬스터 처치·Ⅱ",
+     "text": "(사다：지옥에나 떨어져라!)"
+    },
+    {
+     "title": "일반 피격·Ⅰ",
+     "text": "…\n(사다：가서 복수하자!)"
+    },
+    {
+     "title": "일반 피격·Ⅱ",
+     "text": "못 피했어…\n(사다：그럼 되갚아 줘야지!)"
+    },
+    {
+     "title": "심각한 피해·Ⅰ",
+     "text": "(사다：윽, 꼬마?!)\n난… 괜찮아!"
+    },
+    {
+     "title": "심각한 피해·Ⅱ",
+     "text": "으윽…\n(사다：이 자식이!)"
+    },
+    {
+     "title": "출전·Ⅰ",
+     "text": "흐흥~ 절 부를 줄 알았어요."
+    },
+    {
+     "title": "출전·Ⅱ",
+     "text": "사다 사다! 우리 차례야!"
+    },
+    {
+     "title": "협동기·Ⅰ",
+     "text": "내 주먹맛 좀 봐라!"
+    },
+    {
+     "title": "협동기·Ⅱ",
+     "text": "(사다: 납량 특집이다!)"
+    },
+    {
+     "title": "협동기·Ⅲ",
+     "text": "사다, 지금이야!"
+    },
+    {
+     "title": "협동기·Ⅳ",
+     "text": "파워풀 펀치!"
+    },
+    {
+     "title": "협동기·Ⅴ",
+     "text": "(사다: 나 여기 있다고!)"
+    },
+    {
+     "title": "협동기·Ⅵ",
+     "text": "(사다: 악령님 등장!)"
+    },
+    {
+     "title": "글라이딩·Ⅰ",
+     "text": "슈웅~"
+    },
+    {
+     "title": "글라이딩·Ⅱ",
+     "text": "어디로 갈까요?"
+    },
+    {
+     "title": "전환·Ⅰ",
+     "text": "명령 수신 완료!"
+    },
+    {
+     "title": "전환·Ⅱ",
+     "text": "이제 우리 차례다!"
+    },
+    {
+     "title": "전환·Ⅲ",
+     "text": "(사다：이 몸이 손 봐줄 놈들은 어딨지?)"
+    },
+    {
+     "title": "특수 전환·제로",
+     "text": "감정사님, 감정사님! 도우러 왔어요!"
+    },
+    {
+     "title": "특수 전환·Exe",
+     "text": "대장이… 외출을 했다고?!"
+    },
+    {
+     "title": "특수 전환·엘림",
+     "text": "엘림 언니… 연결됐어!"
+    },
+    {
+     "title": "특수 전환·카오스",
+     "text": "퇴근하면 로로 좀 만져봐도 돼?"
+    },
+    {
+     "title": "팀원 쓰러짐·제로",
+     "text": "감정사님의 전파가… 사라졌다…\n(사다：꼬마! 정신 바짝 차려!)"
+    },
+    {
+     "title": "팀원 쓰러짐·Exe",
+     "text": "큰일이다. 대장의 체력이 바닥난 것 같아…"
+    },
+    {
+     "title": "팀원 쓰러짐·엘림",
+     "text": "엘림 언니? 이상하다. 어디 간 거지…"
+    },
+    {
+     "title": "팀원 쓰러짐·카오스",
+     "text": "아니, 아직 작별할 때가 아니야."
+    },
+    {
+     "title": "패링·Ⅰ",
+     "text": "퍼니쉬 어택!\n(사다：그게 뭔 소리야…)"
+    },
+    {
+     "title": "패링·Ⅱ",
+     "text": "(사다：꿈 깨시지!)"
+    },
+    {
+     "title": "연속 극한 회피 성공·Ⅰ",
+     "text": "주파수 동기화 성공."
+    },
+    {
+     "title": "연속 극한 회피 성공·Ⅱ",
+     "text": "(사다: 꼬마, 무빙 좋은데~!)"
+    }
+   ]
+  },
+  "zh-tw": {
+   "daily": [
+    {
+     "title": "初次見面",
+     "text": "嗶啵嗶啵——呼叫鑒定師，這裡是E.T.D六隊的靈可，正在執行「找你出去玩」的任務，收到請回覆……或者點點頭也可以。"
+    },
+    {
+     "title": "閒聊·外勤",
+     "text": "接下來要巡邏的區域是……嗯……還是跟著感覺走好了。"
+    },
+    {
+     "title": "閒聊·電影",
+     "text": "鑒定師鑒定師，浮冰影院好像上映了新的靈異電影，要一起去看看嗎？"
+    },
+    {
+     "title": "閒聊·海特洛",
+     "text": "海特洛是一座很包容的城市，我巡邏時經常會遇到稀奇有趣的事情，市民們也都見怪不怪的。"
+    },
+    {
+     "title": "大晴天",
+     "text": "聽說，如果陽光在臉上曬久了，會有一種溫暖、毛茸茸的觸感，就像是貓尾巴從臉上掃過去一樣……"
+    },
+    {
+     "title": "雨天",
+     "text": "我很喜歡雨落在空易開罐上的聲音……如果把幾個音調不同的易開罐放在一起，會不會演奏出一首歌呢？"
+    },
+    {
+     "title": "寒冷",
+     "text": "好冷……要是小貞的鬼火可以用來取暖就好了……\n（小貞：哈？怎麼可能？你想把我變成熱死鬼嗎？）"
+    },
+    {
+     "title": "炎熱",
+     "text": "好熱……要是把小貞纏在脖子上，肯定會很涼快……小貞……\n（小貞：你想得美！這麼熱的天，鬼才會從電視裡出來！）"
+    },
+    {
+     "title": "早上問候",
+     "text": "早上好，鑒定師……唔……昨天睡得有點晚，哈……\n（小貞：這小鬼又熬夜，鬼都睡得比你早……）"
+    },
+    {
+     "title": "中午問候",
+     "text": "鑒定師鑒定師，你說，午睡時做的夢，和晚上做的夢，會有什麼不同嗎？有沒有可能，夢境也和電影院一樣，分午間和深夜場？"
+    },
+    {
+     "title": "傍晚問候",
+     "text": "太陽下山了，再過一陣子，這座城市的電波就會慢慢安靜下來，就像海水退潮時，那些沙沙的白色浪花一樣。"
+    },
+    {
+     "title": "晚安",
+     "text": "宇宙每晚都會唱搖籃曲，有時是星星，有時是月亮……要是鑒定師也能聽見就好了。"
+    },
+    {
+     "title": "愛好",
+     "text": "我家裡有一個裝滿了電影光碟片的大櫃子，每天晚上，我都會隨機抽一張出來，和小貞一起看。我喜歡外星人和靈異題材的電影，但小貞很嫌棄。她說，與其看那些用特效虛構的東西，還不如看她這個貨真價實的惡靈……\n（小貞：哼！本惡靈要是當電影主角，絕對比它們恐怖一千倍！）"
+    },
+    {
+     "title": "煩惱",
+     "text": "煩惱……我沒有想過。一定要說的話，應該是一些還沒找到答案的問題吧。比如……異色的獺麻吉該去哪抓，Exe為什麼總對曳爾沐姐姐生氣，該怎麼讓小貞承認自己很可愛，宇宙深處的電波是什麼樣的……還有，頻道各不相同的大家，真的能做到理解彼此嗎……好多好多的問題，我都不明白。"
+    },
+    {
+     "title": "話題·電波",
+     "text": "世界像一個電台，人類、異象、還有其它的萬物，都在獨屬於自己的頻道裡，釋放著獨一無二的電波。每次接收到有趣的電波，我都會去尋找它的來源……通常，越是奇特的電波，它的來源就越令人意外，比如在河邊一動不動、沉思人生的哲學家水鳥，在麥田裡頂著鐵鍋、呼喚外星人的市民，還有討厭孤單、希望有人上門做客的地點異象，之類的。"
+    },
+    {
+     "title": "話題·耳機",
+     "text": "這個耳機是異象管理局為我訂製的，好像叫什麼……「濾波監聽耳機」？我只要轉動這個旋鈕，就可以清除噪波的干擾，讓我能集中精神、搜尋特定的電波頻段，就像給收音機調頻一樣。它也可以當作正常耳機用，我用它聽過異象自創的搖滾樂、歧骸叫聲合集、異象空間白噪音之類的，音質非常好。\n（小貞：聽的都是什麼鬼東西……）"
+    },
+    {
+     "title": "話題·獺麻吉",
+     "text": "獺麻吉GO是一款電子寵物遊戲，以前非常流行，很多玩家會跑到大街上捉寵和對戰，但現在已經沒什麼人玩了……嘿嘿，其實現在站在你面前的，就是海特洛排名前五的獺麻吉高手——距離圖鑑全收集就差一步……嗯，算上異色和隱藏款的話，大概……三四步之遙！"
+    },
+    {
+     "title": "關於自己·異能",
+     "text": "我可以感受到周圍人的「電波」，如果集中精神、傾聽其中的一個，會有一種逐漸清晰的共鳴感，直到某一刻，那個感受突然變得完整、通透，像是節奏完全相同的心跳，將我和電波的來源連在一起——理解一切，分享一切，不再有任何誤解和阻礙……我很嚮往那種感覺，哪怕只有一瞬間。"
+    },
+    {
+     "title": "關於自己·戰鬥",
+     "text": "我和小貞一起戰鬥的樣子，應該沒嚇到你吧？那雙大手其實是小貞的，至於是怎麼做到的……如果我和某個電波足夠合適，有時就可以和它的來源完全「共鳴」……就像一種情緒、感受、力量……甚至身體的指揮權都能共用的……變強的狀態？但它很難持續，現在，我能夠穩定維持「共鳴」的對象，也只有小貞一個……\n（小貞：哈？有我還不夠嗎？去問問你抓的那些壞蛋，哪個不是對本惡靈的大手聞風喪膽！你個臭小鬼還嫌棄上了，哼……）"
+    },
+    {
+     "title": "關於自己·家庭",
+     "text": "我的爸爸和媽媽都是異能者。爸爸的異能是可以陷在沙發裡一整天、一聲不吭連著看好多部電影，媽媽的異能是可以一邊不停聊天、一邊逛完十幾條街不休息。我繼承了他們兩人的異能，但可能是因為他們的屬性完全相反，我只繼承到了削弱後的版本。和他們相比，我只是普通的喜歡看電影和到處玩而已……"
+    },
+    {
+     "title": "關於自己·工作",
+     "text": "六隊的職責……簡單來說，就是抓住那些用異象或異能做壞事的傢伙。我的日常工作，就是借助異能搜尋和追蹤他們。通常Exe會給我分享一些目標的情報，比如出沒地點、用過的身份、或者刷過什麼網站、愛聽什麼音樂之類的，我了解過後，就大概能知道對方的電波是什麼樣子，然後就可以在城市那邊聽邊找來源了……什麼原理？嗯……我不知道，總之就是……憑感覺？"
+    },
+    {
+     "title": "關於妮夏",
+     "text": "妮夏的電波很規則，就像是……節奏固定、一板一眼的鋼琴曲，有時還會越彈越快，聽著讓人喘不過氣來。但她超級可靠！E.T.D工作手冊裡的流程規範，妮夏能一字不漏地背出來，但……她也總是想照著流程、一字不漏地完美執行，如果遇到意外的狀況，她就會把自己繃得緊緊的。不過不用擔心，作為前輩，我會好好照顧妮夏的！\n（小貞：明明你就比人家早來半年……）"
+    },
+    {
+     "title": "關於卡厄斯",
+     "text": "卡厄斯的電波很吵，和他本人一樣，總是碎碎唸個不停。只有在面對異能者壞蛋的時候，他的頻道會靜下來，變成一陣一陣的、像是野獸低吼的聲音……我們雖然經常一起出任務，但大多數時候都是分頭行動，因為他總是會在跟蹤目標時和我走散……嗯，當然是他走丟了，我選的路才是對的。\n（小貞：我要是卡厄斯，我現在就把你的呆毛拔下來。）"
+    },
+    {
+     "title": "關於曳爾沐",
+     "text": "曳爾沐姐姐……能和她再次相見，我真的很開心。但她的電波和過去完全不一樣，像是好多個不穩定的頻道疊在了一起，我很難聽清楚……第一次見面的時候，我還以為我認錯了，但她一眼就認出了我，也記得帶我捉獺麻吉的事，甚至還和當年一樣，總喜歡捏我的臉……可能人的電波也是會變的吧。"
+    },
+    {
+     "title": "關於Exe",
+     "text": "Exe喜歡把自己關在機房裡，平時很難見到他，偶爾露面時也總是板著個臉，看上去凶凶的，但他其實是個很溫和的人。他的電波很催眠，像是隔著厚窗戶聽到的雨聲……或者是那種均勻的、劈哩啪啦敲鍵盤的聲音。但有的時候……準確的說，主要是他和曳爾沐姐姐在一起的時候，他的頻道裡會突然翻湧起一些很可怕的、我不敢仔細聽的聲音……要是他們能好好相處就好了。"
+    },
+    {
+     "title": "關於小貞",
+     "text": "我第一次見到小貞，是在一個異象空間的深處。當時，我接收到一個……像剛關掉的顯像管電視螢幕一樣的，有點溫暖、但又毛刺刺的電波。我一邊收聽，一邊搜尋它的來源，最後發現了一台舊電視機。接通電源後，小貞就出現在了螢幕裡，像睡在爛紙箱裡的野貓一樣……沒錯，就是我背後這台小電視，它現在是小貞的家，而我是背著她的家到處走的人，簡稱家人。"
+    },
+    {
+     "title": "關於E.T.D六隊",
+     "text": "你想知道我們的事？我想想……其實，Exe是會笑的。我和他聊到一些老遊戲的時候，他偶爾會露出懷念的笑容，但馬上又會消沉下去……曳爾沐姐姐很溫柔，但有時，我會聽到她會對Exe說一些難懂的話，希望她不是在欺負隊長……卡厄斯嘴上總說小羅只是他用異能捏的假狗，但其實對它特別好……至於我的話，嗯……哦對，其實，我是外星人。"
+    },
+    {
+     "title": "角色突破·Ⅰ",
+     "text": "哦，這種感覺……還是第一次。"
+    },
+    {
+     "title": "角色突破·Ⅱ",
+     "text": "哦？！靈可的樣子……發生了一些變化！\n（小貞：從呆瓜變成了大呆瓜。）"
+    },
+    {
+     "title": "角色突破·Ⅲ",
+     "text": "靈可最終進化——唔， 進化成什麼呢……究極靈可！\n（小貞：你還真是玩不膩啊……）"
+    },
+    {
+     "title": "收到贈禮·Ⅰ",
+     "text": "唔哦——鑒定師怎麼知道我想要這個？難道……鑒定師能感受到我的電波？"
+    },
+    {
+     "title": "收到贈禮·Ⅱ",
+     "text": "我很喜歡這個，謝謝鑒定師……我們的電波果然是同頻的。"
+    },
+    {
+     "title": "收到贈禮·Ⅲ",
+     "text": "感謝大自然的饋贈——\n（小貞：oi，明明是鑒定師送你的，關大自然什麼事。）"
+    },
+    {
+     "title": "收到贈禮·IV",
+     "text": "我會珍藏的，謝謝你，鑒定師。"
+    }
+   ],
+   "battle": [
+    {
+     "title": "變軌技能·Ⅰ",
+     "text": "下面有請！"
+    },
+    {
+     "title": "變軌技能·Ⅱ",
+     "text": "一起揍它！"
+    },
+    {
+     "title": "變軌技能·Ⅲ",
+     "text": "同頻準備！"
+    },
+    {
+     "title": "極軌終結·Ⅰ",
+     "text": "電波連接著我們每一個人！"
+    },
+    {
+     "title": "極軌終結·Ⅱ",
+     "text": "同頻率提升至……100%！"
+    },
+    {
+     "title": "極軌終結·Ⅲ",
+     "text": "共鳴領域……展開！"
+    },
+    {
+     "title": "極軌終結·Ⅳ",
+     "text": "（小貞：還沒完呢！）"
+    },
+    {
+     "title": "極軌終結·V",
+     "text": "（小貞：該我們啦！）"
+    },
+    {
+     "title": "極軌終結·VI",
+     "text": "（小貞：嘻嘻嘻嘻~）"
+    },
+    {
+     "title": "極軌終結·Ⅶ",
+     "text": "咦……好像冷場了……"
+    },
+    {
+     "title": "極軌終結·Ⅷ",
+     "text": "（小貞：喂——隊友們都去哪啦？）"
+    },
+    {
+     "title": "極軌終結·Ⅸ",
+     "text": "是我口號喊得不對嗎？那……異能者——集結！好像也不行……"
+    },
+    {
+     "title": "收容異象·Ⅰ",
+     "text": "抓完異象，該去抓獺麻吉了。"
+    },
+    {
+     "title": "收容異象·Ⅱ",
+     "text": "收容圖鑑，增加了！"
+    },
+    {
+     "title": "泯除異象·Ⅰ",
+     "text": "它的電波……消失了。"
+    },
+    {
+     "title": "泯除異象·Ⅱ",
+     "text": "任務完成，靈可的經驗值上升了！"
+    },
+    {
+     "title": "意外收穫·Ⅰ",
+     "text": "鑒定師鑒定師，這有好東西。"
+    },
+    {
+     "title": "意外收穫·Ⅱ",
+     "text": "原來是在這裡。"
+    },
+    {
+     "title": "意外收穫·Ⅲ",
+     "text": "電波的源頭……找到了。"
+    },
+    {
+     "title": "意外收穫·Ⅳ",
+     "text": "嗯，還好沒漏掉。"
+    },
+    {
+     "title": "意外收穫·Ⅴ",
+     "text": "它等我們好久了。"
+    },
+    {
+     "title": "意外收穫·Ⅵ",
+     "text": "哼哼~"
+    },
+    {
+     "title": "生命值低·Ⅰ",
+     "text": "集中……精神……\n（小貞：小鬼，不要勉強！）"
+    },
+    {
+     "title": "生命值低·Ⅱ",
+     "text": "（小貞：喂，情況不妙啊。）\n還……沒結束！"
+    },
+    {
+     "title": "生命值低·Ⅲ",
+     "text": "（小貞：小鬼，撐不住可別硬撐！）\n我……可以！"
+    },
+    {
+     "title": "恢復生命·Ⅰ",
+     "text": "呼——還能繼續。"
+    },
+    {
+     "title": "恢復生命·Ⅱ",
+     "text": "嗯，好多了。"
+    },
+    {
+     "title": "力竭·Ⅰ",
+     "text": "小貞……對不……起……"
+    },
+    {
+     "title": "力竭·Ⅱ",
+     "text": "聽不……見了……"
+    },
+    {
+     "title": "力竭·Ⅲ",
+     "text": "（小貞：喂！小鬼……小鬼！）"
+    },
+    {
+     "title": "擊敗怪物·Ⅰ",
+     "text": "呼……搞定。"
+    },
+    {
+     "title": "擊敗怪物·Ⅱ",
+     "text": "（小貞：見鬼去吧！）"
+    },
+    {
+     "title": "普通受擊·Ⅰ",
+     "text": "……\n（小貞：找它算帳！）"
+    },
+    {
+     "title": "普通受擊·Ⅱ",
+     "text": "沒躲開……\n（小貞：那就打回去！）"
+    },
+    {
+     "title": "重受擊·Ⅰ",
+     "text": "（小貞：嘖、小鬼？！）\n我……沒事！"
+    },
+    {
+     "title": "重受擊·Ⅱ",
+     "text": "呃唔——\n（小貞：這個混帳！）"
+    },
+    {
+     "title": "上陣·Ⅰ",
+     "text": "嘿嘿~我就知道你會選我。"
+    },
+    {
+     "title": "上陣·Ⅱ",
+     "text": "小貞小貞，該我們上場了！"
+    },
+    {
+     "title": "協同技·Ⅰ",
+     "text": "吃我一拳！"
+    },
+    {
+     "title": "協同技·Ⅱ",
+     "text": "（小貞：鬧鬼時間！）"
+    },
+    {
+     "title": "協同技·Ⅲ",
+     "text": "小貞，就是現在！"
+    },
+    {
+     "title": "協同技·Ⅳ",
+     "text": "重拳出擊！"
+    },
+    {
+     "title": "協同技·Ⅴ",
+     "text": "（小貞：我在這裡呢！）"
+    },
+    {
+     "title": "協同技·Ⅵ",
+     "text": "（小貞：惡靈駕到！）"
+    },
+    {
+     "title": "滑翔·Ⅰ",
+     "text": "飄飄~"
+    },
+    {
+     "title": "滑翔·Ⅱ",
+     "text": "要去哪裡？"
+    },
+    {
+     "title": "切換·Ⅰ",
+     "text": "指令已接收！"
+    },
+    {
+     "title": "切換·Ⅱ",
+     "text": "該我們出手了！"
+    },
+    {
+     "title": "切換·Ⅲ",
+     "text": "（小貞：欠揍的傢伙都在哪？）"
+    },
+    {
+     "title": "特殊切換·零",
+     "text": "鑒定師鑒定師！我們來幫忙！"
+    },
+    {
+     "title": "特殊切換·Exe",
+     "text": "隊長……居然出門了？！"
+    },
+    {
+     "title": "特殊切換·曳爾沐",
+     "text": "曳爾沐姐姐……連上了！"
+    },
+    {
+     "title": "特殊切換·卡厄斯",
+     "text": "等下班了，能把小羅借我摸摸嗎？"
+    },
+    {
+     "title": "隊友倒下·零",
+     "text": "鑒定師的電波……消失了……\n（小貞：小鬼！別恍神！）"
+    },
+    {
+     "title": "隊友倒下·EXE",
+     "text": "不好，隊長的運動量好像透支了……"
+    },
+    {
+     "title": "隊友倒下·曳爾沐",
+     "text": "曳爾沐姐姐？奇怪，她去哪了……"
+    },
+    {
+     "title": "隊友倒下·卡厄斯",
+     "text": "不，還沒到告別的時候。"
+    },
+    {
+     "title": "彈反·Ⅰ",
+     "text": "確反康！\n（小貞：那是什麼意思……）"
+    },
+    {
+     "title": "彈反·Ⅱ",
+     "text": "（小貞：想得美！）"
+    },
+    {
+     "title": "連續極限閃避成功·Ⅰ",
+     "text": "同頻成功。"
+    },
+    {
+     "title": "連續極限閃避成功·Ⅱ",
+     "text": "（小貞：走位可以啊~小鬼！）"
+    }
+   ]
+  }
+ }
+}

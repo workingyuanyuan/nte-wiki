@@ -61,6 +61,7 @@ sources:
 | 加入版本 | 1.0 版 |
 | 配音員 | 中文：蘇子蕪；英文：Alexis Tipton；日文：石見舞菜香；韓文：김가령 |
 | 個人檔案 | [哈尼婭個人檔案](/zh-tw/characters/haniel/archive/) |
+| 語音 | [哈尼婭語音](/zh-tw/characters/haniel/voice/) |
 
 Game8 將她的普通攻擊命名為「Genesse Technique」，Prydwen 則命名為「Paranormal Entrance」。
 

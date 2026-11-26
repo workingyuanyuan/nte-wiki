@@ -1,0 +1,1487 @@
+{
+ "slug": "chiz",
+ "id": "1073",
+ "version": "1.5.4",
+ "sources": {
+  "en": "https://static.nanoka.cc/nte/1.5.4/en/character/1073.json",
+  "zh-cn": "https://static.nanoka.cc/nte/1.5.4/zh/character/1073.json",
+  "ja": "https://static.nanoka.cc/nte/1.5.4/ja/character/1073.json",
+  "ko": "https://static.nanoka.cc/nte/1.5.4/ko/character/1073.json",
+  "zh-tw": "https://everness.info/zh-Hant/espers/1073"
+ },
+ "reads": {
+  "zh-tw": "2026-11-25"
+ },
+ "lines": {
+  "en": {
+   "daily": [
+    {
+     "title": "First Meet",
+     "text": "Greetings, I'm Chiz. I work at Pink Paws Bank, employee ID 018888, and I live at Kyllene Promenade, Camelot Avenue, in New Herland District… Oh, too much information? S-Sorry!"
+    },
+    {
+     "title": "Chat: Bubble Tea",
+     "text": "Ah, I want a large black sugar milk tea with crème brûlée, coconut jelly, pudding, and a boba base, no ice, full sugar… no, wait, um…!"
+    },
+    {
+     "title": "Chat: Weekend",
+     "text": "Do you want to go to Caltrop Lake this weekend? It's been a while since I went out… N-Nevermind. I'm better off staying in."
+    },
+    {
+     "title": "Chat: Salary",
+     "text": "Oh, the latest style…? I'll consider when I get my next paycheck."
+    },
+    {
+     "title": "Sunny",
+     "text": "The sun is so cozy… I could close my eyes and fall asleep right now."
+    },
+    {
+     "title": "Rainy",
+     "text": "Oh no, it's raining… You could catch a cold. Please, um, stay warm, okay?"
+    },
+    {
+     "title": "Cold",
+     "text": "Whoo… it's so cold. This is the perfect time to snuggle up with family, nothing warms you up faster."
+    },
+    {
+     "title": "Hot",
+     "text": "I miss the AC at Pink Paws Bank. It's like they're blasting cold air for free."
+    },
+    {
+     "title": "Morning Greeting",
+     "text": "G-Good morning! Do you, um, want something to eat? Maybe a sandwich? Or coffee? Or, umm, anything really… A-Anyway, let me make breakfast!"
+    },
+    {
+     "title": "Noon Greeting",
+     "text": "Good afternoon. Do you need a break? We got… two whole hours for lunch."
+    },
+    {
+     "title": "Evening Greeting",
+     "text": "Just a sec, I'm almost done! Hey… do you wanna get dinner together?"
+    },
+    {
+     "title": "Good Night",
+     "text": "In my village, they always say, \"A night of peaceful, dreamless sleep means a day of good fortune ahead.\" Goodnight, I hope tomorrow is your lucky day."
+    },
+    {
+     "title": "Hobbies",
+     "text": "I like Fons… hmm, I do. Fons are essential, you know? Food, medicine, clothes… none of that appears out of thin air. They all cost money. But sometimes, I wonder if Fons are really that important… I mean, once I save up enough to move back home, maybe they won't matter so much. Still, that's an enormous amount of Fons. I'd probably have to work at Pink Paws Bank until I retire."
+    },
+    {
+     "title": "Worries",
+     "text": "Problems, huh… When I first started at Pink Paws Bank, I couldn't do anything right… I'm not being modest, I mean it. I used to stand in that gorgeous lobby in my new uniform, but I couldn't speak to anyone. I was scared of screwing things up, I even considered quitting. But then…  Klingsna stepped in. She's… incredible, like the sun breaking through a storm. If only I could shine half as bright as her… I know I'm nowhere near her level, but honestly, I'm happy with my life as it is."
+    },
+    {
+     "title": "Topic: Anomalies",
+     "text": "Hethereau… is a great city. Ordinary people, anomalies, and Espers all live together as equals. It's safe and peaceful. Things aren't like this where I come from. Most anomalies are dangerous and you have to avoid them. Though… some of them can be used as food… Oh, sorry, that's probably not very interesting. But if you're curious… we can talk about it sometime later."
+    },
+    {
+     "title": "Topic: Movies",
+     "text": "When I'm off work, I watch movies at home. Most movies are interesting, because they take me to places I've never been to. I… I haven't traveled a lot, so every time I watch a movie, I can't help but think I'd love to visit those places if I could. One documentary even featured my hometown… Umm, I probably spoke too much. Just… forget what I said. Maybe… we can watch a movie together? If it's with you, even a horror movie would… would be okay!"
+    },
+    {
+     "title": "Topic: Convenience Store",
+     "text": "If you visit 2-Fours at night, they sometimes sell rice balls at a discounted price. They taste just as good as the ones sold in the morning, but they're way cheaper. Perfect for a late-night snack. The only downside is you have to eat them the same day, since they expire soon. Umm… I-I'm good at making rice balls too. Would you… ever want to try some?"
+    },
+    {
+     "title": "About Myself: Hoarding",
+     "text": "When I find things I like, I end up… collecting a lot of them. Like, a lot. But I promise, I… I keep everything neat and organized. It's just… a habit. It's like, I feel more secure when I have a huge pile of stuff all together."
+    },
+    {
+     "title": "About Myself: Esper Ability",
+     "text": "E-Esper abilities… They're… r-really handy. Super con-convenient, ex-extremely useful. I-I'm an Esper, so… so thanks to… to these powers, I was able to move to Hethereau. I was also able to fi-find work easily, because of my abilities. Being an Esper here is… is really great. I like it here."
+    },
+    {
+     "title": "About Myself: Bandages",
+     "text": "Does it… look bad? I used to be… bad at everything, always getting myself hurt… B-but I'm better now! I don't get hurt as much anymore. It's just… my old scars aren't pretty, so I covered them. A coworker recommended these bandages. They're soft and breathable, so they don't feel icky. Please don't worry about me. The wounds have all healed up. They don't hurt anymore."
+    },
+    {
+     "title": "About Dvořák",
+     "text": "The Dvořák family, they're rather… unusual, I guess? No, no, I swear I don't mean that in a bad way! When I first got to Hethereau, I was taken in by their shelter. Thanks to their foundation, I was able to get an education. After that, I started working at Pink Paws Bank. Pretty much everyone in Hethereau—locals or outsiders alike—has benefited from them at some point. It's like the Dvořáks are always… giving money away? They don't even ask for anything in return. Maybe that's what makes them good people."
+    },
+    {
+     "title": "Character Ascension I",
+     "text": "Woah, such a strange feeling…"
+    },
+    {
+     "title": "Character Ascension II",
+     "text": "Will I… be more useful?"
+    },
+    {
+     "title": "Character Ascension III",
+     "text": "I could do this after all."
+    },
+    {
+     "title": "Gift Received I",
+     "text": "I… I love it! I r-really do!"
+    },
+    {
+     "title": "Gift Received II",
+     "text": "Th-Thanks! I'm s-sorry… I m-mean… I don't know what to say… I'll keep it and treasure it for a long, long time!"
+    },
+    {
+     "title": "Gift Received III",
+     "text": "Is this for m-me? Thank you!"
+    },
+    {
+     "title": "Gift Received IV",
+     "text": "I-I'll get you a gift too! P-Please take it when I do!"
+    }
+   ],
+   "battle": [
+    {
+     "title": "Redirect Skill I",
+     "text": "Deal."
+    },
+    {
+     "title": "Redirect Skill II",
+     "text": "Scaling in."
+    },
+    {
+     "title": "Redirect Skill III",
+     "text": "Chasing the rally."
+    },
+    {
+     "title": "Ultimate I",
+     "text": "Employee 018888, at your service!"
+    },
+    {
+     "title": "Ultimate II",
+     "text": "Th-Thank you for choosing Pink Paws Bank!"
+    },
+    {
+     "title": "Ultimate III",
+     "text": "You now have injury insurance."
+    },
+    {
+     "title": "Containment I",
+     "text": "Would this do?"
+    },
+    {
+     "title": "Containment II",
+     "text": "Did I… do it right?"
+    },
+    {
+     "title": "Nullification I",
+     "text": "Good night."
+    },
+    {
+     "title": "Nullification II",
+     "text": "…I can go home now."
+    },
+    {
+     "title": "Unexpected Gains I",
+     "text": "Is it… okay for me to take this?"
+    },
+    {
+     "title": "Unexpected Gains II",
+     "text": "Um, let me… help you with that."
+    },
+    {
+     "title": "Unexpected Gains III",
+     "text": "Money is precious… You got to keep it safe."
+    },
+    {
+     "title": "Unexpected Gains IV",
+     "text": "If you want to deposit it in Pink Paws Bank, I'd suggest… Oh, s-sorry!"
+    },
+    {
+     "title": "Unexpected Gains V",
+     "text": "Can I really… be this lucky?"
+    },
+    {
+     "title": "Unexpected Gains VI",
+     "text": "I-I'm supposed to keep this?"
+    },
+    {
+     "title": "Low Health I",
+     "text": "It's okay, don't worry about me…"
+    },
+    {
+     "title": "Low Health II",
+     "text": "I'm used to this."
+    },
+    {
+     "title": "Low Health III",
+     "text": "It doesn't hurt. It doesn't hurt."
+    },
+    {
+     "title": "Heal I",
+     "text": "Much, much better. Th-thank you."
+    },
+    {
+     "title": "Heal II",
+     "text": "That's so warm…"
+    },
+    {
+     "title": "Down I",
+     "text": "Mom, I wanna go home…"
+    },
+    {
+     "title": "Down II",
+     "text": "I'm so cold and lonely…"
+    },
+    {
+     "title": "Down III",
+     "text": "I'm still… not good enough…"
+    },
+    {
+     "title": "Takedown I",
+     "text": "I-I'm sorry!"
+    },
+    {
+     "title": "Takedown II",
+     "text": "Is anyone hurt?"
+    },
+    {
+     "title": "Damaged I",
+     "text": "I'm fine."
+    },
+    {
+     "title": "Damaged II",
+     "text": "It's just a scratch."
+    },
+    {
+     "title": "Heavily Damaged I",
+     "text": "I won't hold you back…"
+    },
+    {
+     "title": "Heavily Damaged II",
+     "text": "Sorry, I…"
+    },
+    {
+     "title": "Deploy I",
+     "text": "You chose me? Are you sure?"
+    },
+    {
+     "title": "Deploy II",
+     "text": "I'll… I'll do my best!"
+    },
+    {
+     "title": "Entry Attack I",
+     "text": "C-Coming!"
+    },
+    {
+     "title": "Entry Attack II",
+     "text": "Watch out for collision!"
+    },
+    {
+     "title": "Entry Attack III",
+     "text": "Made it in time!"
+    },
+    {
+     "title": "Glide I",
+     "text": "My feet… they're not touching the ground…"
+    },
+    {
+     "title": "Glide II",
+     "text": "Ugh… are we there yet?"
+    },
+    {
+     "title": "Switch I",
+     "text": "L-Leave it to me!"
+    },
+    {
+     "title": "Switch II",
+     "text": "I can do this!"
+    },
+    {
+     "title": "Switch III",
+     "text": "Please… trust me!"
+    },
+    {
+     "title": "Parry I",
+     "text": "I got it!"
+    },
+    {
+     "title": "Parry II",
+     "text": "I didn't miss!"
+    },
+    {
+     "title": "Consecutive Critical Dodge Success I",
+     "text": "Whew, I dodged it!"
+    },
+    {
+     "title": "Consecutive Critical Dodge Success II",
+     "text": "My skirt… is fine."
+    }
+   ]
+  },
+  "zh-cn": {
+   "daily": [
+    {
+     "title": "初次见面",
+     "text": "你好，我叫小吱，目前任职于粉爪银行，工号018888，住在新赫兰德区卡美洛大道库勒涅街……自、自我介绍不用这样吗……抱、抱歉！"
+    },
+    {
+     "title": "闲聊·奶茶",
+     "text": "啊，好想喝黑糖啵啵烤布蕾蛋糕乳茶加椰果布丁换鲍勃茶底大杯去冰全糖……唔！"
+    },
+    {
+     "title": "闲聊·周末",
+     "text": "这周末要不要去水菱湖逛逛，好久没出门了……不不不，还是待在家里吧。"
+    },
+    {
+     "title": "闲聊·工资",
+     "text": "新款啊……还是等下个月发了工资再买吧。"
+    },
+    {
+     "title": "大晴天",
+     "text": "阳光、真好啊……好想就这么睡在阳光里。"
+    },
+    {
+     "title": "雨天",
+     "text": "啊，下雨了，雨水会带来疾病，请……请不要着凉，拜托了。"
+    },
+    {
+     "title": "寒冷",
+     "text": "呼……好冷，这个时候最适合和家人挨在一起了，一下子就会暖和起来。"
+    },
+    {
+     "title": "炎热",
+     "text": "有点想念粉爪银行的空调了，冷气就像是不要钱一样充足。"
+    },
+    {
+     "title": "早上问候",
+     "text": "早、早上好！要、要吃点什么吗？三明治可以吗？或者咖啡？或者或者……总总总之，我来做早餐吧。"
+    },
+    {
+     "title": "中午问候",
+     "text": "午安，要休息会吗？午休时间……有两个小时。"
+    },
+    {
+     "title": "傍晚问候",
+     "text": "稍、稍等，马上就处理好了！……待会可以一起吃晚饭吗？"
+    },
+    {
+     "title": "晚安",
+     "text": "在我的家乡有个说法，「当你睡了一个无梦的好觉，那第二天就会是幸运的一天」，晚安，希望你能拥有幸运的一天。"
+    },
+    {
+     "title": "爱好",
+     "text": "我喜欢方斯……嗯，是的，方斯是很重要的东西。食物，药物，衣物……这些都没办法凭空变出来，得用钱去换。但有时候方斯好像也不是那么重要……我想，等攒够了能让我回家的方斯，大概它就不会那么重要了吧。不过那是好大好大一笔钱呢，我得在粉爪银行干到退休才够吧。"
+    },
+    {
+     "title": "烦恼",
+     "text": "烦恼啊……我刚到粉爪银行的时候，什么都做不好……不是，不是谦虚，是真的。站在那么漂亮的大厅里，穿着工整的新衣服，还是不敢和他人说话，总是担心做不好事情，甚至都想过就这么辞职好了。是可琳斯娜小姐帮了我，她……金灿灿的，就像是太阳一样，要是我也能像她一样耀眼……其实我现在跟可琳小姐之间也没什么可比的，但现在的生活已经很好了，我很满意。"
+    },
+    {
+     "title": "话题·异象",
+     "text": "海特洛市……是个很好的地方，普通人能和异象还有异能者平等地生活在一起，这里很和平，很安全。我出生的那个地方不是这样，异象大多数都很危险，要远远地避开，不过有的异象也可以作为食物……抱歉，不是什么有趣的事情，但如、如果你想听的话……以后慢慢聊吧。"
+    },
+    {
+     "title": "话题·电影",
+     "text": "休假的时候我喜欢在家看电影。大部分电影都很有意思，里面很多我没见过的故事和风景，我……我去过的地方很少，每次看电影的时候我就会想，有机会的话我也想去那些地方看看，有一部纪录片里甚至还有我家……唔，好像说了太多了，都、都忘掉吧……要一起去看电影吗？和你一起的话就算恐怖片也……也可以的！"
+    },
+    {
+     "title": "话题·便利店",
+     "text": "晚上去2-Four便利店有时候可以买到打折饭团，尝起来味道和早上买的一样，但是价格会便宜很多呢，很适合当夜宵吃。就是饭团的保质期太短了，不能存放太久，只能当天吃掉。我……我也会做饭团，有机会的话，你想尝尝吗？"
+    },
+    {
+     "title": "关于自己·囤积癖",
+     "text": "遇到喜欢的东西，下意识就、就收集了很多……非常多，我有、有好好地整理收纳，不会很乱，就只是一种习惯……好像只有很多很多地堆在一起，才会觉得这样很安全，很安心。"
+    },
+    {
+     "title": "关于自己·异能",
+     "text": "……异、异能啊……它……它很、很方便，很便捷，很……很……很好用。我、我是异能者，所以、所以都是因为有……异能，才能来海特洛市……找、找工作的时候，也很方便，都是因为我有……我有异能……在这里有异能真的很好，我喜欢这里。"
+    },
+    {
+     "title": "关于自己·绷带",
+     "text": "会……很难看吗？我以前……什么都做不好，总是弄伤自己……没、没事的，我现在已经不怎么会受伤了，就是以前留下的疤痕不太好看，所以用绷带都挡住了。这种绷带还是同事推荐给我的呢，很柔软很透气，不会有什么异样感。不用担心我，伤口都已经愈合了，不会再痛啦。"
+    },
+    {
+     "title": "关于德沃夏克",
+     "text": "德沃夏克家族，是一个有点……有点奇怪？不不不是贬义的意思！我刚刚到海特洛市的时候，就是被他们家的福利院收留了，然后又在德沃夏克基金会的资助下读书上学，出来后就选择了在粉爪银行工作。不管是海特洛市的市民，还是跟我一样的外来者都或多或少受到过他们家的恩惠，德沃夏克家好像总是在……在送钱？而且还不收回报，可能这就是好心人吧。"
+    },
+    {
+     "title": "角色突破·Ⅰ",
+     "text": "好、好奇妙的感觉。"
+    },
+    {
+     "title": "角色突破·Ⅱ",
+     "text": "我会……更有用一些吗？"
+    },
+    {
+     "title": "角色突破·Ⅲ",
+     "text": "我也能做到这一步啊。"
+    },
+    {
+     "title": "收到赠礼·Ⅰ",
+     "text": "我……我……我很喜欢，真的，很喜欢。"
+    },
+    {
+     "title": "收到赠礼·Ⅱ",
+     "text": "谢、谢谢！对、对不起……不是不是，我……我不知道说什么……我会好好保存的，会喜欢很久很久。"
+    },
+    {
+     "title": "收到赠礼·Ⅲ",
+     "text": "是、是送给我的？！谢谢。"
+    },
+    {
+     "title": "收到赠礼·IV",
+     "text": "我会、会准备回礼的！到时候请……请一定要收下！"
+    }
+   ],
+   "battle": [
+    {
+     "title": "变轨技能·Ⅰ",
+     "text": "成交。"
+    },
+    {
+     "title": "变轨技能·Ⅱ",
+     "text": "加仓。"
+    },
+    {
+     "title": "变轨技能·Ⅲ",
+     "text": "打板。"
+    },
+    {
+     "title": "极轨终结·Ⅰ",
+     "text": "工号018888，为您服务！"
+    },
+    {
+     "title": "极轨终结·Ⅱ",
+     "text": "感、感谢选择粉爪银行！"
+    },
+    {
+     "title": "极轨终结·Ⅲ",
+     "text": "已为您购买意外伤害保险。"
+    },
+    {
+     "title": "收容异象·Ⅰ",
+     "text": "这样就可以了吗？"
+    },
+    {
+     "title": "收容异象·Ⅱ",
+     "text": "我做得……好、好吗？"
+    },
+    {
+     "title": "泯除异象·Ⅰ",
+     "text": "晚安。"
+    },
+    {
+     "title": "泯除异象·Ⅱ",
+     "text": "……能回家了。"
+    },
+    {
+     "title": "意外收获·Ⅰ",
+     "text": "真、真的可以直接拿走吗？"
+    },
+    {
+     "title": "意外收获·Ⅱ",
+     "text": "我来……帮、帮你拿。"
+    },
+    {
+     "title": "意外收获·Ⅲ",
+     "text": "钱是很珍贵的东西，要好好保存。"
+    },
+    {
+     "title": "意外收获·Ⅳ",
+     "text": "如果存进粉爪银行的话我推荐方案……抱、抱歉！"
+    },
+    {
+     "title": "意外收获·Ⅴ",
+     "text": "我也可以……有这样的好运气吗？"
+    },
+    {
+     "title": "意外收获·Ⅵ",
+     "text": "收纳要、要交给我吗？"
+    },
+    {
+     "title": "生命值低·Ⅰ",
+     "text": "没事的，不用担心我……"
+    },
+    {
+     "title": "生命值低·Ⅱ",
+     "text": "我习惯啦。"
+    },
+    {
+     "title": "生命值低·Ⅲ",
+     "text": "不痛不痛。"
+    },
+    {
+     "title": "恢复生命·Ⅰ",
+     "text": "好、好多了，谢、谢谢。"
+    },
+    {
+     "title": "恢复生命·Ⅱ",
+     "text": "好温暖啊……"
+    },
+    {
+     "title": "力竭·Ⅰ",
+     "text": "妈妈，我好想回家……"
+    },
+    {
+     "title": "力竭·Ⅱ",
+     "text": "一个人好冷啊……"
+    },
+    {
+     "title": "力竭·Ⅲ",
+     "text": "我……做得还不够好……"
+    },
+    {
+     "title": "击败怪物·Ⅰ",
+     "text": "抱、抱歉！"
+    },
+    {
+     "title": "击败怪物·Ⅱ",
+     "text": "没有受伤吧？"
+    },
+    {
+     "title": "普通受击·Ⅰ",
+     "text": "我没事。"
+    },
+    {
+     "title": "普通受击·Ⅱ",
+     "text": "只是碰到了一下。"
+    },
+    {
+     "title": "重受击·Ⅰ",
+     "text": "我不会拖后腿的……"
+    },
+    {
+     "title": "重受击·Ⅱ",
+     "text": "对不起，我……"
+    },
+    {
+     "title": "上阵·Ⅰ",
+     "text": "真的选择了我吗？"
+    },
+    {
+     "title": "上阵·Ⅱ",
+     "text": "我会、会加油的！"
+    },
+    {
+     "title": "协同技·Ⅰ",
+     "text": "来、来了！"
+    },
+    {
+     "title": "协同技·Ⅱ",
+     "text": "小心冲撞！"
+    },
+    {
+     "title": "协同技·Ⅲ",
+     "text": "赶上了！"
+    },
+    {
+     "title": "滑翔·Ⅰ",
+     "text": "脚、碰不到地上……"
+    },
+    {
+     "title": "滑翔·Ⅱ",
+     "text": "呜……还、还没到吗？"
+    },
+    {
+     "title": "切换·Ⅰ",
+     "text": "交、交给我吧！"
+    },
+    {
+     "title": "切换·Ⅱ",
+     "text": "我可以做到！"
+    },
+    {
+     "title": "切换·Ⅲ",
+     "text": "请……相信我！"
+    },
+    {
+     "title": "弹反·Ⅰ",
+     "text": "接到了！"
+    },
+    {
+     "title": "弹反·Ⅱ",
+     "text": "没有失误！"
+    },
+    {
+     "title": "连续极限闪避成功·Ⅰ",
+     "text": "躲、躲过了！"
+    },
+    {
+     "title": "连续极限闪避成功·Ⅱ",
+     "text": "裙子，没有弄脏。"
+    }
+   ]
+  },
+  "ja": {
+   "daily": [
+    {
+     "title": "初対面",
+     "text": "はじめまして！『ちぃちゃん』って呼んでください！現在、にくきゅう銀行に勤めておりまして、職員ナンバーは018888、住所はニューホランドカミラ大通りクレイニア…えっ！？あ、こ、こんな個人情報まで言わなくていいんですか！？ご、ごめんなさい、私、こういうの初めてで…！"
+    },
+    {
+     "title": "雑談-ミルクティー",
+     "text": "うーん、新商品のドリンク飲みたいなぁ…黒糖クレームブリュレ載せミルクティーココナッツプリン追加タピオカに変更ベンティサイズ氷抜きシロップマシマシ…はっ、失礼しました！"
+    },
+    {
+     "title": "雑談-週末",
+     "text": "週末にロンバス湖行こうかな？最近全然遊びに行ってないから…ううん！やっぱり家にいよう…"
+    },
+    {
+     "title": "雑談-給料",
+     "text": "新商品だ…はぁ、やっぱり来月のお給料日まで待とう…"
+    },
+    {
+     "title": "快晴",
+     "text": "ポカポカ～。ふ～、このままひなたぼっこしながらお昼寝したいなぁ…"
+    },
+    {
+     "title": "雨",
+     "text": "あ、雨降ってきた。風邪をひいちゃうから、くれぐれも、体を冷やさないようにね…"
+    },
+    {
+     "title": "寒い",
+     "text": "ふぅ…寒いですね…こんな日は、家族とぎゅーってくっつきたくなります。そうしたら、すぐに暖まりますから。"
+    },
+    {
+     "title": "灼熱",
+     "text": "にくきゅう銀行の涼しいお部屋が、少し恋しいです。無料なのに、あんなに涼しいんですよ～。"
+    },
+    {
+     "title": "朝の挨拶",
+     "text": "お、おはようございます！朝ごはんは何にしましょうか？サンドイッチですか？コーヒーはいかがですか？それとも…と、とととにかく！私がご用意しますよ！"
+    },
+    {
+     "title": "昼の挨拶",
+     "text": "こんにちは。少し休憩しますか？お昼休み、2時間もあるんですよ…"
+    },
+    {
+     "title": "夕方の挨拶",
+     "text": "ちょ、ちょっと待ってください！もう少しで終わりますから！…あの、この後、一緒に晩ごはん食べませんか？"
+    },
+    {
+     "title": "おやすみ",
+     "text": "私の故郷には、こんな言い伝えがあるんです。「夢を見ないくらいぐっすり眠れた夜の次の日は、きっと素晴らしい一日になる」って。…おやすみなさい。あなたの明日が、素敵な一日になりますように。"
+    },
+    {
+     "title": "趣味",
+     "text": "ファンスは…好き、です。とっても大事なものですから。食べ物も、お薬も、温かい服も、空から降ってくるわけじゃない。全部、ファンスがないと手に入りませんから。…でも、時々思うんです。本当は、ファンスなんて、そこまで大事なものじゃないのかもしれないって…。もし、故郷に帰るためのファンスが貯まったら、その時は、もうファンスは一番じゃなくなる…のかもしれません。…でも、そんな大金、私が定年までここで働いても、貯まるかどうか…"
+    },
+    {
+     "title": "悩み",
+     "text": "悩み事、ですか…？私が初めてにくきゅう銀行に来た頃は、本当に、何一つ上手くできなかったんです。いえ、これは謙遜なんかじゃなくて…あんなに綺麗なホールに立って、素敵な制服を着せてもらっているのに、人と話すのが怖くて…いつも「失敗したらどうしよう」って、そればかり考えていました。もう辞めた方がいいかもしれないとも思ったのですが、そんな時に私を支えてくれたのが、カリンスナ様でした。お嬢様は、まるで太陽みたいにキラキラしていて…私も、あんな風になれたらなって、思ったんです。も、もちろん、私なんかがカリンスナ様を引き合いに出すなんて、おこがましいんですけど…！でも、今の生活には…はい、満足、しています。"
+    },
+    {
+     "title": "話題-異象",
+     "text": "ヘテロシティは、すごくいい場所です。普通の人も、異象さんも、異能者の皆さんも、みんなが一緒に暮らしていて…安全で、平和で、私が生まれた場所とは、全然違うんです。私の故郷では、ほとんどの異象は「危険なもの」だから、近づいちゃいけないって…でも、中には、食べ物になる異象もいて…あ…ご、ごめんなさい、こんな話、楽しくないですよね…でも、もし、興味があったら…その、また今度、ゆっくりお話ししますね。"
+    },
+    {
+     "title": "話題-映画",
+     "text": "お休みの日は、いつもお家で映画を観ています。映画は、すごく好きなんです。だって、今まで見たことのない景色や、聞いたことのないお話に、たくさん出会えますから。私、あまり遠くへ行ったことがなくて…だから、「私もいつかここへ行ってみたいな」って、想像しちゃいます。あ、そういえば、この前観たドキュメンタリーに、私の故郷が…う、ううん！い、今の話は、忘れてくださいっ！…あ、あの！もしよかったら、今度一緒に映画、観に行きませんか？あなたと一緒なら、ホラー映画でも…だ、大丈夫、です！"
+    },
+    {
+     "title": "話題-コンビニ",
+     "text": "夜に2-Fourコンビニに行くと、おにぎりが割引されてて。お味は全然変わらないのに、お値段はずっとお安くて、すごくお得なんですよ…ただ、賞味期限が近いから、その日の夜食にしなくちゃいけないんですけど…あ！お、おにぎりなら、私も作れます…！もし、よかったら、今度…食べて、みませんか？"
+    },
+    {
+     "title": "自分について-収集癖",
+     "text": "その…気に入った物を見つけると、つい嬉しくなって買ってしまうんです。それで、気づいたら、こんなにたくさんに…で、でも！ちゃんと整理整頓はしているから、お部屋が散らかっているわけではないんですよ！…なんていうか、その…物が周りにたくさんあると、少しだけ、安心できるんです…ただの、私の好みなんですけど…はい…"
+    },
+    {
+     "title": "自分について-異能",
+     "text": "…い、異能、ですか…？べ、便利、ですよ。とっても…とっても、便利、です…。私が異能者だったから…この異能があったから、私はヘテロシティに来ることができました。お仕事を探す時も、すごく助かりました…全部、この異能のおかげ、なんです…この街で、異能があって、よかったです。私は、この街が、好きです。"
+    },
+    {
+     "title": "自分について-包帯",
+     "text": "あ、こ、これですか？気になりますよね…その…私、昔からすごくおっちょこちょいで、いつも怪我ばかりしていたから…あ、今はもうすっかり大丈夫なんです！本当ですよ！ただ、その…古い傷痕が、少し恥ずかしいので…こうして、隠しているだけなんです。この包帯、同僚の方に教えてもらったんですけど、すごく柔らかくて、着け心地がいいんですよ。あはは…もう全部治っているから、全然痛くはないんです…心配してくださって、ありがとうございます。"
+    },
+    {
+     "title": "ドヴォルザークについて",
+     "text": "ドヴォルザーク家、ですか…。そうですね…少し、不思議な方たち…という印象です。あ、もちろん、悪い意味ではありませんよ！私がヘテロシティに来たばかりの頃、お世話になったのが、彼らが運営している福祉施設でした。その後も、財団の支援で学校に通わせていただいて…そして今、こうしてにくきゅう銀行でお仕事をいただけたのも、ドヴォルザーク家の皆様のおかげなんです。きっと、私みたいな外から来た者だけじゃなくて、昔からこの街にいる方々も、皆さん、何かしらの形であの方たちのお世話になっているんじゃないかなって、思うんです。だって、あの方たちはいつも…人助けのために、ファンスをたくさん配っていますから。それも、何の見返りも求めないで…だから、きっと、本当に心の優しい方たちなんだって、私はそう思っています。"
+    },
+    {
+     "title": "キャラ突破Ⅰ",
+     "text": "ふ、不思議な気分です…"
+    },
+    {
+     "title": "キャラ突破Ⅱ",
+     "text": "私、これからもっと、お役に立てますでしょうか？"
+    },
+    {
+     "title": "キャラ突破Ⅲ",
+     "text": "私も、こんなことができるようになったんだ…"
+    },
+    {
+     "title": "届けられたギフトⅠ",
+     "text": "わ…私…すごく好きなんです。本当に、大好き。"
+    },
+    {
+     "title": "届けられたギフトⅡ",
+     "text": "あ、ありがとうございます！す、すみません…えっと…私…なんて言えばいいのか…ずっとずっと大切にします。"
+    },
+    {
+     "title": "届けられたギフトⅢ",
+     "text": "わ、私に！？ありがとうございます。"
+    },
+    {
+     "title": "届けられたギフトⅣ",
+     "text": "お、お返しを用意しますね！その時は…ぜ、ぜひ受け取ってください！"
+    }
+   ],
+   "battle": [
+    {
+     "title": "バイレールスキルⅠ",
+     "text": "商談成立。"
+    },
+    {
+     "title": "バイレールスキルⅡ",
+     "text": "買い増し。"
+    },
+    {
+     "title": "バイレールスキルⅢ",
+     "text": "ストップ高。"
+    },
+    {
+     "title": "EXレール終結Ⅰ",
+     "text": "社員番号018888、ご案内いたします！"
+    },
+    {
+     "title": "EXレール終結Ⅱ",
+     "text": "に、にくきゅう銀行をお選びいただき、ありがとうございます！"
+    },
+    {
+     "title": "EXレール終結Ⅲ",
+     "text": "傷害保険があるので、ご心配なく。"
+    },
+    {
+     "title": "異象収容Ⅰ",
+     "text": "これでいいんですか？"
+    },
+    {
+     "title": "異象収容Ⅱ",
+     "text": "え、「よくやった」…んですか？"
+    },
+    {
+     "title": "異象排除Ⅰ",
+     "text": "おやすみなさい。"
+    },
+    {
+     "title": "異象排除Ⅱ",
+     "text": "…これで、もとの場所に帰れるね。"
+    },
+    {
+     "title": "意外な収穫Ⅰ",
+     "text": "ほ、本当にお預かりしていいんですか？"
+    },
+    {
+     "title": "意外な収穫Ⅱ",
+     "text": "わ、私が預かりますよ…"
+    },
+    {
+     "title": "意外な収穫Ⅲ",
+     "text": "ファンスは大事な物だから、ちゃんと保管しておきませんと。"
+    },
+    {
+     "title": "意外な収穫Ⅳ",
+     "text": "にくきゅう銀行にお預けいただけるなら、ぜひこちらのプランを…ご、ごめんなさい！"
+    },
+    {
+     "title": "意外な収穫Ⅴ",
+     "text": "私、こんなにラッキーでいいんですか…？"
+    },
+    {
+     "title": "意外な収穫Ⅵ",
+     "text": "わ、私がお預かりしましょうか？"
+    },
+    {
+     "title": "低HPⅠ",
+     "text": "大丈夫です…ご心配なく…"
+    },
+    {
+     "title": "低HPⅡ",
+     "text": "こんなの、慣れてますから。"
+    },
+    {
+     "title": "低HPⅢ",
+     "text": "痛くない、痛くない。"
+    },
+    {
+     "title": "HP回復Ⅰ",
+     "text": "ふぅ、生き返った…あ、ありがとうございます。"
+    },
+    {
+     "title": "HP回復Ⅱ",
+     "text": "温かい…"
+    },
+    {
+     "title": "力尽きⅠ",
+     "text": "お母さん、おうちに帰りたいよ…"
+    },
+    {
+     "title": "力尽きⅡ",
+     "text": "ひとりぼっちは、寒い…"
+    },
+    {
+     "title": "力尽きⅢ",
+     "text": "また、うまくできなかった…"
+    },
+    {
+     "title": "敵を撃破Ⅰ",
+     "text": "ご、ごめんなさい！"
+    },
+    {
+     "title": "敵を撃破Ⅱ",
+     "text": "お怪我はありませんか？"
+    },
+    {
+     "title": "ダメージを受ける（通常）Ⅰ",
+     "text": "平気です。"
+    },
+    {
+     "title": "ダメージを受ける（通常）Ⅱ",
+     "text": "かすり傷ですよ。"
+    },
+    {
+     "title": "大打撃Ⅰ",
+     "text": "足手まといはイヤ…"
+    },
+    {
+     "title": "大打撃Ⅱ",
+     "text": "ごめんなさい、私…"
+    },
+    {
+     "title": "出撃Ⅰ",
+     "text": "本当に、私でいいんですか？"
+    },
+    {
+     "title": "出撃Ⅱ",
+     "text": "が、頑張りますっ！"
+    },
+    {
+     "title": "コンビスキルⅠ",
+     "text": "い、行きます！"
+    },
+    {
+     "title": "コンビスキルⅡ",
+     "text": "衝撃に備えてください！"
+    },
+    {
+     "title": "コンビスキルⅢ",
+     "text": "間に合いました！"
+    },
+    {
+     "title": "滑空Ⅰ",
+     "text": "足が…地面につかない…"
+    },
+    {
+     "title": "滑空Ⅱ",
+     "text": "う…まだ…飛ぶんですか…？"
+    },
+    {
+     "title": "切替Ⅰ",
+     "text": "ま、任せてください！"
+    },
+    {
+     "title": "切替Ⅱ",
+     "text": "できます！"
+    },
+    {
+     "title": "切替Ⅲ",
+     "text": "し、信じてください！"
+    },
+    {
+     "title": "パリィⅠ",
+     "text": "キャッチ！"
+    },
+    {
+     "title": "パリィⅡ",
+     "text": "成功しました！"
+    },
+    {
+     "title": "連続極限回避成功Ⅰ",
+     "text": "な、なんとか躱せた…！"
+    },
+    {
+     "title": "連続極限回避成功Ⅱ",
+     "text": "よし！スカートのすそ、汚れてない！"
+    }
+   ]
+  },
+  "ko": {
+   "daily": [
+    {
+     "title": "첫 만남",
+     "text": "안녕하세요. 제 이름은 치즈에요. 현재 핑크퍼스 은행에 재직 중이고, 직원 번호는 018888, 주소는 뉴 헤랜드 구역 카멜롯 거리 킬레네… 아, 자기소개가 너무 장황했나요… 죄, 죄송해요!"
+    },
+    {
+     "title": "대화·밀크티",
+     "text": "아, 흑당 버블 브륄레 케이크 밀크티에 코코넛 젤리랑 푸딩 추가하고, 버블티 베이스에 라지 사이즈, 얼음 빼고 당도 100%으로… 음!"
+    },
+    {
+     "title": "대화·주말",
+     "text": "이번 주말에 체스트넛 레이크에 놀러 가지 않을래요? 아니지… 그냥 집에 있어야겠어요."
+    },
+    {
+     "title": "대화·월급",
+     "text": "신상이라… 다음 달 월급 받으면 바로 사야겠어요."
+    },
+    {
+     "title": "맑은 날",
+     "text": "햇살이 참 좋네요… 햇볕을 쬐면서 잠들고 싶어요."
+    },
+    {
+     "title": "비 오는 날",
+     "text": "아, 비가 내리네요. 이런 날엔 감기가 쉽게 걸리니… 부디 감… 감기 조심하세요."
+    },
+    {
+     "title": "추운 날",
+     "text": "하아… 춥네요. 이런 날엔 가족과 꼭 붙어 있으면 금방 따뜻해져요."
+    },
+    {
+     "title": "더운 날",
+     "text": "오늘은 에어컨이 빵빵한 핑크퍼스 은행이 그립네요."
+    },
+    {
+     "title": "아침 인사",
+     "text": "좋, 좋은 아침입니다! 뭘 드시겠어요…? 샌드위치? 커피? 아니면… 아, 아무튼 아침은 제가 차릴게요."
+    },
+    {
+     "title": "점심 인사",
+     "text": "점심시간이에요, 잠시 쉬었다 가실래요? 점심에… 2시간 쉬거든요."
+    },
+    {
+     "title": "저녁 인사",
+     "text": "잠시만요, 금방 끝나요…! 혹시… 이따가 같이 저녁 드실래요?"
+    },
+    {
+     "title": "취침 인사",
+     "text": "저희 고향에는 「꿈꾸지 않고 깊이 자면, 행운이 찾아온다.」는 말이 있어요. 안녕히 주무세요, 당신의 하루에 행운이 깃들길."
+    },
+    {
+     "title": "취미",
+     "text": "저는 폰즈가 좋아요… 음, 맞아요. 폰즈는 정말 중요하죠. 음식, 약, 옷… 거저 생기는 건 아무것도 없잖아요. 하지만 가끔은 폰즈가 전부는 아니라는 생각이 들어요… 고향에 돌아갈 정도의 폰즈를 모으고 나면 더 이상 폰즈가 그렇게 중요하지 않게 느껴지겠죠. 하지만 그건 너무 큰 금액이라… 아마 핑크퍼스 은행에서 은퇴할 때쯤에야 모을 수 있을 거예요."
+    },
+    {
+     "title": "고민",
+     "text": "휴… 핑크퍼스 은행에 막 입사했을 땐 제대로 하는 게 없었어요… 겸손이 아니라 정말이에요. 근사한 로비에 어울리는 단정한 유니폼을 차려입었지만, 사람들한테 말 한마디 못 걸겠더라고요. 일을 망칠까 봐 늘 불안했고, 그만두고 싶단 생각까지 했었죠. 콜린시나 씨가 정말 많이 도와주셨어요. 그분은 반짝반짝 빛나는 태양 같았어요. 그리고 항상 닮고 싶었고요. 비록… 그분과 비교할 수는 없겠지만, 그래도 지금의 제 삶에 꽤 만족해요."
+    },
+    {
+     "title": "주제·이상",
+     "text": "헤테로 시티… 정말 좋은 곳이죠. 일반인들이 이상과 이능력자랑 평등하게 살아가는 도시여서, 평화롭고 안전하죠. 제가 태어난 곳은 이렇지 않았어요. 대부분 이상은 위험해서 멀리해야 하는 존재였죠. 그중 어떤 이상은 식용으로 쓰이기도 했지만… 죄송해요. 재미없으셨죠? 그래도 듣고 싶으시다면… 나중에 얘기해 드릴게요."
+    },
+    {
+     "title": "주제·영화",
+     "text": "휴일엔 영화 보는 걸 좋아해요. 새로운 이야기, 낯선 풍경이 나오는 영화를 보고 있으면 정말 즐거워요. 전… 여행을 가본 적이 거의 없어서, 영화를 보면 늘 언젠가는 저런 곳에 가보고 싶다고 생각하죠. 하루는 어떤 다큐에서 저희 고향이 나오더라고요… 아, 저 혼자 너무 떠들었죠? 그냥 못 들은 걸로 해주세요… 다음에 같이 영화 보러 가실래요? 함께 보면 공포 영화도… 괜찮을 것 같아요!"
+    },
+    {
+     "title": "주제·편의점",
+     "text": "밤에 2-Four 편의점에 가면 할인 주먹밥을 살 수 있어요. 맛은 아침에 샀던 거랑 똑같은데 훨씬 싸서, 야식으로 딱 좋죠. 근데 유통기한이 얼마 남지 않아서, 바로 먹어야 해요. 저… 저도 주먹밥 만들 줄 아는데, 괜찮으시면 다음에 드셔보실래요?"
+    },
+    {
+     "title": "자신에 관해·수집벽",
+     "text": "좋아하는 물건을 보면 무의식적으로 잔뜩 모아요… 엄청, 엄청 많이요. 그래도 깔끔하게 정리해서 지저분하지는 않아요. 그냥 습관이에요… 뭔가 잔뜩 쌓여 있어야 마음이 편하고 안심이 돼요."
+    },
+    {
+     "title": "자신에 관해·이능력",
+     "text": "이능력이요…? 아… 엄청 편리하죠… 그리고 유용해요. 그리고 저, 저도 이능력자예요. 덕, 덕분에… 네, 이능력 덕분에 헤테로 시티에 올 수 있었어요… 직장을 구할 때도… 꽤 수월했고요. 이, 이능력이 있어서… 여긴 이능력자들이 살기 좋은 곳이라서… 전 여기가 좋아요."
+    },
+    {
+     "title": "자신에 관해·붕대",
+     "text": "보기 흉하죠…? 예전엔 서툴러서… 자주 다쳤어요… 아, 괜찮아요. 지금은 상처도 다 낫고 흉터만 남았는데, 좀 흉해서 붕대로 가리고 있는 거예요. 동료가 추천해 준 붕대인데, 부드럽고 통기성도 좋아서 불편하지 않아요. 걱정하지 마세요, 하나도 안 아프답니다."
+    },
+    {
+     "title": "드보르자크에 관해",
+     "text": "드보르자크 가문은… 좀 특이하다고 할까요? 절, 절대 나쁜 뜻은 아니에요! 제가 헤테로 시티에 처음 왔을 때 드보르자크 가문의 복지 시설에서 저를 받아주고, 장학금까지 지원해서 학교도 다닐 수 있었어요. 졸업 후 핑크퍼스 은행에 입사했고요. 현지인이든 외지인이든, 다들 한 번쯤은 드보르자크 가문의 도움을 받은 사람이 많아요. 그 가문은… 항상 베풀기만 하고 보답은 전혀 바라지 않는 것 같아요. 참 선량한 분들이시죠."
+    },
+    {
+     "title": "캐릭터 돌파·Ⅰ",
+     "text": "정, 정말 묘한 기분이네요."
+    },
+    {
+     "title": "캐릭터 돌파·Ⅱ",
+     "text": "저도… 조금은 쓸모 있어진 걸까요?"
+    },
+    {
+     "title": "캐릭터 돌파·Ⅲ",
+     "text": "제가 이렇게 성장할 수 있을 줄은 몰랐어요."
+    },
+    {
+     "title": "선물 수령·Ⅰ",
+     "text": "너무… 너무 마음에 들어요. 진심으로요."
+    },
+    {
+     "title": "선물 수령·Ⅱ",
+     "text": "고, 고마워요! 아니, 죄, 죄송해요… 아… 그러니까 저… 무슨 말을 해야 할지 모르겠어요… 오래오래 아껴서 쓸게요. 소중히 잘 간직할게요."
+    },
+    {
+     "title": "선물 수령·Ⅲ",
+     "text": "저, 저 주시는 거예요?! 고마워요."
+    },
+    {
+     "title": "선물 수령·IV",
+     "text": "꼭, 꼭 답례할게요! 그러니까 꼭… 받아주세요!"
+    }
+   ],
+   "battle": [
+    {
+     "title": "바이레일 스킬·Ⅰ",
+     "text": "거래 체결했습니다."
+    },
+    {
+     "title": "바이레일 스킬·Ⅱ",
+     "text": "추가 매수합니다."
+    },
+    {
+     "title": "바이레일 스킬·Ⅲ",
+     "text": "상한가에 매수합니다."
+    },
+    {
+     "title": "울티메이트·Ⅰ",
+     "text": "직원 018888번이 도와드리겠습니다."
+    },
+    {
+     "title": "울티메이트·Ⅱ",
+     "text": "피, 핑크퍼스 은행 이용 감사합니다."
+    },
+    {
+     "title": "울티메이트·Ⅲ",
+     "text": "상해 보험 가입해 드렸습니다."
+    },
+    {
+     "title": "이상 수용·Ⅰ",
+     "text": "이렇게 하면 되는 건가요?"
+    },
+    {
+     "title": "이상 수용·Ⅱ",
+     "text": "이, 이 정도면 괜찮았나요?"
+    },
+    {
+     "title": "이상 제거·Ⅰ",
+     "text": "안녕히 주무세요."
+    },
+    {
+     "title": "이상 제거·Ⅱ",
+     "text": "이제 집에 갈 수 있겠어요…"
+    },
+    {
+     "title": "뜻밖의 수확·Ⅰ",
+     "text": "정, 정말 가져가도 돼요?"
+    },
+    {
+     "title": "뜻밖의 수확·Ⅱ",
+     "text": "제, 제가 들어드릴게요."
+    },
+    {
+     "title": "뜻밖의 수확·Ⅲ",
+     "text": "돈은 귀중한 거니까, 잘 보관해야 해요."
+    },
+    {
+     "title": "뜻밖의 수확·Ⅳ",
+     "text": "핑크퍼스 은행에 저축할 생각이 있으시다면 제가 추천을… 앗, 죄송해요!"
+    },
+    {
+     "title": "뜻밖의 수확·Ⅴ",
+     "text": "이런 행운이 제게… 정말 이래도 되는 걸까요?"
+    },
+    {
+     "title": "뜻밖의 수확·Ⅵ",
+     "text": "제, 제가 챙겨도 괜찮을까요?"
+    },
+    {
+     "title": "HP 낮음·Ⅰ",
+     "text": "괜찮아요, 걱정하지 마세요…"
+    },
+    {
+     "title": "HP 낮음·Ⅱ",
+     "text": "이제는 익숙해요."
+    },
+    {
+     "title": "HP 낮음·Ⅲ",
+     "text": "하나도 안 아파요."
+    },
+    {
+     "title": "HP 회복·Ⅰ",
+     "text": "으음, 훨씬 나아졌어요. 고, 고마워요."
+    },
+    {
+     "title": "HP 회복·Ⅱ",
+     "text": "따뜻해요…"
+    },
+    {
+     "title": "탈진·Ⅰ",
+     "text": "엄마, 집에 가고 싶어…"
+    },
+    {
+     "title": "탈진·Ⅱ",
+     "text": "혼자 있으니 너무 추워…"
+    },
+    {
+     "title": "탈진·Ⅲ",
+     "text": "전… 아직 부족한가 봐요…"
+    },
+    {
+     "title": "몬스터 처치·Ⅰ",
+     "text": "죄, 죄송해요!"
+    },
+    {
+     "title": "몬스터 처치·Ⅱ",
+     "text": "다치진 않으셨죠?"
+    },
+    {
+     "title": "일반 피격·Ⅰ",
+     "text": "난 괜찮아."
+    },
+    {
+     "title": "일반 피격·Ⅱ",
+     "text": "살짝 스쳤어요."
+    },
+    {
+     "title": "심각한 피해·Ⅰ",
+     "text": "발목 잡지 않을게요…"
+    },
+    {
+     "title": "심각한 피해·Ⅱ",
+     "text": "죄송해요, 전…"
+    },
+    {
+     "title": "출전·Ⅰ",
+     "text": "정말 절 뽑으신 건가요?"
+    },
+    {
+     "title": "출전·Ⅱ",
+     "text": "최, 최선을 다할게요!"
+    },
+    {
+     "title": "협동기·Ⅰ",
+     "text": "지, 지금이에요!"
+    },
+    {
+     "title": "협동기·Ⅱ",
+     "text": "부딪히지 않도록 조심해요!"
+    },
+    {
+     "title": "협동기·Ⅲ",
+     "text": "늦지 않았네요!"
+    },
+    {
+     "title": "글라이딩·Ⅰ",
+     "text": "발이, 땅에 안 닿아요…"
+    },
+    {
+     "title": "글라이딩·Ⅱ",
+     "text": "으으… 얼마나 남았어요…?"
+    },
+    {
+     "title": "전환·Ⅰ",
+     "text": "맡, 맡겨주세요!"
+    },
+    {
+     "title": "전환·Ⅱ",
+     "text": "반드시 해낼게요!"
+    },
+    {
+     "title": "전환·Ⅲ",
+     "text": "저… 절 믿어주세요!"
+    },
+    {
+     "title": "패링·Ⅰ",
+     "text": "막아냈어요!"
+    },
+    {
+     "title": "패링·Ⅱ",
+     "text": "실수 안 했어요!"
+    },
+    {
+     "title": "연속 극한 회피 성공·Ⅰ",
+     "text": "피, 피했어요!"
+    },
+    {
+     "title": "연속 극한 회피 성공·Ⅱ",
+     "text": "치마… 안 더러워졌어요."
+    }
+   ]
+  },
+  "zh-tw": {
+   "daily": [
+    {
+     "title": "初次見面",
+     "text": "你好，我叫小吱，目前任職於粉爪銀行，員工編號018888，住在新赫蘭德區卡美洛大道庫勒涅街……自、自我介紹不用這樣嗎……抱、抱歉！"
+    },
+    {
+     "title": "閒聊·奶茶",
+     "text": "啊，好想喝黑糖啵啵烤布蕾蛋糕乳茶加椰果布丁換鮑勃茶底大杯去冰全糖……唔！"
+    },
+    {
+     "title": "閒聊·週末",
+     "text": "這週末要不要去水菱湖逛逛，好久沒出門了……不不不，還是待在家裡吧。"
+    },
+    {
+     "title": "閒聊·薪水",
+     "text": "新款啊……還是等下個月發了薪水再買吧。"
+    },
+    {
+     "title": "大晴天",
+     "text": "陽光、真好啊……好想就這麼睡在陽光裡。"
+    },
+    {
+     "title": "雨天",
+     "text": "啊，下雨了，雨水會帶來疾病，請……請不要著涼，拜託了。"
+    },
+    {
+     "title": "寒冷",
+     "text": "呼……好冷，這個時候最適合和家人擠在一起了，一下子就會暖和起來。"
+    },
+    {
+     "title": "炎熱",
+     "text": "有點想念粉爪銀行的冷氣了，冷氣就像是不要錢一樣充足。"
+    },
+    {
+     "title": "早上問候",
+     "text": "早、早上好！要、要吃點什麼嗎？三明治可以嗎？或者咖啡？或者或者……總總總之，我來做早餐吧。"
+    },
+    {
+     "title": "中午問候",
+     "text": "午安，要休息下嗎？午休時間……有兩個小時。"
+    },
+    {
+     "title": "傍晚問候",
+     "text": "稍、稍等，馬上就處理好了！……待會可以一起吃晚飯嗎？"
+    },
+    {
+     "title": "晚安",
+     "text": "在我的家鄉有個說法，「當你睡了一個無夢的好覺，那第二天就會是幸運的一天」，晚安，希望你能擁有幸運的一天。"
+    },
+    {
+     "title": "愛好",
+     "text": "我喜歡方斯……嗯，是的，方斯是很重要的東西。食物，藥物，衣物……這些都沒辦法憑空變出來，得用錢去換。但有時候方斯好像也不是那麼重要……我想，等賺夠了能讓我回家的方斯，大概它就不會那麼重要了吧。不過那是好大好大一筆錢呢，我得在粉爪銀行幹到退休才夠吧。"
+    },
+    {
+     "title": "煩惱",
+     "text": "煩惱啊……我剛到粉爪銀行的時候，什麼都做不好……不是，不是謙虛，是真的。站在那麼漂亮的大廳裡，穿著工整的新衣服，還是不敢和他人說話，總是擔心做不好事情，甚至都想過就這麼辭職好了。是可琳斯娜小姐幫了我，她……超亮眼的，就像是太陽一樣，要是我也能像她一樣耀眼……其實我現在跟可琳小姐之間也沒什麼可比的，但現在的生活已經很好了，我很滿意。"
+    },
+    {
+     "title": "話題·異象",
+     "text": "海特洛市……是個很好的地方，普通人能和異象還有異能者平等地生活在一起，這裡很和平，很安全。我出生的那個地方不是這樣，異象大多數都很危險，要遠遠地避開，不過有的異象也可以作為食物……抱歉，不是什麼有趣的事情，但如、如果你想聽的話……以後慢慢聊吧。"
+    },
+    {
+     "title": "話題·電影",
+     "text": "休假的時候我喜歡在家看電影。大部分電影都很有意思，裡面很多我沒見過的故事和風景，我……我去過的地方很少，每次看電影的時候我就會想，有機會的話我也想去那些地方看看，有一部紀錄片裡甚至還有我家……唔，好像說了太多了，都、都忘掉吧……要一起去看電影嗎？和你一起的話就算恐怖片也……也可以的！"
+    },
+    {
+     "title": "話題·便利店",
+     "text": "晚上去2-Four便利店有時候可以買到打折飯糰，嘗起來味道和早上買的一樣，但是價格會便宜很多呢，很適合當宵夜吃。就是飯糰的賞味期太短了，不能存放太久，只能當天吃掉。我……我也會做飯糰，有機會的話，你想嘗嘗嗎？"
+    },
+    {
+     "title": "關於自己·囤積癖",
+     "text": "遇到喜歡的東西，下意識就、就收集了很多……非常多，我有、有好好地整理收納，不會很亂，就只是一種習慣……好像只有很多很多地堆在一起，才會覺得這樣很安全，很安心。"
+    },
+    {
+     "title": "關於自己·異能",
+     "text": "……異、異能啊……它……它很、很方便，很便捷，很……很……很好用。我、我是異能者，所以、所以都是因為有……異能，才能來海特洛市……找、找工作的時候，也很方便，都是因為我有……我有異能……在這裡有異能真的很好，我喜歡這裡。"
+    },
+    {
+     "title": "關於自己·繃帶",
+     "text": "會……很難看嗎？我以前……什麼都做不好，總是弄傷自己……沒、沒事的，我現在已經不怎麼會受傷了，就是以前留下的疤痕不太好看，所以用繃帶都擋住了。這種繃帶還是同事推薦給我的呢，很柔軟很透氣，不會有什麼異樣感。不用擔心我，傷口都已經癒合了，不會再痛啦。"
+    },
+    {
+     "title": "關於德沃夏克",
+     "text": "德沃夏克家族，是一個有點……有點奇怪？不不不是貶義的意思！我剛剛到海特洛市的時候，就是被他們家的福利院收留了，然後又在德沃夏克基金會的贊助下讀書上學，出來後就選擇了在粉爪銀行工作。不管是海特洛市的市民，還是跟我一樣的外來者都或多或少受到過他們家的恩惠，德沃夏克家好像總是在……在送錢？而且還不收回報，可能這就是好心人吧。"
+    },
+    {
+     "title": "角色突破·Ⅰ",
+     "text": "好、好奇妙的感覺。"
+    },
+    {
+     "title": "角色突破·Ⅱ",
+     "text": "我會……更有用一些嗎？"
+    },
+    {
+     "title": "角色突破·Ⅲ",
+     "text": "我也能做到這一步啊。"
+    },
+    {
+     "title": "收到贈禮·Ⅰ",
+     "text": "我……我……我很喜歡，真的，很喜歡。"
+    },
+    {
+     "title": "收到贈禮·Ⅱ",
+     "text": "謝、謝謝！對、對不起……不是不是，我……我不知道說什麼……我會好好保存的，會喜歡很久很久。"
+    },
+    {
+     "title": "收到贈禮·Ⅲ",
+     "text": "是、是送給我的？！謝謝。"
+    },
+    {
+     "title": "收到贈禮·IV",
+     "text": "我會、會準備回禮的！到時候請……請一定要收下！"
+    }
+   ],
+   "battle": [
+    {
+     "title": "變軌技能·Ⅰ",
+     "text": "成交。"
+    },
+    {
+     "title": "變軌技能·Ⅱ",
+     "text": "加倉。"
+    },
+    {
+     "title": "變軌技能·Ⅲ",
+     "text": "打板。"
+    },
+    {
+     "title": "極軌終結·Ⅰ",
+     "text": "員工編號018888，為您服務！"
+    },
+    {
+     "title": "極軌終結·Ⅱ",
+     "text": "感、感謝選擇粉爪銀行！"
+    },
+    {
+     "title": "極軌終結·Ⅲ",
+     "text": "已為您購買意外傷害保險。"
+    },
+    {
+     "title": "收容異象·Ⅰ",
+     "text": "這樣就可以了嗎？"
+    },
+    {
+     "title": "收容異象·Ⅱ",
+     "text": "我做得……好、好嗎？"
+    },
+    {
+     "title": "泯除異象·Ⅰ",
+     "text": "晚安。"
+    },
+    {
+     "title": "泯除異象·Ⅱ",
+     "text": "……能回家了。"
+    },
+    {
+     "title": "意外收穫·Ⅰ",
+     "text": "真、真的可以直接拿走嗎？"
+    },
+    {
+     "title": "意外收穫·Ⅱ",
+     "text": "我來……幫、幫你拿。"
+    },
+    {
+     "title": "意外收穫·Ⅲ",
+     "text": "錢是很珍貴的東西，要好好保存。"
+    },
+    {
+     "title": "意外收穫·Ⅳ",
+     "text": "如果存進粉爪銀行的話我推薦方案……抱、抱歉！"
+    },
+    {
+     "title": "意外收穫·Ⅴ",
+     "text": "我也可以……有這樣的好運氣嗎？"
+    },
+    {
+     "title": "意外收穫·Ⅵ",
+     "text": "收納要、要交給我嗎？"
+    },
+    {
+     "title": "生命值低·Ⅰ",
+     "text": "沒事的，不用擔心我……"
+    },
+    {
+     "title": "生命值低·Ⅱ",
+     "text": "我習慣啦。"
+    },
+    {
+     "title": "生命值低·Ⅲ",
+     "text": "不痛不痛。"
+    },
+    {
+     "title": "恢復生命·Ⅰ",
+     "text": "好、好多了，謝、謝謝。"
+    },
+    {
+     "title": "恢復生命·Ⅱ",
+     "text": "好溫暖啊……"
+    },
+    {
+     "title": "力竭·Ⅰ",
+     "text": "媽媽，我好想回家……"
+    },
+    {
+     "title": "力竭·Ⅱ",
+     "text": "一個人好冷啊……"
+    },
+    {
+     "title": "力竭·Ⅲ",
+     "text": "我……做得還不夠好……"
+    },
+    {
+     "title": "擊敗怪物·Ⅰ",
+     "text": "抱、抱歉！"
+    },
+    {
+     "title": "擊敗怪物·Ⅱ",
+     "text": "沒有受傷吧？"
+    },
+    {
+     "title": "普通受擊·Ⅰ",
+     "text": "我沒事。"
+    },
+    {
+     "title": "普通受擊·Ⅱ",
+     "text": "只是碰到了一下。"
+    },
+    {
+     "title": "重受擊·Ⅰ",
+     "text": "我不會拖後腿的……"
+    },
+    {
+     "title": "重受擊·Ⅱ",
+     "text": "對不起，我……"
+    },
+    {
+     "title": "上陣·Ⅰ",
+     "text": "真的選擇了我嗎？"
+    },
+    {
+     "title": "上陣·Ⅱ",
+     "text": "我會、會加油的！"
+    },
+    {
+     "title": "協同技·Ⅰ",
+     "text": "來、來了！"
+    },
+    {
+     "title": "協同技·Ⅱ",
+     "text": "小心衝撞！"
+    },
+    {
+     "title": "協同技·Ⅲ",
+     "text": "趕上了！"
+    },
+    {
+     "title": "滑翔·Ⅰ",
+     "text": "腳、碰不到地上……"
+    },
+    {
+     "title": "滑翔·Ⅱ",
+     "text": "嗚……還、還沒到嗎？"
+    },
+    {
+     "title": "切換·Ⅰ",
+     "text": "交、交給我吧！"
+    },
+    {
+     "title": "切換·Ⅱ",
+     "text": "我可以做到！"
+    },
+    {
+     "title": "切換·Ⅲ",
+     "text": "請……相信我！"
+    },
+    {
+     "title": "彈反·Ⅰ",
+     "text": "接到了！"
+    },
+    {
+     "title": "彈反·Ⅱ",
+     "text": "沒有失誤！"
+    },
+    {
+     "title": "連續極限閃避成功·Ⅰ",
+     "text": "躲、躲過了！"
+    },
+    {
+     "title": "連續極限閃避成功·Ⅱ",
+     "text": "裙子，沒有弄髒。"
+    }
+   ]
+  }
+ }
+}

@@ -64,6 +64,7 @@ sources:
 | Role | Member of ETD-6 |
 | Voice actors | Chinese: 淦子齐; English: Rick Kumazawa; Japanese: 小西克幸; Korean: 원종준 |
 | Archive | [Chaos archive](/characters/chaos/archive/) |
+| Voice lines | [Chaos voice lines](/characters/chaos/voice/) |
 
 Chaos is also the name of an attribute.
 

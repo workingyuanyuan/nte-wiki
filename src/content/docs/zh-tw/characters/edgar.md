@@ -46,6 +46,7 @@ sources:
 | 加入版本 | 1.0 版 |
 | 配音員 | 中文：四白；英文：Casey Mongillo；日文：三瓶由布子；韓文：장채연 |
 | 個人檔案 | [埃德嘉個人檔案](/zh-tw/characters/edgar/archive/) |
+| 語音 | [埃德嘉語音](/zh-tw/characters/edgar/voice/) |
 
 ## 取得方式
 

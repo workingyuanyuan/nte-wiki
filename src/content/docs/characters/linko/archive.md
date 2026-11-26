@@ -217,4 +217,4 @@ The young man said nothing more. Not long after, Linko received a document. An E
 
 "It's not a master and not a servant… um… whatever. The point is, you get to stay with me!"
 
-"…Heh heh heh~ Then this evil spirit shall graciously look after you, little frequency imp!"
+"…Heh heh heh\~ Then this evil spirit shall graciously look after you, little frequency imp!"

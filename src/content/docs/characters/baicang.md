@@ -60,6 +60,7 @@ sources:
 | Role | Captain of ETD-4, Bureau of Anomaly Control |
 | Voice actors | Chinese: 桑毓泽; English: Griffin Burns; Japanese: 中村悠一; Korean: 심규혁 |
 | Archive | [Baicang archive](/characters/baicang/archive/) |
+| Voice lines | [Baicang voice lines](/characters/baicang/voice/) |
 
 ## How to obtain
 

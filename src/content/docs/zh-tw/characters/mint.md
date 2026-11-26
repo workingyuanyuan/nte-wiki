@@ -72,6 +72,7 @@ sources:
 | 身分 | 異象管理局收容二組 |
 | 配音員 | 中文：陳雨；英文：Brianna Knickerbocker；日文：鬼頭明里；韓文：성예원 |
 | 個人檔案 | [薄荷個人檔案](/zh-tw/characters/mint/archive/) |
+| 語音 | [薄荷語音](/zh-tw/characters/mint/voice/) |
 
 ## 取得方式
 

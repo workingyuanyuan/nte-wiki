@@ -54,6 +54,7 @@ sources:
 | Role | Inanna's adopted daughter and bodyguard, an assassin of The Scarlet Letter; Esper Ability: Eye of Delusion |
 | Voice actors | Chinese: 陈婷婷; English: Stephanie Wong; Japanese: 井上喜久子; Korean: 허예은 |
 | Archive | [Zankou archive](/characters/zankou/archive/) |
+| Voice lines | [Zankou voice lines](/characters/zankou/voice/) |
 
 ## How to obtain
 

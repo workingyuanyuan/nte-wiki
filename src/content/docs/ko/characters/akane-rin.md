@@ -62,6 +62,7 @@ sources:
 | 참전 | 1.4 버전 후반, 2026-10-21 |
 | 성우 | 중국어: 陈怡萱; 영어: Cristina Vee; 일본어: 長谷川育美; 한국어: 김하루 |
 | 아카이브 | [아카네 린 아카이브](/ko/characters/akane-rin/archive/) |
+| 보이스 | [아카네 린 보이스](/ko/characters/akane-rin/voice/) |
 
 ## 획득 방법
 

@@ -60,6 +60,7 @@ sources:
 | 肩書き | 骨董品屋エイボン。異象の戦鎚「鬼郎丸」を振るう |
 | 声優 | 中国語：蔡书瑾、英語：Brianna Knickerbocker、日本語：伊藤美来、韓国語：김나율 |
 | アーカイブ | [早霧のアーカイブ](/ja/characters/sakiri/archive/) |
+| ボイス | [早霧のボイス](/ja/characters/sakiri/voice/) |
 
 ## 入手方法
 

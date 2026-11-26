@@ -61,6 +61,7 @@ sources:
 | Joined | Version 1.0 |
 | Voice actors | Chinese: 苏子芜; English: Alexis Tipton; Japanese: 石見舞菜香; Korean: 김가령 |
 | Archive | [Haniel archive](/characters/haniel/archive/) |
+| Voice lines | [Haniel voice lines](/characters/haniel/voice/) |
 
 Game8 names her Basic Attack "Genesse Technique"; Prydwen names it "Paranormal Entrance".
 

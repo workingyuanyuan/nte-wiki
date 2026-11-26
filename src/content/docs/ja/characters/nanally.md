@@ -60,6 +60,7 @@ sources:
 | 肩書き | 骨董品屋エイボン。コリンスファミリーの「一代目」を自称する |
 | 声優 | 中国語：宋媛媛、英語：Brittany Lauda、日本語：竹達彩奈、韓国語：강새봄 |
 | アーカイブ | [ナナリのアーカイブ](/ja/characters/nanally/archive/) |
+| ボイス | [ナナリのボイス](/ja/characters/nanally/voice/) |
 
 ## 入手方法
 

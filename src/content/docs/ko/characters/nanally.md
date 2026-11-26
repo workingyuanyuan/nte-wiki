@@ -60,6 +60,7 @@ sources:
 | 신분 | 에이본 골동품 가게. 「콜린스 가문」의 「초대 가주」를 자칭한다 |
 | 성우 | 중국어: 宋媛媛; 영어: Brittany Lauda; 일본어: 竹達彩奈; 한국어: 강새봄 |
 | 아카이브 | [나나리 아카이브](/ko/characters/nanally/archive/) |
+| 보이스 | [나나리 보이스](/ko/characters/nanally/voice/) |
 
 ## 획득 방법
 

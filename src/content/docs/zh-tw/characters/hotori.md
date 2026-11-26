@@ -60,6 +60,7 @@ sources:
 | 身分 | 伊波恩古董店店主 |
 | 配音員 | 中文：杜晴晴；英文：Lindsay Sheppard；日文：伊藤静；韓文：이지현 |
 | 個人檔案 | [潯個人檔案](/zh-tw/characters/hotori/archive/) |
+| 語音 | [潯語音](/zh-tw/characters/hotori/voice/) |
 
 ## 取得方式
 

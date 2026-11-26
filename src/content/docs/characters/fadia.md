@@ -59,6 +59,7 @@ sources:
 | Role | ETD, Bureau of Anomaly Control |
 | Voice actors | Chinese: 裴致莹; English: Amber Lee Connors; Japanese: 真堂圭; Korean: 조현정 |
 | Archive | [Fadia archive](/characters/fadia/archive/) |
+| Voice lines | [Fadia voice lines](/characters/fadia/voice/) |
 
 ## How to obtain
 
