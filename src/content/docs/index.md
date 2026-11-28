@@ -95,3 +95,9 @@ Version 1.5 has [25 playable characters](/characters/).
 [Elyms](/characters/elyms/), [Akane Rin](/characters/akane-rin/), [Blackbird](/characters/blackbird/), [Linko](/characters/linko/), [Zankou](/characters/zankou/), [Iroi](/characters/iroi/), [Shinku](/characters/shinku/), [Chaos](/characters/chaos/), [Lacrimosa](/characters/lacrimosa/), [Hotori](/characters/hotori/), [Nanally](/characters/nanally/), [Skia](/characters/skia/), [Aurelia](/characters/aurelia/), [Haniel](/characters/haniel/), [Adler](/characters/adler/), [Edgar](/characters/edgar/), [Mint](/characters/mint/), [Jiuyuan](/characters/jiuyuan/), [Daffodill](/characters/daffodill/), [Fadia](/characters/fadia/), [Hathor](/characters/hathor/), [Baicang](/characters/baicang/), [Sakiri](/characters/sakiri/), [Chiz](/characters/chiz/), [Esper Zero](/characters/zero/).
 
 24 of them have an [archive](/characters/archives/), and all 25 have [voice lines](/characters/voices/).
+
+## Community guides
+
+- [Community guides](/community/)
+- [Teams](/community/teams/)
+- [Character builds](/community/builds/)

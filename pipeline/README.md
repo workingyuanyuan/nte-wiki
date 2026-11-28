@@ -14,6 +14,7 @@ uv run --with opencc-python-reimplemented pipeline/build_records.py --monsters  
 uv run --with opencc-python-reimplemented pipeline/build_records.py --lists      # records/lists.json (after fetch_nanoka.py --lists and fetch_everness.mjs)
 uv run --with opencc-python-reimplemented scripts/to-zh-cn.py
 python3 pipeline/build_pages.py [slug ...]
+python3 pipeline/build_community.py                                           # records/community/ -> community/ in every language (after to-zh-cn.py)
 ```
 
 ## Fixed renderings

@@ -186,7 +186,12 @@ async function main() {
 		for (const item of seen) {
 			const id = item.url.match(/(\d+)\.html$/)?.[1] ?? item.url;
 			const line = `${id}: ${item.title} (${item.date}, ${item.type}) ${item.url}`;
-			if (VERSION_TITLE.test(item.title)) differences.push(`new version notice: ${line}`);
+			if (VERSION_TITLE.test(item.title)) {
+				differences.push(`new version notice: ${line}`);
+				// The community section holds the newest version's guides (../COMMUNITY.md): look for new ones.
+				const versions = [...new Set(JSON.parse(readFileSync(join(ROOT, 'records/community/sources.json'), 'utf8')).sources.map((s) => s.version))].sort();
+				differences.push(`community section may be old: ${id}: its guides are for ${versions.join(', ')}; look for guides of the new version (community/, community/teams, community/builds)`);
+			}
 			else if (MAINTENANCE_TITLE.test(item.title)) differences.push(`new maintenance notice: ${line}`);
 			else notes.push(`note: new notice: ${line}`);
 		}

@@ -1,0 +1,186 @@
+{
+ "_about": "One record per guide video of the community section (社群攻略): creator, the co-authors (`with`: those the video description names, and the account that posted the summary picture), title, address, publication and reading dates, the game version its tags name, the server the creator played, the character it is about, and the id of the comment under the video that carries the creator's one-image summary (一图流), with that comment's author. No transcript, frame or copy of the picture is kept.",
+ "sources": [
+  {
+   "id": "mianbei-exe",
+   "creator": "叫我棉被",
+   "with": [
+    "零号攻略组"
+   ],
+   "platform": "Bilibili",
+   "title": "【异环】Exe全攻略！分身攻击+残血处决！黯星双C配队养成＋实战流程与进阶合轴教学",
+   "url": "https://www.bilibili.com/video/BV1zMyyzDEyG/",
+   "published": "2026-11-26",
+   "read": "2026-11-28",
+   "version": "1.5",
+   "server": "cn",
+   "subject": "exe",
+   "picture_comment": 321328711745,
+   "picture_by": "零号攻略组"
+  },
+  {
+   "id": "mianbei-elyms",
+   "creator": "叫我棉被",
+   "with": [
+    "零号攻略组"
+   ],
+   "platform": "Bilibili",
+   "title": "【异环】曳尔沐全攻略！盈蓄&延滞双体系辅助 配队养成＋保姆级操作讲解",
+   "url": "https://www.bilibili.com/video/BV1Czxo6AEBF/",
+   "published": "2026-11-05",
+   "read": "2026-11-28",
+   "version": "1.5",
+   "server": "cn",
+   "subject": "elyms",
+   "picture_comment": 319231791153,
+   "picture_by": "零号攻略组"
+  },
+  {
+   "id": "mianbei-akane-rin",
+   "creator": "叫我棉被",
+   "with": [
+    "零号攻略组"
+   ],
+   "platform": "Bilibili",
+   "title": "【异环】明音凛全攻略！ 搞乐队的数值都这么高？我要弹春日影！ 配队养成＋保姆级操作讲解+进阶合轴教学",
+   "url": "https://www.bilibili.com/video/BV1BeJC6qEAr/",
+   "published": "2026-10-15",
+   "read": "2026-11-28",
+   "version": "1.4",
+   "server": "cn",
+   "subject": "akane-rin",
+   "picture_comment": 317100591473,
+   "picture_by": "零号攻略组"
+  },
+  {
+   "id": "mianbei-blackbird",
+   "creator": "叫我棉被",
+   "with": [
+    "零号攻略组"
+   ],
+   "platform": "Bilibili",
+   "title": "【异环】黑羽全攻略！慷慨数值 双形态魂系大C  一轮双环合？！配队养成＋实战流程与进阶合轴教学",
+   "url": "https://www.bilibili.com/video/BV1DaaF6AEay/",
+   "published": "2026-09-24",
+   "read": "2026-11-28",
+   "version": "1.4",
+   "server": "cn",
+   "subject": "blackbird",
+   "picture_comment": 314872543937,
+   "picture_by": "叫我棉被"
+  },
+  {
+   "id": "mianbei-linko",
+   "creator": "叫我棉被",
+   "with": [
+    "零号攻略组"
+   ],
+   "platform": "Bilibili",
+   "title": "【异环】灵可全面攻略 轮椅覆纹队怎么玩？大世界原地起飞！覆纹队/插件玩法详解",
+   "url": "https://www.bilibili.com/video/BV19rtS6vEg7/",
+   "published": "2026-09-03",
+   "read": "2026-11-28",
+   "version": "1.3",
+   "server": "cn",
+   "subject": "linko",
+   "picture_comment": 312765530609,
+   "picture_by": "零号攻略组"
+  },
+  {
+   "id": "mianbei-zankou",
+   "creator": "叫我棉被",
+   "with": [
+    "零号攻略组"
+   ],
+   "platform": "Bilibili",
+   "title": "【异环】残虹全面测评！T0级DOT队核心  主C副C双手法法+配队弧盘空幕养成教学",
+   "url": "https://www.bilibili.com/video/BV1ksg76LETE/",
+   "published": "2026-08-13",
+   "read": "2026-11-28",
+   "version": "1.3",
+   "server": "cn",
+   "subject": "zankou",
+   "picture_comment": 310045143601,
+   "picture_by": "零号攻略组"
+  },
+  {
+   "id": "mianbei-iroi",
+   "creator": "叫我棉被",
+   "with": [
+    "零号攻略组"
+   ],
+   "platform": "Bilibili",
+   "title": "【异环】伊洛伊攻略！首位奶辅 聚怪加攻穿防回血！ 创生/盈蓄/直伤队配队轮切手法 进阶合轴副C教学",
+   "url": "https://www.bilibili.com/video/BV1Hfgm6eE2A/",
+   "published": "2026-07-23",
+   "read": "2026-11-28",
+   "version": "1.2",
+   "server": "cn",
+   "subject": "iroi",
+   "picture_comment": 307226203249,
+   "picture_by": "零号攻略组"
+  },
+  {
+   "id": "mianbei-chaos",
+   "creator": "叫我棉被",
+   "with": [
+    "零号攻略组"
+   ],
+   "platform": "Bilibili",
+   "title": "【异环】卡厄斯攻略！相属性主C养成推荐+实战配队手法详解",
+   "url": "https://www.bilibili.com/video/BV1bFLd6yEmD/",
+   "published": "2026-06-18",
+   "read": "2026-11-28",
+   "version": "1.1",
+   "server": "cn",
+   "subject": "chaos",
+   "picture_comment": 303030813841,
+   "picture_by": "零号攻略组"
+  },
+  {
+   "id": "mianbei-lacrimosa",
+   "creator": "叫我棉被",
+   "with": [
+    "零号攻略组"
+   ],
+   "platform": "Bilibili",
+   "title": "【异环】安魂曲攻略！最强复制技能怎么选  细节养成作业+进阶技巧",
+   "url": "https://www.bilibili.com/video/BV1BNGS6KEXm/",
+   "published": "2026-05-28",
+   "read": "2026-11-28",
+   "version": "1.0",
+   "server": "cn",
+   "subject": "lacrimosa",
+   "picture_comment": 300852726209,
+   "picture_by": "零号攻略组"
+  },
+  {
+   "id": "mianbei-chiz",
+   "creator": "叫我棉被",
+   "with": [],
+   "platform": "Bilibili",
+   "title": "【异环】小吱攻略！免费送的T0角色 后面还能拿6+5？养成配队作业+进阶技巧",
+   "url": "https://www.bilibili.com/video/BV1yXokBKEj4/",
+   "published": "2026-04-28",
+   "read": "2026-11-28",
+   "version": "1.0",
+   "server": "cn",
+   "subject": "chiz"
+  },
+  {
+   "id": "mianbei-nanally",
+   "creator": "叫我棉被",
+   "with": [],
+   "platform": "Bilibili",
+   "title": "【异环】娜娜莉攻略 开服T0级大C！细节养成作业+进阶技巧",
+   "url": "https://www.bilibili.com/video/BV1ybo8BPEpx/",
+   "published": "2026-04-23",
+   "read": "2026-11-28",
+   "version": "1.0",
+   "server": "cn",
+   "subject": "nanally",
+   "picture_comment": 297114644609,
+   "picture_by": "叫我棉被"
+  }
+ ]
+}

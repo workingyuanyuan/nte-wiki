@@ -95,3 +95,9 @@ sources:
 [엘림](/ko/characters/elyms/), [아카네 린](/ko/characters/akane-rin/), [레이븐](/ko/characters/blackbird/), [링코](/ko/characters/linko/), [잔홍](/ko/characters/zankou/), [일로이](/ko/characters/iroi/), [신쿠](/ko/characters/shinku/), [카오스](/ko/characters/chaos/), [라크리모사](/ko/characters/lacrimosa/), [호토리](/ko/characters/hotori/), [나나리](/ko/characters/nanally/), [스키아](/ko/characters/skia/), [우미츠키](/ko/characters/aurelia/), [하니엘](/ko/characters/haniel/), [아들러](/ko/characters/adler/), [에드가](/ko/characters/edgar/), [민트](/ko/characters/mint/), [구원](/ko/characters/jiuyuan/), [다포딜](/ko/characters/daffodill/), [파디아](/ko/characters/fadia/), [하토르](/ko/characters/hathor/), [백장](/ko/characters/baicang/), [사키리](/ko/characters/sakiri/), [치즈](/ko/characters/chiz/), [이능력자·제로](/ko/characters/zero/).
 
 그중 24명에게 [아카이브](/ko/characters/archives/)가 있고, 25명 모두에게 [보이스](/ko/characters/voices/)가 있다.
+
+## 커뮤니티 공략
+
+- [커뮤니티 공략](/ko/community/)
+- [파티 구성](/ko/community/teams/)
+- [캐릭터 육성](/ko/community/builds/)

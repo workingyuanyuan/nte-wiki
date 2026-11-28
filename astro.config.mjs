@@ -64,6 +64,11 @@ export default defineConfig({
 						{ slug: 'names' },
 					],
 				},
+				{
+					label: 'Community guides',
+					translations: { 'zh-TW': '社群攻略', 'zh-CN': '社群攻略', ja: 'コミュニティ攻略', ko: '커뮤니티 공략' },
+					items: [{ slug: 'community' }, { slug: 'community/teams' }, { slug: 'community/builds' }],
+				},
 			],
 			customCss: ['./src/styles/nte.css'],
 			components: {

@@ -727,3 +727,10 @@ starlight-toc a[aria-current='true'] {
 		animation: nte-blink 1s steps(1) infinite;
 	}
 }
+
+/* Tables whose corner cell is empty (the community build tables) label their rows in the first
+   column: keep those labels on one line, so a narrow window scrolls the table instead of
+   stacking a label one character per line. */
+.sl-markdown-content table:has(thead th:first-child:empty) tbody td:first-child {
+	white-space: nowrap;
+}

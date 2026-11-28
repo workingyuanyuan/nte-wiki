@@ -91,3 +91,35 @@ export function checkOpening(doc, id, fail) {
 		break;
 	}
 }
+
+/**
+ * A game wiki's community section (`community/`, root AGENTS.md "Community section"): every
+ * judgment names its source. In the body (page notes aside), each table either links a source in
+ * its header row or links one in every row, and each list item and paragraph links one. A source
+ * is any link that leaves the site (`sources`: the page's source URLs; a link counts when it
+ * starts with one of them, so a timestamp may follow). A table row that links another page of the
+ * section (the index's list of topics) passes, and so does a list item that is nothing but such a
+ * link: the judgments are on that page.
+ */
+export function checkCommunity(doc, id, fail, sources) {
+	const content = doc.querySelector('main .sl-markdown-content');
+	if (!content) return;
+	const cites = (el) => [...el.querySelectorAll('a[href]')].some((a) => sources.some((s) => a.getAttribute('href').startsWith(s)));
+	for (const el of content.querySelectorAll('table')) {
+		if (el.closest('.facts')) continue;
+		const head = el.querySelector('thead tr');
+		if (head && cites(head)) continue;
+		for (const row of el.querySelectorAll('tbody tr')) {
+			// A row that leads to another page of the section is a link, not a judgment.
+			const leads = [...row.querySelectorAll('a[href]')].some((a) => /^\/(?:[^/]+\/)*community\/[^/]+\/$/.test(a.getAttribute('href')));
+			if (!leads && !cites(row)) fail(id, `community page: a table row names no source: ${row.textContent.replace(/\s+/g, ' ').trim().slice(0, 60)}`);
+		}
+	}
+	for (const el of content.querySelectorAll('li, p')) {
+		if (el.closest('.facts, table, .answer, .agent-note') || el.matches('.answer, .agent-note') || !el.textContent.trim() || el.querySelector('img')) continue;
+		// A list item that only links other pages of the section (the index's topics) holds no judgment.
+		const links = [...el.querySelectorAll('a[href]')];
+		if (el.matches('li') && links.length && links.every((a) => /^\/(?:[^/]+\/)*community\/[^/]+\/$/.test(a.getAttribute('href'))) && el.textContent.trim() === links.map((a) => a.textContent.trim()).join('')) continue;
+		if (!cites(el)) fail(id, `community page: text names no source: ${el.textContent.replace(/\s+/g, ' ').trim().slice(0, 60)}`);
+	}
+}

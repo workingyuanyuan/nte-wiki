@@ -114,7 +114,7 @@ base = os.path.join(root, 'zh-tw')
 files = sorted(glob.glob(base + '/**/*.md', recursive=True))
 # Archive pages carry each language's own game text; pipeline/build_pages.py writes the
 # Simplified Chinese ones from the Simplified game data, so they are not converted here.
-files = [f for f in files if not re.search(r'/characters/[^/]+/(archive|voice)\.md$|/characters/(archives|voices)\.md$|/anomalies/|/items/', f)]
+files = [f for f in files if not re.search(r'/characters/[^/]+/(archive|voice)\.md$|/characters/(archives|voices)\.md$|/anomalies/|/items/|/community/', f)]
 for f in files:
     page(f, os.path.relpath(f, base))
 print(len(files), 'pages written to', os.path.join(root, 'zh-cn'))

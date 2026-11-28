@@ -1,0 +1,137 @@
+{
+ "_about": "Names the community section needs beyond the site's pages and records/arcs.json. `characters`: a character with no page yet, with its two passives (Passive 1 and 2, in the order of the game data), from nanoka.cc game data 1.5.4 (character 1074, read 2026-11-28); the English, Japanese and Korean files of 1.5.4 carry the Simplified names of Exe's passives, shown as given; Traditional Chinese is the Simplified text converted, until the Traditional edition has the character. `arcs`: Arcs missing from records/arcs.json, from nanoka.cc weapon.json 1.5.4. `cartridges`: cartridge sets, from nanoka.cc console.json 1.5.4 in each language, Traditional Chinese from the site's consoles page. `aliases`: other spellings the guides use for a character -> slug.",
+ "characters": {
+  "exe": {
+   "name": {
+    "en": "Exe",
+    "zh-tw": "Exe",
+    "zh-cn": "Exe",
+    "ja": "Exe",
+    "ko": "Exe"
+   },
+   "passives": {
+    "1": {
+     "en": "额外得分",
+     "zh-tw": "額外得分",
+     "zh-cn": "额外得分",
+     "ja": "额外得分",
+     "ko": "额外得分"
+    },
+    "2": {
+     "en": "临时超频",
+     "zh-tw": "臨時超頻",
+     "zh-cn": "临时超频",
+     "ja": "临时超频",
+     "ko": "临时超频"
+    }
+   }
+  }
+ },
+ "arcs": {
+  "fork_exe": {
+   "en": "Dotted Horizon",
+   "zh-tw": "虛線彼方",
+   "zh-cn": "虚线彼方",
+   "ja": "虚線の彼方",
+   "ko": "점선 너머"
+  }
+ },
+ "cartridges": {
+  "cosmos": {
+   "en": "Lost Radiance",
+   "zh-cn": "「失落光芒」",
+   "zh-tw": "「失落光芒」",
+   "ja": "「失われた光」",
+   "ko": "「잃어버린 빛」"
+  },
+  "chaos": {
+   "en": "Diabolos",
+   "zh-cn": "「迪亚波罗斯」",
+   "zh-tw": "「迪亞波羅斯」",
+   "ja": "「ディアボロス」",
+   "ko": "「디아볼로스」"
+  },
+  "nature": {
+   "en": "Fireflies and the Forest",
+   "zh-cn": "「森林萤火之心」",
+   "zh-tw": "「森林螢火之心」",
+   "ja": "「森に棲む蛍の心」",
+   "ko": "「숲속 반딧불의 마음」"
+  },
+  "incantation": {
+   "en": "Crimson: Twin Butterflies",
+   "zh-cn": "「真红：双生蝶」",
+   "zh-tw": "「真紅：雙生蝶」",
+   "ja": "「深紅の双生蝶」",
+   "ko": "「진홍: 쌍둥이 나비」"
+  },
+  "psyche": {
+   "en": "Devil's Blood: Curse",
+   "zh-cn": "「恶魔之血：诅咒」",
+   "zh-tw": "「惡魔之血：詛咒」",
+   "ja": "「悪魔の血：呪い」",
+   "ko": "「악마의 피: 저주」"
+  },
+  "lakshana": {
+   "en": "Street Boxer",
+   "zh-cn": "「街头拳王」",
+   "zh-tw": "「街頭拳王」",
+   "ja": "「ストリート拳王」",
+   "ko": "「스트리트 복서」"
+  },
+  "shield": {
+   "en": "Kingdom's Guard",
+   "zh-cn": "「守卫王国」",
+   "zh-tw": "「守衛王國」",
+   "ja": "「王国の守り」",
+   "ko": "「왕국 수호자」"
+  },
+  "attack": {
+   "en": "Shadow Creed",
+   "zh-cn": "「影之信条」",
+   "zh-tw": "「影之信條」",
+   "ja": "「影の信条」",
+   "ko": "「그림자 신조」"
+  },
+  "heal": {
+   "en": "Thea's Night Tavern",
+   "zh-cn": "「缇娅的夜间酒馆」",
+   "zh-tw": "「緹婭的夜間酒館」",
+   "ja": "「ティアの夜間酒場」",
+   "ko": "「티아의 심야 선술집」"
+  },
+  "mag": {
+   "en": "Tiny Big Adventure",
+   "zh-cn": "「小小大冒险」",
+   "zh-tw": "「小小大冒險」",
+   "ja": "「小さな大冒険」",
+   "ko": "「작은 대모험」"
+  },
+  "get_efficiency": {
+   "en": "Speedy Hedgehog",
+   "zh-cn": "「音速蓝刺猬」",
+   "zh-tw": "「音速藍刺蝟」",
+   "ja": "「音速ヘッジホッグ」",
+   "ko": "「음속 블루 고슴도치」"
+  },
+  "psychically": {
+   "en": "Quiet Manor",
+   "zh-cn": "「静谧山庄」",
+   "zh-tw": "「靜謐山莊」",
+   "ja": "「静寂な山荘」",
+   "ko": "「고요한 산장」"
+  }
+ },
+ "aliases": {
+  "EXE": "exe",
+  "卡厄思": "chaos",
+  "鉴定师·零": "zero",
+  "光主": "zero",
+  "鉴定师(主角)": "zero",
+  "哈尼亚": "haniel",
+  "主角": "zero",
+  "零(男主)": "zero",
+  "零（男主）": "zero",
+  "埃德加": "edgar"
+ }
+}

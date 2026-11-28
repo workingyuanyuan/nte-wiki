@@ -95,3 +95,9 @@ sources:
 [曳尔沐](/zh-cn/characters/elyms/)、[明音凛](/zh-cn/characters/akane-rin/)、[黑羽](/zh-cn/characters/blackbird/)、[灵可](/zh-cn/characters/linko/)、[残虹](/zh-cn/characters/zankou/)、[伊洛伊](/zh-cn/characters/iroi/)、[真红](/zh-cn/characters/shinku/)、[卡厄斯](/zh-cn/characters/chaos/)、[安魂曲](/zh-cn/characters/lacrimosa/)、[浔](/zh-cn/characters/hotori/)、[娜娜莉](/zh-cn/characters/nanally/)、[翳](/zh-cn/characters/skia/)、[海月](/zh-cn/characters/aurelia/)、[哈尼娅](/zh-cn/characters/haniel/)、[阿德勒](/zh-cn/characters/adler/)、[埃德嘉](/zh-cn/characters/edgar/)、[薄荷](/zh-cn/characters/mint/)、[九原](/zh-cn/characters/jiuyuan/)、[达芙蒂尔](/zh-cn/characters/daffodill/)、[法帝娅](/zh-cn/characters/fadia/)、[哈索尔](/zh-cn/characters/hathor/)、[白藏](/zh-cn/characters/baicang/)、[早雾](/zh-cn/characters/sakiri/)、[小吱](/zh-cn/characters/chiz/)、[异能者·零](/zh-cn/characters/zero/)。
 
 其中 24 位有[个人档案](/zh-cn/characters/archives/)，25 位都有[语音](/zh-cn/characters/voices/)。
+
+## 社群攻略
+
+- [社群攻略](/zh-cn/community/)
+- [配队](/zh-cn/community/teams/)
+- [角色养成](/zh-cn/community/builds/)

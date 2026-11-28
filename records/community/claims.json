@@ -1,0 +1,1968 @@
+{
+ "_about": "One record per team and per character card of a guide's one-image summary, read from the picture of the creator's pinned comment (`reply`, the comment id) or from the video (`at`, the second). `team`: `label` is the creator's name for the team, `members` one list per slot (any one of those listed), `note` the creator's condition, in each language. `build`: one card as printed, in the creator's Simplified Chinese with the creator's operators (> ≈ = ≥ /; names separated by spaces only are not ranked): `team` the team the card stands under (none where the picture lists cards apart from the teams), `role`, `arcs`, `cartridge` (the cartridge set), `main` (the cartridge main stat), `sub` (sub-stats), `talents` (天赋1 and 天赋2 are the character's Passive 1 and 2), `skills` (skill level order), `note` the creator's condition beside the card, in each language. Two independent readers transcribed each picture; every difference was settled against the picture at full resolution.",
+ "claims": [
+  {
+   "source": "mianbei-exe",
+   "reply": 321328711745,
+   "kind": "team",
+   "label": "黯星队",
+   "members": [
+    [
+     "EXE"
+    ],
+    [
+     "黑羽"
+    ],
+    [
+     "伊洛伊",
+     "灵可"
+    ],
+    [
+     "早雾"
+    ]
+   ],
+   "note": {
+    "en": "Iroi is the simpler pick; Linko has the higher ceiling (pinned comment)",
+    "zh-tw": "伊洛伊操作簡單，靈可上限更高（置頂留言）",
+    "zh-cn": "伊洛伊操作简单，灵可上限更高（置顶评论）",
+    "ja": "イロヒは操作が簡単、リンコは上限が高い（固定コメント）",
+    "ko": "일로이는 조작이 쉽고 링코는 상한이 더 높다(고정 댓글)"
+   }
+  },
+  {
+   "source": "mianbei-exe",
+   "reply": 321328711745,
+   "kind": "build",
+   "team": "黯星队",
+   "character": "EXE",
+   "role": "主力输出",
+   "arcs": "虚线彼方 > 预备备 > 不屈之绵 > 焰魂狂飙",
+   "cartridge": "迪亚波罗斯",
+   "main": "暴击 > 暗属性增伤 > 暴伤",
+   "sub": "暴击 > 暴伤 > 通用增伤 > 攻击力%",
+   "talents": "天赋2 > 天赋1",
+   "skills": "普攻 > 技能 > 大招 > 援护技"
+  },
+  {
+   "source": "mianbei-exe",
+   "reply": 321328711745,
+   "kind": "build",
+   "team": "黯星队",
+   "character": "黑羽",
+   "role": "主力输出",
+   "arcs": "罪与罚 > 噬心诡刃 > 好狗狗走四方",
+   "cartridge": "恶魔之血：诅咒",
+   "main": "暴伤>魂属性增伤",
+   "sub": "暴击≈暴伤 > 通用增伤 > 攻击力%",
+   "talents": "天赋1 > 天赋2",
+   "skills": "普攻 > 技能 > 大招 > 援护技"
+  },
+  {
+   "source": "mianbei-exe",
+   "reply": 321328711745,
+   "kind": "build",
+   "team": "黯星队",
+   "character": "伊洛伊",
+   "role": "辅助",
+   "arcs": "错误的门 > 月的对跖点 > 最后一朵玫瑰 > 漆黑青春妄想",
+   "cartridge": "森林萤火之心",
+   "main": "暴击 > 暴伤",
+   "sub": "暴击 > 暴伤 > 通用增伤 > 攻击力%",
+   "talents": "天赋2 > 天赋1",
+   "skills": "普攻 > 技能 > 大招 > 援护技"
+  },
+  {
+   "source": "mianbei-exe",
+   "reply": 321328711745,
+   "kind": "build",
+   "team": "黯星队",
+   "character": "早雾",
+   "role": "辅助",
+   "arcs": "好狗狗走四方 > 挂你在心口难开",
+   "cartridge": "音速蓝刺猬",
+   "main": "暴击 > 暴伤",
+   "sub": "暴击 > 暴伤 > 通用增伤 > 攻击力%",
+   "talents": "天赋2 > 天赋1",
+   "skills": "大招 > 技能 > 普攻 > 援护技"
+  },
+  {
+   "source": "mianbei-exe",
+   "reply": 321328711745,
+   "kind": "build",
+   "team": "黯星队",
+   "character": "灵可",
+   "role": "爆发输出",
+   "arcs": "远行者之声 > 不屈之绵 > 预备备",
+   "cartridge": "森林萤火之心",
+   "main": "灵属性增伤 > 暴伤",
+   "sub": "暴击率 > 通用增伤≈暴伤 > 攻击力%",
+   "talents": "天赋2 > 天赋1",
+   "skills": "援护技 > 大招 > 技能 > 普攻"
+  },
+  {
+   "source": "mianbei-elyms",
+   "reply": 319231791153,
+   "kind": "team",
+   "label": "盈蓄队",
+   "members": [
+    [
+     "真红"
+    ],
+    [
+     "明音凛"
+    ],
+    [
+     "曳尔沐"
+    ],
+    [
+     "伊洛伊"
+    ]
+   ]
+  },
+  {
+   "source": "mianbei-elyms",
+   "reply": 319231791153,
+   "kind": "team",
+   "label": "创生队",
+   "members": [
+    [
+     "娜娜莉"
+    ],
+    [
+     "九原"
+    ],
+    [
+     "曳尔沐"
+    ],
+    [
+     "伊洛伊"
+    ]
+   ]
+  },
+  {
+   "source": "mianbei-elyms",
+   "reply": 319231791153,
+   "kind": "build",
+   "team": "盈蓄队",
+   "character": "真红",
+   "role": "主力输出",
+   "arcs": "穿过胭红蜃景 > 众人追寻之物 > 凶猛之绵",
+   "cartridge": "失落光芒",
+   "main": "暴击 > 光属性增伤",
+   "sub": "暴击≈暴伤 > 通用增伤 > 攻击力%",
+   "talents": "天赋1 > 天赋2",
+   "skills": "普攻 > 大招 > 技能 > 援护技"
+  },
+  {
+   "source": "mianbei-elyms",
+   "reply": 319231791153,
+   "kind": "build",
+   "team": "盈蓄队",
+   "character": "明音凛",
+   "role": "主力输出",
+   "arcs": "月的对跖点 > 最后一朵玫瑰 > 极速之绵 > 错误的门",
+   "cartridge": "街头拳王",
+   "main": "相属性增伤≈暴伤",
+   "sub": "暴击≈暴伤 > 通用增伤 > 攻击力% > 环合强度",
+   "talents": "天赋1 > 天赋2",
+   "skills": "大招 > 技能 > 普攻 > 援护技"
+  },
+  {
+   "source": "mianbei-elyms",
+   "reply": 319231791153,
+   "kind": "build",
+   "team": "盈蓄队",
+   "character": "曳尔沐",
+   "role": "爆发输出",
+   "arcs": "静候彩铃 > 引爆全场 ≈ 行进于时间之外",
+   "cartridge": "失落光芒",
+   "main": "暴伤 > 光属性增伤",
+   "sub": "暴击≈暴伤≈增伤 > 攻击力%",
+   "talents": "天赋1 > 天赋2",
+   "skills": "大招 > 技能 > 普攻 > 援护技"
+  },
+  {
+   "source": "mianbei-elyms",
+   "reply": 319231791153,
+   "kind": "build",
+   "team": "盈蓄队",
+   "character": "伊洛伊",
+   "role": "辅助",
+   "arcs": "错误的门 漆黑青春妄想 灵感大逃杀",
+   "cartridge": "音速蓝刺猬",
+   "main": "暴击 > 暴伤",
+   "sub": "暴击 > 暴伤 > 通用增伤 > 攻击力%",
+   "talents": "天赋1 > 天赋2",
+   "skills": "普攻 > 技能 > 大招 > 援护技"
+  },
+  {
+   "source": "mianbei-elyms",
+   "reply": 319231791153,
+   "kind": "build",
+   "team": "创生队",
+   "character": "娜娜莉",
+   "role": "主力输出",
+   "arcs": "预备备 > 不屈之绵 > 「银河暂留」 > 欧拉欧拉!",
+   "cartridge": "森林萤火之心",
+   "main": "灵属性增伤 > 暴伤",
+   "sub": "暴击 > 通用增伤≈暴击伤害 > 攻击力%",
+   "talents": "天赋1 > 天赋2",
+   "skills": "普攻 > 大招 > 技能 > 援护技"
+  },
+  {
+   "source": "mianbei-elyms",
+   "reply": 319231791153,
+   "kind": "build",
+   "team": "创生队",
+   "character": "九原",
+   "role": "爆发输出",
+   "arcs": "现实避难所 > 引爆全场",
+   "cartridge": "森林萤火之心",
+   "main": "暴击 > 暴伤≈灵属性增伤",
+   "sub": "暴击 > 暴伤≈灵属性增伤 > 攻击力%",
+   "talents": "天赋1 > 天赋2",
+   "skills": "普攻 > 大招 > 技能 > 援护技"
+  },
+  {
+   "source": "mianbei-elyms",
+   "reply": 319231791153,
+   "kind": "build",
+   "team": "创生队",
+   "character": "曳尔沐",
+   "role": "爆发输出",
+   "arcs": "静候彩铃 > 行进于时间之外 > 「倾世之雨」",
+   "cartridge": "失落光芒",
+   "main": "环合强度",
+   "sub": "环合强度 > 暴击≈暴伤 > 增伤 > 攻击力%",
+   "talents": "天赋1 > 天赋2",
+   "skills": "大招 > 技能 > 普攻 > 援护技"
+  },
+  {
+   "source": "mianbei-elyms",
+   "reply": 319231791153,
+   "kind": "build",
+   "team": "创生队",
+   "character": "伊洛伊",
+   "role": "辅助",
+   "arcs": "错误的门 漆黑青春妄想 灵感大逃杀",
+   "cartridge": "音速蓝刺猬",
+   "main": "暴击 > 暴伤",
+   "sub": "暴击 > 暴伤 > 通用增伤 > 攻击力%",
+   "talents": "天赋1 > 天赋2",
+   "skills": "普攻 > 技能 > 大招 > 援护技"
+  },
+  {
+   "source": "mianbei-akane-rin",
+   "reply": 317100591473,
+   "kind": "team",
+   "label": "浸染队",
+   "members": [
+    [
+     "明音凛"
+    ],
+    [
+     "黑羽"
+    ],
+    [
+     "伊洛伊",
+     "灵可",
+     "早雾",
+     "哈尼娅"
+    ]
+   ],
+   "note": {
+    "en": "Two of the four supports; with Iroi and Sakiri together, Iroi takes Fireflies and the Forest and the team needs one Speedy Hedgehog",
+    "zh-tw": "四名輔助任選兩名；伊洛伊與早霧同隊時，伊洛伊改用「森林螢火之心」，隊伍只需一套「音速藍刺蝟」",
+    "zh-cn": "四名辅助任选两名；伊洛伊与早雾同队时，伊洛伊改用「森林萤火之心」，队伍只需一套「音速蓝刺猬」",
+    "ja": "4 人のサポートから 2 人。イロヒと早霧を両方入れるときはイロヒを「森に棲む蛍の心」にし、「音速ヘッジホッグ」はチームに 1 セットでよい",
+    "ko": "서포터 네 명 중 두 명. 일로이와 사키리를 함께 쓰면 일로이는 「숲속 반딧불의 마음」을 쓰고, 「음속 블루 고슴도치」는 파티에 한 세트면 된다"
+   }
+  },
+  {
+   "source": "mianbei-akane-rin",
+   "reply": 317100591473,
+   "kind": "team",
+   "label": "延滞队",
+   "members": [
+    [
+     "明音凛"
+    ],
+    [
+     "哈索尔"
+    ],
+    [
+     "鉴定师·零"
+    ]
+   ],
+   "note": {
+    "en": "Plus any support (pinned comment)",
+    "zh-tw": "再加任意輔助（置頂留言）",
+    "zh-cn": "再加任意辅助（置顶评论）",
+    "ja": "残りは任意のサポート（固定コメント）",
+    "ko": "나머지는 아무 서포터(고정 댓글)"
+   }
+  },
+  {
+   "source": "mianbei-akane-rin",
+   "reply": 317100591473,
+   "kind": "build",
+   "team": "浸染队",
+   "character": "明音凛",
+   "role": "主力输出",
+   "arcs": "月的对跖点 > 最后一朵玫瑰 > 极速之绵 > 错误的门",
+   "cartridge": "街头拳王",
+   "main": "相属性增伤≈暴伤",
+   "sub": "暴击≈暴伤>通用增伤>攻击力%>环合强度",
+   "talents": "天赋2 > 天赋1",
+   "skills": "普攻 > 技能 > 大招 > 援护技"
+  },
+  {
+   "source": "mianbei-akane-rin",
+   "reply": 317100591473,
+   "kind": "build",
+   "team": "浸染队",
+   "character": "黑羽",
+   "role": "主力输出",
+   "arcs": "罪与罚 > 噬心诡刃 > 好狗狗走四方",
+   "cartridge": "恶魔之血：诅咒",
+   "main": "暴伤>魂属性增伤",
+   "sub": "暴击≈爆伤>通用增伤>攻击力%",
+   "talents": "天赋1 > 天赋2",
+   "skills": "普攻 > 技能 > 大招 > 援护技"
+  },
+  {
+   "source": "mianbei-akane-rin",
+   "reply": 317100591473,
+   "kind": "build",
+   "team": "浸染队",
+   "character": "伊洛伊",
+   "role": "辅助",
+   "arcs": "错误的门 漆黑青春妄想 灵感大逃杀",
+   "cartridge": "音速蓝刺猬",
+   "main": "暴击 > 暴伤",
+   "sub": "暴击 > 暴伤 > 通用增伤 > 攻击力%",
+   "talents": "天赋2 > 天赋1",
+   "skills": "普攻 > 技能 > 大招 > 援护技"
+  },
+  {
+   "source": "mianbei-akane-rin",
+   "reply": 317100591473,
+   "kind": "build",
+   "team": "浸染队",
+   "character": "灵可",
+   "role": "爆发输出",
+   "arcs": "远行者之声 > 不屈之绵 > 预备备",
+   "cartridge": "森林萤火之心",
+   "main": "灵属性增伤 > 暴伤",
+   "sub": "暴击率 > 通用增伤≈暴伤 > 攻击力%",
+   "talents": "天赋1 > 天赋2",
+   "skills": "援护技 > 大招 > 技能 > 普攻"
+  },
+  {
+   "source": "mianbei-akane-rin",
+   "reply": 317100591473,
+   "kind": "build",
+   "team": "浸染队",
+   "character": "早雾",
+   "role": "辅助",
+   "arcs": "好狗狗走四方 > 挂你在心口难开",
+   "cartridge": "音速蓝刺猬",
+   "main": "暴击 > 暴伤",
+   "sub": "暴击 > 暴伤 > 通用增伤 > 攻击力%",
+   "talents": "天赋2 > 天赋1",
+   "skills": "大招 > 技能 > 普攻 > 援护技"
+  },
+  {
+   "source": "mianbei-akane-rin",
+   "reply": 317100591473,
+   "kind": "build",
+   "team": "浸染队",
+   "character": "哈尼娅",
+   "role": "辅助",
+   "arcs": "引爆全场",
+   "cartridge": "音速蓝刺猬",
+   "main": "任意",
+   "sub": "任意",
+   "talents": "天赋1 > 天赋2",
+   "skills": "技能=大招 > 援护技 > 普攻"
+  },
+  {
+   "source": "mianbei-blackbird",
+   "reply": 314872543937,
+   "kind": "team",
+   "label": "黑羽主C队",
+   "members": [
+    [
+     "黑羽"
+    ],
+    [
+     "安魂曲"
+    ],
+    [
+     "翳"
+    ],
+    [
+     "早雾"
+    ]
+   ],
+   "note": {
+    "en": "Lacrimosa and Skia: any Chaos character and any Lakshana character can stand in",
+    "zh-tw": "安魂曲與翳可換成任意暗屬性與相屬性角色",
+    "zh-cn": "安魂曲与翳可换成任意暗属性与相属性角色",
+    "ja": "レクイエムと翳は、任意の闇属性と相属性のキャラクターに替えられる",
+    "ko": "라크리모사와 스키아는 아무 암속성·상속성 캐릭터로 바꿀 수 있다"
+   }
+  },
+  {
+   "source": "mianbei-blackbird",
+   "reply": 314872543937,
+   "kind": "team",
+   "label": "黑羽副C队1",
+   "members": [
+    [
+     "卡厄思"
+    ],
+    [
+     "黑羽"
+    ],
+    [
+     "伊洛伊"
+    ],
+    [
+     "早雾"
+    ]
+   ],
+   "note": {
+    "en": "Iroi and Sakiri: any general support can stand in",
+    "zh-tw": "伊洛伊與早霧可換成任意通用輔助",
+    "zh-cn": "伊洛伊与早雾可换成任意通用辅助",
+    "ja": "イロヒと早霧は任意の汎用サポートに替えられる",
+    "ko": "일로이와 사키리는 아무 범용 서포터로 바꿀 수 있다"
+   }
+  },
+  {
+   "source": "mianbei-blackbird",
+   "reply": 314872543937,
+   "kind": "team",
+   "label": "黑羽副C队2",
+   "members": [
+    [
+     "卡厄思"
+    ],
+    [
+     "黑羽"
+    ],
+    [
+     "鉴定师·零"
+    ],
+    [
+     "哈索尔"
+    ]
+   ]
+  },
+  {
+   "source": "mianbei-blackbird",
+   "reply": 314872543937,
+   "kind": "build",
+   "team": "黑羽主C队",
+   "character": "黑羽",
+   "role": "主力输出",
+   "arcs": "罪与罚 > 噬心诡刃 > 灵敏之绵",
+   "cartridge": "恶魔之血诅咒",
+   "main": "暴伤>魂属性增伤",
+   "sub": "双暴 > 增伤 > 攻击力 > 环合强度",
+   "talents": "天赋1=天赋2",
+   "skills": "主C:普攻 > 技能 > 大招"
+  },
+  {
+   "source": "mianbei-blackbird",
+   "reply": 314872543937,
+   "kind": "build",
+   "team": "黑羽主C队",
+   "character": "安魂曲",
+   "role": "输出",
+   "arcs": "最后一朵玫瑰 > 漆黑青春妄想 > 极速之绵",
+   "cartridge": "迪亚波罗斯",
+   "main": "暗属性增伤/暴击率",
+   "sub": "双暴 > 增伤 > 百分比攻击力",
+   "talents": "天赋2 > 天赋1",
+   "skills": "普攻 > 技能 > 大招 > 援护技"
+  },
+  {
+   "source": "mianbei-blackbird",
+   "reply": 314872543937,
+   "kind": "build",
+   "team": "黑羽主C队",
+   "character": "翳",
+   "role": "辅助",
+   "arcs": "好狗狗走四方 > 挂你在心口难开",
+   "cartridge": "街头拳王",
+   "main": "任意",
+   "sub": "任意",
+   "talents": "天赋1 > 天赋2",
+   "skills": "普攻 > 大招 > 技能"
+  },
+  {
+   "source": "mianbei-blackbird",
+   "reply": 314872543937,
+   "kind": "build",
+   "team": "黑羽主C队",
+   "character": "早雾",
+   "role": "辅助",
+   "arcs": "好狗狗走四方",
+   "cartridge": "音速蓝刺猬",
+   "main": "任意",
+   "sub": "任意",
+   "talents": "天赋1 > 天赋2",
+   "skills": "大招 > 小技能 > 普攻 > 援护技"
+  },
+  {
+   "source": "mianbei-blackbird",
+   "reply": 314872543937,
+   "kind": "build",
+   "team": "黑羽副C队1",
+   "character": "卡厄思",
+   "role": "主力输出",
+   "arcs": "众人追寻之物 > 凶猛之绵 > 终有时",
+   "cartridge": "街头拳王",
+   "main": "相属性增伤 > 攻击力≥暴伤",
+   "sub": "双暴>增伤>环和强度≈攻击力",
+   "talents": "天赋1=天赋2",
+   "skills": "普攻>大招>技能>援护技"
+  },
+  {
+   "source": "mianbei-blackbird",
+   "reply": 314872543937,
+   "kind": "build",
+   "team": "黑羽副C队1",
+   "character": "黑羽",
+   "role": "副C",
+   "arcs": "罪与罚 > 噬心诡刃 > 灵敏之绵",
+   "cartridge": "恶魔之血诅咒",
+   "main": "暴伤>魂属性增伤",
+   "sub": "双暴 > 增伤 > 攻击力 > 环合强度",
+   "talents": "天赋1=天赋2",
+   "skills": "副C:技能 > 普攻 > 大招"
+  },
+  {
+   "source": "mianbei-blackbird",
+   "reply": 314872543937,
+   "kind": "build",
+   "team": "黑羽副C队1",
+   "character": "伊洛伊",
+   "role": "辅助",
+   "arcs": "错误的门 > 漆黑青春妄想",
+   "cartridge": "森林萤火之心",
+   "main": "攻击力% / 治疗加成",
+   "sub": "攻击力 / 攻击%",
+   "talents": "天赋1=天赋2",
+   "skills": "普攻 > 小技能=大招=援护技"
+  },
+  {
+   "source": "mianbei-blackbird",
+   "reply": 314872543937,
+   "kind": "build",
+   "team": "黑羽副C队1",
+   "character": "早雾",
+   "role": "辅助",
+   "arcs": "好狗狗走四方",
+   "cartridge": "音速蓝刺猬",
+   "main": "任意",
+   "sub": "任意",
+   "talents": "天赋1 > 天赋2",
+   "skills": "大招 > 小技能 > 普攻 > 援护技"
+  },
+  {
+   "source": "mianbei-blackbird",
+   "reply": 314872543937,
+   "kind": "build",
+   "team": "黑羽副C队2",
+   "character": "卡厄思",
+   "role": "主力输出",
+   "arcs": "众人追寻之物 > 凶猛之绵 > 终有时",
+   "cartridge": "街头拳王",
+   "main": "相属性增伤 > 攻击力≥暴伤",
+   "sub": "双暴>增伤>环和强度≈攻击力",
+   "talents": "天赋1=天赋2",
+   "skills": "普攻>大招>技能>援护技"
+  },
+  {
+   "source": "mianbei-blackbird",
+   "reply": 314872543937,
+   "kind": "build",
+   "team": "黑羽副C队2",
+   "character": "黑羽",
+   "role": "副C",
+   "arcs": "罪与罚 > 噬心诡刃 > 灵敏之绵",
+   "cartridge": "恶魔之血诅咒",
+   "main": "暴伤>魂属性增伤",
+   "sub": "双暴 > 增伤 > 攻击力 > 环合强度",
+   "talents": "天赋1=天赋2",
+   "skills": "副C:技能 > 普攻 > 大招"
+  },
+  {
+   "source": "mianbei-blackbird",
+   "reply": 314872543937,
+   "kind": "build",
+   "team": "黑羽副C队2",
+   "character": "光主",
+   "role": "爆发输出",
+   "arcs": "倾世之雨 > 无畏之绵 > 休息日",
+   "cartridge": "失落光芒",
+   "main": "环合强度",
+   "sub": "环合强度 > 伤害增加 > 双暴",
+   "talents": "天赋1=天赋2",
+   "skills": "技能 > 大招=援护技 > 普攻"
+  },
+  {
+   "source": "mianbei-blackbird",
+   "reply": 314872543937,
+   "kind": "build",
+   "team": "黑羽副C队2",
+   "character": "哈索尔",
+   "role": "爆发输出",
+   "arcs": "焰魂狂飙",
+   "cartridge": "街头拳王",
+   "main": "相属性增伤",
+   "sub": "暴击/暴伤 > 伤害增加 > 攻击% > 攻击力",
+   "talents": "天赋2 > 天赋1",
+   "skills": "技能 > 大招 > 普攻 > 援护技"
+  },
+  {
+   "source": "mianbei-linko",
+   "reply": 312765530609,
+   "kind": "team",
+   "label": "覆纹队",
+   "members": [
+    [
+     "残虹"
+    ],
+    [
+     "灵可"
+    ],
+    [
+     "伊洛伊"
+    ],
+    [
+     "早雾"
+    ]
+   ],
+   "note": {
+    "en": "Iroi, or any Anima character",
+    "zh-tw": "伊洛伊或任意靈屬性角色",
+    "zh-cn": "伊洛伊或任意灵属性角色",
+    "ja": "イロヒ、または任意の霊属性キャラクター",
+    "ko": "일로이 또는 아무 령속성 캐릭터"
+   }
+  },
+  {
+   "source": "mianbei-linko",
+   "reply": 312765530609,
+   "kind": "team",
+   "label": "即插即用队",
+   "members": [
+    [
+     "安魂曲"
+    ],
+    [
+     "灵可"
+    ],
+    [
+     "阿德勒"
+    ],
+    [
+     "早雾"
+    ]
+   ]
+  },
+  {
+   "source": "mianbei-linko",
+   "reply": 312765530609,
+   "kind": "build",
+   "team": "覆纹队",
+   "character": "残虹",
+   "role": "主C",
+   "arcs": "噬心诡刃 > 灵敏之绵 > 当心头顶",
+   "cartridge": "真红:双生蝶",
+   "main": "咒属性增伤/暴伤",
+   "sub": "双暴 > 增伤 > 环合强度≈攻击力",
+   "talents": "天赋1=天赋2",
+   "skills": "普攻 > 大招 > 小技能"
+  },
+  {
+   "source": "mianbei-linko",
+   "reply": 312765530609,
+   "kind": "build",
+   "team": "覆纹队",
+   "character": "灵可",
+   "role": "副C",
+   "arcs": "远行者之声 > 预备备 > 不屈之绵",
+   "cartridge": "森林萤火之心",
+   "main": "暴伤≈灵属性增伤",
+   "sub": "双暴 > 通用增伤 > 环合强度/攻击力",
+   "talents": "天赋1=天赋2",
+   "skills": "援护技 > 大招 > 小技能 > 普攻"
+  },
+  {
+   "source": "mianbei-linko",
+   "reply": 312765530609,
+   "kind": "build",
+   "team": "覆纹队",
+   "character": "早雾",
+   "role": "辅助",
+   "arcs": "好狗狗走四方",
+   "cartridge": "音速蓝刺猬",
+   "main": "任意",
+   "sub": "任意",
+   "talents": "天赋1 > 天赋2",
+   "skills": "大招 > 小技能 > 普攻 > 援护技"
+  },
+  {
+   "source": "mianbei-linko",
+   "reply": 312765530609,
+   "kind": "build",
+   "team": "覆纹队",
+   "character": "伊洛伊",
+   "role": "辅助",
+   "arcs": "错误的门 > 漆黑青春妄想",
+   "cartridge": "森林萤火之心",
+   "main": "攻击力%/治疗加成",
+   "sub": "攻击力/攻击%",
+   "talents": "天赋1=天赋2",
+   "skills": "普攻 > 小技能=大招=援护技"
+  },
+  {
+   "source": "mianbei-linko",
+   "reply": 312765530609,
+   "kind": "build",
+   "team": "即插即用队",
+   "character": "安魂曲",
+   "role": "输出",
+   "arcs": "最后一朵玫瑰 漆黑青春妄想 极速之绵",
+   "cartridge": "迪亚波罗斯",
+   "main": "暗属性增伤/暴击率",
+   "sub": "双暴 > 伤害增加 > 攻击力%",
+   "talents": "天赋2 > 天赋1",
+   "skills": "普攻 > 小技能 > 大招 > 援护技"
+  },
+  {
+   "source": "mianbei-linko",
+   "reply": 312765530609,
+   "kind": "build",
+   "team": "即插即用队",
+   "character": "灵可",
+   "role": "副C",
+   "arcs": "远行者之声 > 预备备 > 不屈之绵",
+   "cartridge": "森林萤火之心",
+   "main": "暴伤≈灵属性增伤",
+   "sub": "双暴 > 通用增伤 > 环合强度/攻击力",
+   "talents": "天赋1=天赋2",
+   "skills": "援护技 > 大招 > 小技能 > 普攻"
+  },
+  {
+   "source": "mianbei-linko",
+   "reply": 312765530609,
+   "kind": "build",
+   "team": "即插即用队",
+   "character": "阿德勒",
+   "role": "辅助",
+   "arcs": "永恒圆舞曲 > 该死的邂逅 良药苦口",
+   "cartridge": "守卫王国",
+   "main": "任意",
+   "sub": "任意",
+   "talents": "天赋1 > 天赋2",
+   "skills": "小技能 > 其他"
+  },
+  {
+   "source": "mianbei-linko",
+   "reply": 312765530609,
+   "kind": "build",
+   "team": "即插即用队",
+   "character": "早雾",
+   "role": "辅助",
+   "arcs": "好狗狗走四方",
+   "cartridge": "音速蓝刺猬",
+   "main": "任意",
+   "sub": "任意",
+   "talents": "天赋1 > 天赋2",
+   "skills": "大招 > 小技能 > 普攻 > 援护技"
+  },
+  {
+   "source": "mianbei-zankou",
+   "reply": 310045143601,
+   "kind": "team",
+   "label": "安魂曲dot队",
+   "members": [
+    [
+     "残虹"
+    ],
+    [
+     "安魂曲"
+    ],
+    [
+     "早雾"
+    ],
+    [
+     "伊洛伊"
+    ]
+   ]
+  },
+  {
+   "source": "mianbei-zankou",
+   "reply": 310045143601,
+   "kind": "team",
+   "label": "残虹主C队",
+   "members": [
+    [
+     "残虹"
+    ],
+    [
+     "早雾"
+    ],
+    [
+     "达芙蒂尔"
+    ],
+    [
+     "九原"
+    ]
+   ],
+   "note": {
+    "en": "Daffodill and Jiuyuan: any Chaos character and any Anima character can stand in",
+    "zh-tw": "達芙蒂爾與九原可換成任意暗屬性與靈屬性角色",
+    "zh-cn": "达芙蒂尔与九原可换成任意暗属性与灵属性角色",
+    "ja": "ダフォディールと九原は、任意の闇属性と霊属性のキャラクターに替えられる",
+    "ko": "다포딜과 구원은 아무 암속성·령속성 캐릭터로 바꿀 수 있다"
+   }
+  },
+  {
+   "source": "mianbei-zankou",
+   "reply": 310045143601,
+   "kind": "build",
+   "team": "安魂曲dot队",
+   "character": "残虹",
+   "role": "副C",
+   "arcs": "噬心诡刃 > 灵敏之绵 > 当心头顶",
+   "cartridge": "失落光芒",
+   "main": "暴击伤害 > 属性增伤",
+   "sub": "暴击伤害、环合强度 > 暴击率 > 伤害增加",
+   "talents": "天赋1=天赋2",
+   "skills": "不合轴：大招 > 普攻/小技能\n合轴：普攻 > 大招 > 小技能"
+  },
+  {
+   "source": "mianbei-zankou",
+   "reply": 310045143601,
+   "kind": "build",
+   "team": "安魂曲dot队",
+   "character": "安魂曲",
+   "role": "输出",
+   "arcs": "最后一朵玫瑰 漆黑青春妄想 极速之绵",
+   "cartridge": "迪亚波罗斯",
+   "main": "暗属性增伤/暴击率",
+   "sub": "双暴 > 伤害增加 > 攻击力%",
+   "talents": "天赋2 > 天赋1",
+   "skills": "普攻 > 小技能 > 大招 > 援护技"
+  },
+  {
+   "source": "mianbei-zankou",
+   "reply": 310045143601,
+   "kind": "build",
+   "team": "安魂曲dot队",
+   "character": "早雾",
+   "role": "辅助",
+   "arcs": "好狗狗走四方",
+   "cartridge": "音速蓝刺猬",
+   "main": "任意",
+   "sub": "任意",
+   "talents": "天赋1 > 天赋2",
+   "skills": "大招 > 小技能 > 普攻 > 援护技"
+  },
+  {
+   "source": "mianbei-zankou",
+   "reply": 310045143601,
+   "kind": "build",
+   "team": "安魂曲dot队",
+   "character": "伊洛伊",
+   "role": "辅助",
+   "arcs": "错误的门 > 漆黑青春妄想",
+   "cartridge": "森林萤火之心",
+   "main": "暴击率",
+   "sub": "暴击率>增伤=暴击伤害>攻击力/攻击力%",
+   "talents": "天赋1=天赋2",
+   "skills": "普攻 > 小技能=大招=援护技"
+  },
+  {
+   "source": "mianbei-zankou",
+   "reply": 310045143601,
+   "kind": "build",
+   "team": "残虹主C队",
+   "character": "残虹",
+   "role": "主C",
+   "arcs": "噬心诡刃 > 灵敏之绵 > 当心头顶",
+   "cartridge": "真红:双生蝶",
+   "main": "咒属性增伤/暴伤",
+   "sub": "双暴 > 增伤 > 环合强度≈攻击力",
+   "talents": "天赋1=天赋2",
+   "skills": "普攻 > 大招 > 小技能"
+  },
+  {
+   "source": "mianbei-zankou",
+   "reply": 310045143601,
+   "kind": "build",
+   "team": "残虹主C队",
+   "character": "早雾",
+   "role": "辅助",
+   "arcs": "好狗狗走四方",
+   "cartridge": "音速蓝刺猬",
+   "main": "任意",
+   "sub": "任意",
+   "talents": "天赋1 > 天赋2",
+   "skills": "大招 > 小技能 > 普攻 > 援护技"
+  },
+  {
+   "source": "mianbei-zankou",
+   "reply": 310045143601,
+   "kind": "build",
+   "team": "残虹主C队",
+   "character": "达芙蒂尔",
+   "role": "爆发输出",
+   "arcs": "漆黑青春妄想",
+   "cartridge": "迪亚波罗斯",
+   "main": "倾陷强度",
+   "sub": "倾陷强度 > 暴击/暴伤 > 增伤 > 攻击% > 固定攻击",
+   "talents": "天赋1 > 天赋2",
+   "skills": "大招 > 小技能 > 普攻 > 援护技"
+  },
+  {
+   "source": "mianbei-zankou",
+   "reply": 310045143601,
+   "kind": "build",
+   "team": "残虹主C队",
+   "character": "九原",
+   "role": "爆发输出",
+   "arcs": "现实避难所 > 无畏之绵 > 引爆全场",
+   "cartridge": "森林萤火之心",
+   "main": "灵属性增伤",
+   "sub": "暴击/暴伤 > 增伤 > 攻击% > 攻击力",
+   "talents": "天赋1=天赋2",
+   "skills": "普攻 > 大招 > 小技能 > 援护技"
+  },
+  {
+   "source": "mianbei-iroi",
+   "reply": 307226203249,
+   "kind": "team",
+   "label": "创生队",
+   "members": [
+    [
+     "伊洛伊"
+    ],
+    [
+     "鉴定师·零"
+    ],
+    [
+     "九原"
+    ],
+    [
+     "娜娜莉"
+    ]
+   ]
+  },
+  {
+   "source": "mianbei-iroi",
+   "reply": 307226203249,
+   "kind": "team",
+   "label": "真红盈蓄队",
+   "members": [
+    [
+     "哈索尔",
+     "翳"
+    ],
+    [
+     "鉴定师·零"
+    ],
+    [
+     "伊洛伊"
+    ],
+    [
+     "真红"
+    ]
+   ]
+  },
+  {
+   "source": "mianbei-iroi",
+   "reply": 307226203249,
+   "kind": "team",
+   "label": "通用直伤队",
+   "members": [
+    [
+     "早雾"
+    ],
+    [
+     "哈尼娅"
+    ],
+    [
+     "伊洛伊"
+    ],
+    [
+     "安魂曲"
+    ]
+   ],
+   "note": {
+    "en": "Lacrimosa, or any main DPS",
+    "zh-tw": "安魂曲或任意主力輸出",
+    "zh-cn": "安魂曲或任意主力输出",
+    "ja": "レクイエム、または任意のメインアタッカー",
+    "ko": "라크리모사 또는 아무 메인 딜러"
+   }
+  },
+  {
+   "source": "mianbei-iroi",
+   "reply": 307226203249,
+   "kind": "build",
+   "character": "娜娜莉",
+   "role": "主力输出",
+   "arcs": "预备备 > 不屈之绵 > 焰魂狂飙/鲸之歌",
+   "cartridge": "森林萤火之心",
+   "main": "灵属性增伤",
+   "sub": "伤害增加>双暴>攻击%>固定攻击>其他",
+   "talents": "天赋1=天赋2",
+   "skills": "普攻 > 大招 > 小技能 > 援护技"
+  },
+  {
+   "source": "mianbei-iroi",
+   "reply": 307226203249,
+   "kind": "build",
+   "character": "真红",
+   "role": "主力输出",
+   "arcs": "穿过胭红蜃景 > 众人追寻之物 > 凶猛之绵 / 茶花会",
+   "cartridge": "失落光芒",
+   "main": "暴击/暴伤/增伤",
+   "sub": "暴击率 > 暴击伤害 > 增伤 > 攻击力",
+   "talents": "天赋1>天赋2",
+   "skills": "大招 > 小技能/普攻 > 援护攻击"
+  },
+  {
+   "source": "mianbei-iroi",
+   "reply": 307226203249,
+   "kind": "build",
+   "character": "安魂曲",
+   "role": "主力输出",
+   "arcs": "最后一朵玫瑰 漆黑青春妄想 极速之绵",
+   "cartridge": "迪亚波罗斯",
+   "main": "暗属性增伤/暴击率",
+   "sub": "双暴 > 伤害增加 > 攻击力%",
+   "talents": "天赋2 > 天赋1",
+   "skills": "普攻 > 小技能 > 大招 > 援护技"
+  },
+  {
+   "source": "mianbei-iroi",
+   "reply": 307226203249,
+   "kind": "build",
+   "character": "鉴定师(主角)",
+   "role": "爆发输出",
+   "arcs": "倾世之雨 无畏之绵 休息日",
+   "cartridge": "失落光芒",
+   "main": "环合强度",
+   "sub": "环合强度 > 暴击/暴伤 > 增伤 > 攻击% > 攻击力",
+   "talents": "天赋1=天赋2",
+   "skills": "小技能 > 大招=援护技 > 普攻"
+  },
+  {
+   "source": "mianbei-iroi",
+   "reply": 307226203249,
+   "kind": "build",
+   "character": "九原",
+   "role": "爆发输出",
+   "arcs": "现实避难所 > 无畏之绵 > 引爆全场",
+   "cartridge": "森林萤火之心",
+   "main": "灵属性增伤",
+   "sub": "暴击/暴伤 > 增伤 > 攻击% > 攻击力",
+   "talents": "天赋1=天赋2",
+   "skills": "普攻 > 大招 > 小技能 > 援护技"
+  },
+  {
+   "source": "mianbei-iroi",
+   "reply": 307226203249,
+   "kind": "build",
+   "character": "哈索尔",
+   "role": "爆发输出",
+   "arcs": "焰魂狂飙",
+   "cartridge": "街头拳王",
+   "main": "相属性增伤",
+   "sub": "暴击/暴伤 > 增伤 > 攻击% > 攻击力",
+   "talents": "天赋2 > 天赋1",
+   "skills": "小技能 > 大招 > 普攻 > 援护技"
+  },
+  {
+   "source": "mianbei-iroi",
+   "reply": 307226203249,
+   "kind": "build",
+   "character": "伊洛伊",
+   "role": "辅助玩法",
+   "arcs": "错误的门 > 漆黑青春妄想",
+   "cartridge": "音速蓝刺猬",
+   "main": "攻击力%/治疗加成",
+   "sub": "攻击力/攻击%",
+   "talents": "天赋1=天赋2",
+   "skills": "普攻 > 小技能=大招=援护技"
+  },
+  {
+   "source": "mianbei-iroi",
+   "reply": 307226203249,
+   "kind": "build",
+   "character": "伊洛伊",
+   "role": "输出玩法",
+   "arcs": "错误的门 > 漆黑青春妄想",
+   "cartridge": "森林萤火之心",
+   "main": "暴击率",
+   "sub": "暴击率>增伤=暴击伤害>攻击力/攻击力%",
+   "talents": "天赋1=天赋2",
+   "skills": "普攻 > 小技能=大招=援护技"
+  },
+  {
+   "source": "mianbei-iroi",
+   "reply": 307226203249,
+   "kind": "build",
+   "character": "早雾",
+   "role": "辅助",
+   "arcs": "好狗狗走四方",
+   "cartridge": "音速蓝刺猬",
+   "main": "环合强度/咒属性增伤",
+   "sub": "环合强度/其他",
+   "talents": "天赋1 > 天赋2",
+   "skills": "大招 > 小技能 > 普攻 > 援护技"
+  },
+  {
+   "source": "mianbei-iroi",
+   "reply": 307226203249,
+   "kind": "build",
+   "character": "哈尼娅",
+   "role": "辅助",
+   "arcs": "引爆全场",
+   "cartridge": "恶魔之血·诅咒/音速蓝刺猬",
+   "main": "任意",
+   "sub": "任意",
+   "talents": "天赋1 > 天赋2",
+   "skills": "小技能=大招 > 援护技 > 普攻",
+   "note": {
+    "en": "Option 1 (Devil's Blood: Curse) deals more damage; option 2 (Speedy Hedgehog) is simpler to play",
+    "zh-tw": "方案①（「惡魔之血：詛咒」）輸出更高；方案②（「音速藍刺蝟」）操作更簡單",
+    "zh-cn": "方案①（「恶魔之血：诅咒」）输出更高；方案②（「音速蓝刺猬」）操作更简单",
+    "ja": "案①（「悪魔の血：呪い」）は火力が高く、案②（「音速ヘッジホッグ」）は操作が簡単",
+    "ko": "①안(「악마의 피: 저주」)은 화력이 높고 ②안(「음속 블루 고슴도치」)은 조작이 쉽다"
+   }
+  },
+  {
+   "source": "mianbei-iroi",
+   "reply": 307226203249,
+   "kind": "build",
+   "character": "翳",
+   "role": "辅助",
+   "arcs": "好狗狗走四方 > 挂你在心口难开",
+   "cartridge": "街头拳王",
+   "main": "双爆",
+   "sub": "环合强度 > 双暴/增伤",
+   "talents": "天赋1>天赋2",
+   "skills": "普攻>大招>小技能"
+  },
+  {
+   "source": "mianbei-chaos",
+   "reply": 303030813841,
+   "kind": "team",
+   "label": "盈蓄大招队",
+   "members": [
+    [
+     "鉴定师 (主角)"
+    ],
+    [
+     "九原"
+    ],
+    [
+     "哈索尔"
+    ],
+    [
+     "卡厄斯"
+    ]
+   ]
+  },
+  {
+   "source": "mianbei-chaos",
+   "reply": 303030813841,
+   "kind": "team",
+   "label": "低配版盈蓄大招队",
+   "members": [
+    [
+     "鉴定师 (主角)"
+    ],
+    [
+     "薄荷"
+    ],
+    [
+     "翳"
+    ],
+    [
+     "卡厄斯"
+    ]
+   ]
+  },
+  {
+   "source": "mianbei-chaos",
+   "reply": 303030813841,
+   "kind": "team",
+   "label": "延滞环合队",
+   "members": [
+    [
+     "哈尼娅"
+    ],
+    [
+     "鉴定师 (主角)"
+    ],
+    [
+     "哈索尔"
+    ],
+    [
+     "卡厄斯"
+    ]
+   ]
+  },
+  {
+   "source": "mianbei-chaos",
+   "reply": 303030813841,
+   "kind": "build",
+   "team": "盈蓄大招队",
+   "character": "鉴定师 (主角)",
+   "role": "辅助",
+   "arcs": "倾世之雨 > 引爆全场 > 休息日",
+   "cartridge": "失落光芒/音速蓝刺猬",
+   "main": "环合强度",
+   "sub": "环合强度 > 伤害增加 > 双暴",
+   "talents": "天赋1=天赋2",
+   "skills": "小技能 > 大招 > 普攻 > 援护技"
+  },
+  {
+   "source": "mianbei-chaos",
+   "reply": 303030813841,
+   "kind": "build",
+   "team": "盈蓄大招队",
+   "character": "九原",
+   "role": "爆发输出",
+   "arcs": "现实避难所 > 无畏之绵 > 引爆全场",
+   "cartridge": "森林萤火之心",
+   "main": "灵属性增伤",
+   "sub": "暴击/暴伤 > 增伤 > 攻击% > 攻击力",
+   "talents": "天赋1 > 天赋2",
+   "skills": "普攻 > 大招 > 小技能 > 援护技"
+  },
+  {
+   "source": "mianbei-chaos",
+   "reply": 303030813841,
+   "kind": "build",
+   "team": "盈蓄大招队",
+   "character": "哈索尔",
+   "role": "爆发输出",
+   "arcs": "焰魂狂飙",
+   "cartridge": "街头拳王",
+   "main": "相属性增伤",
+   "sub": "暴击/暴伤 > 增伤 > 攻击% > 攻击力",
+   "talents": "天赋2 > 天赋1",
+   "skills": "小技能 > 大招 > 普攻 > 援护技"
+  },
+  {
+   "source": "mianbei-chaos",
+   "reply": 303030813841,
+   "kind": "build",
+   "team": "盈蓄大招队",
+   "character": "卡厄斯",
+   "role": "主力输出",
+   "arcs": "众人追寻之物 > 凶猛之绵 > 终有时",
+   "cartridge": "街头拳王",
+   "main": "相属性增伤 > 攻击力≥暴伤",
+   "sub": "暴击率=增伤 > 暴击伤害=攻击力",
+   "talents": "天赋1=天赋2",
+   "skills": "普攻 > 大招 > 技能 > 援护技"
+  },
+  {
+   "source": "mianbei-chaos",
+   "reply": 303030813841,
+   "kind": "build",
+   "team": "低配版盈蓄大招队",
+   "character": "鉴定师 (主角)",
+   "role": "辅助",
+   "arcs": "倾世之雨 > 引爆全场 > 休息日",
+   "cartridge": "失落光芒/音速蓝刺猬",
+   "main": "环合强度",
+   "sub": "环合强度 > 伤害增加 > 双暴",
+   "talents": "天赋1=天赋2",
+   "skills": "小技能 > 大招 > 普攻 > 援护技"
+  },
+  {
+   "source": "mianbei-chaos",
+   "reply": 303030813841,
+   "kind": "build",
+   "team": "低配版盈蓄大招队",
+   "character": "薄荷",
+   "role": "爆发输出",
+   "arcs": "极速之绵 开始净空",
+   "cartridge": "森林萤火之心",
+   "main": "灵属性增伤",
+   "sub": "暴击/暴伤 > 增伤 > 攻击% > 攻击力",
+   "talents": "天赋1=天赋2",
+   "skills": "大招 > 普攻 > 小技能 > 援护技"
+  },
+  {
+   "source": "mianbei-chaos",
+   "reply": 303030813841,
+   "kind": "build",
+   "team": "低配版盈蓄大招队",
+   "character": "翳",
+   "role": "主力输出",
+   "arcs": "好狗狗走四方",
+   "cartridge": "街头拳王",
+   "main": "任意",
+   "sub": "任意",
+   "talents": "天赋1 > 天赋2",
+   "skills": "普攻 > 大招 > 小技能"
+  },
+  {
+   "source": "mianbei-chaos",
+   "reply": 303030813841,
+   "kind": "build",
+   "team": "低配版盈蓄大招队",
+   "character": "卡厄斯",
+   "role": "主力输出",
+   "arcs": "众人追寻之物 > 凶猛之绵 > 终有时",
+   "cartridge": "街头拳王",
+   "main": "相属性增伤 > 攻击力≥暴伤",
+   "sub": "暴击率=增伤 > 暴击伤害=攻击力",
+   "talents": "天赋1=天赋2",
+   "skills": "普攻 > 大招 > 技能 > 援护技"
+  },
+  {
+   "source": "mianbei-chaos",
+   "reply": 303030813841,
+   "kind": "build",
+   "team": "延滞环合队",
+   "character": "哈尼娅",
+   "role": "辅助",
+   "arcs": "引爆全场",
+   "cartridge": "音速蓝刺猬",
+   "main": "任意",
+   "sub": "任意",
+   "talents": "天赋1 > 天赋2",
+   "skills": "小技能=大招 > 援护技 > 普攻"
+  },
+  {
+   "source": "mianbei-chaos",
+   "reply": 303030813841,
+   "kind": "build",
+   "team": "延滞环合队",
+   "character": "鉴定师 (主角)",
+   "role": "爆发输出",
+   "arcs": "倾世之雨 无畏之绵 休息日",
+   "cartridge": "失落光芒",
+   "main": "环合强度",
+   "sub": "环合强度 > 暴击/暴伤 > 增伤 > 攻击% > 攻击力",
+   "talents": "天赋1=天赋2",
+   "skills": "小技能 > 大招 > 普攻 > 援护技"
+  },
+  {
+   "source": "mianbei-chaos",
+   "reply": 303030813841,
+   "kind": "build",
+   "team": "延滞环合队",
+   "character": "哈索尔",
+   "role": "爆发输出",
+   "arcs": "焰魂狂飙",
+   "cartridge": "街头拳王",
+   "main": "相属性增伤",
+   "sub": "暴击/暴伤 > 增伤 > 攻击% > 攻击力",
+   "talents": "天赋2 > 天赋1",
+   "skills": "小技能 > 大招 > 普攻 > 援护技"
+  },
+  {
+   "source": "mianbei-chaos",
+   "reply": 303030813841,
+   "kind": "build",
+   "team": "延滞环合队",
+   "character": "卡厄斯",
+   "role": "主力输出",
+   "arcs": "众人追寻之物 > 凶猛之绵 > 终有时",
+   "cartridge": "街头拳王",
+   "main": "相属性增伤 > 攻击力≥暴伤",
+   "sub": "暴击率=增伤 > 暴击伤害=攻击力",
+   "talents": "天赋1=天赋2",
+   "skills": "普攻 > 大招 > 技能 > 援护技"
+  },
+  {
+   "source": "mianbei-lacrimosa",
+   "reply": 300852726209,
+   "kind": "team",
+   "label": "高上限爆发",
+   "members": [
+    [
+     "安魂曲"
+    ],
+    [
+     "早雾"
+    ],
+    [
+     "九原"
+    ],
+    [
+     "浔"
+    ]
+   ]
+  },
+  {
+   "source": "mianbei-lacrimosa",
+   "reply": 300852726209,
+   "kind": "team",
+   "label": "安魂曲单C",
+   "members": [
+    [
+     "安魂曲"
+    ],
+    [
+     "早雾"
+    ],
+    [
+     "阿德勒"
+    ],
+    [
+     "哈尼亚"
+    ]
+   ]
+  },
+  {
+   "source": "mianbei-lacrimosa",
+   "reply": 300852726209,
+   "kind": "build",
+   "team": "高上限爆发",
+   "character": "安魂曲",
+   "role": "输出",
+   "arcs": "最后一朵玫瑰、漆黑青春妄想、极速之绵",
+   "cartridge": "迪亚波罗斯",
+   "main": "暗属性增伤/暴击率",
+   "sub": "双暴 > 伤害增加 > 攻击力%",
+   "talents": "天赋2 > 天赋1",
+   "skills": "普攻 > 小技能 > 大招 > 援护技"
+  },
+  {
+   "source": "mianbei-lacrimosa",
+   "reply": 300852726209,
+   "kind": "build",
+   "team": "高上限爆发",
+   "character": "早雾",
+   "role": "辅助",
+   "arcs": "好狗狗走四方",
+   "cartridge": "音速蓝刺猬",
+   "main": "环合强度",
+   "sub": "环合强度/倾陷强度 > 其他",
+   "talents": "天赋1 > 天赋2",
+   "skills": "大招 > 小技能 > 普攻 > 援护技"
+  },
+  {
+   "source": "mianbei-lacrimosa",
+   "reply": 300852726209,
+   "kind": "build",
+   "team": "高上限爆发",
+   "character": "九原",
+   "role": "爆发输出",
+   "arcs": "现实避难所 > 无畏之绵",
+   "cartridge": "森林萤火之心",
+   "main": "灵属性增伤",
+   "sub": "暴击/暴伤 > 伤害增加 > 攻击% > 攻击力",
+   "talents": "天赋1 > 天赋2",
+   "skills": "普攻 > 大招 > 小技能 > 援护技"
+  },
+  {
+   "source": "mianbei-lacrimosa",
+   "reply": 300852726209,
+   "kind": "build",
+   "team": "高上限爆发",
+   "character": "浔",
+   "role": "爆发输出",
+   "arcs": "行进于时间之外、倾世之雨、无畏之绵、海特洛的安宁",
+   "cartridge": "失落光芒",
+   "main": "双暴≈光属性增伤",
+   "sub": "双暴 > 伤害增加 > 攻击力",
+   "talents": "天赋2 > 天赋1",
+   "skills": "大招 > 小技能 > 援护技 > 普攻"
+  },
+  {
+   "source": "mianbei-lacrimosa",
+   "reply": 300852726209,
+   "kind": "build",
+   "team": "安魂曲单C",
+   "character": "安魂曲",
+   "role": "输出",
+   "arcs": "最后一朵玫瑰、漆黑青春妄想、极速之绵",
+   "cartridge": "迪亚波罗斯",
+   "main": "暗属性增伤/暴击率",
+   "sub": "双暴 > 伤害增加 > 攻击力%",
+   "talents": "天赋2 > 天赋1",
+   "skills": "普攻 > 小技能 > 大招 > 援护技"
+  },
+  {
+   "source": "mianbei-lacrimosa",
+   "reply": 300852726209,
+   "kind": "build",
+   "team": "安魂曲单C",
+   "character": "早雾",
+   "role": "辅助",
+   "arcs": "好狗狗走四方",
+   "cartridge": "音速蓝刺猬",
+   "main": "环合强度",
+   "sub": "环合强度/倾陷强度 > 其他",
+   "talents": "天赋1 > 天赋2",
+   "skills": "大招 > 小技能 > 普攻 > 援护技"
+  },
+  {
+   "source": "mianbei-lacrimosa",
+   "reply": 300852726209,
+   "kind": "build",
+   "team": "安魂曲单C",
+   "character": "阿德勒",
+   "role": "辅助",
+   "arcs": "勿忘伞",
+   "cartridge": "守卫王国",
+   "main": "防御力",
+   "sub": "防御力 > 其他",
+   "talents": "天赋1 > 天赋2",
+   "skills": "小技能 > 其他"
+  },
+  {
+   "source": "mianbei-lacrimosa",
+   "reply": 300852726209,
+   "kind": "build",
+   "team": "安魂曲单C",
+   "character": "哈尼亚",
+   "role": "辅助",
+   "arcs": "引爆全场",
+   "cartridge": "恶魔之血：诅咒",
+   "main": "环合强度",
+   "sub": "暴击/暴伤 > 增伤 > 攻击% > 攻击力",
+   "talents": "天赋1 > 天赋2",
+   "skills": "小技能>大招>普攻"
+  },
+  {
+   "source": "mianbei-chiz",
+   "at": 34,
+   "kind": "team",
+   "label": "",
+   "members": [
+    [
+     "小吱"
+    ],
+    [
+     "埃德嘉"
+    ],
+    [
+     "法帝娅"
+    ],
+    [
+     "阿德勒"
+    ]
+   ]
+  },
+  {
+   "source": "mianbei-chiz",
+   "at": 34,
+   "kind": "build",
+   "character": "小吱",
+   "role": "主力输出",
+   "arcs": "思考喵",
+   "cartridge": "失落光芒",
+   "main": "增伤",
+   "sub": "增伤/暴伤 > 暴击率 > 攻击力",
+   "talents": "天赋1 > 天赋2",
+   "skills": "普攻 > 小技能 > 大招 > 援护技"
+  },
+  {
+   "source": "mianbei-chiz",
+   "at": 34,
+   "kind": "build",
+   "character": "埃德嘉",
+   "role": "回血",
+   "arcs": "扭曲之城的呼唤",
+   "cartridge": "音速蓝刺猬",
+   "main": "治疗效率",
+   "sub": "治疗效率 > 生命",
+   "talents": "天赋1 > 天赋2",
+   "skills": "大招 > 小技能 > 其他"
+  },
+  {
+   "source": "mianbei-chiz",
+   "at": 34,
+   "kind": "build",
+   "character": "法帝娅",
+   "role": "分摊伤害",
+   "arcs": "永恒圆舞曲 > 该死的邂逅 良药苦口",
+   "cartridge": "小小大冒险",
+   "main": "环合强度",
+   "sub": "环合强度\\倾陷强度 > 生命 > 其他",
+   "talents": "天赋1 > 天赋2",
+   "skills": "大招 > 小技能 > 普攻 > 援护技",
+   "note": {
+    "en": "The Great Thief for a Discord team",
+    "zh-tw": "該死的邂逅用於失諧隊",
+    "zh-cn": "该死的邂逅用于失谐队",
+    "ja": "呪われた出会いは失諧チーム向け",
+    "ko": "망할 인연은 디스코드 파티용"
+   }
+  },
+  {
+   "source": "mianbei-chiz",
+   "at": 34,
+   "kind": "build",
+   "character": "阿德勒",
+   "role": "?",
+   "arcs": "勿忘伞",
+   "cartridge": "守卫王国",
+   "main": "防御力",
+   "sub": "防御力 > 其他",
+   "talents": "天赋1 > 天赋2",
+   "skills": "小技能 > 其他"
+  },
+  {
+   "source": "mianbei-chiz",
+   "at": 338,
+   "kind": "team",
+   "label": "盈蓄队",
+   "members": [
+    [
+     "小吱"
+    ],
+    [
+     "哈索尔"
+    ],
+    [
+     "鉴定师(主角)"
+    ],
+    [
+     "九原",
+     "娜娜莉"
+    ]
+   ]
+  },
+  {
+   "source": "mianbei-chiz",
+   "at": 338,
+   "kind": "build",
+   "character": "小吱",
+   "role": "主力输出",
+   "arcs": "思考喵",
+   "cartridge": "失落光芒",
+   "main": "增伤",
+   "sub": "增伤/暴伤 > 暴击率 > 攻击力",
+   "talents": "天赋1 > 天赋2",
+   "skills": "普攻 > 小技能 > 大招 > 援护技",
+   "team": "盈蓄队"
+  },
+  {
+   "source": "mianbei-chiz",
+   "at": 338,
+   "kind": "build",
+   "character": "哈索尔",
+   "role": "爆发输出",
+   "arcs": "焰魂狂飙",
+   "cartridge": "街头拳王",
+   "main": "暴击/暴伤",
+   "sub": "暴击/暴伤 > 增伤 > 攻击% > 攻击力",
+   "talents": "天赋2 > 天赋1",
+   "skills": "小技能 > 大招 > 普攻 > 援护技",
+   "team": "盈蓄队"
+  },
+  {
+   "source": "mianbei-chiz",
+   "at": 338,
+   "kind": "build",
+   "character": "鉴定师(主角)",
+   "role": "爆发输出",
+   "arcs": "倾世之雨 休息日 无畏之绵",
+   "cartridge": "失落光芒",
+   "main": "环合强度",
+   "sub": "环合强度 > 暴击/暴伤 > 增伤 > 攻击% > 攻击力",
+   "talents": "天赋2 > 天赋1",
+   "skills": "小技能 > 大招 > 普攻 > 援护技",
+   "team": "盈蓄队"
+  },
+  {
+   "source": "mianbei-chiz",
+   "at": 338,
+   "kind": "build",
+   "character": "九原",
+   "role": "爆发输出",
+   "arcs": "现实避难所 = 引爆全场 > 无畏之绵",
+   "cartridge": "森林萤火之心",
+   "main": "暴击/暴伤",
+   "sub": "暴击/暴伤 > 增伤 > 攻击% > 攻击力",
+   "talents": "天赋1 > 天赋2",
+   "skills": "普攻 > 大招 > 小技能 > 援护技",
+   "team": "盈蓄队",
+   "note": {
+    "en": "Reality Refuge deals more damage itself; Blow up the Crowd raises the team's total damage",
+    "zh-tw": "現實避難所個人傷害高；引爆全場團隊總傷高",
+    "zh-cn": "现实避难所个人伤害高；引爆全场团队总伤高",
+    "ja": "現実の避難所は自身の火力が高く、熱狂の渦はチーム全体の火力が高い",
+    "ko": "현실 도피처는 개인 피해가 높고, 폭발 현장은 파티 총 피해가 높다"
+   }
+  },
+  {
+   "source": "mianbei-chiz",
+   "at": 428,
+   "kind": "team",
+   "label": "",
+   "members": [
+    [
+     "小吱"
+    ],
+    [
+     "哈索尔"
+    ],
+    [
+     "埃德嘉"
+    ],
+    [
+     "九原",
+     "娜娜莉"
+    ]
+   ]
+  },
+  {
+   "source": "mianbei-chiz",
+   "at": 428,
+   "kind": "build",
+   "character": "小吱",
+   "role": "主力输出",
+   "arcs": "思考喵",
+   "cartridge": "失落光芒",
+   "main": "增伤",
+   "sub": "增伤/暴伤 > 暴击率 > 攻击力",
+   "talents": "天赋1 > 天赋2",
+   "skills": "普攻 > 小技能 > 大招 > 援护技"
+  },
+  {
+   "source": "mianbei-chiz",
+   "at": 428,
+   "kind": "build",
+   "character": "哈索尔",
+   "role": "爆发输出",
+   "arcs": "焰魂狂飙",
+   "cartridge": "街头拳王",
+   "main": "暴击/暴伤",
+   "sub": "暴击/暴伤 > 增伤 > 攻击% > 攻击力",
+   "talents": "天赋2 > 天赋1",
+   "skills": "小技能 > 大招 > 普攻 > 援护技"
+  },
+  {
+   "source": "mianbei-chiz",
+   "at": 428,
+   "kind": "build",
+   "character": "埃德嘉",
+   "role": "回血",
+   "arcs": "扭曲之城的呼唤",
+   "cartridge": "音速蓝刺猬",
+   "main": "治疗效率",
+   "sub": "治疗效率 > 生命",
+   "talents": "天赋1 > 天赋2",
+   "skills": "大招 > 小技能 > 其他"
+  },
+  {
+   "source": "mianbei-chiz",
+   "at": 428,
+   "kind": "build",
+   "character": "九原",
+   "role": "爆发输出",
+   "arcs": "现实避难所 = 引爆全场 > 无畏之绵",
+   "cartridge": "森林萤火之心",
+   "main": "暴击/暴伤",
+   "sub": "暴击/暴伤 > 增伤 > 攻击% > 攻击力",
+   "talents": "天赋1 > 天赋2",
+   "skills": "普攻 > 大招 > 小技能 > 援护技",
+   "note": {
+    "en": "Reality Refuge deals more damage itself; Blow up the Crowd raises the team's total damage",
+    "zh-tw": "現實避難所個人傷害高；引爆全場團隊總傷高",
+    "zh-cn": "现实避难所个人伤害高；引爆全场团队总伤高",
+    "ja": "現実の避難所は自身の火力が高く、熱狂の渦はチーム全体の火力が高い",
+    "ko": "현실 도피처는 개인 피해가 높고, 폭발 현장은 파티 총 피해가 높다"
+   }
+  },
+  {
+   "source": "mianbei-nanally",
+   "at": 26,
+   "kind": "team",
+   "label": "创生队",
+   "members": [
+    [
+     "娜娜莉"
+    ],
+    [
+     "九原"
+    ],
+    [
+     "鉴定师(主角)"
+    ]
+   ],
+   "note": {
+    "en": "Plus any support",
+    "zh-tw": "再加任一輔助",
+    "zh-cn": "再加任一辅助",
+    "ja": "残りは任意のサポート",
+    "ko": "나머지는 아무 서포터"
+   }
+  },
+  {
+   "source": "mianbei-nanally",
+   "at": 192,
+   "kind": "team",
+   "label": "",
+   "members": [
+    [
+     "娜娜莉"
+    ],
+    [
+     "鉴定师(主角)"
+    ],
+    [
+     "九原"
+    ],
+    [
+     "早雾"
+    ]
+   ]
+  },
+  {
+   "source": "mianbei-nanally",
+   "at": 277,
+   "kind": "team",
+   "label": "",
+   "members": [
+    [
+     "娜娜莉"
+    ],
+    [
+     "早雾"
+    ],
+    [
+     "鉴定师(主角)"
+    ],
+    [
+     "埃德嘉",
+     "阿德勒"
+    ]
+   ]
+  },
+  {
+   "source": "mianbei-nanally",
+   "at": 675,
+   "kind": "team",
+   "label": "",
+   "members": [
+    [
+     "娜娜莉"
+    ],
+    [
+     "哈索尔"
+    ],
+    [
+     "早雾"
+    ],
+    [
+     "零(男主)"
+    ]
+   ],
+   "note": {
+    "en": "Without Jiuyuan",
+    "zh-tw": "沒有九原時",
+    "zh-cn": "没有九原时",
+    "ja": "九原がいない場合",
+    "ko": "구원이 없을 때"
+   }
+  },
+  {
+   "source": "mianbei-nanally",
+   "reply": 297114644609,
+   "kind": "build",
+   "character": "娜娜莉",
+   "role": "主力输出",
+   "arcs": "预备备 > 不屈之绵 > 焰魂狂飙/鲸之歌",
+   "cartridge": "森林萤火之心",
+   "main": "暴伤",
+   "sub": "增伤 > 双暴 > 攻击% > 固定攻击 > 其他",
+   "talents": "天赋1 > 天赋2",
+   "skills": "普攻 > 大招 > 小技能 > 援护技"
+  },
+  {
+   "source": "mianbei-nanally",
+   "reply": 297114644609,
+   "kind": "build",
+   "character": "鉴定师 (主角)",
+   "role": "爆发输出",
+   "arcs": "倾世之雨 休息日 无畏之绵",
+   "cartridge": "失落光芒",
+   "main": "环合强度",
+   "sub": "环合强度 > 暴击/暴伤 > 增伤 > 攻击% > 攻击力",
+   "talents": "天赋2 > 天赋1",
+   "skills": "小技能 > 大招 > 普攻 > 援护技"
+  },
+  {
+   "source": "mianbei-nanally",
+   "reply": 297114644609,
+   "kind": "build",
+   "character": "九原",
+   "role": "爆发输出",
+   "arcs": "现实避难所 = 引爆全场 > 无畏之绵",
+   "cartridge": "森林萤火之心",
+   "main": "暴击/暴伤",
+   "sub": "暴击/暴伤 > 增伤 > 攻击% > 攻击力",
+   "talents": "天赋1 > 天赋2",
+   "skills": "普攻 > 大招 > 小技能 > 援护技",
+   "note": {
+    "en": "Reality Refuge deals more damage itself; Blow up the Crowd raises the team's total damage",
+    "zh-tw": "現實避難所個人傷害高；引爆全場團隊總傷高",
+    "zh-cn": "现实避难所个人伤害高；引爆全场团队总伤高",
+    "ja": "現実の避難所は自身の火力が高く、熱狂の渦はチーム全体の火力が高い",
+    "ko": "현실 도피처는 개인 피해가 높고, 폭발 현장은 파티 총 피해가 높다"
+   }
+  },
+  {
+   "source": "mianbei-nanally",
+   "reply": 297114644609,
+   "kind": "build",
+   "character": "早雾",
+   "role": "辅助",
+   "arcs": "好狗狗走四方",
+   "cartridge": "音速蓝刺猬",
+   "main": "环合强度",
+   "sub": "环合强度/倾陷强度 > 其他",
+   "talents": "天赋1 > 天赋2",
+   "skills": "大招 > 小技能 > 普攻 > 援护技"
+  },
+  {
+   "source": "mianbei-nanally",
+   "reply": 297114644609,
+   "kind": "build",
+   "character": "埃德加",
+   "role": "回血",
+   "arcs": "扭曲之城的呼唤",
+   "cartridge": "音速蓝刺猬",
+   "main": "环合强度",
+   "sub": "环合强度 > 生命 > 其他",
+   "talents": "天赋1 > 天赋2",
+   "skills": "大招 > 小技能 > 其他"
+  },
+  {
+   "source": "mianbei-nanally",
+   "reply": 297114644609,
+   "kind": "build",
+   "character": "阿德勒",
+   "role": "护盾",
+   "arcs": "勿忘伞",
+   "cartridge": "守卫王国",
+   "main": "防御力",
+   "sub": "防御力 > 其他",
+   "talents": "天赋1 > 天赋2",
+   "skills": "小技能 > 其他"
+  }
+ ]
+}

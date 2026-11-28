@@ -35,7 +35,7 @@ import { bundlePath } from '../src/lib/llms.mjs';
 import { readPages } from '../src/lib/content-index.mjs';
 import { checkFound } from './check-found.mjs';
 import { checkHeadings } from './check-headings.mjs';
-import { checkHeaderAndOutputs, checkSelfReference, checkOpening } from './check-page-text.mjs';
+import { checkHeaderAndOutputs, checkSelfReference, checkOpening, checkCommunity } from './check-page-text.mjs';
 import { checkProse } from './prose-review.mjs';
 
 const DIST = fileURLToPath(new URL('../dist/', import.meta.url));
@@ -71,7 +71,7 @@ const firstIn = (dir) => {
 	const inDir = pages.map((p) => p.id).filter((id) => localeOf(id).dir === '' && (id === dir || id.startsWith(`${dir}/`)));
 	return inDir.includes(dir) ? dir : inDir.sort(collator.compare)[0];
 };
-const SECTIONS = [firstIn('versions'), firstIn('characters'), firstIn('anomalies'), 'items/gliders', 'systems/boards'];
+const SECTIONS = [firstIn('versions'), firstIn('characters'), firstIn('anomalies'), 'items/gliders', 'systems/boards', 'community'];
 const ids = new Set(pages.map((p) => p.id));
 /** Each language's llms.txt, by locale. */
 const llmsTxt = new Map(LOCALES.map((l) => [l, read(llmsPath(l).slice(1))]));
@@ -229,6 +229,11 @@ for (const { id, data } of pages) {
 	});
 	checkSelfReference(doc, id, fail);
 	checkOpening(doc, id, fail);
+	// The community section (../COMMUNITY.md): every judgment carries a link to its source.
+	const bare = localeOf(id).dir ? id.slice(localeOf(id).dir.length + 1) : id;
+	if (bare === 'community' || bare.startsWith('community/')) {
+		checkCommunity(doc, id, fail, (data.sources || []).map((s) => s.url.replace(/\/$/, '')));
+	}
 
 	// 5. No decoration leak into extracted text. Text that the Markdown source holds (game text
 	// that contains "###" or "█") is content, not decoration: the skin's marks are never in it.

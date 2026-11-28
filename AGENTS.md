@@ -2,7 +2,7 @@
 
 An unofficial wiki for the game Neverness to Everness (NTE, 異環), at `https://yuanaruru.com/nte-wiki/`. The rules in `../AGENTS.md` apply; this file holds what is specific to this site.
 
-Read before the work: `SOURCES.md` before fetching a source or taking game text from one (what each allows, how to read it, what each kind of game text is taken from, verified pitfalls); `pipeline/README.md` before running a pipeline script, translating into Japanese or Korean, or adding a portrait; `upstream/README.md` when `pnpm upstream` reports a difference, a version changes or a Board opens; `../COMMUNITY.md` when a version lands. The question list and test results are in `tests/agent-eval/`.
+Read before the work: `SOURCES.md` before fetching a source or taking game text from one (what each allows, how to read it, what each kind of game text is taken from, verified pitfalls); `pipeline/README.md` before running a pipeline script, translating into Japanese or Korean, or adding a portrait; `upstream/README.md` when `pnpm upstream` reports a difference, a version changes or a Board opens; `../COMMUNITY.md` before working on `community/` and when a version lands. The question list and test results are in `tests/agent-eval/`.
 
 ## Decisions
 
@@ -18,8 +18,9 @@ By the owner unless marked `agent`.
 - Official character introductions (2026-11-24): their facts (post, team, workplace, named weapon or companion) go in a Role row of the Profile table, in each language's wording; the descriptions of character and manner are left out. No sentence reports what the introduction says.
 - Anomaly files come from the nanoka.cc monster files, not from GameKee's player transcriptions: GameKee's user agreement (4.5) forbids copying and compiling its content.
 - The anomaly list (2026-11-26) has one row per anomaly commission in the nanoka.cc monster list, those without an archive file included; other commissions are not listed. A character whose archive the game has not opened gets no archive page.
-- Character pages describe skills. Skill names and effects come from Prydwen and are checked against Game8; damage values, tier lists and team builds are not copied. Each page ends with the per-level values of its four skills from the game data (2026-11-22).
+- Character pages describe skills. Skill names and effects come from Prydwen and are checked against Game8; damage values, tier lists and team builds are not copied; teams and builds appear only under `community/`. Each page ends with the per-level values of its four skills from the game data (2026-11-22).
 - Guide sites may supply a fact that the official sources lack when at least two of them agree, and the page names them in `sources`. A fact from one guide site, from the NGA forum or from the Bilibili channel 零号攻略组 alone is attributed in the sentence (2026-11-21).
+- Community section 社群攻略 (2026-11-28): first sources are the character guides of 叫我棉被 with 零号攻略组 on Bilibili, chosen by the owner; `pipeline/build_community.py` writes `community/` in every language from `records/community/`, each character showing only its newest version's guides (agent).
 - Time-limited facts are left out; prefer facts that two sites share.
 - The home page reaches the character pages through the character list, and each new set of pages the same way, through an index page it links (2026-11-23, 2026-11-25); `INDEX_PAGES` in `scripts/check-dist.mjs` names them. System pages are a plain link list on the home page. Each set of pages per character has an index page of its own under `characters/` (`archives`, `voices`), one row and one link per character; the character list keeps Character, Class and Attribute and links no sub-pages (2026-11-26). A new page set per character gets its own index page the same way.
 - Official art is used, although the publisher's Derivative Work Guidelines forbid direct copying of official materials. Remove an image when the publisher asks.
@@ -43,7 +44,7 @@ Game text from records: after any `zh-tw` change run the scripts in the order `p
 ## Content rules
 
 - Pages live in `src/content/docs/` (English) and its `zh-tw/`, `zh-cn/`, `ja/` and `ko/` folders. Addresses use the official English name in lower case: `characters/elyms`, `characters/daffodill`, `versions/1-5`.
-- Written by script, never by hand: every `zh-cn` page; the archive and voice line pages (`characters/<slug>/archive`, `/voice`) and their lists; the pages under `anomalies/` and `items/`; the Outfits description column, the Profile rows, and the description tables at the end of the Arcs and progression pages.
+- Written by script, never by hand: every `zh-cn` page; the archive and voice line pages (`characters/<slug>/archive`, `/voice`) and their lists; the pages under `anomalies/`, `items/` and `community/`; the Outfits description column, the Profile rows, and the description tables at the end of the Arcs and progression pages.
 - `scripts/to-zh-cn.py` replaces Taiwan wording with the wording of the official Simplified notices, converts the characters, swaps the title with its Simplified alias and points links at `/zh-cn/`; it skips the game-text pages. Run it after every change to a `zh-tw` page. When a `zh-tw` page brings in a new name, check it against the notices under `nte.perfectworld.com/cn/` and add a pair to `VOC` if the two differ. A `zh-tw` page whose title changes in Simplified characters needs that title among its aliases.
 - Links and images are root-relative and without the site's sub-path: `/characters/elyms/`, `/art/characters/elyms.webp`. In `zh-tw` pages, links start with `/zh-tw/`; image paths do not.
 - Optional frontmatter: `effectiveDate` (date of the newest official notice used), `aliases`, `art`, `hideAnswer` (archive pages: no visible answer line). Title and aliases together are the same set of strings in every language. `appliesTo` names the game version; `caveat` names the end of anything limited as an absolute date and time with `(UTC+8)`. Quote a value that contains a colon followed by a space.
@@ -60,7 +61,7 @@ Game text from records: after any `zh-tw` change run the scripts in the order `p
 - The skin is `src/styles/nte.css`. Text drawn with CSS `content` (marks, prefixes, counters, the cursor) needs a pattern in check 5 of `scripts/check-dist.mjs`.
 - The pixel font is Fusion Pixel 12px, used at 12, 24 or 36 px only; `scripts/subset-font.mjs` cuts it before every build. Licences, the Korean glyphs and the body font stacks per script: `pipeline/README.md` (Fonts).
 - Images are shown in a frame with an offset shadow. Screenshots need a wait of about two seconds for the opening animation.
-- Overrides: `SiteTitle`, `MarkdownContent`, `ThemeSelect`. The header links the five sections in the sidebar's order: versions, characters, anomalies, items and achievements, systems and names.
+- Overrides: `SiteTitle`, `MarkdownContent`, `ThemeSelect`. The header links the six sections in the sidebar's order, community guides last.
 
 ## Where things are
 
