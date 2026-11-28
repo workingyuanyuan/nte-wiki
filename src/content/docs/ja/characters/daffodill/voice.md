@@ -1,6 +1,6 @@
 ---
 title: ダフォディールのボイス
-description: NTE（異環）のキャラクター、ダフォディールのボイスは日常33件、戦闘60件である。
+description: ダフォディールのボイスは日常33件、戦闘60件である。
 aliases:
   - Daffodill voice lines
   - 達芙蒂爾語音

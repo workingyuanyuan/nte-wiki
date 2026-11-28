@@ -1,6 +1,6 @@
 ---
 title: エドガーのアーカイブ
-description: NTE（異環）のキャラクター、エドガーのアーカイブは6件である。
+description: エドガーのアーカイブは6件である。
 aliases:
   - Edgar archive
   - 埃德嘉個人檔案

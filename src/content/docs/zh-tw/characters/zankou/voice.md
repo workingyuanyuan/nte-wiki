@@ -1,6 +1,6 @@
 ---
 title: 殘虹語音
-description: 《異環》角色殘虹有日常語音 33 句、戰鬥語音 65 句。
+description: 殘虹有日常語音 33 句、戰鬥語音 65 句。
 aliases:
   - Zankou voice lines
   - 残虹语音

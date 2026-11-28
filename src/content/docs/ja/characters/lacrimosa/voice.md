@@ -1,6 +1,6 @@
 ---
 title: レクイエムのボイス
-description: NTE（異環）のキャラクター、レクイエムのボイスは日常35件、戦闘55件である。
+description: レクイエムのボイスは日常35件、戦闘55件である。
 aliases:
   - Lacrimosa voice lines
   - 安魂曲語音

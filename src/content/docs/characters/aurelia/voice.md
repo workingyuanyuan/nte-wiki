@@ -1,6 +1,6 @@
 ---
 title: Aurelia voice lines
-description: Aurelia has 29 daily and 46 combat voice lines in NTE.
+description: Aurelia has 29 daily and 46 combat voice lines.
 aliases:
   - 海月語音
   - 海月语音

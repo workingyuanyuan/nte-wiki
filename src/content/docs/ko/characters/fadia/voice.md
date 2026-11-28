@@ -1,6 +1,6 @@
 ---
 title: 파디아 보이스
-description: 이환(NTE) 캐릭터 파디아의 보이스는 일상 33개, 전투 52개다.
+description: 파디아의 보이스는 일상 33개, 전투 52개다.
 aliases:
   - Fadia voice lines
   - 法帝婭語音

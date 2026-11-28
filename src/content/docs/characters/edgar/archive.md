@@ -1,6 +1,6 @@
 ---
 title: Edgar archive
-description: Edgar has 6 archive entries in NTE.
+description: Edgar has 6 archive entries.
 aliases:
   - 埃德嘉個人檔案
   - 埃德嘉个人档案

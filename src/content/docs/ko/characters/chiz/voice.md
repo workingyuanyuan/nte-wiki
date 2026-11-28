@@ -1,6 +1,6 @@
 ---
 title: 치즈 보이스
-description: 이환(NTE) 캐릭터 치즈의 보이스는 일상 28개, 전투 44개다.
+description: 치즈의 보이스는 일상 28개, 전투 44개다.
 aliases:
   - Chiz voice lines
   - 小吱語音

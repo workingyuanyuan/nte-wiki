@@ -1,6 +1,6 @@
 ---
 title: アドレーのアーカイブ
-description: NTE（異環）のキャラクター、アドレーのアーカイブは7件である。
+description: アドレーのアーカイブは7件である。
 aliases:
   - Adler archive
   - 阿德勒個人檔案

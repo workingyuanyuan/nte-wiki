@@ -1,6 +1,6 @@
 ---
 title: 엘림 아카이브
-description: 이환(NTE) 캐릭터 엘림의 아카이브는 6건이다.
+description: 엘림의 아카이브는 6건이다.
 aliases:
   - Elyms archive
   - 曳爾沐個人檔案

@@ -1,6 +1,6 @@
 ---
 title: 魔の書
-description: 魔の書はNTE（異環）の異象で、コードはC-7111[Ob]である。
+description: 魔の書は異象で、コードはC-7111[Ob]である。
 aliases:
   - Black Tome
   - 黑之書

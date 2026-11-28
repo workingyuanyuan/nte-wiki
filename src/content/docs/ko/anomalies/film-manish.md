@@ -1,6 +1,6 @@
 ---
 title: 필름-MANISH
-description: 이환(NTE)의 이상 필름-MANISH의 코드는 R-5791[Ob]다.
+description: 이상 필름-MANISH의 코드는 R-5791[Ob]다.
 aliases:
   - Film - MANISH
   - 膠捲-MANISH

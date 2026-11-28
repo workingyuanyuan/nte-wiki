@@ -1,6 +1,6 @@
 ---
 title: 音霸魔王
-description: 音霸魔王是《異環》的異象，編號 R-8998[Ob]。
+description: 音霸魔王是異象，編號 R-8998[Ob]。
 aliases:
   - Beat King
   - 音ゲー魔王

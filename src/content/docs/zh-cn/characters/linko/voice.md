@@ -1,6 +1,6 @@
 ---
 title: 灵可语音
-description: 《异环》角色灵可有日常语音 34 句、战斗语音 61 句。
+description: 灵可有日常语音 34 句、战斗语音 61 句。
 aliases:
   - Linko voice lines
   - 靈可語音

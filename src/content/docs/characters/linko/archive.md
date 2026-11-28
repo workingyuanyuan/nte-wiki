@@ -1,6 +1,6 @@
 ---
 title: Linko archive
-description: Linko has 7 archive entries in NTE.
+description: Linko has 7 archive entries.
 aliases:
   - 靈可個人檔案
   - 灵可个人档案

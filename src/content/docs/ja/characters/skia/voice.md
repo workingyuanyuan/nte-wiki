@@ -1,6 +1,6 @@
 ---
 title: 翳のボイス
-description: NTE（異環）のキャラクター、翳のボイスは日常33件、戦闘53件である。
+description: 翳のボイスは日常33件、戦闘53件である。
 aliases:
   - Skia voice lines
   - 翳語音

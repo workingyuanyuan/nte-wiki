@@ -1,6 +1,6 @@
 ---
 title: 真紅語音
-description: 《異環》角色真紅有日常語音 33 句、戰鬥語音 56 句。
+description: 真紅有日常語音 33 句、戰鬥語音 56 句。
 aliases:
   - Shinku voice lines
   - 真红语音

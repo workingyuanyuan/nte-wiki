@@ -1,6 +1,6 @@
 ---
 title: Iroi voice lines
-description: Iroi has 32 daily and 50 combat voice lines in NTE.
+description: Iroi has 32 daily and 50 combat voice lines.
 aliases:
   - 伊洛伊語音
   - 伊洛伊语音

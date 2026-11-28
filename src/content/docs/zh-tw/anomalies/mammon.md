@@ -1,6 +1,6 @@
 ---
 title: 瑪門
-description: 瑪門是《異環》的異象，編號 C-4103[Or]。
+description: 瑪門是異象，編號 C-4103[Or]。
 aliases:
   - Mammon
   - 玛门

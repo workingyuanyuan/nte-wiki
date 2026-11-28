@@ -1,6 +1,6 @@
 ---
 title: 九原語音
-description: 《異環》角色九原有日常語音 32 句、戰鬥語音 48 句。
+description: 九原有日常語音 32 句、戰鬥語音 48 句。
 aliases:
   - Jiuyuan voice lines
   - 九原语音

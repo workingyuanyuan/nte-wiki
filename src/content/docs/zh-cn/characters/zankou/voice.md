@@ -1,6 +1,6 @@
 ---
 title: 残虹语音
-description: 《异环》角色残虹有日常语音 33 句、战斗语音 65 句。
+description: 残虹有日常语音 33 句、战斗语音 65 句。
 aliases:
   - Zankou voice lines
   - 殘虹語音

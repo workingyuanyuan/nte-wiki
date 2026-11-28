@@ -1,6 +1,6 @@
 ---
 title: 白蔵のアーカイブ
-description: NTE（異環）のキャラクター、白蔵のアーカイブは6件である。
+description: 白蔵のアーカイブは6件である。
 aliases:
   - Baicang archive
   - 白藏個人檔案

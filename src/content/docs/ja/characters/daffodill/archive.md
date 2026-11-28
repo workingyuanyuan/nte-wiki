@@ -1,6 +1,6 @@
 ---
 title: ダフォディールのアーカイブ
-description: NTE（異環）のキャラクター、ダフォディールのアーカイブは8件である。
+description: ダフォディールのアーカイブは8件である。
 aliases:
   - Daffodill archive
   - 達芙蒂爾個人檔案

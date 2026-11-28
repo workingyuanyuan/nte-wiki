@@ -1,6 +1,6 @@
 ---
 title: 九原個人檔案
-description: 《異環》角色九原的個人檔案共有 6 則。
+description: 九原的個人檔案共有 6 則。
 aliases:
   - Jiuyuan archive
   - 九原个人档案

@@ -1,6 +1,6 @@
 ---
 title: ちぃちゃんのアーカイブ
-description: NTE（異環）のキャラクター、ちぃちゃんのアーカイブは6件である。
+description: ちぃちゃんのアーカイブは6件である。
 aliases:
   - Chiz archive
   - 小吱個人檔案

@@ -1,6 +1,6 @@
 ---
 title: 레이븐 아카이브
-description: 이환(NTE) 캐릭터 레이븐의 아카이브는 8건이다.
+description: 레이븐의 아카이브는 8건이다.
 aliases:
   - Blackbird archive
   - 黑羽個人檔案

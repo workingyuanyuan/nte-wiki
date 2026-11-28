@@ -1,6 +1,6 @@
 ---
 title: 安魂曲個人檔案
-description: 《異環》角色安魂曲的個人檔案共有 6 則。
+description: 安魂曲的個人檔案共有 6 則。
 aliases:
   - Lacrimosa archive
   - 安魂曲个人档案

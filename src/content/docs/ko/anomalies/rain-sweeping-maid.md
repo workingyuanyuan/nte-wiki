@@ -1,6 +1,6 @@
 ---
 title: 맑음 인형
-description: 이환(NTE)의 이상 맑음 인형의 코드는 T-1291[Or]다.
+description: 이상 맑음 인형의 코드는 T-1291[Or]다.
 aliases:
   - Rain-Sweeping Maid
   - 掃晴娘

@@ -17,7 +17,7 @@ AL = {
     'en': dict(
         index='Anomalies', manual='Enemy manual',
         index_desc='Anomalies that the player defeats in {n} NTE anomaly commissions; {a} of them have an archive file.',
-        page_desc='{name} is an NTE anomaly with the code {code}.',
+        page_desc='{name} is an anomaly with the code {code}.',
         manual_desc="NTE's enemy manual has {n} entries: {b} bosses, {e} elite and {c} common enemies.",
         fact='Fact', value='Value', code='Code', anomaly='Anomaly', permission='Permission', level='Level',
         commission='Anomaly commission', difficulty='Difficulty', sep=', ',
@@ -29,7 +29,7 @@ AL = {
     'zh-tw': dict(
         index='異象列表', manual='敵人圖鑑',
         index_desc='玩家在《異環》{n} 個異象委託中擊敗的異象，其中 {a} 個有異象檔案。',
-        page_desc='{name}是《異環》的異象，編號 {code}。',
+        page_desc='{name}是異象，編號 {code}。',
         manual_desc='《異環》的敵人圖鑑共 {n} 筆：首領 {b} 個、精英敵人 {e} 個、普通敵人 {c} 個。',
         fact='項目', value='內容', code='編號', anomaly='異象', permission='權限', level='等級',
         commission='異象委託', difficulty='難度', sep='、',
@@ -42,7 +42,7 @@ AL = {
     'zh-cn': dict(
         index='异象列表', manual='敌人图鉴',
         index_desc='玩家在《异环》{n} 个异象委托中击败的异象，其中 {a} 个有异象档案。',
-        page_desc='{name}是《异环》的异象，编号 {code}。',
+        page_desc='{name}是异象，编号 {code}。',
         manual_desc='《异环》的敌人图鉴共 {n} 条：首领 {b} 个、精英敌人 {e} 个、普通敌人 {c} 个。',
         fact='项目', value='内容', code='编号', anomaly='异象', permission='权限', level='等级',
         commission='异象委托', difficulty='难度', sep='、',
@@ -54,7 +54,7 @@ AL = {
     'ja': dict(
         index='異象一覧', manual='敵図鑑',
         index_desc='NTE（異環）の異象依頼{n}件でプレイヤーが倒す異象。そのうち{a}体に異象ファイルがある。',
-        page_desc='{name}はNTE（異環）の異象で、コードは{code}である。',
+        page_desc='{name}は異象で、コードは{code}である。',
         manual_desc='NTE（異環）の敵図鑑は{n}件で、ボス{b}体、エリート敵{e}体、通常の敵{c}体である。',
         fact='項目', value='内容', code='コード', anomaly='異象', permission='権限', level='レベル',
         commission='異象依頼', difficulty='難易度', sep='、',
@@ -66,7 +66,7 @@ AL = {
     'ko': dict(
         index='이상 목록', manual='적 도감',
         index_desc='이환(NTE)의 이상 의뢰 {n}개에서 플레이어가 처치하는 이상으로, 그중 {a}개에 이상 파일이 있다.',
-        page_desc='이환(NTE)의 이상 {name}의 코드는 {code}다.',
+        page_desc='이상 {name}의 코드는 {code}다.',
         manual_desc='이환(NTE)의 적 도감은 {n}개로, 보스 {b}개, 엘리트 적 {e}개, 일반 적 {c}개다.',
         fact='항목', value='내용', code='코드', anomaly='이상', permission='권한', level='등급',
         commission='이상 의뢰', difficulty='난이도', sep=', ',

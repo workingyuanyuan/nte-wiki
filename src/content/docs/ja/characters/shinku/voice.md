@@ -1,6 +1,6 @@
 ---
 title: 真紅のボイス
-description: NTE（異環）のキャラクター、真紅のボイスは日常33件、戦闘56件である。
+description: 真紅のボイスは日常33件、戦闘56件である。
 aliases:
   - Shinku voice lines
   - 真紅語音

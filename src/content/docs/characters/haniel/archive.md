@@ -1,6 +1,6 @@
 ---
 title: Haniel archive
-description: Haniel has 6 archive entries in NTE.
+description: Haniel has 6 archive entries.
 aliases:
   - 哈尼婭個人檔案
   - 哈尼娅个人档案

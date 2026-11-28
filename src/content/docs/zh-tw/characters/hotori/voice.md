@@ -1,6 +1,6 @@
 ---
 title: 潯語音
-description: 《異環》角色潯有日常語音 35 句、戰鬥語音 65 句。
+description: 潯有日常語音 35 句、戰鬥語音 65 句。
 aliases:
   - Hotori voice lines
   - 浔语音

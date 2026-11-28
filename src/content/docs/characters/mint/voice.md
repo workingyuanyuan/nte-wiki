@@ -1,6 +1,6 @@
 ---
 title: Mint voice lines
-description: Mint has 38 daily and 59 combat voice lines in NTE.
+description: Mint has 38 daily and 59 combat voice lines.
 aliases:
   - 薄荷語音
   - 薄荷语音

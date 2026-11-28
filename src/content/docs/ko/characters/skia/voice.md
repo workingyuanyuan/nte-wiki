@@ -1,6 +1,6 @@
 ---
 title: 스키아 보이스
-description: 이환(NTE) 캐릭터 스키아의 보이스는 일상 33개, 전투 53개다.
+description: 스키아의 보이스는 일상 33개, 전투 53개다.
 aliases:
   - Skia voice lines
   - 翳語音

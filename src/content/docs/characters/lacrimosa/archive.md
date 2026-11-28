@@ -1,6 +1,6 @@
 ---
 title: Lacrimosa archive
-description: Lacrimosa has 6 archive entries in NTE.
+description: Lacrimosa has 6 archive entries.
 aliases:
   - 安魂曲個人檔案
   - 安魂曲个人档案

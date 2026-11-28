@@ -1,6 +1,6 @@
 ---
 title: 娜娜莉个人档案
-description: 《异环》角色娜娜莉的个人档案共有 6 则。
+description: 娜娜莉的个人档案共有 6 则。
 aliases:
   - Nanally archive
   - 娜娜莉個人檔案

@@ -1,6 +1,6 @@
 ---
 title: ミントのボイス
-description: NTE（異環）のキャラクター、ミントのボイスは日常38件、戦闘59件である。
+description: ミントのボイスは日常38件、戦闘59件である。
 aliases:
   - Mint voice lines
   - 薄荷語音

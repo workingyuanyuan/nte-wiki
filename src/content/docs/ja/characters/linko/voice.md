@@ -1,6 +1,6 @@
 ---
 title: リンコのボイス
-description: NTE（異環）のキャラクター、リンコのボイスは日常34件、戦闘61件である。
+description: リンコのボイスは日常34件、戦闘61件である。
 aliases:
   - Linko voice lines
   - 靈可語音

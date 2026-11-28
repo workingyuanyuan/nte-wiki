@@ -1,6 +1,6 @@
 ---
 title: 无首铁驭
-description: 无首铁驭是《异环》的异象，编号 T-8467[Or]。
+description: 无首铁驭是异象，编号 T-8467[Or]。
 aliases:
   - Headless Rider
   - 無首鐵馭

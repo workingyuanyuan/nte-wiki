@@ -1,6 +1,6 @@
 ---
 title: Jiuyuan archive
-description: Jiuyuan has 6 archive entries in NTE.
+description: Jiuyuan has 6 archive entries.
 aliases:
   - 九原個人檔案
   - 九原个人档案

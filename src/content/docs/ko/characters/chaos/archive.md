@@ -1,6 +1,6 @@
 ---
 title: 카오스 아카이브
-description: 이환(NTE) 캐릭터 카오스의 아카이브는 7건이다.
+description: 카오스의 아카이브는 7건이다.
 aliases:
   - Chaos archive
   - 卡厄斯個人檔案

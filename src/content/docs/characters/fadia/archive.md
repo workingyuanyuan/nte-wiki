@@ -1,6 +1,6 @@
 ---
 title: Fadia archive
-description: Fadia has 6 archive entries in NTE.
+description: Fadia has 6 archive entries.
 aliases:
   - 法帝婭個人檔案
   - 法帝娅个人档案

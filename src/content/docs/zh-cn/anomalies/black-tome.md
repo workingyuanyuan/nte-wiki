@@ -1,6 +1,6 @@
 ---
 title: 黑之书
-description: 黑之书是《异环》的异象，编号 C-7111[Ob]。
+description: 黑之书是异象，编号 C-7111[Ob]。
 aliases:
   - Black Tome
   - 黑之書

@@ -1,6 +1,6 @@
 ---
 title: Haniel voice lines
-description: Haniel has 33 daily and 50 combat voice lines in NTE.
+description: Haniel has 33 daily and 50 combat voice lines.
 aliases:
   - 哈尼婭語音
   - 哈尼娅语音

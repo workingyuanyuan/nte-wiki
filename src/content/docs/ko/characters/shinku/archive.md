@@ -1,6 +1,6 @@
 ---
 title: 신쿠 아카이브
-description: 이환(NTE) 캐릭터 신쿠의 아카이브는 7건이다.
+description: 신쿠의 아카이브는 7건이다.
 aliases:
   - Shinku archive
   - 真紅個人檔案

@@ -1,6 +1,6 @@
 ---
 title: 哈索爾語音
-description: 《異環》角色哈索爾有日常語音 32 句、戰鬥語音 48 句。
+description: 哈索爾有日常語音 32 句、戰鬥語音 48 句。
 aliases:
   - Hathor voice lines
   - 哈索尔语音

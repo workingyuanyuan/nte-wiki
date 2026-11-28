@@ -1,6 +1,6 @@
 ---
 title: マモン
-description: マモンはNTE（異環）の異象で、コードはC-4103[Or]である。
+description: マモンは異象で、コードはC-4103[Or]である。
 aliases:
   - Mammon
   - 瑪門

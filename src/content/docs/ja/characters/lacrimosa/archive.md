@@ -1,6 +1,6 @@
 ---
 title: レクイエムのアーカイブ
-description: NTE（異環）のキャラクター、レクイエムのアーカイブは6件である。
+description: レクイエムのアーカイブは6件である。
 aliases:
   - Lacrimosa archive
   - 安魂曲個人檔案

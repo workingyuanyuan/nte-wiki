@@ -1,6 +1,6 @@
 ---
 title: Skia archive
-description: Skia has 6 archive entries in NTE.
+description: Skia has 6 archive entries.
 aliases:
   - 翳個人檔案
   - 翳个人档案

@@ -1,6 +1,6 @@
 ---
 title: 이능력자·제로
-description: 이능력자·제로는 이환의 플레이어 캐릭터이자 빛속성의 S급 캐릭터이다.
+description: 이능력자·제로는 플레이어 캐릭터이자 빛속성의 S급 캐릭터이다.
 aliases:
   - Esper Zero
   - Zero

@@ -1,6 +1,6 @@
 ---
 title: 阿德勒個人檔案
-description: 《異環》角色阿德勒的個人檔案共有 7 則。
+description: 阿德勒的個人檔案共有 7 則。
 aliases:
   - Adler archive
   - 阿德勒个人档案

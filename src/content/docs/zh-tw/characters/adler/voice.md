@@ -1,6 +1,6 @@
 ---
 title: 阿德勒語音
-description: 《異環》角色阿德勒有日常語音 35 句、戰鬥語音 56 句。
+description: 阿德勒有日常語音 35 句、戰鬥語音 56 句。
 aliases:
   - Adler voice lines
   - 阿德勒语音

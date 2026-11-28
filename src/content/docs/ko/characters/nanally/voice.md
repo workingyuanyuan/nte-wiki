@@ -1,6 +1,6 @@
 ---
 title: 나나리 보이스
-description: 이환(NTE) 캐릭터 나나리의 보이스는 일상 34개, 전투 55개다.
+description: 나나리의 보이스는 일상 34개, 전투 55개다.
 aliases:
   - Nanally voice lines
   - 娜娜莉語音

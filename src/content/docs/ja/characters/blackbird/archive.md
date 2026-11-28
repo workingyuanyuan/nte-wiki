@@ -1,6 +1,6 @@
 ---
 title: クロバネのアーカイブ
-description: NTE（異環）のキャラクター、クロバネのアーカイブは8件である。
+description: クロバネのアーカイブは8件である。
 aliases:
   - Blackbird archive
   - 黑羽個人檔案

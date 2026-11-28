@@ -1,6 +1,6 @@
 ---
 title: 薔薇の夜の幻影
-description: 薔薇の夜の幻影はNTE（異環）の異象で、コードはT-1881[Ob]である。
+description: 薔薇の夜の幻影は異象で、コードはT-1881[Ob]である。
 aliases:
   - Scarlet Phantom
   - 瑰夜魅影

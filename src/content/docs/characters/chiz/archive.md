@@ -1,6 +1,6 @@
 ---
 title: Chiz archive
-description: Chiz has 6 archive entries in NTE.
+description: Chiz has 6 archive entries.
 aliases:
   - 小吱個人檔案
   - 小吱个人档案

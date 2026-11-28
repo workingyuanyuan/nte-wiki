@@ -1,6 +1,6 @@
 ---
 title: Fadia voice lines
-description: Fadia has 33 daily and 52 combat voice lines in NTE.
+description: Fadia has 33 daily and 52 combat voice lines.
 aliases:
   - 法帝婭語音
   - 法帝娅语音

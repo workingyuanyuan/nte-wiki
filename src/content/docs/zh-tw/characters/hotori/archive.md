@@ -1,6 +1,6 @@
 ---
 title: 潯個人檔案
-description: 《異環》角色潯的個人檔案共有 5 則。
+description: 潯的個人檔案共有 5 則。
 aliases:
   - Hotori archive
   - 浔个人档案

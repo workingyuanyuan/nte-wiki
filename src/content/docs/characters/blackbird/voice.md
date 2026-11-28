@@ -1,6 +1,6 @@
 ---
 title: Blackbird voice lines
-description: Blackbird has 32 daily and 61 combat voice lines in NTE.
+description: Blackbird has 32 daily and 61 combat voice lines.
 aliases:
   - 黑羽語音
   - 黑羽语音

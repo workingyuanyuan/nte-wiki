@@ -1,6 +1,6 @@
 ---
 title: 埃德嘉个人档案
-description: 《异环》角色埃德嘉的个人档案共有 6 则。
+description: 埃德嘉的个人档案共有 6 则。
 aliases:
   - Edgar archive
   - 埃德嘉個人檔案

@@ -1,6 +1,6 @@
 ---
 title: 哈索爾個人檔案
-description: 《異環》角色哈索爾的個人檔案共有 6 則。
+description: 哈索爾的個人檔案共有 6 則。
 aliases:
   - Hathor archive
   - 哈索尔个人档案

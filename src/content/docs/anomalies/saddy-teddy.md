@@ -1,6 +1,6 @@
 ---
 title: Saddy Teddy
-description: Saddy Teddy is an NTE anomaly with the code C-3091-2[Ob].
+description: Saddy Teddy is an anomaly with the code C-3091-2[Ob].
 aliases:
   - 傷心英熊
   - 伤心英熊

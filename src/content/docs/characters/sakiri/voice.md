@@ -1,6 +1,6 @@
 ---
 title: Sakiri voice lines
-description: Sakiri has 35 daily and 55 combat voice lines in NTE.
+description: Sakiri has 35 daily and 55 combat voice lines.
 aliases:
   - 早霧語音
   - 早雾语音

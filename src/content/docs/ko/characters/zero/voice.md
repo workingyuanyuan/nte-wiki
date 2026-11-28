@@ -1,6 +1,6 @@
 ---
 title: 이능력자·제로 보이스
-description: 이환(NTE) 캐릭터 이능력자·제로의 보이스는 일상 3개, 전투 58개다.
+description: 이능력자·제로의 보이스는 일상 3개, 전투 58개다.
 aliases:
   - Esper Zero voice lines
   - 異能者·零語音

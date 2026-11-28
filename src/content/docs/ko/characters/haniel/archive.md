@@ -1,6 +1,6 @@
 ---
 title: 하니엘 아카이브
-description: 이환(NTE) 캐릭터 하니엘의 아카이브는 6건이다.
+description: 하니엘의 아카이브는 6건이다.
 aliases:
   - Haniel archive
   - 哈尼婭個人檔案

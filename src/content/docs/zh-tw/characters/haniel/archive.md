@@ -1,6 +1,6 @@
 ---
 title: 哈尼婭個人檔案
-description: 《異環》角色哈尼婭的個人檔案共有 6 則。
+description: 哈尼婭的個人檔案共有 6 則。
 aliases:
   - Haniel archive
   - 哈尼娅个人档案

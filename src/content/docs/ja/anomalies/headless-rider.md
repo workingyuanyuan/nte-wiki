@@ -1,6 +1,6 @@
 ---
 title: デュラハン
-description: デュラハンはNTE（異環）の異象で、コードはT-8467[Or]である。
+description: デュラハンは異象で、コードはT-8467[Or]である。
 aliases:
   - Headless Rider
   - 無首鐵馭

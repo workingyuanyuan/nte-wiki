@@ -149,6 +149,18 @@ for (const { id, data } of pages) {
 
 	// The answer under the title is one short sentence.
 	const maxAnswer = localeOf(id).lang === 'en' ? 110 : 70;
+	// On a page about one thing (a character, a chapter), the answer line does not repeat the game's
+	// name: the reader is on that game's wiki (root AGENTS.md, Content contract).
+	{
+		const loc = localeOf(id);
+		const bare = loc.dir && id.startsWith(loc.dir + '/') ? id.slice(loc.dir.length + 1) : id;
+		const home = pages.find((p) => p.id === (loc.dir || 'index'))?.data;
+		if (home && /^(characters|anomalies)\/(?!(archives|voices|enemies)$)./.test(bare)) {
+			const names = [home.title, ...(home.aliases ?? [])].map((n) => String(n).replace(/\s*(wiki|위키)$/i, '')).filter((n) => n.length >= 3);
+			const hit = names.find((n) => String(data.description).includes(n));
+			if (hit) fail(id, `the answer line repeats the game's name (${hit}); the page is about one thing of the game`);
+		}
+	}
 	if (String(data.description).length > maxAnswer) fail(id, `description is ${String(data.description).length} characters; the limit is ${maxAnswer}`);
 
 	// 3. First 5,000 characters
@@ -297,6 +309,13 @@ for (const home of pages.filter((p) => p.id === 'index' || LOCALES.some((l) => l
 	// A game wiki's home page shows an official key visual of the game (root AGENTS.md, Visible page).
 	const homeHtml = read((htmlPath(home.id) + 'index.html').slice(1));
 	if (!/<img[^>]+src="[^"]*\/art\/key-visual\.webp"/.test(homeHtml)) fail(home.id, 'the home page shows no key visual (/art/key-visual.webp)');
+	// A game wiki's home page says in its answer line what the game is: its name and when it came out,
+	// not a list of what the site holds (root AGENTS.md, Content contract).
+	{
+		const game = String(home.data.title).replace(/\s*(wiki|위키)$/i, '');
+		if (!String(home.data.description).includes(game) || !/\d{4}-\d{2}-\d{2}/.test(String(home.data.description)))
+			fail(home.id, `the home page's description does not say what ${game} is (its name and its release date)`);
+	}
 	for (const ix of INDEX_PAGES) {
 		const ixId = prefix + ix;
 		if (!heads.has(ixId)) continue;

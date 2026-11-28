@@ -1,6 +1,6 @@
 ---
 title: Sea Prisoner
-description: Sea Prisoner is an NTE anomaly with the code R-1851[Or].
+description: Sea Prisoner is an anomaly with the code R-1851[Or].
 aliases:
   - 海囚
   - シープリズン

@@ -1,6 +1,6 @@
 ---
 title: 小吱语音
-description: 《异环》角色小吱有日常语音 28 句、战斗语音 44 句。
+description: 小吱有日常语音 28 句、战斗语音 44 句。
 aliases:
   - Chiz voice lines
   - 小吱語音

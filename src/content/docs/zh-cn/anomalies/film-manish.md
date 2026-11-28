@@ -1,6 +1,6 @@
 ---
 title: 胶卷-MANISH
-description: 胶卷-MANISH是《异环》的异象，编号 R-5791[Ob]。
+description: 胶卷-MANISH是异象，编号 R-5791[Ob]。
 aliases:
   - Film - MANISH
   - 膠捲-MANISH

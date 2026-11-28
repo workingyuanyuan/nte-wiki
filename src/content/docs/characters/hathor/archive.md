@@ -1,6 +1,6 @@
 ---
 title: Hathor archive
-description: Hathor has 6 archive entries in NTE.
+description: Hathor has 6 archive entries.
 aliases:
   - 哈索爾個人檔案
   - 哈索尔个人档案

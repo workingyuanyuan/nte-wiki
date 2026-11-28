@@ -1,6 +1,6 @@
 ---
 title: シープリズン
-description: シープリズンはNTE（異環）の異象で、コードはR-1851[Or]である。
+description: シープリズンは異象で、コードはR-1851[Or]である。
 aliases:
   - Sea Prisoner
   - 海囚

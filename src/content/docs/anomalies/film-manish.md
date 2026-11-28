@@ -1,6 +1,6 @@
 ---
 title: Film - MANISH
-description: Film - MANISH is an NTE anomaly with the code R-5791[Ob].
+description: Film - MANISH is an anomaly with the code R-5791[Ob].
 aliases:
   - 膠捲-MANISH
   - 胶卷-MANISH

@@ -1,6 +1,6 @@
 ---
 title: 아들러 아카이브
-description: 이환(NTE) 캐릭터 아들러의 아카이브는 7건이다.
+description: 아들러의 아카이브는 7건이다.
 aliases:
   - Adler archive
   - 阿德勒個人檔案

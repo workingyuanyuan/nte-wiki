@@ -1,6 +1,6 @@
 ---
 title: 신쿠 보이스
-description: 이환(NTE) 캐릭터 신쿠의 보이스는 일상 33개, 전투 56개다.
+description: 신쿠의 보이스는 일상 33개, 전투 56개다.
 aliases:
   - Shinku voice lines
   - 真紅語音

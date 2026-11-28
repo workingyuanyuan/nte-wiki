@@ -1,6 +1,6 @@
 ---
 title: 구원 아카이브
-description: 이환(NTE) 캐릭터 구원의 아카이브는 6건이다.
+description: 구원의 아카이브는 6건이다.
 aliases:
   - Jiuyuan archive
   - 九原個人檔案

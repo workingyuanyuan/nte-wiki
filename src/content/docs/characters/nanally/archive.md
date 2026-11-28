@@ -1,6 +1,6 @@
 ---
 title: Nanally archive
-description: Nanally has 6 archive entries in NTE.
+description: Nanally has 6 archive entries.
 aliases:
   - 娜娜莉個人檔案
   - 娜娜莉个人档案

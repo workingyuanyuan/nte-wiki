@@ -49,8 +49,6 @@ sources:
 | Launch | 2026-04-29, 11:00 |
 | Platforms | PC, Mac, iOS, Android, PlayStation 5 |
 | Setting | Hethereau; the player is the Appraiser of the antique shop Eibon |
-| Current version | 1.5 "Once Upon a Glitched Call", since 2026-11-11 |
-| Current Limited Boards | Elyms and Shinku, until 2026-12-02 05:59 |
 
 ## Versions
 

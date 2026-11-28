@@ -1,6 +1,6 @@
 ---
 title: 卡厄斯个人档案
-description: 《异环》角色卡厄斯的个人档案共有 7 则。
+description: 卡厄斯的个人档案共有 7 则。
 aliases:
   - Chaos archive
   - 卡厄斯個人檔案

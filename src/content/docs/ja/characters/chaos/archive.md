@@ -1,6 +1,6 @@
 ---
 title: カオスのアーカイブ
-description: NTE（異環）のキャラクター、カオスのアーカイブは7件である。
+description: カオスのアーカイブは7件である。
 aliases:
   - Chaos archive
   - 卡厄斯個人檔案

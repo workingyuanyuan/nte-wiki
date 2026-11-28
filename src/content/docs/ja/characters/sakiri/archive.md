@@ -1,6 +1,6 @@
 ---
 title: 早霧のアーカイブ
-description: NTE（異環）のキャラクター、早霧のアーカイブは6件である。
+description: 早霧のアーカイブは6件である。
 aliases:
   - Sakiri archive
   - 早霧個人檔案

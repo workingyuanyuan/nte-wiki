@@ -1,6 +1,6 @@
 ---
 title: Esper Zero voice lines
-description: Esper Zero has 3 daily and 58 combat voice lines in NTE.
+description: Esper Zero has 3 daily and 58 combat voice lines.
 aliases:
   - 異能者·零語音
   - 异能者·零语音

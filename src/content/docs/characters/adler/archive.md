@@ -1,6 +1,6 @@
 ---
 title: Adler archive
-description: Adler has 7 archive entries in NTE.
+description: Adler has 7 archive entries.
 aliases:
   - 阿德勒個人檔案
   - 阿德勒个人档案

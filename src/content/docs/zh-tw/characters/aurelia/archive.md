@@ -1,6 +1,6 @@
 ---
 title: 海月個人檔案
-description: 《異環》角色海月的個人檔案共有 6 則。
+description: 海月的個人檔案共有 6 則。
 aliases:
   - Aurelia archive
   - 海月个人档案

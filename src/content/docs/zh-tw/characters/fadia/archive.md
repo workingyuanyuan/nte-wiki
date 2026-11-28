@@ -1,6 +1,6 @@
 ---
 title: 法帝婭個人檔案
-description: 《異環》角色法帝婭的個人檔案共有 6 則。
+description: 法帝婭的個人檔案共有 6 則。
 aliases:
   - Fadia archive
   - 法帝娅个人档案

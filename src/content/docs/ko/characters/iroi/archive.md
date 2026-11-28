@@ -1,6 +1,6 @@
 ---
 title: 일로이 아카이브
-description: 이환(NTE) 캐릭터 일로이의 아카이브는 7건이다.
+description: 일로이의 아카이브는 7건이다.
 aliases:
   - Iroi archive
   - 伊洛伊個人檔案

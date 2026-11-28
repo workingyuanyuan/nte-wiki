@@ -1,6 +1,6 @@
 ---
 title: 九原のボイス
-description: NTE（異環）のキャラクター、九原のボイスは日常32件、戦闘48件である。
+description: 九原のボイスは日常32件、戦闘48件である。
 aliases:
   - Jiuyuan voice lines
   - 九原語音

@@ -1,6 +1,6 @@
 ---
 title: 卡厄斯語音
-description: 《異環》角色卡厄斯有日常語音 34 句、戰鬥語音 51 句。
+description: 卡厄斯有日常語音 34 句、戰鬥語音 51 句。
 aliases:
   - Chaos voice lines
   - 卡厄斯语音

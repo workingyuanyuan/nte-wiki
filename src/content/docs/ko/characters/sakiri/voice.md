@@ -1,6 +1,6 @@
 ---
 title: 사키리 보이스
-description: 이환(NTE) 캐릭터 사키리의 보이스는 일상 35개, 전투 55개다.
+description: 사키리의 보이스는 일상 35개, 전투 55개다.
 aliases:
   - Sakiri voice lines
   - 早霧語音

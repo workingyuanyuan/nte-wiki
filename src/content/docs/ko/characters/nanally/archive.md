@@ -1,6 +1,6 @@
 ---
 title: 나나리 아카이브
-description: 이환(NTE) 캐릭터 나나리의 아카이브는 6건이다.
+description: 나나리의 아카이브는 6건이다.
 aliases:
   - Nanally archive
   - 娜娜莉個人檔案

@@ -1,6 +1,6 @@
 ---
 title: 埃德嘉語音
-description: 《異環》角色埃德嘉有日常語音 35 句、戰鬥語音 57 句。
+description: 埃德嘉有日常語音 35 句、戰鬥語音 57 句。
 aliases:
   - Edgar voice lines
   - 埃德嘉语音

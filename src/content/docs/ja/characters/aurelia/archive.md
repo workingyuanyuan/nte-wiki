@@ -1,6 +1,6 @@
 ---
 title: 海月のアーカイブ
-description: NTE（異環）のキャラクター、海月のアーカイブは6件である。
+description: 海月のアーカイブは6件である。
 aliases:
   - Aurelia archive
   - 海月個人檔案

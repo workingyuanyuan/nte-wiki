@@ -1,6 +1,6 @@
 ---
 title: 하니엘 보이스
-description: 이환(NTE) 캐릭터 하니엘의 보이스는 일상 33개, 전투 50개다.
+description: 하니엘의 보이스는 일상 33개, 전투 50개다.
 aliases:
   - Haniel voice lines
   - 哈尼婭語音

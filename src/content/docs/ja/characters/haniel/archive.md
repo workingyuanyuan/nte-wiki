@@ -1,6 +1,6 @@
 ---
 title: ハニアのアーカイブ
-description: NTE（異環）のキャラクター、ハニアのアーカイブは6件である。
+description: ハニアのアーカイブは6件である。
 aliases:
   - Haniel archive
   - 哈尼婭個人檔案

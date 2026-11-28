@@ -1,6 +1,6 @@
 ---
 title: 囿巢鳥
-description: 囿巢鳥是《異環》的異象，編號 R-7799[Or]。
+description: 囿巢鳥是異象，編號 R-7799[Or]。
 aliases:
   - Nestbound Bird
   - 囿巢鸟

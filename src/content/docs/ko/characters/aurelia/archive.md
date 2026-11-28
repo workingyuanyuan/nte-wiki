@@ -1,6 +1,6 @@
 ---
 title: 우미츠키 아카이브
-description: 이환(NTE) 캐릭터 우미츠키의 아카이브는 6건이다.
+description: 우미츠키의 아카이브는 6건이다.
 aliases:
   - Aurelia archive
   - 海月個人檔案

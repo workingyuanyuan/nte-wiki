@@ -1,6 +1,6 @@
 ---
 title: 明音凛语音
-description: 《异环》角色明音凛有日常语音 29 句、战斗语音 52 句。
+description: 明音凛有日常语音 29 句、战斗语音 52 句。
 aliases:
   - Akane Rin voice lines
   - 明音凜語音

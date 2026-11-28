@@ -1,6 +1,6 @@
 ---
 title: 早雾语音
-description: 《异环》角色早雾有日常语音 35 句、战斗语音 55 句。
+description: 早雾有日常语音 35 句、战斗语音 55 句。
 aliases:
   - Sakiri voice lines
   - 早霧語音

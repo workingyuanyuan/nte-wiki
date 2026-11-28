@@ -1,6 +1,6 @@
 ---
 title: 하토르 아카이브
-description: 이환(NTE) 캐릭터 하토르의 아카이브는 6건이다.
+description: 하토르의 아카이브는 6건이다.
 aliases:
   - Hathor archive
   - 哈索爾個人檔案

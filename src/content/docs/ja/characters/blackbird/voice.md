@@ -1,6 +1,6 @@
 ---
 title: クロバネのボイス
-description: NTE（異環）のキャラクター、クロバネのボイスは日常32件、戦闘61件である。
+description: クロバネのボイスは日常32件、戦闘61件である。
 aliases:
   - Blackbird voice lines
   - 黑羽語音

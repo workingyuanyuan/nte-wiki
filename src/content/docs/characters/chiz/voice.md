@@ -1,6 +1,6 @@
 ---
 title: Chiz voice lines
-description: Chiz has 28 daily and 44 combat voice lines in NTE.
+description: Chiz has 28 daily and 44 combat voice lines.
 aliases:
   - 小吱語音
   - 小吱语音

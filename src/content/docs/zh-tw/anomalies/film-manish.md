@@ -1,6 +1,6 @@
 ---
 title: 膠捲-MANISH
-description: 膠捲-MANISH是《異環》的異象，編號 R-5791[Ob]。
+description: 膠捲-MANISH是異象，編號 R-5791[Ob]。
 aliases:
   - Film - MANISH
   - 胶卷-MANISH

@@ -1,6 +1,6 @@
 ---
 title: 靈可個人檔案
-description: 《異環》角色靈可的個人檔案共有 7 則。
+description: 靈可的個人檔案共有 7 則。
 aliases:
   - Linko archive
   - 灵可个人档案

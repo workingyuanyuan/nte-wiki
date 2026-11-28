@@ -1,6 +1,6 @@
 ---
 title: 백장 보이스
-description: 이환(NTE) 캐릭터 백장의 보이스는 일상 35개, 전투 52개다.
+description: 백장의 보이스는 일상 35개, 전투 52개다.
 aliases:
   - Baicang voice lines
   - 白藏語音

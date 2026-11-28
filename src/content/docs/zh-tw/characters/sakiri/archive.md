@@ -1,6 +1,6 @@
 ---
 title: 早霧個人檔案
-description: 《異環》角色早霧的個人檔案共有 6 則。
+description: 早霧的個人檔案共有 6 則。
 aliases:
   - Sakiri archive
   - 早雾个人档案

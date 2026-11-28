@@ -1,6 +1,6 @@
 ---
 title: Beat King
-description: Beat King is an NTE anomaly with the code R-8998[Ob].
+description: Beat King is an anomaly with the code R-8998[Ob].
 aliases:
   - 音霸魔王
   - 音ゲー魔王

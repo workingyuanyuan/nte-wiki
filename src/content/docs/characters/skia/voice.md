@@ -1,6 +1,6 @@
 ---
 title: Skia voice lines
-description: Skia has 33 daily and 53 combat voice lines in NTE.
+description: Skia has 33 daily and 53 combat voice lines.
 aliases:
   - 翳語音
   - 翳语音

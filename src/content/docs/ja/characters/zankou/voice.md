@@ -1,6 +1,6 @@
 ---
 title: 残虹のボイス
-description: NTE（異環）のキャラクター、残虹のボイスは日常33件、戦闘65件である。
+description: 残虹のボイスは日常33件、戦闘65件である。
 aliases:
   - Zankou voice lines
   - 殘虹語音

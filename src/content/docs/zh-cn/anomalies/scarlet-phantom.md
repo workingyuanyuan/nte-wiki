@@ -1,6 +1,6 @@
 ---
 title: 瑰夜魅影
-description: 瑰夜魅影是《异环》的异象，编号 T-1881[Ob]。
+description: 瑰夜魅影是异象，编号 T-1881[Ob]。
 aliases:
   - Scarlet Phantom
   - 薔薇の夜の幻影

@@ -1,6 +1,6 @@
 ---
 title: 白藏個人檔案
-description: 《異環》角色白藏的個人檔案共有 6 則。
+description: 白藏的個人檔案共有 6 則。
 aliases:
   - Baicang archive
   - 白藏个人档案

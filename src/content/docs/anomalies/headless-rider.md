@@ -1,6 +1,6 @@
 ---
 title: Headless Rider
-description: Headless Rider is an NTE anomaly with the code T-8467[Or].
+description: Headless Rider is an anomaly with the code T-8467[Or].
 aliases:
   - 無首鐵馭
   - 无首铁驭

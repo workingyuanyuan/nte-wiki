@@ -1,6 +1,6 @@
 ---
 title: ナナリのアーカイブ
-description: NTE（異環）のキャラクター、ナナリのアーカイブは6件である。
+description: ナナリのアーカイブは6件である。
 aliases:
   - Nanally archive
   - 娜娜莉個人檔案

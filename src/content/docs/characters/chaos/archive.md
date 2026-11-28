@@ -1,6 +1,6 @@
 ---
 title: Chaos archive
-description: Chaos has 7 archive entries in NTE.
+description: Chaos has 7 archive entries.
 aliases:
   - 卡厄斯個人檔案
   - 卡厄斯个人档案

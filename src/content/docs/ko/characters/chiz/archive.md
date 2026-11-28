@@ -1,6 +1,6 @@
 ---
 title: 치즈 아카이브
-description: 이환(NTE) 캐릭터 치즈의 아카이브는 6건이다.
+description: 치즈의 아카이브는 6건이다.
 aliases:
   - Chiz archive
   - 小吱個人檔案

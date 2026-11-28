@@ -1,6 +1,6 @@
 ---
 title: 링코 아카이브
-description: 이환(NTE) 캐릭터 링코의 아카이브는 7건이다.
+description: 링코의 아카이브는 7건이다.
 aliases:
   - Linko archive
   - 靈可個人檔案

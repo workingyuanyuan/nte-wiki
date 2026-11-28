@@ -1,6 +1,6 @@
 ---
 title: 伊洛伊語音
-description: 《異環》角色伊洛伊有日常語音 32 句、戰鬥語音 50 句。
+description: 伊洛伊有日常語音 32 句、戰鬥語音 50 句。
 aliases:
   - Iroi voice lines
   - 伊洛伊语音

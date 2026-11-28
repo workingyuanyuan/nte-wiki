@@ -1,6 +1,6 @@
 ---
 title: 異能者・零
-description: 異能者・零はNTEの主人公で、光属性のSランクキャラである。
+description: 異能者・零は主人公で、光属性のSランクキャラである。
 aliases:
   - Esper Zero
   - Zero

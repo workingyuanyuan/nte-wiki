@@ -1,6 +1,6 @@
 ---
 title: 파디아 아카이브
-description: 이환(NTE) 캐릭터 파디아의 아카이브는 6건이다.
+description: 파디아의 아카이브는 6건이다.
 aliases:
   - Fadia archive
   - 法帝婭個人檔案

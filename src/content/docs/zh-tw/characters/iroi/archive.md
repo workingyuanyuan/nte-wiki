@@ -1,6 +1,6 @@
 ---
 title: 伊洛伊個人檔案
-description: 《異環》角色伊洛伊的個人檔案共有 7 則。
+description: 伊洛伊的個人檔案共有 7 則。
 aliases:
   - Iroi archive
   - 伊洛伊个人档案

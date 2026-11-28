@@ -1,6 +1,6 @@
 ---
 title: イロヒのアーカイブ
-description: NTE（異環）のキャラクター、イロヒのアーカイブは7件である。
+description: イロヒのアーカイブは7件である。
 aliases:
   - Iroi archive
   - 伊洛伊個人檔案

@@ -1,6 +1,6 @@
 ---
 title: Sakiri archive
-description: Sakiri has 6 archive entries in NTE.
+description: Sakiri has 6 archive entries.
 aliases:
   - 早霧個人檔案
   - 早雾个人档案

@@ -1,6 +1,6 @@
 ---
 title: 일로이 보이스
-description: 이환(NTE) 캐릭터 일로이의 보이스는 일상 32개, 전투 50개다.
+description: 일로이의 보이스는 일상 32개, 전투 50개다.
 aliases:
   - Iroi voice lines
   - 伊洛伊語音

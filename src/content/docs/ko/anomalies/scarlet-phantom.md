@@ -1,6 +1,6 @@
 ---
 title: 밤장미 환영
-description: 이환(NTE)의 이상 밤장미 환영의 코드는 T-1881 [Ob]다.
+description: 이상 밤장미 환영의 코드는 T-1881 [Ob]다.
 aliases:
   - Scarlet Phantom
   - 瑰夜魅影

@@ -1,6 +1,6 @@
 ---
 title: 潯のボイス
-description: NTE（異環）のキャラクター、潯のボイスは日常35件、戦闘65件である。
+description: 潯のボイスは日常35件、戦闘65件である。
 aliases:
   - Hotori voice lines
   - 潯語音

@@ -1,6 +1,6 @@
 ---
 title: 심해 감옥
-description: 이환(NTE)의 이상 심해 감옥의 코드는 R-1851[Or]다.
+description: 이상 심해 감옥의 코드는 R-1851[Or]다.
 aliases:
   - Sea Prisoner
   - 海囚

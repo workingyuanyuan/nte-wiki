@@ -1,6 +1,6 @@
 ---
 title: 다포딜 보이스
-description: 이환(NTE) 캐릭터 다포딜의 보이스는 일상 33개, 전투 60개다.
+description: 다포딜의 보이스는 일상 33개, 전투 60개다.
 aliases:
   - Daffodill voice lines
   - 達芙蒂爾語音

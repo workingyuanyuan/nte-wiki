@@ -1,6 +1,6 @@
 ---
 title: 민트 보이스
-description: 이환(NTE) 캐릭터 민트의 보이스는 일상 38개, 전투 59개다.
+description: 민트의 보이스는 일상 38개, 전투 59개다.
 aliases:
   - Mint voice lines
   - 薄荷語音

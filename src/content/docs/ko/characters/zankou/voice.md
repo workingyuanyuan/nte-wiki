@@ -1,6 +1,6 @@
 ---
 title: 잔홍 보이스
-description: 이환(NTE) 캐릭터 잔홍의 보이스는 일상 33개, 전투 65개다.
+description: 잔홍의 보이스는 일상 33개, 전투 65개다.
 aliases:
   - Zankou voice lines
   - 殘虹語音

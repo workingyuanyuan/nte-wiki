@@ -1,6 +1,6 @@
 ---
 title: Baicang voice lines
-description: Baicang has 35 daily and 52 combat voice lines in NTE.
+description: Baicang has 35 daily and 52 combat voice lines.
 aliases:
   - 白藏語音
   - 白藏语音

@@ -1,6 +1,6 @@
 ---
 title: イェルムのアーカイブ
-description: NTE（異環）のキャラクター、イェルムのアーカイブは6件である。
+description: イェルムのアーカイブは6件である。
 aliases:
   - Elyms archive
   - 曳爾沐個人檔案

@@ -1,6 +1,6 @@
 ---
 title: 曳尔沐个人档案
-description: 《异环》角色曳尔沐的个人档案共有 6 则。
+description: 曳尔沐的个人档案共有 6 则。
 aliases:
   - Elyms archive
   - 曳爾沐個人檔案

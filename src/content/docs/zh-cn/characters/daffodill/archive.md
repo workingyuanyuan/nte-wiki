@@ -1,6 +1,6 @@
 ---
 title: 达芙蒂尔个人档案
-description: 《异环》角色达芙蒂尔的个人档案共有 8 则。
+description: 达芙蒂尔的个人档案共有 8 则。
 aliases:
   - Daffodill archive
   - 達芙蒂爾個人檔案

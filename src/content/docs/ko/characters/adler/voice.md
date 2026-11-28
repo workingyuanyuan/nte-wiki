@@ -1,6 +1,6 @@
 ---
 title: 아들러 보이스
-description: 이환(NTE) 캐릭터 아들러의 보이스는 일상 35개, 전투 56개다.
+description: 아들러의 보이스는 일상 35개, 전투 56개다.
 aliases:
   - Adler voice lines
   - 阿德勒語音

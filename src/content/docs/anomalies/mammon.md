@@ -1,6 +1,6 @@
 ---
 title: Mammon
-description: Mammon is an NTE anomaly with the code C-4103[Or].
+description: Mammon is an anomaly with the code C-4103[Or].
 aliases:
   - 瑪門
   - 玛门

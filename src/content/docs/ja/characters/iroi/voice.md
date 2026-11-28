@@ -1,6 +1,6 @@
 ---
 title: イロヒのボイス
-description: NTE（異環）のキャラクター、イロヒのボイスは日常32件、戦闘50件である。
+description: イロヒのボイスは日常32件、戦闘50件である。
 aliases:
   - Iroi voice lines
   - 伊洛伊語音

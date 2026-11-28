@@ -1,6 +1,6 @@
 ---
 title: 라크리모사 보이스
-description: 이환(NTE) 캐릭터 라크리모사의 보이스는 일상 35개, 전투 55개다.
+description: 라크리모사의 보이스는 일상 35개, 전투 55개다.
 aliases:
   - Lacrimosa voice lines
   - 安魂曲語音

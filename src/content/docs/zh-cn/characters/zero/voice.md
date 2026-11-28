@@ -1,6 +1,6 @@
 ---
 title: 异能者·零语音
-description: 《异环》角色异能者·零有日常语音 3 句、战斗语音 58 句。
+description: 异能者·零有日常语音 3 句、战斗语音 58 句。
 aliases:
   - Esper Zero voice lines
   - 異能者·零語音

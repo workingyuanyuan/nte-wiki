@@ -1,6 +1,6 @@
 ---
 title: 우미츠키 보이스
-description: 이환(NTE) 캐릭터 우미츠키의 보이스는 일상 29개, 전투 46개다.
+description: 우미츠키의 보이스는 일상 29개, 전투 46개다.
 aliases:
   - Aurelia voice lines
   - 海月語音

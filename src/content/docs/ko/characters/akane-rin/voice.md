@@ -1,6 +1,6 @@
 ---
 title: 아카네 린 보이스
-description: 이환(NTE) 캐릭터 아카네 린의 보이스는 일상 29개, 전투 52개다.
+description: 아카네 린의 보이스는 일상 29개, 전투 52개다.
 aliases:
   - Akane Rin voice lines
   - 明音凜語音

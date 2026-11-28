@@ -1,6 +1,6 @@
 ---
 title: Esper Zero
-description: Esper Zero is the player character of NTE, an S-Class character of the Cosmos attribute.
+description: Esper Zero is the player character, an S-Class character of the Cosmos attribute.
 aliases:
   - Zero
   - 異能者·零

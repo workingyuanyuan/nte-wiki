@@ -1,6 +1,6 @@
 ---
 title: Rain-Sweeping Maid
-description: Rain-Sweeping Maid is an NTE anomaly with the code T-1291(Or).
+description: Rain-Sweeping Maid is an anomaly with the code T-1291(Or).
 aliases:
   - 掃晴娘
   - 扫晴娘

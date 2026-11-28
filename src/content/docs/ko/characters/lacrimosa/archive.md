@@ -1,6 +1,6 @@
 ---
 title: 라크리모사 아카이브
-description: 이환(NTE) 캐릭터 라크리모사의 아카이브는 6건이다.
+description: 라크리모사의 아카이브는 6건이다.
 aliases:
   - Lacrimosa archive
   - 安魂曲個人檔案

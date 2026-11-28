@@ -1,6 +1,6 @@
 ---
 title: 殘虹個人檔案
-description: 《異環》角色殘虹的個人檔案共有 9 則。
+description: 殘虹的個人檔案共有 9 則。
 aliases:
   - Zankou archive
   - 残虹个人档案

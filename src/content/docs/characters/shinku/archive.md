@@ -1,6 +1,6 @@
 ---
 title: Shinku archive
-description: Shinku has 7 archive entries in NTE.
+description: Shinku has 7 archive entries.
 aliases:
   - 真紅個人檔案
   - 真红个人档案

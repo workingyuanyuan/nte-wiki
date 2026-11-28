@@ -1,6 +1,6 @@
 ---
 title: 翳のアーカイブ
-description: NTE（異環）のキャラクター、翳のアーカイブは6件である。
+description: 翳のアーカイブは6件である。
 aliases:
   - Skia archive
   - 翳個人檔案

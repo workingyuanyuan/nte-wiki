@@ -1,6 +1,6 @@
 ---
 title: ミントのアーカイブ
-description: NTE（異環）のキャラクター、ミントのアーカイブは6件である。
+description: ミントのアーカイブは6件である。
 aliases:
   - Mint archive
   - 薄荷個人檔案

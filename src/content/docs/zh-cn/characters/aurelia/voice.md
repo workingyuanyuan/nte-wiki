@@ -1,6 +1,6 @@
 ---
 title: 海月语音
-description: 《异环》角色海月有日常语音 29 句、战斗语音 46 句。
+description: 海月有日常语音 29 句、战斗语音 46 句。
 aliases:
   - Aurelia voice lines
   - 海月語音

@@ -1,6 +1,6 @@
 ---
 title: フィルムMANISH
-description: フィルムMANISHはNTE（異環）の異象で、コードはR-5791[Ob]である。
+description: フィルムMANISHは異象で、コードはR-5791[Ob]である。
 aliases:
   - Film - MANISH
   - 膠捲-MANISH

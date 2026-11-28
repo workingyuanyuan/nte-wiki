@@ -1,6 +1,6 @@
 ---
 title: Chaos voice lines
-description: Chaos has 34 daily and 51 combat voice lines in NTE.
+description: Chaos has 34 daily and 51 combat voice lines.
 aliases:
   - 卡厄斯語音
   - 卡厄斯语音

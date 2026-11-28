@@ -1,6 +1,6 @@
 ---
 title: Elyms archive
-description: Elyms has 6 archive entries in NTE.
+description: Elyms has 6 archive entries.
 aliases:
   - 曳爾沐個人檔案
   - 曳尔沐个人档案

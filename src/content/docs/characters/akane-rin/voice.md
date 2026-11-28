@@ -1,6 +1,6 @@
 ---
 title: Akane Rin voice lines
-description: Akane Rin has 29 daily and 52 combat voice lines in NTE.
+description: Akane Rin has 29 daily and 52 combat voice lines.
 aliases:
   - 明音凜語音
   - 明音凛语音

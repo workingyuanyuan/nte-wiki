@@ -1,6 +1,6 @@
 ---
 title: Iroi archive
-description: Iroi has 7 archive entries in NTE.
+description: Iroi has 7 archive entries.
 aliases:
   - 伊洛伊個人檔案
   - 伊洛伊个人档案

@@ -1,6 +1,6 @@
 ---
 title: 小吱个人档案
-description: 《异环》角色小吱的个人档案共有 6 则。
+description: 小吱的个人档案共有 6 则。
 aliases:
   - Chiz archive
   - 小吱個人檔案

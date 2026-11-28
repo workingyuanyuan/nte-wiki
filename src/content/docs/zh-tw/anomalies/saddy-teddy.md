@@ -1,6 +1,6 @@
 ---
 title: 傷心英熊
-description: 傷心英熊是《異環》的異象，編號 C-3091-2[Ob]。
+description: 傷心英熊是異象，編號 C-3091-2[Ob]。
 aliases:
   - Saddy Teddy
   - 伤心英熊

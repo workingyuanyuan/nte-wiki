@@ -1,6 +1,6 @@
 ---
 title: Baicang archive
-description: Baicang has 6 archive entries in NTE.
+description: Baicang has 6 archive entries.
 aliases:
   - 白藏個人檔案
   - 白藏个人档案

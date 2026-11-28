@@ -1,6 +1,6 @@
 ---
 title: Black Tome
-description: Black Tome is an NTE anomaly with the code C-7111[Ob].
+description: Black Tome is an anomaly with the code C-7111[Ob].
 aliases:
   - 黑之書
   - 黑之书

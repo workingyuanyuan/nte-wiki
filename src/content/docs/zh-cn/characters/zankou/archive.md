@@ -1,6 +1,6 @@
 ---
 title: 残虹个人档案
-description: 《异环》角色残虹的个人档案共有 9 则。
+description: 残虹的个人档案共有 9 则。
 aliases:
   - Zankou archive
   - 殘虹個人檔案

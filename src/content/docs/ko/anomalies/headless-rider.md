@@ -1,6 +1,6 @@
 ---
 title: 머리 없는 라이더
-description: 이환(NTE)의 이상 머리 없는 라이더의 코드는 T-8467[Or]다.
+description: 이상 머리 없는 라이더의 코드는 T-8467[Or]다.
 aliases:
   - Headless Rider
   - 無首鐵馭

@@ -1,6 +1,6 @@
 ---
 title: 曳尔沐语音
-description: 《异环》角色曳尔沐有日常语音 33 句、战斗语音 65 句。
+description: 曳尔沐有日常语音 33 句、战斗语音 65 句。
 aliases:
   - Elyms voice lines
   - 曳爾沐語音

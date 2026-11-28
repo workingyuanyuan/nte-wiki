@@ -1,6 +1,6 @@
 ---
 title: ハソールのアーカイブ
-description: NTE（異環）のキャラクター、ハソールのアーカイブは6件である。
+description: ハソールのアーカイブは6件である。
 aliases:
   - Hathor archive
   - 哈索爾個人檔案

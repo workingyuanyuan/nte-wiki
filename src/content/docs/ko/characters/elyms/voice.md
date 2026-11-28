@@ -1,6 +1,6 @@
 ---
 title: 엘림 보이스
-description: 이환(NTE) 캐릭터 엘림의 보이스는 일상 33개, 전투 65개다.
+description: 엘림의 보이스는 일상 33개, 전투 65개다.
 aliases:
   - Elyms voice lines
   - 曳爾沐語音

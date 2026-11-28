@@ -1,6 +1,6 @@
 ---
 title: 아카네 린 아카이브
-description: 이환(NTE) 캐릭터 아카네 린의 아카이브는 6건이다.
+description: 아카네 린의 아카이브는 6건이다.
 aliases:
   - Akane Rin archive
   - 明音凜個人檔案

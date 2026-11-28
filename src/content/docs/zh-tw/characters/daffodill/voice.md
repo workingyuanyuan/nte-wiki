@@ -1,6 +1,6 @@
 ---
 title: 達芙蒂爾語音
-description: 《異環》角色達芙蒂爾有日常語音 33 句、戰鬥語音 60 句。
+description: 達芙蒂爾有日常語音 33 句、戰鬥語音 60 句。
 aliases:
   - Daffodill voice lines
   - 达芙蒂尔语音

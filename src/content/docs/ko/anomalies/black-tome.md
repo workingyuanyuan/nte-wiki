@@ -1,6 +1,6 @@
 ---
 title: 검은 책
-description: 이환(NTE)의 이상 검은 책의 코드는 C-7111[Ob]다.
+description: 이상 검은 책의 코드는 C-7111[Ob]다.
 aliases:
   - Black Tome
   - 黑之書

@@ -1,6 +1,6 @@
 ---
 title: 浔语音
-description: 《异环》角色浔有日常语音 35 句、战斗语音 65 句。
+description: 浔有日常语音 35 句、战斗语音 65 句。
 aliases:
   - Hotori voice lines
   - 潯語音

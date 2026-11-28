@@ -1,6 +1,6 @@
 ---
 title: 明音凛のボイス
-description: NTE（異環）のキャラクター、明音凛のボイスは日常29件、戦闘52件である。
+description: 明音凛のボイスは日常29件、戦闘52件である。
 aliases:
   - Akane Rin voice lines
   - 明音凜語音

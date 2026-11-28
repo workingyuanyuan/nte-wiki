@@ -1,6 +1,6 @@
 ---
 title: 하토르 보이스
-description: 이환(NTE) 캐릭터 하토르의 보이스는 일상 32개, 전투 48개다.
+description: 하토르의 보이스는 일상 32개, 전투 48개다.
 aliases:
   - Hathor voice lines
   - 哈索爾語音

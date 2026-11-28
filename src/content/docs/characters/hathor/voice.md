@@ -1,6 +1,6 @@
 ---
 title: Hathor voice lines
-description: Hathor has 32 daily and 48 combat voice lines in NTE.
+description: Hathor has 32 daily and 48 combat voice lines.
 aliases:
   - 哈索爾語音
   - 哈索尔语音

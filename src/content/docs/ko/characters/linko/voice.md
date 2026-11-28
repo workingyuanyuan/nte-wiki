@@ -1,6 +1,6 @@
 ---
 title: 링코 보이스
-description: 이환(NTE) 캐릭터 링코의 보이스는 일상 34개, 전투 61개다.
+description: 링코의 보이스는 일상 34개, 전투 61개다.
 aliases:
   - Linko voice lines
   - 靈可語音

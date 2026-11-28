@@ -1,6 +1,6 @@
 ---
 title: ハニアのボイス
-description: NTE（異環）のキャラクター、ハニアのボイスは日常33件、戦闘50件である。
+description: ハニアのボイスは日常33件、戦闘50件である。
 aliases:
   - Haniel voice lines
   - 哈尼婭語音

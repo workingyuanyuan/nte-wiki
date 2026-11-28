@@ -1,6 +1,6 @@
 ---
 title: Jiuyuan voice lines
-description: Jiuyuan has 32 daily and 48 combat voice lines in NTE.
+description: Jiuyuan has 32 daily and 48 combat voice lines.
 aliases:
   - 九原語音
   - 九原语音

@@ -1,6 +1,6 @@
 ---
 title: Shinku voice lines
-description: Shinku has 33 daily and 56 combat voice lines in NTE.
+description: Shinku has 33 daily and 56 combat voice lines.
 aliases:
   - 真紅語音
   - 真红语音

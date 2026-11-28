@@ -1,6 +1,6 @@
 ---
 title: 翳語音
-description: 《異環》角色翳有日常語音 33 句、戰鬥語音 53 句。
+description: 翳有日常語音 33 句、戰鬥語音 53 句。
 aliases:
   - Skia voice lines
   - 翳语音

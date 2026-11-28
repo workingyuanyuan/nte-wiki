@@ -1,6 +1,6 @@
 ---
 title: 掃晴娘
-description: 掃晴娘是《異環》的異象，編號 T-1291[Or]。
+description: 掃晴娘是異象，編號 T-1291[Or]。
 aliases:
   - Rain-Sweeping Maid
   - 扫晴娘

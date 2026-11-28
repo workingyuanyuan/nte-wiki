@@ -1,6 +1,6 @@
 ---
 title: ファルディーヤのボイス
-description: NTE（異環）のキャラクター、ファルディーヤのボイスは日常33件、戦闘52件である。
+description: ファルディーヤのボイスは日常33件、戦闘52件である。
 aliases:
   - Fadia voice lines
   - 法帝婭語音

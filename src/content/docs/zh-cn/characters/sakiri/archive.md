@@ -1,6 +1,6 @@
 ---
 title: 早雾个人档案
-description: 《异环》角色早雾的个人档案共有 6 则。
+description: 早雾的个人档案共有 6 则。
 aliases:
   - Sakiri archive
   - 早霧個人檔案

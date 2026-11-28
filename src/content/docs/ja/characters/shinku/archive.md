@@ -1,6 +1,6 @@
 ---
 title: 真紅のアーカイブ
-description: NTE（異環）のキャラクター、真紅のアーカイブは7件である。
+description: 真紅のアーカイブは7件である。
 aliases:
   - Shinku archive
   - 真紅個人檔案

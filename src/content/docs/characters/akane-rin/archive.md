@@ -1,6 +1,6 @@
 ---
 title: Akane Rin archive
-description: Akane Rin has 6 archive entries in NTE.
+description: Akane Rin has 6 archive entries.
 aliases:
   - 明音凜個人檔案
   - 明音凛个人档案

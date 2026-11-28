@@ -1,6 +1,6 @@
 ---
 title: 早霧のボイス
-description: NTE（異環）のキャラクター、早霧のボイスは日常35件、戦闘55件である。
+description: 早霧のボイスは日常35件、戦闘55件である。
 aliases:
   - Sakiri voice lines
   - 早霧語音

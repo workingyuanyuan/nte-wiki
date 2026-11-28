@@ -1,6 +1,6 @@
 ---
 title: 비트 마왕
-description: 이환(NTE)의 이상 비트 마왕의 코드는 R-8998[Ob]다.
+description: 이상 비트 마왕의 코드는 R-8998[Ob]다.
 aliases:
   - Beat King
   - 音霸魔王

@@ -1,6 +1,6 @@
 ---
 title: 잔홍 아카이브
-description: 이환(NTE) 캐릭터 잔홍의 아카이브는 9건이다.
+description: 잔홍의 아카이브는 9건이다.
 aliases:
   - Zankou archive
   - 殘虹個人檔案

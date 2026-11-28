@@ -1,6 +1,6 @@
 ---
 title: 音ゲー魔王
-description: 音ゲー魔王はNTE（異環）の異象で、コードはR-8998[Ob]である。
+description: 音ゲー魔王は異象で、コードはR-8998[Ob]である。
 aliases:
   - Beat King
   - 音霸魔王

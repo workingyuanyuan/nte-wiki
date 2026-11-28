@@ -1,6 +1,6 @@
 ---
 title: Linko voice lines
-description: Linko has 34 daily and 61 combat voice lines in NTE.
+description: Linko has 34 daily and 61 combat voice lines.
 aliases:
   - 靈可語音
   - 灵可语音

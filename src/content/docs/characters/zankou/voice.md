@@ -1,6 +1,6 @@
 ---
 title: Zankou voice lines
-description: Zankou has 33 daily and 65 combat voice lines in NTE.
+description: Zankou has 33 daily and 65 combat voice lines.
 aliases:
   - 殘虹語音
   - 残虹语音

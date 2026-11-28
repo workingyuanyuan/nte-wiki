@@ -1,6 +1,6 @@
 ---
 title: ファルディーヤのアーカイブ
-description: NTE（異環）のキャラクター、ファルディーヤのアーカイブは6件である。
+description: ファルディーヤのアーカイブは6件である。
 aliases:
   - Fadia archive
   - 法帝婭個人檔案

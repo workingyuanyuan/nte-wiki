@@ -1,6 +1,6 @@
 ---
 title: 安魂曲語音
-description: 《異環》角色安魂曲有日常語音 35 句、戰鬥語音 55 句。
+description: 安魂曲有日常語音 35 句、戰鬥語音 55 句。
 aliases:
   - Lacrimosa voice lines
   - 安魂曲语音

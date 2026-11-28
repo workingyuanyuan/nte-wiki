@@ -1,6 +1,6 @@
 ---
 title: 카오스 보이스
-description: 이환(NTE) 캐릭터 카오스의 보이스는 일상 34개, 전투 51개다.
+description: 카오스의 보이스는 일상 34개, 전투 51개다.
 aliases:
   - Chaos voice lines
   - 卡厄斯語音

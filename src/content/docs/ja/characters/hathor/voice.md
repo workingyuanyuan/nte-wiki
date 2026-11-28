@@ -1,6 +1,6 @@
 ---
 title: ハソールのボイス
-description: NTE（異環）のキャラクター、ハソールのボイスは日常32件、戦闘48件である。
+description: ハソールのボイスは日常32件、戦闘48件である。
 aliases:
   - Hathor voice lines
   - 哈索爾語音

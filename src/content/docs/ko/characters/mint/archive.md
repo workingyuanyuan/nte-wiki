@@ -1,6 +1,6 @@
 ---
 title: 민트 아카이브
-description: 이환(NTE) 캐릭터 민트의 아카이브는 6건이다.
+description: 민트의 아카이브는 6건이다.
 aliases:
   - Mint archive
   - 薄荷個人檔案

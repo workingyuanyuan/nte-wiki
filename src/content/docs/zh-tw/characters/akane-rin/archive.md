@@ -1,6 +1,6 @@
 ---
 title: 明音凜個人檔案
-description: 《異環》角色明音凜的個人檔案共有 6 則。
+description: 明音凜的個人檔案共有 6 則。
 aliases:
   - Akane Rin archive
   - 明音凛个人档案

@@ -1,6 +1,6 @@
 ---
 title: ナナリのボイス
-description: NTE（異環）のキャラクター、ナナリのボイスは日常34件、戦闘55件である。
+description: ナナリのボイスは日常34件、戦闘55件である。
 aliases:
   - Nanally voice lines
   - 娜娜莉語音

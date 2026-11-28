@@ -1,6 +1,6 @@
 ---
 title: Aurelia archive
-description: Aurelia has 6 archive entries in NTE.
+description: Aurelia has 6 archive entries.
 aliases:
   - 海月個人檔案
   - 海月个人档案

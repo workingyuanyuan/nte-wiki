@@ -1,6 +1,6 @@
 ---
 title: 娜娜莉語音
-description: 《異環》角色娜娜莉有日常語音 34 句、戰鬥語音 55 句。
+description: 娜娜莉有日常語音 34 句、戰鬥語音 55 句。
 aliases:
   - Nanally voice lines
   - 娜娜莉语音

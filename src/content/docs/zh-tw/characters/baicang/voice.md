@@ -1,6 +1,6 @@
 ---
 title: 白藏語音
-description: 《異環》角色白藏有日常語音 35 句、戰鬥語音 52 句。
+description: 白藏有日常語音 35 句、戰鬥語音 52 句。
 aliases:
   - Baicang voice lines
   - 白藏语音

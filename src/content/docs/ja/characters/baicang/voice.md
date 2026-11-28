@@ -1,6 +1,6 @@
 ---
 title: 白蔵のボイス
-description: NTE（異環）のキャラクター、白蔵のボイスは日常35件、戦闘52件である。
+description: 白蔵のボイスは日常35件、戦闘52件である。
 aliases:
   - Baicang voice lines
   - 白藏語音

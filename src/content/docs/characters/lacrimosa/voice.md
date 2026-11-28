@@ -1,6 +1,6 @@
 ---
 title: Lacrimosa voice lines
-description: Lacrimosa has 35 daily and 55 combat voice lines in NTE.
+description: Lacrimosa has 35 daily and 55 combat voice lines.
 aliases:
   - 安魂曲語音
   - 安魂曲语音

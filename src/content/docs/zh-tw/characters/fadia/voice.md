@@ -1,6 +1,6 @@
 ---
 title: 法帝婭語音
-description: 《異環》角色法帝婭有日常語音 33 句、戰鬥語音 52 句。
+description: 法帝婭有日常語音 33 句、戰鬥語音 52 句。
 aliases:
   - Fadia voice lines
   - 法帝娅语音

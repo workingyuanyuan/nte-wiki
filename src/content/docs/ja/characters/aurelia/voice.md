@@ -1,6 +1,6 @@
 ---
 title: 海月のボイス
-description: NTE（異環）のキャラクター、海月のボイスは日常29件、戦闘46件である。
+description: 海月のボイスは日常29件、戦闘46件である。
 aliases:
   - Aurelia voice lines
   - 海月語音

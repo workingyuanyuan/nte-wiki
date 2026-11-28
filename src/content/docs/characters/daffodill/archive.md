@@ -1,6 +1,6 @@
 ---
 title: Daffodill archive
-description: Daffodill has 8 archive entries in NTE.
+description: Daffodill has 8 archive entries.
 aliases:
   - 達芙蒂爾個人檔案
   - 达芙蒂尔个人档案

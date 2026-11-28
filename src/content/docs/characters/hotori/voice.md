@@ -1,6 +1,6 @@
 ---
 title: Hotori voice lines
-description: Hotori has 35 daily and 65 combat voice lines in NTE.
+description: Hotori has 35 daily and 65 combat voice lines.
 aliases:
   - 潯語音
   - 浔语音

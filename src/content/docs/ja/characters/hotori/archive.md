@@ -1,6 +1,6 @@
 ---
 title: 潯のアーカイブ
-description: NTE（異環）のキャラクター、潯のアーカイブは5件である。
+description: 潯のアーカイブは5件である。
 aliases:
   - Hotori archive
   - 潯個人檔案

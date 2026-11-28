@@ -1,6 +1,6 @@
 ---
 title: Mint archive
-description: Mint has 6 archive entries in NTE.
+description: Mint has 6 archive entries.
 aliases:
   - 薄荷個人檔案
   - 薄荷个人档案

@@ -1,6 +1,6 @@
 ---
 title: 異能者·零
-description: 異能者·零是《異環》的主角，為 S 級角色，屬性為光。
+description: 異能者·零是主角，為 S 級角色，屬性為光。
 aliases:
   - Esper Zero
   - Zero

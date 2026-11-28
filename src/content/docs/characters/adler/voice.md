@@ -1,6 +1,6 @@
 ---
 title: Adler voice lines
-description: Adler has 35 daily and 56 combat voice lines in NTE.
+description: Adler has 35 daily and 56 combat voice lines.
 aliases:
   - 阿德勒語音
   - 阿德勒语音

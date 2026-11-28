@@ -1,6 +1,6 @@
 ---
 title: 残虹のアーカイブ
-description: NTE（異環）のキャラクター、残虹のアーカイブは9件である。
+description: 残虹のアーカイブは9件である。
 aliases:
   - Zankou archive
   - 殘虹個人檔案

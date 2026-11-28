@@ -1,6 +1,6 @@
 ---
 title: Nanally voice lines
-description: Nanally has 34 daily and 55 combat voice lines in NTE.
+description: Nanally has 34 daily and 55 combat voice lines.
 aliases:
   - 娜娜莉語音
   - 娜娜莉语音

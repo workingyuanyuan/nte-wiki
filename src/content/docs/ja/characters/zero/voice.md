@@ -1,6 +1,6 @@
 ---
 title: 異能者・零のボイス
-description: NTE（異環）のキャラクター、異能者・零のボイスは日常3件、戦闘58件である。
+description: 異能者・零のボイスは日常3件、戦闘58件である。
 aliases:
   - Esper Zero voice lines
   - 異能者·零語音

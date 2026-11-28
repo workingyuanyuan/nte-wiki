@@ -1,6 +1,6 @@
 ---
 title: 翳个人档案
-description: 《异环》角色翳的个人档案共有 6 则。
+description: 翳的个人档案共有 6 则。
 aliases:
   - Skia archive
   - 翳個人檔案

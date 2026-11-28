@@ -1,6 +1,6 @@
 ---
 title: 九原のアーカイブ
-description: NTE（異環）のキャラクター、九原のアーカイブは6件である。
+description: 九原のアーカイブは6件である。
 aliases:
   - Jiuyuan archive
   - 九原個人檔案

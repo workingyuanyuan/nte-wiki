@@ -1,6 +1,6 @@
 ---
 title: 浔个人档案
-description: 《异环》角色浔的个人档案共有 5 则。
+description: 浔的个人档案共有 5 则。
 aliases:
   - Hotori archive
   - 潯個人檔案

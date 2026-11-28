@@ -1,6 +1,6 @@
 ---
 title: カオスのボイス
-description: NTE（異環）のキャラクター、カオスのボイスは日常34件、戦闘51件である。
+description: カオスのボイスは日常34件、戦闘51件である。
 aliases:
   - Chaos voice lines
   - 卡厄斯語音

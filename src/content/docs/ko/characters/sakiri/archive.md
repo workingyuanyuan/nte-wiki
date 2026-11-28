@@ -1,6 +1,6 @@
 ---
 title: 사키리 아카이브
-description: 이환(NTE) 캐릭터 사키리의 아카이브는 6건이다.
+description: 사키리의 아카이브는 6건이다.
 aliases:
   - Sakiri archive
   - 早霧個人檔案

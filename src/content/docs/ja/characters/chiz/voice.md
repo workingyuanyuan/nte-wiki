@@ -1,6 +1,6 @@
 ---
 title: ちぃちゃんのボイス
-description: NTE（異環）のキャラクター、ちぃちゃんのボイスは日常28件、戦闘44件である。
+description: ちぃちゃんのボイスは日常28件、戦闘44件である。
 aliases:
   - Chiz voice lines
   - 小吱語音

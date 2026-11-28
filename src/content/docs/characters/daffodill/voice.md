@@ -1,6 +1,6 @@
 ---
 title: Daffodill voice lines
-description: Daffodill has 33 daily and 60 combat voice lines in NTE.
+description: Daffodill has 33 daily and 60 combat voice lines.
 aliases:
   - 達芙蒂爾語音
   - 达芙蒂尔语音

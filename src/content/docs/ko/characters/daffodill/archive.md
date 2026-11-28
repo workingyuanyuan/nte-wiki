@@ -1,6 +1,6 @@
 ---
 title: 다포딜 아카이브
-description: 이환(NTE) 캐릭터 다포딜의 아카이브는 8건이다.
+description: 다포딜의 아카이브는 8건이다.
 aliases:
   - Daffodill archive
   - 達芙蒂爾個人檔案

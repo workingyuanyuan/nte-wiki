@@ -1,6 +1,6 @@
 ---
 title: 구원 보이스
-description: 이환(NTE) 캐릭터 구원의 보이스는 일상 32개, 전투 48개다.
+description: 구원의 보이스는 일상 32개, 전투 48개다.
 aliases:
   - Jiuyuan voice lines
   - 九原語音

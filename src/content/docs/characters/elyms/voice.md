@@ -1,6 +1,6 @@
 ---
 title: Elyms voice lines
-description: Elyms has 33 daily and 65 combat voice lines in NTE.
+description: Elyms has 33 daily and 65 combat voice lines.
 aliases:
   - 曳爾沐語音
   - 曳尔沐语音

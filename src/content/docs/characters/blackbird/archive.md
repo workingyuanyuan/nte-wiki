@@ -1,6 +1,6 @@
 ---
 title: Blackbird archive
-description: Blackbird has 8 archive entries in NTE.
+description: Blackbird has 8 archive entries.
 aliases:
   - 黑羽個人檔案
   - 黑羽个人档案

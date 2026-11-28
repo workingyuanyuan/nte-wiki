@@ -1,6 +1,6 @@
 ---
 title: 黑羽语音
-description: 《异环》角色黑羽有日常语音 32 句、战斗语音 61 句。
+description: 黑羽有日常语音 32 句、战斗语音 61 句。
 aliases:
   - Blackbird voice lines
   - 黑羽語音

@@ -1,6 +1,6 @@
 ---
 title: イェルムのボイス
-description: NTE（異環）のキャラクター、イェルムのボイスは日常33件、戦闘65件である。
+description: イェルムのボイスは日常33件、戦闘65件である。
 aliases:
   - Elyms voice lines
   - 曳爾沐語音

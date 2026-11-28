@@ -1,6 +1,6 @@
 ---
 title: 레이븐 보이스
-description: 이환(NTE) 캐릭터 레이븐의 보이스는 일상 32개, 전투 61개다.
+description: 레이븐의 보이스는 일상 32개, 전투 61개다.
 aliases:
   - Blackbird voice lines
   - 黑羽語音

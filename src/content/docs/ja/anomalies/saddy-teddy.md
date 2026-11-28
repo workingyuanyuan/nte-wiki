@@ -1,6 +1,6 @@
 ---
 title: 憂愁の英雄熊
-description: 憂愁の英雄熊はNTE（異環）の異象で、コードはC-3091-2[Ob]である。
+description: 憂愁の英雄熊は異象で、コードはC-3091-2[Ob]である。
 aliases:
   - Saddy Teddy
   - 傷心英熊

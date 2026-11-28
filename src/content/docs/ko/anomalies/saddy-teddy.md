@@ -1,6 +1,6 @@
 ---
 title: 새디베어
-description: 이환(NTE)의 이상 새디베어의 코드는 C-3091-2[Ob]다.
+description: 이상 새디베어의 코드는 C-3091-2[Ob]다.
 aliases:
   - Saddy Teddy
   - 傷心英熊

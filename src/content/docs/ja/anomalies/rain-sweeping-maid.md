@@ -1,6 +1,6 @@
 ---
 title: ウェザーガール
-description: ウェザーガールはNTE（異環）の異象で、コードはT-1291[Or]である。
+description: ウェザーガールは異象で、コードはT-1291[Or]である。
 aliases:
   - Rain-Sweeping Maid
   - 掃晴娘

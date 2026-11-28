@@ -1,6 +1,6 @@
 ---
 title: 黑羽个人档案
-description: 《异环》角色黑羽的个人档案共有 8 则。
+description: 黑羽的个人档案共有 8 则。
 aliases:
   - Blackbird archive
   - 黑羽個人檔案

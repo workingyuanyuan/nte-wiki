@@ -34,7 +34,7 @@ L = {
         arcs_h='Arc descriptions', items_h='Item descriptions', arc='Arc', item='Item', evx='Everness, {kind} pages in Traditional Chinese (example: {name}, read {read})', kinds={'outfit': 'outfit', 'arc': 'Arc', 'item': 'item'},
         evo='Everness, outfit {name} in Traditional Chinese (read {read})', title='{name} archive', archive='Archive', no='No.', entry='Entry', named='Characters named',
         desc='Description', profile='Profile', outfits='Outfits', applies='Game data {v}',
-        description='{name} has {n} archive entries in NTE.',
+        description='{name} has {n} archive entries.',
         caveat="The game's language editions can differ in wording and detail.",
         src='nanoka.cc game data {v}, character file in {lang}', ev='Everness, {name} page in {lang} (read {read})',
         langs={'zh-tw': 'Traditional Chinese', 'en': 'English', 'zh-cn': 'Chinese', 'ja': 'Japanese', 'ko': 'Korean'}, sep=', ', none='None'),
@@ -43,7 +43,7 @@ L = {
         arcs_h='弧盤說明', items_h='材料說明', arc='弧盤', item='材料', evx='Everness，{kind}頁面（繁體中文，例：{name}，{read} 讀取）', kinds={'outfit': '時裝', 'arc': '弧盤', 'item': '道具'},
         evo='Everness，時裝「{name}」（繁體中文，{read} 讀取）', title='{name}個人檔案', archive='個人檔案', no='序號', entry='條目', named='提及的角色',
         desc='說明', profile='角色資料', outfits='時裝', applies='遊戲資料 {v}',
-        description='《異環》角色{name}的個人檔案共有 {n} 則。',
+        description='{name}的個人檔案共有 {n} 則。',
         caveat='遊戲各語言版本的用字與細節可能不同。',
         src='nanoka.cc 遊戲資料 {v}，角色檔案（{lang}）', ev='Everness，{name}頁面（{lang}，{read} 讀取）',
         langs={'zh-tw': '繁體中文', 'en': '英文', 'zh-cn': '中文', 'ja': '日文', 'ko': '韓文'}, sep='、', none='無'),
@@ -52,7 +52,7 @@ L = {
         arcs_h='弧盘说明', items_h='材料说明', arc='弧盘', item='材料', evx='Everness，{kind}页面（繁体中文，例：{name}，{read} 读取）', kinds={'outfit': '时装', 'arc': '弧盘', 'item': '道具'},
         evo='Everness，时装「{name}」（繁体中文，{read} 读取）', title='{name}个人档案', archive='个人档案', no='序号', entry='条目', named='提及的角色',
         desc='说明', profile='角色资料', outfits='时装', applies='游戏数据 {v}',
-        description='《异环》角色{name}的个人档案共有 {n} 则。',
+        description='{name}的个人档案共有 {n} 则。',
         caveat='游戏各语言版本的用字与细节可能不同。',
         src='nanoka.cc 游戏数据 {v}，角色档案（{lang}）', ev='Everness，{name}页面（{lang}，{read} 读取）',
         langs={'zh-tw': '繁体中文', 'en': '英文', 'zh-cn': '中文', 'ja': '日文', 'ko': '韩文'}, sep='、', none='无'),
@@ -61,7 +61,7 @@ L = {
         arcs_h='弧盤の説明', items_h='素材の説明', arc='弧盤', item='素材', evx='Everness、{kind}のページ（繁体字中国語、例：{name}、{read}取得）', kinds={'outfit': 'コスチューム', 'arc': '弧盤', 'item': 'アイテム'},
         evo='Everness、コスチューム「{name}」（繁体字中国語、{read}取得）', title='{name}のアーカイブ', archive='アーカイブ', no='番号', entry='項目', named='登場するキャラクター',
         desc='説明', profile='プロフィール', outfits='コスチューム', applies='ゲームデータ {v}',
-        description='NTE（異環）のキャラクター、{name}のアーカイブは{n}件である。',
+        description='{name}のアーカイブは{n}件である。',
         caveat='ゲームの各言語版では、表現や細部が異なることがある。',
         src='nanoka.cc ゲームデータ{v}、キャラクターファイル（{lang}）', ev='Everness、{name}のページ（{lang}、{read}取得）',
         langs={'zh-tw': '繁体字中国語', 'en': '英語', 'zh-cn': '中国語', 'ja': '日本語', 'ko': '韓国語'}, sep='、', none='なし'),
@@ -70,7 +70,7 @@ L = {
         arcs_h='아크 설명', items_h='재료 설명', arc='아크', item='재료', evx='Everness, {kind} 페이지(번체 중국어, 예: {name}, {read} 확인)', kinds={'outfit': '코스튬', 'arc': '아크', 'item': '아이템'},
         evo='Everness, 코스튬 「{name}」(번체 중국어, {read} 확인)', title='{name} 아카이브', archive='아카이브', no='번호', entry='항목', named='언급된 캐릭터',
         desc='설명', profile='프로필', outfits='코스튬', applies='게임 데이터 {v}',
-        description='이환(NTE) 캐릭터 {name}의 아카이브는 {n}건이다.',
+        description='{name}의 아카이브는 {n}건이다.',
         caveat='게임의 언어판마다 표현과 세부 내용이 다를 수 있다.',
         src='nanoka.cc 게임 데이터 {v}, {lang} 캐릭터 파일', ev='Everness, 「{name}」 페이지({lang}, {read} 확인)',
         langs={'zh-tw': '번체 중국어', 'en': '영어', 'zh-cn': '중국어', 'ja': '일본어', 'ko': '한국어'}, sep=', ', none='없음'),
@@ -78,11 +78,11 @@ L = {
 
 # Labels of the voice line pages.
 VL = {
-    'en': dict(v_title='{name} voice lines', v_label='Voice lines', v_desc='{name} has {d} daily and {b} combat voice lines in NTE.', v_daily='Daily', v_battle='Combat', v_char='Character', v_lines='Voice lines', v_head='Title', v_text='Line'),
-    'zh-tw': dict(v_title='{name}語音', v_label='語音', v_desc='《異環》角色{name}有日常語音 {d} 句、戰鬥語音 {b} 句。', v_daily='日常', v_battle='戰鬥', v_char='角色', v_lines='語音', v_head='標題', v_text='台詞'),
-    'zh-cn': dict(v_title='{name}语音', v_label='语音', v_desc='《异环》角色{name}有日常语音 {d} 句、战斗语音 {b} 句。', v_daily='日常', v_battle='战斗', v_char='角色', v_lines='语音', v_head='标题', v_text='台词'),
-    'ja': dict(v_title='{name}のボイス', v_label='ボイス', v_desc='NTE（異環）のキャラクター、{name}のボイスは日常{d}件、戦闘{b}件である。', v_daily='日常', v_battle='戦闘', v_char='キャラクター', v_lines='ボイス', v_head='タイトル', v_text='セリフ'),
-    'ko': dict(v_title='{name} 보이스', v_label='보이스', v_desc='이환(NTE) 캐릭터 {name}의 보이스는 일상 {d}개, 전투 {b}개다.', v_daily='일상', v_battle='전투', v_char='캐릭터', v_lines='보이스', v_head='제목', v_text='대사'),
+    'en': dict(v_title='{name} voice lines', v_label='Voice lines', v_desc='{name} has {d} daily and {b} combat voice lines.', v_daily='Daily', v_battle='Combat', v_char='Character', v_lines='Voice lines', v_head='Title', v_text='Line'),
+    'zh-tw': dict(v_title='{name}語音', v_label='語音', v_desc='{name}有日常語音 {d} 句、戰鬥語音 {b} 句。', v_daily='日常', v_battle='戰鬥', v_char='角色', v_lines='語音', v_head='標題', v_text='台詞'),
+    'zh-cn': dict(v_title='{name}语音', v_label='语音', v_desc='{name}有日常语音 {d} 句、战斗语音 {b} 句。', v_daily='日常', v_battle='战斗', v_char='角色', v_lines='语音', v_head='标题', v_text='台词'),
+    'ja': dict(v_title='{name}のボイス', v_label='ボイス', v_desc='{name}のボイスは日常{d}件、戦闘{b}件である。', v_daily='日常', v_battle='戦闘', v_char='キャラクター', v_lines='ボイス', v_head='タイトル', v_text='セリフ'),
+    'ko': dict(v_title='{name} 보이스', v_label='보이스', v_desc='{name}의 보이스는 일상 {d}개, 전투 {b}개다.', v_daily='일상', v_battle='전투', v_char='캐릭터', v_lines='보이스', v_head='제목', v_text='대사'),
 }
 for _k, _v in VL.items():
     L[_k].update(_v)

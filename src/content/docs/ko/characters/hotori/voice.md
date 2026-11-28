@@ -1,6 +1,6 @@
 ---
 title: 호토리 보이스
-description: 이환(NTE) 캐릭터 호토리의 보이스는 일상 35개, 전투 65개다.
+description: 호토리의 보이스는 일상 35개, 전투 65개다.
 aliases:
   - Hotori voice lines
   - 潯語音

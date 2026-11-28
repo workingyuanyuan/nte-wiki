@@ -1,6 +1,6 @@
 ---
 title: 薄荷語音
-description: 《異環》角色薄荷有日常語音 38 句、戰鬥語音 59 句。
+description: 薄荷有日常語音 38 句、戰鬥語音 59 句。
 aliases:
   - Mint voice lines
   - 薄荷语音

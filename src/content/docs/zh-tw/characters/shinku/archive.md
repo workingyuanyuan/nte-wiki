@@ -1,6 +1,6 @@
 ---
 title: 真紅個人檔案
-description: 《異環》角色真紅的個人檔案共有 7 則。
+description: 真紅的個人檔案共有 7 則。
 aliases:
   - Shinku archive
   - 真红个人档案

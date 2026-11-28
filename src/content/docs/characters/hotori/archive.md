@@ -1,6 +1,6 @@
 ---
 title: Hotori archive
-description: Hotori has 5 archive entries in NTE.
+description: Hotori has 5 archive entries.
 aliases:
   - 潯個人檔案
   - 浔个人档案

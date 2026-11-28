@@ -1,6 +1,6 @@
 ---
 title: Scarlet Phantom
-description: Scarlet Phantom is an NTE anomaly with the code T-1881 (Ob).
+description: Scarlet Phantom is an anomaly with the code T-1881 (Ob).
 aliases:
   - 瑰夜魅影
   - 薔薇の夜の幻影

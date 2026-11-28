@@ -1,6 +1,6 @@
 ---
 title: 哈尼婭語音
-description: 《異環》角色哈尼婭有日常語音 33 句、戰鬥語音 50 句。
+description: 哈尼婭有日常語音 33 句、戰鬥語音 50 句。
 aliases:
   - Haniel voice lines
   - 哈尼娅语音

@@ -1,6 +1,6 @@
 ---
 title: 스키아 아카이브
-description: 이환(NTE) 캐릭터 스키아의 아카이브는 6건이다.
+description: 스키아의 아카이브는 6건이다.
 aliases:
   - Skia archive
   - 翳個人檔案

@@ -1,6 +1,6 @@
 ---
 title: Nestbound Bird
-description: Nestbound Bird is an NTE anomaly with the code R-7799(Or).
+description: Nestbound Bird is an anomaly with the code R-7799(Or).
 aliases:
   - 囿巢鳥
   - 囿巢鸟

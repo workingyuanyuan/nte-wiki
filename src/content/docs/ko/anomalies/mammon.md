@@ -1,6 +1,6 @@
 ---
 title: 마몬
-description: 이환(NTE)의 이상 마몬의 코드는 C-4103[Or]다.
+description: 이상 마몬의 코드는 C-4103[Or]다.
 aliases:
   - Mammon
   - 瑪門

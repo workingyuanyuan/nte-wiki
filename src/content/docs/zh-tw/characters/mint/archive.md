@@ -1,6 +1,6 @@
 ---
 title: 薄荷個人檔案
-description: 《異環》角色薄荷的個人檔案共有 6 則。
+description: 薄荷的個人檔案共有 6 則。
 aliases:
   - Mint archive
   - 薄荷个人档案

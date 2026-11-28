@@ -1,6 +1,6 @@
 ---
 title: Zankou archive
-description: Zankou has 9 archive entries in NTE.
+description: Zankou has 9 archive entries.
 aliases:
   - 殘虹個人檔案
   - 残虹个人档案

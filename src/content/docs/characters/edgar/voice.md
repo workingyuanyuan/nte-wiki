@@ -1,6 +1,6 @@
 ---
 title: Edgar voice lines
-description: Edgar has 35 daily and 57 combat voice lines in NTE.
+description: Edgar has 35 daily and 57 combat voice lines.
 aliases:
   - 埃德嘉語音
   - 埃德嘉语音

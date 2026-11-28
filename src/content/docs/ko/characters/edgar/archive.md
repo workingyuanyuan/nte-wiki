@@ -1,6 +1,6 @@
 ---
 title: 에드가 아카이브
-description: 이환(NTE) 캐릭터 에드가의 아카이브는 6건이다.
+description: 에드가의 아카이브는 6건이다.
 aliases:
   - Edgar archive
   - 埃德嘉個人檔案

@@ -1,6 +1,6 @@
 ---
 title: 玛门
-description: 玛门是《异环》的异象，编号 C-4103[Or]。
+description: 玛门是异象，编号 C-4103[Or]。
 aliases:
   - Mammon
   - 瑪門

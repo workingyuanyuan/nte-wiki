@@ -1,6 +1,6 @@
 ---
 title: 둥지새
-description: 이환(NTE)의 이상 둥지새의 코드는 R-7799[Or]다.
+description: 이상 둥지새의 코드는 R-7799[Or]다.
 aliases:
   - Nestbound Bird
   - 囿巢鳥

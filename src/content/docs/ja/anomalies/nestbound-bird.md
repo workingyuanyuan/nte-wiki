@@ -1,6 +1,6 @@
 ---
 title: 巣囚鳥
-description: 巣囚鳥はNTE（異環）の異象で、コードはR-7799[Or]である。
+description: 巣囚鳥は異象で、コードはR-7799[Or]である。
 aliases:
   - Nestbound Bird
   - 囿巢鳥

@@ -1,6 +1,6 @@
 ---
 title: 海囚
-description: 海囚是《异环》的异象，编号 R-1851[Or]。
+description: 海囚是异象，编号 R-1851[Or]。
 aliases:
   - Sea Prisoner
   - シープリズン

@@ -1,6 +1,6 @@
 ---
 title: リンコのアーカイブ
-description: NTE（異環）のキャラクター、リンコのアーカイブは7件である。
+description: リンコのアーカイブは7件である。
 aliases:
   - Linko archive
   - 靈可個人檔案

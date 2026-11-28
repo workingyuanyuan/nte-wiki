@@ -1,6 +1,6 @@
 ---
 title: アドレーのボイス
-description: NTE（異環）のキャラクター、アドレーのボイスは日常35件、戦闘56件である。
+description: アドレーのボイスは日常35件、戦闘56件である。
 aliases:
   - Adler voice lines
   - 阿德勒語音

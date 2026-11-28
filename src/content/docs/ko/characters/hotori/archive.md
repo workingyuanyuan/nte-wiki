@@ -1,6 +1,6 @@
 ---
 title: 호토리 아카이브
-description: 이환(NTE) 캐릭터 호토리의 아카이브는 5건이다.
+description: 호토리의 아카이브는 5건이다.
 aliases:
   - Hotori archive
   - 潯個人檔案

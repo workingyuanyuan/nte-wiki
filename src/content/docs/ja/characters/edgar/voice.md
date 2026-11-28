@@ -1,6 +1,6 @@
 ---
 title: エドガーのボイス
-description: NTE（異環）のキャラクター、エドガーのボイスは日常35件、戦闘57件である。
+description: エドガーのボイスは日常35件、戦闘57件である。
 aliases:
   - Edgar voice lines
   - 埃德嘉語音
