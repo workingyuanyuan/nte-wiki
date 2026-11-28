@@ -10,7 +10,7 @@
     "preview": "node scripts/preview.mjs",
     "astro": "astro",
     "check": "node scripts/check-dist.mjs",
-    "verify": "node scripts/subset-font.mjs && astro build && node scripts/check-dist.mjs",
+    "verify": "node scripts/check-agents.mjs && node scripts/subset-font.mjs && astro build && node scripts/check-dist.mjs",
     "upstream": "node scripts/upstream.mjs"
   },
   "dependencies": {

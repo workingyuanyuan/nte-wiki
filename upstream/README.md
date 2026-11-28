@@ -41,10 +41,11 @@ One line for each difference, then the notes, then a count. A line reads `kind: 
 
 ## A new version
 
-1. Read the patch notes in English, then in Simplified Chinese (`/cn/`), Japanese (`/jp/`), Korean (`/kr/`) and the Taiwan post, as `AGENTS.md` says under Sources.
+1. Read the patch notes in English, then in Simplified Chinese (`/cn/`), Japanese (`/jp/`), Korean (`/kr/`) and the Taiwan post, as `AGENTS.md` says for names (the sources are in `SOURCES.md`).
 2. Add the version page in every language, add the Board to `systems/boards.md` and to the three A-Class pages that share it, add the new characters' pages, and update the home page (current version, current Boards, tables), the caveats that name the previous version, and `LLMS_NOTES` in `src/lib/site.mjs`.
 3. Run `scripts/to-zh-cn.py` for the Simplified Chinese pages.
-4. Move `VERSION` in `pipeline/fetch_nanoka.py`, delete `pipeline/cache/everness/`, and run the game text commands in `AGENTS.md` (Commands); new characters, outfits and Arcs are picked up from the pages' rows.
+4. Move `VERSION` in `pipeline/fetch_nanoka.py`, delete `pipeline/cache/everness/`, and run the game text commands in `pipeline/README.md`; new characters, outfits and Arcs are picked up from the pages' rows.
+5. Look for the guides of the new version as `../COMMUNITY.md` says.
 
 ## A new Board
 
