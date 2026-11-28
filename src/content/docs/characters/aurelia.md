@@ -23,7 +23,7 @@ sources:
     url: https://nte.perfectworld.com/kr/article/news/gamenews/20261019/264679.html
   - title: Prydwen, Aurelia character page (skills, attribute, Arc type)
     url: https://www.prydwen.gg/neverness-to-everness/characters/aurelia
-  - title: Game8, Aurelia build page (cross-check of skills and attribute)
+  - title: Game8, Aurelia build page (skills and attribute)
     url: https://game8.co/games/Neverness-to-Everness/archives/597759
   - title: nanoka.cc game data 1.5.4, character file in English
     url: https://static.nanoka.cc/nte/1.5.4/en/character/1070.json
@@ -33,6 +33,10 @@ sources:
     url: https://static.nanoka.cc/nte/1.5.4/ja/character/1070.json
   - title: nanoka.cc game data 1.5.4, character file in Korean
     url: https://static.nanoka.cc/nte/1.5.4/ko/character/1070.json
+  - title: Game8, list of characters (Standard and Limited boards)
+    url: https://game8.co/games/Neverness-to-Everness/archives/592067
+  - title: Prydwen, banners page (standard banner)
+    url: https://www.prydwen.gg/neverness-to-everness/banners
 ---
 
 ## Profile
@@ -51,7 +55,7 @@ Game8 spells two of her skills "Capella" and "Canon Chorus"; Prydwen spells them
 
 ## How to obtain
 
-Aurelia is one of three A-Class characters that share a place on Limited Boards, beside [Haniel](/characters/haniel/) and [Skia](/characters/skia/). Game8 also lists A-Class characters on the permanent Standard Board.
+Aurelia is one of three A-Class characters that share a place on Limited Boards, beside [Haniel](/characters/haniel/) and [Skia](/characters/skia/). A-Class characters are also on the permanent Standard Board.
 
 | Limited Board | S-Class character | Runs |
 | --- | --- | --- |

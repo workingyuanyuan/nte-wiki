@@ -33,7 +33,7 @@ sources:
     url: https://nte.perfectworld.com/kr/main.html?nav=2&role=20
   - title: Prydwen，娜娜莉角色页面（技能、属性、弧盘类型）
     url: https://www.prydwen.gg/neverness-to-everness/characters/nanally
-  - title: Game8，娜娜莉配装页面（交叉查证技能与属性）
+  - title: Game8，娜娜莉配装页面（技能与属性）
     url: https://game8.co/games/Neverness-to-Everness/archives/597504
   - title: nanoka.cc 游戏资料 1.5.4，角色档案（英文）
     url: https://static.nanoka.cc/nte/1.5.4/en/character/1010.json
@@ -43,6 +43,8 @@ sources:
     url: https://static.nanoka.cc/nte/1.5.4/ja/character/1010.json
   - title: nanoka.cc 游戏资料 1.5.4，角色档案（韩文）
     url: https://static.nanoka.cc/nte/1.5.4/ko/character/1010.json
+  - title: 叫我棉被，娜娜莉攻略影片，Bilibili（简体中文，2026-04-23）
+    url: https://www.bilibili.com/video/BV1ybo8BPEpx/
   - title: Everness，时装页面（繁体中文，例：华丽飞踢，2026-11-23 读取）
     url: https://everness.info/zh-Hant/cosmetics/Fashion_1010_2
 ---
@@ -182,3 +184,35 @@ sources:
 | 项目 | Lv. 1 | Lv. 2 | Lv. 3 | Lv. 4 | Lv. 5 | Lv. 6 | Lv. 7 | Lv. 8 | Lv. 9 | Lv. 10 | Lv. 11 | Lv. 12 | Lv. 13 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 伤害倍率 | 200% | 216% | 233.3% | 251.9% | 272.1% | 293.9% | 317.4% | 342.8% | 370.2% | 399.8% | 431.8% | 466.3% | 503.6% |
+
+## 机制细节
+
+- 「重拳出击！」的三段同样不会被闪避中断。[^1]
+- 「重拳出击！」第一段的前摇较长；第三段是上勾拳，后摇很长，造成伤害后可以闪避取消。[^2]
+- 第四段「柯林斯秘传技法」出手后切换角色，娜娜莉会在后台打完这一段，并自动打出第五段。[^3]
+- 娜娜莉以此在后台出手时不会受到伤害。[^4]
+- 第四段后切换的队友施放极轨终结时，娜娜莉会在动画期间照常打完第四、五段。[^5]
+- 「一代目的权柄」的基础持续时间为 12 秒。[^6]
+- 「一代目的权柄」使娜娜莉的暴击伤害提高 30%，并能在墙面上行走，不消耗体力。[^7]
+- 技能图示外圈的白圈显示「一代目的权柄」的剩余时间，白圈走完时效果结束。[^8]
+- 「副手」的基础持续时间为 6 秒。[^9]
+- 极轨终结期间，只有普通攻击带有牵引效果。[^10]
+- 「不止「一腔」的热血」把创生花的发射间隔缩短为 1 秒。[^11]
+- 「绝对「公正」的决斗」的追击每 2 秒最多触发一次，倍率在普通攻击 10 级时实测为 120%，11 级时为 129.5%。[^12]
+- 空幕加成最多使暴击率 +30%。[^13]
+- 「要叫大姐头」的追加攻击倍率在普通攻击 10 级时实测为 100%。[^14]
+
+[^1]: [叫我棉被，娜娜莉攻略影片，Bilibili（简体中文，2026-04-23），10:47](https://www.bilibili.com/video/BV1ybo8BPEpx/?t=647)
+[^2]: [叫我棉被，娜娜莉攻略影片，Bilibili（简体中文，2026-04-23），10:50](https://www.bilibili.com/video/BV1ybo8BPEpx/?t=650)
+[^3]: [叫我棉被，娜娜莉攻略影片，Bilibili（简体中文，2026-04-23），12:17](https://www.bilibili.com/video/BV1ybo8BPEpx/?t=737)
+[^4]: [叫我棉被，娜娜莉攻略影片，Bilibili（简体中文，2026-04-23），12:31](https://www.bilibili.com/video/BV1ybo8BPEpx/?t=751)
+[^5]: [叫我棉被，娜娜莉攻略影片，Bilibili（简体中文，2026-04-23），12:36](https://www.bilibili.com/video/BV1ybo8BPEpx/?t=756)
+[^6]: [叫我棉被，娜娜莉攻略影片，Bilibili（简体中文，2026-04-23），8:45](https://www.bilibili.com/video/BV1ybo8BPEpx/?t=525)
+[^7]: [叫我棉被，娜娜莉攻略影片，Bilibili（简体中文，2026-04-23），9:33](https://www.bilibili.com/video/BV1ybo8BPEpx/?t=573)
+[^8]: [叫我棉被，娜娜莉攻略影片，Bilibili（简体中文，2026-04-23），9:52](https://www.bilibili.com/video/BV1ybo8BPEpx/?t=592)
+[^9]: [叫我棉被，娜娜莉攻略影片，Bilibili（简体中文，2026-04-23），10:15](https://www.bilibili.com/video/BV1ybo8BPEpx/?t=615)
+[^10]: [叫我棉被，娜娜莉攻略影片，Bilibili（简体中文，2026-04-23），10:35](https://www.bilibili.com/video/BV1ybo8BPEpx/?t=635)
+[^11]: [叫我棉被，娜娜莉攻略影片，Bilibili（简体中文，2026-04-23），2:34](https://www.bilibili.com/video/BV1ybo8BPEpx/?t=154)
+[^12]: [叫我棉被，娜娜莉攻略影片，Bilibili（简体中文，2026-04-23），6:26](https://www.bilibili.com/video/BV1ybo8BPEpx/?t=386)
+[^13]: [叫我棉被，娜娜莉攻略影片，Bilibili（简体中文，2026-04-23），5:18](https://www.bilibili.com/video/BV1ybo8BPEpx/?t=318)
+[^14]: [叫我棉被，娜娜莉攻略影片，Bilibili（简体中文，2026-04-23），7:47](https://www.bilibili.com/video/BV1ybo8BPEpx/?t=467)

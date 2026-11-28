@@ -185,7 +185,7 @@ The Japanese and Korean names of Hethereau, Eibon Antique Shop and Bureau of Ano
 | Far Side of the Moon | 月的對蹠點 | 月的对跖点 | 月のB面 | 달의 대척점 |
 | Echoes on Hold | 靜候彩鈴 | 静候彩铃 | あなたを待ってる | 연결음이 흐르는 동안 |
 
-The Japanese and Korean names are from the game data and the notices, which write them the same way. An empty cell means that the notices listed as sources do not contain the name.
+The Japanese and Korean names are from the game data and the notices, which write them the same way.
 
 ## Combat terms
 

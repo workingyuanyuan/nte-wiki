@@ -24,7 +24,7 @@ sources:
     url: https://nte.perfectworld.com/kr/article/news/gamenews/20261109/264952.html
   - title: Prydwen, Edgar character page (skills, attribute, Arc type)
     url: https://www.prydwen.gg/neverness-to-everness/characters/edgar
-  - title: Game8, Edgar build page (cross-check of skills and attribute)
+  - title: Game8, Edgar build page (skills and attribute)
     url: https://game8.co/games/Neverness-to-Everness/archives/597811
   - title: nanoka.cc game data 1.5.4, character file in English
     url: https://static.nanoka.cc/nte/1.5.4/en/character/1021.json
@@ -34,6 +34,10 @@ sources:
     url: https://static.nanoka.cc/nte/1.5.4/ja/character/1021.json
   - title: nanoka.cc game data 1.5.4, character file in Korean
     url: https://static.nanoka.cc/nte/1.5.4/ko/character/1021.json
+  - title: Game8, list of characters (Standard and Limited boards)
+    url: https://game8.co/games/Neverness-to-Everness/archives/592067
+  - title: Prydwen, banners page (standard banner)
+    url: https://www.prydwen.gg/neverness-to-everness/banners
 ---
 
 ## Profile
@@ -50,7 +54,7 @@ sources:
 
 ## How to obtain
 
-Edgar is one of three A-Class characters that share a place on Limited Boards, beside [Mint](/characters/mint/) and [Adler](/characters/adler/). Game8 also lists A-Class characters on the permanent Standard Board.
+Edgar is one of three A-Class characters that share a place on Limited Boards, beside [Mint](/characters/mint/) and [Adler](/characters/adler/). A-Class characters are also on the permanent Standard Board.
 
 | Limited Board | S-Class character | Runs |
 | --- | --- | --- |

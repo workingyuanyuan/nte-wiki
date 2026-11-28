@@ -34,6 +34,8 @@ sources:
     url: https://nte.perfectworld.com/jp/article/news/gamenews/20261109/264951.html
   - title: Ver1.5アップデートのお知らせ、2026-11-09（異象巡礼「貴腐の巣母」、韓国語）
     url: https://nte.perfectworld.com/kr/article/news/gamenews/20261109/264952.html
+  - title: 叫我棉被、ナナリ攻略動画、Bilibili、簡体字中国語（2026-04-23）
+    url: https://www.bilibili.com/video/BV1ybo8BPEpx/
   - title: Everness、アイテムのページ（繁体字中国語、例：新鋭ハンター攻略、2026-11-23取得）
     url: https://everness.info/zh-Hant/items/CharacterUpMaterial_lv1
 ---
@@ -44,8 +46,11 @@ sources:
 | --- | --- |
 | キャラのレベル | 最大80。レベル30、40、50、60、70、80で突破する |
 | 弧盤のレベル | 最大80。突破するレベルはキャラと同じ |
-| レベル上限 | Prydwenによると、キャラはプレイヤーのハンターレベルを超えられない |
-| 覚醒 | キャラごとに6つあり、重複1体につき1つを好きな順番で選ぶ。覚醒3つと6つで共振が開放される |
+| レベル上限 | キャラはプレイヤーのハンターレベルを超えられない[^1] |
+| 覚醒 | キャラごとに6つあり、重複1体につき1つを好きな順番で選ぶ。覚醒3つと6つで共振が開放される。有効にした覚醒はいつでも入れ替えたり外したりできる。[^2] |
+
+[^1]: [Prydwen、キャラ育成ガイド](https://www.prydwen.gg/neverness-to-everness/guides/character-progression)
+[^2]: [叫我棉被、ナナリ攻略動画、Bilibili、簡体字中国語（2026-04-23）、6:52](https://www.bilibili.com/video/BV1ybo8BPEpx/?t=412)
 
 ## キャラEXP
 

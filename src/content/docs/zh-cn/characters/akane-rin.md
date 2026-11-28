@@ -36,7 +36,7 @@ sources:
     url: https://nte.perfectworld.com/kr/main.html?nav=2&role=20
   - title: Prydwen 的明音凛页面（技能、属性、弧盘类型）
     url: https://www.prydwen.gg/neverness-to-everness/characters/akane-rin
-  - title: Game8 的明音凛配装页面（交叉查证技能与属性）
+  - title: Game8 的明音凛配装页面（技能与属性）
     url: https://game8.co/games/Neverness-to-Everness/archives/632471
   - title: nanoka.cc 游戏资料 1.5.4，角色档案（英文）
     url: https://static.nanoka.cc/nte/1.5.4/en/character/1057.json
@@ -46,6 +46,8 @@ sources:
     url: https://static.nanoka.cc/nte/1.5.4/ja/character/1057.json
   - title: nanoka.cc 游戏资料 1.5.4，角色档案（韩文）
     url: https://static.nanoka.cc/nte/1.5.4/ko/character/1057.json
+  - title: 叫我棉被、零号攻略组，明音凛攻略影片，Bilibili（简体中文，2026-10-15）
+    url: https://www.bilibili.com/video/BV1BeJC6qEAr/
   - title: Everness，时装页面（繁体中文，例：茜色丝绒，2026-11-23 读取）
     url: https://everness.info/zh-Hant/cosmetics/Fashion_1057_1
 ---
@@ -169,3 +171,48 @@ sources:
 | 项目 | Lv. 1 | Lv. 2 | Lv. 3 | Lv. 4 | Lv. 5 | Lv. 6 | Lv. 7 | Lv. 8 | Lv. 9 | Lv. 10 | Lv. 11 | Lv. 12 | Lv. 13 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 伤害倍率及获得的「弦能」 | 200%，4 | 216%，4 | 233.3%，4 | 251.9%，4 | 272.1%，4 | 293.9%，4 | 317.4%，4 | 342.8%，4 | 370.2%，4 | 399.8%，4 | 431.8%，4 | 466.3%，4 | 503.6%，4 |
+
+## 机制细节
+
+- 「弦能」显示为明音凛血条上方的能量条。[^1]
+- 「弦刃」没有长按普攻模组，按住普攻键不放就会持续普攻。[^2]
+- 每段「弦刃」后按闪避会触发滑铲，距离比普通闪避远、无敌帧较长，且不会打断普攻连段。[^3]
+- 「弦刃」第三段耗时最久，以滑铲打断后可直接进入第四段，第四段则可以合轴。[^4]
+- 先用锁定键（PC 为滑鼠中键，手机为点按）锁定敌人时，点按「律动音浪」会为锁定的敌人附着「泛音列」；未锁定则附着在最近的敌人身上。[^5]
+- 附着「泛音列」后，明音凛与敌人之间会出现金色丝线，不论距离多远，普攻都能命中该敌人；在大世界中隔 100 公尺也能打到。[^6]
+- 「泛音列」形态的「同调共振」只打附着的敌人，其他敌人离得再近也不受伤害。[^7]
+- 展开「音域」后，明音凛每次普攻都会对「音域」内的敌人造成伤害，不论她在圈内或圈外。[^8]
+- 「音域」形态的「同调共振」对「音域」内每一个敌人造成伤害。[^9]
+- 「同调共振」只能在「泛音列」或「音域」存在时施放；持续时间结束后，「弦能」攒满也放不出来。[^10]
+- 「泛音列」与「音域」持续 25 秒，期间施放几次「同调共振」都不会结束它们。[^11]
+- 点按后，普攻对附着「泛音列」的目标获得 40% 倍率提升；长按后，普攻对「音域」内的敌人获得 60% 伤害提升。两者属于不同乘区。[^12]
+- 「烁星激昂」在极轨终结第一段后使明音凛攻击力提升 20%，持续 20 秒。[^13][^14]
+- 第一段结束 4 秒后第二段自动亮起。第二段会结束「华彩连段」的抗打断效果，但不会结束加攻效果。[^15]
+- 第二段的剩余可用时间显示在画面左侧的吉他上，琴弦走完前都能施放。[^16]
+- 施放第一段后，攻击即可继续累积极轨终结能量，不受第二段影响。[^17]
+- 队伍触发过「延滞」后，「泛音列」或「音域」每 3 秒为范围内的敌人施加一次「延滞」。[^18]
+- 「绝对音准」的额外伤害依目标剩余的「延滞」时间每秒提升 20%，上限 8 秒（160%）。[^19]
+- 「延滞」初始持续 5 秒，每 3 秒施加一次时剩 2 秒，只有 40% 增伤；[哈索尔](/zh-cn/characters/hathor/)入队后「延滞」持续 12 秒，剩 9 秒，可吃满 160%。[^20]
+- 「树荫下的胶囊罐」长按「律动音浪」时的聚怪范围约为「轨外之境」场地的 1/4。[^21]
+
+[^1]: [叫我棉被、零号攻略组，明音凛攻略影片，Bilibili（简体中文，2026-10-15），1:08](https://www.bilibili.com/video/BV1BeJC6qEAr/?t=68)
+[^2]: [叫我棉被、零号攻略组，明音凛攻略影片，Bilibili（简体中文，2026-10-15），11:14](https://www.bilibili.com/video/BV1BeJC6qEAr/?t=674)
+[^3]: [叫我棉被、零号攻略组，明音凛攻略影片，Bilibili（简体中文，2026-10-15），11:19](https://www.bilibili.com/video/BV1BeJC6qEAr/?t=679)
+[^4]: [叫我棉被、零号攻略组，明音凛攻略影片，Bilibili（简体中文，2026-10-15），11:40](https://www.bilibili.com/video/BV1BeJC6qEAr/?t=700)
+[^5]: [叫我棉被、零号攻略组，明音凛攻略影片，Bilibili（简体中文，2026-10-15），2:09](https://www.bilibili.com/video/BV1BeJC6qEAr/?t=129)
+[^6]: [叫我棉被、零号攻略组，明音凛攻略影片，Bilibili（简体中文，2026-10-15），2:19](https://www.bilibili.com/video/BV1BeJC6qEAr/?t=139)
+[^7]: [叫我棉被、零号攻略组，明音凛攻略影片，Bilibili（简体中文，2026-10-15），2:30](https://www.bilibili.com/video/BV1BeJC6qEAr/?t=150)
+[^8]: [叫我棉被、零号攻略组，明音凛攻略影片，Bilibili（简体中文，2026-10-15），2:37](https://www.bilibili.com/video/BV1BeJC6qEAr/?t=157)
+[^9]: [叫我棉被、零号攻略组，明音凛攻略影片，Bilibili（简体中文，2026-10-15），2:48](https://www.bilibili.com/video/BV1BeJC6qEAr/?t=168)
+[^10]: [叫我棉被、零号攻略组，明音凛攻略影片，Bilibili（简体中文，2026-10-15），2:52](https://www.bilibili.com/video/BV1BeJC6qEAr/?t=172)
+[^11]: [叫我棉被、零号攻略组，明音凛攻略影片，Bilibili（简体中文，2026-10-15），3:01](https://www.bilibili.com/video/BV1BeJC6qEAr/?t=181)
+[^12]: [叫我棉被、零号攻略组，明音凛攻略影片，Bilibili（简体中文，2026-10-15），3:13](https://www.bilibili.com/video/BV1BeJC6qEAr/?t=193)
+[^13]: [叫我棉被、零号攻略组，明音凛攻略影片，Bilibili（简体中文，2026-10-15），0:52](https://www.bilibili.com/video/BV1BeJC6qEAr/?t=52)
+[^14]: [叫我棉被、零号攻略组，明音凛攻略影片，Bilibili（简体中文，2026-10-15），10:32](https://www.bilibili.com/video/BV1BeJC6qEAr/?t=632)
+[^15]: [叫我棉被、零号攻略组，明音凛攻略影片，Bilibili（简体中文，2026-10-15），10:43](https://www.bilibili.com/video/BV1BeJC6qEAr/?t=643)
+[^16]: [叫我棉被、零号攻略组，明音凛攻略影片，Bilibili（简体中文，2026-10-15），10:54](https://www.bilibili.com/video/BV1BeJC6qEAr/?t=654)
+[^17]: [叫我棉被、零号攻略组，明音凛攻略影片，Bilibili（简体中文，2026-10-15），10:59](https://www.bilibili.com/video/BV1BeJC6qEAr/?t=659)
+[^18]: [叫我棉被、零号攻略组，明音凛攻略影片，Bilibili（简体中文，2026-10-15），3:25](https://www.bilibili.com/video/BV1BeJC6qEAr/?t=205)
+[^19]: [叫我棉被、零号攻略组，明音凛攻略影片，Bilibili（简体中文，2026-10-15），3:35](https://www.bilibili.com/video/BV1BeJC6qEAr/?t=215)
+[^20]: [叫我棉被、零号攻略组，明音凛攻略影片，Bilibili（简体中文，2026-10-15），3:42](https://www.bilibili.com/video/BV1BeJC6qEAr/?t=222)
+[^21]: [叫我棉被、零号攻略组，明音凛攻略影片，Bilibili（简体中文，2026-10-15），9:10](https://www.bilibili.com/video/BV1BeJC6qEAr/?t=550)

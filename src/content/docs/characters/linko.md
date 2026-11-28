@@ -28,7 +28,7 @@ sources:
     url: https://nte.perfectworld.com/kr/main.html?nav=2&role=20
   - title: Prydwen, Linko character page (skills, attribute, Arc type)
     url: https://www.prydwen.gg/neverness-to-everness/characters/linko
-  - title: Game8, Linko build page (cross-check of skills and attribute)
+  - title: Game8, Linko build page (skills and attribute)
     url: https://game8.co/games/Neverness-to-Everness/archives/619769
   - title: nanoka.cc game data 1.5.4, character file in English
     url: https://static.nanoka.cc/nte/1.5.4/en/character/1072.json
@@ -38,6 +38,8 @@ sources:
     url: https://static.nanoka.cc/nte/1.5.4/ja/character/1072.json
   - title: nanoka.cc game data 1.5.4, character file in Korean
     url: https://static.nanoka.cc/nte/1.5.4/ko/character/1072.json
+  - title: 叫我棉被 and 零号攻略组, Linko guide video, Bilibili, in Simplified Chinese (2026-09-03)
+    url: https://www.bilibili.com/video/BV19rtS6vEg7/
   - title: 'Everness, outfit pages in Traditional Chinese (example: Faded Spring, read 2026-11-23)'
     url: https://everness.info/zh-Hant/cosmetics/Fashion_1072_school
 ---
@@ -165,3 +167,47 @@ Costs Ultimate Energy: 100 at every level.
 | Spectral Cross DMG Ratio | 200% | 216% | 233.3% | 251.9% | 272.1% | 293.9% | 317.4% | 342.8% | 370.2% | 399.8% | 431.8% | 466.3% | 503.6% |
 | Linko's Synced Strike DMG Ratio | 500% | 540% | 583.2% | 629.9% | 680.2% | 734.7% | 793.4% | 856.9% | 925.5% | 999.5% | 1079.5% | 1165.8% | 1259.1% |
 | Xiaozhen's Synced Strike DMG Ratio | 33.3%×3+100% | 36%×3+108% | 38.8%×3+116.6% | 41.9%×3+126% | 45.3%×3+136% | 48.9%×3+146.9% | 52.8%×3+158.7% | 57.1%×3+171.4% | 61.6%×3+185.1% | 66.6%×3+199.9% | 71.9%×3+215.9% | 77.6%×3+233.2% | 83.9%×3+251.8% |
+
+## Mechanics in detail
+
+- Off the field, Linko applies a Hit 'Em Here! mark every 8 seconds. A mark lasts 10 seconds, and only one can be on the field at a time.[^1]
+- Linko applies no marks while she is on the field.[^2]
+- Switching Linko in pauses Xiaozhen's 8-second countdown instead of resetting it, and the countdown runs from the moment a mark is applied: when a mark is broken 7 seconds after it appeared, the next one comes right away.[^3]
+- Breaking a mark with another character's Skill builds Modulation for Linko; Basic Attacks build it too, but slowly.[^4]
+- Spending all Modulation adds up to 40% to the Synced Strike's damage, in the DMG Bonus multiplier.[^5]
+- A Synced Strike called with Full-Frequency Pulse has a built-in 150% DMG Bonus, on top of the up to 40% from Modulation.[^6]
+- The choice is timed. When the countdown runs out, or when Linko is switched out right after the Skill, Xiaozhen performs the Synced Strike.[^7]
+- While the wheel is open, the timer stops for about 14 seconds. As during an Ultimate animation, enemies and timers pause, while actions that allies have already started play on; Blossom's Vita Pistils do not attack during the pause.[^8]
+- The slot of a fallen or missing ally in the wheel goes to Xiaozhen, and each extra Xiaozhen adds 25% DMG Bonus to the Synced Strike when Xiaozhen is chosen.[^9]
+- Allies that [Iroi](/characters/iroi/)'s held Future Self Continuity puts into Regression stay in the wheel; allies in Regression because they fell are replaced by Xiaozhen.[^10]
+- During Oversync, pressing Skill three times calls the three allies' Synced Strikes in party order.[^11]
+- The final Anima burst gains 4% DMG Bonus for each kind of debuff on the target, up to 20%.[^12]
+- The Resonance Field stays for 8 seconds after the Oversync animation. A Support Skill cast in it on a switch counts as a Synced Strike and gains the RES reduction of Precision Tuning and the bonuses of Starlit Whispers and The World Answers, while it still triggers Esper Cycles as a Support Skill normally does.[^13]
+- Synced Strikes are a special kind of Support Skill and deal Follow-up Attack DMG.[^14] They do not trigger Esper Cycles, but they do set off the extra effects of the ally's own Support Skill, such as those of Iroi, [Jiuyuan](/characters/jiuyuan/), [Baicang](/characters/baicang/) and [Shinku](/characters/shinku/).[^15]
+- Attribute DMG Bonuses follow the Synced Strike's attribute: an Incantation Synced Strike by [Sakiri](/characters/sakiri/) does not gain Linko's Anima DMG Bonus.[^16]
+- Weakness Radar raises Hexed's extra Follow-up Attack to 30% of the damage dealt, and the team deals 10% more Follow-up Attack DMG to targets in Hexed.[^17]
+- Precision Tuning lowers the target's RES to the Synced Strike's attribute by 8% for 12 seconds; each attribute is lowered only once.[^18]
+- The RES reduction applies before the damage, so the first Synced Strike already gains it.[^19] Oversync's Synced Strikes apply the reductions for all allies' attributes at once.[^20]
+- In practice, All Frequencies Live raises the marks per rotation from about 2 to 3.[^21]
+
+[^1]: [叫我棉被 and 零号攻略组, Linko guide video, Bilibili, in Simplified Chinese (2026-09-03), 1:24](https://www.bilibili.com/video/BV19rtS6vEg7/?t=84)
+[^2]: [叫我棉被 and 零号攻略组, Linko guide video, Bilibili, in Simplified Chinese (2026-09-03), 13:09](https://www.bilibili.com/video/BV19rtS6vEg7/?t=789)
+[^3]: [叫我棉被 and 零号攻略组, Linko guide video, Bilibili, in Simplified Chinese (2026-09-03), 15:33](https://www.bilibili.com/video/BV19rtS6vEg7/?t=933)
+[^4]: [叫我棉被 and 零号攻略组, Linko guide video, Bilibili, in Simplified Chinese (2026-09-03), 1:40](https://www.bilibili.com/video/BV19rtS6vEg7/?t=100)
+[^5]: [叫我棉被 and 零号攻略组, Linko guide video, Bilibili, in Simplified Chinese (2026-09-03), 1:48](https://www.bilibili.com/video/BV19rtS6vEg7/?t=108)
+[^6]: [叫我棉被 and 零号攻略组, Linko guide video, Bilibili, in Simplified Chinese (2026-09-03), 3:29](https://www.bilibili.com/video/BV19rtS6vEg7/?t=209)
+[^7]: [叫我棉被 and 零号攻略组, Linko guide video, Bilibili, in Simplified Chinese (2026-09-03), 3:45](https://www.bilibili.com/video/BV19rtS6vEg7/?t=225)
+[^8]: [叫我棉被 and 零号攻略组, Linko guide video, Bilibili, in Simplified Chinese (2026-09-03), 15:07](https://www.bilibili.com/video/BV19rtS6vEg7/?t=907)
+[^9]: [叫我棉被 and 零号攻略组, Linko guide video, Bilibili, in Simplified Chinese (2026-09-03), 3:59](https://www.bilibili.com/video/BV19rtS6vEg7/?t=239)
+[^10]: [叫我棉被 and 零号攻略组, Linko guide video, Bilibili, in Simplified Chinese (2026-09-03), 4:15](https://www.bilibili.com/video/BV19rtS6vEg7/?t=255)
+[^11]: [叫我棉被 and 零号攻略组, Linko guide video, Bilibili, in Simplified Chinese (2026-09-03), 4:35](https://www.bilibili.com/video/BV19rtS6vEg7/?t=275)
+[^12]: [叫我棉被 and 零号攻略组, Linko guide video, Bilibili, in Simplified Chinese (2026-09-03), 4:46](https://www.bilibili.com/video/BV19rtS6vEg7/?t=286)
+[^13]: [叫我棉被 and 零号攻略组, Linko guide video, Bilibili, in Simplified Chinese (2026-09-03), 4:58](https://www.bilibili.com/video/BV19rtS6vEg7/?t=298)
+[^14]: [叫我棉被 and 零号攻略组, Linko guide video, Bilibili, in Simplified Chinese (2026-09-03), 2:31](https://www.bilibili.com/video/BV19rtS6vEg7/?t=151)
+[^15]: [叫我棉被 and 零号攻略组, Linko guide video, Bilibili, in Simplified Chinese (2026-09-03), 2:39](https://www.bilibili.com/video/BV19rtS6vEg7/?t=159)
+[^16]: [叫我棉被 and 零号攻略组, Linko guide video, Bilibili, in Simplified Chinese (2026-09-03), 3:03](https://www.bilibili.com/video/BV19rtS6vEg7/?t=183)
+[^17]: [叫我棉被 and 零号攻略组, Linko guide video, Bilibili, in Simplified Chinese (2026-09-03), 5:28](https://www.bilibili.com/video/BV19rtS6vEg7/?t=328)
+[^18]: [叫我棉被 and 零号攻略组, Linko guide video, Bilibili, in Simplified Chinese (2026-09-03), 5:45](https://www.bilibili.com/video/BV19rtS6vEg7/?t=345)
+[^19]: [叫我棉被 and 零号攻略组, Linko guide video, Bilibili, in Simplified Chinese (2026-09-03), 6:18](https://www.bilibili.com/video/BV19rtS6vEg7/?t=378)
+[^20]: [叫我棉被 and 零号攻略组, Linko guide video, Bilibili, in Simplified Chinese (2026-09-03), 6:25](https://www.bilibili.com/video/BV19rtS6vEg7/?t=385)
+[^21]: [叫我棉被 and 零号攻略组, Linko guide video, Bilibili, in Simplified Chinese (2026-09-03), 12:01](https://www.bilibili.com/video/BV19rtS6vEg7/?t=721)

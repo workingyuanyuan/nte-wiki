@@ -33,7 +33,7 @@ sources:
     url: https://nte.perfectworld.com/kr/main.html?nav=2&role=20
   - title: Prydwen, Shinku character page (skills, attribute, Arc type)
     url: https://www.prydwen.gg/neverness-to-everness/characters/shinku
-  - title: Game8, Shinku build page (cross-check of skills and attribute)
+  - title: Game8, Shinku build page (skills and attribute)
     url: https://game8.co/games/Neverness-to-Everness/archives/608722
   - title: nanoka.cc game data 1.5.4, character file in English
     url: https://static.nanoka.cc/nte/1.5.4/en/character/1076.json

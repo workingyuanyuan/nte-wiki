@@ -33,7 +33,7 @@ sources:
     url: https://nte.perfectworld.com/kr/main.html?nav=2&role=20
   - title: Prydwen，卡厄斯角色页面（技能、属性、弧盘类型）
     url: https://www.prydwen.gg/neverness-to-everness/characters/chaos
-  - title: Game8，卡厄斯配装页面（交叉查证技能与属性）
+  - title: Game8，卡厄斯配装页面（技能与属性）
     url: https://game8.co/games/Neverness-to-Everness/archives/606517
   - title: Prydwen，棋盘页面（即将返场）
     url: https://www.prydwen.gg/neverness-to-everness/banners
@@ -47,6 +47,8 @@ sources:
     url: https://static.nanoka.cc/nte/1.5.4/ja/character/1071.json
   - title: nanoka.cc 游戏资料 1.5.4，角色档案（韩文）
     url: https://static.nanoka.cc/nte/1.5.4/ko/character/1071.json
+  - title: 叫我棉被、零号攻略组，卡厄斯攻略影片，Bilibili（简体中文，2026-06-18）
+    url: https://www.bilibili.com/video/BV1bFLd6yEmD/
   - title: Everness，时装页面（繁体中文，例：放晴日，2026-11-23 读取）
     url: https://everness.info/zh-Hant/cosmetics/Fashion_1071_1
 ---
@@ -78,7 +80,9 @@ Chaos 同时也是英文版中「暗」属性的名称，与角色卡厄斯同�
 | 同棋盘 A 级角色 | [哈尼娅](/zh-cn/characters/haniel/)、[海月](/zh-cn/characters/aurelia/)、[翳](/zh-cn/characters/skia/) |
 | 掷骰奖励 | 滑翔翼皮肤「天际猎手」、Novis ST-X 950 涂装「猎犬奔袭」、时装「放晴日」：累计掷骰 50、120、200 次后于「沉雾礼遇」界面领取，也可能提前掷到对应格子 |
 
-「无归路」与弧盘「众人追寻之物」将在 1.5 版下半期返场，自 2026-12-02 起；Game8 写明结束时间为 2026-12-23 05:59 (UTC+8)。
+「无归路」与弧盘「众人追寻之物」将在 1.5 版下半期返场，自 2026-12-02 起；结束时间为 2026-12-23 05:59 (UTC+8)。[^1]
+
+[^1]: [Game8，棋盘一览（即将返场）](https://game8.co/games/Neverness-to-Everness/archives/592071)
 
 ## 技能
 
@@ -172,3 +176,52 @@ Chaos 同时也是英文版中「暗」属性的名称，与角色卡厄斯同�
 | 项目 | Lv. 1 | Lv. 2 | Lv. 3 | Lv. 4 | Lv. 5 | Lv. 6 | Lv. 7 | Lv. 8 | Lv. 9 | Lv. 10 | Lv. 11 | Lv. 12 | Lv. 13 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 伤害倍率 | 200% | 216% | 233.3% | 251.9% | 272.1% | 293.9% | 317.4% | 342.8% | 370.2% | 399.8% | 431.8% | 466.3% | 503.6% |
+
+## 机制细节
+
+- 普通攻击、技能、极限反击与极轨终结都能累积「罪状」。[^2]
+- 「罪状」条呈镰刀形，共 1,000 点：3 段镰刀柄各 300 点，1 段镰刀头 100 点。[^3]
+- 打完一整套五段「追猎」正好得到 300 点「罪状」，一次「疑点锁定」正好 100 点。[^4]
+- 「罪状」回满后，条上的镰刀头会垂下。[^5]
+- 一套普攻的回能与破韧大部分来自第五段。[^6]
+- 普攻的合轴：第一段（横斩）无法合轴；第二段（交叉斩击）可以合轴并接上第三段；第三段（下砸）合轴后会自动接上第四段；第四段（跳起射 3 枪）无法合轴，合轴后也没有第五段；第五段为前冲接斩击。[^7]
+- 施放「裁断」时卡厄斯自带霸体，不易被敌人攻击打断。[^8]
+- 「罪状」未满时长按普攻打出的是普通重击，不消耗也不增加「罪状」。[^9]
+- 重击无法合轴。长按放出普通重击后，即使「罪状」已满也不会自动接上强化重击；持续长按普攻会一直自动放出重击。[^10]
+- 「追缉许可」在敌人模型上显示为爪痕印记。[^11]
+- 习得「重点关注！」后，卡厄斯攻击带有「追缉许可」的敌人时获得 30% 增伤，比未习得时多 10 个百分点。[^12][^13]
+- 「追缉许可」的增伤应属普通增伤乘区：以身上已有增伤的卡厄斯测试，普攻伤害 262，挂上「追缉许可」后为 292，提升 11.45%。[^14]
+- 卡厄斯每 15 秒能挂 2 轮「追缉许可」。[^15]
+- 「恶名往复」期间，「罪状」每秒自动增加 150 点。[^16]
+- 「恶名往复」要求卡厄斯在前台，切人会损失大量「罪状」。[^17]
+- 「恶名往复」自动增加的「罪状」吃不到「灼见」的 40% 加成。[^18]
+- 「未迟到的正义」在「延滞」持续 5 秒时倍率为 800%，此后每多 1 秒提升 45%，最高提升 300%，即 3,200%（「延滞」持续 12 秒时）。[^19]
+- 实测：只用卡厄斯与[异能者·零](/zh-cn/characters/zero/)触发「延滞」时，暴击后的「延滞」伤害为 33,454；加入[翳](/zh-cn/characters/skia/)仍为 33,454；把翳换成[哈索尔](/zh-cn/characters/hathor/)则为 133,819。「未迟到的正义」的 300% 加成是独立乘区，且只有哈索尔能触发。[^20]
+- 两名加攻辅助把「延滞」伤害提到 53,038（+56%）；先触发「延滞」、后加攻仍为 53,038，「延滞」伤害不是快照，而是即时依卡厄斯的面板计算。[^21]
+- 传送点须先跑到该处、长按 G 键设置，都市特技可设上限 2 个；放下后卡厄斯不在队伍中也能使用。[^22]
+- 按 G 键可戴上面罩。[^23]
+- 卡厄斯的做饭互动能做出一道料理，使队伍中所有角色攻击力增加 100，持续 180 秒；多人游戏时仅对自己的角色生效。[^24]
+
+[^2]: [叫我棉被、零号攻略组，卡厄斯攻略影片，Bilibili（简体中文，2026-06-18），1:07](https://www.bilibili.com/video/BV1bFLd6yEmD/?t=67)
+[^3]: [叫我棉被、零号攻略组，卡厄斯攻略影片，Bilibili（简体中文，2026-06-18），2:01](https://www.bilibili.com/video/BV1bFLd6yEmD/?t=121)
+[^4]: [叫我棉被、零号攻略组，卡厄斯攻略影片，Bilibili（简体中文，2026-06-18），2:08](https://www.bilibili.com/video/BV1bFLd6yEmD/?t=128)
+[^5]: [叫我棉被、零号攻略组，卡厄斯攻略影片，Bilibili（简体中文，2026-06-18），1:11](https://www.bilibili.com/video/BV1bFLd6yEmD/?t=71)
+[^6]: [叫我棉被、零号攻略组，卡厄斯攻略影片，Bilibili（简体中文，2026-06-18），15:48](https://www.bilibili.com/video/BV1bFLd6yEmD/?t=948)
+[^7]: [叫我棉被、零号攻略组，卡厄斯攻略影片，Bilibili（简体中文，2026-06-18），15:54](https://www.bilibili.com/video/BV1bFLd6yEmD/?t=954)
+[^8]: [叫我棉被、零号攻略组，卡厄斯攻略影片，Bilibili（简体中文，2026-06-18），2:58](https://www.bilibili.com/video/BV1bFLd6yEmD/?t=178)
+[^9]: [叫我棉被、零号攻略组，卡厄斯攻略影片，Bilibili（简体中文，2026-06-18），3:03](https://www.bilibili.com/video/BV1bFLd6yEmD/?t=183)
+[^10]: [叫我棉被、零号攻略组，卡厄斯攻略影片，Bilibili（简体中文，2026-06-18），16:16](https://www.bilibili.com/video/BV1bFLd6yEmD/?t=976)
+[^11]: [叫我棉被、零号攻略组，卡厄斯攻略影片，Bilibili（简体中文，2026-06-18），1:19](https://www.bilibili.com/video/BV1bFLd6yEmD/?t=79)
+[^12]: [叫我棉被、零号攻略组，卡厄斯攻略影片，Bilibili（简体中文，2026-06-18），2:31](https://www.bilibili.com/video/BV1bFLd6yEmD/?t=151)
+[^13]: [叫我棉被、零号攻略组，卡厄斯攻略影片，Bilibili（简体中文，2026-06-18），6:44](https://www.bilibili.com/video/BV1bFLd6yEmD/?t=404)
+[^14]: [叫我棉被、零号攻略组，卡厄斯攻略影片，Bilibili（简体中文，2026-06-18），15:29](https://www.bilibili.com/video/BV1bFLd6yEmD/?t=929)
+[^15]: [叫我棉被、零号攻略组，卡厄斯攻略影片，Bilibili（简体中文，2026-06-18），14:13](https://www.bilibili.com/video/BV1bFLd6yEmD/?t=853)
+[^16]: [叫我棉被、零号攻略组，卡厄斯攻略影片，Bilibili（简体中文，2026-06-18），2:37](https://www.bilibili.com/video/BV1bFLd6yEmD/?t=157)
+[^17]: [叫我棉被、零号攻略组，卡厄斯攻略影片，Bilibili（简体中文，2026-06-18），10:35](https://www.bilibili.com/video/BV1bFLd6yEmD/?t=635)
+[^18]: [叫我棉被、零号攻略组，卡厄斯攻略影片，Bilibili（简体中文，2026-06-18），13:19](https://www.bilibili.com/video/BV1bFLd6yEmD/?t=799)
+[^19]: [叫我棉被、零号攻略组，卡厄斯攻略影片，Bilibili（简体中文，2026-06-18），3:15](https://www.bilibili.com/video/BV1bFLd6yEmD/?t=195)
+[^20]: [叫我棉被、零号攻略组，卡厄斯攻略影片，Bilibili（简体中文，2026-06-18），16:44](https://www.bilibili.com/video/BV1bFLd6yEmD/?t=1004)
+[^21]: [叫我棉被、零号攻略组，卡厄斯攻略影片，Bilibili（简体中文，2026-06-18），17:08](https://www.bilibili.com/video/BV1bFLd6yEmD/?t=1028)
+[^22]: [叫我棉被、零号攻略组，卡厄斯攻略影片，Bilibili（简体中文，2026-06-18），3:55](https://www.bilibili.com/video/BV1bFLd6yEmD/?t=235)
+[^23]: [叫我棉被、零号攻略组，卡厄斯攻略影片，Bilibili（简体中文，2026-06-18），4:19](https://www.bilibili.com/video/BV1bFLd6yEmD/?t=259)
+[^24]: [叫我棉被、零号攻略组，卡厄斯攻略影片，Bilibili（简体中文，2026-06-18），7:03](https://www.bilibili.com/video/BV1bFLd6yEmD/?t=423)

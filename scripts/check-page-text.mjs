@@ -123,3 +123,18 @@ export function checkCommunity(doc, id, fail, sources) {
 		if (!cites(el)) fail(id, `community page: text names no source: ${el.textContent.replace(/\s+/g, ' ').trim().slice(0, 60)}`);
 	}
 }
+
+// A fact that rests on one secondary source carries a numbered footnote (../AGENTS.md, Visible
+// page): each note links a document that the page's `sources` lists, and each mark has its note.
+export function checkFootnotes(doc, id, fail, sources) {
+	const content = doc.querySelector('main .sl-markdown-content');
+	if (!content) return;
+	const notes = new Map([...content.querySelectorAll('section[data-footnotes] li[id]')].map((li) => [li.id, li]));
+	for (const ref of content.querySelectorAll('a[data-footnote-ref]')) {
+		if (!notes.has(ref.getAttribute('href').slice(1))) fail(id, `footnote ${ref.textContent} has no note`);
+	}
+	for (const [noteId, li] of notes) {
+		const cites = [...li.querySelectorAll('a[href]')].some((a) => sources.some((s) => a.getAttribute('href').startsWith(s)));
+		if (!cites) fail(id, `footnote ${noteId.replace(/^user-content-fn-/, '')} links no document in sources: ${li.textContent.trim().slice(0, 60)}`);
+	}
+}

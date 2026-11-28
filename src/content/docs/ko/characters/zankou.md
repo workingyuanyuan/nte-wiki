@@ -27,7 +27,7 @@ sources:
     url: https://nte.perfectworld.com/kr/main.html?nav=2&role=20
   - title: Prydwen, 잔홍 캐릭터 페이지(스킬, 속성, 아크 타입)
     url: https://www.prydwen.gg/neverness-to-everness/characters/zankou
-  - title: Game8, 잔홍 빌드 페이지(스킬과 속성 교차 확인)
+  - title: Game8, 잔홍 빌드 페이지(스킬과 속성)
     url: https://game8.co/games/Neverness-to-Everness/archives/616188
   - title: nanoka.cc 게임 데이터 1.5.4, 영어 캐릭터 파일
     url: https://static.nanoka.cc/nte/1.5.4/en/character/1036.json
@@ -37,6 +37,8 @@ sources:
     url: https://static.nanoka.cc/nte/1.5.4/ja/character/1036.json
   - title: nanoka.cc 게임 데이터 1.5.4, 한국어 캐릭터 파일
     url: https://static.nanoka.cc/nte/1.5.4/ko/character/1036.json
+  - title: 叫我棉被·零号攻略组, 잔홍 공략 영상, Bilibili, 중국어 간체(2026-08-13)
+    url: https://www.bilibili.com/video/BV1ksg76LETE/
   - title: 'Everness, 코스튬 페이지(번체 중국어, 예: 보랏빛 불꽃, 2026-11-23 확인)'
     url: https://everness.info/zh-Hant/cosmetics/Fashion_1036_swimsuit
 ---
@@ -171,3 +173,46 @@ sources:
 | 항목 | Lv. 1 | Lv. 2 | Lv. 3 | Lv. 4 | Lv. 5 | Lv. 6 | Lv. 7 | Lv. 8 | Lv. 9 | Lv. 10 | Lv. 11 | Lv. 12 | Lv. 13 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 「불멸의 화염」 피해 배율 | 200% | 216% | 233.3% | 251.9% | 272.1% | 293.9% | 317.4% | 342.8% | 370.2% | 399.8% | 431.8% | 466.3% | 503.6% |
+
+## 세부 메커니즘
+
+- 잔홍은 현실 상태로 필드에 나오며, 이 상태의 「사냥」은 자신이 주는 피해를 25% 높인다.[^1]
+- 강화된 「진홍빛 잔영」은 「들불」 4단이나 5단 뒤, 또는 「아른거리는 그림자」 뒤에 쓸 수 있다. 「아른거리는 그림자」는 일반 공격을 바로 길게 누르거나 「들불」 1단이나 2단 뒤에 길게 누르면 나간다.[^2]
+- 「아른거리는 그림자」 뒤에는 곧바로 「들불」 5단이 이어진다.[^3] 「들불」 1단, 「아른거리는 그림자」, 5단으로 이어지는 연속 공격은 모두 합쳐 약 0.7초가 걸린다.[^4]
+- 환상 상태의 「악몽의 춤」은 1단마다 지속 피해를 1중첩 부여하고, 목표의 지속 피해를 주변의 모든 적(원래 목표 포함)에게 1중첩 확산시킨다. 따라서 원래 목표는 1단마다 2중첩을 얻는다.[^5]
+- 확산은 지속 피해 본래의 중첩 방식을 바꾸지 않는다. [라크리모사](/ko/characters/lacrimosa/)의 「악몽」은 중첩마다 따로 시간을 재며, 확산으로 늘어난 중첩은 기존 중첩과 그 남은 시간에 영향을 주지 않는다.[^6]
+- 강화된 「진홍빛 잔영」은 적에게 지속 피해를 5중첩 추가로 부여한다.[^7]
+- 「진홍빛 잔영」은 강화 여부와 관계없이 잔홍을 환상 상태로 바꾸며, 「사냥」의 25%는 환상 상태로 이어진다.[^8]
+- 「진홍빛 잔영」 뒤 바이레일 스킬은 5초 쿨타임에 들어간다. 환상 상태에서 쿨타임이 끝나면 강화된 「갈라진 영혼」을 쓸 수 있다.[^9]
+- 환상 상태는 8초만 지속되며, 그동안 「현혹」이 지속 피해의 치명 피해를 25% 높인다. 캐릭터를 교체하면 환상 상태가 바로 끝난다.[^10]
+- 강화된 「갈라진 영혼」은 「핏기 어린 꿈」을 해제할 뿐이며, 발동하려면 울트에너지가 가득 차 있어야 한다.[^11]
+- 강화된 「타버린 종말의 춤」은 「핏기 어린 꿈」 뒤 5초 안에 이어서 쓸 수 있다.[^12]
+- 울티메이트 쿨타임은 「핏기 어린 꿈」을 쓸 때부터 계산되며, 이어서 쓰는 공격이 쿨타임을 늦추지 않는다.[^13]
+- 「핏기 어린 꿈」을 평소대로 쓰고 지속 피해를 유지하는 경우, 환상 상태 한 사이클을 위해 잔홍은 로테이션마다 약 8.5초 필드에 있어야 하며, 이 시간은 거의 고정되어 있다.[^14]
+- 새 「스코치」는 잔홍이 부여하고 모든 중첩이 가장 새로운 중첩의 수치로 갱신되므로, 파티의 「스코치」 피해는 대체로 잔홍의 사이클 강도를 따른다.[^15]
+- 「스코치」를 한 번 발동시키면 잔홍 자신의 지속 피해만으로 3중첩을 계속 유지할 수 있다.[^16]
+- 「검붉은 환영」의 사이클 강도 100은 「스코치」 피해를 약 16.7% 높이고, 잔홍이 「헥스」를 발동하면 독립 배율로 8.57%가 더해진다.[^17]
+- 「심연의 입맞춤」의 150%는 독립 배율이라, 효과를 받은 「타버린 종말의 춤」의 피해가 2.5배가 된다.[^18]
+- 「꽃과 피」의 붕괴 피해 300%는 붕괴 강도와 합산되며 곱해지지 않는다.[^19]
+- 「핏발 서린 안광」은 최대 20중첩까지 계산하며, 잔홍 혼자서도 목표에게 20중첩을 쌓을 수 있다.[^20]
+
+[^1]: [叫我棉被·零号攻略组, 잔홍 공략 영상, Bilibili, 중국어 간체(2026-08-13), 2:21](https://www.bilibili.com/video/BV1ksg76LETE/?t=141)
+[^2]: [叫我棉被·零号攻略组, 잔홍 공략 영상, Bilibili, 중국어 간체(2026-08-13), 2:30](https://www.bilibili.com/video/BV1ksg76LETE/?t=150)
+[^3]: [叫我棉被·零号攻略组, 잔홍 공략 영상, Bilibili, 중국어 간체(2026-08-13), 17:15](https://www.bilibili.com/video/BV1ksg76LETE/?t=1035)
+[^4]: [叫我棉被·零号攻略组, 잔홍 공략 영상, Bilibili, 중국어 간체(2026-08-13), 17:32](https://www.bilibili.com/video/BV1ksg76LETE/?t=1052)
+[^5]: [叫我棉被·零号攻略组, 잔홍 공략 영상, Bilibili, 중국어 간체(2026-08-13), 3:12](https://www.bilibili.com/video/BV1ksg76LETE/?t=192)
+[^6]: [叫我棉被·零号攻略组, 잔홍 공략 영상, Bilibili, 중국어 간체(2026-08-13), 3:38](https://www.bilibili.com/video/BV1ksg76LETE/?t=218)
+[^7]: [叫我棉被·零号攻略组, 잔홍 공략 영상, Bilibili, 중국어 간체(2026-08-13), 2:50](https://www.bilibili.com/video/BV1ksg76LETE/?t=170)
+[^8]: [叫我棉被·零号攻略组, 잔홍 공략 영상, Bilibili, 중국어 간체(2026-08-13), 2:55](https://www.bilibili.com/video/BV1ksg76LETE/?t=175)
+[^9]: [叫我棉被·零号攻略组, 잔홍 공략 영상, Bilibili, 중국어 간체(2026-08-13), 1:10](https://www.bilibili.com/video/BV1ksg76LETE/?t=70)
+[^10]: [叫我棉被·零号攻略组, 잔홍 공략 영상, Bilibili, 중국어 간체(2026-08-13), 3:03](https://www.bilibili.com/video/BV1ksg76LETE/?t=183)
+[^11]: [叫我棉被·零号攻略组, 잔홍 공략 영상, Bilibili, 중국어 간체(2026-08-13), 1:20](https://www.bilibili.com/video/BV1ksg76LETE/?t=80)
+[^12]: [叫我棉被·零号攻略组, 잔홍 공략 영상, Bilibili, 중국어 간체(2026-08-13), 4:05](https://www.bilibili.com/video/BV1ksg76LETE/?t=245)
+[^13]: [叫我棉被·零号攻略组, 잔홍 공략 영상, Bilibili, 중국어 간체(2026-08-13), 4:09](https://www.bilibili.com/video/BV1ksg76LETE/?t=249)
+[^14]: [叫我棉被·零号攻略组, 잔홍 공략 영상, Bilibili, 중국어 간체(2026-08-13), 17:49](https://www.bilibili.com/video/BV1ksg76LETE/?t=1069)
+[^15]: [叫我棉被·零号攻略组, 잔홍 공략 영상, Bilibili, 중국어 간체(2026-08-13), 4:47](https://www.bilibili.com/video/BV1ksg76LETE/?t=287)
+[^16]: [叫我棉被·零号攻略组, 잔홍 공략 영상, Bilibili, 중국어 간체(2026-08-13), 5:02](https://www.bilibili.com/video/BV1ksg76LETE/?t=302)
+[^17]: [叫我棉被·零号攻略组, 잔홍 공략 영상, Bilibili, 중국어 간체(2026-08-13), 5:14](https://www.bilibili.com/video/BV1ksg76LETE/?t=314)
+[^18]: [叫我棉被·零号攻略组, 잔홍 공략 영상, Bilibili, 중국어 간체(2026-08-13), 14:14](https://www.bilibili.com/video/BV1ksg76LETE/?t=854)
+[^19]: [叫我棉被·零号攻略组, 잔홍 공략 영상, Bilibili, 중국어 간체(2026-08-13), 15:17](https://www.bilibili.com/video/BV1ksg76LETE/?t=917)
+[^20]: [叫我棉被·零号攻略组, 잔홍 공략 영상, Bilibili, 중국어 간체(2026-08-13), 15:44](https://www.bilibili.com/video/BV1ksg76LETE/?t=944)

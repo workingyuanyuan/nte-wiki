@@ -29,6 +29,8 @@ sources:
     url: https://www.kaiden.gg/nte/guides/pre-patch-1-1-preparation-guide-resources-milestones-and-double-drop-windows/
   - title: NGA forum, player test of Cartridge and Module EXP, in Simplified Chinese (read 2026-11-21)
     url: https://bbs.nga.cn/read.php?tid=46767393
+  - title: 叫我棉被, Nanally guide video, Bilibili, in Simplified Chinese (2026-04-23)
+    url: https://www.bilibili.com/video/BV1ybo8BPEpx/
 ---
 
 ## How it works
@@ -37,9 +39,11 @@ sources:
 | --- | --- |
 | Console | A grid board on each character; its layout and bonus differ per character |
 | Cartridge | Sets the set effect; carries one main stat and four sub stats, rolled when it drops |
-| Module | Fills the grid; one main stat and up to four sub stats. Sorted by type (cells taken) and shape |
+| Module | Fills the grid; one main stat and up to four sub stats. Sorted by type (cells taken) and shape. Its main stat is fixed.[^1] |
 | Set effect | 2 and 4 Modules of the shapes the Cartridge lists activate its 2-piece and 4-piece effects |
 | Character bonus | Each character gains a stat for every Module of one type |
+
+[^1]: [叫我棉被, Nanally guide video, Bilibili, in Simplified Chinese (2026-04-23), 5:24](https://www.bilibili.com/video/BV1ybo8BPEpx/?t=324)
 
 ## Where they come from
 
@@ -54,14 +58,16 @@ sources:
 
 Modules and Cartridges level up with Manhole items. Dismantling an upgraded Module returns all the EXP it holds from upgrades and 80% of the Beetle Coins; feeding it straight into another piece loses part of that EXP.
 
-A player test on the NGA forum adds the details, for Cartridges as well as Modules:
+Cartridges and Modules follow the same rules:
 
-| Action | Result in the test |
+| Action | Result[^2] |
 | --- | --- |
 | Feeding gear | Any Module or Cartridge can be fed to any other. The piece fed in passes on 80% of the EXP it holds from upgrades, plus all of its base EXP |
 | Beetle Coin cost | 1 coin per 50 EXP of Manhole items used, or per 50 base EXP of a piece fed in. Coins spent on EXP beyond the level cap are not refunded |
 | EXP beyond the cap | Comes back as Manhole items; any remainder under 1,000 is lost |
 | Dismantling | EXP from upgrades comes back in full as Manhole items, with 80% of its coins. Base EXP comes back as Manhole items, or as Carrota of the piece's rarity: 12 for a Cartridge, 8 for a Module |
+
+[^2]: [NGA forum, player test of Cartridge and Module EXP, in Simplified Chinese (read 2026-11-21)](https://bbs.nga.cn/read.php?tid=46767393)
 
 ## Module types
 

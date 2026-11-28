@@ -40,6 +40,17 @@ sources:
 
 - [配隊](/zh-tw/community/teams/)
 - [角色養成](/zh-tw/community/builds/)
+- [曳爾沐攻略](/zh-tw/community/elyms/)
+- [明音凜攻略](/zh-tw/community/akane-rin/)
+- [黑羽攻略](/zh-tw/community/blackbird/)
+- [靈可攻略](/zh-tw/community/linko/)
+- [殘虹攻略](/zh-tw/community/zankou/)
+- [伊洛伊攻略](/zh-tw/community/iroi/)
+- [卡厄斯攻略](/zh-tw/community/chaos/)
+- [安魂曲攻略](/zh-tw/community/lacrimosa/)
+- [娜娜莉攻略](/zh-tw/community/nanally/)
+- [小吱攻略](/zh-tw/community/chiz/)
+- [Exe攻略](/zh-tw/community/exe/)
 
 ## 來源
 

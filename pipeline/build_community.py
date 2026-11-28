@@ -1,6 +1,7 @@
 """Write the community section (社群攻略, /community/) in every language from records/community/.
 
   python3 pipeline/build_community.py
+  python3 pipeline/build_community.py --check draft.json   # validate draft claims, write nothing
 
 Pages: community/index, community/teams, community/builds, in en, zh-tw, zh-cn, ja and ko. Run it
 after scripts/to-zh-cn.py, which leaves community/ alone: this script writes zh-cn itself, with the
@@ -123,7 +124,8 @@ T = {
         teams_caveat='In a team, characters joined by "or" fill one slot: any one of them.',
         builds_desc='NTE character builds from Bilibili guides: Arcs, cartridge sets, stats and skill order for {n} characters.',
         builds_caveat='Operators are the creator\'s: > ranks before, ≈ and = rank about equal, / means either; Arcs listed with commas are not ranked.',
-        applies='{versions}, {server}; {n} Bilibili videos ({first} to {last}, read {read})',
+        applies='{versions}, {server}; {n} Bilibili video{s} ({first} to {last}, read {read})',
+        applies1='{versions}, {server}; {n} Bilibili video{s} (published {first}, read {read})',
         teams_row='[{creator}]({url})', idx_teams='Teams that {creators} recommend for {n} characters',
         idx_builds='Arcs, cartridge sets, main stats, sub-stats, passives and skill order for {n} characters',
         src_title='{title} (Bilibili, {creator}, {date})'),
@@ -142,6 +144,7 @@ T = {
         builds_desc='《異環》Bilibili 攻略的角色養成：{n} 名角色的弧盤、卡帶、詞條與技能升級順序。',
         builds_caveat='符號照創作者的寫法：> 表示優先，≈ 與 = 表示相近，/ 表示擇一；以頓號並列的弧盤不分先後。',
         applies='{versions}，{server}；{n} 部 Bilibili 影片（{first} 至 {last} 發布，{read} 讀取）',
+        applies1='{versions}，{server}；{n} 部 Bilibili 影片（{first} 發布，{read} 讀取）',
         idx_teams='{creators}為 {n} 名角色推薦的隊伍',
         idx_builds='{n} 名角色的弧盤、卡帶套裝、主詞條、副詞條、被動技能與技能升級順序',
         src_title='{title}（Bilibili，{creator}，{date}）'),
@@ -160,6 +163,7 @@ T = {
         builds_desc='《异环》Bilibili 攻略的角色养成：{n} 名角色的弧盘、卡带、词条与技能升级顺序。',
         builds_caveat='符号照创作者的写法：> 表示优先，≈ 与 = 表示相近，/ 表示择一；以顿号并列的弧盘不分先后。',
         applies='{versions}，{server}；{n} 部 Bilibili 视频（{first} 至 {last} 发布，{read} 读取）',
+        applies1='{versions}，{server}；{n} 部 Bilibili 视频（{first} 发布，{read} 读取）',
         idx_teams='{creators}为 {n} 名角色推荐的队伍',
         idx_builds='{n} 名角色的弧盘、卡带套装、主词条、副词条、被动技能与技能升级顺序',
         src_title='{title}（Bilibili，{creator}，{date}）'),
@@ -178,6 +182,7 @@ T = {
         builds_desc='NTE（異環）の Bilibili 攻略によるキャラクター育成：{n} キャラクターの弧盤、カートリッジ、ステータス、スキル順。',
         builds_caveat='記号は投稿者の書き方のまま：> は優先、≈ と = はほぼ同等、/ はいずれか。読点で並べた弧盤は順位なし。',
         applies='{versions}、{server}；Bilibili の動画 {n} 本（{first}〜{last} 投稿、{read} 確認）',
+        applies1='{versions}、{server}；Bilibili の動画 {n} 本（{first} 投稿、{read} 確認）',
         idx_teams='{creators}が {n} キャラクターに推奨するチーム',
         idx_builds='{n} キャラクターの弧盤、カートリッジセット、メインステータス、サブステータス、パッシブ、スキル順',
         src_title='{title}（Bilibili、{creator}、{date}）'),
@@ -196,6 +201,7 @@ T = {
         builds_desc='이환(NTE) Bilibili 공략의 캐릭터 육성: 캐릭터 {n}명의 아크, 카트리지, 능력치, 스킬 순서.',
         builds_caveat='기호는 제작자의 표기 그대로: > 는 우선, ≈ 와 = 는 비슷함, / 는 둘 중 하나. 쉼표로 나열한 아크는 순서가 없다.',
         applies='{versions}, {server}; Bilibili 영상 {n}편({first}~{last} 게시, {read} 확인)',
+        applies1='{versions}, {server}; Bilibili 영상 {n}편({first} 게시, {read} 확인)',
         idx_teams='{creators}이(가) 캐릭터 {n}명에게 추천한 파티',
         idx_builds='캐릭터 {n}명의 아크, 카트리지 세트, 주 능력치, 부 능력치, 패시브, 스킬 순서',
         src_title='{title} (Bilibili, {creator}, {date})'),
@@ -260,9 +266,9 @@ def character_names():
         chars[slug] = {}
         for lang in LANGS:
             p = os.path.join(DOCS, PREFIX[lang] + 'characters', slug + '.md')
-            chars[slug][lang] = {'name': page_title(p), 'passives': passives(p), 'page': True}
+            chars[slug][lang] = {'name': page_title(p), 'passives': passives(p), 'page': True, 'awakenings': awakenings(p, lang)}
     for slug, rec in load('community/names.json')['characters'].items():
-        chars[slug] = {lang: {'name': rec['name'][lang], 'passives': {int(k): v[lang] for k, v in rec['passives'].items()}, 'page': False} for lang in LANGS}
+        chars[slug] = {lang: {'name': rec['name'][lang], 'passives': {int(k): v[lang] for k, v in rec['passives'].items()}, 'page': False, 'awakenings': []} for lang in LANGS}
     return chars
 
 
@@ -286,6 +292,56 @@ def norm(s):
 # ---------------------------------------------------------------- the creator's text, rendered
 
 OPS = r'(>|≈|=|≥|/)'
+
+
+ACTS = {  # the guides' words for one action in a rotation, beyond the four skill slots
+    '长按普攻': {'en': 'hold Basic Attack', 'zh-tw': '長按普通攻擊', 'zh-cn': '长按普通攻击', 'ja': '通常攻撃長押し', 'ko': '일반 공격 길게 누르기'},
+    '强化技能': {'en': 'Enhanced Skill', 'zh-tw': '強化技能', 'zh-cn': '强化技能', 'ja': '強化スキル', 'ko': '강화 스킬'},
+    '怪物技能': {'en': 'copied monster skill', 'zh-tw': '複製的怪物技能', 'zh-cn': '复制的怪物技能', 'ja': 'コピーした怪物スキル', 'ko': '복제한 괴물 스킬'},
+    '闪避': {'en': 'dodge', 'zh-tw': '閃避', 'zh-cn': '闪避', 'ja': '回避', 'ko': '회피'},
+}
+
+G = {  # strings of the character guide pages
+    'en': dict(title='{name} guide', pull='Pulls and Awakenings', teams='Teams and rotations', build='Arcs and cartridges', play='Playing tips',
+               awak='Awakening {n}', res='Resonance {n}', gain='Gain ({who})', cond='Conditions', at='Video', item='Item',
+               advice='Advice ({who})', rotation='Rotation', reason='Reason', tip='Tip', then=' → ', step='{who}: {acts}',
+               desc='Bilibili creators\' advice on {name}: pulls, Awakening gains, team rotations, Arcs, cartridges and tips.',
+               caveat='Every gain is the creator\'s own estimate under the conditions in its row, for the game version the creator played.'),
+    'zh-tw': dict(title='{name}攻略', pull='抽取與覺醒', teams='配隊與出招順序', build='弧盤與卡帶', play='操作技巧',
+                  awak='覺醒 {n}', res='共鳴 {n}', gain='收益（{who}）', cond='條件', at='影片', item='項目',
+                  advice='建議（{who}）', rotation='出招順序', reason='理由', tip='技巧', then=' → ', step='{who}：{acts}',
+                  desc='Bilibili 攻略創作者的{name}攻略：抽取與覺醒收益、配隊出招順序、弧盤與卡帶、操作技巧。',
+                  caveat='每項收益都是創作者在該列條件下、於其所玩版本的估算。'),
+    'zh-cn': dict(title='{name}攻略', pull='抽取与觉醒', teams='配队与出招顺序', build='弧盘与卡带', play='操作技巧',
+                  awak='觉醒 {n}', res='共鸣 {n}', gain='收益（{who}）', cond='条件', at='视频', item='项目',
+                  advice='建议（{who}）', rotation='出招顺序', reason='理由', tip='技巧', then=' → ', step='{who}：{acts}',
+                  desc='Bilibili 攻略创作者的{name}攻略：抽取与觉醒收益、配队出招顺序、弧盘与卡带、操作技巧。',
+                  caveat='每项收益都是创作者在该行条件下、于其所玩版本的估算。'),
+    'ja': dict(title='{name}攻略', pull='入手と覚醒', teams='編成と立ち回り', build='弧盤とカートリッジ', play='操作のコツ',
+               awak='覚醒{n}', res='共振{n}', gain='効果（{who}）', cond='条件', at='動画', item='項目',
+               advice='推奨（{who}）', rotation='立ち回り', reason='理由', tip='コツ', then=' → ', step='{who}：{acts}',
+               desc='Bilibiliの攻略投稿者による{name}の攻略：入手と覚醒の効果、編成の立ち回り、弧盤とカートリッジ、操作のコツ。',
+               caveat='各効果は投稿者がその行の条件で、プレイしたバージョンについて見積もった値である。'),
+    'ko': dict(title='{name} 공략', pull='획득과 각성', teams='파티와 로테이션', build='아크와 카트리지', play='조작 팁',
+               awak='각성 {n}', res='공명 {n}', gain='효과({who})', cond='조건', at='영상', item='항목',
+               advice='추천({who})', rotation='로테이션', reason='이유', tip='팁', then=' → ', step='{who}: {acts}',
+               desc='Bilibili 공략 제작자의 {name} 공략: 획득과 각성 효과, 파티 로테이션, 아크와 카트리지, 조작 팁.',
+               caveat='각 효과는 제작자가 해당 행의 조건에서, 자신이 플레이한 버전을 기준으로 추정한 값이다.'),
+}
+GUIDE_KINDS = ('pull', 'gain', 'rotation', 'reason', 'tip')
+AWAK_HEAD = {'en': 'Awakenings', 'zh-tw': '覺醒', 'zh-cn': '觉醒', 'ja': '覚醒', 'ko': '각성'}
+TEXT_LANGS = ('en', 'zh-tw', 'zh-cn', 'ja', 'ko')
+
+
+def awakenings(path, lang):
+    """The first column of the Awakenings table of a character page: six Awakenings, then the Resonances."""
+    rows, inside = [], False
+    for line in open(path, encoding='utf-8'):
+        if line.startswith('## '):
+            inside = line[3:].strip() == AWAK_HEAD[lang]
+        elif inside and line.startswith('| ') and not line.startswith('| ---'):
+            rows.append(line.split('|')[1].strip())
+    return rows[1:]  # without the header row
 
 
 def split_ops(text):
@@ -348,6 +404,15 @@ def at(s, c):
 def main():
     sources = {s['id']: s for s in load('community/sources.json')['sources']}
     claims = load('community/claims.json')['claims']
+    check = sys.argv[1:2] == ['--check']
+    if check:  # drafts lack zh-cn, which pipeline/community_zh_cn.py adds; a copy of zh-tw stands in
+        for path in sys.argv[2:]:
+            for c in json.load(open(path, encoding='utf-8')):
+                for v in [c] + c.get('steps', []):
+                    for x in v.values():
+                        if isinstance(x, dict) and 'zh-tw' in x and 'en' in x:
+                            x.setdefault('zh-cn', x['zh-tw'])
+                claims.append(c)
     chars = character_names()
     by_name = resolver(chars)
     arcs, arc_by = arc_names()
@@ -359,6 +424,33 @@ def main():
         if n in by_name:
             return by_name[n]
         raise SystemExit(f'records/community/claims.json: unknown character {name!r}')
+
+    def fill(text, lang):
+        """{char:X}, {arc:X} and {cart:X} in a claim's own sentence -> that name in the page's language."""
+        def one(m):
+            kind, w = m.group(1), m.group(2)
+            if kind == 'char':
+                return chars[slug_of(w)][lang]['name']
+            table, by = (arcs, arc_by) if kind == 'arc' else (carts, cart_by)
+            if norm(w) not in by:
+                raise SystemExit(f'records/community/claims.json: unknown {kind} {w!r}')
+            n = table[by[norm(w)]][lang]
+            return n if lang == 'en' or n.startswith('「') else f'「{n}」'
+        out = re.sub(r'\{(char|arc|cart):([^}]+)\}', one, text)
+        if re.search(r'[{}]', out):
+            raise SystemExit(f'records/community/claims.json: a brace left in {text!r}')
+        return out
+
+    def acts(do, lang):
+        """'大招>技能>普攻*2' -> the actions in order, in the page's language."""
+        out = []
+        for w in do.split('>'):
+            w = w.strip()
+            m = re.fullmatch(r'(.+?)\*(\d+)', w)
+            w, n = (m.group(1), m.group(2)) if m else (w, '')
+            w = {'重击': '长按普攻'}.get(w, w)  # a heavy attack is Basic Attack held, for every character that has one
+            out.append((ACTS[w][lang] if w in ACTS else slot_word(w, lang)) + (f' ×{n}' if n else ''))
+        return G[lang]['then'].join(out)
 
     for c in claims:  # every name resolves, every claim has one place
         if c['source'] not in sources:
@@ -382,6 +474,32 @@ def main():
                 render(split_ops(c['sub']), stat_word, lang)
                 for line in c['skills'].split('\n'):
                     render(split_ops(re.sub(r'^(?:不合轴|合轴)\s*[:：]\s*', '', line.strip())), slot_word, lang)
+        elif c['kind'] in GUIDE_KINDS:
+            for key in ('text', 'value', 'cond', 'note', 'variant'):
+                if key in c and set(c[key]) != set(TEXT_LANGS):
+                    raise SystemExit(f"records/community/claims.json: {key} needs {TEXT_LANGS}: {c}")
+            for lang in LANGS:  # every name in the text and every action resolves
+                for key in ('text', 'value', 'cond', 'note', 'variant'):
+                    if key in c:
+                        fill(c[key][lang], lang)
+                for st in c.get('steps', []):
+                    slug_of(st['who'])
+                    acts(st['do'], lang)
+                    if 'note' in st:
+                        fill(st['note'][lang], lang)
+            team = c.get('team') or (c['topic'][5:] if c.get('topic', '').startswith('team:') else None)
+            if team is not None and team not in {(t['label'] or f"@{t.get('at')}") for t in claims if t['kind'] == 'team' and t['source'] == c['source']}:
+                raise SystemExit(f"records/community/claims.json: {team!r} names no team of {c['source']} (an unnamed team is \"@<its at>\")")
+            item = c.get('item', {})
+            if 'arc' in item and norm(item['arc']) not in arc_by:
+                raise SystemExit(f"records/community/claims.json: unknown Arc {item['arc']!r}")
+            if 'cartridge' in item and norm(item['cartridge']) not in cart_by:
+                raise SystemExit(f"records/community/claims.json: unknown cartridge set {item['cartridge']!r}")
+        else:
+            raise SystemExit(f"records/community/claims.json: unknown kind {c['kind']!r}")
+    if check:
+        print(f'claims valid: {len(claims)}')
+        return
     order = list(chars)
 
     # Each character and each main shows the guides of the newest game version that covers it;
@@ -477,8 +595,8 @@ def main():
             vs = sorted({s['version'] for s in srcs})
             dates = sorted(s['published'] for s in srcs)
             servers = sorted({s['server'] for s in srcs})
-            return t['applies'].format(versions=t['sep'].join(VERSION_WORD[lang].format(v=v) for v in vs),
-                                       server=t['sep'].join(t[x] for x in servers), n=len(srcs),
+            return t['applies' if dates[0] != dates[-1] else 'applies1'].format(versions=t['sep'].join(VERSION_WORD[lang].format(v=v) for v in vs),
+                                       server=t['sep'].join(t[x] for x in servers), n=len(srcs), s='' if len(srcs) == 1 else 's',
                                        first=dates[0], last=dates[-1], read=t['sep'].join(sorted({s['read'] for s in srcs})))
 
         # ---- teams
@@ -557,15 +675,108 @@ def main():
             body += [f'## {plain(subj)}', '', table(['', *heads], rows)]
         write('builds.md', t['builds'], t['builds_desc'].format(n=len(subjects)), applies(build_srcs), t['builds_caveat'], build_srcs, aliases('builds', lang), '\n'.join(body))
 
+        # ---- one guide page per character a guide is about: pulls and Awakenings, teams, Arcs, tips
+        g = G[lang]
+        guided = [c for c in claims if c['kind'] in GUIDE_KINDS]
+        guide_pages = []
+        for subj in sorted({sources[c['source']]['subject'] for c in guided}, key=order.index):
+            cs = newest([c for c in guided if sources[c['source']]['subject'] == subj])
+            srcs_g = sorted({c['source']: sources[c['source']] for c in cs}.values(), key=lambda s: s['published'], reverse=True)
+            awk = chars[subj][lang]['awakenings']
+
+            def when(s, c):
+                return f"[{c['at'] // 60}:{c['at'] % 60:02d}]({at(s, c)})"
+
+            def item_label(item):
+                if 'awakening' in item:
+                    n = item['awakening']
+                    lab = g['awak'].format(n=n)
+                    return f'{lab}（{awk[n - 1]}）' if lang in ZH and awk else (f'{lab} ({awk[n - 1]})' if awk else lab)
+                if 'resonance' in item:
+                    n = item['resonance']
+                    hit = [r for r in awk[6:] if re.search(rf'\b{n}\b|{n}[：:]', r)]
+                    return hit[0] if hit else g['res'].format(n=n)
+                if 'arc' in item:
+                    return fill('{arc:' + item['arc'] + '}', lang)
+                return fill('{cart:' + item['cartridge'] + '}', lang)
+
+            def row_text(c):
+                if c['kind'] == 'rotation':
+                    steps = ('；' if lang in ZH else '; ').join(
+                        g['step'].format(who=plain(slug_of(st['who'])), acts=acts(st['do'], lang))
+                        + ((f"（{fill(st['note'][lang], lang)}）" if lang in ZH else f" ({fill(st['note'][lang], lang)})") if 'note' in st else '')
+                        for st in c['steps'])
+                    head = (fill(c['variant'][lang], lang) + ('：' if lang in ZH else ': ')) if 'variant' in c else ''
+                    tail = (('。' if lang in ZH else '. ') + fill(c['note'][lang], lang)) if 'note' in c else ''
+                    return head + steps + tail
+                return fill(c['text'][lang], lang)
+
+            body = []
+            for s in srcs_g:
+                mine = [c for c in cs if c['source'] == s['id']]
+                who_ = f"[{who(s)}]({s['url']})"
+                kinds = {'rotation': g['rotation'], 'reason': g['reason'], 'tip': g['tip'], 'pull': g['tip']}
+                # pulls and Awakenings
+                pulls = [c for c in mine if c['kind'] == 'pull']
+                gains = [c for c in mine if c['kind'] == 'gain' and ({'awakening', 'resonance'} & set(c['item']))]
+                if pulls or gains:
+                    body += [f"## {g['pull']}", '']
+                    if pulls:
+                        body += [table([g['advice'].format(who=who_), g['at']], [[row_text(c), when(s, c)] for c in pulls])]
+                    if gains:
+                        gains.sort(key=lambda c: (c['item'].get('awakening', 0) + 10 * c['item'].get('resonance', 0) // 3))
+                        body += [table([g['item'], g['gain'].format(who=who_), g['cond'], g['at']],
+                                       [[item_label(c['item']), fill(c['value'][lang], lang), fill(c['cond'][lang], lang), when(s, c)] for c in gains])]
+                # teams, in the order of the guide's own team list
+                # A team the guide leaves unnamed is keyed "@<second>" and headed by its members.
+                teams_s = {(c['label'] or f"@{c['at']}"): c for c in claims if c['kind'] == 'team' and c['source'] == s['id']}
+                labels = list(dict.fromkeys(list(teams_s)
+                                            + [c['team'] for c in mine if c['kind'] == 'rotation']
+                                            + [c['topic'][5:] for c in mine if c.get('topic', '').startswith('team:')]))
+                team_rows = {lab: [c for c in mine if c.get('team') == lab or c.get('topic') == 'team:' + lab] for lab in labels}
+                if any(team_rows.values()):
+                    body += [f"## {g['teams']}", '']
+                    for lab in labels:
+                        if not team_rows[lab]:
+                            continue
+                        rows = sorted(team_rows[lab], key=lambda c: (c['kind'] != 'rotation', c['at']))
+                        if lab.startswith('@'):
+                            sep = '、' if lang in ZH else ', '
+                            head_ = sep.join('/'.join(plain(slug_of(n)) for n in m) for m in teams_s[lab]['members'])
+                        else:
+                            head_ = team_label(lab)
+                        body += [f'### {head_}', '', table(['', who_, g['at']], [[kinds[c['kind']], row_text(c), when(s, c)] for c in rows])]
+                # Arcs and cartridges
+                bgains = [c for c in mine if c['kind'] == 'gain' and ({'arc', 'cartridge'} & set(c['item']))]
+                breasons = [c for c in mine if c.get('topic') == 'build']
+                if bgains or breasons:
+                    body += [f"## {g['build']}", '']
+                    if bgains:
+                        body += [table([g['item'], g['gain'].format(who=who_), g['cond'], g['at']],
+                                       [[item_label(c['item']), fill(c['value'][lang], lang), fill(c['cond'][lang], lang), when(s, c)] for c in sorted(bgains, key=lambda c: c['at'])])]
+                    if breasons:
+                        body += [table(['', who_, g['at']], [[kinds[c['kind']], row_text(c), when(s, c)] for c in sorted(breasons, key=lambda c: c['at'])])]
+                play = [c for c in mine if c.get('topic') == 'play']
+                if play:
+                    body += [f"## {g['play']}", '', table(['', who_, g['at']], [[kinds[c['kind']], row_text(c), when(s, c)] for c in sorted(play, key=lambda c: c['at'])])]
+            name_ = plain(subj)
+            others = [G[x]['title'].format(name=chars[subj][x]['name']) for x in LANGS if x != lang]
+            write(f'{subj}.md', g['title'].format(name=name_), g['desc'].format(name=name_), applies(srcs_g), g['caveat'], srcs_g,
+                  list(dict.fromkeys(others)), '\n'.join(body))
+            guide_pages.append(subj)
+
         # ---- index
         srcs = sorted({s['id']: s for s in team_srcs + build_srcs}.values(), key=lambda s: s['published'], reverse=True)
         covered = sorted({x for c in shown for alt in c['slugs'] for x in alt} | set(subjects), key=order.index)
         creators_ = t['sep'].join(dict.fromkeys(who(s) for s in team_srcs))
         topics = [f'- [{t["teams"]}](/{p}community/teams/)', f'- [{t["builds"]}](/{p}community/builds/)']
+        topics += [f"- [{G[lang]['title'].format(name=plain(x))}](/{p}community/{x}/)" for x in guide_pages]
         rows = [[who(s), f"[{s['title']}]({s['url']})", s['published'], t[s['server']], VERSION_WORD[lang].format(v=s['version']), plain(s['subject'])] for s in srcs]
         body = [f"## {t['topic']}", '', *topics, '',
                 f"## {t['source']}", '', table([t['creator'], t['video'], t['published'], t['server'], t['version'], t['covers']], rows)]
         write('index.md', t['idx_title'], t['idx_desc'].format(n=len(covered), v=len(srcs)), applies(srcs), t['idx_caveat'], srcs, aliases('idx_title', lang), '\n'.join(body))
+    # The sidebar lists the guide pages after teams and builds (astro.config.mjs reads this file).
+    open(os.path.join(ROOT, 'src', 'community-guides.json'), 'w', encoding='utf-8').write(json.dumps(guide_pages) + '\n')
     print('community pages written:', len(LANGS), 'languages,', len(sources), 'sources,', len(claims), 'claims')
 
 

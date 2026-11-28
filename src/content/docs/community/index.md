@@ -40,6 +40,17 @@ sources:
 
 - [Teams](/community/teams/)
 - [Character builds](/community/builds/)
+- [Elyms guide](/community/elyms/)
+- [Akane Rin guide](/community/akane-rin/)
+- [Blackbird guide](/community/blackbird/)
+- [Linko guide](/community/linko/)
+- [Zankou guide](/community/zankou/)
+- [Iroi guide](/community/iroi/)
+- [Chaos guide](/community/chaos/)
+- [Lacrimosa guide](/community/lacrimosa/)
+- [Nanally guide](/community/nanally/)
+- [Chiz guide](/community/chiz/)
+- [Exe guide](/community/exe/)
 
 ## Source
 

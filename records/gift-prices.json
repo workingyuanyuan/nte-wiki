@@ -1,0 +1,89 @@
+{
+ "_about": "Gift prices in Fons, as the gift table of a guide video shows them (records/community/sources.json names the video; at = seconds into it). The game data has no price; the affection on the same table matches the game data's preferrable_gifts for every row kept. Dishes are left out with the gifts list's dishes.",
+ "prices": [
+  {
+   "id": "Furniture_draw_001",
+   "price": 10000,
+   "source": "mianbei-iroi",
+   "at": 760
+  },
+  {
+   "id": "Furniture_draw_008",
+   "price": 10000,
+   "source": "mianbei-iroi",
+   "at": 760
+  },
+  {
+   "id": "Furniture_Ornament_038",
+   "price": 15000,
+   "source": "mianbei-iroi",
+   "at": 760
+  },
+  {
+   "id": "Furniture_Ornament_002",
+   "price": 15000,
+   "source": "mianbei-iroi",
+   "at": 760
+  },
+  {
+   "id": "Furniture_draw_002",
+   "price": 5000,
+   "source": "mianbei-iroi",
+   "at": 760
+  },
+  {
+   "id": "Flower0004",
+   "price": 4500,
+   "source": "mianbei-iroi",
+   "at": 760
+  },
+  {
+   "id": "Furniture_Ornament_001",
+   "price": 20000,
+   "source": "mianbei-lacrimosa",
+   "at": 360
+  },
+  {
+   "id": "SmallPoster005",
+   "price": 4000,
+   "source": "mianbei-lacrimosa",
+   "at": 360
+  },
+  {
+   "id": "Flower0003",
+   "price": 6600,
+   "source": "mianbei-lacrimosa",
+   "at": 360
+  },
+  {
+   "id": "Figure_maskerrider_01_002",
+   "price": 14400,
+   "source": "mianbei-chaos",
+   "at": 412
+  },
+  {
+   "id": "Figure_maskerrider_01_001",
+   "price": 14400,
+   "source": "mianbei-chaos",
+   "at": 412
+  },
+  {
+   "id": "Furniture_Ornament_003",
+   "price": 20000,
+   "source": "mianbei-chaos",
+   "at": 412
+  },
+  {
+   "id": "BigPoster003",
+   "price": 6000,
+   "source": "mianbei-chaos",
+   "at": 412
+  },
+  {
+   "id": "Furniture_draw_004",
+   "price": 7500,
+   "source": "mianbei-chaos",
+   "at": 412
+  }
+ ]
+}

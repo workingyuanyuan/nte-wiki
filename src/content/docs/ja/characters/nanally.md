@@ -33,7 +33,7 @@ sources:
     url: https://nte.perfectworld.com/kr/main.html?nav=2&role=20
   - title: Prydwen、ナナリのキャラクターページ（スキル、属性、弧盤タイプ）
     url: https://www.prydwen.gg/neverness-to-everness/characters/nanally
-  - title: Game8、ナナリの育成ページ（スキルと属性の照合）
+  - title: Game8、ナナリの育成ページ（スキルと属性）
     url: https://game8.co/games/Neverness-to-Everness/archives/597504
   - title: nanoka.cc ゲームデータ1.5.4、キャラクターファイル（英語）
     url: https://static.nanoka.cc/nte/1.5.4/en/character/1010.json
@@ -43,6 +43,8 @@ sources:
     url: https://static.nanoka.cc/nte/1.5.4/ja/character/1010.json
   - title: nanoka.cc ゲームデータ1.5.4、キャラクターファイル（韓国語）
     url: https://static.nanoka.cc/nte/1.5.4/ko/character/1010.json
+  - title: 叫我棉被、ナナリ攻略動画、Bilibili、簡体字中国語（2026-04-23）
+    url: https://www.bilibili.com/video/BV1ybo8BPEpx/
   - title: Everness、コスチュームのページ（繁体字中国語、例：華麗なるキック、2026-11-23取得）
     url: https://everness.info/zh-Hant/cosmetics/Fashion_1010_2
 ---
@@ -182,3 +184,35 @@ sources:
 | 項目 | Lv. 1 | Lv. 2 | Lv. 3 | Lv. 4 | Lv. 5 | Lv. 6 | Lv. 7 | Lv. 8 | Lv. 9 | Lv. 10 | Lv. 11 | Lv. 12 | Lv. 13 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | ダメージ倍率 | 200％ | 216％ | 233.3％ | 251.9％ | 272.1％ | 293.9％ | 317.4％ | 342.8％ | 370.2％ | 399.8％ | 431.8％ | 466.3％ | 503.6％ |
+
+## 仕様の詳細
+
+- 「渾身の一撃！」の3段も回避で中断されない。[^1]
+- 「渾身の一撃！」の1段目は出が遅い。3段目は昇るアッパーで後隙が大きく、ダメージが入った後に回避でキャンセルできる。[^2]
+- 「コリンスの秘伝技」の4段目を放った後にキャラを切り替えると、ナナリは控えでその動作を最後まで行い、5段目も自動で放つ。[^3]
+- こうして控えで攻撃している間、ナナリはダメージを受けない。[^4]
+- 4段目の後に切り替えた味方がEXレール終結を発動すると、ナナリはその演出中にも4・5段目を最後まで放つ。[^5]
+- 「一代目の権限」の基本持続時間は12秒。[^6]
+- 「一代目の権限」はナナリのクリティカルダメージを30%上げ、スタミナを使わずに壁を歩けるようにする。[^7]
+- バイレールスキルのアイコンを囲む白い輪が「一代目の権限」の残り時間を示し、輪が一周すると効果が切れる。[^8]
+- 「相棒」の基本持続時間は6秒。[^9]
+- EXレール終結中、敵を引き寄せるのは通常攻撃だけである。[^10]
+- 「「満ちる」ことのない熱血」は創生花の発射間隔を1秒に縮める。[^11]
+- 「絶対「公正」な決闘」の追加攻撃は2秒に1回まで発動し、倍率は通常攻撃Lv. 10で実測120%、Lv. 11で129.5%。[^12]
+- ギアボーナスによるクリティカル率の上昇は最大30%。[^13]
+- 「姉御と呼ぶべし」の追加攻撃の倍率は、通常攻撃Lv. 10で実測100%。[^14]
+
+[^1]: [叫我棉被、ナナリ攻略動画、Bilibili、簡体字中国語（2026-04-23）、10:47](https://www.bilibili.com/video/BV1ybo8BPEpx/?t=647)
+[^2]: [叫我棉被、ナナリ攻略動画、Bilibili、簡体字中国語（2026-04-23）、10:50](https://www.bilibili.com/video/BV1ybo8BPEpx/?t=650)
+[^3]: [叫我棉被、ナナリ攻略動画、Bilibili、簡体字中国語（2026-04-23）、12:17](https://www.bilibili.com/video/BV1ybo8BPEpx/?t=737)
+[^4]: [叫我棉被、ナナリ攻略動画、Bilibili、簡体字中国語（2026-04-23）、12:31](https://www.bilibili.com/video/BV1ybo8BPEpx/?t=751)
+[^5]: [叫我棉被、ナナリ攻略動画、Bilibili、簡体字中国語（2026-04-23）、12:36](https://www.bilibili.com/video/BV1ybo8BPEpx/?t=756)
+[^6]: [叫我棉被、ナナリ攻略動画、Bilibili、簡体字中国語（2026-04-23）、8:45](https://www.bilibili.com/video/BV1ybo8BPEpx/?t=525)
+[^7]: [叫我棉被、ナナリ攻略動画、Bilibili、簡体字中国語（2026-04-23）、9:33](https://www.bilibili.com/video/BV1ybo8BPEpx/?t=573)
+[^8]: [叫我棉被、ナナリ攻略動画、Bilibili、簡体字中国語（2026-04-23）、9:52](https://www.bilibili.com/video/BV1ybo8BPEpx/?t=592)
+[^9]: [叫我棉被、ナナリ攻略動画、Bilibili、簡体字中国語（2026-04-23）、10:15](https://www.bilibili.com/video/BV1ybo8BPEpx/?t=615)
+[^10]: [叫我棉被、ナナリ攻略動画、Bilibili、簡体字中国語（2026-04-23）、10:35](https://www.bilibili.com/video/BV1ybo8BPEpx/?t=635)
+[^11]: [叫我棉被、ナナリ攻略動画、Bilibili、簡体字中国語（2026-04-23）、2:34](https://www.bilibili.com/video/BV1ybo8BPEpx/?t=154)
+[^12]: [叫我棉被、ナナリ攻略動画、Bilibili、簡体字中国語（2026-04-23）、6:26](https://www.bilibili.com/video/BV1ybo8BPEpx/?t=386)
+[^13]: [叫我棉被、ナナリ攻略動画、Bilibili、簡体字中国語（2026-04-23）、5:18](https://www.bilibili.com/video/BV1ybo8BPEpx/?t=318)
+[^14]: [叫我棉被、ナナリ攻略動画、Bilibili、簡体字中国語（2026-04-23）、7:47](https://www.bilibili.com/video/BV1ybo8BPEpx/?t=467)

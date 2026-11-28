@@ -28,13 +28,18 @@ sources:
     url: https://bbs.nga.cn/read.php?tid=46659382
   - title: 零号攻略组, video on how Esper Cycles resolve, Bilibili, in Simplified Chinese (2026-06-25)
     url: https://www.bilibili.com/video/BV1E97868EJ7/
+  - title: 叫我棉被 and 零号攻略组, Zankou guide video, Bilibili, in Simplified Chinese (2026-08-13)
+    url: https://www.bilibili.com/video/BV1ksg76LETE/
 ---
 
 ## The cycle
 
 The six attributes sit on a ring in this order: Cosmos, Anima, Incantation, Chaos, Psyche, Lakshana, and back to Cosmos. Charge and Discord combine three neighbours.
 
-Prydwen describes the trigger: when the Cycle gauge is full and the player switches to a character whose attribute borders the one on the field, the incoming character's entry skill sets off the reaction. 零号攻略组 adds that the gauge fills only from Basic Attacks and Skills, not from Support Skills or Ultimates.
+When the Cycle gauge is full and the player switches to a character whose attribute borders the one on the field, the incoming character's entry skill sets off the reaction.[^1] The gauge fills only from Basic Attacks and Skills, not from Support Skills or Ultimates.[^2]
+
+[^1]: [Prydwen, Esper Cycles guide](https://www.prydwen.gg/neverness-to-everness/guides/esper-cycles)
+[^2]: [零号攻略组, video on how Esper Cycles resolve, Bilibili, in Simplified Chinese (2026-06-25)](https://www.bilibili.com/video/BV1E97868EJ7/)
 
 ## Reactions
 
@@ -58,17 +63,26 @@ A reaction set off by a switch involves two characters: the one on the field and
 | Blossom, Scorch, Nova | Of the two, the one with the higher Cycle Intensity and level, whether that character switched in or out. Blossom and Scorch deal that character's attribute |
 | Hexed, Stain | The character who deals the Anima or Incantation damage (Hexed), or the Psyche or Lakshana damage (Stain), while the effect lasts |
 
-Of the reaction damage, only Scorch can land critical hits by default. Its Crit Rate is fixed at 50%, and it uses the Crit DMG of the character whose stats count. GameWith adds that Cycle Intensity has no effect on Remora, Charge and Discord, which deal no damage.
+Of the reaction damage, only Scorch can land critical hits by default. Its Crit Rate is fixed at 50%, and it uses the Crit DMG of the character whose stats count. Cycle Intensity has no effect on Remora, Charge and Discord, which deal no damage.[^3]
 
-A player analysis on the NGA forum gives the exact rule: for Blossom, Scorch and Nova the game compares each character's base reaction damage, which grows with level, multiplied by a Cycle Intensity factor. On a tie, the character whose entry attack set off the reaction counts, and the choice is fixed when the reaction triggers. The 20% of Hexed and of Stain is the value at 0 Cycle Intensity and rises with the Cycle Intensity of the character who deals the damage.
+[^3]: [GameWith, Cycle Intensity guide](https://gamewith.net/nte/76296)
 
-By 零号攻略组's account, at level 80 the base reaction damage is 9,000 for Blossom, 2,700 for Scorch and 45,000 for Nova, and the Cycle Intensity factor is 1 + Cycle Intensity ÷ 600. Blossom and Scorch take the DEF and RES that apply to the character whose stats count, with that character's attribute. That character stays fixed for the reaction, but its buffs count as they stand: once a DEF ignore effect on it ends, the Vita Pistils that follow no longer ignore DEF. No Esper Cycle reaction takes DMG bonuses.
+For Blossom, Scorch and Nova the game compares each character's base reaction damage, which grows with level, multiplied by a Cycle Intensity factor. On a tie, the character whose entry attack set off the reaction counts, and the choice is fixed when the reaction triggers. The 20% of Hexed and of Stain is the value at 0 Cycle Intensity and rises with the Cycle Intensity of the character who deals the damage.[^4]
 
-By 零号攻略组's account, Hexed and Stain add 24 × Cycle Intensity ÷ (Cycle Intensity + 180) percentage points to their 20%, which makes 28.57% at 100 Cycle Intensity. Vita Pistils do not set off Hexed. A new Scorch replaces the one on the target instead of stacking ([Zankou](/characters/zankou/)'s passive aside). Nova ignores DEF and always deals Mental damage. Two Novas on one target coexist and burst separately when their stats come from different characters; from the same character, the new Nova bursts the old one at once. Effects that apply "when Nova ends" wait until the last Nova on the target runs out and bursts; a Nova burst early does not count.
+[^4]: [NGA forum, player analysis of damage and Esper Cycle mechanics, in Simplified Chinese (read 2026-11-21)](https://bbs.nga.cn/read.php?tid=46659382)
+
+叫我棉被 and 零号攻略组 state instead that Scorch uses the Cycle Intensity of the character who triggers the reaction.[^5]
+
+[^5]: [叫我棉被 and 零号攻略组, Zankou guide video, Bilibili, in Simplified Chinese (2026-08-13), 4:38](https://www.bilibili.com/video/BV1ksg76LETE/?t=278)
+
+At level 80 the base reaction damage is 9,000 for Blossom, 2,700 for Scorch and 45,000 for Nova, and the Cycle Intensity factor is 1 + Cycle Intensity ÷ 600. Blossom and Scorch take the DEF and RES that apply to the character whose stats count, with that character's attribute. That character stays fixed for the reaction, but its buffs count as they stand: once a DEF ignore effect on it ends, the Vita Pistils that follow no longer ignore DEF. No Esper Cycle reaction takes DMG bonuses.[^2]
+
+Hexed and Stain add 24 × Cycle Intensity ÷ (Cycle Intensity + 180) percentage points to their 20%, which makes 28.57% at 100 Cycle Intensity. Vita Pistils do not set off Hexed. A new Scorch replaces the one on the target instead of stacking ([Zankou](/characters/zankou/)'s passive aside). Nova ignores DEF and always deals Mental damage. Two Novas on one target coexist and burst separately when their stats come from different characters; from the same character, the new Nova bursts the old one at once. Effects that apply "when Nova ends" wait until the last Nova on the target runs out and bursts; a Nova burst early does not count.[^2]
+
 
 ## Character enhancements
 
-Every playable character has a passive that strengthens one or two reactions. 零号攻略组 adds that the passive works for the whole party while that character is on the team.
+Every playable character has a passive that strengthens one or two reactions. The passive works for the whole party while that character is on the team.[^2]
 
 | Reaction | Character | Passive text (game data 1.5.4) |
 | --- | --- | --- |

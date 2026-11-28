@@ -3,7 +3,9 @@
 #   - items/gliders.md        glider skins: name and description
 #   - items/mod-parts.md      vehicle mod parts: name, use (the vehicle and part) and description
 #   - items/figurines.md      figurines: name, where they come from and description
-#   - items/gifts.md          gifts: name, the characters who prefer them and description
+#   - items/gifts.md          gifts: name, the characters who prefer them, the affection they gain and
+#                             description; then the prices that guide videos show (records/gift-prices.json),
+#                             each with a footnote to its video
 #   - items/achievements.md   achievements by category: name, condition and whether hidden
 # English, Simplified Chinese, Japanese and Korean are the game's own editions. Traditional Chinese
 # is everness.info's Taiwan text where it has the entry, else the record's conversion of the
@@ -23,7 +25,7 @@ LL = {
               'figurines': '{n} figurines in NTE, shown in the home figurine cabinet.', 'gifts': '{n} gifts in NTE; {p} of them are preferred by at least one character.',
               'achievements': '{n} achievements in NTE in {c} categories; {h} of them are hidden.'},
         name={'gliders': 'Glider skin', 'mod-parts': 'Mod part', 'figurines': 'Figurine', 'gifts': 'Gift', 'achievements': 'Achievement'},
-        use='Use', source='Source', fans='Preferred by', cond='Condition', hidden='Hidden', yes='Yes',
+        favor='Affection when preferred', prices='Prices', price='Price (Fons)', vid='叫我棉被 and 零号攻略组, {name} guide video, Bilibili, in Simplified Chinese ({date})', at='{t}, {ts}', use='Use', source='Source', fans='Preferred by', cond='Condition', hidden='Hidden', yes='Yes',
         src_items='nanoka.cc game data {v}, item list in {lang}', src_ach='nanoka.cc game data {v}, achievement list in {lang}',
         src_char='nanoka.cc game data {v}, character files in {lang} (example: {name})',
         src_evach='Everness, achievements page in Traditional Chinese (read {read})'),
@@ -35,7 +37,7 @@ LL = {
               'figurines': '《異環》的 {n} 個手辦，可擺放在住處的手辦櫃。', 'gifts': '《異環》的 {n} 件禮物，其中 {p} 件有角色偏好。',
               'achievements': '《異環》的 {n} 項成就，分為 {c} 類，其中 {h} 項為隱藏成就。'},
         name={'gliders': '滑翔翼造型', 'mod-parts': '改裝件', 'figurines': '手辦', 'gifts': '禮物', 'achievements': '成就'},
-        use='用途', source='來源', fans='偏好的角色', cond='條件', hidden='隱藏', yes='是',
+        favor='偏好時好感度', prices='售價', price='售價（方斯）', vid='叫我棉被、零號攻略組，{name}攻略影片，Bilibili（簡體中文，{date}）', at='{t}，{ts}', use='用途', source='來源', fans='偏好的角色', cond='條件', hidden='隱藏', yes='是',
         src_items='nanoka.cc 遊戲資料 {v}，道具列表（{lang}）', src_ach='nanoka.cc 遊戲資料 {v}，成就列表（{lang}）',
         src_char='nanoka.cc 遊戲資料 {v}，角色檔案（{lang}，例：{name}）',
         src_evach='Everness，成就頁面（繁體中文，{read} 讀取）',
@@ -50,7 +52,7 @@ LL = {
               'figurines': '《异环》的 {n} 个手办，可摆放在住处的手办柜。', 'gifts': '《异环》的 {n} 件礼物，其中 {p} 件有角色偏好。',
               'achievements': '《异环》的 {n} 项成就，分为 {c} 类，其中 {h} 项为隐藏成就。'},
         name={'gliders': '滑翔翼皮肤', 'mod-parts': '改装件', 'figurines': '手办', 'gifts': '礼物', 'achievements': '成就'},
-        use='用途', source='来源', fans='偏好的角色', cond='条件', hidden='隐藏', yes='是',
+        favor='偏好时好感度', prices='售价', price='售价（方斯）', vid='叫我棉被、零号攻略组，{name}攻略视频，Bilibili（简体中文，{date}）', at='{t}，{ts}', use='用途', source='来源', fans='偏好的角色', cond='条件', hidden='隐藏', yes='是',
         src_items='nanoka.cc 游戏数据 {v}，道具列表（{lang}）', src_ach='nanoka.cc 游戏数据 {v}，成就列表（{lang}）',
         src_char='nanoka.cc 游戏数据 {v}，角色档案（{lang}，例：{name}）',
         src_evach='Everness，成就页面（繁体中文，{read} 读取）'),
@@ -62,7 +64,7 @@ LL = {
               'figurines': 'NTE（異環）のフィギュア{n}種。住居のフィギュア棚に飾れる。', 'gifts': 'NTE（異環）のプレゼント{n}種。そのうち{p}種を好むキャラクターがいる。',
               'achievements': 'NTE（異環）の実績{n}件で、{c}つのカテゴリに分かれ、そのうち{h}件は隠し実績である。'},
         name={'gliders': 'グライダースキン', 'mod-parts': '改造パーツ', 'figurines': 'フィギュア', 'gifts': 'プレゼント', 'achievements': '実績'},
-        use='用途', source='入手方法', fans='好むキャラクター', cond='条件', hidden='隠し', yes='はい',
+        favor='好む場合の好感度', prices='価格', price='価格（ファンス）', vid='叫我棉被・零号攻略组、{name}攻略動画、Bilibili、簡体字中国語（{date}）', at='{t}、{ts}', use='用途', source='入手方法', fans='好むキャラクター', cond='条件', hidden='隠し', yes='はい',
         src_items='nanoka.cc ゲームデータ{v}、アイテム一覧（{lang}）', src_ach='nanoka.cc ゲームデータ{v}、実績一覧（{lang}）',
         src_char='nanoka.cc ゲームデータ{v}、キャラクターファイル（{lang}、例：{name}）',
         src_evach='Everness、実績のページ（繁体字中国語、{read}取得）'),
@@ -74,7 +76,7 @@ LL = {
               'figurines': '이환(NTE)의 피규어 {n}종으로, 집의 피규어 진열장에 놓을 수 있다.', 'gifts': '이환(NTE)의 선물 {n}종으로, 그중 {p}종은 선호하는 캐릭터가 있다.',
               'achievements': '이환(NTE)의 업적 {n}개로, {c}개 분류로 나뉘며 그중 {h}개는 숨겨진 업적이다.'},
         name={'gliders': '글라이더 스킨', 'mod-parts': '튜닝 부품', 'figurines': '피규어', 'gifts': '선물', 'achievements': '업적'},
-        use='용도', source='획득처', fans='선호 캐릭터', cond='조건', hidden='숨김', yes='예',
+        favor='선호 시 호감도', prices='가격', price='가격(폰즈)', vid='叫我棉被·零号攻略组, {name} 공략 영상, Bilibili, 중국어 간체({date})', at='{t}, {ts}', use='용도', source='획득처', fans='선호 캐릭터', cond='조건', hidden='숨김', yes='예',
         src_items='nanoka.cc 게임 데이터 {v}, {lang} 아이템 목록', src_ach='nanoka.cc 게임 데이터 {v}, {lang} 업적 목록',
         src_char='nanoka.cc 게임 데이터 {v}, {lang} 캐릭터 파일 (예: {name})',
         src_evach='Everness, 업적 페이지(번체 중국어, {read} 확인)'),
@@ -119,6 +121,7 @@ def sources(lang, rec, kind, rows):
         slug = next(s for r in rows for s in r['fans'])
         cid = character_id(slug)
         out += [(lab['src_char'].format(v=v, lang=langs[k], name=chars[slug][lang]), f'{base}/{SRC[k]}/character/{cid}.json') for k in SRC]
+        out += [(video_title(lang, lab, x, chars), x['url']) for x in videos()[1]]
     # The Traditional Chinese text's source, in every language, as on the progression page.
     ex = next((r for r in rows if r['id'] in rec['everness']), None)
     if ex:
@@ -144,8 +147,8 @@ def item_page(rec, kind, lang):
     taiwan = sum(1 for r in rows if r['id'] in rec['everness']) / len(rows) * (0.99 if kind == 'figurines' else 1)
     fm = frontmatter(lang, kind, desc, rec, sources(lang, rec, kind, rows), taiwan)
     # Columns: the name, then what the list is looked up by, then the game's description.
-    cols = {'gliders': [], 'mod-parts': ['use'], 'figurines': ['sources'], 'gifts': ['fans']}[kind]
-    head = [lab['name'][kind]] + [{'use': lab['use'], 'sources': lab['source'], 'fans': lab['fans']}[c] for c in cols] + [L[lang]['desc']]
+    cols = {'gliders': [], 'mod-parts': ['use'], 'figurines': ['sources'], 'gifts': ['fans', 'favor']}[kind]
+    head = [lab['name'][kind]] + [{'use': lab['use'], 'sources': lab['source'], 'fans': lab['fans'], 'favor': lab['favor']}[c] for c in cols] + [L[lang]['desc']]
     # Gifts come in sections by item type: one table of 175 rows was all that a readability-style
     # extractor kept of the page.
     parts = [(None, rows)] if kind != 'gifts' else [(lab['groups'][g], [r for r in rows if GROUP.get(r['type'], 'other') == g]) for g in GROUPS]
@@ -156,7 +159,41 @@ def item_page(rec, kind, lang):
         if title:
             out += [('\n' if out else '') + '## ' + title, '']
         out += table(lang, kind, lab, cols, head, part, chars if kind == 'gifts' else None)
+    if kind == 'gifts':
+        out += prices(lang, lab, rows, chars)
     return fm + '\n\n' + '\n'.join(out) + '\n'
+
+
+def videos():
+    """The guide videos that give gift prices, in the order of records/gift-prices.json."""
+    if not os.path.exists('records/gift-prices.json'):
+        return [], []
+    prices = json.load(open('records/gift-prices.json', encoding='utf-8'))['prices']
+    srcs = {s['id']: s for s in json.load(open('records/community/sources.json', encoding='utf-8'))['sources']}
+    return prices, [srcs[i] for i in dict.fromkeys(p['source'] for p in prices)]
+
+
+def video_title(lang, lab, src, chars):
+    return lab['vid'].format(name=chars[src['subject']][lang], date=src['published'])
+
+
+def prices(lang, lab, rows, chars):
+    # Prices rest on one guide video each, so each row carries a footnote to that video at its gift table
+    # (../AGENTS.md, Visible page); the section comes after the game data's tables.
+    ps, vids = videos()
+    if not ps:
+        return []
+    name = {r['id']: r[lang]['name'] for r in rows}
+    num = {v['id']: i + 1 for i, v in enumerate(vids)}
+    out = ['', '## ' + lab['prices'], '', f"| {lab['name']['gifts']} | {lab['price']} |", '| --- | --- |']
+    for p in ps:
+        out.append(f"| {md_escape(name[p['id']])} | {p['price']:,}[^{num[p['source']]}] |")
+    out.append('')
+    for v in vids:
+        at = next(p['at'] for p in ps if p['source'] == v['id'])
+        ts = f"{at // 60}:{at % 60:02d}"
+        out.append(f"[^{num[v['id']]}]: [{lab['at'].format(t=video_title(lang, lab, v, chars), ts=ts)}]({v['url']}?t={at})")
+    return out
 
 
 GROUP = {'ITEM_TYPE_FURNITURE': 'furniture', 'ITEM_TYPE_FIGURES': 'figurines', 'ITEM_TYPE_SHOWCASE': 'figurines',
@@ -174,6 +211,8 @@ def table(lang, kind, lab, cols, head, rows, chars):
                 cs.append(cell(t['use']))
             elif c == 'sources':
                 cs.append(cell(L[lang]['sep'].join(t['sources'])))
+            elif c == 'favor':
+                cs.append(str(r['favor']) if 'favor' in r else NONE)
             else:
                 # Plain names: a link per name made the table so link-dense that a readability-style
                 # extractor dropped the page's answer and notes.

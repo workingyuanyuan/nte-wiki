@@ -34,6 +34,8 @@ sources:
     url: https://nte.perfectworld.com/jp/article/news/gamenews/20261109/264951.html
   - title: Version 1.5 patch notes, 2026-11-09 (Anomaly Pilgrimage "Amber Broodmother", Korean)
     url: https://nte.perfectworld.com/kr/article/news/gamenews/20261109/264952.html
+  - title: 叫我棉被, Nanally guide video, Bilibili, in Simplified Chinese (2026-04-23)
+    url: https://www.bilibili.com/video/BV1ybo8BPEpx/
   - title: 'Everness, item pages in Traditional Chinese (example: Rising Hunter Guide, read 2026-11-23)'
     url: https://everness.info/zh-Hant/items/CharacterUpMaterial_lv1
 ---
@@ -44,8 +46,11 @@ sources:
 | --- | --- |
 | Character level | Up to 80; ascension at levels 30, 40, 50, 60, 70 and 80 |
 | Arc level | Up to 80; ascension at the same levels |
-| Level cap | Prydwen states that a character cannot pass the player's Hunter Level |
-| Awakenings | Six per character, one per duplicate, chosen in any order; Resonances at 3 and 6 Awakenings |
+| Level cap | A character cannot pass the player's Hunter Level[^1] |
+| Awakenings | Six per character, one per duplicate, chosen in any order; Resonances at 3 and 6 Awakenings. Awakenings in use can be swapped or removed at any time.[^2] |
+
+[^1]: [Prydwen, Character Progression guide](https://www.prydwen.gg/neverness-to-everness/guides/character-progression)
+[^2]: [叫我棉被, Nanally guide video, Bilibili, in Simplified Chinese (2026-04-23), 6:52](https://www.bilibili.com/video/BV1ybo8BPEpx/?t=412)
 
 ## Character EXP
 

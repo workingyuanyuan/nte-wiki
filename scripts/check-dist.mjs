@@ -18,7 +18,8 @@
 // Header and page text: the header links the first page of each sidebar group (versions,
 //     characters, systems and names) in order; the page notes link the Markdown twin,
 //     llms.txt and index.json; no text in <main> is about the site or the page; the body
-//     does not open with a paragraph after the answer line (scripts/check-page-text.mjs).
+//     does not open with a paragraph after the answer line; every footnote links a listed source
+//     (scripts/check-page-text.mjs).
 // Prose ledger: every unit of the site's own prose has been read against
 //     scripts/prose-rubric.md and is recorded in reviews/prose-ledger.json (scripts/prose-review.mjs).
 // Being found: title, description, canonical, hreflang and sitemap (scripts/check-found.mjs).
@@ -35,7 +36,7 @@ import { bundlePath } from '../src/lib/llms.mjs';
 import { readPages } from '../src/lib/content-index.mjs';
 import { checkFound } from './check-found.mjs';
 import { checkHeadings } from './check-headings.mjs';
-import { checkHeaderAndOutputs, checkSelfReference, checkOpening, checkCommunity } from './check-page-text.mjs';
+import { checkHeaderAndOutputs, checkSelfReference, checkOpening, checkCommunity, checkFootnotes } from './check-page-text.mjs';
 import { checkProse } from './prose-review.mjs';
 
 const DIST = fileURLToPath(new URL('../dist/', import.meta.url));
@@ -229,6 +230,7 @@ for (const { id, data } of pages) {
 	});
 	checkSelfReference(doc, id, fail);
 	checkOpening(doc, id, fail);
+	checkFootnotes(doc, id, fail, (data.sources || []).map((s) => s.url.replace(/\/$/, '')));
 	// The community section (../COMMUNITY.md): every judgment carries a link to its source.
 	const bare = localeOf(id).dir ? id.slice(localeOf(id).dir.length + 1) : id;
 	if (bare === 'community' || bare.startsWith('community/')) {
@@ -305,7 +307,7 @@ for (const locale of LOCALES) {
 // extractor returns, either itself or through an index page it links there (INDEX_PAGES),
 // whose own first 5,000 characters link the page. An agent on a small fetch budget then
 // reaches any page in at most two fetches from the home page.
-const INDEX_PAGES = ['characters', 'characters/archives', 'characters/voices', 'anomalies'];
+const INDEX_PAGES = ['characters', 'characters/archives', 'characters/voices', 'anomalies', 'community'];
 for (const home of pages.filter((p) => p.id === 'index' || LOCALES.some((l) => l.dir === p.id))) {
 	const lang = localeOf(home.id);
 	const prefix = home.id === 'index' ? '' : home.id + '/';

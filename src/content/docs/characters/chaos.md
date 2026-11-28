@@ -33,7 +33,7 @@ sources:
     url: https://nte.perfectworld.com/kr/main.html?nav=2&role=20
   - title: Prydwen, Chaos character page (skills, attribute, Arc type)
     url: https://www.prydwen.gg/neverness-to-everness/characters/chaos
-  - title: Game8, Chaos build page (cross-check of skills and attribute)
+  - title: Game8, Chaos build page (skills and attribute)
     url: https://game8.co/games/Neverness-to-Everness/archives/606517
   - title: Prydwen, banners page (upcoming rerun)
     url: https://www.prydwen.gg/neverness-to-everness/banners
@@ -47,6 +47,8 @@ sources:
     url: https://static.nanoka.cc/nte/1.5.4/ja/character/1071.json
   - title: nanoka.cc game data 1.5.4, character file in Korean
     url: https://static.nanoka.cc/nte/1.5.4/ko/character/1071.json
+  - title: 叫我棉被 and 零号攻略组, Chaos guide video, Bilibili, in Simplified Chinese (2026-06-18)
+    url: https://www.bilibili.com/video/BV1bFLd6yEmD/
   - title: 'Everness, outfit pages in Traditional Chinese (example: Clear Skies, read 2026-11-23)'
     url: https://everness.info/zh-Hant/cosmetics/Fashion_1071_1
 ---
@@ -78,7 +80,9 @@ Chaos is also the name of an attribute.
 | A-Class characters on the Board | [Haniel](/characters/haniel/), [Aurelia](/characters/aurelia/) and [Skia](/characters/skia/) |
 | Roll rewards | "Skyrider" glider livery, "Hound Blitz" Novis ST-X 950 livery, outfit "Clear Skies": claimed on the Fogshroud Perks page at 50, 120 and 200 total rolls, or landed on earlier by chance |
 
-A rerun of "Forsaken Path" and of the Arc "What's Desired" runs in the second half of Version 1.5, from 2026-12-02; Game8 gives its end as 2026-12-23 05:59 (UTC+8).
+A rerun of "Forsaken Path" and of the Arc "What's Desired" runs in the second half of Version 1.5, from 2026-12-02, and ends 2026-12-23 05:59 (UTC+8).[^1]
+
+[^1]: [Game8, list of banners (upcoming rerun)](https://game8.co/games/Neverness-to-Everness/archives/592071)
 
 ## Skills
 
@@ -172,3 +176,52 @@ Costs Ultimate Energy: 100 at every level.
 | Parameter | Lv. 1 | Lv. 2 | Lv. 3 | Lv. 4 | Lv. 5 | Lv. 6 | Lv. 7 | Lv. 8 | Lv. 9 | Lv. 10 | Lv. 11 | Lv. 12 | Lv. 13 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | DMG Ratio | 200% | 216% | 233.3% | 251.9% | 272.1% | 293.9% | 317.4% | 342.8% | 370.2% | 399.8% | 431.8% | 466.3% | 503.6% |
+
+## Mechanics in detail
+
+- Basic Attacks, the Skill, Critical Ripostes and the Ultimate all give Crime.[^2]
+- The Crime gauge, shaped like a scythe, holds 1,000: three handle segments of 300 each and a blade segment of 100.[^3]
+- A full five-hit Pursuit combo gives exactly 300 Crime, and one Doubtmark exactly 100.[^4]
+- When the gauge is full, the scythe blade on it hangs down.[^5]
+- Most of the combo's energy gain and Break comes from the fifth hit.[^6]
+- Swap-cancelling the combo: the first hit (a horizontal slash) cannot be swap-cancelled; the second (a cross slash) can, and the third follows on return; a swap during the third (a downward smash) leads straight into the fourth; the fourth (a leap with three shots) cannot be swap-cancelled, and after a swap at that point no fifth hit follows; the fifth is a dash with a slash.[^7]
+- Final Verdict gives Chaos super armor, so enemy attacks rarely interrupt it.[^8]
+- Holding Basic Attack without full Crime gives an ordinary heavy attack that neither uses nor gives Crime.[^9]
+- The heavy attack cannot be swap-cancelled. After a hold has released an ordinary heavy attack, it does not chain into the full-Crime Final Verdict even once Crime is full; holding Basic Attack keeps releasing ordinary heavy attacks.[^10]
+- Warrant shows as a claw mark on the enemy's model.[^11]
+- With Prime Target, Chaos deals 30% more damage to enemies with Warrant, 10 percentage points more than without it.[^12][^13]
+- The Warrant bonus appears to be an ordinary DMG bonus that adds to Chaos's other DMG bonuses: in a test with a Chaos who already had DMG bonuses, a Basic Attack hit for 262 rose to 292 after Warrant, an 11.45% increase.[^14]
+- Chaos can apply Warrant twice every 15 seconds.[^15]
+- During Dread Echo, Crime grows by 150 a second.[^16]
+- Dread Echo needs Chaos on the field: switching him out loses a large share of its Crime.[^17]
+- Crime gained automatically during Dread Echo does not receive Piercing Insight's extra 40%.[^18]
+- Justice in Time has an 800% ATK multiplier for a 5-second Remora; each further second raises it by 45%, up to +300%, which is 3,200% (a 12-second Remora).[^19]
+- In a test, the Remora damage from Chaos and [Esper Zero](/characters/zero/) was 33,454 on a crit, still 33,454 with [Skia](/characters/skia/) added, and 133,819 with [Hathor](/characters/hathor/) in Skia's place: the +300% is a separate multiplier, and only Hathor reaches it.[^20]
+- Two ATK-buffing supports raised that Remora damage to 53,038 (+56%), and buffing after Remora had started gave the same 53,038: the damage is not snapshotted but uses Chaos's stats at the time it lands.[^21]
+- Teleport anchors are placed by holding G at the spot, up to 2 with his city ability, and stay usable when Chaos is not in the party.[^22]
+- Pressing G puts on his mask.[^23]
+- Chaos's cooking interaction makes a dish that raises the ATK of every character in the party by 100 for 180 seconds; in multiplayer it affects only the player's own character.[^24]
+
+[^2]: [叫我棉被 and 零号攻略组, Chaos guide video, Bilibili, in Simplified Chinese (2026-06-18), 1:07](https://www.bilibili.com/video/BV1bFLd6yEmD/?t=67)
+[^3]: [叫我棉被 and 零号攻略组, Chaos guide video, Bilibili, in Simplified Chinese (2026-06-18), 2:01](https://www.bilibili.com/video/BV1bFLd6yEmD/?t=121)
+[^4]: [叫我棉被 and 零号攻略组, Chaos guide video, Bilibili, in Simplified Chinese (2026-06-18), 2:08](https://www.bilibili.com/video/BV1bFLd6yEmD/?t=128)
+[^5]: [叫我棉被 and 零号攻略组, Chaos guide video, Bilibili, in Simplified Chinese (2026-06-18), 1:11](https://www.bilibili.com/video/BV1bFLd6yEmD/?t=71)
+[^6]: [叫我棉被 and 零号攻略组, Chaos guide video, Bilibili, in Simplified Chinese (2026-06-18), 15:48](https://www.bilibili.com/video/BV1bFLd6yEmD/?t=948)
+[^7]: [叫我棉被 and 零号攻略组, Chaos guide video, Bilibili, in Simplified Chinese (2026-06-18), 15:54](https://www.bilibili.com/video/BV1bFLd6yEmD/?t=954)
+[^8]: [叫我棉被 and 零号攻略组, Chaos guide video, Bilibili, in Simplified Chinese (2026-06-18), 2:58](https://www.bilibili.com/video/BV1bFLd6yEmD/?t=178)
+[^9]: [叫我棉被 and 零号攻略组, Chaos guide video, Bilibili, in Simplified Chinese (2026-06-18), 3:03](https://www.bilibili.com/video/BV1bFLd6yEmD/?t=183)
+[^10]: [叫我棉被 and 零号攻略组, Chaos guide video, Bilibili, in Simplified Chinese (2026-06-18), 16:16](https://www.bilibili.com/video/BV1bFLd6yEmD/?t=976)
+[^11]: [叫我棉被 and 零号攻略组, Chaos guide video, Bilibili, in Simplified Chinese (2026-06-18), 1:19](https://www.bilibili.com/video/BV1bFLd6yEmD/?t=79)
+[^12]: [叫我棉被 and 零号攻略组, Chaos guide video, Bilibili, in Simplified Chinese (2026-06-18), 2:31](https://www.bilibili.com/video/BV1bFLd6yEmD/?t=151)
+[^13]: [叫我棉被 and 零号攻略组, Chaos guide video, Bilibili, in Simplified Chinese (2026-06-18), 6:44](https://www.bilibili.com/video/BV1bFLd6yEmD/?t=404)
+[^14]: [叫我棉被 and 零号攻略组, Chaos guide video, Bilibili, in Simplified Chinese (2026-06-18), 15:29](https://www.bilibili.com/video/BV1bFLd6yEmD/?t=929)
+[^15]: [叫我棉被 and 零号攻略组, Chaos guide video, Bilibili, in Simplified Chinese (2026-06-18), 14:13](https://www.bilibili.com/video/BV1bFLd6yEmD/?t=853)
+[^16]: [叫我棉被 and 零号攻略组, Chaos guide video, Bilibili, in Simplified Chinese (2026-06-18), 2:37](https://www.bilibili.com/video/BV1bFLd6yEmD/?t=157)
+[^17]: [叫我棉被 and 零号攻略组, Chaos guide video, Bilibili, in Simplified Chinese (2026-06-18), 10:35](https://www.bilibili.com/video/BV1bFLd6yEmD/?t=635)
+[^18]: [叫我棉被 and 零号攻略组, Chaos guide video, Bilibili, in Simplified Chinese (2026-06-18), 13:19](https://www.bilibili.com/video/BV1bFLd6yEmD/?t=799)
+[^19]: [叫我棉被 and 零号攻略组, Chaos guide video, Bilibili, in Simplified Chinese (2026-06-18), 3:15](https://www.bilibili.com/video/BV1bFLd6yEmD/?t=195)
+[^20]: [叫我棉被 and 零号攻略组, Chaos guide video, Bilibili, in Simplified Chinese (2026-06-18), 16:44](https://www.bilibili.com/video/BV1bFLd6yEmD/?t=1004)
+[^21]: [叫我棉被 and 零号攻略组, Chaos guide video, Bilibili, in Simplified Chinese (2026-06-18), 17:08](https://www.bilibili.com/video/BV1bFLd6yEmD/?t=1028)
+[^22]: [叫我棉被 and 零号攻略组, Chaos guide video, Bilibili, in Simplified Chinese (2026-06-18), 3:55](https://www.bilibili.com/video/BV1bFLd6yEmD/?t=235)
+[^23]: [叫我棉被 and 零号攻略组, Chaos guide video, Bilibili, in Simplified Chinese (2026-06-18), 4:19](https://www.bilibili.com/video/BV1bFLd6yEmD/?t=259)
+[^24]: [叫我棉被 and 零号攻略组, Chaos guide video, Bilibili, in Simplified Chinese (2026-06-18), 7:03](https://www.bilibili.com/video/BV1bFLd6yEmD/?t=423)

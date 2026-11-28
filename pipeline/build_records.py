@@ -461,10 +461,11 @@ def lists_record():
     cc, gloss = OpenCC('s2twp'), tw_glossary()
     data = {lang: {i['id']: i for i in load(os.path.join(CACHE, src, 'item.json')).values()} for lang, src in NANOKA.items()}
     ids = character_ids()
-    fans = {}
+    fans, favor = {}, {}  # favor: the affection a preferring character gains, the same for each of them
     for slug, cid in ids.items():
         for g in load(os.path.join(CACHE, 'en', 'character', cid + '.json')).get('preferrable_gifts') or []:
             fans.setdefault(g['item_id'].lower(), []).append(slug)
+            favor.setdefault(g['item_id'].lower(), set()).add(g['amount'])
     lists, read = {}, {}
     for name, keys in list_keys().items():
         rows = []
@@ -493,6 +494,8 @@ def lists_record():
             o['zh-tw'] = tw
             if name == 'gifts':
                 o['fans'] = fans.get(key.lower(), [])
+                if key.lower() in favor:
+                    (o['favor'],) = favor[key.lower()]
             rows.append(o)
         lists[name] = rows
     match, ev = achievement_match(cc)

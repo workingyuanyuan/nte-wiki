@@ -36,7 +36,7 @@ sources:
     url: https://nte.perfectworld.com/kr/main.html?nav=2&role=20
   - title: Prydwen, 아카네 린 캐릭터 페이지(스킬, 속성, 아크 타입)
     url: https://www.prydwen.gg/neverness-to-everness/characters/akane-rin
-  - title: Game8, 아카네 린 빌드 페이지(스킬과 속성 교차 확인)
+  - title: Game8, 아카네 린 빌드 페이지(스킬과 속성)
     url: https://game8.co/games/Neverness-to-Everness/archives/632471
   - title: nanoka.cc 게임 데이터 1.5.4, 영어 캐릭터 파일
     url: https://static.nanoka.cc/nte/1.5.4/en/character/1057.json
@@ -46,6 +46,8 @@ sources:
     url: https://static.nanoka.cc/nte/1.5.4/ja/character/1057.json
   - title: nanoka.cc 게임 데이터 1.5.4, 한국어 캐릭터 파일
     url: https://static.nanoka.cc/nte/1.5.4/ko/character/1057.json
+  - title: 叫我棉被·零号攻略组, 아카네 린 공략 영상, Bilibili, 중국어 간체(2026-10-15)
+    url: https://www.bilibili.com/video/BV1BeJC6qEAr/
   - title: 'Everness, 코스튬 페이지(번체 중국어, 예: 노을빛 벨벳, 2026-11-23 확인)'
     url: https://everness.info/zh-Hant/cosmetics/Fashion_1057_1
 ---
@@ -169,3 +171,48 @@ sources:
 | 항목 | Lv. 1 | Lv. 2 | Lv. 3 | Lv. 4 | Lv. 5 | Lv. 6 | Lv. 7 | Lv. 8 | Lv. 9 | Lv. 10 | Lv. 11 | Lv. 12 | Lv. 13 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 피해 배율 및 획득하는 「파워 코드」 | 200%, 4 | 216%, 4 | 233.3%, 4 | 251.9%, 4 | 272.1%, 4 | 293.9%, 4 | 317.4%, 4 | 342.8%, 4 | 370.2%, 4 | 399.8%, 4 | 431.8%, 4 | 466.3%, 4 | 503.6%, 4 |
+
+## 세부 메커니즘
+
+- 「파워 코드」는 아카네 린의 HP 바 위에 게이지로 표시된다.[^1]
+- 「현의 칼날」에는 길게 누르기 파생이 없으며, 일반 공격을 계속 누르고 있으면 연속 공격이 그대로 이어진다.[^2]
+- 「현의 칼날」 각 단 뒤에 회피하면 슬라이딩이 나간다. 일반 회피보다 거리가 길고 무적 시간도 길며, 연속 공격이 끊기지 않는다.[^3]
+- 「현의 칼날」은 3단이 가장 오래 걸린다. 슬라이딩으로 끊으면 바로 4단으로 넘어가며, 4단은 교체로 캔슬할 수 있다.[^4]
+- 짧게 누른 「그루브 사운드」는 고정 키(PC는 마우스 가운데 버튼, 모바일은 탭)로 고정한 적에게 「오버톤」을 부여하며, 고정하지 않았으면 가장 가까운 적에게 부여한다.[^5]
+- 「오버톤」을 부여하면 아카네 린과 적 사이에 금색 실이 나타나며, 거리가 아무리 멀어도 일반 공격이 그 적에게 닿는다. 필드에서는 100미터 떨어져도 맞는다.[^6]
+- 「오버톤」 형태의 「레조넌스」는 부여된 적에게만 피해를 주며, 다른 적은 아무리 가까워도 맞지 않는다.[^7]
+- 「음역」을 펼치면 아카네 린이 안에 있든 밖에 있든 일반 공격마다 「음역」 안의 적에게 피해가 들어간다.[^8]
+- 「음역」 형태의 「레조넌스」는 「음역」 안의 모든 적에게 피해를 준다.[^9]
+- 「레조넌스」는 「오버톤」이나 「음역」이 있을 때만 쓸 수 있으며, 지속 시간이 끝나면 「파워 코드」가 가득 차도 쓸 수 없다.[^10]
+- 「오버톤」과 「음역」은 25초 지속되며, 그동안 「레조넌스」를 몇 번 써도 사라지지 않는다.[^11]
+- 「오버톤」으로 전달된 일반 공격은 대상에게 배율이 40% 오르고, 「음역」으로 전달된 일반 공격은 「음역」 안의 적에게 주는 피해가 60% 오른다. 두 효과는 서로 다른 배율에 들어간다.[^12]
+- 「별빛의 격정」으로 울티메이트 1단계 후 아카네 린의 공격력이 20초 동안 20% 오른다.[^13][^14]
+- 2단계는 1단계 4초 뒤에 쓸 수 있게 된다. 2단계는 「화려한 독주」의 경직 저항력을 끝내지만 공격력 증가는 끝내지 않는다.[^15]
+- 2단계의 남은 시간은 화면 왼쪽의 기타에 표시되며, 줄이 다 닳기 전까지 쓸 수 있다.[^16]
+- 1단계 후에는 공격으로 다시 울트에너지가 쌓이며, 2단계의 영향을 받지 않는다.[^17]
+- 파티가 「레모라」를 발동한 뒤에는 「오버톤」이나 「음역」이 3초마다 「레모라」를 부여한다.[^18]
+- 「절대음감」의 추가 피해는 목표에게 남은 「레모라」 시간 1초마다 20% 오르며, 상한은 8초(160%)다.[^19]
+- 「레모라」는 5초 지속되므로 3초마다 다시 부여하면 2초가 남아 40%에 그친다. [하토르](/ko/characters/hathor/)가 파티에 있으면 「레모라」가 12초가 되어 9초가 남고, 160%를 모두 받는다.[^20]
+- 「나무 밑의 타임캡슐」로 「그루브 사운드」를 길게 눌렀을 때 끌어모으는 범위는 「궤도 너머」 경기장의 약 4분의 1이다.[^21]
+
+[^1]: [叫我棉被·零号攻略组, 아카네 린 공략 영상, Bilibili, 중국어 간체(2026-10-15), 1:08](https://www.bilibili.com/video/BV1BeJC6qEAr/?t=68)
+[^2]: [叫我棉被·零号攻略组, 아카네 린 공략 영상, Bilibili, 중국어 간체(2026-10-15), 11:14](https://www.bilibili.com/video/BV1BeJC6qEAr/?t=674)
+[^3]: [叫我棉被·零号攻略组, 아카네 린 공략 영상, Bilibili, 중국어 간체(2026-10-15), 11:19](https://www.bilibili.com/video/BV1BeJC6qEAr/?t=679)
+[^4]: [叫我棉被·零号攻略组, 아카네 린 공략 영상, Bilibili, 중국어 간체(2026-10-15), 11:40](https://www.bilibili.com/video/BV1BeJC6qEAr/?t=700)
+[^5]: [叫我棉被·零号攻略组, 아카네 린 공략 영상, Bilibili, 중국어 간체(2026-10-15), 2:09](https://www.bilibili.com/video/BV1BeJC6qEAr/?t=129)
+[^6]: [叫我棉被·零号攻略组, 아카네 린 공략 영상, Bilibili, 중국어 간체(2026-10-15), 2:19](https://www.bilibili.com/video/BV1BeJC6qEAr/?t=139)
+[^7]: [叫我棉被·零号攻略组, 아카네 린 공략 영상, Bilibili, 중국어 간체(2026-10-15), 2:30](https://www.bilibili.com/video/BV1BeJC6qEAr/?t=150)
+[^8]: [叫我棉被·零号攻略组, 아카네 린 공략 영상, Bilibili, 중국어 간체(2026-10-15), 2:37](https://www.bilibili.com/video/BV1BeJC6qEAr/?t=157)
+[^9]: [叫我棉被·零号攻略组, 아카네 린 공략 영상, Bilibili, 중국어 간체(2026-10-15), 2:48](https://www.bilibili.com/video/BV1BeJC6qEAr/?t=168)
+[^10]: [叫我棉被·零号攻略组, 아카네 린 공략 영상, Bilibili, 중국어 간체(2026-10-15), 2:52](https://www.bilibili.com/video/BV1BeJC6qEAr/?t=172)
+[^11]: [叫我棉被·零号攻略组, 아카네 린 공략 영상, Bilibili, 중국어 간체(2026-10-15), 3:01](https://www.bilibili.com/video/BV1BeJC6qEAr/?t=181)
+[^12]: [叫我棉被·零号攻略组, 아카네 린 공략 영상, Bilibili, 중국어 간체(2026-10-15), 3:13](https://www.bilibili.com/video/BV1BeJC6qEAr/?t=193)
+[^13]: [叫我棉被·零号攻略组, 아카네 린 공략 영상, Bilibili, 중국어 간체(2026-10-15), 0:52](https://www.bilibili.com/video/BV1BeJC6qEAr/?t=52)
+[^14]: [叫我棉被·零号攻略组, 아카네 린 공략 영상, Bilibili, 중국어 간체(2026-10-15), 10:32](https://www.bilibili.com/video/BV1BeJC6qEAr/?t=632)
+[^15]: [叫我棉被·零号攻略组, 아카네 린 공략 영상, Bilibili, 중국어 간체(2026-10-15), 10:43](https://www.bilibili.com/video/BV1BeJC6qEAr/?t=643)
+[^16]: [叫我棉被·零号攻略组, 아카네 린 공략 영상, Bilibili, 중국어 간체(2026-10-15), 10:54](https://www.bilibili.com/video/BV1BeJC6qEAr/?t=654)
+[^17]: [叫我棉被·零号攻略组, 아카네 린 공략 영상, Bilibili, 중국어 간체(2026-10-15), 10:59](https://www.bilibili.com/video/BV1BeJC6qEAr/?t=659)
+[^18]: [叫我棉被·零号攻略组, 아카네 린 공략 영상, Bilibili, 중국어 간체(2026-10-15), 3:25](https://www.bilibili.com/video/BV1BeJC6qEAr/?t=205)
+[^19]: [叫我棉被·零号攻略组, 아카네 린 공략 영상, Bilibili, 중국어 간체(2026-10-15), 3:35](https://www.bilibili.com/video/BV1BeJC6qEAr/?t=215)
+[^20]: [叫我棉被·零号攻略组, 아카네 린 공략 영상, Bilibili, 중국어 간체(2026-10-15), 3:42](https://www.bilibili.com/video/BV1BeJC6qEAr/?t=222)
+[^21]: [叫我棉被·零号攻略组, 아카네 린 공략 영상, Bilibili, 중국어 간체(2026-10-15), 9:10](https://www.bilibili.com/video/BV1BeJC6qEAr/?t=550)

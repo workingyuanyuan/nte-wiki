@@ -33,7 +33,7 @@ sources:
     url: https://nte.perfectworld.com/kr/main.html?nav=2&role=20
   - title: Prydwen，安魂曲角色页面（技能、属性、弧盘类型）
     url: https://www.prydwen.gg/neverness-to-everness/characters/lacrimosa
-  - title: Game8，安魂曲配装页面（交叉查证技能与属性）
+  - title: Game8，安魂曲配装页面（技能与属性）
     url: https://game8.co/games/Neverness-to-Everness/archives/603843
   - title: nanoka.cc 游戏资料 1.5.4，角色档案（英文）
     url: https://static.nanoka.cc/nte/1.5.4/en/character/1004.json
@@ -43,6 +43,8 @@ sources:
     url: https://static.nanoka.cc/nte/1.5.4/ja/character/1004.json
   - title: nanoka.cc 游戏资料 1.5.4，角色档案（韩文）
     url: https://static.nanoka.cc/nte/1.5.4/ko/character/1004.json
+  - title: 叫我棉被、零号攻略组，安魂曲攻略影片，Bilibili（简体中文，2026-05-28）
+    url: https://www.bilibili.com/video/BV1BNGS6KEXm/
   - title: Everness，时装页面（繁体中文，例：旧忆挽歌，2026-11-23 读取）
     url: https://everness.info/zh-Hant/cosmetics/Fashion_1004_2
 ---
@@ -181,3 +183,58 @@ sources:
 | 项目 | Lv. 1 | Lv. 2 | Lv. 3 | Lv. 4 | Lv. 5 | Lv. 6 | Lv. 7 | Lv. 8 | Lv. 9 | Lv. 10 | Lv. 11 | Lv. 12 | Lv. 13 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 伤害倍率 | 200% | 216% | 233.3% | 251.9% | 272.1% | 293.9% | 317.4% | 342.8% | 370.2% | 399.8% | 431.8% | 466.3% | 503.6% |
+
+## 机制细节
+
+- 「风味变奏」以瞄准键施放：切换到「茄汁打击乐」时安魂曲会后跳拉开距离，切换到「茄汁金属乐」时则会突进拉近距离。[^1]
+- 按下瞄准键后形态不会立刻切换，要等下方图示变化才算切换完成；在「轨外之境」中，未遇敌时无法切换形态。[^2]
+- 「茄汁金属乐」的攻击硬直比「茄汁打击乐」短。[^3]
+- 「茄汁金属乐」打满五段约需 3.33 秒；「茄汁打击乐」打完前四段约需 1.5 秒。[^4]
+- 近战普攻的爆炸伤害在实战中并不稳定出现。[^4]
+- 「茄汁打击乐」第四段只要擡手成功，即使马上闪避，后续攻击也会自动打完。[^5]
+- 两种形态的前四段普通攻击都共有 10 段伤害；第五段在「茄汁金属乐」为 4 段，在「茄汁打击乐」只有 1 段。[^6]
+- 两种形态的普通攻击环合值皆为 32；叫我棉被与零号攻略组给出「茄汁打击乐」一整套普通攻击的环合值为 36，且「茄汁打击乐」获得的环合值多于「茄汁金属乐」。终结能量的获取也是「茄汁打击乐」较多。[^7]
+- 每造成 1 段伤害就为敌人附加一层持续 3 秒的「噩梦」，每层每秒造成 1 次伤害。[^8]
+- 0 觉醒时，正常打法不会超过十层的上限。[^9]
+- 按伤害计算，「噩梦」约占安魂曲总伤害的三分之一。[^10]
+- 敌人每受到一次治疗，就移除安魂曲挂上的一层「噩梦」。[^11]解锁觉醒「强化玻璃径受审判」后，治疗不再移除层数。
+- 「噩梦」在[早雾](/zh-cn/characters/sakiri/)的「浊燃」强化中算一种持续伤害，「浊燃」本身也算一种，因此处于「浊燃」且带有「噩梦」的目标受到的持续伤害提升 50%，属独立乘区。[^12]
+- [阿德勒](/zh-cn/characters/adler/)自身的持续伤害再算一种，可把这项加成提升到 75%。[^13]
+- 以「恶魔的灵感」习得招式时，长按普通攻击进入瞄准，在敌人身上出现蝙蝠标记时松开。[^14]
+- 2026-05-28 时可习得的敌方招式共 46 种。[^15]
+- 成功习得过一次的招式会永久记住，之后可在角色界面选择「恶魔的礼物」固定使用的招式，不必每次在战斗中重新习得。[^16]
+- 在可习得的招式中，[黑之书](/zh-cn/anomalies/black-tome/)的倍率最高，但后摇较长。[^17]
+- 以黑之书招式施放的「恶魔的礼物」倍率为 1,885%。[^18]
+- 通过「恶魔的礼物」施放的习得招式同样受技能等级影响。[^19]
+- 实测中，不论招式来自哪个敌人，由安魂曲施放时都造成暗属性伤害。[^20]
+- 施放「起床气加载中」后可直接接第五段普攻的效果保留很久，中间接极轨终结、下落攻击、闪避或走两步后仍能接上；目前实测只有退出战斗、切人离场或超过一两秒没出普攻时才会失效。[^21]
+- 「就要自然醒」累计的五次普攻，在中途切人后需重新累积。[^22]
+- 在大世界中长按闪避键，安魂曲可原地起飞。[^23]
+- 「强化玻璃径受审判」削减生命值上限后，敌人的当前生命值也会按比例下降。[^24]
+- 「最后一朵玫瑰」的层数每次叠加都会刷新持续时间，这点与「噩梦」不同。[^25]
+
+[^1]: [叫我棉被、零号攻略组，安魂曲攻略影片，Bilibili（简体中文，2026-05-28），2:35](https://www.bilibili.com/video/BV1BNGS6KEXm/?t=155)
+[^2]: [叫我棉被、零号攻略组，安魂曲攻略影片，Bilibili（简体中文，2026-05-28），13:53](https://www.bilibili.com/video/BV1BNGS6KEXm/?t=833)
+[^3]: [叫我棉被、零号攻略组，安魂曲攻略影片，Bilibili（简体中文，2026-05-28），2:51](https://www.bilibili.com/video/BV1BNGS6KEXm/?t=171)
+[^4]: [叫我棉被、零号攻略组，安魂曲攻略影片，Bilibili（简体中文，2026-05-28），14:27](https://www.bilibili.com/video/BV1BNGS6KEXm/?t=867)
+[^5]: [叫我棉被、零号攻略组，安魂曲攻略影片，Bilibili（简体中文，2026-05-28），14:44](https://www.bilibili.com/video/BV1BNGS6KEXm/?t=884)
+[^6]: [叫我棉被、零号攻略组，安魂曲攻略影片，Bilibili（简体中文，2026-05-28），14:52](https://www.bilibili.com/video/BV1BNGS6KEXm/?t=892)
+[^7]: [叫我棉被、零号攻略组，安魂曲攻略影片，Bilibili（简体中文，2026-05-28），15:14](https://www.bilibili.com/video/BV1BNGS6KEXm/?t=914)
+[^8]: [叫我棉被、零号攻略组，安魂曲攻略影片，Bilibili（简体中文，2026-05-28），14:08](https://www.bilibili.com/video/BV1BNGS6KEXm/?t=848)
+[^9]: [叫我棉被、零号攻略组，安魂曲攻略影片，Bilibili（简体中文，2026-05-28），3:13](https://www.bilibili.com/video/BV1BNGS6KEXm/?t=193)
+[^10]: [叫我棉被、零号攻略组，安魂曲攻略影片，Bilibili（简体中文，2026-05-28），3:19](https://www.bilibili.com/video/BV1BNGS6KEXm/?t=199)
+[^11]: [叫我棉被、零号攻略组，安魂曲攻略影片，Bilibili（简体中文，2026-05-28），3:27](https://www.bilibili.com/video/BV1BNGS6KEXm/?t=207)
+[^12]: [叫我棉被、零号攻略组，安魂曲攻略影片，Bilibili（简体中文，2026-05-28），6:42](https://www.bilibili.com/video/BV1BNGS6KEXm/?t=402)
+[^13]: [叫我棉被、零号攻略组，安魂曲攻略影片，Bilibili（简体中文，2026-05-28），8:51](https://www.bilibili.com/video/BV1BNGS6KEXm/?t=531)
+[^14]: [叫我棉被、零号攻略组，安魂曲攻略影片，Bilibili（简体中文，2026-05-28），0:47](https://www.bilibili.com/video/BV1BNGS6KEXm/?t=47)
+[^15]: [叫我棉被、零号攻略组，安魂曲攻略影片，Bilibili（简体中文，2026-05-28），0:15](https://www.bilibili.com/video/BV1BNGS6KEXm/?t=15)
+[^16]: [叫我棉被、零号攻略组，安魂曲攻略影片，Bilibili（简体中文，2026-05-28），1:12](https://www.bilibili.com/video/BV1BNGS6KEXm/?t=72)
+[^17]: [叫我棉被、零号攻略组，安魂曲攻略影片，Bilibili（简体中文，2026-05-28），1:27](https://www.bilibili.com/video/BV1BNGS6KEXm/?t=87)
+[^18]: [叫我棉被、零号攻略组，安魂曲攻略影片，Bilibili（简体中文，2026-05-28），5:21](https://www.bilibili.com/video/BV1BNGS6KEXm/?t=321)
+[^19]: [叫我棉被、零号攻略组，安魂曲攻略影片，Bilibili（简体中文，2026-05-28），5:14](https://www.bilibili.com/video/BV1BNGS6KEXm/?t=314)
+[^20]: [叫我棉被、零号攻略组，安魂曲攻略影片，Bilibili（简体中文，2026-05-28），16:02](https://www.bilibili.com/video/BV1BNGS6KEXm/?t=962)
+[^21]: [叫我棉被、零号攻略组，安魂曲攻略影片，Bilibili（简体中文，2026-05-28），15:41](https://www.bilibili.com/video/BV1BNGS6KEXm/?t=941)
+[^22]: [叫我棉被、零号攻略组，安魂曲攻略影片，Bilibili（简体中文，2026-05-28），2:01](https://www.bilibili.com/video/BV1BNGS6KEXm/?t=121)
+[^23]: [叫我棉被、零号攻略组，安魂曲攻略影片，Bilibili（简体中文，2026-05-28），0:25](https://www.bilibili.com/video/BV1BNGS6KEXm/?t=25)
+[^24]: [叫我棉被、零号攻略组，安魂曲攻略影片，Bilibili（简体中文，2026-05-28），12:51](https://www.bilibili.com/video/BV1BNGS6KEXm/?t=771)
+[^25]: [叫我棉被、零号攻略组，安魂曲攻略影片，Bilibili（简体中文，2026-05-28），4:05](https://www.bilibili.com/video/BV1BNGS6KEXm/?t=245)

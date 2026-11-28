@@ -34,7 +34,7 @@ sources:
     url: https://nte.perfectworld.com/kr/main.html?nav=2&role=20
   - title: Prydwen 的哈索尔角色页面（技能、属性、弧盘类型）
     url: https://www.prydwen.gg/neverness-to-everness/characters/hathor
-  - title: Game8 的哈索尔配装页面（交叉查证技能与属性）
+  - title: Game8 的哈索尔配装页面（技能与属性）
     url: https://game8.co/games/Neverness-to-Everness/archives/597591
   - title: nanoka.cc 游戏资料 1.5.4，角色档案（英文）
     url: https://static.nanoka.cc/nte/1.5.4/en/character/1025.json

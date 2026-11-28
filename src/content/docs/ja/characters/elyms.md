@@ -32,7 +32,7 @@ sources:
     url: https://nte.perfectworld.com/kr/main.html?nav=2&role=20
   - title: Prydwen、イェルムのキャラクターページ（スキル、属性、弧盤タイプ）
     url: https://www.prydwen.gg/neverness-to-everness/characters/elyms
-  - title: Game8、イェルムの育成ページ（スキルと属性の照合）
+  - title: Game8、イェルムの育成ページ（スキルと属性）
     url: https://game8.co/games/Neverness-to-Everness/archives/638157
   - title: nanoka.cc ゲームデータ1.5.4、キャラクターファイル（英語）
     url: https://static.nanoka.cc/nte/1.5.4/en/character/1090.json
@@ -42,6 +42,8 @@ sources:
     url: https://static.nanoka.cc/nte/1.5.4/ja/character/1090.json
   - title: nanoka.cc ゲームデータ1.5.4、キャラクターファイル（韓国語）
     url: https://static.nanoka.cc/nte/1.5.4/ko/character/1090.json
+  - title: 叫我棉被・零号攻略组、イェルム攻略動画、Bilibili、簡体字中国語（2026-11-05）
+    url: https://www.bilibili.com/video/BV1Czxo6AEBF/
   - title: Everness、コスチュームのページ（繁体字中国語、例：Y2Kミステリー、2026-11-23取得）
     url: https://everness.info/zh-Hant/cosmetics/Fashion_1090_1
   - title: Everness、Y2K Mystiqueのページ（英語、2026-11-23取得）
@@ -181,3 +183,39 @@ sources:
 | 項目 | Lv. 1 | Lv. 2 | Lv. 3 | Lv. 4 | Lv. 5 | Lv. 6 | Lv. 7 | Lv. 8 | Lv. 9 | Lv. 10 | Lv. 11 | Lv. 12 | Lv. 13 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 「ここにいるよ」ダメージ倍率 | 200％ | 216％ | 233.3％ | 251.9％ | 272.1％ | 293.9％ | 317.4％ | 342.8％ | 370.2％ | 399.8％ | 431.8％ | 466.3％ | 503.6％ |
+
+## 仕様の詳細
+
+- 「電波強度」はイェルムのHPバーの上に3区画のゲージとして表示される。[^1]
+- 「電波：強」でも「混線ノイズ」3段を出し切ると再び「またね」が解放される。電波強度はもう上がらないが、発動中は「軌道外領域」などの制限時間タイマーが止まる。[^2]
+- 「電波：強」のとき、「混線ノイズ」の2段目が終わる前に3段目を先行入力しておくと、交代した後もイェルムが3段目を出し切る。[^3]
+- 「電波：弱」で発動する「去りゆく人々」は連環値を即座に満タンにする。「不連続な存在」と「またね」にはこの効果がない。[^4]
+- 「電波：弱」から「電波：中」に上がると「錯視」を1スタック獲得し、1スタックごとに次の「またね」の倍率が100%上がる。[^5]
+- EXレール終結の形態は「不連続な存在」「またね」またはサポートスキルの発動時に、範囲内の敵の数で決まる。1体なら単体形態、2体以上なら複数形態になる。[^6]
+- EXレール終結の倍率は「電波：中」で50%、「電波：強」で100%上がり、単体形態と複数形態で同じである。[^7]
+- EXレール終結はイェルムの基礎攻撃力の20%分だけチーム全員の攻撃力を20秒間上げる。電波強度や形態は問わない。[^8]
+- 控えにいる間、「おもいで」は3秒ごとに1回、最大6回攻撃し、単体形態と複数形態で同じである。[^9]
+- 「おもいで」の形態と倍率は、それを始めたEXレール終結の時点で決まる。「電波：強」で発動した後は、電波強度が「電波：弱」に戻っていても、その回の「おもいで」には「電波：強」の倍率が乗る。[^10]
+- 「おもいで」の回数が残っているうちにEXレール終結を再発動すると、回数は加算されずリセットされる。[^11]
+- 「おもいで」には[リンコ](/ja/characters/linko/)の追加攻撃ダメージバフも乗る。[^12]
+- 「中継ノード」の「充蓄」強化は1スタックごとにチーム全員の光異能ダメージを3.75%上げ、30秒持続、最大8スタック（30%）で、再発動で持続時間が更新される。[^13]
+- チームの誰かがターゲットに「延滞」を付与すると、「中継ノード」の「延滞」強化が7.5秒後にそのターゲットへ「延滞」を再付与する。7秒に1回まで発動し、再付与された「延滞」からは再び発動しない。[^14]
+- 「保証機構」はイェルムのクリティカルダメージを10%上げる。[^15]
+- 覚醒をすべて揃えると、「またね」は消費した「錯視」のスタックに応じて1,000%以上の倍率が上乗せされる。[^16]
+
+[^1]: [叫我棉被・零号攻略组、イェルム攻略動画、Bilibili、簡体字中国語（2026-11-05）、0:51](https://www.bilibili.com/video/BV1Czxo6AEBF/?t=51)
+[^2]: [叫我棉被・零号攻略组、イェルム攻略動画、Bilibili、簡体字中国語（2026-11-05）、12:52](https://www.bilibili.com/video/BV1Czxo6AEBF/?t=772)
+[^3]: [叫我棉被・零号攻略组、イェルム攻略動画、Bilibili、簡体字中国語（2026-11-05）、13:57](https://www.bilibili.com/video/BV1Czxo6AEBF/?t=837)
+[^4]: [叫我棉被・零号攻略组、イェルム攻略動画、Bilibili、簡体字中国語（2026-11-05）、10:13](https://www.bilibili.com/video/BV1Czxo6AEBF/?t=613)
+[^5]: [叫我棉被・零号攻略组、イェルム攻略動画、Bilibili、簡体字中国語（2026-11-05）、10:27](https://www.bilibili.com/video/BV1Czxo6AEBF/?t=627)
+[^6]: [叫我棉被・零号攻略组、イェルム攻略動画、Bilibili、簡体字中国語（2026-11-05）、10:54](https://www.bilibili.com/video/BV1Czxo6AEBF/?t=654)
+[^7]: [叫我棉被・零号攻略组、イェルム攻略動画、Bilibili、簡体字中国語（2026-11-05）、11:14](https://www.bilibili.com/video/BV1Czxo6AEBF/?t=674)
+[^8]: [叫我棉被・零号攻略组、イェルム攻略動画、Bilibili、簡体字中国語（2026-11-05）、11:25](https://www.bilibili.com/video/BV1Czxo6AEBF/?t=685)
+[^9]: [叫我棉被・零号攻略组、イェルム攻略動画、Bilibili、簡体字中国語（2026-11-05）、11:38](https://www.bilibili.com/video/BV1Czxo6AEBF/?t=698)
+[^10]: [叫我棉被・零号攻略组、イェルム攻略動画、Bilibili、簡体字中国語（2026-11-05）、11:48](https://www.bilibili.com/video/BV1Czxo6AEBF/?t=708)
+[^11]: [叫我棉被・零号攻略组、イェルム攻略動画、Bilibili、簡体字中国語（2026-11-05）、12:05](https://www.bilibili.com/video/BV1Czxo6AEBF/?t=725)
+[^12]: [叫我棉被・零号攻略组、イェルム攻略動画、Bilibili、簡体字中国語（2026-11-05）、12:14](https://www.bilibili.com/video/BV1Czxo6AEBF/?t=734)
+[^13]: [叫我棉被・零号攻略组、イェルム攻略動画、Bilibili、簡体字中国語（2026-11-05）、13:04](https://www.bilibili.com/video/BV1Czxo6AEBF/?t=784)
+[^14]: [叫我棉被・零号攻略组、イェルム攻略動画、Bilibili、簡体字中国語（2026-11-05）、13:16](https://www.bilibili.com/video/BV1Czxo6AEBF/?t=796)
+[^15]: [叫我棉被・零号攻略组、イェルム攻略動画、Bilibili、簡体字中国語（2026-11-05）、13:28](https://www.bilibili.com/video/BV1Czxo6AEBF/?t=808)
+[^16]: [叫我棉被・零号攻略组、イェルム攻略動画、Bilibili、簡体字中国語（2026-11-05）、9:57](https://www.bilibili.com/video/BV1Czxo6AEBF/?t=597)

@@ -44,7 +44,9 @@ sources:
 
 ## Vehicles
 
-Prices without a shop name are in Fons at a dealership. Cars and sports cars are called to the roadside; scooters and motorcycles can be called anywhere, according to mysqil. Brand is blank where the game has no English brand name.
+Prices without a shop name are in Fons at a dealership. Cars and sports cars are called to the roadside; scooters and motorcycles can be called anywhere.[^4] Brand is blank where the game has no English brand name.
+
+[^4]: [mysqil (环世全鉴), vehicles page in Simplified Chinese](https://wiki.mysqil.com/vehicles)
 
 | Vehicle | Brand | Kind | Top speed (km/h) | How to get |
 | --- | --- | --- | --- | --- |
@@ -70,7 +72,7 @@ Prices without a shop name are in Fons at a dealership. Cars and sports cars are
 | Blizzard-V4 | Regalia | Motorcycle | 180 | Fons 2,450,000 |
 | Draco | Regalia | Motorcycle | 180 | "Neon Rift" Mystery Boxes |
 | Novis ST-X 950 | Regalia | Motorcycle | 140 | Fons 250,000 |
-| Rover A1 |  | Scooter | 40 | Given at the start, according to mysqil |
+| Rover A1 |  | Scooter | 40 | Given at the start[^4] |
 | Sirocco | TerraX | Kart | 95 | Fons 4,000,000 |
 | K01 |  | Kart | 80 | "Supersonic Pack" in the shop |
 | Prototype Land Overlord 001 | Hikari's | Kart | 60 | "Open Roads Ahead" Mystery Boxes |
@@ -82,13 +84,19 @@ Prices without a shop name are in Fons at a dealership. Cars and sports cars are
 
 ## Public transport
 
-Hethereau has trains and buses, and players can ride both. No timetable is shown, so the wait for the next train or bus can be long. GameWith adds that trains charge no fare.
+Hethereau has trains and buses, and players can ride both. No timetable is shown, so the wait for the next train or bus can be long. Trains charge no fare.[^1]
 
-| Topic | Detail, from an NGA forum thread with a player's transit map |
+[^1]: [GameWith, Methods to Travel](https://gamewith.net/nte/74171)
+
+| Topic | Detail[^2] |
 | --- | --- |
 | Lines | Several rail lines run as loops; one tram line crosses a stretch of sea |
 | Buses | Line names appear on stop signs only, not on the buses. Buses stop at red lights |
 | Driving a bus | Buses in service cannot be driven or taken over. Two buses parked at the driving school car park can be driven |
 | Closed stations | Some underground stations in the city are locked |
 
-Another NGA post notes that Hankaku Street is the only part of Bridge Crossings that four-wheeled vehicles cannot enter; they stop at the car park at its entrance.
+[^2]: [NGA forum, Hethereau public transport map thread, in Simplified Chinese (read 2026-11-21)](https://bbs.nga.cn/read.php?tid=46759733)
+
+Hankaku Street is the only part of Bridge Crossings that four-wheeled vehicles cannot enter; they stop at the car park at its entrance.[^3]
+
+[^3]: [NGA forum, post on the layout of Bridge Crossings, in Simplified Chinese (read 2026-11-21)](https://bbs.nga.cn/read.php?tid=46992828)

@@ -15,3 +15,10 @@ Who wrote and checked what, with which model, and how much was checked.
 
 - Writer: Claude Opus 5.5. `systems/esper-cycles` and `systems/combat` (en, zh-tw, ja, ko; zh-cn by script) take from `BV1E97868EJ7`: reaction base damage at level 80, the Cycle Intensity factor, how the character whose stats count is fixed, Hexed and Stain scaling, Scorch and Nova stacking, gauge sources, Mental RES, energy sharing. Each figure was read by the writer from the creator's captions in the frames, not from speech recognition. The closed-test video `BV1TLoxBtEZF` is not cited (see `SOURCES.md`).
 - Checked: the writer against the frames; the prose ledger for the changed units; `pnpm verify`.
+
+## 2026-11-28: the guide videos read in full; their mechanics and gift prices on fact pages
+
+- Transcripts: Gemini Neon (medium) through agy, one 60-second chunk at a time, for the eleven guides (captions, `[SCREEN]` text, uncaptioned speech marked). Not kept.
+- Guide claims (pull, gain, rotation, reason, tip): drafted by Claude Opus 5.5 agents from the transcripts, each file passing `build_community.py --check`; every gain figure was checked against a caption or `[SCREEN]` line by the drafting agent, and the main agent spot-checked the Awakening and resonance figures of 明音凛, 黑羽 and 残虹 against the transcripts (all matched).
+- Mechanics: three Claude Opus 5.5 agents wrote 機制細節 on ten character pages (en, zh-tw, ja, ko; zh-cn by script), one more agent six sentences on four system pages. gpt-6.2-sol (Codex, read-only) checked all 198 character-page bullets against the transcripts and the English bullets' numbers against zh-tw: 177 right, 18 missing a condition or stating more than the guide, 2 with a judgment, 1 English wording; an Opus agent fixed them all. The system-page sentences were checked by the main agent; one, presented as a disagreement where both statements can hold, was removed.
+- Gift prices and the affection column: written by the main agent; every price row's affection matched the game data.

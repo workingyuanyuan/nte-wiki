@@ -27,7 +27,7 @@ sources:
     url: https://nte.perfectworld.com/kr/main.html?nav=2&role=20
   - title: Prydwen，伊洛伊角色頁面（技能、屬性、弧盤類型）
     url: https://www.prydwen.gg/neverness-to-everness/characters/iroi
-  - title: Game8，伊洛伊配裝頁面（交叉查證技能與屬性）
+  - title: Game8，伊洛伊配裝頁面（技能與屬性）
     url: https://game8.co/games/Neverness-to-Everness/archives/613162
   - title: nanoka.cc 遊戲資料 1.5.4，角色檔案（英文）
     url: https://static.nanoka.cc/nte/1.5.4/en/character/1075.json
@@ -37,6 +37,8 @@ sources:
     url: https://static.nanoka.cc/nte/1.5.4/ja/character/1075.json
   - title: nanoka.cc 遊戲資料 1.5.4，角色檔案（韓文）
     url: https://static.nanoka.cc/nte/1.5.4/ko/character/1075.json
+  - title: 叫我棉被、零號攻略組，伊洛伊攻略影片，Bilibili（簡體中文，2026-07-23）
+    url: https://www.bilibili.com/video/BV1Hfgm6eE2A/
   - title: Everness，時裝頁面（繁體中文，例：織夢者，2026-11-23 讀取）
     url: https://everness.info/zh-Hant/cosmetics/Fashion_1075_rpg_level3
 ---
@@ -169,3 +171,57 @@ sources:
 | 項目 | Lv. 1 | Lv. 2 | Lv. 3 | Lv. 4 | Lv. 5 | Lv. 6 | Lv. 7 | Lv. 8 | Lv. 9 | Lv. 10 | Lv. 11 | Lv. 12 | Lv. 13 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 傷害倍率 | 200% | 216% | 233.3% | 251.9% | 272.1% | 293.9% | 317.4% | 342.8% | 370.2% | 399.8% | 431.8% | 466.3% | 503.6% |
+
+## 機制細節
+
+- 「臆想」上限為 100 點。[^1]
+- 「臆想」的門檻為 30 點：達到時，量表上的刻度線變成星星，左側圖示由月亮變成太陽。[^2]
+- 完整一套「分工合作」積攢 20 點「臆想」，變軌技能 16 點，支援技能 10 點，因此施放兩次變軌技能即可達到門檻。[^3]
+- 「臆想」達到門檻（30 點）時長按普通攻擊，共打出 4 段：三段「白日夢」之後接「清明夢」，持續射出追蹤敵人的飛彈約 8 秒，期間可被敵人打斷。[^4]
+- 「清明夢」期間切換角色不會中斷射擊，伊洛伊並進入無敵狀態。[^5]
+- 在「無意識響應」、支援技能、變軌技能或極軌終結的動作期間提前長按普通攻擊，會直接從第三段「白日夢」打起。[^6]
+- 第三段「分工合作」出手後立即閃避可取消後搖，傷害照常結算。[^7]
+- 逐幀實測的動作時間：三段「分工合作」接閃避 2.5 秒，接下落攻擊 2.67 秒，接切換角色 3 秒；長按普通攻擊的第三、四段接切換角色 8 秒。[^8]
+- 變軌技能聚攏敵人的範圍比[早霧](/zh-tw/characters/sakiri/)的大、吸附速度更快，伊洛伊身後的敵人也會被拉過來。[^9]
+- 伊洛伊的治療量隨總攻擊力提高。[^10]
+- 長按變軌技能時，每有一名隊友進入「退行」，就召喚一隻小羊代其戰鬥。[^11]
+- 小羊常駐場上協同作戰、全程無敵，繼承伊洛伊的屬性，並依固定的技能順序攻擊。[^12]
+- 伊洛伊的環合值蓄滿後，點擊小羊的頭像可施放支援技能。[^13]
+- 除了「象牙門的夢境」期間的暫時復活，處於「退行」的隊友無法以藥品或切換鍵換回，脫離戰鬥後才會復原。[^14]
+- 極軌終結的治療圈跟隨目前操作的角色移動，後台隊友也會持續回復生命值。[^15]
+- 夢境期間不會積攢「臆想」。[^16]
+- 16 點「臆想」恰好讓夢境維持 2 秒。[^17]
+- 在夢境期間開始的長按普通攻擊，於「臆想」耗盡後仍能打出：施放極軌終結後立即長按普通攻擊，伊洛伊起跳時再點按一次普通攻擊。[^18]
+- 被極軌終結暫時復活的隊友最多停留 12.5 秒。[^19]
+- 變軌技能、極軌終結與支援技能升級主要提高治療量，不影響攻擊力加成、無視防禦與「創生株複製體」。[^20]
+- 「鏡象」的「創生株複製體」在創生株生成 3 秒後出現，不計入創生株數量上限，每 0.5 秒射出一朵「複製創生花」，共 20 朵，持續 10 秒。[^21]
+- 「交感性神經系統」的 5% 無視防禦（持續 20 秒）不會疊加。[^22]
+- 伊洛伊在大世界撫摸貓狗可獲得隨機養成道具，每天最多 3 次，累計最多 999 次（被動技能「九千五百萬年前的分歧」）。[^23]
+- 以滿空幕的伊洛伊計算，策略：「一報還一報」每觸發一次約多造成 16,000 點傷害。[^24]
+- 策略特性：寬容不會回復復活隊友自身的特殊能量，例如[潯](/zh-tw/characters/hotori/)與[真紅](/zh-tw/characters/shinku/)的能量。[^25]
+
+[^1]: [叫我棉被、零號攻略組，伊洛伊攻略影片，Bilibili（簡體中文，2026-07-23），2:10](https://www.bilibili.com/video/BV1Hfgm6eE2A/?t=130)
+[^2]: [叫我棉被、零號攻略組，伊洛伊攻略影片，Bilibili（簡體中文，2026-07-23），2:17](https://www.bilibili.com/video/BV1Hfgm6eE2A/?t=137)
+[^3]: [叫我棉被、零號攻略組，伊洛伊攻略影片，Bilibili（簡體中文，2026-07-23），2:23](https://www.bilibili.com/video/BV1Hfgm6eE2A/?t=143)
+[^4]: [叫我棉被、零號攻略組，伊洛伊攻略影片，Bilibili（簡體中文，2026-07-23），2:32](https://www.bilibili.com/video/BV1Hfgm6eE2A/?t=152)
+[^5]: [叫我棉被、零號攻略組，伊洛伊攻略影片，Bilibili（簡體中文，2026-07-23），2:43](https://www.bilibili.com/video/BV1Hfgm6eE2A/?t=163)
+[^6]: [叫我棉被、零號攻略組，伊洛伊攻略影片，Bilibili（簡體中文，2026-07-23），13:43](https://www.bilibili.com/video/BV1Hfgm6eE2A/?t=823)
+[^7]: [叫我棉被、零號攻略組，伊洛伊攻略影片，Bilibili（簡體中文，2026-07-23），13:12](https://www.bilibili.com/video/BV1Hfgm6eE2A/?t=792)
+[^8]: [叫我棉被、零號攻略組，伊洛伊攻略影片，Bilibili（簡體中文，2026-07-23），15:03](https://www.bilibili.com/video/BV1Hfgm6eE2A/?t=903)
+[^9]: [叫我棉被、零號攻略組，伊洛伊攻略影片，Bilibili（簡體中文，2026-07-23），1:25](https://www.bilibili.com/video/BV1Hfgm6eE2A/?t=85)
+[^10]: [叫我棉被、零號攻略組，伊洛伊攻略影片，Bilibili（簡體中文，2026-07-23），1:40](https://www.bilibili.com/video/BV1Hfgm6eE2A/?t=100)
+[^11]: [叫我棉被、零號攻略組，伊洛伊攻略影片，Bilibili（簡體中文，2026-07-23），3:36](https://www.bilibili.com/video/BV1Hfgm6eE2A/?t=216)
+[^12]: [叫我棉被、零號攻略組，伊洛伊攻略影片，Bilibili（簡體中文，2026-07-23），3:43](https://www.bilibili.com/video/BV1Hfgm6eE2A/?t=223)
+[^13]: [叫我棉被、零號攻略組，伊洛伊攻略影片，Bilibili（簡體中文，2026-07-23），3:49](https://www.bilibili.com/video/BV1Hfgm6eE2A/?t=229)
+[^14]: [叫我棉被、零號攻略組，伊洛伊攻略影片，Bilibili（簡體中文，2026-07-23），4:00](https://www.bilibili.com/video/BV1Hfgm6eE2A/?t=240)
+[^15]: [叫我棉被、零號攻略組，伊洛伊攻略影片，Bilibili（簡體中文，2026-07-23），1:49](https://www.bilibili.com/video/BV1Hfgm6eE2A/?t=109)
+[^16]: [叫我棉被、零號攻略組，伊洛伊攻略影片，Bilibili（簡體中文，2026-07-23），3:23](https://www.bilibili.com/video/BV1Hfgm6eE2A/?t=203)
+[^17]: [叫我棉被、零號攻略組，伊洛伊攻略影片，Bilibili（簡體中文，2026-07-23），14:39](https://www.bilibili.com/video/BV1Hfgm6eE2A/?t=879)
+[^18]: [叫我棉被、零號攻略組，伊洛伊攻略影片，Bilibili（簡體中文，2026-07-23），14:44](https://www.bilibili.com/video/BV1Hfgm6eE2A/?t=884)
+[^19]: [叫我棉被、零號攻略組，伊洛伊攻略影片，Bilibili（簡體中文，2026-07-23），11:54](https://www.bilibili.com/video/BV1Hfgm6eE2A/?t=714)
+[^20]: [叫我棉被、零號攻略組，伊洛伊攻略影片，Bilibili（簡體中文，2026-07-23），6:00](https://www.bilibili.com/video/BV1Hfgm6eE2A/?t=360)
+[^21]: [叫我棉被、零號攻略組，伊洛伊攻略影片，Bilibili（簡體中文，2026-07-23），4:17](https://www.bilibili.com/video/BV1Hfgm6eE2A/?t=257)
+[^22]: [叫我棉被、零號攻略組，伊洛伊攻略影片，Bilibili（簡體中文，2026-07-23），1:57](https://www.bilibili.com/video/BV1Hfgm6eE2A/?t=117)
+[^23]: [叫我棉被、零號攻略組，伊洛伊攻略影片，Bilibili（簡體中文，2026-07-23），0:46](https://www.bilibili.com/video/BV1Hfgm6eE2A/?t=46)
+[^24]: [叫我棉被、零號攻略組，伊洛伊攻略影片，Bilibili（簡體中文，2026-07-23），10:55](https://www.bilibili.com/video/BV1Hfgm6eE2A/?t=655)
+[^25]: [叫我棉被、零號攻略組，伊洛伊攻略影片，Bilibili（簡體中文，2026-07-23），11:49](https://www.bilibili.com/video/BV1Hfgm6eE2A/?t=709)

@@ -21,7 +21,7 @@ sources:
     url: https://nte.perfectworld.com/kr/main.html?nav=2&role=20
   - title: Prydwen、ちぃちゃんのキャラクターページ（スキル、属性、弧盤タイプ）
     url: https://www.prydwen.gg/neverness-to-everness/characters/chiz
-  - title: Game8、ちぃちゃんの育成ページ（スキルと属性の照合）
+  - title: Game8、ちぃちゃんの育成ページ（スキルと属性）
     url: https://game8.co/games/Neverness-to-Everness/archives/597641
   - title: nanoka.cc ゲームデータ1.5.4、キャラクターファイル（英語）
     url: https://static.nanoka.cc/nte/1.5.4/en/character/1073.json
@@ -31,6 +31,8 @@ sources:
     url: https://static.nanoka.cc/nte/1.5.4/ja/character/1073.json
   - title: nanoka.cc ゲームデータ1.5.4、キャラクターファイル（韓国語）
     url: https://static.nanoka.cc/nte/1.5.4/ko/character/1073.json
+  - title: 叫我棉被、ちぃちゃん攻略動画、Bilibili、簡体字中国語（2026-04-28）
+    url: https://www.bilibili.com/video/BV1yXokBKEj4/
 ---
 
 ![ちぃちゃんの公式キャラクターアート：ピンクの髪をお団子にした少女。ピンクと白の制服風ワンピースを着ている](/art/characters/chiz.webp)
@@ -52,7 +54,10 @@ sources:
 
 ## 入手方法
 
-Game8によるとシティ名声のレベルを上げると入手でき、Prydwenはちぃちゃん本人とその重複分を課金なしで入手できるものとして掲載している。
+シティ名声のレベルを上げると入手でき、[^1]ちぃちゃん本人とその重複分は課金なしで入手できる。[^2]
+
+[^1]: [Game8、ちぃちゃんの育成ページ（スキルと属性）](https://game8.co/games/Neverness-to-Everness/archives/597641)
+[^2]: [Prydwen、ちぃちゃんのキャラクターページ（スキル、属性、弧盤タイプ）](https://www.prydwen.gg/neverness-to-everness/characters/chiz)
 
 ## スキル
 
@@ -138,3 +143,39 @@ Game8によるとシティ名声のレベルを上げると入手でき、Prydwe
 | 項目 | Lv. 1 | Lv. 2 | Lv. 3 | Lv. 4 | Lv. 5 | Lv. 6 | Lv. 7 | Lv. 8 | Lv. 9 | Lv. 10 | Lv. 11 | Lv. 12 | Lv. 13 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | ダメージ倍率 | 200％ | 216％ | 233.3％ | 251.9％ | 272.1％ | 293.9％ | 317.4％ | 342.8％ | 370.2％ | 399.8％ | 431.8％ | 466.3％ | 503.6％ |
+
+## 仕様の詳細
+
+- シティ名声で、ちぃちゃん本人、「心象の欠片-ちぃちゃん」6個、Sランク弧盤「思考ニャン」5本を無料で解放できる。[^3]
+- シティ名声レベル18でちぃちゃん本人を入手できる。[^4]
+- 「粗穀」は2.5秒に1回まで発動する。[^5]
+- 「粗穀」で得るファンスには1日の上限と累計上限があり、どちらも名声レベルを上げると上がる。1日の上限は最大50,000、累計上限は最大500,000。[^6]
+- HPバーの上の赤いバーは所持している「金穀」、緑のバーは借りられる「金穀ローン」の枠で、EXレール終結を発動すると緑のバーが赤に変わる。[^7]
+- 「金穀」の上限はキャラのレベルで上がる。Lv. 80では赤いバーの上限が15,000で、緑のバーも同じなので、EXレール終結中は最大30,000の「金穀」を持てる。[^8]
+- 「金穀」による固定ダメージ＝「金穀」の数 × 100% × 防御 × 耐性 × ダメージバフ × クリティカル（クリティカルが出る場合）で、攻撃力ボーナスの影響を受けない。[^9]
+- バイレールスキルのクールタイムは3秒。[^10]
+- フィールドにいる間、バイレールスキルの連続発動を途切れさせるのは被弾と通常攻撃だけである。[^11]
+- 1回目のバイレールスキルの後にキャラを切り替えると、戻った時には連続発動が最初からやり直しになる。[^12]
+- 「金穀市場」での最初のバイレールスキルの確定クリティカルは、「金穀」による追加ダメージにも及ぶ。[^13]
+- 「金穀市場」は7秒続き、理想的にはその間にバイレールスキルを5回使える。[^14]
+- 「金穀市場」中、赤い縦線が「金穀チャート」の山を通る時にバイレールスキルを押すと、所持「金穀」に応じて「金穀」が増え、谷では割合に応じて減る。[^15]
+- EXレール終結の後は借りた「金穀ローン」を返す必要がある。返し終わるまではバイレールスキルを押しても「金穀」による追加ダメージは出ず、通常攻撃で「金穀」を溜めて返済する。[^16]
+- 「金穀市場」中にちぃちゃんを控えに戻すと、EXレール終結の状態はすぐに終わる。[^17]
+- 「飛鳥症候群」により、「充蓄」で操作キャラが得る終結エネルギーが10から14になる。[^18]
+
+[^3]: [叫我棉被、ちぃちゃん攻略動画、Bilibili、簡体字中国語（2026-04-28）、0:04](https://www.bilibili.com/video/BV1yXokBKEj4/?t=4)
+[^4]: [叫我棉被、ちぃちゃん攻略動画、Bilibili、簡体字中国語（2026-04-28）、0:14](https://www.bilibili.com/video/BV1yXokBKEj4/?t=14)
+[^5]: [叫我棉被、ちぃちゃん攻略動画、Bilibili、簡体字中国語（2026-04-28）、4:51](https://www.bilibili.com/video/BV1yXokBKEj4/?t=291)
+[^6]: [叫我棉被、ちぃちゃん攻略動画、Bilibili、簡体字中国語（2026-04-28）、4:55](https://www.bilibili.com/video/BV1yXokBKEj4/?t=295)
+[^7]: [叫我棉被、ちぃちゃん攻略動画、Bilibili、簡体字中国語（2026-04-28）、1:23](https://www.bilibili.com/video/BV1yXokBKEj4/?t=83)
+[^8]: [叫我棉被、ちぃちゃん攻略動画、Bilibili、簡体字中国語（2026-04-28）、2:52](https://www.bilibili.com/video/BV1yXokBKEj4/?t=172)
+[^9]: [叫我棉被、ちぃちゃん攻略動画、Bilibili、簡体字中国語（2026-04-28）、2:40](https://www.bilibili.com/video/BV1yXokBKEj4/?t=160)
+[^10]: [叫我棉被、ちぃちゃん攻略動画、Bilibili、簡体字中国語（2026-04-28）、3:40](https://www.bilibili.com/video/BV1yXokBKEj4/?t=220)
+[^11]: [叫我棉被、ちぃちゃん攻略動画、Bilibili、簡体字中国語（2026-04-28）、11:33](https://www.bilibili.com/video/BV1yXokBKEj4/?t=693)
+[^12]: [叫我棉被、ちぃちゃん攻略動画、Bilibili、簡体字中国語（2026-04-28）、11:36](https://www.bilibili.com/video/BV1yXokBKEj4/?t=696)
+[^13]: [叫我棉被、ちぃちゃん攻略動画、Bilibili、簡体字中国語（2026-04-28）、4:17](https://www.bilibili.com/video/BV1yXokBKEj4/?t=257)
+[^14]: [叫我棉被、ちぃちゃん攻略動画、Bilibili、簡体字中国語（2026-04-28）、4:23](https://www.bilibili.com/video/BV1yXokBKEj4/?t=263)
+[^15]: [叫我棉被、ちぃちゃん攻略動画、Bilibili、簡体字中国語（2026-04-28）、1:42](https://www.bilibili.com/video/BV1yXokBKEj4/?t=102)
+[^16]: [叫我棉被、ちぃちゃん攻略動画、Bilibili、簡体字中国語（2026-04-28）、1:59](https://www.bilibili.com/video/BV1yXokBKEj4/?t=119)
+[^17]: [叫我棉被、ちぃちゃん攻略動画、Bilibili、簡体字中国語（2026-04-28）、11:28](https://www.bilibili.com/video/BV1yXokBKEj4/?t=688)
+[^18]: [叫我棉被、ちぃちゃん攻略動画、Bilibili、簡体字中国語（2026-04-28）、10:31](https://www.bilibili.com/video/BV1yXokBKEj4/?t=631)

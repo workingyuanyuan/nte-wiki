@@ -23,7 +23,7 @@ sources:
     url: https://nte.perfectworld.com/kr/article/news/gamenews/20261019/264679.html
   - title: Prydwen 的翳角色頁面（技能、屬性、弧盤類型）
     url: https://www.prydwen.gg/neverness-to-everness/characters/skia
-  - title: Game8 的翳配裝頁面（交叉查證技能與屬性）
+  - title: Game8 的翳配裝頁面（技能與屬性）
     url: https://game8.co/games/Neverness-to-Everness/archives/597810
   - title: nanoka.cc 遊戲資料 1.5.4，角色檔案（英文）
     url: https://static.nanoka.cc/nte/1.5.4/en/character/1008.json
@@ -33,6 +33,10 @@ sources:
     url: https://static.nanoka.cc/nte/1.5.4/ja/character/1008.json
   - title: nanoka.cc 遊戲資料 1.5.4，角色檔案（韓文）
     url: https://static.nanoka.cc/nte/1.5.4/ko/character/1008.json
+  - title: Game8，角色列表（常駐棋盤與限定棋盤）
+    url: https://game8.co/games/Neverness-to-Everness/archives/592067
+  - title: Prydwen，卡池頁面（常駐卡池）
+    url: https://www.prydwen.gg/neverness-to-everness/banners
 ---
 
 ## 角色資料
@@ -49,7 +53,7 @@ sources:
 
 ## 取得方式
 
-翳是與 [哈尼婭](/zh-tw/characters/haniel/)、[海月](/zh-tw/characters/aurelia/) 共同輪駐限定棋盤的三名 A 級角色之一。Game8 亦將 A 級角色列於常駐棋盤中。
+翳是與 [哈尼婭](/zh-tw/characters/haniel/)、[海月](/zh-tw/characters/aurelia/) 共同輪駐限定棋盤的三名 A 級角色之一。常駐棋盤中也有 A 級角色。
 
 | 限定棋盤 | S 級角色 | 開放期間 |
 | --- | --- | --- |

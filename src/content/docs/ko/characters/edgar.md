@@ -24,7 +24,7 @@ sources:
     url: https://nte.perfectworld.com/kr/article/news/gamenews/20261109/264952.html
   - title: Prydwen, 에드가 캐릭터 페이지(스킬, 속성, 아크 타입)
     url: https://www.prydwen.gg/neverness-to-everness/characters/edgar
-  - title: Game8, 에드가 빌드 페이지(스킬과 속성 교차 확인)
+  - title: Game8, 에드가 빌드 페이지(스킬과 속성)
     url: https://game8.co/games/Neverness-to-Everness/archives/597811
   - title: nanoka.cc 게임 데이터 1.5.4, 영어 캐릭터 파일
     url: https://static.nanoka.cc/nte/1.5.4/en/character/1021.json
@@ -34,6 +34,10 @@ sources:
     url: https://static.nanoka.cc/nte/1.5.4/ja/character/1021.json
   - title: nanoka.cc 게임 데이터 1.5.4, 한국어 캐릭터 파일
     url: https://static.nanoka.cc/nte/1.5.4/ko/character/1021.json
+  - title: Game8, 캐릭터 목록(상시 보드와 한정 보드)
+    url: https://game8.co/games/Neverness-to-Everness/archives/592067
+  - title: Prydwen, 배너 페이지(상시 배너)
+    url: https://www.prydwen.gg/neverness-to-everness/banners
 ---
 
 ## 프로필
@@ -50,7 +54,7 @@ sources:
 
 ## 획득 방법
 
-에드가는 [민트](/ko/characters/mint/), [아들러](/ko/characters/adler/)와 함께 한정 보드의 자리를 나누는 A급 캐릭터 세 명 중 하나이다. Game8은 상시 보드에도 A급 캐릭터를 올리고 있다.
+에드가는 [민트](/ko/characters/mint/), [아들러](/ko/characters/adler/)와 함께 한정 보드의 자리를 나누는 A급 캐릭터 세 명 중 하나이다. 상시 보드에도 A급 캐릭터가 있다.
 
 | 한정 보드 | S급 캐릭터 | 기간 |
 | --- | --- | --- |

@@ -34,7 +34,7 @@ sources:
     url: https://nte.perfectworld.com/kr/main.html?nav=2&role=20
   - title: Prydwen、ハソールのキャラクターページ（スキル、属性、弧盤タイプ）
     url: https://www.prydwen.gg/neverness-to-everness/characters/hathor
-  - title: Game8、ハソールの育成ページ（スキルと属性の照合）
+  - title: Game8、ハソールの育成ページ（スキルと属性）
     url: https://game8.co/games/Neverness-to-Everness/archives/597591
   - title: nanoka.cc ゲームデータ1.5.4、キャラクターファイル（英語）
     url: https://static.nanoka.cc/nte/1.5.4/en/character/1025.json

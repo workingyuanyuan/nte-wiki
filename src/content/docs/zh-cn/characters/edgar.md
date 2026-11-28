@@ -24,7 +24,7 @@ sources:
     url: https://nte.perfectworld.com/kr/article/news/gamenews/20261109/264952.html
   - title: Prydwen 的埃德嘉角色页面（技能、属性、弧盘类型）
     url: https://www.prydwen.gg/neverness-to-everness/characters/edgar
-  - title: Game8 的埃德嘉配装页面（交叉查证技能与属性）
+  - title: Game8 的埃德嘉配装页面（技能与属性）
     url: https://game8.co/games/Neverness-to-Everness/archives/597811
   - title: nanoka.cc 游戏资料 1.5.4，角色档案（英文）
     url: https://static.nanoka.cc/nte/1.5.4/en/character/1021.json
@@ -34,6 +34,10 @@ sources:
     url: https://static.nanoka.cc/nte/1.5.4/ja/character/1021.json
   - title: nanoka.cc 游戏资料 1.5.4，角色档案（韩文）
     url: https://static.nanoka.cc/nte/1.5.4/ko/character/1021.json
+  - title: Game8，角色列表（常驻棋盘与限定棋盘）
+    url: https://game8.co/games/Neverness-to-Everness/archives/592067
+  - title: Prydwen，卡池页面（常驻卡池）
+    url: https://www.prydwen.gg/neverness-to-everness/banners
 ---
 
 ## 角色资料
@@ -50,7 +54,7 @@ sources:
 
 ## 取得方式
 
-埃德嘉是与 [薄荷](/zh-cn/characters/mint/)、[阿德勒](/zh-cn/characters/adler/) 共同轮驻限定棋盘的三名 A 级角色之一。Game8 亦将 A 级角色列于常驻棋盘中。
+埃德嘉是与 [薄荷](/zh-cn/characters/mint/)、[阿德勒](/zh-cn/characters/adler/) 共同轮驻限定棋盘的三名 A 级角色之一。常驻棋盘中也有 A 级角色。
 
 | 限定棋盘 | S 级角色 | 开放期间 |
 | --- | --- | --- |

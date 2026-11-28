@@ -27,7 +27,7 @@ sources:
     url: https://nte.perfectworld.com/kr/main.html?nav=2&role=20
   - title: Prydwen，殘虹角色頁面（技能、屬性、弧盤類型）
     url: https://www.prydwen.gg/neverness-to-everness/characters/zankou
-  - title: Game8，殘虹配裝頁面（交叉查證技能與屬性）
+  - title: Game8，殘虹配裝頁面（技能與屬性）
     url: https://game8.co/games/Neverness-to-Everness/archives/616188
   - title: nanoka.cc 遊戲資料 1.5.4，角色檔案（英文）
     url: https://static.nanoka.cc/nte/1.5.4/en/character/1036.json
@@ -37,6 +37,8 @@ sources:
     url: https://static.nanoka.cc/nte/1.5.4/ja/character/1036.json
   - title: nanoka.cc 遊戲資料 1.5.4，角色檔案（韓文）
     url: https://static.nanoka.cc/nte/1.5.4/ko/character/1036.json
+  - title: 叫我棉被、零號攻略組，殘虹攻略影片，Bilibili（簡體中文，2026-08-13）
+    url: https://www.bilibili.com/video/BV1ksg76LETE/
   - title: Everness，時裝頁面（繁體中文，例：堇色流火，2026-11-23 讀取）
     url: https://everness.info/zh-Hant/cosmetics/Fashion_1036_swimsuit
 ---
@@ -171,3 +173,46 @@ sources:
 | 項目 | Lv. 1 | Lv. 2 | Lv. 3 | Lv. 4 | Lv. 5 | Lv. 6 | Lv. 7 | Lv. 8 | Lv. 9 | Lv. 10 | Lv. 11 | Lv. 12 | Lv. 13 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 「飼火」傷害倍率 | 200% | 216% | 233.3% | 251.9% | 272.1% | 293.9% | 317.4% | 342.8% | 370.2% | 399.8% | 431.8% | 466.3% | 503.6% |
+
+## 機制細節
+
+- 殘虹入場時預設為「現實形態」，該形態的「狩」使她造成的傷害提升 25%。[^1]
+- 「燎原」打到第 4 或第 5 段後，或施放「綽影」後（直接長按普通攻擊，或在「燎原」第 1、2 段後長按），即可施放強化「緋影閃」。[^2]
+- 「綽影」打完可直接銜接「燎原」第 5 段。[^3]「燎原」第 1 段、「綽影」、第 5 段這一套共約 0.7 秒。[^4]
+- 「幻境形態」下每段「魘舞」都會施加 1 層持續傷害，並把目標身上的持續傷害擴散 1 層給附近所有敵人（包含原目標），因此原目標每段獲得 2 層。[^5]
+- 擴散不改變持續傷害原本的疊層機制：[安魂曲](/zh-tw/characters/lacrimosa/)的「噩夢」每層獨立計時，擴散新增的層數不會影響原有層數與其計時。[^6]
+- 強化「緋影閃」會額外對敵人施加 5 層持續傷害。[^7]
+- 無論一般或強化「緋影閃」，施放後都會進入「幻境形態」，並把「現實形態」的 25% 增傷帶入「幻境形態」。[^8]
+- 施放「緋影閃」後技能進入 5 秒冷卻；在「幻境形態」下冷卻結束時，技能即為強化「離魂錯」。[^9]
+- 「幻境形態」只維持 8 秒，期間「惑」使持續傷害的暴擊傷害提升 25%；切換角色會直接退出「幻境形態」。[^10]
+- 強化「離魂錯」只是解鎖「血宴入夢時」，施放時仍需極軌終結能量全滿。[^11]
+- 施放「血宴入夢時」後 5 秒內可追加強化「焚天燼滅舞」。[^12]
+- 極軌終結的冷卻從施放「血宴入夢時」時就開始計算，追加的強化「焚天燼滅舞」不會延後冷卻。[^13]
+- 以正常打出「血宴入夢時」並維持持續傷害為前提，殘虹每輪需在場約 8.5 秒完成一套「幻境形態」循環，這段時間基本固定。[^14]
+- 由於新的「濁燃」由殘虹施加，且所有層數都刷新為最新一層的數值，隊伍的「濁燃」傷害基本只吃殘虹的環合強度。[^15]
+- 只要觸發過一次「濁燃」，靠殘虹施加持續傷害就能永續維持 3 層「濁燃」。[^16]
+- 「殷紅幻景」的 100 點環合強度使「濁燃」傷害提升約 16.7%；殘虹觸發「覆紋」時，另有 8.57% 的獨立乘區增傷。[^17]
+- 「淵底之吻」的 150% 屬於獨立乘區，相當於受加成的「焚天燼滅舞」傷害變為原來的 2.5 倍。[^18]
+- 「花開見血」的 300% 傾陷傷害與傾陷強度加算，而非相乘。[^19]
+- 「血染雙瞳」最多計算 20 層，殘虹自己就能疊滿 20 層持續傷害。[^20]
+
+[^1]: [叫我棉被、零號攻略組，殘虹攻略影片，Bilibili（簡體中文，2026-08-13），2:21](https://www.bilibili.com/video/BV1ksg76LETE/?t=141)
+[^2]: [叫我棉被、零號攻略組，殘虹攻略影片，Bilibili（簡體中文，2026-08-13），2:30](https://www.bilibili.com/video/BV1ksg76LETE/?t=150)
+[^3]: [叫我棉被、零號攻略組，殘虹攻略影片，Bilibili（簡體中文，2026-08-13），17:15](https://www.bilibili.com/video/BV1ksg76LETE/?t=1035)
+[^4]: [叫我棉被、零號攻略組，殘虹攻略影片，Bilibili（簡體中文，2026-08-13），17:32](https://www.bilibili.com/video/BV1ksg76LETE/?t=1052)
+[^5]: [叫我棉被、零號攻略組，殘虹攻略影片，Bilibili（簡體中文，2026-08-13），3:12](https://www.bilibili.com/video/BV1ksg76LETE/?t=192)
+[^6]: [叫我棉被、零號攻略組，殘虹攻略影片，Bilibili（簡體中文，2026-08-13），3:38](https://www.bilibili.com/video/BV1ksg76LETE/?t=218)
+[^7]: [叫我棉被、零號攻略組，殘虹攻略影片，Bilibili（簡體中文，2026-08-13），2:50](https://www.bilibili.com/video/BV1ksg76LETE/?t=170)
+[^8]: [叫我棉被、零號攻略組，殘虹攻略影片，Bilibili（簡體中文，2026-08-13），2:55](https://www.bilibili.com/video/BV1ksg76LETE/?t=175)
+[^9]: [叫我棉被、零號攻略組，殘虹攻略影片，Bilibili（簡體中文，2026-08-13），1:10](https://www.bilibili.com/video/BV1ksg76LETE/?t=70)
+[^10]: [叫我棉被、零號攻略組，殘虹攻略影片，Bilibili（簡體中文，2026-08-13），3:03](https://www.bilibili.com/video/BV1ksg76LETE/?t=183)
+[^11]: [叫我棉被、零號攻略組，殘虹攻略影片，Bilibili（簡體中文，2026-08-13），1:20](https://www.bilibili.com/video/BV1ksg76LETE/?t=80)
+[^12]: [叫我棉被、零號攻略組，殘虹攻略影片，Bilibili（簡體中文，2026-08-13），4:05](https://www.bilibili.com/video/BV1ksg76LETE/?t=245)
+[^13]: [叫我棉被、零號攻略組，殘虹攻略影片，Bilibili（簡體中文，2026-08-13），4:09](https://www.bilibili.com/video/BV1ksg76LETE/?t=249)
+[^14]: [叫我棉被、零號攻略組，殘虹攻略影片，Bilibili（簡體中文，2026-08-13），17:49](https://www.bilibili.com/video/BV1ksg76LETE/?t=1069)
+[^15]: [叫我棉被、零號攻略組，殘虹攻略影片，Bilibili（簡體中文，2026-08-13），4:47](https://www.bilibili.com/video/BV1ksg76LETE/?t=287)
+[^16]: [叫我棉被、零號攻略組，殘虹攻略影片，Bilibili（簡體中文，2026-08-13），5:02](https://www.bilibili.com/video/BV1ksg76LETE/?t=302)
+[^17]: [叫我棉被、零號攻略組，殘虹攻略影片，Bilibili（簡體中文，2026-08-13），5:14](https://www.bilibili.com/video/BV1ksg76LETE/?t=314)
+[^18]: [叫我棉被、零號攻略組，殘虹攻略影片，Bilibili（簡體中文，2026-08-13），14:14](https://www.bilibili.com/video/BV1ksg76LETE/?t=854)
+[^19]: [叫我棉被、零號攻略組，殘虹攻略影片，Bilibili（簡體中文，2026-08-13），15:17](https://www.bilibili.com/video/BV1ksg76LETE/?t=917)
+[^20]: [叫我棉被、零號攻略組，殘虹攻略影片，Bilibili（簡體中文，2026-08-13），15:44](https://www.bilibili.com/video/BV1ksg76LETE/?t=944)

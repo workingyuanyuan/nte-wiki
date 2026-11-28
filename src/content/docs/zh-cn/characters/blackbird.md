@@ -27,7 +27,7 @@ sources:
     url: https://nte.perfectworld.com/kr/main.html?nav=2&role=20
   - title: Prydwen 的黑羽页面（技能、属性、弧盘类型）
     url: https://www.prydwen.gg/neverness-to-everness/characters/blackbird
-  - title: Game8 的黑羽配装页面（交叉查证技能与属性）
+  - title: Game8 的黑羽配装页面（技能与属性）
     url: https://game8.co/games/Neverness-to-Everness/archives/627444
   - title: nanoka.cc 游戏资料 1.5.4，角色档案（英文）
     url: https://static.nanoka.cc/nte/1.5.4/en/character/1042.json
@@ -37,6 +37,8 @@ sources:
     url: https://static.nanoka.cc/nte/1.5.4/ja/character/1042.json
   - title: nanoka.cc 游戏资料 1.5.4，角色档案（韩文）
     url: https://static.nanoka.cc/nte/1.5.4/ko/character/1042.json
+  - title: 叫我棉被、零号攻略组，黑羽攻略影片，Bilibili（简体中文，2026-09-24）
+    url: https://www.bilibili.com/video/BV1DaaF6AEay/
   - title: Everness，时装页面（繁体中文，例：牧星者，2026-11-23 读取）
     url: https://everness.info/zh-Hant/cosmetics/Fashion_1042_1
 ---
@@ -170,3 +172,51 @@ sources:
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 「断罪于我」伤害倍率 | 200% | 216% | 233.3% | 251.9% | 272.1% | 293.9% | 317.4% | 342.8% | 370.2% | 399.8% | 431.8% | 466.3% | 503.6% |
 | 「唯余慈悲」伤害倍率 | 200% | 216% | 233.3% | 251.9% | 272.1% | 293.9% | 317.4% | 342.8% | 370.2% | 399.8% | 431.8% | 466.3% | 503.6% |
+
+## 机制细节
+
+- 「恶意」是黑羽生命值条上方带乌鸦图示的能量条，上限 60 点。[^1]
+- 黑羽进入战斗时获得 20 点「恶意」，「葬羽冥」一次给 40 点，因此首轮只需施放一次「葬羽冥」即可填满。[^2]
+- 常态下打完一整套普通攻击给 20 点「恶意」。之后的循环没有入战时的「恶意」，填满需要「葬羽冥」加一整套普通攻击。[^3]解锁被动 2「长路」后，施放「断罪于我」也能获得 20 点「恶意」。
+- 「渡世死焰」期间长按普通攻击可施放「赐众生之福音」，之后点按普通攻击会直接从「祭火」第 3 段接续。[^4]
+- 「葬羽冥」会直接填满环合值，即游戏中黑羽的「即瞬环合」标签所指的效果。[^5]
+- 「失乐羽」印记持续 15 秒；队友在场攻击带印记的目标时触发「失乐鸟」协同攻击，每 2 秒最多触发一次，每个印记最多触发 5 次。[^6]
+- 「渡世死焰」没有「即瞬环合」效果，只造成伤害。[^7]
+- 「渡世死焰」在「恶意」足够时消耗 13 点追加伤害。它没有冷却时间，但每次施放后都需重新启动。[^8]
+- 在「渡世死焰」伤害打出前施放「万火归一」会打断「渡世死焰」；施放后立即切换角色则不会，黑羽会留在场上把「渡世死焰」放完。[^9]
+- 「恳请众魂安息」使全队攻击力提升 20%，持续 15 秒。[^10]「万火归一」不提供此加成。[^11]
+- 「救世的魔女」状态持续 16 秒，剩余时间显示在极轨终结图示外圈的圆环上。[^12]
+- 黑羽在后台时，「救世的魔女」的计时会暂停，但 15 秒的攻击力加成不会暂停。[^13]
+- 「恳请众魂安息」动画结束时黑羽处于浮空状态，此时点按普通攻击会从「祭火」第 3 段起手，第一次「渡世死焰」可提早约 2 秒施放。[^14]
+- 若在「救世的魔女」时间结束前未施放「万火归一」，黑羽会自动变回原状，失去这段伤害。[^15]
+- 「鸫歌」把「浸染」的基础增伤提高到 30%，持续时间延长至 20 秒。[^16]
+- 被动 1「鸫歌」使「黯星」结束时追加的精神伤害为目标在该次「黯星」期间实际受到的伤害的 20%，并再施加一次「黯星」；追加的这次「黯星」不会再触发被动。[^17]
+- 有「叛逃者」时，「万火归一」会一次结算剩余的全部「恶意」；「恶意」全满时，仅这部分就约有 3,360% 的倍率。[^18]
+- 「漫游记」的 100% 属于独立乘区，「葬羽冥」的伤害直接变为 2 倍；「失乐鸟」的协同攻击不受此加成。[^19]
+- 「失明症」的 50% 同样属于独立乘区。[^20]
+- 「烂柯人」的抗性降低不能叠加，后续命中会刷新持续时间。[^21]
+- 「恳请众魂安息」与「万火归一」都能触发「罪与罚」持续 15 秒的暴击伤害加成。[^22]装备者在自身加成之外也吃得到全队加成：1 阶时为 16% 加 32%，合计 48%。[^23]
+
+[^1]: [叫我棉被、零号攻略组，黑羽攻略影片，Bilibili（简体中文，2026-09-24），14:09](https://www.bilibili.com/video/BV1DaaF6AEay/?t=849)
+[^2]: [叫我棉被、零号攻略组，黑羽攻略影片，Bilibili（简体中文，2026-09-24），14:22](https://www.bilibili.com/video/BV1DaaF6AEay/?t=862)
+[^3]: [叫我棉被、零号攻略组，黑羽攻略影片，Bilibili（简体中文，2026-09-24），14:36](https://www.bilibili.com/video/BV1DaaF6AEay/?t=876)
+[^4]: [叫我棉被、零号攻略组，黑羽攻略影片，Bilibili（简体中文，2026-09-24），6:44](https://www.bilibili.com/video/BV1DaaF6AEay/?t=404)
+[^5]: [叫我棉被、零号攻略组，黑羽攻略影片，Bilibili（简体中文，2026-09-24），14:58](https://www.bilibili.com/video/BV1DaaF6AEay/?t=898)
+[^6]: [叫我棉被、零号攻略组，黑羽攻略影片，Bilibili（简体中文，2026-09-24），15:03](https://www.bilibili.com/video/BV1DaaF6AEay/?t=903)
+[^7]: [叫我棉被、零号攻略组，黑羽攻略影片，Bilibili（简体中文，2026-09-24），1:09](https://www.bilibili.com/video/BV1DaaF6AEay/?t=69)
+[^8]: [叫我棉被、零号攻略组，黑羽攻略影片，Bilibili（简体中文，2026-09-24），17:14](https://www.bilibili.com/video/BV1DaaF6AEay/?t=1034)
+[^9]: [叫我棉被、零号攻略组，黑羽攻略影片，Bilibili（简体中文，2026-09-24），8:21](https://www.bilibili.com/video/BV1DaaF6AEay/?t=501)
+[^10]: [叫我棉被、零号攻略组，黑羽攻略影片，Bilibili（简体中文，2026-09-24），15:31](https://www.bilibili.com/video/BV1DaaF6AEay/?t=931)
+[^11]: [叫我棉被、零号攻略组，黑羽攻略影片，Bilibili（简体中文，2026-09-24），16:03](https://www.bilibili.com/video/BV1DaaF6AEay/?t=963)
+[^12]: [叫我棉被、零号攻略组，黑羽攻略影片，Bilibili（简体中文，2026-09-24），15:37](https://www.bilibili.com/video/BV1DaaF6AEay/?t=937)
+[^13]: [叫我棉被、零号攻略组，黑羽攻略影片，Bilibili（简体中文，2026-09-24），15:49](https://www.bilibili.com/video/BV1DaaF6AEay/?t=949)
+[^14]: [叫我棉被、零号攻略组，黑羽攻略影片，Bilibili（简体中文，2026-09-24），16:38](https://www.bilibili.com/video/BV1DaaF6AEay/?t=998)
+[^15]: [叫我棉被、零号攻略组，黑羽攻略影片，Bilibili（简体中文，2026-09-24），17:35](https://www.bilibili.com/video/BV1DaaF6AEay/?t=1055)
+[^16]: [叫我棉被、零号攻略组，黑羽攻略影片，Bilibili（简体中文，2026-09-24），17:46](https://www.bilibili.com/video/BV1DaaF6AEay/?t=1066)
+[^17]: [叫我棉被、零号攻略组，黑羽攻略影片，Bilibili（简体中文，2026-09-24），17:52](https://www.bilibili.com/video/BV1DaaF6AEay/?t=1072)
+[^18]: [叫我棉被、零号攻略组，黑羽攻略影片，Bilibili（简体中文，2026-09-24），11:06](https://www.bilibili.com/video/BV1DaaF6AEay/?t=666)
+[^19]: [叫我棉被、零号攻略组，黑羽攻略影片，Bilibili（简体中文，2026-09-24），11:25](https://www.bilibili.com/video/BV1DaaF6AEay/?t=685)
+[^20]: [叫我棉被、零号攻略组，黑羽攻略影片，Bilibili（简体中文，2026-09-24），11:43](https://www.bilibili.com/video/BV1DaaF6AEay/?t=703)
+[^21]: [叫我棉被、零号攻略组，黑羽攻略影片，Bilibili（简体中文，2026-09-24），12:17](https://www.bilibili.com/video/BV1DaaF6AEay/?t=737)
+[^22]: [叫我棉被、零号攻略组，黑羽攻略影片，Bilibili（简体中文，2026-09-24），7:29](https://www.bilibili.com/video/BV1DaaF6AEay/?t=449)
+[^23]: [叫我棉被、零号攻略组，黑羽攻略影片，Bilibili（简体中文，2026-09-24），2:52](https://www.bilibili.com/video/BV1DaaF6AEay/?t=172)

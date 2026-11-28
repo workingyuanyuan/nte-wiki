@@ -47,7 +47,7 @@ sources:
     url: https://nte.perfectworld.com/kr/main.html?nav=2&role=20
   - title: Prydwen, 제로 캐릭터 페이지(스킬, 속성, 아크 타입)
     url: https://www.prydwen.gg/neverness-to-everness/characters/zero
-  - title: Game8, 제로 빌드 페이지(스킬과 속성 교차 확인)
+  - title: Game8, 제로 빌드 페이지(스킬과 속성)
     url: https://game8.co/games/Neverness-to-Everness/archives/597602
   - title: nanoka.cc 게임 데이터 1.5.4, 영어 캐릭터 파일
     url: https://static.nanoka.cc/nte/1.5.4/en/character/1046.json

@@ -27,7 +27,7 @@ sources:
     url: https://nte.perfectworld.com/kr/main.html?nav=2&role=20
   - title: Prydwen, Iroi character page (skills, attribute, Arc type)
     url: https://www.prydwen.gg/neverness-to-everness/characters/iroi
-  - title: Game8, Iroi build page (cross-check of skills and attribute)
+  - title: Game8, Iroi build page (skills and attribute)
     url: https://game8.co/games/Neverness-to-Everness/archives/613162
   - title: nanoka.cc game data 1.5.4, character file in English
     url: https://static.nanoka.cc/nte/1.5.4/en/character/1075.json
@@ -37,6 +37,8 @@ sources:
     url: https://static.nanoka.cc/nte/1.5.4/ja/character/1075.json
   - title: nanoka.cc game data 1.5.4, character file in Korean
     url: https://static.nanoka.cc/nte/1.5.4/ko/character/1075.json
+  - title: 叫我棉被 and 零号攻略组, Iroi guide video, Bilibili, in Simplified Chinese (2026-07-23)
+    url: https://www.bilibili.com/video/BV1Hfgm6eE2A/
   - title: 'Everness, outfit pages in Traditional Chinese (example: Dreamweaver, read 2026-11-23)'
     url: https://everness.info/zh-Hant/cosmetics/Fashion_1075_rpg_level3
 ---
@@ -169,3 +171,57 @@ Ultimate Energy Cost: 100 at every level.
 | Parameter | Lv. 1 | Lv. 2 | Lv. 3 | Lv. 4 | Lv. 5 | Lv. 6 | Lv. 7 | Lv. 8 | Lv. 9 | Lv. 10 | Lv. 11 | Lv. 12 | Lv. 13 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | DMG Ratio | 200% | 216% | 233.3% | 251.9% | 272.1% | 293.9% | 317.4% | 342.8% | 370.2% | 399.8% | 431.8% | 466.3% | 503.6% |
+
+## Mechanics in detail
+
+- Imagination caps at 100.[^1]
+- The Imagination threshold is 30: on reaching it, the mark on the gauge turns into a star and the icon on its left changes from a moon to a sun.[^2]
+- A full Collaboration combo builds 20 Imagination, the Skill 16 and the Support Skill 10, so two Skills reach the threshold.[^3]
+- Once Imagination has reached the threshold (30), holding Basic Attack gives four stages in all: three of Daydream, then Lucid Dream, which fires homing missiles for about 8 s and can be interrupted by enemies.[^4]
+- Switching characters during Lucid Dream does not stop the fire, and Iroi becomes invincible.[^5]
+- Holding Basic Attack early, during the animation of Reflexive Response, the Support Skill, the Skill or the Ultimate, starts directly from the third Daydream stage.[^6]
+- After the third Collaboration hit is released, a dodge right away cancels its recovery and the damage still lands.[^7]
+- Frame-by-frame timings: three Collaboration hits then a dodge take 2.5 s, then a plunge 2.67 s, then a switch 3 s; the third and fourth stages of the held Basic Attack, then a switch, take 8 s.[^8]
+- The Skill pulls enemies from a wider area than [Sakiri](/characters/sakiri/)'s and faster, including enemies behind Iroi.[^9]
+- Iroi's healing scales with her total ATK.[^10]
+- When the Skill is held, each ally sent into Regression is replaced by one lamb that fights in their place.[^11]
+- The lambs stay on the field, are invincible throughout, inherit Iroi's stats and attack in a fixed skill order.[^12]
+- Once Iroi's Cycle gauge is full, tapping a lamb's portrait casts a Support Skill.[^13]
+- Apart from the temporary revival in Dream of the Ivory Gate, an ally in Regression cannot be brought back with consumables or the switch key; they return only after combat ends.[^14]
+- The Ultimate's healing circle follows the character being played, and allies off the field keep healing too.[^15]
+- No Imagination builds while the dream is open.[^16]
+- 16 Imagination keeps the dream open for exactly 2 s.[^17]
+- A held Basic Attack started inside the dream still comes out after Imagination runs out: hold Basic Attack right after casting the Ultimate, then tap Basic Attack once as Iroi jumps.[^18]
+- An ally revived by the Ultimate stays for at most 12.5 s.[^19]
+- Levelling the Skill, Ultimate and Support Skill mainly raises healing; it does not change the ATK bonus, the DEF Ignore or the Vita Bud Copy.[^20]
+- Mirror Image's Vita Bud Copy appears 3 s after a Vita Bud grows, does not count toward the Vita Bud limit, and fires one Copied Vita Pistil every 0.5 s, 20 in all over 10 s.[^21]
+- Sympathetic Nerves' 5% DEF Ignore, which lasts 20 s, does not stack.[^22]
+- Petting cats and dogs in the open world gives Iroi a random growth item, up to 3 times a day and 999 times in total (passive 95-Million-Year Divide).[^23]
+- With a fully built Console, each trigger of Strategy: Tit for Tat adds about 16,000 damage.[^24]
+- Trait: Forgiving does not restore a revived ally's own special energy, such as that of [Hotori](/characters/hotori/) or [Shinku](/characters/shinku/).[^25]
+
+[^1]: [叫我棉被 and 零号攻略组, Iroi guide video, Bilibili, in Simplified Chinese (2026-07-23), 2:10](https://www.bilibili.com/video/BV1Hfgm6eE2A/?t=130)
+[^2]: [叫我棉被 and 零号攻略组, Iroi guide video, Bilibili, in Simplified Chinese (2026-07-23), 2:17](https://www.bilibili.com/video/BV1Hfgm6eE2A/?t=137)
+[^3]: [叫我棉被 and 零号攻略组, Iroi guide video, Bilibili, in Simplified Chinese (2026-07-23), 2:23](https://www.bilibili.com/video/BV1Hfgm6eE2A/?t=143)
+[^4]: [叫我棉被 and 零号攻略组, Iroi guide video, Bilibili, in Simplified Chinese (2026-07-23), 2:32](https://www.bilibili.com/video/BV1Hfgm6eE2A/?t=152)
+[^5]: [叫我棉被 and 零号攻略组, Iroi guide video, Bilibili, in Simplified Chinese (2026-07-23), 2:43](https://www.bilibili.com/video/BV1Hfgm6eE2A/?t=163)
+[^6]: [叫我棉被 and 零号攻略组, Iroi guide video, Bilibili, in Simplified Chinese (2026-07-23), 13:43](https://www.bilibili.com/video/BV1Hfgm6eE2A/?t=823)
+[^7]: [叫我棉被 and 零号攻略组, Iroi guide video, Bilibili, in Simplified Chinese (2026-07-23), 13:12](https://www.bilibili.com/video/BV1Hfgm6eE2A/?t=792)
+[^8]: [叫我棉被 and 零号攻略组, Iroi guide video, Bilibili, in Simplified Chinese (2026-07-23), 15:03](https://www.bilibili.com/video/BV1Hfgm6eE2A/?t=903)
+[^9]: [叫我棉被 and 零号攻略组, Iroi guide video, Bilibili, in Simplified Chinese (2026-07-23), 1:25](https://www.bilibili.com/video/BV1Hfgm6eE2A/?t=85)
+[^10]: [叫我棉被 and 零号攻略组, Iroi guide video, Bilibili, in Simplified Chinese (2026-07-23), 1:40](https://www.bilibili.com/video/BV1Hfgm6eE2A/?t=100)
+[^11]: [叫我棉被 and 零号攻略组, Iroi guide video, Bilibili, in Simplified Chinese (2026-07-23), 3:36](https://www.bilibili.com/video/BV1Hfgm6eE2A/?t=216)
+[^12]: [叫我棉被 and 零号攻略组, Iroi guide video, Bilibili, in Simplified Chinese (2026-07-23), 3:43](https://www.bilibili.com/video/BV1Hfgm6eE2A/?t=223)
+[^13]: [叫我棉被 and 零号攻略组, Iroi guide video, Bilibili, in Simplified Chinese (2026-07-23), 3:49](https://www.bilibili.com/video/BV1Hfgm6eE2A/?t=229)
+[^14]: [叫我棉被 and 零号攻略组, Iroi guide video, Bilibili, in Simplified Chinese (2026-07-23), 4:00](https://www.bilibili.com/video/BV1Hfgm6eE2A/?t=240)
+[^15]: [叫我棉被 and 零号攻略组, Iroi guide video, Bilibili, in Simplified Chinese (2026-07-23), 1:49](https://www.bilibili.com/video/BV1Hfgm6eE2A/?t=109)
+[^16]: [叫我棉被 and 零号攻略组, Iroi guide video, Bilibili, in Simplified Chinese (2026-07-23), 3:23](https://www.bilibili.com/video/BV1Hfgm6eE2A/?t=203)
+[^17]: [叫我棉被 and 零号攻略组, Iroi guide video, Bilibili, in Simplified Chinese (2026-07-23), 14:39](https://www.bilibili.com/video/BV1Hfgm6eE2A/?t=879)
+[^18]: [叫我棉被 and 零号攻略组, Iroi guide video, Bilibili, in Simplified Chinese (2026-07-23), 14:44](https://www.bilibili.com/video/BV1Hfgm6eE2A/?t=884)
+[^19]: [叫我棉被 and 零号攻略组, Iroi guide video, Bilibili, in Simplified Chinese (2026-07-23), 11:54](https://www.bilibili.com/video/BV1Hfgm6eE2A/?t=714)
+[^20]: [叫我棉被 and 零号攻略组, Iroi guide video, Bilibili, in Simplified Chinese (2026-07-23), 6:00](https://www.bilibili.com/video/BV1Hfgm6eE2A/?t=360)
+[^21]: [叫我棉被 and 零号攻略组, Iroi guide video, Bilibili, in Simplified Chinese (2026-07-23), 4:17](https://www.bilibili.com/video/BV1Hfgm6eE2A/?t=257)
+[^22]: [叫我棉被 and 零号攻略组, Iroi guide video, Bilibili, in Simplified Chinese (2026-07-23), 1:57](https://www.bilibili.com/video/BV1Hfgm6eE2A/?t=117)
+[^23]: [叫我棉被 and 零号攻略组, Iroi guide video, Bilibili, in Simplified Chinese (2026-07-23), 0:46](https://www.bilibili.com/video/BV1Hfgm6eE2A/?t=46)
+[^24]: [叫我棉被 and 零号攻略组, Iroi guide video, Bilibili, in Simplified Chinese (2026-07-23), 10:55](https://www.bilibili.com/video/BV1Hfgm6eE2A/?t=655)
+[^25]: [叫我棉被 and 零号攻略组, Iroi guide video, Bilibili, in Simplified Chinese (2026-07-23), 11:49](https://www.bilibili.com/video/BV1Hfgm6eE2A/?t=709)

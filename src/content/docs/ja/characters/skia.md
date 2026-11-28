@@ -23,7 +23,7 @@ sources:
     url: https://nte.perfectworld.com/kr/article/news/gamenews/20261019/264679.html
   - title: Prydwen、翳のキャラクターページ（スキル、属性、弧盤タイプ）
     url: https://www.prydwen.gg/neverness-to-everness/characters/skia
-  - title: Game8、翳の育成ページ（スキルと属性の照合）
+  - title: Game8、翳の育成ページ（スキルと属性）
     url: https://game8.co/games/Neverness-to-Everness/archives/597810
   - title: nanoka.cc ゲームデータ1.5.4、キャラクターファイル（英語）
     url: https://static.nanoka.cc/nte/1.5.4/en/character/1008.json
@@ -33,6 +33,10 @@ sources:
     url: https://static.nanoka.cc/nte/1.5.4/ja/character/1008.json
   - title: nanoka.cc ゲームデータ1.5.4、キャラクターファイル（韓国語）
     url: https://static.nanoka.cc/nte/1.5.4/ko/character/1008.json
+  - title: Game8、キャラクター一覧（常設ボードと限定ボード）
+    url: https://game8.co/games/Neverness-to-Everness/archives/592067
+  - title: Prydwen、ガチャページ（常設ボード）
+    url: https://www.prydwen.gg/neverness-to-everness/banners
 ---
 
 ## プロフィール
@@ -49,7 +53,7 @@ sources:
 
 ## 入手方法
 
-翳は限定ボードに並んで登場するAランクキャラ3名の1人で、ほかの2名は[ハニア](/ja/characters/haniel/)と[海月](/ja/characters/aurelia/)である。Game8は常設ボードにもAランクキャラを掲載している。
+翳は限定ボードに並んで登場するAランクキャラ3名の1人で、ほかの2名は[ハニア](/ja/characters/haniel/)と[海月](/ja/characters/aurelia/)である。常設ボードにもAランクキャラがいる。
 
 | 限定ボード | Sランクキャラ | 開催期間 |
 | --- | --- | --- |

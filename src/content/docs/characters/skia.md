@@ -23,7 +23,7 @@ sources:
     url: https://nte.perfectworld.com/kr/article/news/gamenews/20261019/264679.html
   - title: Prydwen, Skia character page (skills, attribute, Arc type)
     url: https://www.prydwen.gg/neverness-to-everness/characters/skia
-  - title: Game8, Skia build page (cross-check of skills and attribute)
+  - title: Game8, Skia build page (skills and attribute)
     url: https://game8.co/games/Neverness-to-Everness/archives/597810
   - title: nanoka.cc game data 1.5.4, character file in English
     url: https://static.nanoka.cc/nte/1.5.4/en/character/1008.json
@@ -33,6 +33,10 @@ sources:
     url: https://static.nanoka.cc/nte/1.5.4/ja/character/1008.json
   - title: nanoka.cc game data 1.5.4, character file in Korean
     url: https://static.nanoka.cc/nte/1.5.4/ko/character/1008.json
+  - title: Game8, list of characters (Standard and Limited boards)
+    url: https://game8.co/games/Neverness-to-Everness/archives/592067
+  - title: Prydwen, banners page (standard banner)
+    url: https://www.prydwen.gg/neverness-to-everness/banners
 ---
 
 ## Profile
@@ -49,7 +53,7 @@ sources:
 
 ## How to obtain
 
-Skia is one of three A-Class characters that share a place on Limited Boards, beside [Haniel](/characters/haniel/) and [Aurelia](/characters/aurelia/). Game8 also lists A-Class characters on the permanent Standard Board.
+Skia is one of three A-Class characters that share a place on Limited Boards, beside [Haniel](/characters/haniel/) and [Aurelia](/characters/aurelia/). A-Class characters are also on the permanent Standard Board.
 
 | Limited Board | S-Class character | Runs |
 | --- | --- | --- |

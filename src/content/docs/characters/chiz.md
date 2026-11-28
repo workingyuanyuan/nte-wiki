@@ -21,7 +21,7 @@ sources:
     url: https://nte.perfectworld.com/kr/main.html?nav=2&role=20
   - title: Prydwen, Chiz character page (skills, attribute, Arc type)
     url: https://www.prydwen.gg/neverness-to-everness/characters/chiz
-  - title: Game8, Chiz build page (cross-check of skills and attribute)
+  - title: Game8, Chiz build page (skills and attribute)
     url: https://game8.co/games/Neverness-to-Everness/archives/597641
   - title: nanoka.cc game data 1.5.4, character file in English
     url: https://static.nanoka.cc/nte/1.5.4/en/character/1073.json
@@ -31,6 +31,8 @@ sources:
     url: https://static.nanoka.cc/nte/1.5.4/ja/character/1073.json
   - title: nanoka.cc game data 1.5.4, character file in Korean
     url: https://static.nanoka.cc/nte/1.5.4/ko/character/1073.json
+  - title: 叫我棉被, Chiz guide video, Bilibili, in Simplified Chinese (2026-04-28)
+    url: https://www.bilibili.com/video/BV1yXokBKEj4/
 ---
 
 ![Chiz, official character art: a girl with pink hair in buns, in a pink and white uniform dress](/art/characters/chiz.webp)
@@ -52,7 +54,10 @@ Game8 spells her Skill "Pink Paws Priority Principe"; Prydwen spells it "Pink Pa
 
 ## How to obtain
 
-Game8 says she is obtained by raising the City Tycoon level; Prydwen lists her, and her extra copies, as obtainable without spending.
+She is obtained by raising the City Tycoon level;[^1] she and her extra copies are obtainable without spending.[^2]
+
+[^1]: [Game8, Chiz build page (skills and attribute)](https://game8.co/games/Neverness-to-Everness/archives/597641)
+[^2]: [Prydwen, Chiz character page (skills, attribute, Arc type)](https://www.prydwen.gg/neverness-to-everness/characters/chiz)
 
 ## Skills
 
@@ -138,3 +143,39 @@ Ultimate Energy Cost: 100 at every level.
 | Parameter | Lv. 1 | Lv. 2 | Lv. 3 | Lv. 4 | Lv. 5 | Lv. 6 | Lv. 7 | Lv. 8 | Lv. 9 | Lv. 10 | Lv. 11 | Lv. 12 | Lv. 13 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | DMG Ratio | 200% | 216% | 233.3% | 251.9% | 272.1% | 293.9% | 317.4% | 342.8% | 370.2% | 399.8% | 431.8% | 466.3% | 503.6% |
+
+## Mechanics in detail
+
+- City Tycoon unlocks, free of charge, Chiz herself, six Mind Shard - Chiz items and five copies of the S-Class Arc Contemplative Cat.[^3]
+- Chiz herself comes at City Tycoon level 18.[^4]
+- Barren triggers at most once every 2.5 s.[^5]
+- Fons from Barren have a daily cap and a total cap, both raised by raising the Tycoon level: the daily cap reaches at most 50,000 and the total cap at most 500,000.[^6]
+- Above the HP bar, the red bar is the Grain held and the green bar the Grain Loan that can be borrowed; casting the Ultimate turns the green bar red.[^7]
+- The Grain cap rises with character level: at level 80 the red bar holds up to 15,000 and the green bar the same, so up to 30,000 Grain during the Ultimate.[^8]
+- Grain fixed damage = Grain × 100% × DEF × RES × DMG Bonus × Crit (when it can crit); ATK bonuses do not affect it.[^9]
+- The Skill's cooldown is 3 s.[^10]
+- On the field, the Skill chain is broken only by taking a hit or by a Basic Attack.[^11]
+- Switching out after the first Skill cast restarts the chain from the beginning on return.[^12]
+- The guaranteed Crit of the first Skill in Grain Market also covers its Grain damage.[^13]
+- Grain Market lasts 7 s; at best, the Skill can be cast five times in it.[^14]
+- In Grain Market, tapping the Skill as the red line crosses a peak of the Grain Price chart adds Grain in proportion to the Grain held; at a trough it takes Grain away in proportion.[^15]
+- After the Ultimate the borrowed Grain Loan must be repaid; until it is, tapping the Skill adds no Grain damage, and Basic Attacks build the Grain that repays it.[^16]
+- Switching Chiz out during Grain Market ends the Ultimate state at once.[^17]
+- Hanahaki Disease raises the Ultimate Energy that Charge gives the active character from 10 to 14.[^18]
+
+[^3]: [叫我棉被, Chiz guide video, Bilibili, in Simplified Chinese (2026-04-28), 0:04](https://www.bilibili.com/video/BV1yXokBKEj4/?t=4)
+[^4]: [叫我棉被, Chiz guide video, Bilibili, in Simplified Chinese (2026-04-28), 0:14](https://www.bilibili.com/video/BV1yXokBKEj4/?t=14)
+[^5]: [叫我棉被, Chiz guide video, Bilibili, in Simplified Chinese (2026-04-28), 4:51](https://www.bilibili.com/video/BV1yXokBKEj4/?t=291)
+[^6]: [叫我棉被, Chiz guide video, Bilibili, in Simplified Chinese (2026-04-28), 4:55](https://www.bilibili.com/video/BV1yXokBKEj4/?t=295)
+[^7]: [叫我棉被, Chiz guide video, Bilibili, in Simplified Chinese (2026-04-28), 1:23](https://www.bilibili.com/video/BV1yXokBKEj4/?t=83)
+[^8]: [叫我棉被, Chiz guide video, Bilibili, in Simplified Chinese (2026-04-28), 2:52](https://www.bilibili.com/video/BV1yXokBKEj4/?t=172)
+[^9]: [叫我棉被, Chiz guide video, Bilibili, in Simplified Chinese (2026-04-28), 2:40](https://www.bilibili.com/video/BV1yXokBKEj4/?t=160)
+[^10]: [叫我棉被, Chiz guide video, Bilibili, in Simplified Chinese (2026-04-28), 3:40](https://www.bilibili.com/video/BV1yXokBKEj4/?t=220)
+[^11]: [叫我棉被, Chiz guide video, Bilibili, in Simplified Chinese (2026-04-28), 11:33](https://www.bilibili.com/video/BV1yXokBKEj4/?t=693)
+[^12]: [叫我棉被, Chiz guide video, Bilibili, in Simplified Chinese (2026-04-28), 11:36](https://www.bilibili.com/video/BV1yXokBKEj4/?t=696)
+[^13]: [叫我棉被, Chiz guide video, Bilibili, in Simplified Chinese (2026-04-28), 4:17](https://www.bilibili.com/video/BV1yXokBKEj4/?t=257)
+[^14]: [叫我棉被, Chiz guide video, Bilibili, in Simplified Chinese (2026-04-28), 4:23](https://www.bilibili.com/video/BV1yXokBKEj4/?t=263)
+[^15]: [叫我棉被, Chiz guide video, Bilibili, in Simplified Chinese (2026-04-28), 1:42](https://www.bilibili.com/video/BV1yXokBKEj4/?t=102)
+[^16]: [叫我棉被, Chiz guide video, Bilibili, in Simplified Chinese (2026-04-28), 1:59](https://www.bilibili.com/video/BV1yXokBKEj4/?t=119)
+[^17]: [叫我棉被, Chiz guide video, Bilibili, in Simplified Chinese (2026-04-28), 11:28](https://www.bilibili.com/video/BV1yXokBKEj4/?t=688)
+[^18]: [叫我棉被, Chiz guide video, Bilibili, in Simplified Chinese (2026-04-28), 10:31](https://www.bilibili.com/video/BV1yXokBKEj4/?t=631)

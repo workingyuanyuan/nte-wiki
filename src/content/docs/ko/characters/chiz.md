@@ -21,7 +21,7 @@ sources:
     url: https://nte.perfectworld.com/kr/main.html?nav=2&role=20
   - title: Prydwen, 치즈 캐릭터 페이지(스킬, 속성, 아크 타입)
     url: https://www.prydwen.gg/neverness-to-everness/characters/chiz
-  - title: Game8, 치즈 빌드 페이지(스킬과 속성 교차 확인)
+  - title: Game8, 치즈 빌드 페이지(스킬과 속성)
     url: https://game8.co/games/Neverness-to-Everness/archives/597641
   - title: nanoka.cc 게임 데이터 1.5.4, 영어 캐릭터 파일
     url: https://static.nanoka.cc/nte/1.5.4/en/character/1073.json
@@ -31,6 +31,8 @@ sources:
     url: https://static.nanoka.cc/nte/1.5.4/ja/character/1073.json
   - title: nanoka.cc 게임 데이터 1.5.4, 한국어 캐릭터 파일
     url: https://static.nanoka.cc/nte/1.5.4/ko/character/1073.json
+  - title: 叫我棉被, 치즈 공략 영상, Bilibili, 중국어 간체(2026-04-28)
+    url: https://www.bilibili.com/video/BV1yXokBKEj4/
 ---
 
 ![치즈의 공식 캐릭터 일러스트. 분홍 머리를 번으로 묶은 소녀가 분홍과 흰색의 제복 원피스를 입고 있다](/art/characters/chiz.webp)
@@ -52,7 +54,10 @@ Game8은 치즈의 바이레일 스킬을 "Pink Paws Priority Principe"로, Pryd
 
 ## 획득 방법
 
-Game8에 따르면 도시 타이쿤 레벨을 올려 얻으며, Prydwen은 치즈와 그 중복 캐릭터를 과금 없이 얻을 수 있다고 적는다.
+도시 타이쿤 레벨을 올려 얻으며,[^1] 치즈와 그 중복 캐릭터는 과금 없이 얻을 수 있다.[^2]
+
+[^1]: [Game8, 치즈 빌드 페이지(스킬과 속성)](https://game8.co/games/Neverness-to-Everness/archives/597641)
+[^2]: [Prydwen, 치즈 캐릭터 페이지(스킬, 속성, 아크 타입)](https://www.prydwen.gg/neverness-to-everness/characters/chiz)
 
 ## 스킬
 
@@ -138,3 +143,39 @@ Game8에 따르면 도시 타이쿤 레벨을 올려 얻으며, Prydwen은 치�
 | 항목 | Lv. 1 | Lv. 2 | Lv. 3 | Lv. 4 | Lv. 5 | Lv. 6 | Lv. 7 | Lv. 8 | Lv. 9 | Lv. 10 | Lv. 11 | Lv. 12 | Lv. 13 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 피해 배율 | 200% | 216% | 233.3% | 251.9% | 272.1% | 293.9% | 317.4% | 342.8% | 370.2% | 399.8% | 431.8% | 466.3% | 503.6% |
+
+## 세부 메커니즘
+
+- 도시 타이쿤에서 치즈 본체, 「심상 파편·치즈」 6개, S급 아크 「생각하는 고양이」 5개를 무료로 해제할 수 있다.[^3]
+- 도시 타이쿤 레벨 18에서 치즈 본체를 얻는다.[^4]
+- 「흉년의 곡식」은 2.5초에 한 번까지 발동한다.[^5]
+- 「흉년의 곡식」으로 얻는 폰즈에는 일일 상한과 누적 상한이 있으며, 둘 다 타이쿤 레벨을 올리면 오른다. 일일 상한은 최대 50,000, 누적 상한은 최대 500,000이다.[^6]
+- HP 바 위의 빨간 바는 보유한 「황금 곡식」, 초록 바는 빌릴 수 있는 「황금 곡식 대출」 한도이며, 울티메이트를 쓰면 초록 바가 빨간 바로 바뀐다.[^7]
+- 「황금 곡식」 상한은 캐릭터 레벨에 따라 오른다. 80레벨에서 빨간 바 상한은 15,000이고 초록 바도 같아서, 울티메이트 중에는 「황금 곡식」을 최대 30,000까지 가질 수 있다.[^8]
+- 「황금 곡식」 고정 피해 = 「황금 곡식」 수 × 100% × 방어 × 저항 × 피해 보너스 × 치명(치명타가 가능할 때)이며, 공격력 보너스의 영향을 받지 않는다.[^9]
+- 바이레일 스킬의 재사용 대기시간은 3초다.[^10]
+- 필드에 있는 동안 바이레일 스킬 연속 시전은 피격과 일반 공격으로만 끊긴다.[^11]
+- 첫 번째 바이레일 스킬 후 캐릭터를 교체하면, 돌아왔을 때 연속 시전이 처음부터 다시 시작된다.[^12]
+- 「황금 곡식 시장」에서 첫 바이레일 스킬의 확정 치명타는 「황금 곡식」에 따른 추가 피해에도 적용된다.[^13]
+- 「황금 곡식 시장」은 7초 동안 지속되며, 이상적으로는 그동안 바이레일 스킬을 5번 쓸 수 있다.[^14]
+- 「황금 곡식 시장」 중 빨간 세로선이 「황금 곡식 캔들 차트」의 고점을 지날 때 바이레일 스킬을 누르면 보유한 「황금 곡식」에 비례해 늘고, 저점에서는 비례해 줄어든다.[^15]
+- 울티메이트가 끝나면 빌린 「황금 곡식 대출」을 갚아야 한다. 다 갚기 전에는 바이레일 스킬을 눌러도 「황금 곡식」에 따른 추가 피해가 없으며, 일반 공격으로 「황금 곡식」을 모아 갚는다.[^16]
+- 「황금 곡식 시장」 중에 치즈를 교체해 내보내면 울티메이트 상태가 바로 끝난다.[^17]
+- 「날아가는 새 증후군」은 「차지」로 필드 위 캐릭터가 얻는 울트에너지를 10에서 14로 늘린다.[^18]
+
+[^3]: [叫我棉被, 치즈 공략 영상, Bilibili, 중국어 간체(2026-04-28), 0:04](https://www.bilibili.com/video/BV1yXokBKEj4/?t=4)
+[^4]: [叫我棉被, 치즈 공략 영상, Bilibili, 중국어 간체(2026-04-28), 0:14](https://www.bilibili.com/video/BV1yXokBKEj4/?t=14)
+[^5]: [叫我棉被, 치즈 공략 영상, Bilibili, 중국어 간체(2026-04-28), 4:51](https://www.bilibili.com/video/BV1yXokBKEj4/?t=291)
+[^6]: [叫我棉被, 치즈 공략 영상, Bilibili, 중국어 간체(2026-04-28), 4:55](https://www.bilibili.com/video/BV1yXokBKEj4/?t=295)
+[^7]: [叫我棉被, 치즈 공략 영상, Bilibili, 중국어 간체(2026-04-28), 1:23](https://www.bilibili.com/video/BV1yXokBKEj4/?t=83)
+[^8]: [叫我棉被, 치즈 공략 영상, Bilibili, 중국어 간체(2026-04-28), 2:52](https://www.bilibili.com/video/BV1yXokBKEj4/?t=172)
+[^9]: [叫我棉被, 치즈 공략 영상, Bilibili, 중국어 간체(2026-04-28), 2:40](https://www.bilibili.com/video/BV1yXokBKEj4/?t=160)
+[^10]: [叫我棉被, 치즈 공략 영상, Bilibili, 중국어 간체(2026-04-28), 3:40](https://www.bilibili.com/video/BV1yXokBKEj4/?t=220)
+[^11]: [叫我棉被, 치즈 공략 영상, Bilibili, 중국어 간체(2026-04-28), 11:33](https://www.bilibili.com/video/BV1yXokBKEj4/?t=693)
+[^12]: [叫我棉被, 치즈 공략 영상, Bilibili, 중국어 간체(2026-04-28), 11:36](https://www.bilibili.com/video/BV1yXokBKEj4/?t=696)
+[^13]: [叫我棉被, 치즈 공략 영상, Bilibili, 중국어 간체(2026-04-28), 4:17](https://www.bilibili.com/video/BV1yXokBKEj4/?t=257)
+[^14]: [叫我棉被, 치즈 공략 영상, Bilibili, 중국어 간체(2026-04-28), 4:23](https://www.bilibili.com/video/BV1yXokBKEj4/?t=263)
+[^15]: [叫我棉被, 치즈 공략 영상, Bilibili, 중국어 간체(2026-04-28), 1:42](https://www.bilibili.com/video/BV1yXokBKEj4/?t=102)
+[^16]: [叫我棉被, 치즈 공략 영상, Bilibili, 중국어 간체(2026-04-28), 1:59](https://www.bilibili.com/video/BV1yXokBKEj4/?t=119)
+[^17]: [叫我棉被, 치즈 공략 영상, Bilibili, 중국어 간체(2026-04-28), 11:28](https://www.bilibili.com/video/BV1yXokBKEj4/?t=688)
+[^18]: [叫我棉被, 치즈 공략 영상, Bilibili, 중국어 간체(2026-04-28), 10:31](https://www.bilibili.com/video/BV1yXokBKEj4/?t=631)

@@ -45,7 +45,7 @@ sources:
     url: https://nte.perfectworld.com/kr/main.html?nav=2&role=20
   - title: Prydwen 的薄荷角色頁面（技能、屬性、弧盤類型）
     url: https://www.prydwen.gg/neverness-to-everness/characters/mint
-  - title: Game8 的薄荷配裝頁面（交叉查證技能與屬性）
+  - title: Game8 的薄荷配裝頁面（技能與屬性）
     url: https://game8.co/games/Neverness-to-Everness/archives/597760
   - title: nanoka.cc 遊戲資料 1.5.4，角色檔案（英文）
     url: https://static.nanoka.cc/nte/1.5.4/en/character/1019.json
@@ -55,6 +55,10 @@ sources:
     url: https://static.nanoka.cc/nte/1.5.4/ja/character/1019.json
   - title: nanoka.cc 遊戲資料 1.5.4，角色檔案（韓文）
     url: https://static.nanoka.cc/nte/1.5.4/ko/character/1019.json
+  - title: Game8，角色列表（常駐棋盤與限定棋盤）
+    url: https://game8.co/games/Neverness-to-Everness/archives/592067
+  - title: Prydwen，卡池頁面（常駐卡池）
+    url: https://www.prydwen.gg/neverness-to-everness/banners
   - title: Everness，時裝頁面（繁體中文，例：海鹽金平糖，2026-11-23 讀取）
     url: https://everness.info/zh-Hant/cosmetics/Fashion_1019_swimsuit
 ---
@@ -76,7 +80,7 @@ sources:
 
 ## 取得方式
 
-薄荷是與 [埃德嘉](/zh-tw/characters/edgar/)、[阿德勒](/zh-tw/characters/adler/) 共同輪駐限定棋盤的三名 A 級角色之一。Game8 亦將 A 級角色列於常駐棋盤中。
+薄荷是與 [埃德嘉](/zh-tw/characters/edgar/)、[阿德勒](/zh-tw/characters/adler/) 共同輪駐限定棋盤的三名 A 級角色之一。常駐棋盤中也有 A 級角色。
 
 | 限定棋盤 | S 級角色 | 開放期間 |
 | --- | --- | --- |

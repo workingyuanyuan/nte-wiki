@@ -27,7 +27,7 @@ sources:
     url: https://nte.perfectworld.com/kr/main.html?nav=2&role=20
   - title: Prydwen, Blackbird character page (skills, attribute, Arc type)
     url: https://www.prydwen.gg/neverness-to-everness/characters/blackbird
-  - title: Game8, Blackbird build page (cross-check of skills and attribute)
+  - title: Game8, Blackbird build page (skills and attribute)
     url: https://game8.co/games/Neverness-to-Everness/archives/627444
   - title: nanoka.cc game data 1.5.4, character file in English
     url: https://static.nanoka.cc/nte/1.5.4/en/character/1042.json
@@ -37,6 +37,8 @@ sources:
     url: https://static.nanoka.cc/nte/1.5.4/ja/character/1042.json
   - title: nanoka.cc game data 1.5.4, character file in Korean
     url: https://static.nanoka.cc/nte/1.5.4/ko/character/1042.json
+  - title: 叫我棉被 and 零号攻略组, Blackbird guide video, Bilibili, in Simplified Chinese (2026-09-24)
+    url: https://www.bilibili.com/video/BV1DaaF6AEay/
   - title: 'Everness, outfit pages in Traditional Chinese (example: Wandering Stars, read 2026-11-23)'
     url: https://everness.info/zh-Hant/cosmetics/Fashion_1042_1
 ---
@@ -170,3 +172,51 @@ Ultimate Energy Cost: 100 at every level.
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Judgment Upon Me DMG Ratio | 200% | 216% | 233.3% | 251.9% | 272.1% | 293.9% | 317.4% | 342.8% | 370.2% | 399.8% | 431.8% | 466.3% | 503.6% |
 | Naught but Mercy DMG Ratio | 200% | 216% | 233.3% | 251.9% | 272.1% | 293.9% | 317.4% | 342.8% | 370.2% | 399.8% | 431.8% | 466.3% | 503.6% |
+
+## Mechanics in detail
+
+- Malice is the gauge with a crow icon above Blackbird's HP bar, and it holds up to 60.[^1]
+- Blackbird gains 20 Malice on entering combat, and Netherplume Rite gives 40, so in the first rotation one cast of Netherplume Rite fills the gauge.[^2]
+- A full combo of normal-state Basic Attacks gives 20 Malice. Later rotations lack the Malice from entering combat, so filling the gauge takes Netherplume Rite and one full Basic Attack combo.[^3] With Passive 2 Ever Onward, casting Judgment Upon Me also gives 20 Malice.
+- Holding Basic Attack during Flames of Deliverance casts Tidings Unto All, and tapping Basic Attack after it continues from Pyreflame's third hit.[^4]
+- Netherplume Rite fills the Cycle gauge at once; this is what the game's "Instant Cycle" tag for Blackbird stands for.[^5]
+- Forsaken Feather lasts 15 seconds; teammates attacking the marked target trigger Forsaken Bird attacks, at most once every 2 seconds and at most 5 times per mark.[^6]
+- Flames of Deliverance lacks this instant fill of the Cycle gauge: it only deals damage.[^7]
+- Flames of Deliverance spends 13 Malice for extra damage when enough is left. It has no cooldown but has to be activated again after every cast.[^8]
+- Casting Flammae in Unum before Flames of Deliverance has dealt its damage cuts Flames of Deliverance short. Switching characters right after casting it does not: Blackbird stays on the field until it is finished.[^9]
+- Requies Animarum raises the whole team's ATK by 20% for 15 seconds.[^10] Flammae in Unum does not grant this bonus.[^11]
+- Witch of Deliverance lasts 16 seconds; the ring around the Ultimate icon shows the time left.[^12]
+- While Blackbird is off the field, the Witch of Deliverance timer pauses but the 15-second ATK bonus keeps running.[^13]
+- Blackbird is airborne when the Requies Animarum animation ends; tapping Basic Attack then starts from Pyreflame's third hit, which brings the first Flames of Deliverance about 2 seconds sooner.[^14]
+- If Witch of Deliverance runs out before Flammae in Unum is cast, Blackbird changes back without dealing its damage.[^15]
+- Thrushsong raises Stain's base DMG Bonus to 30% and its duration to 20 seconds.[^16]
+- With Passive 1 Thrushsong, the extra Mental damage when Nova ends is 20% of the damage the target took during that Nova, and Nova is applied again; the Nova it adds does not trigger the passive again.[^17]
+- With Renegade, Flammae in Unum spends all remaining Malice at once; with a full gauge, that part alone comes to a DMG ratio of about 3,360%.[^18]
+- The 100% of Wayward Chronicle is a separate multiplier, so Netherplume Rite's damage doubles; Forsaken Bird's coordinated attacks do not gain it.[^19]
+- The 50% of Blind Spot is a separate multiplier as well.[^20]
+- The RES reduction of Revenant does not stack; later hits refresh its duration.[^21]
+- Both Requies Animarum and Flammae in Unum trigger the 15-second Crit DMG bonus of "Crime and Punishment".[^22] Its wearer gains the team's bonus on top of her own: 16% and 32%, 48% in all, at rank 1.[^23]
+
+[^1]: [叫我棉被 and 零号攻略组, Blackbird guide video, Bilibili, in Simplified Chinese (2026-09-24), 14:09](https://www.bilibili.com/video/BV1DaaF6AEay/?t=849)
+[^2]: [叫我棉被 and 零号攻略组, Blackbird guide video, Bilibili, in Simplified Chinese (2026-09-24), 14:22](https://www.bilibili.com/video/BV1DaaF6AEay/?t=862)
+[^3]: [叫我棉被 and 零号攻略组, Blackbird guide video, Bilibili, in Simplified Chinese (2026-09-24), 14:36](https://www.bilibili.com/video/BV1DaaF6AEay/?t=876)
+[^4]: [叫我棉被 and 零号攻略组, Blackbird guide video, Bilibili, in Simplified Chinese (2026-09-24), 6:44](https://www.bilibili.com/video/BV1DaaF6AEay/?t=404)
+[^5]: [叫我棉被 and 零号攻略组, Blackbird guide video, Bilibili, in Simplified Chinese (2026-09-24), 14:58](https://www.bilibili.com/video/BV1DaaF6AEay/?t=898)
+[^6]: [叫我棉被 and 零号攻略组, Blackbird guide video, Bilibili, in Simplified Chinese (2026-09-24), 15:03](https://www.bilibili.com/video/BV1DaaF6AEay/?t=903)
+[^7]: [叫我棉被 and 零号攻略组, Blackbird guide video, Bilibili, in Simplified Chinese (2026-09-24), 1:09](https://www.bilibili.com/video/BV1DaaF6AEay/?t=69)
+[^8]: [叫我棉被 and 零号攻略组, Blackbird guide video, Bilibili, in Simplified Chinese (2026-09-24), 17:14](https://www.bilibili.com/video/BV1DaaF6AEay/?t=1034)
+[^9]: [叫我棉被 and 零号攻略组, Blackbird guide video, Bilibili, in Simplified Chinese (2026-09-24), 8:21](https://www.bilibili.com/video/BV1DaaF6AEay/?t=501)
+[^10]: [叫我棉被 and 零号攻略组, Blackbird guide video, Bilibili, in Simplified Chinese (2026-09-24), 15:31](https://www.bilibili.com/video/BV1DaaF6AEay/?t=931)
+[^11]: [叫我棉被 and 零号攻略组, Blackbird guide video, Bilibili, in Simplified Chinese (2026-09-24), 16:03](https://www.bilibili.com/video/BV1DaaF6AEay/?t=963)
+[^12]: [叫我棉被 and 零号攻略组, Blackbird guide video, Bilibili, in Simplified Chinese (2026-09-24), 15:37](https://www.bilibili.com/video/BV1DaaF6AEay/?t=937)
+[^13]: [叫我棉被 and 零号攻略组, Blackbird guide video, Bilibili, in Simplified Chinese (2026-09-24), 15:49](https://www.bilibili.com/video/BV1DaaF6AEay/?t=949)
+[^14]: [叫我棉被 and 零号攻略组, Blackbird guide video, Bilibili, in Simplified Chinese (2026-09-24), 16:38](https://www.bilibili.com/video/BV1DaaF6AEay/?t=998)
+[^15]: [叫我棉被 and 零号攻略组, Blackbird guide video, Bilibili, in Simplified Chinese (2026-09-24), 17:35](https://www.bilibili.com/video/BV1DaaF6AEay/?t=1055)
+[^16]: [叫我棉被 and 零号攻略组, Blackbird guide video, Bilibili, in Simplified Chinese (2026-09-24), 17:46](https://www.bilibili.com/video/BV1DaaF6AEay/?t=1066)
+[^17]: [叫我棉被 and 零号攻略组, Blackbird guide video, Bilibili, in Simplified Chinese (2026-09-24), 17:52](https://www.bilibili.com/video/BV1DaaF6AEay/?t=1072)
+[^18]: [叫我棉被 and 零号攻略组, Blackbird guide video, Bilibili, in Simplified Chinese (2026-09-24), 11:06](https://www.bilibili.com/video/BV1DaaF6AEay/?t=666)
+[^19]: [叫我棉被 and 零号攻略组, Blackbird guide video, Bilibili, in Simplified Chinese (2026-09-24), 11:25](https://www.bilibili.com/video/BV1DaaF6AEay/?t=685)
+[^20]: [叫我棉被 and 零号攻略组, Blackbird guide video, Bilibili, in Simplified Chinese (2026-09-24), 11:43](https://www.bilibili.com/video/BV1DaaF6AEay/?t=703)
+[^21]: [叫我棉被 and 零号攻略组, Blackbird guide video, Bilibili, in Simplified Chinese (2026-09-24), 12:17](https://www.bilibili.com/video/BV1DaaF6AEay/?t=737)
+[^22]: [叫我棉被 and 零号攻略组, Blackbird guide video, Bilibili, in Simplified Chinese (2026-09-24), 7:29](https://www.bilibili.com/video/BV1DaaF6AEay/?t=449)
+[^23]: [叫我棉被 and 零号攻略组, Blackbird guide video, Bilibili, in Simplified Chinese (2026-09-24), 2:52](https://www.bilibili.com/video/BV1DaaF6AEay/?t=172)

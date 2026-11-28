@@ -24,7 +24,7 @@ sources:
     url: https://nte.perfectworld.com/kr/article/news/gamenews/20261109/264952.html
   - title: Prydwen、エドガーのキャラクターページ（スキル、属性、弧盤タイプ）
     url: https://www.prydwen.gg/neverness-to-everness/characters/edgar
-  - title: Game8、エドガーの育成ページ（スキルと属性の照合）
+  - title: Game8、エドガーの育成ページ（スキルと属性）
     url: https://game8.co/games/Neverness-to-Everness/archives/597811
   - title: nanoka.cc ゲームデータ1.5.4、キャラクターファイル（英語）
     url: https://static.nanoka.cc/nte/1.5.4/en/character/1021.json
@@ -34,6 +34,10 @@ sources:
     url: https://static.nanoka.cc/nte/1.5.4/ja/character/1021.json
   - title: nanoka.cc ゲームデータ1.5.4、キャラクターファイル（韓国語）
     url: https://static.nanoka.cc/nte/1.5.4/ko/character/1021.json
+  - title: Game8、キャラクター一覧（常設ボードと限定ボード）
+    url: https://game8.co/games/Neverness-to-Everness/archives/592067
+  - title: Prydwen、ガチャページ（常設ボード）
+    url: https://www.prydwen.gg/neverness-to-everness/banners
 ---
 
 ## プロフィール
@@ -50,7 +54,7 @@ sources:
 
 ## 入手方法
 
-エドガーは、[ミント](/ja/characters/mint/)、[アドレー](/ja/characters/adler/)とともに限定ボードに登場する3名のAランクキャラの1人である。Game8は常設ボードにもAランクキャラを掲載している。
+エドガーは、[ミント](/ja/characters/mint/)、[アドレー](/ja/characters/adler/)とともに限定ボードに登場する3名のAランクキャラの1人である。常設ボードにもAランクキャラがいる。
 
 | 限定ボード | Sランクキャラ | 開催期間 |
 | --- | --- | --- |

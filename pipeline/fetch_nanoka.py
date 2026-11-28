@@ -28,6 +28,8 @@ CACHE = os.path.join(os.path.dirname(__file__), 'cache', VERSION)
 def character_ids():
     ids = {}
     for f in sorted(glob.glob('src/content/docs/characters/*.md')):
+        if os.path.basename(f) in ('archives.md', 'voices.md'):  # lists that cite one character's file as an example
+            continue
         m = re.search(r'nanoka\.cc/nte/' + re.escape(VERSION) + r'/en/character/(\d+)\.json', open(f, encoding='utf-8').read())
         if m:
             ids[os.path.basename(f)[:-3]] = m.group(1)

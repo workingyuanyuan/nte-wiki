@@ -36,6 +36,7 @@
   "致电，空想迷数": "致電，空想迷數",
   "致電，空想迷數": "致电，空想迷数",
   "争锋赏宴·攻坚": "爭鋒賞宴·攻堅",
+  "个人档案列表": "個人檔案列表",
   "伊波恩古董店": "伊波恩古董店",
   "斯卡布罗集市": "斯卡布羅集市",
   "弧盘研募计划": "弧盤研募計畫",
@@ -118,6 +119,7 @@
   "21的赠礼": "21的贈禮",
   "维特海默塔": "維特海默塔",
   "达芙蒂尔": "達芙蒂爾",
+  "语音列表": "語音列表",
   "塞润尼缇": "塞潤尼緹",
   "无首铁驭": "無首鐵馭",
   "音霸魔王": "音霸魔王",
@@ -5856,7 +5858,8 @@
    },
    "fans": [
     "nanally"
-   ]
+   ],
+   "favor": 400
   },
   {
    "id": "Furniture_Gacha_Blue_002",
@@ -5905,7 +5908,8 @@
    "fans": [
     "chaos",
     "nanally"
-   ]
+   ],
+   "favor": 200
   },
   {
    "id": "Furniture_Gacha_Blue_003",
@@ -5999,7 +6003,8 @@
    },
    "fans": [
     "chaos"
-   ]
+   ],
+   "favor": 100
   },
   {
    "id": "Furniture_Gacha_Blue_005",
@@ -6369,7 +6374,8 @@
    },
    "fans": [
     "linko"
-   ]
+   ],
+   "favor": 200
   },
   {
    "id": "Furniture_Gacha_Pink_003",
@@ -6509,7 +6515,8 @@
    },
    "fans": [
     "linko"
-   ]
+   ],
+   "favor": 100
   },
   {
    "id": "Furniture_Gacha_eri_001",
@@ -6558,7 +6565,8 @@
    "fans": [
     "haniel",
     "mint"
-   ]
+   ],
+   "favor": 400
   },
   {
    "id": "Furniture_Gacha_eri_002",
@@ -6608,7 +6616,8 @@
     "haniel",
     "iroi",
     "shinku"
-   ]
+   ],
+   "favor": 200
   },
   {
    "id": "Furniture_Gacha_eri_003",
@@ -6656,7 +6665,8 @@
    },
    "fans": [
     "iroi"
-   ]
+   ],
+   "favor": 100
   },
   {
    "id": "Furniture_Gacha_eri_004",
@@ -6705,7 +6715,8 @@
    "fans": [
     "iroi",
     "shinku"
-   ]
+   ],
+   "favor": 100
   },
   {
    "id": "Furniture_Gacha_eri_005",
@@ -6753,7 +6764,8 @@
    },
    "fans": [
     "iroi"
-   ]
+   ],
+   "favor": 100
   },
   {
    "id": "Furniture_Gacha_MiniBlack_001",
@@ -6801,7 +6813,8 @@
    },
    "fans": [
     "baicang"
-   ]
+   ],
+   "favor": 400
   },
   {
    "id": "Furniture_Gacha_MiniBlack_002",
@@ -6850,7 +6863,8 @@
    "fans": [
     "baicang",
     "shinku"
-   ]
+   ],
+   "favor": 200
   },
   {
    "id": "Furniture_Gacha_MiniBlack_003",
@@ -6990,7 +7004,8 @@
    },
    "fans": [
     "shinku"
-   ]
+   ],
+   "favor": 100
   },
   {
    "id": "disc_0001",
@@ -7509,7 +7524,8 @@
    "fans": [
     "fadia",
     "shinku"
-   ]
+   ],
+   "favor": 200
   },
   {
    "id": "Flower0001",
@@ -7558,7 +7574,8 @@
    "fans": [
     "hathor",
     "zankou"
-   ]
+   ],
+   "favor": 200
   },
   {
    "id": "Flower0002",
@@ -7608,7 +7625,8 @@
     "aurelia",
     "edgar",
     "sakiri"
-   ]
+   ],
+   "favor": 200
   },
   {
    "id": "Flower0003",
@@ -7658,7 +7676,8 @@
     "adler",
     "chiz",
     "lacrimosa"
-   ]
+   ],
+   "favor": 200
   },
   {
    "id": "Flower0016",
@@ -7752,7 +7771,8 @@
    },
    "fans": [
     "blackbird"
-   ]
+   ],
+   "favor": 200
   },
   {
    "id": "Flower0018",
@@ -7848,7 +7868,8 @@
     "akane-rin",
     "baicang",
     "iroi"
-   ]
+   ],
+   "favor": 200
   },
   {
    "id": "Flower0005",
@@ -7942,7 +7963,8 @@
    },
    "fans": [
     "chiz"
-   ]
+   ],
+   "favor": 200
   },
   {
    "id": "Flower0007",
@@ -7991,7 +8013,8 @@
    "fans": [
     "nanally",
     "zankou"
-   ]
+   ],
+   "favor": 200
   },
   {
    "id": "Flower0011",
@@ -8192,7 +8215,8 @@
    },
    "fans": [
     "zankou"
-   ]
+   ],
+   "favor": 200
   },
   {
    "id": "Flower0009",
@@ -8258,7 +8282,8 @@
     "chiz",
     "haniel",
     "linko"
-   ]
+   ],
+   "favor": 200
   },
   {
    "id": "Flower0010",
@@ -8321,7 +8346,8 @@
    },
    "fans": [
     "mint"
-   ]
+   ],
+   "favor": 200
   },
   {
    "id": "Flower0014",
@@ -8722,7 +8748,8 @@
    "fans": [
     "blackbird",
     "elyms"
-   ]
+   ],
+   "favor": 200
   },
   {
    "id": "Figure_eri_01_001",
@@ -8776,7 +8803,8 @@
    "fans": [
     "haniel",
     "mint"
-   ]
+   ],
+   "favor": 400
   },
   {
    "id": "Figure_eri_01_002",
@@ -8830,7 +8858,8 @@
    "fans": [
     "haniel",
     "mint"
-   ]
+   ],
+   "favor": 400
   },
   {
    "id": "Figure_maskerrider_01_001",
@@ -8884,7 +8913,8 @@
    "fans": [
     "chaos",
     "nanally"
-   ]
+   ],
+   "favor": 400
   },
   {
    "id": "Figure_maskerrider_01_002",
@@ -8938,7 +8968,8 @@
    "fans": [
     "chaos",
     "nanally"
-   ]
+   ],
+   "favor": 400
   },
   {
    "id": "Figure_maskerrider_02_001",
@@ -8991,7 +9022,8 @@
    },
    "fans": [
     "shinku"
-   ]
+   ],
+   "favor": 400
   },
   {
    "id": "Figure_maskerrider_02_002",
@@ -9197,7 +9229,8 @@
    },
    "fans": [
     "baicang"
-   ]
+   ],
+   "favor": 400
   },
   {
    "id": "Figure_miniblack_01_002",
@@ -9251,7 +9284,8 @@
    "fans": [
     "baicang",
     "shinku"
-   ]
+   ],
+   "favor": 400
   },
   {
    "id": "Furniture_FlowerPot_001",
@@ -9457,7 +9491,8 @@
    },
    "fans": [
     "adler"
-   ]
+   ],
+   "favor": 200
   },
   {
    "id": "Furniture_FlowerPot_005",
@@ -9510,7 +9545,8 @@
    },
    "fans": [
     "fadia"
-   ]
+   ],
+   "favor": 400
   },
   {
    "id": "Doll_amusementpark_spc004",
@@ -9565,7 +9601,8 @@
     "edgar",
     "mint",
     "shinku"
-   ]
+   ],
+   "favor": 400
   },
   {
    "id": "Doll_amusementpark_spc005",
@@ -9618,7 +9655,8 @@
    },
    "fans": [
     "shinku"
-   ]
+   ],
+   "favor": 400
   },
   {
    "id": "Doll_amusementpark_spc006",
@@ -9672,7 +9710,8 @@
    "fans": [
     "haniel",
     "shinku"
-   ]
+   ],
+   "favor": 400
   },
   {
    "id": "Doll_amusementpark_spc007",
@@ -9725,7 +9764,8 @@
    },
    "fans": [
     "shinku"
-   ]
+   ],
+   "favor": 400
   },
   {
    "id": "Furniture_Light_001",
@@ -9819,7 +9859,8 @@
    },
    "fans": [
     "aurelia"
-   ]
+   ],
+   "favor": 400
   },
   {
    "id": "Furniture_Light_003",
@@ -9867,7 +9908,8 @@
    },
    "fans": [
     "elyms"
-   ]
+   ],
+   "favor": 400
   },
   {
    "id": "Furniture_Light_004",
@@ -10073,7 +10115,8 @@
    },
    "fans": [
     "skia"
-   ]
+   ],
+   "favor": 400
   },
   {
    "id": "Furniture_Light_008",
@@ -10398,7 +10441,8 @@
    "fans": [
     "edgar",
     "iroi"
-   ]
+   ],
+   "favor": 400
   },
   {
    "id": "Furniture_draw_002",
@@ -10449,7 +10493,8 @@
     "hathor",
     "iroi",
     "sakiri"
-   ]
+   ],
+   "favor": 200
   },
   {
    "id": "Furniture_draw_003",
@@ -10544,7 +10589,8 @@
    "fans": [
     "baicang",
     "chaos"
-   ]
+   ],
+   "favor": 200
   },
   {
    "id": "Furniture_draw_005",
@@ -10592,7 +10638,8 @@
    },
    "fans": [
     "fadia"
-   ]
+   ],
+   "favor": 200
   },
   {
    "id": "Furniture_draw_006",
@@ -10641,7 +10688,8 @@
    "fans": [
     "adler",
     "aurelia"
-   ]
+   ],
+   "favor": 400
   },
   {
    "id": "Furniture_draw_007",
@@ -10746,7 +10794,8 @@
    "fans": [
     "elyms",
     "iroi"
-   ]
+   ],
+   "favor": 400
   },
   {
    "id": "Furniture_draw_009",
@@ -10842,7 +10891,8 @@
     "chiz",
     "lacrimosa",
     "sakiri"
-   ]
+   ],
+   "favor": 400
   },
   {
    "id": "Furniture_Ornament_002",
@@ -10892,7 +10942,8 @@
     "iroi",
     "linko",
     "shinku"
-   ]
+   ],
+   "favor": 400
   },
   {
    "id": "Furniture_Ornament_003",
@@ -10946,7 +10997,8 @@
    "fans": [
     "chaos",
     "hathor"
-   ]
+   ],
+   "favor": 400
   },
   {
    "id": "Furniture_Ornament_009_handicraft",
@@ -11684,7 +11736,8 @@
    },
    "fans": [
     "blackbird"
-   ]
+   ],
+   "favor": 400
   },
   {
    "id": "Furniture_Ornament_020_handicraft",
@@ -11732,7 +11785,8 @@
    },
    "fans": [
     "blackbird"
-   ]
+   ],
+   "favor": 200
   },
   {
    "id": "Furniture_Ornament_021_handicraft",
@@ -11780,7 +11834,8 @@
    },
    "fans": [
     "blackbird"
-   ]
+   ],
+   "favor": 200
   },
   {
    "id": "BigPoster001",
@@ -11834,7 +11889,8 @@
    "fans": [
     "haniel",
     "nanally"
-   ]
+   ],
+   "favor": 200
   },
   {
    "id": "BigPoster002",
@@ -11930,7 +11986,8 @@
     "chaos",
     "haniel",
     "nanally"
-   ]
+   ],
+   "favor": 200
   },
   {
    "id": "BigPoster004",
@@ -11984,7 +12041,8 @@
    "fans": [
     "aurelia",
     "linko"
-   ]
+   ],
+   "favor": 200
   },
   {
    "id": "BigPoster005",
@@ -12139,7 +12197,8 @@
    },
    "fans": [
     "edgar"
-   ]
+   ],
+   "favor": 200
   },
   {
    "id": "SmallPoster002",
@@ -12202,7 +12261,8 @@
    },
    "fans": [
     "skia"
-   ]
+   ],
+   "favor": 200
   },
   {
    "id": "SmallPoster003",
@@ -12265,7 +12325,8 @@
    },
    "fans": [
     "edgar"
-   ]
+   ],
+   "favor": 200
   },
   {
    "id": "SmallPoster004",
@@ -12328,7 +12389,8 @@
    },
    "fans": [
     "edgar"
-   ]
+   ],
+   "favor": 200
   },
   {
    "id": "SmallPoster005",
@@ -12387,7 +12449,8 @@
    "fans": [
     "lacrimosa",
     "skia"
-   ]
+   ],
+   "favor": 200
   },
   {
    "id": "SmallPoster006",
@@ -12446,7 +12509,8 @@
    "fans": [
     "mint",
     "skia"
-   ]
+   ],
+   "favor": 200
   },
   {
    "id": "Visions_furniture_10_Output",
@@ -12575,7 +12639,8 @@
     "shinku",
     "skia",
     "zankou"
-   ]
+   ],
+   "favor": 2000
   },
   {
    "id": "SpecialGift_Fries",
@@ -12715,7 +12780,8 @@
     "shinku",
     "skia",
     "zankou"
-   ]
+   ],
+   "favor": 400
   },
   {
    "id": "SpecialGift_CD",
@@ -12764,7 +12830,8 @@
    "fans": [
     "akane-rin",
     "edgar"
-   ]
+   ],
+   "favor": 400
   },
   {
    "id": "Furniture_Ornament_019",
@@ -12997,7 +13064,8 @@
    "fans": [
     "blackbird",
     "zankou"
-   ]
+   ],
+   "favor": 400
   },
   {
    "id": "Furniture_Ornament_027",
@@ -13229,7 +13297,8 @@
    },
    "fans": [
     "elyms"
-   ]
+   ],
+   "favor": 400
   },
   {
    "id": "Furniture_Ornament_038",
@@ -13279,7 +13348,8 @@
     "elyms",
     "iroi",
     "shinku"
-   ]
+   ],
+   "favor": 400
   },
   {
    "id": "Furniture_Ornament_039",
@@ -13409,7 +13479,8 @@
    },
    "fans": [
     "lacrimosa"
-   ]
+   ],
+   "favor": 1200
   },
   {
    "id": "SpecialGift_1071",
@@ -13447,7 +13518,8 @@
    },
    "fans": [
     "chaos"
-   ]
+   ],
+   "favor": 1200
   },
   {
    "id": "SpecialGift_Paper1",
@@ -13701,7 +13773,8 @@
    },
    "fans": [
     "shinku"
-   ]
+   ],
+   "favor": 1200
   },
   {
    "id": "SpecialGift_1075",
@@ -13739,7 +13812,8 @@
    },
    "fans": [
     "iroi"
-   ]
+   ],
+   "favor": 1200
   },
   {
    "id": "SpecialGift_1036",
@@ -13777,7 +13851,8 @@
    },
    "fans": [
     "zankou"
-   ]
+   ],
+   "favor": 1200
   },
   {
    "id": "SpecialGift_1072",
@@ -13815,7 +13890,8 @@
    },
    "fans": [
     "linko"
-   ]
+   ],
+   "favor": 1200
   },
   {
    "id": "SpecialGift_1010",
@@ -13853,7 +13929,8 @@
    },
    "fans": [
     "nanally"
-   ]
+   ],
+   "favor": 1200
   },
   {
    "id": "SpecialGift_1052",
@@ -13927,7 +14004,8 @@
    },
    "fans": [
     "blackbird"
-   ]
+   ],
+   "favor": 1200
   },
   {
    "id": "SpecialGift_1057",
@@ -13965,7 +14043,8 @@
    },
    "fans": [
     "akane-rin"
-   ]
+   ],
+   "favor": 1200
   },
   {
    "id": "SpecialGift_1090",
@@ -14003,7 +14082,8 @@
    },
    "fans": [
     "elyms"
-   ]
+   ],
+   "favor": 1200
   },
   {
    "id": "SpecialGift_1074",
@@ -14077,7 +14157,8 @@
    },
    "fans": [
     "linko"
-   ]
+   ],
+   "favor": 100
   },
   {
    "id": "SpecialGift_elyms1",
@@ -14115,7 +14196,8 @@
    },
    "fans": [
     "elyms"
-   ]
+   ],
+   "favor": 200
   },
   {
    "id": "SpecialGift_elyms2",
@@ -14153,7 +14235,8 @@
    },
    "fans": [
     "elyms"
-   ]
+   ],
+   "favor": 200
   },
   {
    "id": "SpecialGift_elyms3",
@@ -14191,7 +14274,8 @@
    },
    "fans": [
     "elyms"
-   ]
+   ],
+   "favor": 200
   }
  ],
  "achievements": [

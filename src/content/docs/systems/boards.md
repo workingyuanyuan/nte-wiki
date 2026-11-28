@@ -94,7 +94,9 @@ sources:
 | Cost of Arc Research | Tri-Keys; since Version 1.2 also the program's own Keys, such as Resolve Keys |
 | Standard Board | Permanent, with the standard S-Class and A-Class characters and its own pool and pity |
 
-Prydwen states that the counter toward a guaranteed limited S-Class character carries over from one Limited Board to the next, while Arc programs and the Standard Board keep counters of their own. That counter is not the roll count of a Perks page.
+The counter toward a guaranteed limited S-Class character carries over from one Limited Board to the next, while Arc programs and the Standard Board keep counters of their own.[^1] That counter is not the roll count of a Perks page.
+
+[^1]: [Prydwen, banners page (standard banner)](https://www.prydwen.gg/neverness-to-everness/banners)
 
 ## Board history
 

@@ -45,7 +45,7 @@ sources:
     url: https://nte.perfectworld.com/kr/main.html?nav=2&role=20
   - title: Prydwen、ミントのキャラクターページ（スキル、属性、弧盤タイプ）
     url: https://www.prydwen.gg/neverness-to-everness/characters/mint
-  - title: Game8、ミントの育成ページ（スキルと属性の照合）
+  - title: Game8、ミントの育成ページ（スキルと属性）
     url: https://game8.co/games/Neverness-to-Everness/archives/597760
   - title: nanoka.cc ゲームデータ1.5.4、キャラクターファイル（英語）
     url: https://static.nanoka.cc/nte/1.5.4/en/character/1019.json
@@ -55,6 +55,10 @@ sources:
     url: https://static.nanoka.cc/nte/1.5.4/ja/character/1019.json
   - title: nanoka.cc ゲームデータ1.5.4、キャラクターファイル（韓国語）
     url: https://static.nanoka.cc/nte/1.5.4/ko/character/1019.json
+  - title: Game8、キャラクター一覧（常設ボードと限定ボード）
+    url: https://game8.co/games/Neverness-to-Everness/archives/592067
+  - title: Prydwen、ガチャページ（常設ボード）
+    url: https://www.prydwen.gg/neverness-to-everness/banners
   - title: Everness、コスチュームのページ（繁体字中国語、例：白波フリル、2026-11-23取得）
     url: https://everness.info/zh-Hant/cosmetics/Fashion_1019_swimsuit
 ---
@@ -76,7 +80,7 @@ sources:
 
 ## 入手方法
 
-ミントは限定ボードに並んで登場するAランクキャラ3名の1人で、ほかの2名は[エドガー](/ja/characters/edgar/)と[アドレー](/ja/characters/adler/)である。Game8は常設ボードにもAランクキャラを掲載している。
+ミントは限定ボードに並んで登場するAランクキャラ3名の1人で、ほかの2名は[エドガー](/ja/characters/edgar/)と[アドレー](/ja/characters/adler/)である。常設ボードにもAランクキャラがいる。
 
 | 限定ボード | Sランクキャラ | 開催期間 |
 | --- | --- | --- |

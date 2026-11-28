@@ -33,7 +33,7 @@ sources:
     url: https://nte.perfectworld.com/kr/main.html?nav=2&role=20
   - title: Prydwen, Nanally character page (skills, attribute, Arc type)
     url: https://www.prydwen.gg/neverness-to-everness/characters/nanally
-  - title: Game8, Nanally build page (cross-check of skills and attribute)
+  - title: Game8, Nanally build page (skills and attribute)
     url: https://game8.co/games/Neverness-to-Everness/archives/597504
   - title: nanoka.cc game data 1.5.4, character file in English
     url: https://static.nanoka.cc/nte/1.5.4/en/character/1010.json
@@ -43,6 +43,8 @@ sources:
     url: https://static.nanoka.cc/nte/1.5.4/ja/character/1010.json
   - title: nanoka.cc game data 1.5.4, character file in Korean
     url: https://static.nanoka.cc/nte/1.5.4/ko/character/1010.json
+  - title: 叫我棉被, Nanally guide video, Bilibili, in Simplified Chinese (2026-04-23)
+    url: https://www.bilibili.com/video/BV1ybo8BPEpx/
   - title: 'Everness, outfit pages in Traditional Chinese (example: Phoenix Kick, read 2026-11-23)'
     url: https://everness.info/zh-Hant/cosmetics/Fashion_1010_2
 ---
@@ -182,3 +184,35 @@ CD: 15s at every level; Ultimate Energy Cost: 100 at every level.
 | Parameter | Lv. 1 | Lv. 2 | Lv. 3 | Lv. 4 | Lv. 5 | Lv. 6 | Lv. 7 | Lv. 8 | Lv. 9 | Lv. 10 | Lv. 11 | Lv. 12 | Lv. 13 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | DMG Ratio | 200% | 216% | 233.3% | 251.9% | 272.1% | 293.9% | 317.4% | 342.8% | 370.2% | 399.8% | 431.8% | 466.3% | 503.6% |
+
+## Mechanics in detail
+
+- The three Heavy Hitter! strikes are not interrupted by dodging either.[^1]
+- The first Heavy Hitter! strike has a long wind-up; the third is a rising uppercut with a long recovery that a dodge can cancel once the damage lands.[^2]
+- After the fourth Colucci Secret Skill hit is released, switching out leaves Nanally to finish it off the field and add the fifth hit on her own.[^3]
+- While attacking off the field this way, Nanally takes no damage.[^4]
+- If the ally switched in after the fourth hit casts an Ultimate, Nanally still finishes the fourth and fifth hits during its animation.[^5]
+- Ichi-daime's Authority has a base duration of 12 s.[^6]
+- Ichi-daime's Authority raises Nanally's CRIT DMG by 30% and lets her walk on walls without using stamina.[^7]
+- A white ring around the Skill icon shows the time left on Ichi-daime's Authority; the effect ends when the ring runs out.[^8]
+- Underboss has a base duration of 6 s.[^9]
+- During the Ultimate, only Basic Attacks pull enemies.[^10]
+- More Than Passionate shortens the Vita Pistil firing interval to 1 s.[^11]
+- Fair Duel's follow-up triggers at most once every 2 s; its multiplier was measured at 120% at Basic Attack level 10, and is 129.5% at level 11.[^12]
+- The Console bonus adds at most 30% CRIT Rate.[^13]
+- Call Me the Boss's follow-up multiplier was measured at 100% at Basic Attack level 10.[^14]
+
+[^1]: [叫我棉被, Nanally guide video, Bilibili, in Simplified Chinese (2026-04-23), 10:47](https://www.bilibili.com/video/BV1ybo8BPEpx/?t=647)
+[^2]: [叫我棉被, Nanally guide video, Bilibili, in Simplified Chinese (2026-04-23), 10:50](https://www.bilibili.com/video/BV1ybo8BPEpx/?t=650)
+[^3]: [叫我棉被, Nanally guide video, Bilibili, in Simplified Chinese (2026-04-23), 12:17](https://www.bilibili.com/video/BV1ybo8BPEpx/?t=737)
+[^4]: [叫我棉被, Nanally guide video, Bilibili, in Simplified Chinese (2026-04-23), 12:31](https://www.bilibili.com/video/BV1ybo8BPEpx/?t=751)
+[^5]: [叫我棉被, Nanally guide video, Bilibili, in Simplified Chinese (2026-04-23), 12:36](https://www.bilibili.com/video/BV1ybo8BPEpx/?t=756)
+[^6]: [叫我棉被, Nanally guide video, Bilibili, in Simplified Chinese (2026-04-23), 8:45](https://www.bilibili.com/video/BV1ybo8BPEpx/?t=525)
+[^7]: [叫我棉被, Nanally guide video, Bilibili, in Simplified Chinese (2026-04-23), 9:33](https://www.bilibili.com/video/BV1ybo8BPEpx/?t=573)
+[^8]: [叫我棉被, Nanally guide video, Bilibili, in Simplified Chinese (2026-04-23), 9:52](https://www.bilibili.com/video/BV1ybo8BPEpx/?t=592)
+[^9]: [叫我棉被, Nanally guide video, Bilibili, in Simplified Chinese (2026-04-23), 10:15](https://www.bilibili.com/video/BV1ybo8BPEpx/?t=615)
+[^10]: [叫我棉被, Nanally guide video, Bilibili, in Simplified Chinese (2026-04-23), 10:35](https://www.bilibili.com/video/BV1ybo8BPEpx/?t=635)
+[^11]: [叫我棉被, Nanally guide video, Bilibili, in Simplified Chinese (2026-04-23), 2:34](https://www.bilibili.com/video/BV1ybo8BPEpx/?t=154)
+[^12]: [叫我棉被, Nanally guide video, Bilibili, in Simplified Chinese (2026-04-23), 6:26](https://www.bilibili.com/video/BV1ybo8BPEpx/?t=386)
+[^13]: [叫我棉被, Nanally guide video, Bilibili, in Simplified Chinese (2026-04-23), 5:18](https://www.bilibili.com/video/BV1ybo8BPEpx/?t=318)
+[^14]: [叫我棉被, Nanally guide video, Bilibili, in Simplified Chinese (2026-04-23), 7:47](https://www.bilibili.com/video/BV1ybo8BPEpx/?t=467)

@@ -47,7 +47,7 @@ sources:
     url: https://nte.perfectworld.com/kr/main.html?nav=2&role=20
   - title: Prydwen 的零角色頁面（技能、屬性、弧盤類型）
     url: https://www.prydwen.gg/neverness-to-everness/characters/zero
-  - title: Game8 的零配裝頁面（交叉查證技能與屬性）
+  - title: Game8 的零配裝頁面（技能與屬性）
     url: https://game8.co/games/Neverness-to-Everness/archives/597602
   - title: nanoka.cc 遊戲資料 1.5.4，角色檔案（英文）
     url: https://static.nanoka.cc/nte/1.5.4/en/character/1046.json

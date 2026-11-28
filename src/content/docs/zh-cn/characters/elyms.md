@@ -32,7 +32,7 @@ sources:
     url: https://nte.perfectworld.com/kr/main.html?nav=2&role=20
   - title: Prydwen 的曳尔沐页面（技能、属性、弧盘类型）
     url: https://www.prydwen.gg/neverness-to-everness/characters/elyms
-  - title: Game8 的曳尔沐配装页面（交叉查证技能与属性）
+  - title: Game8 的曳尔沐配装页面（技能与属性）
     url: https://game8.co/games/Neverness-to-Everness/archives/638157
   - title: nanoka.cc 游戏资料 1.5.4，角色档案（英文）
     url: https://static.nanoka.cc/nte/1.5.4/en/character/1090.json
@@ -42,6 +42,8 @@ sources:
     url: https://static.nanoka.cc/nte/1.5.4/ja/character/1090.json
   - title: nanoka.cc 游戏资料 1.5.4，角色档案（韩文）
     url: https://static.nanoka.cc/nte/1.5.4/ko/character/1090.json
+  - title: 叫我棉被、零号攻略组，曳尔沐攻略影片，Bilibili（简体中文，2026-11-05）
+    url: https://www.bilibili.com/video/BV1Czxo6AEBF/
   - title: Everness，时装页面（繁体中文，例：千年虫之谜，2026-11-23 读取）
     url: https://everness.info/zh-Hant/cosmetics/Fashion_1090_1
   - title: Everness，Y2K Mystique页面（英文，2026-11-23 读取）
@@ -181,3 +183,39 @@ sources:
 | 项目 | Lv. 1 | Lv. 2 | Lv. 3 | Lv. 4 | Lv. 5 | Lv. 6 | Lv. 7 | Lv. 8 | Lv. 9 | Lv. 10 | Lv. 11 | Lv. 12 | Lv. 13 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 「我在」伤害倍率 | 200% | 216% | 233.3% | 251.9% | 272.1% | 293.9% | 317.4% | 342.8% | 370.2% | 399.8% | 431.8% | 466.3% | 503.6% |
+
+## 机制细节
+
+- 「信号强度」显示为曳尔沐血条上方的三段信号条。[^1]
+- 「强信号」下打完三段「错频故障」仍可再次解锁「对你说再见」；虽然不再提升「信号强度」，但施放时会暂停计时器，例如「轨外之境」的计时。[^2]
+- 「强信号」下，在「错频故障」第二段结束前预先输入第三段，切人后曳尔沐仍会把第三段打完。[^3]
+- 「弱信号」下施放的「离去的人们」会直接充满环合值（即瞬环合）；「不连续的存在」与「对你说再见」则不会。[^4]
+- 「信号强度」由「弱信号」升到「中等信号」时获得 1 层「错视幻觉」，每层使下一次「对你说再见」的倍率提高 100%。[^5]
+- 极轨终结的形态在施放「不连续的存在」「对你说再见」或支援技能时依范围内敌人数判定：1 个为单体形态，2 个以上为范围形态。[^6]
+- 极轨终结的倍率在「中等信号」时提高 50%、「强信号」时提高 100%，单体与范围形态相同。[^7]
+- 极轨终结为全队增加相当于曳尔沐基础攻击力 20% 的攻击力，持续 20 秒，不限「信号强度」与形态。[^8]
+- 离场后「追忆」每 3 秒攻击一次，最多 6 次，单体与范围形态相同。[^9]
+- 「追忆」的形态与倍率依开启它的那次极轨终结决定：「强信号」开大后，即使「信号强度」已回到「弱信号」，这一轮「追忆」仍吃「强信号」的倍率。[^10]
+- 上一轮「追忆」次数未用完时再次施放极轨终结，次数会重置，不会累积。[^11]
+- 「追忆」也吃得到[灵可](/zh-cn/characters/linko/)给的追击伤害加成。[^12]
+- 「中继节点」的「盈蓄」强化每层为全队提高 3.75% 光属性伤害，持续 30 秒，最多 8 层（30%），重复触发刷新持续时间。[^13]
+- 队伍中任意角色对目标施加「延滞」时，「中继节点」的「延滞」强化会在 7.5 秒后对该目标再施加一次「延滞」，每 7 秒最多触发一次；追加的这次「延滞」不会再触发此效果。[^14]
+- 「保底机制」使曳尔沐的暴击伤害提高 10%。[^15]
+- 全部觉醒配合下，「对你说再见」依消耗的「错视幻觉」层数可多出 1,000% 以上的倍率。[^16]
+
+[^1]: [叫我棉被、零号攻略组，曳尔沐攻略影片，Bilibili（简体中文，2026-11-05），0:51](https://www.bilibili.com/video/BV1Czxo6AEBF/?t=51)
+[^2]: [叫我棉被、零号攻略组，曳尔沐攻略影片，Bilibili（简体中文，2026-11-05），12:52](https://www.bilibili.com/video/BV1Czxo6AEBF/?t=772)
+[^3]: [叫我棉被、零号攻略组，曳尔沐攻略影片，Bilibili（简体中文，2026-11-05），13:57](https://www.bilibili.com/video/BV1Czxo6AEBF/?t=837)
+[^4]: [叫我棉被、零号攻略组，曳尔沐攻略影片，Bilibili（简体中文，2026-11-05），10:13](https://www.bilibili.com/video/BV1Czxo6AEBF/?t=613)
+[^5]: [叫我棉被、零号攻略组，曳尔沐攻略影片，Bilibili（简体中文，2026-11-05），10:27](https://www.bilibili.com/video/BV1Czxo6AEBF/?t=627)
+[^6]: [叫我棉被、零号攻略组，曳尔沐攻略影片，Bilibili（简体中文，2026-11-05），10:54](https://www.bilibili.com/video/BV1Czxo6AEBF/?t=654)
+[^7]: [叫我棉被、零号攻略组，曳尔沐攻略影片，Bilibili（简体中文，2026-11-05），11:14](https://www.bilibili.com/video/BV1Czxo6AEBF/?t=674)
+[^8]: [叫我棉被、零号攻略组，曳尔沐攻略影片，Bilibili（简体中文，2026-11-05），11:25](https://www.bilibili.com/video/BV1Czxo6AEBF/?t=685)
+[^9]: [叫我棉被、零号攻略组，曳尔沐攻略影片，Bilibili（简体中文，2026-11-05），11:38](https://www.bilibili.com/video/BV1Czxo6AEBF/?t=698)
+[^10]: [叫我棉被、零号攻略组，曳尔沐攻略影片，Bilibili（简体中文，2026-11-05），11:48](https://www.bilibili.com/video/BV1Czxo6AEBF/?t=708)
+[^11]: [叫我棉被、零号攻略组，曳尔沐攻略影片，Bilibili（简体中文，2026-11-05），12:05](https://www.bilibili.com/video/BV1Czxo6AEBF/?t=725)
+[^12]: [叫我棉被、零号攻略组，曳尔沐攻略影片，Bilibili（简体中文，2026-11-05），12:14](https://www.bilibili.com/video/BV1Czxo6AEBF/?t=734)
+[^13]: [叫我棉被、零号攻略组，曳尔沐攻略影片，Bilibili（简体中文，2026-11-05），13:04](https://www.bilibili.com/video/BV1Czxo6AEBF/?t=784)
+[^14]: [叫我棉被、零号攻略组，曳尔沐攻略影片，Bilibili（简体中文，2026-11-05），13:16](https://www.bilibili.com/video/BV1Czxo6AEBF/?t=796)
+[^15]: [叫我棉被、零号攻略组，曳尔沐攻略影片，Bilibili（简体中文，2026-11-05），13:28](https://www.bilibili.com/video/BV1Czxo6AEBF/?t=808)
+[^16]: [叫我棉被、零号攻略组，曳尔沐攻略影片，Bilibili（简体中文，2026-11-05），9:57](https://www.bilibili.com/video/BV1Czxo6AEBF/?t=597)

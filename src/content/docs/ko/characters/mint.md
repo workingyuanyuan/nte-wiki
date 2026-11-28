@@ -45,7 +45,7 @@ sources:
     url: https://nte.perfectworld.com/kr/main.html?nav=2&role=20
   - title: Prydwen, 민트 캐릭터 페이지(스킬, 속성, 아크 타입)
     url: https://www.prydwen.gg/neverness-to-everness/characters/mint
-  - title: Game8, 민트 빌드 페이지(스킬과 속성 교차 확인)
+  - title: Game8, 민트 빌드 페이지(스킬과 속성)
     url: https://game8.co/games/Neverness-to-Everness/archives/597760
   - title: nanoka.cc 게임 데이터 1.5.4, 영어 캐릭터 파일
     url: https://static.nanoka.cc/nte/1.5.4/en/character/1019.json
@@ -55,6 +55,10 @@ sources:
     url: https://static.nanoka.cc/nte/1.5.4/ja/character/1019.json
   - title: nanoka.cc 게임 데이터 1.5.4, 한국어 캐릭터 파일
     url: https://static.nanoka.cc/nte/1.5.4/ko/character/1019.json
+  - title: Game8, 캐릭터 목록(상시 보드와 한정 보드)
+    url: https://game8.co/games/Neverness-to-Everness/archives/592067
+  - title: Prydwen, 배너 페이지(상시 배너)
+    url: https://www.prydwen.gg/neverness-to-everness/banners
   - title: 'Everness, 코스튬 페이지(번체 중국어, 예: 씨솔트 별사탕, 2026-11-23 확인)'
     url: https://everness.info/zh-Hant/cosmetics/Fashion_1019_swimsuit
 ---
@@ -76,7 +80,7 @@ sources:
 
 ## 획득 방법
 
-민트는 한정 보드에 함께 등장하는 A급 캐릭터 3명 중 한 명이며, 나머지 둘은 [에드가](/ko/characters/edgar/)와 [아들러](/ko/characters/adler/)이다. Game8은 상시 운영되는 상시 보드에도 A급 캐릭터를 올려 두고 있다.
+민트는 한정 보드에 함께 등장하는 A급 캐릭터 3명 중 한 명이며, 나머지 둘은 [에드가](/ko/characters/edgar/)와 [아들러](/ko/characters/adler/)이다. 상시 운영되는 상시 보드에도 A급 캐릭터가 있다.
 
 | 한정 보드 | S급 캐릭터 | 기간 |
 | --- | --- | --- |

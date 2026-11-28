@@ -34,6 +34,8 @@ sources:
     url: https://nte.perfectworld.com/jp/article/news/gamenews/20261109/264951.html
   - title: 1.5 版更新公告，2026-11-09（异象巡礼「Amber Broodmother」，韩文）
     url: https://nte.perfectworld.com/kr/article/news/gamenews/20261109/264952.html
+  - title: 叫我棉被，娜娜莉攻略影片，Bilibili（简体中文，2026-04-23）
+    url: https://www.bilibili.com/video/BV1ybo8BPEpx/
   - title: Everness，道具页面（繁体中文，例：新锐猎人攻略，2026-11-23 读取）
     url: https://everness.info/zh-Hant/items/CharacterUpMaterial_lv1
 ---
@@ -44,8 +46,11 @@ sources:
 | --- | --- |
 | 角色等级 | 最高 80 级；在 30、40、50、60、70、80 级突破 |
 | 弧盘等级 | 最高 80 级；突破等级相同 |
-| 等级上限 | 据 Prydwen，角色等级不能超过玩家的猎人等级 |
-| 觉醒 | 每名角色 6 项，每取得一个重复角色解锁一项，顺序自选；觉醒数达 3 与 6 时解锁共鸣 |
+| 等级上限 | 角色等级不能超过玩家的猎人等级[^1] |
+| 觉醒 | 每名角色 6 项，每取得一个重复角色解锁一项，顺序自选；觉醒数达 3 与 6 时解锁共鸣。已启用的觉醒可随时更换或卸下。[^2] |
+
+[^1]: [Prydwen 的角色养成指南（英文）](https://www.prydwen.gg/neverness-to-everness/guides/character-progression)
+[^2]: [叫我棉被，娜娜莉攻略影片，Bilibili（简体中文，2026-04-23），6:52](https://www.bilibili.com/video/BV1ybo8BPEpx/?t=412)
 
 ## 角色经验
 

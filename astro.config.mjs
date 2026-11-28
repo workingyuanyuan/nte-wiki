@@ -6,14 +6,18 @@ import starlightLinksValidator from 'starlight-links-validator';
 import { sitemapOptions } from './src/lib/sitemap.mjs';
 import { ORIGIN, BASE, TITLE, DESCRIPTION } from './src/lib/site.mjs';
 import { satteri } from '@astrojs/markdown-satteri';
-import { hastBase, hastTableBody } from './src/lib/hast-base.mjs';
+import { hastBase, hastTableBody, hastFootnotes } from './src/lib/hast-base.mjs';
+import { readFileSync } from 'node:fs';
+
+// The character guide pages of the community section, in the character list's order (pipeline/build_community.py writes it).
+const GUIDES = JSON.parse(readFileSync(new URL('./src/community-guides.json', import.meta.url), 'utf-8'));
 
 export default defineConfig({
 	site: ORIGIN,
 	base: BASE || undefined,
 	trailingSlash: 'always',
 	// Content links are written without the sub-path; this adds it in the HTML.
-	markdown: { processor: satteri({ hastPlugins: [hastBase, hastTableBody] }) },
+	markdown: { processor: satteri({ hastPlugins: [hastBase, hastTableBody, hastFootnotes] }) },
 	integrations: [
 		// Added here so that it takes options; Starlight then leaves its own copy out.
 		sitemap(sitemapOptions()),
@@ -67,7 +71,7 @@ export default defineConfig({
 				{
 					label: 'Community guides',
 					translations: { 'zh-TW': '社群攻略', 'zh-CN': '社群攻略', ja: 'コミュニティ攻略', ko: '커뮤니티 공략' },
-					items: [{ slug: 'community' }, { slug: 'community/teams' }, { slug: 'community/builds' }],
+					items: [{ slug: 'community' }, { slug: 'community/teams' }, { slug: 'community/builds' }, ...GUIDES.map((g) => ({ slug: `community/${g}` }))],
 				},
 			],
 			customCss: ['./src/styles/nte.css'],

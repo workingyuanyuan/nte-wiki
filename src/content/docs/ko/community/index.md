@@ -40,6 +40,17 @@ sources:
 
 - [파티 구성](/ko/community/teams/)
 - [캐릭터 육성](/ko/community/builds/)
+- [엘림 공략](/ko/community/elyms/)
+- [아카네 린 공략](/ko/community/akane-rin/)
+- [레이븐 공략](/ko/community/blackbird/)
+- [링코 공략](/ko/community/linko/)
+- [잔홍 공략](/ko/community/zankou/)
+- [일로이 공략](/ko/community/iroi/)
+- [카오스 공략](/ko/community/chaos/)
+- [라크리모사 공략](/ko/community/lacrimosa/)
+- [나나리 공략](/ko/community/nanally/)
+- [치즈 공략](/ko/community/chiz/)
+- [Exe 공략](/ko/community/exe/)
 
 ## 출처
 

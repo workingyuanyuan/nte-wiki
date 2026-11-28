@@ -33,7 +33,7 @@ sources:
     url: https://nte.perfectworld.com/kr/main.html?nav=2&role=20
   - title: Prydwen、早霧のキャラクターページ（スキル、属性、弧盤タイプ）
     url: https://www.prydwen.gg/neverness-to-everness/characters/sakiri
-  - title: Game8、早霧の育成ページ（スキルと属性の照合）
+  - title: Game8、早霧の育成ページ（スキルと属性）
     url: https://game8.co/games/Neverness-to-Everness/archives/597506
   - title: nanoka.cc ゲームデータ1.5.4、キャラクターファイル（英語）
     url: https://static.nanoka.cc/nte/1.5.4/en/character/1003.json

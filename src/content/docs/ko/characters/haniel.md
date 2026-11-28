@@ -37,7 +37,7 @@ sources:
     url: https://nte.perfectworld.com/kr/article/news/gamenews/20260929/264413.html
   - title: Prydwen, 하니엘 캐릭터 페이지(스킬, 속성, 아크 타입)
     url: https://www.prydwen.gg/neverness-to-everness/characters/haniel
-  - title: Game8, 하니엘 빌드 페이지(스킬과 속성 교차 확인)
+  - title: Game8, 하니엘 빌드 페이지(스킬과 속성)
     url: https://game8.co/games/Neverness-to-Everness/archives/597761
   - title: nanoka.cc 게임 데이터 1.5.4, 영어 캐릭터 파일
     url: https://static.nanoka.cc/nte/1.5.4/en/character/1020.json
@@ -47,6 +47,10 @@ sources:
     url: https://static.nanoka.cc/nte/1.5.4/ja/character/1020.json
   - title: nanoka.cc 게임 데이터 1.5.4, 한국어 캐릭터 파일
     url: https://static.nanoka.cc/nte/1.5.4/ko/character/1020.json
+  - title: Game8, 캐릭터 목록(상시 보드와 한정 보드)
+    url: https://game8.co/games/Neverness-to-Everness/archives/592067
+  - title: Prydwen, 배너 페이지(상시 배너)
+    url: https://www.prydwen.gg/neverness-to-everness/banners
   - title: 'Everness, 코스튬 페이지(번체 중국어, 예: 청춘의 각주, 2026-11-23 확인)'
     url: https://everness.info/zh-Hant/cosmetics/Fashion_1020_1
 ---
@@ -67,7 +71,7 @@ Game8은 하니엘의 일반 공격을 "Genesse Technique"로, Prydwen은 "Paran
 
 ## 획득 방법
 
-하니엘은 [우미츠키](/ko/characters/aurelia/), [스키아](/ko/characters/skia/)와 함께 한정 보드의 자리를 나누는 A급 캐릭터 세 명 중 하나이다. Game8은 상시 보드에도 A급 캐릭터를 올리고 있다.
+하니엘은 [우미츠키](/ko/characters/aurelia/), [스키아](/ko/characters/skia/)와 함께 한정 보드의 자리를 나누는 A급 캐릭터 세 명 중 하나이다. 상시 보드에도 A급 캐릭터가 있다.
 
 | 한정 보드 | S급 캐릭터 | 기간 |
 | --- | --- | --- |

@@ -32,7 +32,7 @@ sources:
     url: https://nte.perfectworld.com/kr/main.html?nav=2&role=20
   - title: Prydwen, 엘림 캐릭터 페이지(스킬, 속성, 아크 타입)
     url: https://www.prydwen.gg/neverness-to-everness/characters/elyms
-  - title: Game8, 엘림 빌드 페이지(스킬과 속성 교차 확인)
+  - title: Game8, 엘림 빌드 페이지(스킬과 속성)
     url: https://game8.co/games/Neverness-to-Everness/archives/638157
   - title: nanoka.cc 게임 데이터 1.5.4, 영어 캐릭터 파일
     url: https://static.nanoka.cc/nte/1.5.4/en/character/1090.json
@@ -42,6 +42,8 @@ sources:
     url: https://static.nanoka.cc/nte/1.5.4/ja/character/1090.json
   - title: nanoka.cc 게임 데이터 1.5.4, 한국어 캐릭터 파일
     url: https://static.nanoka.cc/nte/1.5.4/ko/character/1090.json
+  - title: 叫我棉被·零号攻略组, 엘림 공략 영상, Bilibili, 중국어 간체(2026-11-05)
+    url: https://www.bilibili.com/video/BV1Czxo6AEBF/
   - title: 'Everness, 코스튬 페이지(번체 중국어, 예: Y2K 미스터리, 2026-11-23 확인)'
     url: https://everness.info/zh-Hant/cosmetics/Fashion_1090_1
   - title: Everness, 「Y2K Mystique」 페이지(영어, 2026-11-23 확인)
@@ -181,3 +183,39 @@ sources:
 | 항목 | Lv. 1 | Lv. 2 | Lv. 3 | Lv. 4 | Lv. 5 | Lv. 6 | Lv. 7 | Lv. 8 | Lv. 9 | Lv. 10 | Lv. 11 | Lv. 12 | Lv. 13 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 「난 여기 있어」 피해 배율 | 200% | 216% | 233.3% | 251.9% | 272.1% | 293.9% | 317.4% | 342.8% | 370.2% | 399.8% | 431.8% | 466.3% | 503.6% |
+
+## 세부 메커니즘
+
+- 「신호 세기」는 엘림의 HP 바 위에 3칸짜리 게이지로 표시된다.[^1]
+- 「강한 신호」에서도 「채널 오류」 3단을 끝내면 「너에게 안녕」이 다시 해제된다. 신호 세기는 더 오르지 않지만, 발동 중에는 「궤도 너머」 등의 제한 시간 타이머가 멈춘다.[^2]
+- 「강한 신호」에서 「채널 오류」 2단이 끝나기 전에 3단을 미리 입력해 두면, 교체한 뒤에도 엘림이 3단을 끝까지 친다.[^3]
+- 「약한 신호」에서 쓰는 「떠나간 사람들」은 사이클 수치를 즉시 가득 채운다. 「비연속적 존재」와 「너에게 안녕」에는 이 효과가 없다.[^4]
+- 「약한 신호」에서 「보통 신호」로 오르면 「착시적 환각」을 1중첩 얻으며, 1중첩마다 다음 「너에게 안녕」의 배율이 100% 오른다.[^5]
+- 울티메이트의 모드는 「비연속적 존재」, 「너에게 안녕」 또는 서포트 스킬을 쓸 때 범위 안의 적 수로 정해진다. 1명이면 단일 모드, 2명 이상이면 광역 모드다.[^6]
+- 울티메이트의 배율은 「보통 신호」에서 50%, 「강한 신호」에서 100% 오르며, 단일 모드와 광역 모드가 같다.[^7]
+- 울티메이트는 엘림 기본 공격력의 20%만큼 파티 전원의 공격력을 20초 동안 올린다. 신호 세기와 모드에 관계없다.[^8]
+- 필드 밖에서 「추억」은 3초마다 1회, 최대 6회 공격하며, 단일 모드와 광역 모드가 같다.[^9]
+- 「추억」의 모드와 배율은 그것을 시작한 울티메이트 시점에 정해진다. 「강한 신호」에서 발동한 뒤에는 신호 세기가 「약한 신호」로 돌아가도 그 회차의 「추억」에는 「강한 신호」 배율이 붙는다.[^10]
+- 「추억」 횟수가 남아 있을 때 울티메이트를 다시 쓰면 횟수가 더해지지 않고 초기화된다.[^11]
+- 「추억」에는 [링코](/ko/characters/linko/)의 추가 공격 피해 보너스도 붙는다.[^12]
+- 「릴레이 노드」의 「차지」 강화는 1중첩마다 파티 전원의 빛속성 이능력 피해를 3.75% 올리며, 30초 지속, 최대 8중첩(30%)이고, 다시 발동하면 지속 시간이 갱신된다.[^13]
+- 파티원 누구든 목표에게 「레모라」를 부여하면 「릴레이 노드」의 「레모라」 강화가 7.5초 뒤 그 목표에게 「레모라」를 다시 부여한다. 7초에 최대 1회 발동하며, 이렇게 추가된 「레모라」는 이 효과를 다시 발동시키지 않는다.[^14]
+- 「유비무환」은 엘림의 치명 피해를 10% 올린다.[^15]
+- 각성을 모두 갖추면 「너에게 안녕」은 소모한 「착시적 환각」 중첩에 따라 1,000% 넘는 배율이 더해진다.[^16]
+
+[^1]: [叫我棉被·零号攻略组, 엘림 공략 영상, Bilibili, 중국어 간체(2026-11-05), 0:51](https://www.bilibili.com/video/BV1Czxo6AEBF/?t=51)
+[^2]: [叫我棉被·零号攻略组, 엘림 공략 영상, Bilibili, 중국어 간체(2026-11-05), 12:52](https://www.bilibili.com/video/BV1Czxo6AEBF/?t=772)
+[^3]: [叫我棉被·零号攻略组, 엘림 공략 영상, Bilibili, 중국어 간체(2026-11-05), 13:57](https://www.bilibili.com/video/BV1Czxo6AEBF/?t=837)
+[^4]: [叫我棉被·零号攻略组, 엘림 공략 영상, Bilibili, 중국어 간체(2026-11-05), 10:13](https://www.bilibili.com/video/BV1Czxo6AEBF/?t=613)
+[^5]: [叫我棉被·零号攻略组, 엘림 공략 영상, Bilibili, 중국어 간체(2026-11-05), 10:27](https://www.bilibili.com/video/BV1Czxo6AEBF/?t=627)
+[^6]: [叫我棉被·零号攻略组, 엘림 공략 영상, Bilibili, 중국어 간체(2026-11-05), 10:54](https://www.bilibili.com/video/BV1Czxo6AEBF/?t=654)
+[^7]: [叫我棉被·零号攻略组, 엘림 공략 영상, Bilibili, 중국어 간체(2026-11-05), 11:14](https://www.bilibili.com/video/BV1Czxo6AEBF/?t=674)
+[^8]: [叫我棉被·零号攻略组, 엘림 공략 영상, Bilibili, 중국어 간체(2026-11-05), 11:25](https://www.bilibili.com/video/BV1Czxo6AEBF/?t=685)
+[^9]: [叫我棉被·零号攻略组, 엘림 공략 영상, Bilibili, 중국어 간체(2026-11-05), 11:38](https://www.bilibili.com/video/BV1Czxo6AEBF/?t=698)
+[^10]: [叫我棉被·零号攻略组, 엘림 공략 영상, Bilibili, 중국어 간체(2026-11-05), 11:48](https://www.bilibili.com/video/BV1Czxo6AEBF/?t=708)
+[^11]: [叫我棉被·零号攻略组, 엘림 공략 영상, Bilibili, 중국어 간체(2026-11-05), 12:05](https://www.bilibili.com/video/BV1Czxo6AEBF/?t=725)
+[^12]: [叫我棉被·零号攻略组, 엘림 공략 영상, Bilibili, 중국어 간체(2026-11-05), 12:14](https://www.bilibili.com/video/BV1Czxo6AEBF/?t=734)
+[^13]: [叫我棉被·零号攻略组, 엘림 공략 영상, Bilibili, 중국어 간체(2026-11-05), 13:04](https://www.bilibili.com/video/BV1Czxo6AEBF/?t=784)
+[^14]: [叫我棉被·零号攻略组, 엘림 공략 영상, Bilibili, 중국어 간체(2026-11-05), 13:16](https://www.bilibili.com/video/BV1Czxo6AEBF/?t=796)
+[^15]: [叫我棉被·零号攻略组, 엘림 공략 영상, Bilibili, 중국어 간체(2026-11-05), 13:28](https://www.bilibili.com/video/BV1Czxo6AEBF/?t=808)
+[^16]: [叫我棉被·零号攻略组, 엘림 공략 영상, Bilibili, 중국어 간체(2026-11-05), 9:57](https://www.bilibili.com/video/BV1Czxo6AEBF/?t=597)

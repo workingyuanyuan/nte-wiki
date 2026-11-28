@@ -33,7 +33,7 @@ sources:
     url: https://nte.perfectworld.com/kr/main.html?nav=2&role=20
   - title: Prydwen, 나나리 캐릭터 페이지(스킬, 속성, 아크 타입)
     url: https://www.prydwen.gg/neverness-to-everness/characters/nanally
-  - title: Game8, 나나리 빌드 페이지(스킬과 속성 교차 확인)
+  - title: Game8, 나나리 빌드 페이지(스킬과 속성)
     url: https://game8.co/games/Neverness-to-Everness/archives/597504
   - title: nanoka.cc 게임 데이터 1.5.4, 영어 캐릭터 파일
     url: https://static.nanoka.cc/nte/1.5.4/en/character/1010.json
@@ -43,6 +43,8 @@ sources:
     url: https://static.nanoka.cc/nte/1.5.4/ja/character/1010.json
   - title: nanoka.cc 게임 데이터 1.5.4, 한국어 캐릭터 파일
     url: https://static.nanoka.cc/nte/1.5.4/ko/character/1010.json
+  - title: 叫我棉被, 나나리 공략 영상, Bilibili, 중국어 간체(2026-04-23)
+    url: https://www.bilibili.com/video/BV1ybo8BPEpx/
   - title: 'Everness, 코스튬 페이지(번체 중국어, 예: 화려한 발차기, 2026-11-23 확인)'
     url: https://everness.info/zh-Hant/cosmetics/Fashion_1010_2
 ---
@@ -182,3 +184,35 @@ sources:
 | 항목 | Lv. 1 | Lv. 2 | Lv. 3 | Lv. 4 | Lv. 5 | Lv. 6 | Lv. 7 | Lv. 8 | Lv. 9 | Lv. 10 | Lv. 11 | Lv. 12 | Lv. 13 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 피해 배율 | 200% | 216% | 233.3% | 251.9% | 272.1% | 293.9% | 317.4% | 342.8% | 370.2% | 399.8% | 431.8% | 466.3% | 503.6% |
+
+## 세부 메커니즘
+
+- 「강펀치!」 3단도 회피로 끊기지 않는다.[^1]
+- 「강펀치!」 1단은 선딜레이가 길다. 3단은 솟구치는 어퍼컷으로 후딜레이가 매우 길며, 피해가 들어간 뒤 회피로 끊을 수 있다.[^2]
+- 「콜린스 가문 비전 기술」 4단을 내지른 뒤 캐릭터를 교체하면, 나나리는 대기 상태에서 그 동작을 끝까지 하고 5단까지 저절로 낸다.[^3]
+- 이렇게 대기 상태에서 공격하는 동안 나나리는 피해를 받지 않는다.[^4]
+- 4단 뒤 교체한 아군이 울티메이트를 발동하면, 나나리는 그 연출 중에도 4·5단을 끝까지 낸다.[^5]
+- 「초대 가주의 권능」의 기본 지속 시간은 12초다.[^6]
+- 「초대 가주의 권능」은 나나리의 치명 피해를 30% 올리고, 스태미나 소모 없이 벽 위를 걸을 수 있게 한다.[^7]
+- 바이레일 스킬 아이콘 바깥의 흰 원이 「초대 가주의 권능」의 남은 시간을 보여 주며, 원이 다 줄면 효과가 끝난다.[^8]
+- 「이인자」의 기본 지속 시간은 6초다.[^9]
+- 울티메이트 중 적을 끌어당기는 것은 일반 공격뿐이다.[^10]
+- 「열정 한 그릇 「추가」요」는 「창조의 꽃」 발사 간격을 1초로 줄인다.[^11]
+- 「절대 「공정」한 결투」의 추가 공격은 2초에 한 번까지 발동하며, 배율은 일반 공격 Lv. 10에서 실측 120%, Lv. 11에서 129.5%다.[^12]
+- 콘솔 보너스로 오르는 치명 확률은 최대 30%다.[^13]
+- 「보스라고 해줄래?」의 추가 공격 배율은 일반 공격 Lv. 10에서 실측 100%다.[^14]
+
+[^1]: [叫我棉被, 나나리 공략 영상, Bilibili, 중국어 간체(2026-04-23), 10:47](https://www.bilibili.com/video/BV1ybo8BPEpx/?t=647)
+[^2]: [叫我棉被, 나나리 공략 영상, Bilibili, 중국어 간체(2026-04-23), 10:50](https://www.bilibili.com/video/BV1ybo8BPEpx/?t=650)
+[^3]: [叫我棉被, 나나리 공략 영상, Bilibili, 중국어 간체(2026-04-23), 12:17](https://www.bilibili.com/video/BV1ybo8BPEpx/?t=737)
+[^4]: [叫我棉被, 나나리 공략 영상, Bilibili, 중국어 간체(2026-04-23), 12:31](https://www.bilibili.com/video/BV1ybo8BPEpx/?t=751)
+[^5]: [叫我棉被, 나나리 공략 영상, Bilibili, 중국어 간체(2026-04-23), 12:36](https://www.bilibili.com/video/BV1ybo8BPEpx/?t=756)
+[^6]: [叫我棉被, 나나리 공략 영상, Bilibili, 중국어 간체(2026-04-23), 8:45](https://www.bilibili.com/video/BV1ybo8BPEpx/?t=525)
+[^7]: [叫我棉被, 나나리 공략 영상, Bilibili, 중국어 간체(2026-04-23), 9:33](https://www.bilibili.com/video/BV1ybo8BPEpx/?t=573)
+[^8]: [叫我棉被, 나나리 공략 영상, Bilibili, 중국어 간체(2026-04-23), 9:52](https://www.bilibili.com/video/BV1ybo8BPEpx/?t=592)
+[^9]: [叫我棉被, 나나리 공략 영상, Bilibili, 중국어 간체(2026-04-23), 10:15](https://www.bilibili.com/video/BV1ybo8BPEpx/?t=615)
+[^10]: [叫我棉被, 나나리 공략 영상, Bilibili, 중국어 간체(2026-04-23), 10:35](https://www.bilibili.com/video/BV1ybo8BPEpx/?t=635)
+[^11]: [叫我棉被, 나나리 공략 영상, Bilibili, 중국어 간체(2026-04-23), 2:34](https://www.bilibili.com/video/BV1ybo8BPEpx/?t=154)
+[^12]: [叫我棉被, 나나리 공략 영상, Bilibili, 중국어 간체(2026-04-23), 6:26](https://www.bilibili.com/video/BV1ybo8BPEpx/?t=386)
+[^13]: [叫我棉被, 나나리 공략 영상, Bilibili, 중국어 간체(2026-04-23), 5:18](https://www.bilibili.com/video/BV1ybo8BPEpx/?t=318)
+[^14]: [叫我棉被, 나나리 공략 영상, Bilibili, 중국어 간체(2026-04-23), 7:47](https://www.bilibili.com/video/BV1ybo8BPEpx/?t=467)

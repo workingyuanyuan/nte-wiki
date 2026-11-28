@@ -34,6 +34,8 @@ sources:
     url: https://nte.perfectworld.com/jp/article/news/gamenews/20261109/264951.html
   - title: 1.5 버전 업데이트 공지, 2026-11-09(이상 순례 「우아한 부패자, 둥지 어미」, 한국어)
     url: https://nte.perfectworld.com/kr/article/news/gamenews/20261109/264952.html
+  - title: 叫我棉被, 나나리 공략 영상, Bilibili, 중국어 간체(2026-04-23)
+    url: https://www.bilibili.com/video/BV1ybo8BPEpx/
   - title: 'Everness, 아이템 페이지(번체 중국어, 예: 라이징 헌터 가이드, 2026-11-23 확인)'
     url: https://everness.info/zh-Hant/items/CharacterUpMaterial_lv1
 ---
@@ -44,8 +46,11 @@ sources:
 | --- | --- |
 | 캐릭터 레벨 | 최대 80. 레벨 30, 40, 50, 60, 70, 80에서 돌파 |
 | 아크 레벨 | 최대 80. 같은 레벨에서 돌파 |
-| 레벨 상한 | Prydwen에 따르면 캐릭터 레벨은 플레이어의 헌터 레벨을 넘을 수 없다 |
-| 각성 | 캐릭터당 6개이며, 중복 획득 1회마다 1개씩 원하는 순서로 선택한다. 각성 3개와 6개에서 공명이 있다 |
+| 레벨 상한 | 캐릭터 레벨은 플레이어의 헌터 레벨을 넘을 수 없다[^1] |
+| 각성 | 캐릭터당 6개이며, 중복 획득 1회마다 1개씩 원하는 순서로 선택한다. 각성 3개와 6개에서 공명이 있다. 활성화한 각성은 언제든 바꾸거나 해제할 수 있다.[^2] |
+
+[^1]: [Prydwen, 캐릭터 육성 가이드](https://www.prydwen.gg/neverness-to-everness/guides/character-progression)
+[^2]: [叫我棉被, 나나리 공략 영상, Bilibili, 중국어 간체(2026-04-23), 6:52](https://www.bilibili.com/video/BV1ybo8BPEpx/?t=412)
 
 ## 캐릭터 경험치
 

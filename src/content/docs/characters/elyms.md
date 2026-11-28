@@ -32,7 +32,7 @@ sources:
     url: https://nte.perfectworld.com/kr/main.html?nav=2&role=20
   - title: Prydwen, Elyms character page (skills, attribute, Arc type)
     url: https://www.prydwen.gg/neverness-to-everness/characters/elyms
-  - title: Game8, Elyms build page (cross-check of skills and attribute)
+  - title: Game8, Elyms build page (skills and attribute)
     url: https://game8.co/games/Neverness-to-Everness/archives/638157
   - title: nanoka.cc game data 1.5.4, character file in English
     url: https://static.nanoka.cc/nte/1.5.4/en/character/1090.json
@@ -42,6 +42,8 @@ sources:
     url: https://static.nanoka.cc/nte/1.5.4/ja/character/1090.json
   - title: nanoka.cc game data 1.5.4, character file in Korean
     url: https://static.nanoka.cc/nte/1.5.4/ko/character/1090.json
+  - title: 叫我棉被 and 零号攻略组, Elyms guide video, Bilibili, in Simplified Chinese (2026-11-05)
+    url: https://www.bilibili.com/video/BV1Czxo6AEBF/
   - title: 'Everness, outfit pages in Traditional Chinese (example: Y2K Mystique, read 2026-11-23)'
     url: https://everness.info/zh-Hant/cosmetics/Fashion_1090_1
   - title: Everness, Y2K Mystique page in English (read 2026-11-23)
@@ -181,3 +183,39 @@ Values for each skill level, from the game data (version 1.5.4). Materials raise
 | Parameter | Lv. 1 | Lv. 2 | Lv. 3 | Lv. 4 | Lv. 5 | Lv. 6 | Lv. 7 | Lv. 8 | Lv. 9 | Lv. 10 | Lv. 11 | Lv. 12 | Lv. 13 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | I'm Here DMG Ratio | 200% | 216% | 233.3% | 251.9% | 272.1% | 293.9% | 317.4% | 342.8% | 370.2% | 399.8% | 431.8% | 466.3% | 503.6% |
+
+## Mechanics in detail
+
+- Connection Strength shows as a three-segment gauge above Elyms's HP bar.[^1]
+- At Strong Connection, finishing three Crosstalk hits still unlocks Goodbye to You again; it no longer raises Connection Strength, but casting it pauses the challenge timer, such as the one in Beyond the Rails.[^2]
+- At Strong Connection, if the third Crosstalk hit is input before the second ends, Elyms finishes it after being switched out.[^3]
+- The Ones Who Left, cast at Weak Connection, fills Elyms's Cycle Energy at once; Intermittent Existence and Goodbye to You do not.[^4]
+- Rising from Weak to Medium Connection gives 1 stack of Optical Illusion, and each stack raises the multiplier of the next Goodbye to You by 100%.[^5]
+- The Ultimate's form is set when Intermittent Existence, Goodbye to You or the Support Skill is cast: one enemy in range gives the single-target form, two or more the AoE form.[^6]
+- The Ultimate's multiplier rises by 50% at Medium Connection and by 100% at Strong Connection, in both forms.[^7]
+- The Ultimate raises the whole team's ATK by 20% of Elyms's base ATK for 20 seconds, at any Connection Strength and in either form.[^8]
+- Off the field, Remembrance attacks once every 3 seconds, up to 6 times, in both forms.[^9]
+- Remembrance keeps the form and the Connection Strength multiplier of the Ultimate that started it: after a Strong Connection Ultimate it keeps the Strong Connection bonus even though Connection Strength has gone back to Weak.[^10]
+- Casting the Ultimate again before the Remembrance attacks run out resets their count instead of adding to it.[^11]
+- Remembrance also gains [Linko](/characters/linko/)'s Follow-up Attack DMG bonus.[^12]
+- Relay Node's Charge Enhancement adds 3.75% Cosmos DMG to the whole team for each stack, for 30 seconds, up to 8 stacks (30%); a new stack refreshes the duration.[^13]
+- When any team member applies Remora to a target, Relay Node's Remora Enhancement applies Remora to it again 7.5 seconds later, at most once every 7 seconds; the Remora it adds does not trigger the effect again.[^14]
+- Pity System raises Elyms's Crit DMG by 10%.[^15]
+- With every Awakening, Goodbye to You gains more than 1,000% extra multiplier from the Optical Illusion stacks it consumes.[^16]
+
+[^1]: [叫我棉被 and 零号攻略组, Elyms guide video, Bilibili, in Simplified Chinese (2026-11-05), 0:51](https://www.bilibili.com/video/BV1Czxo6AEBF/?t=51)
+[^2]: [叫我棉被 and 零号攻略组, Elyms guide video, Bilibili, in Simplified Chinese (2026-11-05), 12:52](https://www.bilibili.com/video/BV1Czxo6AEBF/?t=772)
+[^3]: [叫我棉被 and 零号攻略组, Elyms guide video, Bilibili, in Simplified Chinese (2026-11-05), 13:57](https://www.bilibili.com/video/BV1Czxo6AEBF/?t=837)
+[^4]: [叫我棉被 and 零号攻略组, Elyms guide video, Bilibili, in Simplified Chinese (2026-11-05), 10:13](https://www.bilibili.com/video/BV1Czxo6AEBF/?t=613)
+[^5]: [叫我棉被 and 零号攻略组, Elyms guide video, Bilibili, in Simplified Chinese (2026-11-05), 10:27](https://www.bilibili.com/video/BV1Czxo6AEBF/?t=627)
+[^6]: [叫我棉被 and 零号攻略组, Elyms guide video, Bilibili, in Simplified Chinese (2026-11-05), 10:54](https://www.bilibili.com/video/BV1Czxo6AEBF/?t=654)
+[^7]: [叫我棉被 and 零号攻略组, Elyms guide video, Bilibili, in Simplified Chinese (2026-11-05), 11:14](https://www.bilibili.com/video/BV1Czxo6AEBF/?t=674)
+[^8]: [叫我棉被 and 零号攻略组, Elyms guide video, Bilibili, in Simplified Chinese (2026-11-05), 11:25](https://www.bilibili.com/video/BV1Czxo6AEBF/?t=685)
+[^9]: [叫我棉被 and 零号攻略组, Elyms guide video, Bilibili, in Simplified Chinese (2026-11-05), 11:38](https://www.bilibili.com/video/BV1Czxo6AEBF/?t=698)
+[^10]: [叫我棉被 and 零号攻略组, Elyms guide video, Bilibili, in Simplified Chinese (2026-11-05), 11:48](https://www.bilibili.com/video/BV1Czxo6AEBF/?t=708)
+[^11]: [叫我棉被 and 零号攻略组, Elyms guide video, Bilibili, in Simplified Chinese (2026-11-05), 12:05](https://www.bilibili.com/video/BV1Czxo6AEBF/?t=725)
+[^12]: [叫我棉被 and 零号攻略组, Elyms guide video, Bilibili, in Simplified Chinese (2026-11-05), 12:14](https://www.bilibili.com/video/BV1Czxo6AEBF/?t=734)
+[^13]: [叫我棉被 and 零号攻略组, Elyms guide video, Bilibili, in Simplified Chinese (2026-11-05), 13:04](https://www.bilibili.com/video/BV1Czxo6AEBF/?t=784)
+[^14]: [叫我棉被 and 零号攻略组, Elyms guide video, Bilibili, in Simplified Chinese (2026-11-05), 13:16](https://www.bilibili.com/video/BV1Czxo6AEBF/?t=796)
+[^15]: [叫我棉被 and 零号攻略组, Elyms guide video, Bilibili, in Simplified Chinese (2026-11-05), 13:28](https://www.bilibili.com/video/BV1Czxo6AEBF/?t=808)
+[^16]: [叫我棉被 and 零号攻略组, Elyms guide video, Bilibili, in Simplified Chinese (2026-11-05), 9:57](https://www.bilibili.com/video/BV1Czxo6AEBF/?t=597)

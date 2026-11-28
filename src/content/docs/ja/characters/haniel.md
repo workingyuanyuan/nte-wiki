@@ -37,7 +37,7 @@ sources:
     url: https://nte.perfectworld.com/kr/article/news/gamenews/20260929/264413.html
   - title: Prydwen、ハニアのキャラクターページ（スキル、属性、弧盤タイプ）
     url: https://www.prydwen.gg/neverness-to-everness/characters/haniel
-  - title: Game8、ハニアの育成ページ（スキルと属性の照合）
+  - title: Game8、ハニアの育成ページ（スキルと属性）
     url: https://game8.co/games/Neverness-to-Everness/archives/597761
   - title: nanoka.cc ゲームデータ1.5.4、キャラクターファイル（英語）
     url: https://static.nanoka.cc/nte/1.5.4/en/character/1020.json
@@ -47,6 +47,10 @@ sources:
     url: https://static.nanoka.cc/nte/1.5.4/ja/character/1020.json
   - title: nanoka.cc ゲームデータ1.5.4、キャラクターファイル（韓国語）
     url: https://static.nanoka.cc/nte/1.5.4/ko/character/1020.json
+  - title: Game8、キャラクター一覧（常設ボードと限定ボード）
+    url: https://game8.co/games/Neverness-to-Everness/archives/592067
+  - title: Prydwen、ガチャページ（常設ボード）
+    url: https://www.prydwen.gg/neverness-to-everness/banners
   - title: Everness、コスチュームのページ（繁体字中国語、例：スクールデイズ、2026-11-23取得）
     url: https://everness.info/zh-Hant/cosmetics/Fashion_1020_1
 ---
@@ -67,7 +71,7 @@ Game8は彼女の通常攻撃を「ガイロセクト術法」、Prydwenは「�
 
 ## 入手方法
 
-ハニアは、[海月](/ja/characters/aurelia/)、[翳](/ja/characters/skia/)とともに限定ボードに登場する3名のAランクキャラの1人である。Game8は常設ボードにもAランクキャラを掲載している。
+ハニアは、[海月](/ja/characters/aurelia/)、[翳](/ja/characters/skia/)とともに限定ボードに登場する3名のAランクキャラの1人である。常設ボードにもAランクキャラがいる。
 
 | 限定ボード | Sランクキャラ | 開催期間 |
 | --- | --- | --- |

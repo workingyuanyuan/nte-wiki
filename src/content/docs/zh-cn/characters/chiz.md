@@ -21,7 +21,7 @@ sources:
     url: https://nte.perfectworld.com/kr/main.html?nav=2&role=20
   - title: Prydwen 的小吱角色页面（技能、属性、弧盘类型）
     url: https://www.prydwen.gg/neverness-to-everness/characters/chiz
-  - title: Game8 的小吱配装页面（交叉查证技能与属性）
+  - title: Game8 的小吱配装页面（技能与属性）
     url: https://game8.co/games/Neverness-to-Everness/archives/597641
   - title: nanoka.cc 游戏资料 1.5.4，角色档案（英文）
     url: https://static.nanoka.cc/nte/1.5.4/en/character/1073.json
@@ -31,6 +31,8 @@ sources:
     url: https://static.nanoka.cc/nte/1.5.4/ja/character/1073.json
   - title: nanoka.cc 游戏资料 1.5.4，角色档案（韩文）
     url: https://static.nanoka.cc/nte/1.5.4/ko/character/1073.json
+  - title: 叫我棉被，小吱攻略影片，Bilibili（简体中文，2026-04-28）
+    url: https://www.bilibili.com/video/BV1yXokBKEj4/
 ---
 
 ![小吱的官方角色图：绑着粉色丸子头的少女，身穿粉白相间的制服裙装](/art/characters/chiz.webp)
@@ -52,7 +54,10 @@ Game8 将她的技能拼为「Pink Paws Priority Principe」，Prydwen 则拼为
 
 ## 取得方式
 
-Game8 指出可通过提升都市大亨等级取得她；Prydwen 则将她与她的额外同名角色列为无须付费即可取得。
+可通过提升都市大亨等级取得她；[^1]她与她的额外同名角色皆无须付费即可取得。[^2]
+
+[^1]: [Game8 的小吱配装页面（技能与属性）](https://game8.co/games/Neverness-to-Everness/archives/597641)
+[^2]: [Prydwen 的小吱角色页面（技能、属性、弧盘类型）](https://www.prydwen.gg/neverness-to-everness/characters/chiz)
 
 ## 技能
 
@@ -138,3 +143,39 @@ Game8 指出可通过提升都市大亨等级取得她；Prydwen 则将她与她
 | 项目 | Lv. 1 | Lv. 2 | Lv. 3 | Lv. 4 | Lv. 5 | Lv. 6 | Lv. 7 | Lv. 8 | Lv. 9 | Lv. 10 | Lv. 11 | Lv. 12 | Lv. 13 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 伤害倍率 | 200% | 216% | 233.3% | 251.9% | 272.1% | 293.9% | 317.4% | 342.8% | 370.2% | 399.8% | 431.8% | 466.3% | 503.6% |
+
+## 机制细节
+
+- 都市大亨可免费解锁小吱本体、6 个「心象碎片·小吱」与 5 把 S 级弧盘「思考喵」。[^3]
+- 都市大亨等级达 18 级时取得小吱本体。[^4]
+- 「荒谷」每 2.5 秒最多触发一次。[^5]
+- 以「荒谷」取得的方斯有每日上限与总额上限，两者皆随大亨等级提升而提高：每日上限最高 50,000，总上限最高 500,000。[^6]
+- 血条上方的红条是持有的「金谷」，绿条是可借的「金谷贷款」额度；施放极轨终结后，绿条转为红条。[^7]
+- 「金谷」上限随角色等级提高：80 级时红条上限为 15,000，绿条上限相同，因此极轨终结期间最多可持有 30,000「金谷」。[^8]
+- 「金谷」造成的固定伤害 =「金谷」数量 × 100% × 防御区 × 抗性区 × 增伤区 × 暴击伤害区（可暴击时），不受攻击力加成影响。[^9]
+- 变轨技能的冷却时间为 3 秒。[^10]
+- 站场时，变轨技能的连段只会被受击与普通攻击打断。[^11]
+- 施放第一次变轨技能后切换角色，回场时技能连段会从头开始。[^12]
+- 「金谷市场」中首次变轨技能的必定暴击，也涵盖其依「金谷」计算的额外伤害。[^13]
+- 「金谷市场」持续 7 秒，理想情况下期间可施放 5 次变轨技能。[^14]
+- 「金谷市场」期间，红色竖线经过「金谷K线」高点时点按变轨技能，会依持有的「金谷」按比例增加「金谷」；经过低点时则按比例减少。[^15]
+- 极轨终结结束后须偿还借用的「金谷贷款」；还清之前点按变轨技能不会造成依「金谷」计算的额外伤害，需靠普通攻击累积「金谷」偿还。[^16]
+- 「金谷市场」期间切换角色下场，极轨终结状态会直接结束。[^17]
+- 「飞鸟症候群」使「盈蓄」给予前台角色的终结能量由 10 点变为 14 点。[^18]
+
+[^3]: [叫我棉被，小吱攻略影片，Bilibili（简体中文，2026-04-28），0:04](https://www.bilibili.com/video/BV1yXokBKEj4/?t=4)
+[^4]: [叫我棉被，小吱攻略影片，Bilibili（简体中文，2026-04-28），0:14](https://www.bilibili.com/video/BV1yXokBKEj4/?t=14)
+[^5]: [叫我棉被，小吱攻略影片，Bilibili（简体中文，2026-04-28），4:51](https://www.bilibili.com/video/BV1yXokBKEj4/?t=291)
+[^6]: [叫我棉被，小吱攻略影片，Bilibili（简体中文，2026-04-28），4:55](https://www.bilibili.com/video/BV1yXokBKEj4/?t=295)
+[^7]: [叫我棉被，小吱攻略影片，Bilibili（简体中文，2026-04-28），1:23](https://www.bilibili.com/video/BV1yXokBKEj4/?t=83)
+[^8]: [叫我棉被，小吱攻略影片，Bilibili（简体中文，2026-04-28），2:52](https://www.bilibili.com/video/BV1yXokBKEj4/?t=172)
+[^9]: [叫我棉被，小吱攻略影片，Bilibili（简体中文，2026-04-28），2:40](https://www.bilibili.com/video/BV1yXokBKEj4/?t=160)
+[^10]: [叫我棉被，小吱攻略影片，Bilibili（简体中文，2026-04-28），3:40](https://www.bilibili.com/video/BV1yXokBKEj4/?t=220)
+[^11]: [叫我棉被，小吱攻略影片，Bilibili（简体中文，2026-04-28），11:33](https://www.bilibili.com/video/BV1yXokBKEj4/?t=693)
+[^12]: [叫我棉被，小吱攻略影片，Bilibili（简体中文，2026-04-28），11:36](https://www.bilibili.com/video/BV1yXokBKEj4/?t=696)
+[^13]: [叫我棉被，小吱攻略影片，Bilibili（简体中文，2026-04-28），4:17](https://www.bilibili.com/video/BV1yXokBKEj4/?t=257)
+[^14]: [叫我棉被，小吱攻略影片，Bilibili（简体中文，2026-04-28），4:23](https://www.bilibili.com/video/BV1yXokBKEj4/?t=263)
+[^15]: [叫我棉被，小吱攻略影片，Bilibili（简体中文，2026-04-28），1:42](https://www.bilibili.com/video/BV1yXokBKEj4/?t=102)
+[^16]: [叫我棉被，小吱攻略影片，Bilibili（简体中文，2026-04-28），1:59](https://www.bilibili.com/video/BV1yXokBKEj4/?t=119)
+[^17]: [叫我棉被，小吱攻略影片，Bilibili（简体中文，2026-04-28），11:28](https://www.bilibili.com/video/BV1yXokBKEj4/?t=688)
+[^18]: [叫我棉被，小吱攻略影片，Bilibili（简体中文，2026-04-28），10:31](https://www.bilibili.com/video/BV1yXokBKEj4/?t=631)

@@ -32,7 +32,7 @@ sources:
     url: https://nte.perfectworld.com/kr/main.html?nav=2&role=20
   - title: Prydwen, Jiuyuan character page (skills, attribute, Arc type)
     url: https://www.prydwen.gg/neverness-to-everness/characters/jiuyuan
-  - title: Game8, Jiuyuan build page (cross-check of skills and attribute)
+  - title: Game8, Jiuyuan build page (skills and attribute)
     url: https://game8.co/games/Neverness-to-Everness/archives/597675
   - title: nanoka.cc game data 1.5.4, character file in English
     url: https://static.nanoka.cc/nte/1.5.4/en/character/1055.json

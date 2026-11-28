@@ -23,7 +23,7 @@ sources:
     url: https://nte.perfectworld.com/kr/article/news/gamenews/20261019/264679.html
   - title: Prydwen, 스키아 캐릭터 페이지(스킬, 속성, 아크 타입)
     url: https://www.prydwen.gg/neverness-to-everness/characters/skia
-  - title: Game8, 스키아 빌드 페이지(스킬과 속성 교차 확인)
+  - title: Game8, 스키아 빌드 페이지(스킬과 속성)
     url: https://game8.co/games/Neverness-to-Everness/archives/597810
   - title: nanoka.cc 게임 데이터 1.5.4, 영어 캐릭터 파일
     url: https://static.nanoka.cc/nte/1.5.4/en/character/1008.json
@@ -33,6 +33,10 @@ sources:
     url: https://static.nanoka.cc/nte/1.5.4/ja/character/1008.json
   - title: nanoka.cc 게임 데이터 1.5.4, 한국어 캐릭터 파일
     url: https://static.nanoka.cc/nte/1.5.4/ko/character/1008.json
+  - title: Game8, 캐릭터 목록(상시 보드와 한정 보드)
+    url: https://game8.co/games/Neverness-to-Everness/archives/592067
+  - title: Prydwen, 배너 페이지(상시 배너)
+    url: https://www.prydwen.gg/neverness-to-everness/banners
 ---
 
 ## 프로필
@@ -49,7 +53,7 @@ sources:
 
 ## 획득 방법
 
-스키아는 한정 보드에 함께 등장하는 A급 캐릭터 3명 중 한 명이며, 나머지 둘은 [하니엘](/ko/characters/haniel/)과 [우미츠키](/ko/characters/aurelia/)이다. Game8은 상시 운영되는 상시 보드에도 A급 캐릭터를 올려 두고 있다.
+스키아는 한정 보드에 함께 등장하는 A급 캐릭터 3명 중 한 명이며, 나머지 둘은 [하니엘](/ko/characters/haniel/)과 [우미츠키](/ko/characters/aurelia/)이다. 상시 운영되는 상시 보드에도 A급 캐릭터가 있다.
 
 | 한정 보드 | S급 캐릭터 | 기간 |
 | --- | --- | --- |

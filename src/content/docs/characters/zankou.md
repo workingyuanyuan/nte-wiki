@@ -27,7 +27,7 @@ sources:
     url: https://nte.perfectworld.com/kr/main.html?nav=2&role=20
   - title: Prydwen, Zankou character page (skills, attribute, Arc type)
     url: https://www.prydwen.gg/neverness-to-everness/characters/zankou
-  - title: Game8, Zankou build page (cross-check of skills and attribute)
+  - title: Game8, Zankou build page (skills and attribute)
     url: https://game8.co/games/Neverness-to-Everness/archives/616188
   - title: nanoka.cc game data 1.5.4, character file in English
     url: https://static.nanoka.cc/nte/1.5.4/en/character/1036.json
@@ -37,6 +37,8 @@ sources:
     url: https://static.nanoka.cc/nte/1.5.4/ja/character/1036.json
   - title: nanoka.cc game data 1.5.4, character file in Korean
     url: https://static.nanoka.cc/nte/1.5.4/ko/character/1036.json
+  - title: 叫我棉被 and 零号攻略组, Zankou guide video, Bilibili, in Simplified Chinese (2026-08-13)
+    url: https://www.bilibili.com/video/BV1ksg76LETE/
   - title: 'Everness, outfit pages in Traditional Chinese (example: Searing Lavender, read 2026-11-23)'
     url: https://everness.info/zh-Hant/cosmetics/Fashion_1036_swimsuit
 ---
@@ -171,3 +173,46 @@ Costs Ultimate Energy: 120 at every level.
 | Parameter | Lv. 1 | Lv. 2 | Lv. 3 | Lv. 4 | Lv. 5 | Lv. 6 | Lv. 7 | Lv. 8 | Lv. 9 | Lv. 10 | Lv. 11 | Lv. 12 | Lv. 13 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Stoked Flame DMG Ratio | 200% | 216% | 233.3% | 251.9% | 272.1% | 293.9% | 317.4% | 342.8% | 370.2% | 399.8% | 431.8% | 466.3% | 503.6% |
+
+## Mechanics in detail
+
+- Zankou enters the field in Reality Form, whose Hunt raises her damage by 25%.[^1]
+- Enhanced Sanguine Dash becomes available after Wildfire's fourth or fifth hit, or after Flickering Shadow, which comes from holding Basic Attack straight away or after Wildfire's first or second hit.[^2]
+- Flickering Shadow chains straight into Wildfire's fifth hit.[^3] Wildfire's first hit, Flickering Shadow and that fifth hit take about 0.7 seconds in all.[^4]
+- Each Nightmare Waltz hit applies 1 DoT stack and spreads 1 stack of the target's DoTs to every enemy nearby, the target included, so the target gains 2 stacks per hit.[^5]
+- Spreading does not change how a DoT stacks: each stack of [Lacrimosa](/characters/lacrimosa/)'s Nightmare keeps its own timer, and stacks added by spreading leave the existing stacks and their timers as they were.[^6]
+- Enhanced Sanguine Dash applies 5 DoT stacks to the enemy.[^7]
+- Sanguine Dash, enhanced or not, switches Zankou to Illusion Form, and the 25% from Hunt carries over into it.[^8]
+- After Sanguine Dash the Skill is on a 5-second cooldown; when it comes back in Illusion Form, it is enhanced Soulcross.[^9]
+- Illusion Form lasts 8 seconds, and its Delusion raises the Crit DMG of DoT damage by 25%. Switching characters ends Illusion Form at once.[^10]
+- Enhanced Soulcross only unlocks Bloodfeast Reverie: casting it still takes a full Ultimate Energy gauge.[^11]
+- The enhanced Inferno Flamenco can follow within 5 seconds of Bloodfeast Reverie.[^12]
+- The Ultimate cooldown starts when Bloodfeast Reverie is cast; the follow-up does not delay it.[^13]
+- With Bloodfeast Reverie cast in the usual way and the DoTs kept up, one Illusion Form cycle keeps Zankou on the field for about 8.5 seconds a rotation, a nearly fixed time.[^14]
+- Because Zankou applies the new Scorch stacks and every stack takes the newest one's values, the team's Scorch damage mostly uses Zankou's Cycle Intensity.[^15]
+- Once Scorch has been set off once, Zankou's own DoTs keep it at 3 stacks for good.[^16]
+- The 100 Cycle Intensity from Crimson Reverie raises Scorch damage by about 16.7%, and when Zankou triggers Hexed it adds 8.57% as a separate multiplier.[^17]
+- The 150% of Abyssal Kiss is a separate multiplier, so the Inferno Flamenco it boosts deals 2.5 times its damage.[^18]
+- The 300% Break DMG of Bloom in Blood adds to Break Intensity rather than multiplying with it.[^19]
+- Blood Stained Eyes counts up to 20 DoT stacks, and Zankou alone can put 20 on a target.[^20]
+
+[^1]: [叫我棉被 and 零号攻略组, Zankou guide video, Bilibili, in Simplified Chinese (2026-08-13), 2:21](https://www.bilibili.com/video/BV1ksg76LETE/?t=141)
+[^2]: [叫我棉被 and 零号攻略组, Zankou guide video, Bilibili, in Simplified Chinese (2026-08-13), 2:30](https://www.bilibili.com/video/BV1ksg76LETE/?t=150)
+[^3]: [叫我棉被 and 零号攻略组, Zankou guide video, Bilibili, in Simplified Chinese (2026-08-13), 17:15](https://www.bilibili.com/video/BV1ksg76LETE/?t=1035)
+[^4]: [叫我棉被 and 零号攻略组, Zankou guide video, Bilibili, in Simplified Chinese (2026-08-13), 17:32](https://www.bilibili.com/video/BV1ksg76LETE/?t=1052)
+[^5]: [叫我棉被 and 零号攻略组, Zankou guide video, Bilibili, in Simplified Chinese (2026-08-13), 3:12](https://www.bilibili.com/video/BV1ksg76LETE/?t=192)
+[^6]: [叫我棉被 and 零号攻略组, Zankou guide video, Bilibili, in Simplified Chinese (2026-08-13), 3:38](https://www.bilibili.com/video/BV1ksg76LETE/?t=218)
+[^7]: [叫我棉被 and 零号攻略组, Zankou guide video, Bilibili, in Simplified Chinese (2026-08-13), 2:50](https://www.bilibili.com/video/BV1ksg76LETE/?t=170)
+[^8]: [叫我棉被 and 零号攻略组, Zankou guide video, Bilibili, in Simplified Chinese (2026-08-13), 2:55](https://www.bilibili.com/video/BV1ksg76LETE/?t=175)
+[^9]: [叫我棉被 and 零号攻略组, Zankou guide video, Bilibili, in Simplified Chinese (2026-08-13), 1:10](https://www.bilibili.com/video/BV1ksg76LETE/?t=70)
+[^10]: [叫我棉被 and 零号攻略组, Zankou guide video, Bilibili, in Simplified Chinese (2026-08-13), 3:03](https://www.bilibili.com/video/BV1ksg76LETE/?t=183)
+[^11]: [叫我棉被 and 零号攻略组, Zankou guide video, Bilibili, in Simplified Chinese (2026-08-13), 1:20](https://www.bilibili.com/video/BV1ksg76LETE/?t=80)
+[^12]: [叫我棉被 and 零号攻略组, Zankou guide video, Bilibili, in Simplified Chinese (2026-08-13), 4:05](https://www.bilibili.com/video/BV1ksg76LETE/?t=245)
+[^13]: [叫我棉被 and 零号攻略组, Zankou guide video, Bilibili, in Simplified Chinese (2026-08-13), 4:09](https://www.bilibili.com/video/BV1ksg76LETE/?t=249)
+[^14]: [叫我棉被 and 零号攻略组, Zankou guide video, Bilibili, in Simplified Chinese (2026-08-13), 17:49](https://www.bilibili.com/video/BV1ksg76LETE/?t=1069)
+[^15]: [叫我棉被 and 零号攻略组, Zankou guide video, Bilibili, in Simplified Chinese (2026-08-13), 4:47](https://www.bilibili.com/video/BV1ksg76LETE/?t=287)
+[^16]: [叫我棉被 and 零号攻略组, Zankou guide video, Bilibili, in Simplified Chinese (2026-08-13), 5:02](https://www.bilibili.com/video/BV1ksg76LETE/?t=302)
+[^17]: [叫我棉被 and 零号攻略组, Zankou guide video, Bilibili, in Simplified Chinese (2026-08-13), 5:14](https://www.bilibili.com/video/BV1ksg76LETE/?t=314)
+[^18]: [叫我棉被 and 零号攻略组, Zankou guide video, Bilibili, in Simplified Chinese (2026-08-13), 14:14](https://www.bilibili.com/video/BV1ksg76LETE/?t=854)
+[^19]: [叫我棉被 and 零号攻略组, Zankou guide video, Bilibili, in Simplified Chinese (2026-08-13), 15:17](https://www.bilibili.com/video/BV1ksg76LETE/?t=917)
+[^20]: [叫我棉被 and 零号攻略组, Zankou guide video, Bilibili, in Simplified Chinese (2026-08-13), 15:44](https://www.bilibili.com/video/BV1ksg76LETE/?t=944)

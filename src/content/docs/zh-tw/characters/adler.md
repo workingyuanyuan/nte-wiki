@@ -24,7 +24,7 @@ sources:
     url: https://nte.perfectworld.com/kr/article/news/gamenews/20261109/264952.html
   - title: Prydwen 的阿德勒角色頁面（技能、屬性、弧盤類型）
     url: https://www.prydwen.gg/neverness-to-everness/characters/adler
-  - title: Game8 的阿德勒配裝頁面（交叉查證技能與屬性）
+  - title: Game8 的阿德勒配裝頁面（技能與屬性）
     url: https://game8.co/games/Neverness-to-Everness/archives/597767
   - title: nanoka.cc 遊戲資料 1.5.4，角色檔案（英文）
     url: https://static.nanoka.cc/nte/1.5.4/en/character/1033.json
@@ -34,6 +34,10 @@ sources:
     url: https://static.nanoka.cc/nte/1.5.4/ja/character/1033.json
   - title: nanoka.cc 遊戲資料 1.5.4，角色檔案（韓文）
     url: https://static.nanoka.cc/nte/1.5.4/ko/character/1033.json
+  - title: Game8，角色列表（常駐棋盤與限定棋盤）
+    url: https://game8.co/games/Neverness-to-Everness/archives/592067
+  - title: Prydwen，卡池頁面（常駐卡池）
+    url: https://www.prydwen.gg/neverness-to-everness/banners
 ---
 
 ## 角色資料
@@ -50,7 +54,7 @@ sources:
 
 ## 取得方式
 
-阿德勒是與 [薄荷](/zh-tw/characters/mint/)、[埃德嘉](/zh-tw/characters/edgar/) 共同輪駐限定棋盤的三名 A 級角色之一。Game8 亦將 A 級角色列於常駐棋盤中。
+阿德勒是與 [薄荷](/zh-tw/characters/mint/)、[埃德嘉](/zh-tw/characters/edgar/) 共同輪駐限定棋盤的三名 A 級角色之一。常駐棋盤中也有 A 級角色。
 
 | 限定棋盤 | S 級角色 | 開放期間 |
 | --- | --- | --- |

@@ -45,7 +45,7 @@ sources:
     url: https://nte.perfectworld.com/kr/main.html?nav=2&role=20
   - title: Prydwen, Mint character page (skills, attribute, Arc type)
     url: https://www.prydwen.gg/neverness-to-everness/characters/mint
-  - title: Game8, Mint build page (cross-check of skills and attribute)
+  - title: Game8, Mint build page (skills and attribute)
     url: https://game8.co/games/Neverness-to-Everness/archives/597760
   - title: nanoka.cc game data 1.5.4, character file in English
     url: https://static.nanoka.cc/nte/1.5.4/en/character/1019.json
@@ -55,6 +55,10 @@ sources:
     url: https://static.nanoka.cc/nte/1.5.4/ja/character/1019.json
   - title: nanoka.cc game data 1.5.4, character file in Korean
     url: https://static.nanoka.cc/nte/1.5.4/ko/character/1019.json
+  - title: Game8, list of characters (Standard and Limited boards)
+    url: https://game8.co/games/Neverness-to-Everness/archives/592067
+  - title: Prydwen, banners page (standard banner)
+    url: https://www.prydwen.gg/neverness-to-everness/banners
   - title: 'Everness, outfit pages in Traditional Chinese (example: Saltwater Taffy, read 2026-11-23)'
     url: https://everness.info/zh-Hant/cosmetics/Fashion_1019_swimsuit
 ---
@@ -76,7 +80,7 @@ sources:
 
 ## How to obtain
 
-Mint is one of three A-Class characters that share a place on Limited Boards, beside [Edgar](/characters/edgar/) and [Adler](/characters/adler/). Game8 also lists A-Class characters on the permanent Standard Board.
+Mint is one of three A-Class characters that share a place on Limited Boards, beside [Edgar](/characters/edgar/) and [Adler](/characters/adler/). A-Class characters are also on the permanent Standard Board.
 
 | Limited Board | S-Class character | Runs |
 | --- | --- | --- |

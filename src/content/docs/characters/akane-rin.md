@@ -36,7 +36,7 @@ sources:
     url: https://nte.perfectworld.com/kr/main.html?nav=2&role=20
   - title: Prydwen, Akane Rin character page (skills, attribute, Arc type)
     url: https://www.prydwen.gg/neverness-to-everness/characters/akane-rin
-  - title: Game8, Akane Rin build page (cross-check of skills and attribute)
+  - title: Game8, Akane Rin build page (skills and attribute)
     url: https://game8.co/games/Neverness-to-Everness/archives/632471
   - title: nanoka.cc game data 1.5.4, character file in English
     url: https://static.nanoka.cc/nte/1.5.4/en/character/1057.json
@@ -46,6 +46,8 @@ sources:
     url: https://static.nanoka.cc/nte/1.5.4/ja/character/1057.json
   - title: nanoka.cc game data 1.5.4, character file in Korean
     url: https://static.nanoka.cc/nte/1.5.4/ko/character/1057.json
+  - title: 叫我棉被 and 零号攻略组, Akane Rin guide video, Bilibili, in Simplified Chinese (2026-10-15)
+    url: https://www.bilibili.com/video/BV1BeJC6qEAr/
   - title: 'Everness, outfit pages in Traditional Chinese (example: Cozy Velvet, read 2026-11-23)'
     url: https://everness.info/zh-Hant/cosmetics/Fashion_1057_1
 ---
@@ -169,3 +171,48 @@ Ultimate Energy Cost: 100 at every level.
 | Parameter | Lv. 1 | Lv. 2 | Lv. 3 | Lv. 4 | Lv. 5 | Lv. 6 | Lv. 7 | Lv. 8 | Lv. 9 | Lv. 10 | Lv. 11 | Lv. 12 | Lv. 13 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | DMG Ratio & String Energy Gained | 200%, 4 | 216%, 4 | 233.3%, 4 | 251.9%, 4 | 272.1%, 4 | 293.9%, 4 | 317.4%, 4 | 342.8%, 4 | 370.2%, 4 | 399.8%, 4 | 431.8%, 4 | 466.3%, 4 | 503.6%, 4 |
+
+## Mechanics in detail
+
+- String Energy shows as a gauge above Akane Rin's HP bar.[^1]
+- Stringblade has no hold variant: holding Basic Attack simply keeps the combo going.[^2]
+- Dodging after any Stringblade hit makes Akane Rin slide, which goes farther than a normal dodge, has longer invincibility and does not break the combo.[^3]
+- The third Stringblade hit takes the longest; a slide during it cuts it short and leads straight into the fourth hit, which can be swap-cancelled.[^4]
+- A pressed Rhythm Wave puts Overtone on the enemy locked on with the lock-on key (middle mouse button on PC, a tap on mobile), or on the nearest enemy when none is locked.[^5]
+- Overtone links Akane Rin and the enemy with a golden thread, and her Basic Attacks reach that enemy at any distance; in the open world they reach it from 100 meters away.[^6]
+- Synced Resonance in Overtone form damages only the enemy with Overtone; other enemies, however close, take none.[^7]
+- Inside a Reverb Field, every Basic Attack damages the enemies in the field whether Akane Rin stands inside or outside it.[^8]
+- Synced Resonance in Reverb Field form damages every enemy in the field.[^9]
+- Synced Resonance can be cast only while Overtone or a Reverb Field exists: once it has expired, full String Energy is not enough.[^10]
+- Overtone and Reverb Field last 25 seconds, and casting Synced Resonance any number of times does not end them.[^11]
+- Basic Attacks relayed through Overtone gain a 40% multiplier increase against the target; those relayed through a Reverb Field gain a 60% damage increase against enemies in it. The two count in different multipliers.[^12]
+- Starlit Anthem raises Akane Rin's ATK by 20% for 20 seconds after the Ultimate's first stage.[^13][^14]
+- The second stage becomes available 4 seconds after the first. It ends the interruption resistance of Solo Cadenza but not the ATK bonus.[^15]
+- The time left for the second stage is shown on the guitar on the left of the screen; it can be cast until the strings run out.[^16]
+- After the first stage, attacks build Ultimate Energy again; the second stage does not hold it back.[^17]
+- Once the team has triggered Remora, Overtone or the Reverb Field applies Remora every 3 seconds.[^18]
+- Perfect Pitch's extra damage rises by 20% for each second of Remora the target has left, up to 8 seconds (160%).[^19]
+- Remora lasts 5 seconds, so a reapplication every 3 seconds finds 2 seconds left, worth 40%; with [Hathor](/characters/hathor/) on the team Remora lasts 12 seconds, 9 seconds are left, and the full 160% applies.[^20]
+- The pull of Shade Capsules on a held Rhythm Wave covers about a quarter of a Beyond the Rails arena.[^21]
+
+[^1]: [叫我棉被 and 零号攻略组, Akane Rin guide video, Bilibili, in Simplified Chinese (2026-10-15), 1:08](https://www.bilibili.com/video/BV1BeJC6qEAr/?t=68)
+[^2]: [叫我棉被 and 零号攻略组, Akane Rin guide video, Bilibili, in Simplified Chinese (2026-10-15), 11:14](https://www.bilibili.com/video/BV1BeJC6qEAr/?t=674)
+[^3]: [叫我棉被 and 零号攻略组, Akane Rin guide video, Bilibili, in Simplified Chinese (2026-10-15), 11:19](https://www.bilibili.com/video/BV1BeJC6qEAr/?t=679)
+[^4]: [叫我棉被 and 零号攻略组, Akane Rin guide video, Bilibili, in Simplified Chinese (2026-10-15), 11:40](https://www.bilibili.com/video/BV1BeJC6qEAr/?t=700)
+[^5]: [叫我棉被 and 零号攻略组, Akane Rin guide video, Bilibili, in Simplified Chinese (2026-10-15), 2:09](https://www.bilibili.com/video/BV1BeJC6qEAr/?t=129)
+[^6]: [叫我棉被 and 零号攻略组, Akane Rin guide video, Bilibili, in Simplified Chinese (2026-10-15), 2:19](https://www.bilibili.com/video/BV1BeJC6qEAr/?t=139)
+[^7]: [叫我棉被 and 零号攻略组, Akane Rin guide video, Bilibili, in Simplified Chinese (2026-10-15), 2:30](https://www.bilibili.com/video/BV1BeJC6qEAr/?t=150)
+[^8]: [叫我棉被 and 零号攻略组, Akane Rin guide video, Bilibili, in Simplified Chinese (2026-10-15), 2:37](https://www.bilibili.com/video/BV1BeJC6qEAr/?t=157)
+[^9]: [叫我棉被 and 零号攻略组, Akane Rin guide video, Bilibili, in Simplified Chinese (2026-10-15), 2:48](https://www.bilibili.com/video/BV1BeJC6qEAr/?t=168)
+[^10]: [叫我棉被 and 零号攻略组, Akane Rin guide video, Bilibili, in Simplified Chinese (2026-10-15), 2:52](https://www.bilibili.com/video/BV1BeJC6qEAr/?t=172)
+[^11]: [叫我棉被 and 零号攻略组, Akane Rin guide video, Bilibili, in Simplified Chinese (2026-10-15), 3:01](https://www.bilibili.com/video/BV1BeJC6qEAr/?t=181)
+[^12]: [叫我棉被 and 零号攻略组, Akane Rin guide video, Bilibili, in Simplified Chinese (2026-10-15), 3:13](https://www.bilibili.com/video/BV1BeJC6qEAr/?t=193)
+[^13]: [叫我棉被 and 零号攻略组, Akane Rin guide video, Bilibili, in Simplified Chinese (2026-10-15), 0:52](https://www.bilibili.com/video/BV1BeJC6qEAr/?t=52)
+[^14]: [叫我棉被 and 零号攻略组, Akane Rin guide video, Bilibili, in Simplified Chinese (2026-10-15), 10:32](https://www.bilibili.com/video/BV1BeJC6qEAr/?t=632)
+[^15]: [叫我棉被 and 零号攻略组, Akane Rin guide video, Bilibili, in Simplified Chinese (2026-10-15), 10:43](https://www.bilibili.com/video/BV1BeJC6qEAr/?t=643)
+[^16]: [叫我棉被 and 零号攻略组, Akane Rin guide video, Bilibili, in Simplified Chinese (2026-10-15), 10:54](https://www.bilibili.com/video/BV1BeJC6qEAr/?t=654)
+[^17]: [叫我棉被 and 零号攻略组, Akane Rin guide video, Bilibili, in Simplified Chinese (2026-10-15), 10:59](https://www.bilibili.com/video/BV1BeJC6qEAr/?t=659)
+[^18]: [叫我棉被 and 零号攻略组, Akane Rin guide video, Bilibili, in Simplified Chinese (2026-10-15), 3:25](https://www.bilibili.com/video/BV1BeJC6qEAr/?t=205)
+[^19]: [叫我棉被 and 零号攻略组, Akane Rin guide video, Bilibili, in Simplified Chinese (2026-10-15), 3:35](https://www.bilibili.com/video/BV1BeJC6qEAr/?t=215)
+[^20]: [叫我棉被 and 零号攻略组, Akane Rin guide video, Bilibili, in Simplified Chinese (2026-10-15), 3:42](https://www.bilibili.com/video/BV1BeJC6qEAr/?t=222)
+[^21]: [叫我棉被 and 零号攻略组, Akane Rin guide video, Bilibili, in Simplified Chinese (2026-10-15), 9:10](https://www.bilibili.com/video/BV1BeJC6qEAr/?t=550)

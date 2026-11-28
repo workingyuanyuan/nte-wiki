@@ -37,7 +37,7 @@ sources:
     url: https://nte.perfectworld.com/kr/article/news/gamenews/20260929/264413.html
   - title: Prydwen 的哈尼婭角色頁面（技能、屬性、弧盤類型）
     url: https://www.prydwen.gg/neverness-to-everness/characters/haniel
-  - title: Game8 的哈尼婭配裝頁面（交叉查證技能與屬性）
+  - title: Game8 的哈尼婭配裝頁面（技能與屬性）
     url: https://game8.co/games/Neverness-to-Everness/archives/597761
   - title: nanoka.cc 遊戲資料 1.5.4，角色檔案（英文）
     url: https://static.nanoka.cc/nte/1.5.4/en/character/1020.json
@@ -47,6 +47,10 @@ sources:
     url: https://static.nanoka.cc/nte/1.5.4/ja/character/1020.json
   - title: nanoka.cc 遊戲資料 1.5.4，角色檔案（韓文）
     url: https://static.nanoka.cc/nte/1.5.4/ko/character/1020.json
+  - title: Game8，角色列表（常駐棋盤與限定棋盤）
+    url: https://game8.co/games/Neverness-to-Everness/archives/592067
+  - title: Prydwen，卡池頁面（常駐卡池）
+    url: https://www.prydwen.gg/neverness-to-everness/banners
   - title: Everness，時裝頁面（繁體中文，例：青春注腳，2026-11-23 讀取）
     url: https://everness.info/zh-Hant/cosmetics/Fashion_1020_1
 ---
@@ -67,7 +71,7 @@ Game8 將她的普通攻擊命名為「Genesse Technique」，Prydwen 則命名�
 
 ## 取得方式
 
-哈尼婭是與 [海月](/zh-tw/characters/aurelia/)、[翳](/zh-tw/characters/skia/) 共同輪駐限定棋盤的三名 A 級角色之一。Game8 亦將 A 級角色列於常駐棋盤中。
+哈尼婭是與 [海月](/zh-tw/characters/aurelia/)、[翳](/zh-tw/characters/skia/) 共同輪駐限定棋盤的三名 A 級角色之一。常駐棋盤中也有 A 級角色。
 
 | 限定棋盤 | S 級角色 | 開放期間 |
 | --- | --- | --- |

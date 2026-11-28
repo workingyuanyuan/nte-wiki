@@ -33,7 +33,7 @@ sources:
     url: https://nte.perfectworld.com/kr/main.html?nav=2&role=20
   - title: Prydwen, Lacrimosa character page (skills, attribute, Arc type)
     url: https://www.prydwen.gg/neverness-to-everness/characters/lacrimosa
-  - title: Game8, Lacrimosa build page (cross-check of skills and attribute)
+  - title: Game8, Lacrimosa build page (skills and attribute)
     url: https://game8.co/games/Neverness-to-Everness/archives/603843
   - title: nanoka.cc game data 1.5.4, character file in English
     url: https://static.nanoka.cc/nte/1.5.4/en/character/1004.json
@@ -43,6 +43,8 @@ sources:
     url: https://static.nanoka.cc/nte/1.5.4/ja/character/1004.json
   - title: nanoka.cc game data 1.5.4, character file in Korean
     url: https://static.nanoka.cc/nte/1.5.4/ko/character/1004.json
+  - title: 叫我棉被 and 零号攻略组, Lacrimosa guide video, Bilibili, in Simplified Chinese (2026-05-28)
+    url: https://www.bilibili.com/video/BV1BNGS6KEXm/
   - title: 'Everness, outfit pages in Traditional Chinese (example: Yesterday''s Melody, read 2026-11-23)'
     url: https://everness.info/zh-Hant/cosmetics/Fashion_1004_2
 ---
@@ -181,3 +183,58 @@ Inflicts Nightmare: 5 stacks at every level; CD: 30s at every level; Ultimate En
 | Parameter | Lv. 1 | Lv. 2 | Lv. 3 | Lv. 4 | Lv. 5 | Lv. 6 | Lv. 7 | Lv. 8 | Lv. 9 | Lv. 10 | Lv. 11 | Lv. 12 | Lv. 13 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | DMG Ratio | 200% | 216% | 233.3% | 251.9% | 272.1% | 293.9% | 317.4% | 342.8% | 370.2% | 399.8% | 431.8% | 466.3% | 503.6% |
+
+## Mechanics in detail
+
+- Flavor Variation is cast with the Aim key: switching to Tomato Percussion makes Lacrimosa leap back to keep her distance, and switching to Tomato Metal makes her dash in to close it.[^1]
+- The form does not change the moment the key is pressed: the switch is complete only when the icon at the bottom of the screen changes. In Beyond the Rails, the form cannot be switched before an enemy is encountered.[^2]
+- Tomato Metal attacks have a shorter recovery than Tomato Percussion attacks.[^3]
+- All five Tomato Metal hits take about 3.33 seconds; the first four Tomato Percussion hits take about 1.5 seconds.[^4]
+- The Melee Basic Attack Explosion does not occur reliably in combat.[^4]
+- Once the fourth Tomato Percussion hit has started, the rest of it plays out even if Lacrimosa dodges at once.[^5]
+- In both forms the first four hits deal 10 damage instances in all; the fifth hit deals 4 in Tomato Metal and 1 in Tomato Percussion.[^6]
+- Basic Attack Cycle Energy is 32 in both forms; 叫我棉被 and 零号攻略组 count 36 for a full Tomato Percussion combo and more Cycle Energy for Tomato Percussion than for Tomato Metal. Tomato Percussion also gains more Ultimate Energy.[^7]
+- Every damage instance applies its own Nightmare stack, which lasts 3 seconds; each stack deals damage once per second.[^8]
+- At 0 Awakenings, ordinary play does not go over the 10-stack limit.[^9]
+- By damage calculation, Nightmare makes up about a third of Lacrimosa's total damage.[^10]
+- Each time the enemy is healed, one of Lacrimosa's Nightmare stacks on it is removed.[^11] With Tempered Glass Judgment unlocked, healing no longer removes stacks.
+- Nightmare counts as one type of DoT for [Sakiri](/characters/sakiri/)'s Scorch enhancement, and Scorch counts as another, so a Scorched target with Nightmare takes 50% more DoT damage, a separate multiplier from other damage bonuses.[^12]
+- [Adler](/characters/adler/)'s DoT adds a third type, which raises that bonus to 75%.[^13]
+- To learn a technique with Devilish Inspiration, hold Basic Attack to aim and release it while a bat mark shows on the enemy.[^14]
+- On 2026-05-28, 46 enemy techniques could be learned.[^15]
+- A technique learned once stays learned, and the one Devilish Gift uses can then be chosen on the character screen without learning it again in combat.[^16]
+- Of the techniques that can be learned, the [Black Tome](/anomalies/black-tome/)'s has the highest multiplier, with a long recovery after it.[^17]
+- Devilish Gift with the Black Tome's technique has a multiplier of 1,885%.[^18]
+- Learned techniques cast through Devilish Gift scale with the Skill's level as well.[^19]
+- In testing, whichever enemy the technique comes from, it deals Chaos damage when Lacrimosa casts it.[^20]
+- After Morning Tomato, the follow-up into the fifth Basic Attack hit lasts through an Ultimate, a plunging attack, a dodge or two steps; in testing so far, it is lost only on leaving combat, on switching out, or after a second or two without a Basic Attack.[^21]
+- The five Basic Attacks that Sleep In counts start over if Lacrimosa is switched out partway.[^22]
+- In the open world, holding Dodge makes Lacrimosa take off and fly.[^23]
+- When Tempered Glass Judgment reduces the enemy's Max HP, its current HP falls in proportion.[^24]
+- The stacks from The Last Rose refresh their duration each time one is added, unlike Nightmare stacks.[^25]
+
+[^1]: [叫我棉被 and 零号攻略组, Lacrimosa guide video, Bilibili, in Simplified Chinese (2026-05-28), 2:35](https://www.bilibili.com/video/BV1BNGS6KEXm/?t=155)
+[^2]: [叫我棉被 and 零号攻略组, Lacrimosa guide video, Bilibili, in Simplified Chinese (2026-05-28), 13:53](https://www.bilibili.com/video/BV1BNGS6KEXm/?t=833)
+[^3]: [叫我棉被 and 零号攻略组, Lacrimosa guide video, Bilibili, in Simplified Chinese (2026-05-28), 2:51](https://www.bilibili.com/video/BV1BNGS6KEXm/?t=171)
+[^4]: [叫我棉被 and 零号攻略组, Lacrimosa guide video, Bilibili, in Simplified Chinese (2026-05-28), 14:27](https://www.bilibili.com/video/BV1BNGS6KEXm/?t=867)
+[^5]: [叫我棉被 and 零号攻略组, Lacrimosa guide video, Bilibili, in Simplified Chinese (2026-05-28), 14:44](https://www.bilibili.com/video/BV1BNGS6KEXm/?t=884)
+[^6]: [叫我棉被 and 零号攻略组, Lacrimosa guide video, Bilibili, in Simplified Chinese (2026-05-28), 14:52](https://www.bilibili.com/video/BV1BNGS6KEXm/?t=892)
+[^7]: [叫我棉被 and 零号攻略组, Lacrimosa guide video, Bilibili, in Simplified Chinese (2026-05-28), 15:14](https://www.bilibili.com/video/BV1BNGS6KEXm/?t=914)
+[^8]: [叫我棉被 and 零号攻略组, Lacrimosa guide video, Bilibili, in Simplified Chinese (2026-05-28), 14:08](https://www.bilibili.com/video/BV1BNGS6KEXm/?t=848)
+[^9]: [叫我棉被 and 零号攻略组, Lacrimosa guide video, Bilibili, in Simplified Chinese (2026-05-28), 3:13](https://www.bilibili.com/video/BV1BNGS6KEXm/?t=193)
+[^10]: [叫我棉被 and 零号攻略组, Lacrimosa guide video, Bilibili, in Simplified Chinese (2026-05-28), 3:19](https://www.bilibili.com/video/BV1BNGS6KEXm/?t=199)
+[^11]: [叫我棉被 and 零号攻略组, Lacrimosa guide video, Bilibili, in Simplified Chinese (2026-05-28), 3:27](https://www.bilibili.com/video/BV1BNGS6KEXm/?t=207)
+[^12]: [叫我棉被 and 零号攻略组, Lacrimosa guide video, Bilibili, in Simplified Chinese (2026-05-28), 6:42](https://www.bilibili.com/video/BV1BNGS6KEXm/?t=402)
+[^13]: [叫我棉被 and 零号攻略组, Lacrimosa guide video, Bilibili, in Simplified Chinese (2026-05-28), 8:51](https://www.bilibili.com/video/BV1BNGS6KEXm/?t=531)
+[^14]: [叫我棉被 and 零号攻略组, Lacrimosa guide video, Bilibili, in Simplified Chinese (2026-05-28), 0:47](https://www.bilibili.com/video/BV1BNGS6KEXm/?t=47)
+[^15]: [叫我棉被 and 零号攻略组, Lacrimosa guide video, Bilibili, in Simplified Chinese (2026-05-28), 0:15](https://www.bilibili.com/video/BV1BNGS6KEXm/?t=15)
+[^16]: [叫我棉被 and 零号攻略组, Lacrimosa guide video, Bilibili, in Simplified Chinese (2026-05-28), 1:12](https://www.bilibili.com/video/BV1BNGS6KEXm/?t=72)
+[^17]: [叫我棉被 and 零号攻略组, Lacrimosa guide video, Bilibili, in Simplified Chinese (2026-05-28), 1:27](https://www.bilibili.com/video/BV1BNGS6KEXm/?t=87)
+[^18]: [叫我棉被 and 零号攻略组, Lacrimosa guide video, Bilibili, in Simplified Chinese (2026-05-28), 5:21](https://www.bilibili.com/video/BV1BNGS6KEXm/?t=321)
+[^19]: [叫我棉被 and 零号攻略组, Lacrimosa guide video, Bilibili, in Simplified Chinese (2026-05-28), 5:14](https://www.bilibili.com/video/BV1BNGS6KEXm/?t=314)
+[^20]: [叫我棉被 and 零号攻略组, Lacrimosa guide video, Bilibili, in Simplified Chinese (2026-05-28), 16:02](https://www.bilibili.com/video/BV1BNGS6KEXm/?t=962)
+[^21]: [叫我棉被 and 零号攻略组, Lacrimosa guide video, Bilibili, in Simplified Chinese (2026-05-28), 15:41](https://www.bilibili.com/video/BV1BNGS6KEXm/?t=941)
+[^22]: [叫我棉被 and 零号攻略组, Lacrimosa guide video, Bilibili, in Simplified Chinese (2026-05-28), 2:01](https://www.bilibili.com/video/BV1BNGS6KEXm/?t=121)
+[^23]: [叫我棉被 and 零号攻略组, Lacrimosa guide video, Bilibili, in Simplified Chinese (2026-05-28), 0:25](https://www.bilibili.com/video/BV1BNGS6KEXm/?t=25)
+[^24]: [叫我棉被 and 零号攻略组, Lacrimosa guide video, Bilibili, in Simplified Chinese (2026-05-28), 12:51](https://www.bilibili.com/video/BV1BNGS6KEXm/?t=771)
+[^25]: [叫我棉被 and 零号攻略组, Lacrimosa guide video, Bilibili, in Simplified Chinese (2026-05-28), 4:05](https://www.bilibili.com/video/BV1BNGS6KEXm/?t=245)

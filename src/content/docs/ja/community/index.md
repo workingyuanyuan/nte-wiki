@@ -40,6 +40,17 @@ sources:
 
 - [編成](/ja/community/teams/)
 - [キャラクター育成](/ja/community/builds/)
+- [イェルム攻略](/ja/community/elyms/)
+- [明音凛攻略](/ja/community/akane-rin/)
+- [クロバネ攻略](/ja/community/blackbird/)
+- [リンコ攻略](/ja/community/linko/)
+- [残虹攻略](/ja/community/zankou/)
+- [イロヒ攻略](/ja/community/iroi/)
+- [カオス攻略](/ja/community/chaos/)
+- [レクイエム攻略](/ja/community/lacrimosa/)
+- [ナナリ攻略](/ja/community/nanally/)
+- [ちぃちゃん攻略](/ja/community/chiz/)
+- [Exe攻略](/ja/community/exe/)
 
 ## 出典
 
