@@ -24,6 +24,8 @@ sources:
     url: https://bbs.nga.cn/read.php?tid=46659382
   - title: GameWith, Break Gauge guide
     url: https://gamewith.net/nte/74130
+  - title: 零号攻略组, video on how Esper Cycles resolve, Bilibili, in Simplified Chinese (2026-06-25)
+    url: https://www.bilibili.com/video/BV1E97868EJ7/
 ---
 
 ## Damage
@@ -45,7 +47,7 @@ In Beyond the Rails an enemy's DEF is 540 + 6 × its level, so a level 80 charac
 
 Four characters carry the role tag "DoT" in the game data: [Adler](/characters/adler/), [Baicang](/characters/baicang/), [Lacrimosa](/characters/lacrimosa/) and [Zankou](/characters/zankou/). 零号攻略组 says only damage the game classes as DoT gains DoT bonuses such as [Sakiri](/characters/sakiri/)'s passive, and the role tag is the practical way to tell: a skill that hurts every second is not DoT by that alone.
 
-零号攻略组 adds that RES reduction on the enemy and RES ignore on the attacker add up, and that the game does not mark which effects are independent multipliers. The NGA analysis adds that Mental damage ignores DEF, that most enemies outside Beyond the Rails have 600 + 6 × level DEF, and that resistance above 60% follows a different, steeper curve.
+零号攻略组 adds that RES reduction on the enemy and RES ignore on the attacker add up, and that the game does not mark which effects are independent multipliers. The NGA analysis adds that Mental damage ignores DEF, that most enemies outside Beyond the Rails have 600 + 6 × level DEF, and that resistance above 60% follows a different, steeper curve. 零号攻略组 adds that Mental damage does not ignore RES: enemies have a Mental RES of their own, usually equal to their other resistances. [Fadia](/characters/fadia/)'s Mental damage takes DMG bonuses, General and Mental alike; Nova's does not, because no Esper Cycle reaction does.
 
 ## Break
 
@@ -70,7 +72,7 @@ Most Ultimates cost 100 or 120 Ultimate Energy (game data 1.5.4). [Hotori](/char
 
 Of the characters with a cost, Cosmos, Anima and Lakshana characters cost 100; Incantation, Chaos and Psyche characters cost 120, except Blackbird at 100.
 
-The NGA analysis gives how energy is shared: a hit fills 100% of its energy for the attacker and 60% for every other party member, whatever the party size, and both scale with Charge Efficiency. Energy from Charge and from Awakenings goes only to the character that triggers it and ignores Charge Efficiency.
+Each action has a fixed base energy, which attack, damage and crits do not change. A hit gives the attacker 100% of it and every other party member 60%, whatever the party size. Each character's Charge Efficiency raises only the energy that character gains. Energy from Charge goes only to the character that triggers it and ignores Charge Efficiency; the NGA analysis says the same of energy from Awakenings.
 
 ## Co-op and Pink Paws Heist
 
